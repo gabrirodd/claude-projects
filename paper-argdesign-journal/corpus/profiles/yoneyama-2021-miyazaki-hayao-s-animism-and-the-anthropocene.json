@@ -1,0 +1,75 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "yoneyama_2021",
+  "title": "Miyazaki Hayao's Animism and the Anthropocene",
+  "author": "Yoneyama",
+  "year": 2021,
+  "journal": "Theory, Culture & Society",
+
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "The paper opens from Amitav Ghosh's diagnosis of a 'crisis of imagination' blocking genuine response to the climate crisis. The puzzle: we need alternative stories and ontologies, but existing frameworks (classical animism, new animism) fail to provide accessible ones for modern global audiences. Miyazaki's animated films are proposed as filling this gap — offering a 'critical animism' formed from within modernity as a critique of modernity.",
+    "anchored_in": ["Ghosh", "Haraway", "Bird-David", "Tylor"],
+    "stakes_claimed": "Miyazaki's 'critical animism' is not just cultural resource but a potential paradigm-disrupting philosophy for the social sciences in the Anthropocene, challenging the foundational tripod of anthropocentrism, secularism, and Eurocentrism that underlies both the social sciences and dominant Anthropocene discourse."
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["Tylor (classical animism)", "Bird-David / Harvey (new animism)", "Hamilton et al. (Anthropocene discourse)"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": false,
+    "own_position_type": "framework_construction",
+    "own_position_explicit": true,
+    "description": "The paper distinguishes three positions: (1) classical animism (Tylor) — appropriates animism within Eurocentric evolutionary framework; (2) new animism (Bird-David, Harvey) — revalues animism but remains trapped in Eurocentric academic translation, confined to hunter-gatherer cases, absent from contemporary Asia; (3) critical animism (Miyazaki/Yoneyama) — animism formed within modernity as critique of modernity, non-dualistic, place-based, globally accessible through popular culture. The paper also positions critical animism against the scientism of dominant Anthropocene discourse. Braidotti's posthumanism is noted as partially resonant but not central."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_interpretive_case",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": "Close reading of Miyazaki's animated films (Spirited Away, Nausicaä, Princess Mononoke, My Neighbour Totoro, Ponyo), manga volumes, published interviews and collected writings (Miyazaki 1996, 2008a, 2013). Historical contextualisation of Shinto nationalism vs. folk animism in Japan; biographical narrative of Miyazaki's animism emerging from Minamata context.",
+    "data_sources": ["Miyazaki's films: Spirited Away (2001), Nausicaä (1984), Princess Mononoke (1997), My Neighbour Totoro (1988), Ponyo (2008)", "Miyazaki's manga Nausicaä (volumes 1-2)", "Miyazaki's published writings and interviews (Starting Point, Turning Point)", "Minamata disease history"],
+    "interpretive_methods": "Philosophical reading of animated film as articulation of an alternative ontology/epistemology; comparative conceptual analysis of animism types; genealogical account of critical animism's emergence from Minamata context; reading of specific film scenes and character dialogue as expressions of philosophical positions.",
+    "notes": "The film/manga material is interpretive case, not empirical evidence in the social-scientific sense. Miyazaki's films are read as philosophical texts expressing a coherent ontology (critical animism) that the paper theorizes. This is normative_with_interpretive_case: the films are the lens through which the conceptual argument about paradigm alternatives for the social sciences in the Anthropocene is developed. The case is generative — the concept of 'critical animism' is built from the film analysis rather than being pre-established and merely illustrated."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "film",
+    "case_name": "Miyazaki Hayao's animated films (Studio Ghibli), especially Nausicaä of the Valley of the Wind and Princess Mononoke",
+    "case_function": "generative",
+    "case_relation_to_argument": "constitutive_of_framework",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "Anthropocene / social scientific paradigm / animism / environmental ontology",
+    "claim_type": "reconstructive_prescriptive",
+    "closure_type": "research_agenda"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "immanent_critique",
+    "case_introduction",
+    "case_development",
+    "conceptual_distinction",
+    "normative_derivation",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["critical animism", "new animism", "crisis of imagination", "foundational tripod (anthropocentrism/secularism/Eurocentrism)", "non-dualism", "place-based spirituality", "tamashii", "paradigm disruption"],
+
+  "thinkers_deployed": {
+    "central": ["Miyazaki Hayao", "Bird-David", "Ghosh", "Haraway"],
+    "engaged_critically": ["Tylor", "Harvey (new animism)", "Hamilton et al. (Anthropocene)", "Hornborg"],
+    "referenced_only": ["Latour", "Descola", "Viveiros de Castro", "Ingold", "Braidotti", "Chakrabarty", "Plumwood", "Weber"]
+  },
+
+  "confidence_notes": "The epistemic mode is normative_with_interpretive_case: Miyazaki's films constitute the analytical case through which the concept of 'critical animism' is built and the argument for paradigm disruption in the social sciences is developed. However, unlike ungureanu-2023 (which uses a single film to adjudicate between philosophical rivals), yoneyama-2021 uses a body of films and associated writings as a source of philosophical ontology rather than as a test case for competing positions. The immanent_critique targets new animism specifically (three weaknesses: confinement to hunter-gatherer cases, residual Eurocentrism of ethnographic method, absence of contemporary Asia). The normative stake is high but the closure_type is research_agenda because the conclusion is programmatic — calling for social scientists to develop 'critical animism' as a conceptual resource. The reflexive_move is absent: the paper does not reflect on the limits of its own approach to film as philosophical source. The case_function is 'generative' because the three-component structure of critical animism (nature as agency, place-based local heritage, negation of dualism) is derived from reading Miyazaki's texts, not imported from an external framework."
+}

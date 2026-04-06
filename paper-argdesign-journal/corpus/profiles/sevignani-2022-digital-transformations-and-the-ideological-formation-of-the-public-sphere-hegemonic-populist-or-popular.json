@@ -1,0 +1,73 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "sevignani_2022",
+  "title": "Digital Transformations and the Ideological Formation of the Public Sphere: Hegemonic, Populist, or Popular Communication?",
+  "author": "Sevignani",
+  "year": 2022,
+  "journal": "Theory, Culture & Society",
+
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "The paper opens by diagnosing a transformation: digital media have dis-intermediated the mass media gatekeeper paradigm and re-intermediated it via commercial social media platforms. The puzzle is: does this transformation produce more democratic communication (the optimistic view) or erode the epistemic conditions for democratic opinion formation (the pessimistic view)? The paper proposes a theoretical framework to adjudicate between these positions.",
+    "anchored_in": ["Habermas", "Castells", "Negt and Kluge", "Gramsci"],
+    "stakes_claimed": "The digital transformation of the public sphere intensifies populist communication flows at the expense of both hegemonic and popular communication, threatening democratic learning processes and the communicative competences of citizens."
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["Habermas", "Laclau and Mouffe", "Bimber", "Gerbaudo"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": false,
+    "own_position_type": "framework_construction",
+    "own_position_explicit": true,
+    "description": "The paper synthesizes Gramscian hegemony theory, Negt and Kluge's proletarian public sphere theory, ideology critique (Haug, Rehmann), critical subject theory (Holzkamp), and Habermasian multi-level public sphere theory into a novel 'theory of the ideological public sphere'. It contrasts this with post-Marxist discourse theory (Laclau-Mouffe), accepting their critique of economistic class identity while rejecting their abandonment of reference to social structure. The paper explicitly positions itself against both optimistic digital democracy accounts and purely pessimistic filter-bubble narratives."
+  },
+
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "Conceptual synthesis and immanent theoretical construction. The paper builds its framework by systematically combining and extending multiple theoretical traditions. Brief empirical illustrations are used (Piketty news coverage study, Fox News/Breitbart example, Twitter/Trump case) but serve only as examples within a conceptual argument, not as evidence for it.",
+    "notes": "Despite the paper's Section III ('The Digital Transformation of the Public Sphere') which discusses empirical phenomena (filter bubbles, echo chambers, algorithmic recommendation), all claims are made from within the conceptual framework constructed in Sections I and II. No original empirical research is conducted. References to empirical studies (Stark et al., Gerbaudo, Moffitt) are illustrative of a prior theoretical point, not constitutive of the argument. The epistemic mode is fully_normative."
+  },
+
+  "case_type": {
+    "has_case": false,
+    "case_medium": "none",
+    "case_name": null,
+    "case_function": "none",
+    "case_relation_to_argument": "none",
+    "case_selection_justified": false
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "democratic theory / public sphere / ideology critique",
+    "claim_type": "critical_diagnostic",
+    "closure_type": "open_ended_with_burden_on_reader"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "framework_proposal",
+    "conceptual_distinction",
+    "normative_derivation",
+    "rival_mapping",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["ideological public sphere", "hegemonic communication", "populist communication", "popular communication", "communicative subalternity", "antagonistic media", "bourgeois public sphere", "communicative competences"],
+
+  "thinkers_deployed": {
+    "central": ["Gramsci", "Habermas", "Negt and Kluge", "Haug", "Holzkamp"],
+    "engaged_critically": ["Laclau and Mouffe", "Hall", "Gerbaudo"],
+    "referenced_only": ["Fraser", "Castells", "Zuboff", "Mouffe", "Dean", "Dewey", "Althusser", "Boltanski and Chiapello", "Fuchs"]
+  },
+
+  "confidence_notes": "This paper is part of the same special issue as seeliger-sevignani-2022 (Sevignani is co-editor). It makes a more sustained original theoretical argument than the introduction: the three-way distinction between hegemonic/populist/popular communication flows is the paper's core contribution, built on the four-level model of the ideological public sphere (common sense → antagonistic media → mass media → bourgeois public sphere). The epistemic mode is fully_normative: the brief empirical illustrations in Section III (Fox News, Trump Twitter ban, Piketty coverage study) are cited in passing as examples supporting conceptual claims, not as evidence examined to generate them. The move_sequence is: puzzle_diagnosis (digital dis/re-intermediation as ambivalent) → framework_proposal (four-level ideological public sphere) → conceptual_distinction (hegemonic vs. populist vs. popular communication flows, with Holzkamp-based learning theory) → normative_derivation (popular communication as the democratic ideal) → rival_mapping (critique of post-Marxist discourse theory and actor-centred populism studies) → conclusion_open (challenge to strengthen popular communication in digital age). The normative stake is high: the paper makes prescriptive claims about what democratic communication requires and diagnoses the current digital transformation as falling short of the popular communication ideal."
+}

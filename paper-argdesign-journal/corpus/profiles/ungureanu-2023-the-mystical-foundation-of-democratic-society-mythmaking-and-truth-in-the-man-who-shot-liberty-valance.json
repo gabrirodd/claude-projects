@@ -1,0 +1,76 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "ungureanu_2023",
+  "title": "The Mystical Foundation of Democratic Society, Mythmaking and Truth in The Man Who Shot Liberty Valance (John Ford 1962)",
+  "author": "Ungureanu",
+  "year": 2023,
+  "journal": "Philosophy and Social Criticism",
+
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "The paper opens by positioning itself within the revival of interest in film as philosophical medium, then diagnosing the need for a 'middle way' between democratic progressivism (Habermas) and deconstruction (Derrida) on the question of the aporetic foundation of democratic authority. The film The Man Who Shot Liberty Valance is introduced as a resource for thinking through this impasse.",
+    "anchored_in": ["Habermas", "Derrida", "Pippin", "Arendt"],
+    "stakes_claimed": "A 'politics of truth' — genuine connection between political life, personal life, and truth-telling — is both possible and necessary for democratic legitimacy. Myths and narratives built on lies (like Stoddard's legend) produce 'damaged life' and kleptocratic democracy. Ford's film is a cautionary parable about the consequences of decoupling democracy from truth."
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["Habermas", "Derrida", "Pippin"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": true,
+    "own_position_type": "synthesis",
+    "own_position_explicit": true,
+    "description": "The paper constructs a 'middle-way critical Enlightenment perspective' through immanent critique of both Habermas (whose democratic progressivism is too teleological and obfuscates the violence of foundation) and Derrida (whose hyperbolic deconstruction dissolves into endless aporia without affirmative content). It engages specifically with Pippin's reading of the film as anti-Enlightenment rationalism, arguing against this that Ford's film actually calls for a politics of truth. The film analysis both demonstrates the limitations of the rival positions and grounds the author's own synthesis."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_interpretive_case",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": "Close cinematic reading of The Man Who Shot Liberty Valance (dir. John Ford, 1962): scene-by-scene analysis of the film's narrative arc, character symbolism (Stoddard, Doniphon, Hallie, Pompey, Scott/Peabody), visual composition (images of Doniphon's coffin with cactus rose), dialogue, and structural devices (flashback frame narrative). Direct engagement with film stills.",
+    "data_sources": ["The Man Who Shot Liberty Valance (dir. John Ford, 1962)"],
+    "interpretive_methods": "Philosophical hermeneutics: reading the film as a parable of democratic theory, treating its narrative structure as an argument about the relationship between law, violence, myth and truth. Cross-reading of film interpretation with political philosophy (Habermas, Derrida, Pippin).",
+    "notes": "This is the canonical normative_with_interpretive_case paper in the corpus. The film is not mere illustration of a pre-established philosophical argument — the close reading of Ford generates the specific insight about the 'politics of truth' that distinguishes Ungureanu's position from both Pippin and from standard Habermasian and Derridean readings. The immanent critique of Pippin's reading is the argumentative crux: Ungureanu argues Ford's film does NOT counsel replacing truth with myth (Pippin's reading), but rather demonstrates the personal and political damage of doing so. The film analysis is constitutive of this counter-reading."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "film",
+    "case_name": "The Man Who Shot Liberty Valance (dir. John Ford, 1962)",
+    "case_function": "generative",
+    "case_relation_to_argument": "constitutive_of_framework",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "democratic theory / political philosophy / foundations",
+    "claim_type": "reconstructive_prescriptive",
+    "closure_type": "conclusion_with_qualification"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "immanent_critique",
+    "case_introduction",
+    "case_development",
+    "case_interpretation",
+    "counter_objection_response",
+    "meta_reflexive_qualification",
+    "conclusion_strong"
+  ],
+
+  "reflexive_move": true,
+
+  "key_concepts": ["mystical foundation", "politics of truth", "democratic progressivism", "aporetic foundation", "manufactured consent", "damaged life", "silent foundation", "living in truth"],
+
+  "thinkers_deployed": {
+    "central": ["Habermas", "Derrida", "Pippin"],
+    "engaged_critically": ["Habermas", "Derrida", "Pippin"],
+    "referenced_only": ["Arendt", "Honig", "Michelman", "Schmitt", "Ferrara", "Mulhall", "Nussbaum", "Rancière", "Lakoff"]
+  },
+
+  "confidence_notes": "This is one of the most clearly typed papers in the corpus: a philosophical paper using a film as an interpretive case to adjudicate between rival positions in democratic theory. The reflexive_move is true because the conclusion explicitly acknowledges the film's own blind spots and mythologizing tendencies — Ford underplays collective democratic agency, relies on gendered individual heroism, and the 'ideal' figure of Doniphon is itself a myth. The counter_objection_response targets specifically Pippin's reading of the film as anti-Enlightenment: Ungureanu argues this misreads Ford by ignoring what the film shows about the consequences of the legend (the 'almost dead' Shinbone, Stoddard's melancholy, Pompey's continued exclusion). The meta_reflexive_qualification is the conclusion's discussion of Ford's own blind spots. The normative stake is high and prescriptive: the paper concludes that democratic politics requires genuine truth-telling, not myth-fabrication. This paper is published in Philosophy and Social Criticism rather than Theory, Culture & Society — a minor difference in venue worth noting. Year of online publication 2023, volume publication 2025."
+}

@@ -1,0 +1,72 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "seeliger-sevignani_2022",
+  "title": "A New Structural Transformation of the Public Sphere? An Introduction",
+  "author": "Seeliger, Sevignani",
+  "year": 2022,
+  "journal": "Theory, Culture & Society",
+
+  "opening_move": {
+    "type": "reconstructive_diagnosis",
+    "description": "The paper opens by summarizing Habermas's structural transformation thesis and immediately framing the question of whether a third structural transformation is currently underway — positioning digitalization, commodification, and globalization as the three axes of transformation. As a special issue introduction, its primary function is orienting readers to the terrain rather than making an original argument.",
+    "anchored_in": ["Habermas", "Fraser", "Rosanvallon", "Neidhardt"],
+    "stakes_claimed": "Democratic legitimacy depends on functioning public spheres, and the current transformations along three dimensions (digitalization, commodification, globalization) may constitute a third structural transformation with serious consequences for democracy."
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["Habermas", "Luhmann", "Mouffe"],
+    "engagement_structure": "friendly_amendment",
+    "immanent_critique": false,
+    "own_position_type": "internal_reconstruction",
+    "own_position_explicit": false,
+    "description": "The paper is a reconstructive introduction to the Habermasian public sphere framework, extending it to address current transformations rather than critiquing it; it remains within the deliberative democracy tradition while acknowledging its internal tensions."
+  },
+
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "Systematic reconstruction of Habermas's public sphere theory combined with a typological mapping of current transformations (Table 1 and Table 2) and framing of the special issue contributions.",
+    "notes": "This is a special issue introduction — a genre that synthesizes and frames rather than argues. Its epistemic mode is fully_normative in the sense that all claims are conceptual and normative (what the public sphere requires for democratic legitimacy, how current trends threaten it) rather than empirical. The two tables serve as typological tools, not empirical findings."
+  },
+
+  "case_type": {
+    "has_case": false,
+    "case_medium": "none",
+    "case_name": null,
+    "case_function": "none",
+    "case_relation_to_argument": "none",
+    "case_selection_justified": false
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "democratic theory / public sphere / deliberative democracy",
+    "claim_type": "critical_diagnostic",
+    "closure_type": "research_agenda"
+  },
+
+  "move_sequence": [
+    "genealogical_reconstruction",
+    "conceptual_distinction",
+    "framework_proposal",
+    "puzzle_diagnosis",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["third structural transformation", "public sphere", "digitalization", "commodification", "globalization", "deliberative democracy"],
+
+  "thinkers_deployed": {
+    "central": ["Habermas", "Fraser", "Neidhardt", "Rosanvallon"],
+    "engaged_critically": ["Luhmann", "Mouffe"],
+    "referenced_only": ["Arendt", "Mill", "Scharpf", "Crouch", "Streeck", "Brown", "Dean", "Dewey"]
+  },
+
+  "confidence_notes": "This is a special issue introduction, which is a distinct genre from a regular research article. Its argumentative structure is primarily expository and organizing rather than argumentative in the usual sense. The 'framework_proposal' is really the extension of Habermas's framework to a third transformation. The move_sequence reflects this genre: genealogical_reconstruction of Habermas, conceptual_distinction of democracy models, framework_proposal of the three-axis transformation, puzzle_diagnosis applied to each axis, conclusion_open in the form of research agenda for the special issue. The opening_move type 'reconstructive_diagnosis' is the best fit, though the paper is oriented by normative concerns about democracy more than by an anomaly or gap. Normative stake is high because the paper explicitly argues democratic legitimacy depends on the public sphere and the current transformations threaten it."
+}

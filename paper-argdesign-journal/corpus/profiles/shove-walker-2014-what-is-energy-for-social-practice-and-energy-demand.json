@@ -1,0 +1,73 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "shove_walker_2014",
+  "title": "What Is Energy For? Social Practice and Energy Demand",
+  "author": "Shove, Walker",
+  "year": 2014,
+  "journal": "Theory, Culture & Society",
+
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "The paper opens by diagnosing a conceptual absence: despite vast social-scientific literature on energy-society relations, the fundamental question 'what is energy for?' is systematically evaded. Dominant approaches treat energy as a generic resource-base shaped by or shaping intersecting systems (technological, economic, political), and never ask what the energy is actually doing in social life. The paper proposes a practice-theoretical alternative.",
+    "anchored_in": ["White", "Urry", "Schatzki", "Giddens"],
+    "stakes_claimed": "Energy policy and climate change responses are systematically flawed because they treat current practices as fixed benchmarks rather than engaging with the dynamics of practice on which demand depends. Only a practice-theoretical reframing can address demand change on the required scale."
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["White", "Nye", "Urry", "Geels"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": false,
+    "own_position_type": "framework_construction",
+    "own_position_explicit": true,
+    "description": "The paper contrasts two broad paradigms: (1) energy-as-resource-base, in which energy supply/demand are outcomes or drivers of intersecting systems (technology, economy, politics); and (2) energy-as-ingredient-of-practice, in which energy is immersed in and constituted by bundles and constellations of social practice. The paper builds its alternative by systematically applying Schatzki's practice ontology — particularly the practice-arrangement nexus and material prefiguring — to the energy domain. It engages critically with both techno-determinist (White) and socio-constructivist (Nye, Geels) traditions, arguing both remain within the systems paradigm."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_qualitative_empirical",
+    "secondary": null,
+    "empirical_evidence_present": true,
+    "empirical_evidence_role": "illustrative",
+    "quantitative_methods": null,
+    "qualitative_methods": "Policy document analysis (UK Pathways to 2050, IEA Saving Electricity in a Hurry); historical examples (Hughes on electricity networks, Nye on blackouts, automobility complex).",
+    "data_sources": ["UK DECC Pathways to 2050 (2010)", "IEA Saving Electricity in a Hurry (2005/2011)", "Hughes (1983) on electricity systems", "Nye (2010) on blackouts"],
+    "interpretive_methods": "Theoretical critique of policy documents via practice theory lens; illustration of practice-theoretic claims through historical and contemporary examples of energy-practice entanglement.",
+    "notes": "The empirical material (policy documents, historical cases) is illustrative — it demonstrates consequences of the dominant paradigm and shows what a practice lens would differently illuminate. The argument is primarily theoretical: the core move is the ontological reframing of energy from resource to ingredient of practice. The normative stake is high (policy should engage with practice dynamics); the epistemic mode is normative_with_qualitative_empirical with illustrative evidence. The paper is positioned explicitly as theory paper (Theory, Culture & Society special issue on Energy & Society) making a meta-level argument about how the field should be structured."
+  },
+
+  "case_type": {
+    "has_case": false,
+    "case_medium": "none",
+    "case_name": null,
+    "case_function": "none",
+    "case_relation_to_argument": "none",
+    "case_selection_justified": false
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "energy policy / social theory / sustainability",
+    "claim_type": "reconstructive_prescriptive",
+    "closure_type": "research_agenda"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "framework_proposal",
+    "immanent_critique",
+    "normative_derivation",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["energy as ingredient of practice", "practice-arrangement nexus", "bundles and complexes of practice", "material prefiguring", "what energy is for", "dynamics of demand"],
+
+  "thinkers_deployed": {
+    "central": ["Schatzki", "Hughes"],
+    "engaged_critically": ["White", "Nye", "Urry", "Geels"],
+    "referenced_only": ["Giddens", "Latour", "Warde", "Shove et al.", "Jasanoff and Kim"]
+  },
+
+  "confidence_notes": "The epistemic mode is normative_with_qualitative_empirical rather than fully_normative because the policy document analysis (Pathways to 2050 hot-water and consumer electronics scenarios) constitutes a focused critique of real policy texts — it is more than purely illustrative conceptual work, though it stops short of being constitutive evidence. The paper uses these documents to demonstrate a specific structural feature of dominant approaches (fixing current practice as benchmark) rather than generating the theoretical argument from them. The immanent_critique move targets dominant energy-society approaches from within their own concern with social explanation of energy demand. The normative stake is high because the paper concludes that climate change policy requires fundamental reorientation around practice dynamics — a prescriptive claim about policy direction, not merely a theoretical suggestion. The closure_type is research_agenda because the paper concludes by outlining the DEMAND research centre's three-proposition programme, explicitly framing the paper as initiating a new research direction."
+}

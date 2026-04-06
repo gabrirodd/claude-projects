@@ -1,0 +1,74 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "smith_burrows_2021",
+  "title": "Software, Sovereignty and the Post-Neoliberal Politics of Exit",
+  "author": "Smith, Burrows",
+  "year": 2021,
+  "journal": "Theory, Culture & Society",
+
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "The paper opens by situating neoreactionary (NRx) thought within the broader post-neoliberal conjuncture — identifying a gap: despite growing scholarship on post-neoliberalism and on alt-right politics separately, there has been insufficient attention to how NRx philosophies translate into concrete socio-technical architectures. Urbit and seasteading are identified as material instantiations of exit-based political philosophy that have been undertheorized.",
+    "anchored_in": ["Gilroy", "Bratton", "Hirschman", "Davidson and Rees-Mogg"],
+    "stakes_claimed": "NRx architectures of exit are not merely speculative; they are materially inscribed in digital platforms, capital flows, and political imaginaries that are reshaping the post-neoliberal horizon and moving the Overton Window rightward."
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["Bratton", "Amoore", "Hirschman"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": false,
+    "own_position_type": "critical_diagnostic",
+    "own_position_explicit": true,
+    "description": "The paper positions itself as a critical examination of NRx political philosophy and its technical instantiations. It draws on STS-inflected discourse analysis, political economy, and ideology critique to analyze how computationalist ontologies (Yarvin/Moldbug, Land) produce 'architectures of exit' — particularly Urbit and seasteading. The paper is explicitly critical of NRx from a progressive-democratic standpoint, without advocating a specific alternative framework."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_qualitative_empirical",
+    "secondary": null,
+    "empirical_evidence_present": true,
+    "empirical_evidence_role": "constitutive",
+    "quantitative_methods": null,
+    "qualitative_methods": "Discourse analysis of NRx primary texts (Yarvin/Moldbug blog posts, Land essays, Thiel writings); technical analysis of Urbit's architecture documents, constitution, and address hierarchy; analysis of funding relationships and capital flows; discourse analysis of seasteading movement documents.",
+    "data_sources": ["Yarvin/Moldbug blog Unqualified Reservations", "Land's Dark Enlightenment (2012)", "Thiel (2009) Cato Unbound essay", "Urbit technical documentation and constitution", "The Seasteading Institute", "Davidson and Rees-Mogg (1997) The Sovereign Individual"],
+    "interpretive_methods": "Genealogical reconstruction of NRx intellectual lineage; political-economy analysis of Thiel-funded ecosystem; ideology critique of computationalist ontology; hyperstition analysis (NRx's own term) as analytical lens.",
+    "notes": "The empirical evidence (primary texts, technical documentation, funding relationships) is constitutive — the argument about how NRx architectures of exit work depends on detailed analysis of Urbit's actual technical structure (galaxy/star/planet hierarchy, Azimuth identity layer, Kelvin versioning). The paper could not make its core argument (that Urbit instantiates NRx philosophy in hardware/software) without this technical evidence. However, the overall orientation is critical-normative: the analysis is deployed in service of a diagnostic argument about post-neoliberal political imaginaries."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "digital_platform",
+    "case_name": "Urbit (with seasteading as secondary case)",
+    "case_function": "test_case_for_framework",
+    "case_relation_to_argument": "constitutive_of_framework",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "medium",
+    "domain": "democratic theory / political technology / post-neoliberalism",
+    "claim_type": "critical_diagnostic",
+    "closure_type": "open_ended_with_burden_on_reader"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "genealogical_reconstruction",
+    "case_introduction",
+    "case_development",
+    "case_interpretation",
+    "normative_derivation",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": true,
+
+  "key_concepts": ["neoreaction (NRx)", "architecture of exit", "hyperstition", "redecentralization", "gov-corp", "dynamic geographies", "computationalist ontology", "Dark Enlightenment"],
+
+  "thinkers_deployed": {
+    "central": ["Yarvin/Moldbug", "Land", "Hirschman", "Gilroy"],
+    "engaged_critically": ["Thiel", "Friedman (Patri)", "Davidson and Rees-Mogg"],
+    "referenced_only": ["Bratton", "Amoore", "Mouffe", "Gramsci", "Althusser", "Sandifer", "Nagle"]
+  },
+
+  "confidence_notes": "The reflexive_move is true because the paper explicitly reflects on the methodological difficulty of engaging with NRx material — the danger of taking fascist ideas more seriously than their adherents do (Gilroy), the difficulty of engaging with material that exists primarily in online blog form 'outwith the usual protocols and stylistics of the academy'. The normative stake is medium rather than high because the paper's critical conclusions are implied rather than explicitly prescriptive — it concludes by noting the need to 'keep attending to' NRx architectures and their mainstreaming effects, but does not prescribe alternatives. The case_function is 'test_case_for_framework' but also 'constitutive_of_framework': the analysis of Urbit is both the paper's primary analytical object and the ground from which its theoretical claims about NRx architectures of exit are made. The epistemic mode is normative_with_qualitative_empirical rather than purely normative because the technical analysis of Urbit's actual design (galaxy hierarchy, address space distribution, Kelvin versioning) does genuine evidential work — it demonstrates that the 'redecentralization' rhetoric conceals concentrated property ownership, which is a constitutive empirical finding."
+}

@@ -1,0 +1,82 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "moran_2025",
+  "title": "Love Makes Robots Human: Loveability and the Politics of Liveliness",
+  "author": "Moran",
+  "year": 2025,
+  "journal": "Theory, Culture & Society",
+
+  "opening_move": {
+    "type": "normative_puzzle",
+    "description": "The paper opens with the puzzle of why some people advocate for the 'rights' of non-living robots while many humans and animals remain killable — diagnosing this as a misallocation of moral concern produced by normative loveability within Western coloniality.",
+    "anchored_in": ["Wynter", "Fanon", "Berlant", "Ahmed"],
+    "stakes_claimed": "Failing to understand loveability's role in the hierarchy of liveliness risks politically misdirecting empathy toward commodities and away from living beings who are actually dispossessed."
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["Gunkel", "Coeckelbergh", "Darling", "Brooks (Victoria)", "Levy"],
+    "engagement_structure": "sustained_critique",
+    "immanent_critique": false,
+    "own_position_type": "external_alternative",
+    "own_position_explicit": true,
+    "description": "The paper argues against relational framings of robot rights (Gunkel, Coeckelbergh, Darling) and sex robot advocacy by showing how these reproduce colonial love-plots; it proposes instead a decolonial reading of narrative-encoding via Wynter's autopoiesis framework."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_interpretive_case",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "Genealogical narrative analysis (Wynter's autopoiesis as method); close reading of three robots — Samantha (Tropic Gynoid), Kismet (sociable robot), BINA48 (transhumanist cyborg) — as sites of narrative-encoded loveability; cultural history of robot design decisions traced to colonial love-plots.",
+    "notes": "The three robots are interpretive objects, not empirical case studies: the analysis reads the narratives encoding them rather than studying user behaviour or design processes empirically. The argument is normative throughout — concluding that we must resist misdirected empathy toward loveable non-living commodities."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "historical_event",
+    "case_name": "Samantha (sex doll AI), Kismet (MIT sociable robot), BINA48 (Terasem transhumanist robot)",
+    "case_function": "parable_for_theory",
+    "case_relation_to_argument": "illustrative_and_generative",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "justice / colonial politics of life / tech ethics",
+    "claim_type": "critical_diagnostic",
+    "closure_type": "strong_normative_conclusion"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "framework_proposal",
+    "case_introduction",
+    "case_development",
+    "case_interpretation",
+    "case_introduction",
+    "case_development",
+    "case_interpretation",
+    "case_introduction",
+    "case_development",
+    "case_interpretation",
+    "rival_mapping",
+    "immanent_critique",
+    "normative_derivation",
+    "conclusion_strong"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["loveability", "liveliness hierarchy", "narrative-encoding", "autopoiesis", "love-plot", "Western coloniality"],
+
+  "thinkers_deployed": {
+    "central": ["Wynter", "Fanon", "Berlant", "Ahmed"],
+    "engaged_critically": ["Gunkel", "Coeckelbergh", "Darling", "Sweeney", "Brooks (Victoria)"],
+    "referenced_only": ["Breazeal", "Heidegger", "Barthes", "Atanasoski and Vora", "Povinelli", "MacKinnon", "de Beauvoir", "Gebru and Torres"]
+  },
+
+  "confidence_notes": "The three-robot structure makes the move sequence unusually long and repetitive — each robot constitutes its own case_introduction/development/interpretation cycle. The rival_mapping and immanent_critique come late (in the robot rights section), making this an unusual variant where case analysis precedes rival engagement. Epistemic mode is clearly normative_with_interpretive_case: the robots are read as cultural texts/symptoms, not studied as empirical objects. The normative stake is high and explicit: the conclusion calls for resistance to misdirected moral concern."
+}

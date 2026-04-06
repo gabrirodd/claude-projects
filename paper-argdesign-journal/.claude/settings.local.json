@@ -10,7 +10,15 @@
       "Bash(.venv/bin/python scripts/analyse_paper.py --paper baier-2023-narratives-of-post-truth-lyotard-and-the-epistemic-fragmentation-of-society --validate-only)",
       "Bash(python scripts/analyse_paper.py --paper mackenzie-munster-2019-platform-seeing-image-ensembles-and-their-invisualities)",
       "Bash(python scripts/analyse_paper.py --paper mignolo-2010-epistemic-disobedience-independent-thought-and-decolonial-freedom)",
-      "Read(//tmp/**)"
+      "Read(//tmp/**)",
+      "Bash(python scripts/analyse_paper.py --paper moran-2025-love-makes-robots-human-loveability-and-the-politics-of-liveliness)",
+      "Bash(python scripts/analyse_paper.py --paper nachtwey-seidl-2023-the-solutionist-ethic-and-the-spirit-of-digital-capitalism)",
+      "Bash(python scripts/analyse_paper.py --paper osborne-rose-2023-against-posthumanism-notes-towards-an-ethopolitics-of-personhood)",
+      "Bash(python scripts/analyse_paper.py --paper schwarz-2025-the-post-choice-society-algorithmic-prediction-and-the-decentring-of-choice)",
+      "Bash(python scripts/analyse_paper.py --paper seeliger-sevignani-2022-a-new-structural-transformation-of-the-public-sphere-an-introduction)",
+      "Bash(python scripts/analyse_paper.py --paper \"serafini-2024-art-extractivism-and-the-ontological-shift-toward-a-\\(post\\)extractivist-aesthetics\")",
+      "Bash(ls corpus/profiles/*.json)",
+      "Bash(ls corpus/texts/*.txt)"
     ]
   }
 }

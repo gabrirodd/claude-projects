@@ -1,0 +1,73 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "staab_thiel_2022",
+  "title": "Social Media and the Digital Structural Transformation of the Public Sphere",
+  "author": "Staab, Thiel",
+  "year": 2022,
+  "journal": "Theory, Culture & Society",
+
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "The paper opens by reconstructing Habermas's triad of mediality-subjectivity-accumulation in the structural transformation thesis, then diagnosing a gap: subsequent deliberative democratic theory lost this political-economic grounding, focusing instead on normative and institutional questions while neglecting how capitalism drives the digital transformation. The puzzle is: what does the digital structural transformation look like if we restore the political-economic analysis?",
+    "anchored_in": ["Habermas", "Zuboff", "Reckwitz", "Staab"],
+    "stakes_claimed": "The digital transformation represents a fourth stage of structural transformation (following bourgeois, industrial, and welfare-state-Fordist stages), characterized by 'privatisation without privatism' — commercial politicisation that threatens democratic will formation by replacing civic participation with preference extraction."
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["Habermas", "Zuboff", "Srnicek", "Fuchs", "Reckwitz"],
+    "engagement_structure": "friendly_amendment",
+    "immanent_critique": true,
+    "own_position_type": "synthesis",
+    "own_position_explicit": true,
+    "description": "The paper performs immanent critique of Habermas — accepting his structural transformation framework while arguing that his later work abandoned its political-economic foundations. It then constructs a synthesis by mobilizing three theoretical frameworks along Habermas's original triad: Zuboff for mediality (data behaviourism), Reckwitz for subjectivity (singularisation), and Staab's own prior work on proprietary markets for accumulation. The resulting synthesis identifies a fourth stage of structural transformation."
+  },
+
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "Theoretical synthesis of secondary literature (Zuboff, Reckwitz, Staab) applied to an immanent reconstruction of Habermas's theory of structural transformation. Historical political economy of capitalism (Fordism, accumulation crises, post-Fordist individualisation).",
+    "notes": "Despite the paper's concern with empirical phenomena (social media platforms, data collection, singularisation), all empirical claims are borrowed from secondary theoretical literature (Zuboff, Reckwitz, Staab's own prior work) rather than original research. The paper's contribution is entirely theoretical: the synthesis of Habermasian structural transformation theory with political economy of digital capitalism. Specific examples (Volkswagen production, Google/Facebook advertising) function as illustrations within a theoretical argument, not as independent empirical evidence. The paper explicitly acknowledges its narrow focus on social media as an 'experimental hypothesis' rather than an empirical claim. The epistemic mode is fully_normative — a conceptual reconstruction of a theoretical tradition."
+  },
+
+  "case_type": {
+    "has_case": false,
+    "case_medium": "none",
+    "case_name": null,
+    "case_function": "none",
+    "case_relation_to_argument": "none",
+    "case_selection_justified": false
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "democratic theory / public sphere / digital capitalism",
+    "claim_type": "critical_diagnostic",
+    "closure_type": "open_ended_with_burden_on_reader"
+  },
+
+  "move_sequence": [
+    "genealogical_reconstruction",
+    "immanent_critique",
+    "rival_mapping",
+    "framework_proposal",
+    "normative_derivation",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["fourth stage of structural transformation", "privatisation without privatism", "data behaviourism", "singularisation", "proprietary markets", "commercial politicisation", "representation without public sphere"],
+
+  "thinkers_deployed": {
+    "central": ["Habermas", "Zuboff", "Reckwitz", "Staab"],
+    "engaged_critically": ["Habermas (later work)", "Srnicek", "Fuchs"],
+    "referenced_only": ["Streeck", "Crouch", "Aglietta", "Bourdieu", "Chadwick", "Dolata", "Rancière"]
+  },
+
+  "confidence_notes": "The immanent_critique is true: the paper targets Habermas's own later work, arguing that his 'linguistic turn' toward discourse ethics and deliberative proceduralism led him to abandon the political-economic analysis that was the strength of the original structural transformation theory. The engagement_structure is friendly_amendment because the paper's goal is to restore and update Habermas's original approach rather than abandon it. The move_sequence is: genealogical_reconstruction (Habermas's three-stage theory) → immanent_critique (later Habermas and deliberative democracy lost political economy) → rival_mapping (two strands of social media research: platform political economy vs. communication dynamics — both partial) → framework_proposal (three-theorem synthesis: data behaviourism + singularisation + proprietary markets = fourth stage) → normative_derivation ('privatisation without privatism', 'representation without public sphere') → conclusion_open. This paper is structurally very similar to seeliger-sevignani-2022 (same special issue, Habermasian reconstruction, no case, fully normative) but makes a more original theoretical contribution through the three-theorem synthesis and the political-economic update. The normative stake is high because the paper concludes that 'data-driven elections' represent a fundamental threat to democratic will formation — the substitution of preference extraction for political participation."
+}

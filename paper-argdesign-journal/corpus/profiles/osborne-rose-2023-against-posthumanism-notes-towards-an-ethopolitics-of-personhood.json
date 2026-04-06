@@ -1,0 +1,75 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "osborne-rose_2023",
+  "title": "Against Posthumanism: Notes towards an Ethopolitics of Personhood",
+  "author": "Osborne, Rose",
+  "year": 2023,
+  "journal": "Theory, Culture & Society",
+
+  "opening_move": {
+    "type": "polemical_intervention",
+    "description": "The paper opens with a direct challenge to posthumanism — both its standpoint-critical version (Braidotti) and its technological-diagnostic version — arguing that both foreclose crucial ethical and political debates that are better framed through the ethopolitics of personhood.",
+    "anchored_in": ["Braidotti", "Clark", "Serres", "Mauss"],
+    "stakes_claimed": "Posthumanism, by positing a threshold crossed or yet to be crossed, evades the empirical and political realities of how most humans actually live — constrained by material inequality, embodied vulnerability, and denied forms of personhood."
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["Braidotti", "Halberstam and Livingston", "Fukuyama", "Haraway", "Heidegger", "Taylor", "Korsgaard"],
+    "engagement_structure": "sustained_critique",
+    "immanent_critique": true,
+    "own_position_type": "external_alternative",
+    "own_position_explicit": true,
+    "description": "The paper accepts some posthumanist insights (that humans have always been augmented and tool-using) while rejecting the binary human/posthuman framework, proposing instead an ethopolitical vitalism centered on personhood and its material scaffolding."
+  },
+
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "Philosophical argument using examples from cognitive science, neurology (Oliver Sacks, Pierre Janet), law (habeas corpus cases, disability law, UN conventions), and neurodiversity activism (Amanda Baggs) as illustrative reference points — not as empirical evidence.",
+    "notes": "The paper makes extensive use of scientific literature (Clark, Sterelny, Ginsburg and Jablonka) and legal examples, but as illustrations of philosophical claims rather than empirical support. Classified as fully_normative because the argument is throughout about what frame we should adopt (ethopolitics vs posthumanism) and what ethical/political responses are required."
+  },
+
+  "case_type": {
+    "has_case": false,
+    "case_medium": "none",
+    "case_name": null,
+    "case_function": "illustration",
+    "case_relation_to_argument": "illustrative_only",
+    "case_selection_justified": false
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "ethics / political philosophy / personhood",
+    "claim_type": "reconstructive",
+    "closure_type": "open_ended_with_burden_on_reader"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "immanent_critique",
+    "framework_proposal",
+    "conceptual_distinction",
+    "counter_objection_response",
+    "meta_reflexive_qualification",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": true,
+
+  "key_concepts": ["ethopolitics of personhood", "vitalism", "scaffolding", "minority persons", "niche construction", "shades of personhood"],
+
+  "thinkers_deployed": {
+    "central": ["Rose", "Clark", "Serres", "Mauss", "Sacks", "Janet", "Canguilhem"],
+    "engaged_critically": ["Braidotti", "Halberstam and Livingston", "Haraway", "Heidegger", "Taylor", "Korsgaard"],
+    "referenced_only": ["Sterelny", "Hutchins", "Ginsburg and Jablonka", "Ricoeur", "Shklar", "Williams", "Gilroy", "Mauss"]
+  },
+
+  "confidence_notes": "The paper is clearly fully_normative — it makes no empirical claims of its own and uses scientific/legal examples purely illustratively. The opening_move is polemical_intervention because the paper's raison d'être is explicitly to argue against posthumanism rather than to diagnose a puzzle requiring new concepts. The distinction between 'standpoint posthumanism' (Braidotti) and 'technological posthumanism' is a key conceptual_distinction that structures the rival_mapping. The counter_objection_response appears via the section on 'Uneasy Cyborgs' which explicitly anticipates and rebuts the strongest technological posthumanist claims. The conclusion's vitalism-of-pathos is meta-reflexive in qualifying what vitalism means in this context."
+}

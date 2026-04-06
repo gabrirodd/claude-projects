@@ -1,0 +1,72 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "stypinska_rossi_2025",
+  "title": "Pastoral Power: Perspectives on the Present",
+  "author": "Stypinska, Rossi",
+  "year": 2025,
+  "journal": "Theory, Culture & Society",
+
+  "opening_move": {
+    "type": "reconstructive_diagnosis",
+    "description": "As a special section introduction, the paper opens by situating pastoral power scholarship and diagnosing a gap: existing Foucauldian literature either focuses on exegesis of Foucault's texts or subsumes pastoral power under the broader study of governmentality, thereby diluting its specificity — particularly its ethical, ascetic, theological and veridictional dimensions. The paper argues these overlooked dimensions are precisely what makes pastoral power analytically valuable for understanding contemporary power formations.",
+    "anchored_in": ["Foucault", "Agamben", "Lorenzini", "Senellart"],
+    "stakes_claimed": "Pastoral power continues to directly animate governmental techniques across neoliberal and neo-authoritarian contexts (digital platforms, self-optimization, debt subjectivity, ecological apocalyptics), and only by attending to its theological specificity — not just its secular governmental forms — can we understand these contemporary formations."
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["Foucault (governmentality studies readings)", "Agamben", "Butler"],
+    "engagement_structure": "friendly_amendment",
+    "immanent_critique": true,
+    "own_position_type": "internal_reconstruction",
+    "own_position_explicit": true,
+    "description": "The paper performs immanent critique of Foucauldian governmentality studies — accepting the pastoral power concept while arguing that its appropriation by governmentality studies has erased its ethical, veridictional and theological specificity, reducing it to a secular administrative paradigm. The paper advocates restoring the theological dimension (truth-subjectivity triangulation) while situating it in productive dialogue with political and economic theology (Agamben, Stimilli, Esposito)."
+  },
+
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "As a special section introduction, the paper reconstructs the Foucauldian pastoral power concept, maps its appropriation in governmentality studies, diagnoses a gap, outlines two problematiques (truth-subjectivity and theological subtexts), and previews the contributions of the other articles. No original empirical or interpretive research is performed.",
+    "notes": "This is a special section introduction — same genre as seeliger-sevignani-2022 — and the epistemic mode is therefore fully_normative. The contemporary examples cited (algorithms, self-optimization discourse, digital influencing) function as symptoms that motivate the theoretical inquiry rather than as empirical evidence for specific claims. The paper's intellectual work is entirely conceptual: reconstructing the pastoral concept, critiquing its assimilation into governmentality studies, and framing the special section's two problematiques."
+  },
+
+  "case_type": {
+    "has_case": false,
+    "case_medium": "none",
+    "case_name": null,
+    "case_function": "none",
+    "case_relation_to_argument": "none",
+    "case_selection_justified": false
+  },
+
+  "normative_stake": {
+    "level": "medium",
+    "domain": "political theology / subjectivity / governmentality",
+    "claim_type": "critical_diagnostic",
+    "closure_type": "research_agenda"
+  },
+
+  "move_sequence": [
+    "genealogical_reconstruction",
+    "immanent_critique",
+    "conceptual_distinction",
+    "framework_proposal",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["pastoral power", "veridiction", "truth-subjectivity triangulation", "theological subtexts of governmentality", "technologies of the self", "conduct of souls", "de-subjectification"],
+
+  "thinkers_deployed": {
+    "central": ["Foucault", "Lorenzini", "Agamben", "Stimilli"],
+    "engaged_critically": ["Foucauldian governmentality studies (Dean, Burchell)"],
+    "referenced_only": ["Butler", "Arendt", "Schmitt", "Esposito", "Derrida", "Agamben"]
+  },
+
+  "confidence_notes": "Like seeliger-sevignani-2022, this is a special section introduction functioning primarily as an orienting and framing text rather than an original argument. The immanent_critique target is the governmentality studies tradition, which the paper argues has domesticated Foucault's pastoral power by treating it as secular administration and losing its theological-ethical specificity. The normative stake is medium rather than high because, as an introduction, the paper does not itself argue for specific normative conclusions — it frames the problematiques that the other articles develop. The framework_proposal is the two-problematique structure (truth-subjectivity triangulation + theological subtexts) that organizes the special section. The move_sequence reflects the genre: genealogical_reconstruction of Foucault's pastoral power analysis → immanent_critique of how governmentality studies has assimilated it → conceptual_distinction between pastoral power's theological-veridictional dimension and its governmentality-studies reduction → framework_proposal of the two problematiques → conclusion_open as research agenda for the special section."
+}
