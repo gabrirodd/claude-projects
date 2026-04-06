@@ -1,0 +1,75 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "mignolo_2010",
+  "title": "Epistemic Disobedience, Independent Thought and Decolonial Freedom",
+  "author": "Mignolo",
+  "year": 2010,
+  "journal": "Theory, Culture & Society",
+
+  "opening_move": {
+    "type": "polemical_intervention",
+    "description": "The paper opens by diagnosing the epistemic violence of the 'zero point' — the fiction of a neutral, disincorporated knowing subject — and immediately frames this as a problem of racism and epistemology that demands de-linking. The opening is itself a performative enactment of its thesis: Mignolo speaks from a located, body-political position.",
+    "anchored_in": ["Castro-Gómez", "Fanon", "Benveniste"],
+    "stakes_claimed": "Without epistemic de-linking and decolonial knowledge-making, it is impossible to build democratic, just, and non-imperial societies; reform within Western epistemology is structurally insufficient."
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["Foucault", "Kant", "Rose", "Pletsch", "Hegel"],
+    "engagement_structure": "immanent_critique",
+    "immanent_critique": true,
+    "own_position_type": "external_alternative",
+    "own_position_explicit": true,
+    "description": "The paper uses immanent critique of Western epistemology (showing how Kant, Foucault, and structuralism reproduce colonial exclusions) to motivate an external alternative: the decolonial option rooted in geo- and body-politics of knowledge."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_interpretive_case",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "Genealogical reconstruction of Western epistemology from the Renaissance to neoliberalism; close reading of Hountondji, Wiredu, Chatterjee, and Linda Tuhiwai Smith as cases of geo- and body-politics of knowledge in practice.",
+    "notes": "The three 'cases' (Hountondji/Wiredu for Africa, Chatterjee for India, Smith for Maori New Zealand) plus Mignolo's own position as fourth case are not empirical data but interpretive instances that perform the theory while also illustrating it. The argument is fully normative — calling for epistemic de-linking — and the cases function as parables of what decolonial thinking looks like in practice."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "philosophical_text",
+    "case_name": "Hountondji, Wiredu, Chatterjee, Linda Tuhiwai Smith (as cases of geo/body-politics of knowledge)",
+    "case_function": "parable_for_theory",
+    "case_relation_to_argument": "illustrative_and_generative",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "epistemology / justice / decolonial politics",
+    "claim_type": "prescriptive",
+    "closure_type": "strong_normative_conclusion"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "genealogical_reconstruction",
+    "case_introduction",
+    "case_development",
+    "case_interpretation",
+    "conceptual_distinction",
+    "normative_derivation",
+    "conclusion_strong"
+  ],
+
+  "reflexive_move": true,
+
+  "key_concepts": ["epistemic disobedience", "geo-politics of knowledge", "body-politics of knowledge", "zero point epistemology", "colonial matrix of power", "decolonial option"],
+
+  "thinkers_deployed": {
+    "central": ["Fanon", "Benveniste", "Castro-Gómez", "Hountondji", "Wiredu", "Chatterjee", "Linda Tuhiwai Smith"],
+    "engaged_critically": ["Kant", "Foucault", "Pletsch", "Rose"],
+    "referenced_only": ["Mahbubani", "Wynter", "Gordon", "Shiva", "Dilthey"]
+  },
+
+  "confidence_notes": "The epistemic mode is clearly normative_with_interpretive_case: three thinkers from the Global South are read as instances of geo- and body-politics of knowledge, functioning as parables for the decolonial option. The paper is highly self-reflexive — Mignolo explicitly positions his own argument as a fourth case from Latin America, acknowledging its located character. The normative stake is the highest in the corpus: this is explicitly a manifesto-like call for epistemic transformation. Move sequence involves a long genealogical_reconstruction (Sections I-II) followed by three parallel case_introduction/development/interpretation cycles (Section III), then conceptual_distinction (geo vs body politics in Section IV), then normative synthesis."
+}

@@ -1,0 +1,73 @@
+{
+  "paper_id": "hoppe-2025-ecodependence-the-intrinsic-connection-between-living-and-killing",
+  "title": "Ecodependence: The Intrinsic Connection between Living and Killing",
+  "author": "Hoppe",
+  "year": 2025,
+  "journal": "Theory, Culture & Society",
+
+  "opening_move": {
+    "type": "conceptual_gap",
+    "description": "New materialist and relational ontology frameworks have established a consensus on the need for 'relational thinking' in environmental humanities and ecology, but neither the concrete character of more-than-human relations nor their normative implications have been adequately developed. Existing ecofeminist concepts of 'ecodependence' romanticize relations with nature as harmonious and restorative, suppressing the destructive, killing character of relational dependency.",
+    "anchored_in": ["Mies and Shiva (ecofeminism)", "Haraway (Companion Species Manifesto, Staying with the Trouble)", "new materialism (Barad, Dolphijn)"],
+    "stakes_claimed": "Developing an ecodependence concept that acknowledges the intrinsic connection between living and killing — rather than romanticizing ecological relations — enables an 'affirmative thanatopolitics' that is both ontologically more adequate and normatively more honest about the destructive, asymmetrical character of all ecological life."
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["ecofeminist romanticization of nature (Mies/Shiva)", "flat relational ontology (everything-connected-to-everything)", "purely celebratory more-than-human relationality"],
+    "engagement_structure": "immanent_critique",
+    "immanent_critique": true,
+    "own_position_type": "synthesis",
+    "own_position_explicit": true,
+    "description": "The paper performs an immanent critique of ecofeminist ecodependence (Mies) for its romantic naturalization and harmonization of dependency relations. It then draws on Haraway (companion species, killing-as-making-kin) and Derrida (the beast and the sovereign, eating well) to develop a revised concept of ecodependence that holds together the structural and ontological dimensions of dependency — acknowledging destruction and killing as constitutive of life rather than external to it."
+  },
+
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "Conceptual analysis and feminist philosophical hermeneutics: close reading of Mies (ecofeminism), Haraway (companion species, 'staying with the trouble'), and Derrida (the animal, eating well); reconstruction of 'ecodependence' concept across structural and ontological dimensions; development of 'affirmative thanatopolitics'.",
+    "notes": "Purely conceptual-philosophical paper; no empirical cases. The argument develops a new concept (ecodependence as affirmative thanatopolitics) through a dialectical movement from ecofeminist limitations (Mies) through Haraway's killing-as-making-kin to a synthesis that preserves dependency while acknowledging destruction."
+  },
+
+  "case_type": {
+    "has_case": false,
+    "case_medium": "none",
+    "case_name": null,
+    "case_function": "none",
+    "case_relation_to_argument": "none",
+    "case_selection_justified": false
+  },
+
+  "normative_stake": {
+    "level": "medium",
+    "domain": "environmental philosophy, feminist new materialism, posthumanism",
+    "claim_type": "reconstructive",
+    "closure_type": "strong_normative_conclusion"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "immanent_critique",
+    "framework_proposal",
+    "conceptual_distinction",
+    "normative_derivation",
+    "conclusion_strong"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["ecodependence", "interdependence", "more-than-human relationality", "companion species", "thanatopolitics", "affirmative thanatopolitics", "killing", "structural dependency", "ontological dependency"],
+
+  "thinkers_deployed": {
+    "central": ["Haraway", "Mies", "Derrida"],
+    "engaged_critically": ["Mies and Shiva (ecofeminist romanticism)"],
+    "referenced_only": ["Barad", "Tsing", "Puig de la Bellacasa", "Sturgeon", "Hörl"]
+  },
+
+  "confidence_notes": "Fully normative philosophical paper. The immanent critique of Mies's ecofeminism is the key analytical move: accepting the intuition about dependency relations but rejecting the romanticizing affirmation of harmonious ecodependence. The synthesis draws on Haraway's account of killing-as-relation and Derrida's deconstruction of the nature/culture boundary to propose affirmative thanatopolitics as the alternative."
+}

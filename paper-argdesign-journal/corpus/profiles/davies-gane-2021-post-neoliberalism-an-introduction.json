@@ -1,0 +1,71 @@
+{
+  "paper_id": "davies-gane-2021-post-neoliberalism-an-introduction",
+  "title": "Post-Neoliberalism? An Introduction",
+  "author": "Davies and Gane",
+  "year": 2021,
+  "journal": "Theory, Culture & Society",
+
+  "opening_move": {
+    "type": "normative_puzzle",
+    "description": "The post-2008 period has produced better scholarship on neoliberalism than ever before, yet simultaneously raised the question of whether neoliberalism is still our present condition. The article opens with this paradox and frames the special issue around right-wing challengers to the neoliberal order (paleoconservatism, neoreactionary politics, libertarian paternalism).",
+    "anchored_in": ["Foucault", "Peck", "Brown"],
+    "stakes_claimed": "Understanding what kinds of political formations have emerged to challenge neoliberalism from the right is essential for diagnosing whether we are in, or approaching, a post-neoliberal moment."
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["'zombie neoliberalism' thesis (Peck)", "straightforward post-neoliberalism announcements", "left critiques that ignore right-wing mutations"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": false,
+    "own_position_type": "none",
+    "own_position_explicit": false,
+    "description": "The paper is an introduction to a special issue that frames the intellectual terrain and maps the contributions; it does not advance a single argument of its own but proposes the question of post-neoliberalism as requiring analysis of right-wing challengers including neoreactionaries, libertarian paternalists, and authoritarian nationalists."
+  },
+
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "Conceptual mapping and interpretive framing of current political-ideological formations; reading intellectual movements (NRx, Alt-right, nudge economics) through the lens of neoliberalism scholarship.",
+    "notes": "This is a special issue introduction — its epistemic mode is organizational-interpretive rather than argumentative. No empirical data."
+  },
+
+  "case_type": {
+    "has_case": false,
+    "case_medium": "none",
+    "case_name": null,
+    "case_function": "none",
+    "case_relation_to_argument": "none",
+    "case_selection_justified": false
+  },
+
+  "normative_stake": {
+    "level": "medium",
+    "domain": "political theory, critique of capitalism",
+    "claim_type": "critical_diagnostic",
+    "closure_type": "research_agenda"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "conceptual_distinction",
+    "case_introduction",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["post-neoliberalism", "zombie neoliberalism", "libertarian paternalism", "neoreactionary politics", "sovereign authority", "COVID-19 as rupture"],
+
+  "thinkers_deployed": {
+    "central": ["Foucault", "Peck", "Brown"],
+    "engaged_critically": [],
+    "referenced_only": ["Mirowski", "Hayek", "Thiel", "Land", "Yarvin"]
+  },
+
+  "confidence_notes": "Special issue introduction — unusual format. The paper's epistemic mode is framing/mapping rather than argument. The normative stake is in defining the research question (post-neoliberalism as condition requiring analysis of right-wing mutations). The move sequence reflects the introduction's structure: frame the paradox → map the field → distinguish key tendencies → introduce contributors' cases → leave open."
+}

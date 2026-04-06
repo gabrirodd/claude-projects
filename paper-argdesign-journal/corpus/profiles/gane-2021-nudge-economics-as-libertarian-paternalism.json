@@ -1,0 +1,73 @@
+{
+  "paper_id": "gane-2021-nudge-economics-as-libertarian-paternalism",
+  "title": "Nudge Economics as Libertarian Paternalism",
+  "author": "Gane",
+  "year": 2021,
+  "journal": "Theory, Culture & Society",
+
+  "opening_move": {
+    "type": "normative_puzzle",
+    "description": "Thaler and Sunstein's nudge economics presents itself as a post-ideological science of behavioural improvement that transcends both hard paternalism and raw libertarianism. Gane argues this framing obscures its deeply ideological character — specifically its gendered basis, its Millian paternalist heritage, and its continuity with (rather than departure from) neoliberal rationality.",
+    "anchored_in": ["Thaler and Sunstein (Nudge)", "Foucault (biopolitics)", "McMahon (2015)"],
+    "stakes_claimed": "Libertarian paternalism is not post-neoliberal but a new hybrid form of neoliberalism that addresses 'internalities' (behavioural biases) that market forces cannot discipline — a theoretical claim with implications for how post-neoliberalism should be understood."
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["nudge economics' self-presentation as value-neutral behavioural science", "analyses that assess nudge policy interventions without examining their political philosophy", "post-neoliberal readings of libertarian paternalism"],
+    "engagement_structure": "immanent_critique",
+    "immanent_critique": true,
+    "own_position_type": "external_alternative",
+    "own_position_explicit": true,
+    "description": "The paper performs an immanent critique of Thaler and Sunstein's political philosophy: unpacking their uses of Mill, Friedman, and the concept of 'paternalism' reveals a gendered architecture of authority (paternal governance) and an extension of neoliberal rationality into behavioural internalities, not its transcendence. The conclusion places libertarian paternalism within the post-neoliberalism debate, arguing it is hybrid neoliberalism."
+  },
+
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "Philosophical textual analysis: close reading of Thaler and Sunstein (Nudge, Why Nudge?), Mill (On Liberty, Principles of Political Economy), and neoliberal political philosophy (Friedman, Hayek, Mead); Foucauldian genealogy of paternalism; feminist critique (Pykett) of gendered authority in nudge governance.",
+    "notes": "This is a fully normative philosophical analysis with no empirical material. The argument is theoretical throughout: it reads Thaler and Sunstein against Mill, Mead, and Slobodian to expose the ideological commitments that the nudge agenda's technocratic framing suppresses."
+  },
+
+  "case_type": {
+    "has_case": false,
+    "case_medium": "none",
+    "case_name": null,
+    "case_function": "none",
+    "case_relation_to_argument": "none",
+    "case_selection_justified": false
+  },
+
+  "normative_stake": {
+    "level": "medium",
+    "domain": "political theory, critique of neoliberalism, feminist political theory",
+    "claim_type": "critical_diagnostic",
+    "closure_type": "strong_normative_conclusion"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "case_development",
+    "immanent_critique",
+    "genealogical_reconstruction",
+    "normative_derivation",
+    "conclusion_strong"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["libertarian paternalism", "nudge economics", "choice architecture", "internalities", "behavioural biases", "hybrid neoliberalism", "gendered authority", "paternalism genealogy"],
+
+  "thinkers_deployed": {
+    "central": ["Thaler and Sunstein", "Mill (J.S.)", "Mead (Lawrence)"],
+    "engaged_critically": ["Thaler and Sunstein (immanent critique)", "Sunstein (Why Nudge?)"],
+    "referenced_only": ["Foucault", "McMahon", "Pykett", "Slobodian", "Friedman", "Hayek", "von Mises", "Brown"]
+  },
+
+  "confidence_notes": "This is a fully normative philosophical analysis — no empirical material. The paper's central move is immanent critique: it takes Thaler and Sunstein's own political philosophy seriously and shows its internal contradictions (the gendered concept of paternal authority, the suppressed Millian heritage, the continuity with neoliberal rationality). The conclusion is strong: libertarian paternalism is hybrid neoliberalism, not post-neoliberal. Situated in the post-neoliberalism special issue."
+}

@@ -1,0 +1,1046 @@
+[PAGE 1]
+ 1322062                                                     
+ research-article2025 TCS0010.1177/02632764251322062Theory, Culture & SocietySchwarz
+                                                             
+                                                             
+       Article                                               
+                                             Theory, Culture & Society
+       The Post-Choice   Society:              2025, Vol. 42(4) 3 –22
+                                              © The Author(s) 2025
+       Algorithmic  Prediction and                           
+                                              Article reuse guidelines:
+       the Decentring  of Choice          sagepub.com/journals-permissions
+                                        httpDs:O//dIo: i1.o0r.g1/1107.711/0727/60322673267462452153132222006622
+                                           journals.sagepub.com/home/tcs
+       Ori Schwarz                                           
+       Bar-Ilan University                                   
+                                                             
+                                                             
+       Abstract                                              
+       Choice has played a key role in late-modern economy, society, culture and politics,
+       but recently predictive algorithms are decentring choice and replacing many of its
+       instantiations, offering an alternative way to match individuals with information,
+       cultural goods, and consumer products – and to govern people. This article has two
+       contributions: first, it contextualizes the decentring of choice within the history of
+       capitalism, showing how it emerged once psychological and economics knowledge
+       transformed the meaning of choice from an economic engine into a problem (‘friction’
+       or ‘overload’). Second, it explores the wider significance and cultural-cum-political
+       implications of this transformation. Algorithmic ‘individuation without choice’ challenges
+       the role of choice in neoliberal subjectification. Choice is increasingly marginalized in
+       everyday practice while retaining its role in justification (as predictions are construed
+       as what actors would have chosen). As the decentring of choice expands from social
+       media and consumption towards governance, it may pose a threat to democracy.
+                                                             
+       Keywords                                              
+       choice, consumer culture, post-neoliberalism, predictive algorithms, TikTok
+                                                             
+                                                             
+       Playing a key role in late modern economy, society, culture and politics, choice has been
+       the social technology and ideology characterizing the Western way of life since the
+       1950s: its politics (with citizens choosing leaders through free elections), economy (con-
+       sumer capitalism organized around consumer choice) and society (liberalism, with indi-
+       viduals free to choose their lifestyle, sexuality, etc.). However, this might be changing,
+       as emerging algorithmic prediction technologies complement but also replace and
+       decentre choice. At least in some contexts, offering individuals what best suits their
+                                                             
+                                                             
+       Corresponding author: Ori Schwarz. Email: ori.schwarz@biu.ac.il
+       TCS Online Forum: https://www.theoryculturesociety.org/
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+      4                               Theory, Culture & Society 42(4)
+                                                             
+      desires no longer seems to require that they choose. Given choice’s key status, its decen-
+      tring may be highly consequential for our culture, economy and politics.
+        Sunstein (2015) interpreted ‘choosing not to choose’ (the automation of decision-
+      making) through the old lens of rationalization. Under certain circumstances, algorith-
+      mic prediction is assumed to maximize utility for individuals, just as choice has done in
+      the past, but without the latter’s associated costs of time and effort. Brubaker (2022)
+      recognized that this new trend involves much more, namely, a shift away from the neo-
+      liberal model of the self (characterized by entrepreneurship, self-production and choice)
+      towards a different, post-neoliberal one.              
+        This article makes two contributions to our understanding of this development.
+        First, it puts the decentring of choice in its historical context within the history of
+      capitalism. After briefly discussing the late 20th century post-Fordist era of choice and
+      the consequent algorithmic decentring of choice in social media, search, streaming and
+      retail, I suggest that choice was decentred through algorithms only after it was con-
+      structed as a problem, a potential source of crisis for contemporary capitalism, based on
+      new psychological and economics knowledge. The problematization of choice within
+      capitalism and the rise of algorithmic prediction are thus intimately interrelated. By fit-
+      ting goods to consumers to maximize satisfaction without extensive choice, algorithmic
+      prediction is used to solve the new ‘problem’ of choice, reducing the number of choices
+      people must make.                                      
+        Second, it explores the wider significance of the decentring of choice and its poten-
+      tially dramatic political, cultural and social implications, as it may influence subjectivity;
+      the notion of freedom; our understandings of the core of humanity and individuality;
+      governance; and political legitimacy. Thus, this article contributes to the joint effort of
+      exploring post-neoliberalism as a mode of governance and subjectivity (Davies and
+      Gane, 2021).                                           
+      The Era of Choice                                      
+      The late 20th century is widely viewed as the era of choice. Zygmunt Bauman sug-
+      gested that, during this period, choice was instrumental in redefining the sacred
+      value of freedom. In consumer culture freedom meant individual consumers’ free-
+      dom of choice rather than the collective political freedom stressed in earlier soldiers’
+      and producers’ societies (Bauman, 1988, 2007). Not unrelatedly, in late-modern con-
+      sumer society, choice was widely viewed as the core of self. The therapeutic dis-
+      course positioned the capacity to choose at the core of the healthy psyche and the
+      late-modern biography (organized as a sequence of choices emblematic and constitu-
+      tive of the chooser’s identity; Giddens, 1991; Rose, 1999a, 1999b). Morality has
+      been similarly redefined in terms of isolated choices (rather than virtuous ways of
+      life), which became the main (nearly exclusive) objects of moral thought and ulti-
+      mate expressions of moral agency (Abend, 2014: 41–2). Ever more occurrences were
+      interpreted as choices of individuals who may be thus held morally accountable for
+      them (Hanson and Hanson, 2006).1 Choice turned into a new form of neoliberal gov-
+      ernmentality (Lemke, 2001; Reith, 2004), both a freedom and a duty, through which
+                                                             
+                                                             
+                                                             
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+       Schwarz                                        5      
+                                                             
+       individuals fulfil themselves, choose whom to become through the market and thus
+       govern themselves (Rose, 1999b). Even getting on with one’s life could be framed as
+       a constant choice, once the biggest life choices – marriage and profession – became
+       increasingly reversible. Thus, even among sociologists – despite our strong discipli-
+       nary tendency to view choices as illusionary given strong collective patterns that
+       render them predictable – prominent figures characterized late modernity by increas-
+       ing engagement of individuals in choosing, as their biographies have become less
+       predictable and the default options that once spared choice (such as marriage and
+       reproduction) have lost their self-evident status and were reframed as individual
+       choices rather than obeying norms (Beck et al., 1994; Giddens, 1991), thus trans-
+       forming key social domains such as family and sexuality. While many choices
+       remained fairly predictable, choice was not mere illusion but a social technology that has
+       reorganized spheres of practices, social, cultural and economic dynamics, as well as a
+       discourse that has informed subjectivity.             
+        Finally, choice has become an economic engine, as consumer choice turned into
+       ‘an ally of economic growth: economic life can be governed through the choices
+       consumers make in their search for personally fulfilling forms of existence’ (Miller
+       and Rose, 1990). The consumption-focused economy that replaced the Fordist pro-
+       duction economy engaged intensively in ‘the industrial production of differences’
+       (Baudrillard, 1998). Put simply, unprecedentedly diverse supply enabled individuals
+       to use consumption for distinction, to express both their collective identifications
+       and their individual authenticity. These uses, previously endemic to fashion (Simmel,
+       1957), have expanded to nearly all forms of consumption (Baudrillard, 1998;
+       Bourdieu, 1984; Featherstone, 1991). Cultural features that had used to characterize
+       certain groups, from music to religion, offered themselves for choice as singular
+       goods in global ‘attractiveness markets’, invigorating the economy through its cul-
+       turization (Reckwitz, 2020). Product variety and the proliferation of niche markets
+       increased demand for goods by exploiting not only the desire for distinction but also
+       what economists call ‘variety-seeking behaviour’, the tendency of consumers to
+       make different choices at different times. This tendency (whose cultural specificity
+       economists deny) emerged together with a new subject, the ‘sensations-gatherer’
+       (Bauman, 1995), whose consumption is oriented less towards self-positioning and
+       more towards omnivorous experimentation and consumption of experiences. Finally,
+       expanding choice was the main justification and cultural engine that allowed neolib-
+       eralism to colonize and marketize fields hitherto protected from the market (like
+       education), turning them into sources of profit.      
+        For all these reasons, in the late 20th century, diversifying supply turned into a relia-
+       ble way to increase consumption. Consumption’s double orientation (distinction and
+       experimentation) meant that consumer choices were understood as both authentic mani-
+       festations of already-existing selves and entrepreneurial projects of self-making (Beck
+       et al., 1994; Cronin, 2000; Giddens, 1994). The era of choice may be thus viewed as typi-
+       cal of a certain stage in the history of capitalism, the time when capitalism capitalized on
+       the subjectivity of the homo eligens constitutive of late-modern political and social order.
+       Yet recently, this cultural-cum-economic order is being challenged.
+                                                             
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+      6                               Theory, Culture & Society 42(4)
+                                                             
+      Choice-Obviating Technology                            
+      Digital mediation and algorithms may decentre choice and mark the end of the neoliberal
+      model of governance through choice in two different ways. First, algorithms are ‘genera-
+      tive rules’ that cannot be violated, making certain possibilities of action impossible to
+      choose as they translate into reality automatically, leaving the governed no choice
+      whether to obey them (Schwarz, 2021). Algorithmic generative rules are used by govern-
+      ments and platforms to govern populations. They also offer corporations a new way to
+      regulate how their products are used (Zuboff (2019) called it ‘the uncontract’) and pre-
+      vent undesired uses. While corporations have long used design to restrict and shape
+      consumer choice, algorithms allow them to do it much more easily and flexibly, by set-
+      ting abstract rules.                                   
+        Secondly, algorithmic prediction reduces choice by predicting our desires and thus
+      sparing us the need to choose. Predictive algorithms are integrated in ever more systems,
+      including recommender systems that shape and replace consumer choice. Streaming
+      apps like Spotify, Deezer, YouTube and Netflix try to predict which songs, movies and
+      television series we would like to listen to or watch next, and play them automatically,
+      sparing us the need to choose. Online retailers like Amazon recommend products that
+      might interest us based on our past searches and purchases. Social network sites offer
+      users accounts to follow or groups to join based on the algorithmic prediction they would
+      interest them, with dramatic consequences (Facebook’s algorithmic recommendations
+      are responsible for 64% of all extremist group joins; Horwitz and Seetharaman, 2020).
+      Google Maps personalizes the items presented to users on its maps, for example, show-
+      ing restaurants that match one’s documented past preferences. Autocomplete and ‘sug-
+      gested replies’ feature in email and instant messaging services and search engines predict
+      what we want to say while (or even before) typing it.  
+        These systems vary in their relation to choice: some of them focus our attention on a
+      small set of options (be they books, social media groups, or restaurants) to choose from,
+      shaping choice architecture since they predict this focusing would increase our chances
+      of making a choice and purchasing; these may be viewed as choice-facilitating. Yet other
+      systems – such as music streaming services, social network sites (SNSs) like TikTok and
+      personalized subscription services that order products for customers and send them auto-
+      matically based on prediction – obviate choice almost completely: choice is only needed
+      up to the point that it can be reliably predicted and automated.
+        The idea that computer recommendations may assist and partly replace choice is old:
+      as early as 1961, IBM developed a system to help department store customers find
+      Christmas gifts that fit their budget and the receiver’s age and sex (Cohn, 2019: 1–2).
+      However, only recently has the immense growth in computing power and the datafica-
+      tion of everyday life made it possible to produce reliable and highly personalized predic-
+      tions, based not on a few characteristics but on an immense number of data points
+      collected through constant surveillance. These models assume that any past choice may
+      be somewhat statistically correlated with our future choices and thus help predict them.
+      The more our lives are datafied, the better should algorithms predict our future choices.
+      This assumption, however, can hardly ever be put to the test. We do not know what peo-
+      ple would have chosen if it were not for algorithmic recommendations, but only how
+                                                             
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+       Schwarz                                        7      
+                                                             
+       they react to the latter. For example, the fact that users keep listening to the song offered
+       to them rather than skip it does not indicate they would have chosen it over all other pos-
+       sible songs but only that it is satisfying/tolerable enough to avoid actively choosing to
+       change it.                                            
+        Kotliar (2021) described recommender systems and personalization engines as
+       choice-inducing algorithms designed to affect people’s choices, yet some of them turned
+       into choice-reducing algorithms. Unlike the systems studied by Kotliar, they do not con-
+       vert people into choosers; neither do they simply shape choice performatively (Graham
+       and Henman, 2019). Instead, they reduce people’s engagement and investment in choice,
+       and choose for them to serve commercial interests, using dataveillance for ‘behavioral
+       modification’ (Zuboff, 2019).                         
+       The ‘TikTokization’ of Social Media. . .              
+                                                             
+       Recent transformations in social media clearly demonstrate the decentring of choice.
+       They are highly important, as social media has become a main medium of consumption,
+       culture, politics and social relations. SNSs have undergone four distinct stages: They
+       started as networks of interconnected personal profile pages containing friend lists. Then,
+       since 2006, SNSs gradually introduced chronologically-ordered news feeds, showing
+       users the most recent content posted by accounts they befriended or followed. The con-
+       tent one consumed was determined by one’s active choices of whom to follow. This was
+       a clearly ‘networked individualistic’ model (Wellman, 2002) centred around the autono-
+       mous individual’s choices which tie to enter and leave (Bhandari and Bimo, 2022) to
+       reflect one’s diverse social affinities and areas of interest by curating one’s unique ego-
+       centric network. However, it was gradually replaced by a different model, centred around
+       algorithmic curation.                                 
+        In the third stage, post ordering within personal feeds gradually shifted from chrono-
+       logical to algorithmic. Posts were now ordered based on personalized and dynamic algo-
+       rithmic prediction to maximize usage time and user engagement (sharing, liking and
+       commenting). This system, first introduced by Facebook, prioritized posts by one’s
+       ‘strong ties’ (the content of those with whom one has engaged previously) and posts that
+       have already generated high user engagement. Importantly, in all first three stages, the
+       choices whom to befriend or follow, what to consume, and how to present oneself on
+       one’s personal profile were all viewed as constitutive of a project of self-making
+       (Bhandari and Bimo, 2022).                            
+        This changed with the introduction of TikTok in 2017, that led the shift to the fourth
+       stage in the evolution of social media, the climax of algorithmic curation that has dra-
+       matically decentred choice. Prediction was first introduced within choice, to order items
+       posted by chosen authors, but at this stage it replaces choice altogether. TikTok differs
+       from its predecessors in both its user interface and backstage algorithm, which are
+       designed to make video creation and consumption as frictionless as possible. This is
+       done by expanding algorithmic prediction, as TikTok algorithmically estimates the inter-
+       est of users in videos posted by those they have never chosen to befriend or follow and
+       includes them in the personalized ‘For You’ feed curated for each user based on these
+       estimations. This renders the choice of friends and followees redundant. By eliminating
+                                                             
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+      8                               Theory, Culture & Society 42(4)
+                                                             
+      choice and friction, TikTok has radically passivized consumption (Brubaker, 2022: 96).
+      What matters most is not the visible social network of social ties that users choose, but
+      rather the objectified hidden datafied network of past interactions between all posts and
+      users (see Schwarz, 2021: ch. 3). This shift transformed social media, since other SNSs
+      soon underwent TikTokization, inspired by TikTok’s phenomenal success (a billion
+      monthly active users within four years of its launch). 
+        American college students interviewed by Bhandari and Bimo (2022) largely avoid
+      following and liking content; even when they are excited about a video they consume,
+      they tend to keep watching, as they feel no need to interrupt the flow of consumption to
+      engage in choice or choice-related reflexivity, that is, to actively follow the video crea-
+      tors or visit their personal profile and watch other materials they posted to decide whether
+      to follow them. The decentring of personal profiles in TikTok’s interface encouraged this
+      trend.                                                 
+        This revolutionized social media usage, which becomes clear once we follow trajec-
+      tories of new users: rather than ask users to choose friends or followees, consume their
+      content, and gradually expand their network (e.g. add friends-of-friends), TikTok offers
+      new users content and documents and analyses their reactions and engagement (e.g. how
+      long they keep watching before scrolling to the next video) to gradually improve the
+      algorithmic prediction of contents that will interest them most.
+        Following TikTok’s popularity, its ‘For You’ model was soon adopted by its competi-
+      tors, Twitter/X, Instagram and Threads (alongside their more traditional feeds). Facebook
+      did not adopt it officially but started adding viral posts to feeds of users who did not fol-
+      low anyone among those who created, shared or replied to them.
+        While TikTok retains choice to some degree (micro-choices which algorithmically-
+      offered videos to watch for how many seconds, reactions that are documented and used
+      to improve future prediction), these micro-choices are often spontaneous, instantaneous,
+      and non-reflexive reactions (Davies, 2024), and their number should decrease over time
+      (ideally tend to zero) as these micro-choices or reactions are collected as feedback and
+      personalized prediction should improve over time, thus obviating deliberated choice.
+      While not eliminating choice completely, surveillance and prediction clearly decentre it.
+        Search engines have undergone a similar trend: in 2005 Google personalized search
+      results, using varied signals beyond search queries (location, search and browsing his-
+      tory, social network ties, etc.) to predict what users are actually looking for. In 2008
+      autocomplete of search queries became default, and since 2010, Google shows users
+      search results of predicted queries during typing. Yet, search engines still offered users a
+      list of relevant websites to choose from. This format has recently been challenged by
+      AI-based search engines like Perplexity.ai that summarize search results and offer users
+      a short text answering their query with inline citations rather than a list of links to choose
+      from. Google soon adopted this new format and started to roll out AI Overviews in May
+      2024.                                                  
+      . . .and Beyond                                        
+      The use of predictive analytics as a choice-obviating technology, first developed online,
+      was later extended to offline spaces in the ship-then-shop model. Traditionally,
+                                                             
+                                                             
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+       Schwarz                                        9      
+                                                             
+       e-commerce customers first actively search and choose the products they want; then they
+       receive recommendations for other products based on their past searches and purchases,
+       and finally they choose whether to order these recommended products.
+        The newer ‘predictive shopping’ (Sunstein, 2015) or ‘ship-then-shop model’ (Choi
+       et al., 2024) of personalized subscription box plans goes further by reversing the order of
+       action: first, algorithms predict the fit of different products to different subscription-fee-
+       paying customers and products are shipped to customers predicted to like them. Only
+       then do customers evaluate fit and decide whether to purchase the products or return
+       them. By rating the products they received and returning undesired products, customers
+       produce feedback that can be automatically analysed to improve future predictions.
+       These services promise to excel individual choice by choosing for customers what they
+       unknowingly desire but would not choose due to prejudice (Lury and Day, 2019: 18).
+       Unlike social media, in retail this decentring of choice is still incipient. Yet, while modest
+       in volume, this model is important: sharing more similarities with TikTok, Netflix and
+       Spotify than with Amazon, it expands TikTok’s logic from immaterial goods to material
+       ones, thus TikTokizing commerce.                      
+        Viewed together, these streaming, social media and e-commerce services represent a
+       wide shift towards the decentring of choice. Importantly, ‘decentring’ does not amount to
+       eradication: human decision-making and agency are not completely delegated to
+       machine, and contemporary people keep making multiple micro-choices, even within
+       these services. Yet, choices as distinct reflexive moments that punctuate time dwindle,
+       and choice loses its status as the leading technology for identifying individual desires.
+       While it is hard to tell how far this trend will go, it is hard to deny.
+        But what has motivated these developments? I suggest it is perceived economic inter-
+       ests. Social media platforms, streaming services and retailers all gradually concluded
+       that allowing consumers to choose what they want is not the ideal way to maximize
+       consumption or engagement. While doing so, they followed a gradual shift in the per-
+       ceived role of choice in capitalism, which predated predictive analytics.
+       From Engine to Obstacle                               
+       The idea of choice as an engine may sound obvious to modern ears: when people are
+       given more options to choose from according to their personal preferences, chances are
+       they will find more options in which they are interested, and consequently consume
+       more. This idea lies at the heart of the post-Fordist economy (i.e. the shift from standard
+       commodities to the production of difference) and was confirmed in multiple studies on
+       the consumption of food, television, etc. (Iyengar, 2011).
+        However, in the early 21st century this obvious idea was challenged. Choice has grad-
+       ually turned into a problem: a new research-backed narrative suggested that once the
+       number of options crosses a certain threshold, further increase no longer helps actors
+       make more choices that better reflect their internal preferences to increase their wellbe-
+       ing; instead, it turns choice into a chore that requires excessive cognitive resources, mak-
+       ing decision-making harder, and threatening to paralyze actors. From the viewpoint of
+       capitalism, this means that above this threshold, more choice decreases consumption
+       rather than increasing it.                            
+                                                             
+                                                             
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+      10                              Theory, Culture & Society 42(4)
+                                                             
+        Psychologists have identified this phenomenon, explained it as resulting from univer-
+      sal cognitive limitations (allegedly, our short-term memory can only simultaneously pro-
+      cess five to nine items before starting to make mistakes; Iyengar, 2011) and named it
+      ‘choice overload’ (framing it as a special case of cognitive/information overload). They
+      claimed these cognitive limitations are grounded in human evolution: due to conditions
+      of scarcity, choosing among multiple options used to be rare; most problems our forefa-
+      thers had encountered were whether to accept or reject a single option. Consumer culture
+      has radically changed this. Schwartz (2004) famously claimed the ‘tyranny of choice’,
+      the constant necessity to choose among too many options, is the reason why the rise in
+      material wellbeing did not result in a similar increase in subjective wellbeing (experi-
+      enced happiness). He suggested that while ‘some choice is good’, it ‘doesn’t necessarily
+      mean that more choice is better’ (p. 3), as too many options render choice difficult and
+      time-consuming, producing stress, depression, bad decisions, regret about choices not
+      taken, or self-blame for choices experienced as suboptimal. Put simply, too much choice
+      causes suffering.                                      
+        The choice overload theory suggests it also causes economic loss. It was empirically
+      demonstrated in Iyengar and Lepper’s (2000) famous experiments: when the number of
+      options rises from six to thirty, more people choose not to make any choice (whether it’s
+      about choosing a jam flavour or a voluntary bonus assignment in an academic course),
+      and those who do choose are less happy about their choices.
+        Those suffering the most from extensive choice are maximizers (those who are not sat-
+      isfied with a good choice but insist on choosing the best), yet ironically Schwartz hypoth-
+      esized that extensive choice may transform people into maximizers (pp. 95–6), an
+      assumption that was empirically confirmed in the field of romance (where extensive choice
+      in online dating encourages maximizing: Illouz, 2007, 2012; Illouz and Finkelman, 2009).
+        This narrative did not remain hidden in psychology journals; it was covered in mass
+      media, reached wide publics, and influenced internal discourse in various industries. It
+      changed the way agents of capitalism understand choice as relevant to their projects.
+      Facebook CEO Mark Zuckerberg cited the ‘bunch of psychology theory that even mak-
+      ing small decisions around what you wear [. . .] consume your energy’ to explain his
+      sticking to grey T-shirts as part of trying ‘to make as few decisions as possible’ generally
+      (Friedman, 2018: A17), and the same theories seem to have informed Facebook’s evolu-
+      tion. One industry influenced by the burden of choice theory is the algorithmic recom-
+      mendation industry, and particularly the streaming industry: Netflix, YouTube, Spotify
+      and Deezer offer more videos and songs than we could ever watch or listen to, and the
+      industry frames this as a problem to be technologically solved through recommender
+      systems that make choices for users (Iyengar, 2011; Seaver, 2022).
+        What matters most sociologically is not how accurately this narrative (or ‘myth’:
+      Seaver, 2022) depicts bio-psychological reality, nor even whether it serves corporate
+      interests (Cohn, 2019). It is rather that multiple actors believe in it, hence it influences
+      the framing and shaping of reality and informs the operation of businesses. Marketing
+      scholars came to the surprising conclusion that contrary to conventional wisdom, reduc-
+      ing choice may increase both turnover and customer satisfaction (Shankar et al., 2006).
+      Iyengar (2011) described how her findings were implemented in both public- and pri-
+      vate-sector organizations that decreased the choice offered to consumers to reduce choice
+      overload and help them reach a decision.               
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+       Schwarz                                        11     
+                                                             
+        Choice overload is thus performative, regardless of its scientific accuracy. The decen-
+       tring of choice and its replacement with algorithmic prediction are inseparable from this
+       new understanding of the meaning of choice for capitalism.
+                                                             
+       Choice as Friction                                    
+       Even without psychologists making assumptions about the human brain’s cognitive limi-
+       tations, extensive choice may be viewed as an obstacle to consumption simply because
+       the more options are offered, the more choice (or even surveying the options) becomes
+       demanding, effortful, and time-consuming. Consequently, consumers may find it diffi-
+       cult to make decisions and find the goods that best suit their desires. In economists’ jar-
+       gon, choice turned into ‘friction’.                   
+        While economists have long fantasized about ideal markets, over the last six decades
+       they have grown increasingly conscious of the gaps between reality and their predictions,
+       and theorized information-, search- and matching-‘frictions’ as sources of this deviation
+       of reality from economic models: actors do not have all relevant information, achieving
+       it may be costly, and even attention to available information constitutes a significant cost
+       in an information-rich world (Simon, 1971: 41). Thus, like psychological knowledge,
+       economics knowledge helped in conceptualizing choice as a problem.
+        Search friction is allegedly most prominent in (a) markets of non-standard heteroge-
+       nous goods such as labour, housing, and marriage markets (Mortensen, 2011), to which
+       most post-Fordist markets increasingly assimilate; and (b) markets with a high number
+       of competitors like online platforms, where many sellers compete for consumer atten-
+       tion, resulting in ‘congestion in consumer search’ (Bai et al., 2018).
+        While more options may help consumers find one closer to their needs and desires,
+       once their number spikes sharply, considering all options becomes unfeasible. The num-
+       ber of unique items in a typical supermarket soared throughout the 20th century to 30,000
+       to 50,000, demanding customers choose from hundreds of similar products, resulting in
+       what marketing scholars called ‘sensory overload’ (Sorensen, 2008). Walmart
+       Supercenters offer as many as 142,000 unique items (Walmart, 2005), yet even this num-
+       ber is dwarfed by the unprecedented supply online, where Walmart offers over 70 million
+       items (Bose, 2018), and even more on Walmart Marketplace. Twenty-first century online
+       retail has taken the post-Fordist growth through choice logic to its limit, with the ‘long
+       tail’ becoming ever longer, since online the marginal costs of adding more products are
+       infinitely smaller than in brick-and-mortar stores.   
+        This applies beyond consumer goods; singles who use online dating sites (especially
+       those living in dense metropolises) may choose among an immense number of profiles
+       of potential partners. Illouz (2012) showed how this ‘overabundance of choice’ has ren-
+       dered it harder for singles (especially for men) to choose a partner and commit to their
+       choice; it devalued romantic relationships and transformed romantic partner evaluation
+       while turning singles into maximizers, those that ironically suffer most from extensive
+       choice. Their suffering is not necessarily a problem for capitalism: after all, online dating
+       platforms do not market romantic partners but dating services; hence, for them, user
+       incapacity to choose is an economic engine, not an obstacle.
+                                                             
+                                                             
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+      12                              Theory, Culture & Society 42(4)
+                                                             
+        Contrariwise, for retailers the friction involved in extensive choice is a true problem.
+      Choice is too time-consuming and strenuous. If only customers could decide what to
+      consume or purchase without choice, it would be much more efficient and profitable for
+      capitalism. But how can it be done? Algorithmic tools offered themselves as the answer,
+      a way to automate choice and decentre it in the consumption sphere and beyond (whereas
+      neuroscience offers other strategies not yet used on a large scale).2 Digital tools were
+      thus instrumental in both exacerbating and solving the crisis of choice. In TikTok, stream-
+      ing services, and predictive shopping, humans remain on the loop but not in the loop (as
+      this would have interrupted the flow of consumption, slowing it down by reintroducing
+      ‘friction’). Machine learning is used to spare the need to answer the question ‘what do I
+      want?’, which has turned into an obstacle for decision-making in general and consump-
+      tion in particular. When choice is viewed as an obstacle or a source of friction rather than
+      an engine for capitalism, corporations seek ways to reduce it, just as they expanded it in
+      the past. The decentring of choice is thus embedded in a new political economy.
+      Post-Neoliberal Subjectivity                           
+      As shown above, choice was central in constructing neoliberal subjectivity but is being
+      gradually decentred with the rise of new knowledge and digital technologies. Could this
+      decentring of choice result then in an epochal transformation of subjectivity?
+        Foucault taught us that forms of governance, knowledge and subjectification are inex-
+      tricably intertwined. Forms of governance are particularly intertwined with discourses
+      about the core of humanity, where the truth about subjects allegedly lies; thus, sexuality
+      and introspective confessions became such privileged sources of truth in early modern
+      Europe (Foucault, 1978), whereas later neoliberal governance through responsibilization
+      (Lemke, 2001) has turned choice into the core of humanity and individuality (with
+      humans conceptualized as self-entrepreneurs making choices to fulfil themselves: Rose,
+      1999b).                                                
+        Algorithmic prediction systems learn about our preferences to later reconstruct us and
+      hail or interpellate us. While being addressed as people of a certain kind and having to
+      react to this address, users develop subjectivity (Althusser, 2014). However, preferences
+      are invisible to the naked eye. How can they be known? This challenge can be met in two
+      opposite ways. One strategy is viewing preferences as demonstrations of the will, the
+      core of the modern subject: individual autonomy consists in the capacity to will, to
+      explore and know one’s will, and to act upon it, transform or determine it. This strategy
+      assumes that individuals have privileged access to their will, hence the best way to learn
+      about their preferences is to simply ask them. Contrariwise, algorithmic prediction tries
+      to infer preferences from conduct. Preferences are assumed not to be accessible through
+      reflexive introspection; instead, they allegedly lie in the myriad of documented responses
+      to stimuli (many of which are instinctive and pre-reflexive).3
+        These two strategies rely on opposite views of the core of the individual. The cogni-
+      tive sciences draw a rough distinction between two cognitive systems: fast and intuitive
+      (system 1) and slow and reflexive (system 2). Both systems inform decision-making and
+      action (although their relative importance and relationship are disputed; for a review see
+      Vila-Henninger, 2015).                                 
+                                                             
+                                                             
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+       Schwarz                                        13     
+                                                             
+        Where does our truth lie? Is our habitus (our embodied dispositions that generate
+       action automatically, or system 1 culture) truly who we are any more than our conscious-
+       ness that observes our actions and emotions, gives them meaning and tries to navigate
+       them (system 2 culture)? If the culture we internalize throughout our lives in different
+       ways – and that turns us into who we are, making us both unique individuals and mem-
+       bers of social groups – lies at both levels, as suggested by Lizardo (2017), there are good
+       sociological reasons to answer in the negative (pace Vaisey, 2009).
+        However, if epistemological technologies assume that the subject’s truth lies at one of
+       these levels only, it may increase its centrality in subjectification. Algorithmic prediction
+       relies on the assumption that the truth about us lies in our conduct as observed from the
+       outside, not in the reflexive narratives we consciously tell ourselves and others about our
+       wills and preferences – in our spontaneous reactions rather than our deliberative
+       decisions.                                            
+        This assumption has become increasingly common. Former Google data scientist
+       Stephens-Davidowitz (2017) claimed in his bestseller Everybody Lies that ‘Big Data
+       allows us to finally see what people really want and really do, not what they say they
+       want and say they do’ (p. 54). Unlike reflexive accounts, the digital traces our conduct
+       leaves behind are allegedly free of desirability bias. This truth is allegedly hidden even
+       from actors themselves, who are constantly ‘lying to themselves’, even about trivial
+       issues such as the films they want to see. Stephens-Davidowitz claims Netflix succeeded
+       once it stopped asking users to choose movies for future watching and instead predicted
+       preferences based on documented patterns, as ‘the algorithms know you better than you
+       know yourself’ (pp. 155–7). This assumption is diametrically opposed to the modern
+       assumption, studied by Foucault (1978), that our deepest truth is accessible to us through
+       reflexive introspection and to others only through confession.
+        However, this reductionist view that ignores consciousness is problematic. For exam-
+       ple, let’s imagine that when asked by a platform to choose the topics that interest you
+       most you mention foreign news but not pornography. Now, let’s imagine a TikTokized
+       platform that, not trusting your statements, conducts experiments and learns that when
+       exposed to pornographic images you stare at them slightly longer than you linger on
+       foreign news stories. From the perspective of the platform, you are interested in porn
+       more than in East European politics; hence, if this particular model is designed to maxi-
+       mize usage time using AI tools, it may decide to show you more porn and less foreign
+       news. Yet, you may well disagree, for example if you strongly believe that being updated
+       about foreign news is a civil duty of cosmopolitans and that pornography is an exploita-
+       tive form of prostitution that reproduces gender hierarchies and must be abolished. Here,
+       focusing on different levels of culture and cognition as the core of the self results in
+       opposite conclusions. While finding it hard to resist staring at pornographic images may
+       say something about you and your desires, it definitely doesn’t say everything, as data-
+       behaviourist (Rouvroy, 2013) algorithmic models celebrated by Stephens-Davidowitz
+       assume.                                               
+        Yet, these models increasingly shape apps that increasingly let predictive models
+       override users’ stated preferences (thus, dating app Tinder shows users some profiles that
+       do not meet the threshold conditions they chose, but are algorithmically predicted to be
+       ‘worth the exception’).4 These digital mirrors (Schwarz, 2021) interpellate a system-1
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+      14                              Theory, Culture & Society 42(4)
+                                                             
+      self, possibly influencing self-formation (how users experience and understand them-
+      selves) and consequently subjectification and user actions.
+        For Brubaker (2022: 43–8), algorithmic prediction calls forth a ‘post-neoliberal self’.
+      Whereas the neoliberal self-steering and entrepreneurial self was a subject of choice,
+      autonomy and responsibility, the post-neoliberal self is passive, a subject of knowledge,
+      prediction and control governed by data and algorithms, externally steered by algorith-
+      mic systems and predictably responding to stimuli. While choice remains indispensable
+      in algorithmic systems, it is emptied, as it is only used to automate and manipulate user
+      decision-making. Using Foucault’s terms, he suggested that subjectification shifts from
+      technologies of the self to technologies of power.     
+        Fisher (2022) went further, suggesting this is not a different subjectivity, but less sub-
+      jectivity: unlike other epistemic technologies, algorithmic prediction creates knowledge
+      of the self without self-reflexivity, thus impeding the formation of subjectivity and criti-
+      cal self-emancipation. This may go too far: people often reflect on the way they are mir-
+      rored by algorithmic mirroring, tell stories about how algorithms ‘see’ them (Bucher,
+      2017) and try to manipulate it (Bhandari and Bimo, 2022). The self remains the product
+      of dialogue, just as it was for Hegel and Mead: users actively participate in shaping it in
+      dialogue with algorithmic mirrors (Airoldi, 2022; Brubaker, 2022: 39–40; Schwarz,
+      2021: 39–44). And yet, choosing is no longer central to subjectification, as prediction
+      gradually replaces it.                                 
+        Brubaker (2022) called this the ‘colonization of the self’. However, this should not be
+      interpreted as implying a pre-social self prior to colonization. Our choices are always
+      socially shaped: through our subjectification (the habitus), through the social shaping of
+      situations (to which choice reacts), and through culturally-specific techniques of choice
+      (Schwarz, 2018). Sociology has long demonstrated that choice has never been fully
+      autonomous and free, and this should not be blurred by narratives on the demise of
+      autonomy and the rise of ‘behavioral modification’ (Zuboff, 2019).
+        And yet, choosing and being subject to prediction are tremendously different in their
+      phenomenology and implications for self-understanding. As Archer (2003) noted, we
+      should not collapse the past, where subjects were always socially shaped, with the pre-
+      sent, in which they act agentically. It is thus important that active choice is no longer a
+      privileged site of agency and subjectification that allegedly reveals our true self qua
+      individuals. The latter increasingly experience their uniqueness and agency through the
+      way they are predicted and react to prediction rather than through their choices. As
+      shown below, this may transform the relations between choice and individuality and be
+      politically consequential.                             
+      Individuation without Choice                           
+      Bauman described how in the late 20th century, the politically effective sacred value of
+      freedom has been redefined in terms of choice. But while taking a diluted, consumerist
+      and atomistic form, it remained freedom nevertheless. Predictive analytics allows con-
+      temporary capitalism to offer us even more far-reaching a deal: giving up this consumer-
+      ist form of autonomy and freedom to spare the trouble of choice and increase efficiency
+      and convenience for users (Brubaker, 2022: 14–15) and profits for firms. Even worse:
+                                                             
+                                                             
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+       Schwarz                                        15     
+                                                             
+       this decentring of choice takes place without giving up the role of choice in the capitalist/
+       liberal system of justifications, hence it hardly provokes resistance. While we are encour-
+       aged to engage less in reflexive choice, algorithmic prediction is framed as producing
+       what we would have chosen had we actively chosen. This is obviously fictitious: the
+       success of predictive models and their economic value are measured by increase in
+       engagement, usage and purchasing, not by their alleged capacity to predict not-yet-cre-
+       ated wills. Maximizing engagement obviously transforms, manipulates and co-creates
+       the desires it allegedly predicts.                    
+        Furthermore, the capacity to know individuals and predict their future conduct qua
+       singularities (based on close surveillance of the singular traces of their past conduct
+       rather than on group membership) dismantles a key identification in the cultural-ideolog-
+       ical scheme of modern liberalism: the identification between individuality and choice. In
+       this key 20th century liberal narrative, social and economic pressures towards massifica-
+       tion and uniformity constantly threaten individual liberty, whereas individualism, liberty
+       and authenticity consist in the capacity to resist these pressures by exercising free choice.
+       Choice symbolized individualism and liberty, since only through free choice could indi-
+       viduals be true to their unique selves in their consumption and conduct. Hence, the
+       romantic sanctification of individual uniqueness necessarily led liberal culture to also
+       sanctify free choice. This sentiment underlay the Frankfurt School’s apt critique of capi-
+       talism and Fordist massification. It was later co-opted by post-Fordist capitalism
+       (Boltanski and Chiapello, 2005) that turned the sacred status of choice into an economic
+       engine.                                               
+        Currently, predictive analytics threatens to dismantle this association between indi-
+       vidualization and choice, offering individuation without choice, or even individualiza-
+       tion without choice. Each individual can be treated differently in a way that allegedly
+       reflects one’s individuality and unique preferences, without having to choose, engage in
+       active reflection regarding one’s preferences, or weigh alternatives.
+       New Era, Old Justifications                           
+       These new relations between singularity and choice bear on an important sociological
+       question: are we still living in late modernity? Reckwitz (2020) famously dubbed con-
+       temporary society ‘the society of singularities’. Viewed from his singularization perspec-
+       tive, the two historical transformations discussed above are two movements in the same
+       directions: the post-Fordist shift from standard goods to singularization and ‘culturiza-
+       tion of commodities’ as an economic engine; and later the algorithmic singularization of
+       users in digital society. Online, Reckwitz identifies singularization at both the surface
+       level (in the algorithmic allocation of attention) and the backend (where constant data-
+       veillance of the minutiae of ordinary people’s everyday lives is used to personalize their
+       treatment and the information presented to them). For Reckwitz, reflexive consumer
+       choice and algorithmic automated singularization are complementing singularization
+       processes.5                                           
+        This focus on singularization strengthens the view that we still live in late modernity.
+       However, viewed from the perspective of choice, these two processes are not comple-
+       mentary but rather contradictory and contemporary digital technologies mark a sharp
+                                                             
+                                                             
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+      16                              Theory, Culture & Society 42(4)
+                                                             
+      break: While late modernity released us from the iron cage and individuated us through
+      individual choice (Giddens, 1994), predictive algorithms offer individualization without
+      choice. Individualization through predictive algorithms is thus a-typical not only in its
+      relations to collectivity (Lury and Day, 2019) but also in its relations to choice.
+        Bauman (1988, 2007) portrayed and criticized the earlier shift from collective-politi-
+      cal freedom to the individual-consumerist freedom of choice, challenging Hayek’s neo-
+      liberal claim that this latter form of freedom is truly democratic. With the emerging
+      post-choice society, the notion of freedom transforms once again: the neoliberal freedom
+      to fulfil oneself, express one’s singularity and be who you are (Rose, 1999b) is still cel-
+      ebrated, but it no longer depends on autonomy and the freedom to choose. In Davies’
+      (2024) terms, it’s the freedom to react rather than to act. While we can doubt whether this
+      choice-free freedom is indeed freedom (just as Bauman did for its predecessor), social
+      actors often experience it as such.                    
+        The post-neoliberal character of predictive algorithms is evident when compared with
+      nudge economics. Just like predictive algorithms, the libertarian paternalism of the
+      nudge economy assumes that choice is problematic, as irrational psychological biases
+      prevent individuals from making optimal choices that truly reflect their will (Gane,
+      2021). Yet, it seeks to correct these biases without eliminating choice altogether, by
+      changing choice architectures (e.g. by setting default options to influence choice).
+      Predictive algorithms go one significant step further in decentring choice, as evident in
+      the development of Sunstein’s ideas over the years, from Nudge to Choosing Not to
+      Choose. Gane (2021) insisted that nudge is a new version of neoliberalism, not post-
+      neoliberal, as it is still aimed at bringing people closer to the neoliberal ideal of the
+      entrepreneurial rational chooser. Yet, this cannot be said about the passivized, TikTokized
+      self of predictive algorithms.                         
+        Importantly, choice is not completely banished: prediction relies on documented past
+      behaviour, which is ‘seen to flow from conscious choices’ (Fourcade and Healy, 2017),
+      since in contemporary ‘decisionist’ culture, conduct is usually interpreted as the product
+      of individual choices (Abend, 2018). Being replaced by prediction, choice is gradually
+      banished from everyday practice without being expelled from the space of justifications:
+      it remains an ideological justification for the algorithmic determination intended to pre-
+      dict and replace it.                                   
+        Diminishing and replacing choice may thus be interpreted as the liberation of indi-
+      vidual choice from local constraints. This is evident in the morality of predictive analyt-
+      ics. As Seaver (2022) showed, the predictive analytics industry makes a moral distinction
+      between ‘bad’ filtering imposed by geographic isolation that constrains choice and
+      ‘good’ filtering by personalized algorithmic recommendations, which allegedly reflect
+      what individuals would have chosen and solve the overload caused by the removal of bad
+      filtering. The streaming industry thus decentres choice in practice but retains it as a jus-
+      tification, insisting it does not tell people what to consume but rather helps them move
+      from one product they like to others (Seaver, 2022: 141, 151), allegedly increasing ‘navi-
+      gability’ to help them ‘choose’ (Gane, 2021). Late-modern justifications are thus retained
+      to justify a no-longer-modern reality.                 
+                                                             
+                                                             
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+       Schwarz                                        17     
+                                                             
+       Conclusion: Politics beyond Choice?                   
+       As shown above, choice was first decentred in the sphere of consumption once it was no
+       longer viewed as an economic engine but as an obstacle slowing the flow of consump-
+       tion. Yet, given the centrality of choice in late-modern culture, the implications of the
+       decentring of choice go well beyond the consumption sphere. It brings about new modes
+       of subjectivity and subjectification that are no longer neoliberal and transforms the rela-
+       tions between individuality and choice. I conclude my analysis by exploring its implica-
+       tions for democracy and political legitimation.       
+        Once choice is decoupled from individuation, we must ask: does choice remain valu-
+       able beyond its individuating function? Not everyone agrees it does. Sunstein (2015)
+       suggested that choice was valuable merely since it was the best way to maximize subjec-
+       tive utility and wellbeing. Yet, under certain conditions – when individual preferences
+       can be reliably predicted, and when choosing is not an enjoyable experience – maximiz-
+       ing wellbeing no longer requires free choice. Then, he suggests, the rational choice is to
+       replace individual choice with algorithmic personalized default rules (e.g. predictive
+       shopping) that grant individuals the benefits of choice (a fit with their preferences) with-
+       out its costs in time and effort. This statement is not purely logical: it relies on the under-
+       lying normative position that autonomy and choice have no intrinsic value in themselves,
+       once they are no longer necessary for personalization and fulfilling individual desires.
+        Yet, even Sunstein admits his criteria cannot be easily deployed in the political con-
+       text, as replacing voting with default prediction would be inconsistent with the demo-
+       cratic system. It would desecrate the sacred (though often unrealized) ideal of voting as
+       the result of active deliberation.6 This deliberate choice act is at the core of political
+       legitimacy in democratic societies, as well as the core of political agency and subjectivity
+       (just as choice has constituted the core of our agency, self and humanity in late modernity
+       more generally).                                      
+        Neoliberal expert knowledge has threatened democracy and political space by fram-
+       ing political value-laden issues as the search for technical solutions, constraining public
+       debate inside a rationalistic iron cage. This was criticized first by the political left and
+       more recently by the political right (Davies and Gane, 2021). However, post-neoliberal
+       personalization and prediction pose a different threat to democracy: not only the widely-
+       debated collapse and fragmentation of the Habermasian relational publicness (Starr,
+       2021) and its alleged replacement with multiple echo-chambers, but also the more far-
+       reaching threat of framing democratic processes of deliberation and electoral choice as
+       mere ‘friction’ unnecessary for the identification and realization of the general will, and
+       their gradual displacement and replacement with predictive algorithms. The public may
+       spare the effort to politically choose once predictive algorithms predict and estimate its
+       general will.                                         
+        Indeed, substituting personalization for choice is not restricted to music streaming or
+       consumption; it expands and reaches towards the core of democracy, as it transforms
+       governance (beyond the much-discussed personalization of news consumption, which is
+       the infrastructure informing political deliberation) in several ways.
+        First, sociality on social media platforms is governed through prediction of both indi-
+       vidual wills (feed personalization) and the general will (A/B tests, which are interpreted
+                                                             
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+      18                              Theory, Culture & Society 42(4)
+                                                             
+      as unconscious, friction-free referendum-substitutes). In both cases, prediction bypasses
+      reflection and decentres conscious choice. Marc Zuckerberg stressed that Facebook lis-
+      tens to users, but less to the ‘anecdotal feedback’ of what they say and more to what they
+      ‘actually’ do, which allegedly indicates their true will (Hoffmann et al., 2018: 213;
+      Stephens-Davidowitz, 2017).                            
+        Second, this new form of governance may expand offline to ‘smart government’ of
+      smart cities, where scholars and industry actors imagine how ‘resource allocation will be
+      optimized based on the irrefutable logic of data rather than the decisions of politicians,
+      resulting in what has been termed a “post-political” world’, allegedly offering more fair-
+      ness and equality than democratic electoral politics (Kong and Woods, 2018). For exam-
+      ple, monitoring both geo-located biometric data of city users and online discourse may
+      help estimate public sentiments and physiological responses to urban spaces and adapt
+      these spaces to the general will without resorting to voting or public participation proce-
+      dures that require reflexive choice (Jahromi et al., 2019).
+        Giving up choice in the consumption sphere marks a departure from the liberal notion
+      of humanity centred around choice and its democratic promise, limited as it has been.
+      Can this notion be retained in politics while it is abandoned in other life-spheres? Can
+      choice be reduced to justification in consumption while remaining a practical principle
+      in politics? This is far from trivial: in the long run, post-choice society poses a real threat
+      to political freedom as we know it.                    
+      Acknowledgements                                       
+      I am grateful to Rogers Brubaker, Dan Kotliar and the anonymous referees for their helpful com-
+      ments on earlier versions of this paper.               
+      ORCID iD                                               
+      Ori Schwarz https://orcid.org/0000-0002-3477-4878      
+                                                             
+      Notes                                                  
+      1. For exceptions, see Schwarz (2018) on the interpretation of unwanted sex.
+      2. Neuroforecasting studies suggest that decisions based on bodily feedback (Davies, 2024),
+        neural reactions to the options (allegedly reflecting non-declarative knowledge), is superior
+        to conscious choice (e.g. van Brussel et al., 2024). 
+      3. Economists have long framed action as ‘choices’ from which ‘revealed preferences’ may
+        be derived, but only once human actions are widely datafied is it possible to assume that
+        ‘revealed preferences’ can be nearly perfectly calculated, obliterating future choice.
+      4. See: https://www.help.tinder.com/hc/en-us/articles/115003498223-The-profiles-I-see-are-
+        far-away (accessed 19 August 2023).                  
+      5. Reckwitz even uncritically accepts the prediction industry’s claim that automated singulariza-
+        tion simply reflects preexisting ‘interests and desires of subjects’ (Reckwitz, 2020: 187), and
+        hence does not inherently differ from active consumer choice.
+      6. Indeed, Austrian school economists, advertisers and market researchers used this sacred status
+        of choice in liberal democracy when they drew comparisons between consumer choice and
+        voting to legitimize consumer capitalism and its practices (Schwarzkopf, 2011) and remold
+        the notion of freedom (Bauman, 1988, 2007).          
+                                                             
+                                                             
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+       Schwarz                                        19     
+                                                             
+       References                                            
+       Abend, Gabriel (2014) The Moral Background. Princeton, NJ: Princeton University Press.
+       Abend, Gabriel (2018) Outline of a sociology of decisionism. British Journal of Sociology 69:
+         237–264.                                            
+       Airoldi, Massimo (2022) Machine Habitus. Cambridge: Polity Press.
+       Althusser, Louis (2014) On the Reproduction of Capitalism. London: Verso.
+       Archer, Margaret (2003) Structure, Agency and the Internal Conversation. Cambridge: Cambridge
+         University Press.                                   
+       Bai, Jie, Chen, Maggie, Liu, Jin, et al. (2020) Search and information frictions on global e-com-
+         merce platforms: Evidence from Aliexpress. Working Paper 28100, National Bureau of
+         Economic Research, Cambridge, MA.                   
+       Baudrillard, Jean (1998) The Consumer Society. London: Sage.
+       Bauman, Zygmunt (1988) Freedom. Milton Keynes: Open University Press.
+       Bauman, Zygmunt (1995) Life in Fragments. Oxford: Blackwell.
+       Bauman, Zygmunt (2007) Consuming Life. Cambridge: Polity Press.
+       Beck, Ulrich, Giddens, Anthony, and Lash, Scott (1994) Reflexive Modernization. Cambridge:
+         Polity Press.                                       
+       Bhandari, Aparajita and Bimo, Sara (2022) Why’s everyone on TikTok now? The algorith-
+         mized self and the future of self-making on social media. Social Media + Society 8(1):
+         20563051221086241.                                  
+       Boltanski, Luc and Chiapello, Eve (2005) The New Spirit of Capitalism. London: Verso.
+       Bose, Nandita (2018) Walmart makes push to sell online goods at $10 and up to capture elu-
+         sive e-commerce profit. Reuters, 9 February. Available at: https://www.reuters.com/article/
+         technology/-idUSKBN1FS0NZ/ (accessed 17 February 2025).
+       Bourdieu, Pierre (1984) Distinction. Cambridge, MA: Harvard University Press.
+       Brubaker, Rogers (2022) Hyperconnectivity and Its Discontents. Cambridge: Polity Press.
+       Bucher, Taina (2017) The algorithmic imaginary: Exploring the ordinary affects of Facebook algo-
+         rithms. Information Communication & Society 20(1): 30–44.
+       Choi, W. Jason, Liu, Qihong, and Shin, Jiwoong (2024) Predictive analytics and ship-then-shop
+         subscription. Management Science 70(2): 1012–1028.  
+       Cohn, Jonathan (2019) The Burden of Choice. New Brunswick, NJ: Rutgers University Press.
+       Cronin, Anne M. (2000) Consumerism and ‘compulsory individuality’: Women, will and potential.
+         In: Sara Ahmed, Jane Kilby,and Celia Lury, et al. (eds) Transformations. London: Routledge,
+         pp. 273–288.                                        
+       Davies, William (2024) Reaction value: Affective reflex in the digital public sphere. Distinktion
+         25(3): 297–317.                                     
+       Davies, William and Gane, Nicholas (2021) Post-neoliberalism? An introduction. Theory, Culture
+         & Society 38(6): 3–28.                              
+       Featherstone, Mike (1991) Consumer Culture and Postmodernism. London: Sage.
+       Fisher, Eran (2022) Epistemic media and critical knowledge about the self: Thinking about algo-
+         rithms with Habermas. Critical Sociology 48(7–8): 1309–1324.
+       Foucault, Michel (1978) The History of Sexuality, Volume I. Harmondsworth: Penguin.
+       Fourcade, Marion and Healy, Kieran (2017) Seeing like a market. Socio-Economic Review 15(1):
+         9–29.                                               
+       Friedman, Vanessa (2018) Shedding T-shirt for a suit and tie. The New York Times, 11 April.
+       Gane, Nicholas (2021) Nudge economics as libertarian paternalism. Theory, Culture & Society
+         38(6): 119–142.                                     
+       Giddens, Anthony (1991) Modernity and Self-Identity. Cambridge: Polity Press.
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+      20                              Theory, Culture & Society 42(4)
+                                                             
+      Giddens, Anthony (1994) Risk, trust, reflexivity. In: Ulrich Beck, Anthony Giddens, and Scott
+        Lash (eds) Reflexive Modernization. Cambridge: Polity Press, pp. 184–197.
+      Graham, Timothy and Henman, Paul (2019) Affording choice: How website designs create and
+        constrain ‘choice’. Information, Communication & Society 22(13): 2007–2023.
+      Hanson, Jon and Hanson, Kathleen (2006) The blame frame: Justifying (racial) injustice in
+        America. Harvard Civil Rights-Civil Liberties Law Review 41: 413–480.
+      Hoffmann, Anna Lauren, Proferes, Nicholas, and Zimmer, Michael (2018) ‘Making the world
+        more open and connected’: Mark Zuckerberg and the discursive construction of Facebook
+        and its users. New Media & Society 20(1): 199–218.   
+      Horwitz, Jeff and Seetharaman, Deepa (2020) Facebook executives shut down efforts to make
+        the site less divisive. The Wall Street Journal, 26 May 2020. Available at: https://on.wsj.
+        com/3tuCuOs (accessed 17 February 2025).             
+      Illouz, Eva (2007) Cold Intimacies. Cambridge: Polity Press.
+      Illouz, Eva (2012) Why Love Hurts. Cambridge: Polity Press.
+      Illouz, Eva and Finkelman, Shoshannah (2009) An odd and inseparable couple: Emotion and
+        rationality in partner selection. Theory and Society 38(4): 401–422.
+      Iyengar, Shanto (2011) The Art of Choosing. New York, NY: Twelve.
+      Iyengar, Shanto and Lepper, Mark (2000) When choice is demotivating: Can one desire too much
+        of a good thing? Journal of Personality and Social Psychology 79: 995–1006.
+      Jahromi, Ali Jabbari, Oram, Mei-Yee Man, and Shrisankaraan, Villupuram Santhanam, et al.
+        (2019) Citizens as real-time emotional sensors in smart cities. ICSIC. Available at: https://
+        www.icevirtuallibrary.com/doi/full/10.1680/icsic.64669.571 (accessed 17 February 2025).
+      Kong, Lily and Woods, Orlando (2018) The ideological alignment of smart urbanism in Singapore:
+        Critical reflections on a political paradox. Urban Studies 55(4): 679–701.
+      Kotliar, Dan (2021) Who gets to choose? On the socio-algorithmic construction of choice. Science,
+        Technology & Human Values 46(2): 346–375.            
+      Lemke, Thomas (2001) ‘The birth of bio-politics’: Michel Foucault’s lecture at the Collège de
+        France on neo-liberal governmentality. Economy and Society 30(2): 190–207.
+      Lizardo, Omar (2017) Improving cultural analysis: Considering personal culture in its declarative
+        and non-declarative modes. American Sociological Review 82(1): 88–115.
+      Lury, Celia and Day, Sophie (2019) Algorithmic personalization as a mode of individuation.
+        Theory, Culture & Society 36(2): 17–37.              
+      Miller, Peter and Rose, Nikolas (1990) Governing economic life. Economy and Society 19(1):
+        1–31.                                                
+      Mortensen, Dale T. (2011) Markets with search friction and the DMP model. American Economic
+        Review 101: 1073–1091.                               
+      Reckwitz, Andreas (2020) The Society of Singularities. Cambridge: Polity Press.
+      Reith, Gerda (2004) Consumption and its discontents: Addiction, identity and the problems of
+        freedom. British Journal of Sociology 55(2): 283–300.
+      Rose, Nikolas (1999a) Governing the Soul. London: Free Association Books.
+      Rose, Nikolas (1999b) Powers of Freedom. Cambridge: Cambridge University Press.
+      Rouvroy, Antoinette (2013) The end(s) of critique: Data-behaviourism vs. due-process. In:
+        Mireille Hildebrandt and Katja de Vries (eds) Privacy, Due Process and the Computational
+        Turn. New York, NY: Routledge, pp. 143–169.          
+      Schwartz, Barry (2004) The Paradox of Choice. New York, NY: Ecco.
+      Schwarz, Ori (2018) Cultures of choice: Towards a sociology of choice as a cultural phenomenon.
+        British Journal of Sociology 69(3): 845–864.         
+      Schwarz, Ori (2021) Sociological Theory for Digital Society. Cambridge: Polity Press.
+
+[PAGE 19]
+                                                             
+                                                             
+                                                             
+       Schwarz                                        21     
+                                                             
+       Schwarzkopf, Stefan (2011) The consumer as ‘voter’, ‘judge’ and ‘jury’: Historical origins and
+         political consequences of a marketing myth. Journal of Macromarketing 31(1): 8–18.
+       Seaver, Nick (2022) Computing Taste. Chicago, IL: University of Chicago Press.
+       Shankar, Avi, Cherrier, Hélène, and Canniford, Robin (2006) Consumer empowerment: A
+         Foucauldian interpretation. European Journal of Marketing 40(9/10): 1013–1030.
+       Simmel, Georg (1957) Fashion. American Journal of Sociology 62(6): 541–558.
+       Simon, Herbert (1971) Designing organizations for an information-rich world. In: Martin
+         Greenberger (ed.) Computers, Communications, and the Public Interest. Baltimore, MD:
+         Johns Hopkins University Press, pp. 38–52.          
+       Sorensen, Herb (2008) Long tail media in the store. Journal of Advertising Research 48: 329–338.
+       Starr, Paul (2021) The relational public. Sociological Theory 39(2): 57–80.
+       Stephens-Davidowitz, Seth (2017) Everybody Lies. New York, NY: HarperCollins.
+       Sunstein, Cass R. (2015) Choosing Not to Choose. New York, NY: Oxford University Press.
+       Vaisey, Stephen (2009) Motivation and justification: A dual-process model of culture in action.
+         American Journal of Sociology 114: 1675–1715.       
+       van Brussel, Leonard D., Boksem, Maarten A. S., Dietvorst, Roeland C., et al. (2024) Brain activ-
+         ity of professional investors signals future stock performance. PNAS 121(16): e2307982121.
+       Vila-Henninger, Luis (2015) Towards defining the causal role of consciousness: Using models of
+         memory and moral judgement from cognitive neuroscience to expand the sociological dual-
+         process model. Journal for the Theory of Social Behaviour 45(2): 238–260.
+       Walmart (2005) Our retail divisions. 6 January. Available at: https://corporate.walmart.com/news-
+         room/2005/01/06/our-retail-divisions (accessed 24 August 2023).
+       Wellman, Barry (2002) Little boxes, glocalization, and networked individualism. In: Makoto
+         Tanabe, Peter Besselaar, and Toru Ishida (eds) Digital Cities II. Berlin: Springer, pp. 10–25.
+       Zuboff, Shoshana (2019) The Age of Surveillance Capitalism. New York, NY: PublicAffairs.
+       Ori Schwarz is Associate Professor of Sociology at Bar-Ilan University and the author of
+       Sociological Theory for Digital Society (Polity, 2021). His research interests include digital sociol-
+       ogy, cultural sociology and sociological theory.      
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 20]
+                                                             
+                                                             
+                                                             
+                          Body                     &         
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                        Society                              
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                Editor-in-Chief:
+                                             MMiikkee FFeeaatthheerrssttoonnee
+                                   GGoollddssmmiitthhss,, UUnniivveerrssiittyy ooff LLoonnddoonn,, UUKK
+                                                     Editor: 
+                                               Lisa Blackman 
+                                   GGoollddssmmiitthhss,, UUnniivveerrssiittyy ooff LLoonnddoonn,, UUKK
+                                                             
+                                               Managing Editor:
+                                               Tomoko Tamari 
+                                   GGoollddssmmiitthhss,, UUnniivveerrssiittyy ooff LLoonnddoonn,, UUKK
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+    Body & Society hhaass ffrroomm iittss iinncceeppttiioonn iinn MMaarrcchh 11999955 aass aa ccoommppaanniioonn jjoouurrnnaall ttoo
+    Theory, Culture & Society, ppiioonneeeerreedd aanndd sshhaappeedd tthhee fifi eelldd ooff bbooddyy--ssttuuddiieess.. IItt
+    has been committed to theoretical openness characterized by the publication of
+    a wide range of critical approaches to the body, alongside the encouragement
+                                                             
+    and development of innovative work that contains a transdisciplinary focus.
+                                                             
+                                                             
+                                                             
+                                                             
+    journals.sagepub.com/home/bod                            
+                                                             

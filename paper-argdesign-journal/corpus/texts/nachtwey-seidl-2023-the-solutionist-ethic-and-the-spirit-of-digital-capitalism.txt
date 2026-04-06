@@ -1,0 +1,1381 @@
+[PAGE 1]
+ 1196829                                                     
+ research-article2023 TCS0010.1177/02632764231196829Theory, Culture & SocietyNachtwey and Seidl
+                                                             
+                                                             
+       Article                                               
+                                             Theory, Culture & Society
+       The Solutionist Ethic and the          2024, Vol. 41(2) 91 –112
+                                              © The Author(s) 2023
+       Spirit of Digital Capitalism                          
+                                              Article reuse guidelines:
+                                          sagepub.com/journals-permissions
+                                        httpDs:O//dIo: i1.o0r.g1/1107.711/0727/60322673267462432131119966882299
+                                           journals.sagepub.com/home/tcs
+       Oliver Nachtwey                                       
+       University of Basel                                   
+       Timo Seidl                                            
+       University of Vienna                                  
+                                                             
+                                                             
+       Abstract                                              
+       Digital technologies are rapidly transforming economies and societies. Scholars have
+       approached this rise of digital capitalism from various angles. However, relatively little
+       attention has been paid to digital capitalism’s cultural underpinnings and the beliefs of
+       those who develop most digital technologies. In this paper, we argue that a solutionist
+       order of worth – in which value derives from solving social problems through technology
+       – has become central to an emerging spirit of digital capitalism. We use supervised
+       learning to trace the relative importance of different orders of worth in three novel
+       text corpora. We find that solutionism is indeed central to the normative beliefs of
+       digital elites and the broader digital milieu, but not to capitalist discourse at large.
+       We illustrate the importance of these findings by discussing how the spirit of digital
+       capitalism motivates, legitimates, and orients the actions of digital capitalists.
+                                                             
+       Keywords                                              
+       digital capitalism, digitalization, Silicon Valley, spirit of capitalism, text-as-data
+                                                             
+                                                             
+       Introduction                                          
+       From meeting people to building things, from ordering food to consuming news, digitali-
+       zation is transforming contemporary economies and societies. Existing scholarship has
+       approached the accompanying rise of ‘digital capitalism’ (Seidl, 2023; Staab, 2019) from
+       different angles. Some scholars have focused on the growing use of digital surveillance
+       and manipulation (Tirole, 2021; Zuboff, 2019); others on the central role of digital plat-
+       forms (Stark and Pais, 2020; Vallas and Schor, 2020) or the (variegated) organizational
+                                                             
+                                                             
+       Corresponding author: Timo Seidl. Email: timo.seidl@univie.ac.at
+       TCS Online Forum: https://www.theoryculturesociety.org/
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+      92                              Theory, Culture & Society 41(2)
+                                                             
+      logic of digital capitalism (Davis and Sinha, 2021; Rahman and Thelen, 2019); yet others
+      on the implications of digitalization for labor markets (Frey, 2019), political behavior
+      (Gallego and Kurer, 2022), welfare states (Busemeyer et al., 2022) or growth models
+      (Hassel and Palier, 2020); and still others on the political power of tech companies and
+      the comparative politics of their (non-)regulation (Culpepper and Thelen, 2019; Thelen,
+      2018).                                                 
+        However, relatively little scholarly attention has been paid to how those that design,
+      develop and deploy the majority of digital technologies (claim to) see the world and their
+      role in it. Complementing recent work on the cultural and political attitudes of tech
+      workers (Dorschel, 2022; Selling and Strimling, 2023), we look at the beliefs of digital
+      elites themselves as well as at the ideas prevalent in the wider tech milieu and capitalist
+      discourse at large. Specifically, we add a novel theoretical and empirical perspective to
+      existing survey-based (Broockman et al., 2019), text-based (Brockmann et al., 2021;
+      Little and Winch, 2021), historical (Barbrook and Cameron, 1996; Turner, 2006), and
+      discursive (Daub, 2020; Fisher, 2010; Haupt, 2021; Pfotenhauer et al., 2022) research on
+      the ideas and ideology of digital capitalism in general and Silicon Valley in particular.1
+      Our approach is not meant to supersede these approaches, but to add an additional per-
+      spective to our understanding of the normative and cultural underpinnings of digital
+      capitalism – one that is grounded in a rich tradition of scholarship ranging back to Werner
+      Sombart and Max Weber.                                 
+        Theoretically, we combine the concept of technological solutionism (Morozov,
+      2013) with the ‘economics of convention’ reinterpretation of the Weberian concept of
+      the spirit of capitalism’ (Boltanski and Chiapello, 2007; Boltanski and Thévenot,
+      2006). Following Weber, we define the spirit of capitalism as the combination of nor-
+      mative beliefs that legitimate, motivate, and orient the actions of capitalist actors (cf.
+      Weber, 2007). And following the economics of convention, we conceptualize these
+      normative beliefs as orders of worth or polities (cités) that define ‘the good, the just,
+      and the fair – but according to different criteria of judgment’ (Stark, 2009: 12). We
+      argue that solutionism constitutes a new order of worth that characterizes – although
+      not exclusively – the spirit of digital capitalism, i.e. the beliefs that legitimate, moti-
+      vate, and orient the actions of today’s digital elites (founders, venture capitalists, sen-
+      ior engineers and managers, etc.).                     
+        Solutionism refers to the belief that the use of digital technologies – by inventive
+      and cunning entrepreneurs – is the royal road to fixing social problems. This strange
+      ‘mix of commerce and cause’ (Slee, 2016: 9) is based on the assumption that there is a
+      techno-entrepreneurial solution to every social problem (Morozov, 2013: 5). For solu-
+      tionists, there is no contradiction between making money and making the world a bet-
+      ter place; in fact, the world’s biggest problems are also the world’s biggest business
+      opportunities. Thus, much like the early Protestants believed that economic success is
+      a sign of chosenness, the solutionist entrepreneurs are convinced that if they are doing
+      good, they will also do well; and conversely, that if they are doing well, they must also
+      be doing good. This is not to say that digital elites cannot deceive themselves and oth-
+      ers about what they believe. Nor is it to say that they – like other ‘enlightened capital-
+      ists’ before them – will not often put principles over profits given the capitalist laws of
+                                                             
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+       Nachtwey and Seidl                             93     
+                                                             
+       motion (cf. O’Toole, 2019). But professed – and, we would argue, often genuinely held
+       – beliefs still matter if they influence how employees, policymakers and the public
+       perceive digital elites, and how these elites themselves decide under conditions of
+       uncertainty.                                          
+        Empirically, we developed a coding scheme to classify statements as expressions of
+       different orders of worth. We then used a supervised classification method (Hopkins
+       and King, 2010; Jerzak et al., 2022) to identify and trace the relative importance of
+       different orders of worth in three novel text corpora: a corpus of digital elites’ public
+       speeches and interviews, of articles in Wired Magazine, and of articles in the Harvard
+       Business Review. Based on these three corpora, we find that solutionist ideas are (i)
+       indeed central to how digital elites see themselves, to embody, as it were, the ‘spirit of
+       the founders’ (Little and Winch, 2021: 14); (ii) have also become increasingly impor-
+       tant in broader debates on digitalization; but (iii) remain still marginal in capitalist
+       discourse at large which, for now, is still characterized by Boltanski and Chiapello’s
+       project-based ‘new spirit of capitalism’ (Boltanski and Chiapello, 2007). While the
+       focus of this paper is to descriptively map the broad contours of the spirit of digital
+       capitalism, we also discuss our findings and illustrate their importance in light of pri-
+       mary and secondary literature on the motivating, legitimizing, and orienting role of
+       (normative) ideas. In addition, while we follow in Weber’s footsteps by analyzing an
+       emerging capitalist spirit in a spatially concentrated area – Geneva in his case, Silicon
+       Valley in ours – we encourage further research on the complex dynamics of geographi-
+       cal and social diffusion and translation.             
+        Our paper proceeds as follows. We first provide a conceptual history of the concept of
+       the spirit of capitalism. We then describe the solutionist order of worth in detail. Next, we
+       introduce our data and methodological approach. We then present our findings and dis-
+       cuss their importance for understanding digital capitalism. We conclude with a discus-
+       sion on the future of the spirit of digital capitalism in times of ‘techlash’, pandemic, and
+       the unabated rise of digital technologies.            
+       The Spirit of Capitalism – Revisited                  
+       The concept of the capitalist spirit undoubtedly belongs to the most colorful and contro-
+       versial concepts in the history of sociological thought. It was first introduced by Werner
+       Sombart in Der moderne Kapitalismus. For Sombart, every economic epoch was defined
+       as much by its predominant economic attitudes – its spirit – as by its institutional form
+       (Sombart, 1902). By arguing that the capitalist spirit was defined by a combination of
+       acquisitiveness and economic rationalism, Sombart laid the conceptual groundwork for
+       an inquiry into capitalism’s ideational underpinnings (Sombart, 1902: 391). Sombart
+       also had already emphasized the ‘general acceptance’ (Sombart, 1902: 379) which the
+       spirit lent to acquisitive and rationalistic attitudes and its role in creating and sustaining
+       capitalism’s ‘dominant motives’ (Sombart, 1902: XXI). 
+        Max Weber borrowed Sombart’s concept in his famous study The Protestant Ethic
+       and the Spirit of Capitalism. What Weber had in mind, however, was less a cognitive
+       attitude than a ‘peculiar ethic’ (Weber, 2007: 17). Weber’s capitalist spirit is not ‘mere
+                                                             
+                                                             
+                                                             
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+      94                              Theory, Culture & Society 41(2)
+                                                             
+      business astuteness’ but an ‘ethos’, the violation of which ‘is treated not as foolishness
+      but as forgetfulness of duty’ (Weber, 2007: 17). Like Sombart, Weber believed that the
+      capitalist spirit subjectively motivated capitalist actions through ‘psychological sanc-
+      tions’ (Weber, 2007: 145) and intersubjectively legitimated them by helping capitalism
+      assert itself in a ‘world of hostile forces’ (Weber, 2007: 20–21; cf. Campbell, 2018: 12).
+      Weber also believed that ideas could play an orienting role: like ‘switchmen’ (Weber,
+      1946: 280), they can change the tracks on which (capitalist) actors pursue their economic
+      interests.                                             
+        Weber’s account, however, remained genealogical. The capitalist spirit fades away
+      after having performed its midwifely function. Today’s capitalism, according to Weber,
+      no longer needs the helping hand of its spirit, but ‘educates and selects [economic
+      actors] through a process of economic survival of the fittest’ (Weber, 2007: 20). Almost
+      a century later, this idea is picked up by Boltanski and Chiapello in The New Spirit of
+      Capitalism. Building on Weber’s idea that ‘people need powerful moral reasons for
+      rallying to capitalism’, they define the capitalist spirit as an ‘ideology that justifies
+      engagement in capitalism’ (Boltanski and Chiapello, 2007: 8–9). On the one hand, a
+      ‘minimal argument in terms of compulsory submission to economic laws’ might be ‘a
+      motive for staying in a job’, but it isn’t one ‘for getting involved in it’ (Boltanski and
+      Chiapello, 2007: 8). On the other hand, capitalism needs to constantly assuage its
+      ‘social’ and ‘artistic’ critics by selectively appropriating and thereby diffusing their
+      critiques of the poverty, inequality, and exploitation (social critics) or alienation,
+      oppression, and disenchantment (artistic critics) capitalism produces (Boltanski and
+      Chiapello, 2007: 38).                                  
+        Contrary to Weber, therefore, Boltanski and Chiapello do not believe capitalism can
+      do without its spirit. But to effectively justify itself over time, capitalism needs ‘to draw
+      upon resources external to it, beliefs which, at a given moment in time, possess consider-
+      able powers of persuasion’ (Boltanski and Chiapello, 2007: 20). Here, Boltanski and
+      Chiapello draw on the economics of convention (Diaz-Bone and Salais, 2011) and argue
+      that ‘modern economies comprise multiple principles of evaluation’ (Stark, 2009: 11).
+      While all such principles – or orders of worth or polities (cités) – provide ‘justifications
+      in terms of the common good’ (du Gay and Morgan, 2013: 13), they have different moral
+      ‘grammars’ and different appeal in different contexts. 
+        Table 1 provides a stylized reconstruction of the eight polities identified by the eco-
+      nomics of convention (Boltanski and Chiapello, 2007; Boltanski and Thévenot, 2006;
+      Thévenot et al., 2000) and the solutionist polity introduced below. Most importantly,
+      each polity defines what is valuable or worthy (e.g. efficiency in the industrial polity,
+      recognition by others in the opinion polity). This is further specified by a criterion of
+      evaluation (e.g. technical performance or productivity, fame or followers); a mode of
+      investment or sacrifice (e.g. disenchantment, the forgoing of privacy); a distinct ideal
+      representative (e.g. the manager, the celebrity); a type of insanity or pathology (e.g.
+      squander, anonymity); an evaluation test (e.g. a formal test procedure, publicity); and a
+      specific underlying anthropology and cosmology (e.g. the idea that the world can be
+      mastered through calculation and planning, the idea of humans as craving for
+      recognition).                                          
+                                                             
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+       Nachtwey and Seidl                             95     
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+              .weivrevo                                      
+                                                             
+                                                             
+              ytiloP                                         
+                                                             
+              .1                                             
+              elbaT                                          
+                 tsinoituloS                                 
+                 neerG                                       
+                 tcejorP                                     
+                 civiC                                       
+                 noinipO                                     
+                 citsemoD                                    
+                 noitaripsnI                                 
+                 lairtsudnI                                  
+                 tekraM                                      
+                 fo                                          
+                 redrO                                       
+                  noitacifitsuJ                              
+                    laicos                                   
+                    yek gnivloS                              
+                    ytilibaniatsuS                           
+                    )ytiligA(                                
+                    ytivitcA                                 
+                    dooG                                     
+                    cilbuP                                   
+                    noitingoceR                              
+                    lacoL/lanoitidarT                        
+                    ytilanigirO                              
+                    ycneiciffE                               
+                    )lacinhceT(                              
+                    noititepmoC                              
+                    eerF                                     
+                    eulaV                                    
+                    lartneC                                  
+                     smelborp                                
+                     ytirohtuA                               
+                      gnilbanE                               
+                      dna                                    
+                      gnidargpU                              
+                      ,ycneiciffuS                           
+                      -fles                                  
+                      lufsseccuS                             
+                      ,denrevog                              
+                      eluR                                   
+                      emaf                                   
+                      ,nwoneR                                
+                      ,meetse                                
+                      lacoL                                  
+                      ,ytivitaerC                            
+                      lacinhceT                              
+                      ecirP                                  
+                      ,eulaV                                 
+                      noitaulavE                             
+                       ytinamuH/snamuH                       
+                       latnemnorivne                         
+                       rebmun                                
+                       ,tnemeganam                           
+                       ,noitatneserper                       
+                       noitingocer                           
+                       lanosrep                              
+                       ,ytimrofnoc-noN                       
+                       ,ecnamrofrep                          
+                       airetirC                              
+                        ssenildneirf                         
+                        dna                                  
+                        stcejorp                             
+                        fo                                   
+                        ytiradilos                           
+                        ,yticitnehtuA                        
+                        ,ytivitcudorp                        
+                         stcatnoc                            
+                         ynahpipE                            
+                         gninnalp                            
+                          )eruliaF(                          
+                          gnikaT-ksiR                        
+                          gnidiovA                           
+                          ytilibats                          
+                          fo                                 
+                          gniogroF                           
+                          s’eno                              
+                          gniogroF                           
+                          gniogroF                           
+                          rof                                
+                          ytilibisnopseR                     
+                          ni gnittif                         
+                          toN                                
+                          tnemtnahcnesiD                     
+                          msinutroppO                        
+                          fo                                 
+                          edoM                               
+                           seitilanretxE                     
+                           stseretni                         
+                           nwo                               
+                           ycavirp                           
+                           ot tnemhcatta                     
+                           dna                               
+                           tnemtsevni                        
+                            lacol                            
+                            eht/sroirefni                    
+                            )ecifircas(                      
+                             ruenerpertnE-orhtnalihP         
+                             tsilatnemnorivnE                
+                             fles                            
+                             lairnerpretnE                   
+                             ,tnavreS                        
+                             cilbuP                          
+                             ytirbeleC                       
+                             hcrairtaP                       
+                             )ynapmoC(                       
+                             ,suineG                         
+                             evitaerC                        
+                             ,reenignE                       
+                             tnahcrem                        
+                             ,namssenisuB                    
+                             epyT                            
+                             laedI                           
+                              naicitilop                     
+                              suoutriv                       
+                              tifsiM                         
+                              trepxe                         
+                              lanoisseforp                   
+                                tuohtiw                      
+                                ssenisuB                     
+                                lanoitidnocnU                
+                                ytivitcani                   
+                                ,ytilibommI                  
+                                noitpurroC                   
+                                ytimynonA                    
+                                noitpmuserP                  
+                                ytimrofnoC                   
+                                ,ytienatnopS                 
+                                noitalugeR                   
+                                ytinasnI                     
+                                 tuohtiw                     
+                                 esoprup                     
+                                 ,esoprup                    
+                                 htworG                      
+                                 rednauqS                    
+                                  ygolonhcet                 
+                                  ,ygolonhcet                
+                                   ssenisub                  
+                                   a tuohtiw noitpursiD      
+                                    yhtlaeH                  
+                                    stcejorp                 
+                                    wen                      
+                                    gnidniF                  
+                                    dna                      
+                                    sthgir                   
+                                    lauqE                    
+                                    yticilbuP                
+                                    ssenihtrowtsurT          
+                                    lanigirO                 
+                                    tset                     
+                                    erudecorP                
+                                    ssenevititepmoC          
+                                    tseT                     
+                                     tnemnorivnE             
+                                     tartnoc(                
+                                     seitud                  
+                                     ,sthguoht               
+                                      )laicos                
+                                      ,noitnevni snoitaerc   
+                                        tub                  
+                                        swalf                
+                                        evah                 
+                                        snamuH               
+                                        a deen               
+                                        snamuH               
+                                        sa                   
+                                        snamuH               
+                                        sa                   
+                                        snamuH               
+                                        sa                   
+                                        snamuH               
+                                        sa                   
+                                        ynomrah              
+                                        larutaN              
+                                        fo citehtseA         
+                                        yteicoS              
+                                        dna erutaN           
+                                        rieht                
+                                        wollof               
+                                        snamuH               
+                                        /                    
+                                        ygoloporhtnA         
+                                         ygolonhcet          
+                                         ,laitnetop          
+                                         osla                
+                                         elbats              
+                                         ,suoinomrah         
+                                         sevles              
+                                         lairuenerpertne     
+                                         slauqe              
+                                         lacitilop           
+                                         rof                 
+                                         gnivarc             
+                                         larutan             
+                                         fo tluser           
+                                         a                   
+                                         dna                 
+                                         suineG              
+                                         eht                 
+                                         deretsam            
+                                         eb                  
+                                         nac                 
+                                         ,tseretni-fles      
+                                         denethgilne         
+                                         ygolomsoC           
+                                          snoitautis         
+                                          niw-niw            
+                                          setaerc            
+                                          htiw               
+                                          pihsnoitaler       
+                                          dlrow              
+                                          detcennoc          
+                                          a                  
+                                          ni                 
+                                          noitingocer        
+                                          yhcrareih          
+                                          fo                 
+                                          ytimrofnoC         
+                                          noitaluclac        
+                                          hguorht            
+                                          niw-niw            
+                                          etaerc             
+                                          stekram            
+                                           tnemnorivne       
+                                           rieht             
+                                           sessam            
+                                           eht               
+                                           gninnalp          
+                                           dna               
+                                           )dnah             
+                                           elbisivni(        
+                                           snoitautis        
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+      96                              Theory, Culture & Society 41(2)
+                                                             
+        The spirit of capitalism – in its historical evolution – draws on and combines these
+      orders of worth, tapping into the moral resources they provide (Boltanski and Chiapello,
+      2007: 16–19). It can be understood as the historically evolving combination of norma-
+      tive beliefs that motivate, legitimate, and orient the actions of capitalist actors at differ-
+      ent moments in capitalist history. For example, during the heyday of the managerial
+      capitalism of the 20th century, the industrial polity – with its emphasis on rational
+      organization and bureaucratic planning – becomes dominant at the expense of the
+      domestic polity – the manager replaces the company patriarch as capitalism’s heroic
+      figure. Similarly, in the 1970s, a new spirit of capitalism formed around the project-
+      based polity and its values of agility, flexibility, and collaboration (Boltanski and
+      Chiapello, 2007). Today, we argue, we see yet another spirit emerge in which an ethic
+      of solutionism2 takes center stage, but which – like its predecessors – continues to draw
+      on multiple orders of worth.                           
+      The Ethic of Solutionism                               
+      Evgeny Morozov defines solutionism as an ideology that recasts ‘all complex social situ-
+      ations either as neatly defined problems with definite, computable solutions or as trans-
+      parent and self-evident processes that can be easily optimized – if only the right algorithms
+      are in place’ (Morozov, 2013: 5). Building on Morozov, we conceive of the solutionist
+      polity as an order of worth in which value or worthiness derives from solving social prob-
+      lems with technological means. This implies a view of the world in which all relevant
+      social problems can, in principle, be solved technologically; in which there is a techno-
+      logical hammer for every social nail. Social problems are not the result of asymmetries in
+      power or wealth that call for a political solution. Rather, they are the result of inefficien-
+      cies and deficiencies that can be eliminated with the right technology (Slee, 2016).
+        While digital technologies have massively amplified the reach and appeal of solution-
+      ist ideas (Morozov, 2013: 15–16), solutionism is not a product of the digital era but has
+      deeper roots: in the culture of engineering and its belief that there is a ‘technological fix’
+      to all societal problems (Johnston, 2017) as well as in the ‘New Communalist ethos of
+      tool use’ (Turner, 2006: 238) and their faith ‘that experimentation and the proper deploy-
+      ment of the right technologies could save the world’ (Turner, 2006: 244). These techno-
+      optimist tendencies are amplified by the culture of coding, which nurtures an ‘almost
+      aesthetic [. . .] dislike for inefficiency’ (Thompson, 2019: 21); and a hubristic control
+      illusion that understands social problems in the same way as coding problems by extrap-
+      olating from the programmer’s intuition that one ‘can program any procedure [one] thor-
+      oughly understand[s]’ (Weizenbaum, 1976: 103–4). Such ‘computational thinking’
+      (Denning and Tedre, 2019) is perfectly epitomized by Mark Zuckerberg’s belief that the
+      ‘first principle’ of engineering is to ‘think of every problem as a system and every system
+      can be better. No matter how good or bad it is, you can make every system better’.
+        But despite the importance of technology, solutionists are more than just engineers or
+      coders. They are, in Schumpeter’s sense, not inventors but innovators. An invention that
+      cannot be commercialized is a bad invention. Larry Page realized this early, when read-
+      ing a biography of Nicola Tesla, who was a brilliant inventor but a terrible innovator:
+                                                             
+                                                             
+                                                             
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+       Nachtwey and Seidl                             97     
+                                                             
+        ‘You don’t want to be Tesla. He was one of the greatest inventors, but it’s a sad, sad story. He
+        couldn’t commercialize anything, he could barely fund his own research. You’d want to be
+        more like Edison. If you invent something, that doesn’t necessarily help anybody. You’ve got
+        to actually get it into the world; you’ve got to produce, make money doing it so you can fund
+        it.’ (quoted in Serwer, 2008)                        
+       Therefore, to really make a difference, the solutionist needs to be an entrepreneur as
+       much as a technologist. But solutionists are not just entrepreneurs; they are philanthro-
+       entrepreneurs. In the solutionist worldview, making money and making the world a bet-
+       ter place are not contradictory but can and should go hand in hand. Silicon Valley, as Tom
+       Slee put it, ‘may have its share of the world’s richest people, but it has always seen itself
+       and presented itself as being about more than money: it’s also about building a better
+       future’ (Slee, 2016: 9). The solutionists not only abhor the lone inventors, who know
+       their way with technology but have no business model. They also reject those who, like
+       bankers on Wall Street, lack purpose and are only in it for the money.
+        But purpose alone – without technology and a viable business model – is equally
+       flawed. Hence the rejection of traditional politics as the best way to address social ills – a
+       rejection that echoes the New Communalists’ turn ‘toward social and economic spheres
+       as sites [of] social change’ (Turner, 2006: 244). Solutionism shares this sentiment with
+       philanthrocapitalism – the idea and practice of applying a business logic to philanthropy
+       in order to make it more efficient, impact-oriented and financially profitable (McGoey,
+       2012). But while philanthrocapitalism is about the ‘idea that charity is good business’
+       and can therefore be profitable (McGoey, 2012: 187), solutionism is about the idea that
+       business itself can be philanthropic.                 
+        In the solutionist worldview, there is a natural alignment between business opportu-
+       nities and social problems. We live, as Silicon Valley guru Peter Diamandis puts it, in
+       ‘a world where the biggest problems on the planet are the biggest market opportuni-
+       ties’. Philanthropy is thus neither a separate stage of life nor a more or less profitable
+       side business. Traditional philanthropists in the wake of Carnegie had espoused the
+       idea that ‘after-the-fact benevolence justifies anything-goes capitalism; that callous-
+       ness and injustice in the cutthroat [marketplace] are excused by later philanthropy’
+       (Giridharadas, 2018: 164). For solutionists, doing good is not an atonement for doing
+       well, but simply the other side of the same coin. ‘It’s been a yin and yang equation’, as
+       Tom Werner once put it: ‘We’re changing the world on one side and building a great
+       company on the other side’.                           
+        Capitalists have of course long believed that the invisible hand of the market will
+       transform private vices into public benefits. Solutionists, by contrast, believe that the
+       companies with the grandest purpose will miraculously also be the companies with the
+       biggest profit. Underlying this idea is an ‘almost religious faith’ (Giridharadas, 2018: 41)
+       in the harmony of human interests and the ability of technologies to create win-win situ-
+       ations (cf. Brandtner and Bromley, 2022).             
+        What’s amazing about tech [. . .] is that there are so many opportunities to have your cake and
+        eat it, too [. . .] There’s a stereotype that you have to choose in life between doing good and
+                                                             
+                                                             
+                                                             
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+      98                              Theory, Culture & Society 41(2)
+                                                             
+        making money. I think for a lot of people that’s a real choice [. . .] But for technology, there are
+        a significant number of opportunities – Google search being the most massive example of all
+        time – where we simultaneously are doing something lucrative and really good for the world.
+        [A] lot of times you can get in situations where they’re all aligned, where the bigger the reach
+        of the good you’re doing, the more money you’ll make. (Justin Rosenstein in Giridharadas,
+        2018: 41)                                            
+      This notion is based on a worldview that understands the world as simultaneously flawed
+      and full of potential. This is not just about gradually improving production processes in
+      the name of (technical) efficiency as in the industrial polity. Instead, it is about the much
+      grander idea that the entire social world is full of bugs but can also be fixed with the right
+      technology and entrepreneurial mentality. It is therefore every solutionist’s calling to
+      upgrade humanity by becoming a social engineer in the true sense of the word, culminat-
+      ing in a apotheosis of disruption and ultimately a transhumanism that others have likened
+      to ‘messianism’ (Daub, 2020) or the ‘birth of a religion’ (Lanier, 2017). Animated by the
+      normative power of the possible, solutionists have little respect for the status quo – and
+      the institutions that maintain it. Breaking the law thus becomes civil disobedience in the
+      name of a better world. ‘You can’t change the world without a certain amount of healthy
+      willingness to break the rules’, as Sebastian Thrun once put it. In the end, what constrains
+      the solutionist quest to solve humanity’s oldest problems – old age, sickness, death –
+      should only be the laws of physics, not those of society.
+      Data and Empirical Approach                            
+      To test our arguments, we collected three novel text corpora. Each corpus serves a
+      distinct analytical purpose (for details on the corpora, see online Appendix A1–A3).
+      The first corpus consists of public statements of digital elites in which they talk about
+      themselves or their worldview (e.g. interviews, speeches). Digital elites are narrowly
+      defined as members of the 2015 Forbes 400 who played crucial roles (e.g. founder,
+      CEO, major investor) in tech companies founded after 1996, and therefore made most
+      of their money in the last 20 years or so (it thus excludes ‘first-generation’ digital elites
+      like Bill Gates and Steve Jobs). The purpose of this corpus – which consists of 2,326
+      paragraphs – was to identify the spirit of digital capitalism where we would most
+      expect it: in the professed beliefs of the most recent generation of digital elites – indi-
+      viduals like Larry Page, Mark Zuckerberg or Elon Musk (cf. Brockmann et al., 2021:
+      16). These are the (mostly) men that Little and Winch (2021) call the ‘new patriarchs
+      of digital capitalism’ and whose close-knit ‘networks of power’ are central to the inner
+      workings of digital capitalism.                        
+        The second corpus consists of articles published in Wired between the magazine’s
+      founding in 1994 and 2018. After removing very short paragraphs, we ended up with a
+      total of c.1.5 million paragraphs. Wired is widely known as the house organ of the tech
+      community. It is thus the perfect medium to understand the intellectual proclivities, fads,
+      and currents of the wider tech milieu (Fisher, 2010: 245; Wolf, 2003). The third corpus
+      consists of articles published in the Harvard Business Review (HBR) between 1980 and
+      2018. Again, after removing very short paragraphs, this resulted in a total of c.190,000
+                                                             
+                                                             
+                                                             
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+       Nachtwey and Seidl                             99     
+                                                             
+       paragraphs. The purpose of this corpus is to check to what extent the spirit of digital capi-
+       talism has already diffused into the mainstream of management literature and popular
+       capitalist self-reflection – epitomized by the HBR (Schulz and Nicolai, 2015).
+        To identify and trace normative references, we developed a comprehensive coding
+       scheme through a reflexive process of theory-building and empirical validation in which
+       the orders of worth were specified and disambiguated in multiple rounds of coding. Our
+       units of analysis were paragraphs, as they can be seen as natural units of meaning; they
+       often make ‘a point’ and are short enough to be relatively unambiguous and long enough
+       to be informative. Paragraphs were assigned to a polity when they contained a clear and
+       affirmative reference to one of the defining dimensions – and especially the central value
+       – of a polity as laid out in Table 1 and further specified in the coding scheme (which we
+       make available as a separate document). If paragraphs were purely descriptive or did not
+       unambiguously refer to one polity, they were assigned to a residual category. Here are
+       two examples of paragraphs that were coded as solution and market respectively:
+        (1)‘We are investing in driverless technology [. . .], why? Well a million people a year die in
+        cars, and how many more millions get injured, it’s just needless, right, and how much time, how
+        much worse are our lives because we’re sitting there with a steering wheel [. . .] [But] when
+        you can give people their time back, and when you run these cars more efficiently and there’s
+        no more traffic, this is magic.’                     
+        (2) ‘We are thinking in terms of purely commercial, business relations. Neither “friendship” nor
+        “international cooperation” can be an excuse for not making a profit. These new ventures are
+        very important strategically for us.’                
+       Since our dataset contains several hundred thousand paragraphs, we used a super-
+       vised learning approach to estimate category proportions for the corpora based on a
+       set of hand-coded paragraphs. This requires (i) ensuring intercoder reliability for the
+       1,518 hand-coded paragraphs, (ii) inferring category proportions in the unlabeled
+       documents, which we did using a method of automated nonparametric content analy-
+       sis (Hopkins and King, 2010; Jerzak et al., 2022), and (iii) validating the supervised
+       learning model. For reasons of space, we detail these three steps and why each of
+       them gives us confidence in our findings in online Appendices B1 to B3 and C.3
+                                                             
+       The Rise of the Spirit of Digital Capitalism          
+       So far, we have developed our paper in three steps. First, we reconstructed the concept of
+       the capitalist spirit and have operationalized it as the historically evolving combination
+       of different ‘orders of worth’ that each provide different criteria for what is good, just,
+       and fair. Second, we introduced the solutionist order of worth in which value derives
+       from solving social problems with technological means. Third, we proposed an approach
+       to identifying and tracing different normative claims in three text corpora that respec-
+       tively focus on digital elites, the wider digital milieu, and capitalist discourse at large. We
+       now turn to presenting our findings, and then discuss their significance in light of illus-
+       trative observations and the secondary literature.    
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+      100                             Theory, Culture & Society 41(2)
+                                                             
+        A first finding concerns the professed normative beliefs of digital elites themselves.
+      Figure 1 shows which normative ideas – operationalized as orders of worth – these elites
+      most often refer to in their public speeches and interviews. It clearly shows that solution-
+      ist ideas are a central normative reference point for digital elites. Around a quarter of
+      normative references digital elites make are about the ability of technology to address
+      central problems humanity faces. In addition, normative references that express a faith in
+      the blessings of the market and the value of efficiency are also very common. References
+      to green polity, by contrast, are remarkably absent. This, however, is not entirely surpris-
+      ing. Reminiscent of older discussion on applying knowledge and engineering to manag-
+      ing the environment in the Anthropocene (e.g. Crutzen and Stoermer, 2000: 485), Silicon
+      Valley’s emerging ‘green brand of capitalism’ (Bialy et al., 2022) views ecological prob-
+      lems largely through the normative lens of solutionism. That is, it views them as prob-
+      lems to be solved with technology, rather than through a stronger emphasis on the green
+      polity’s values of sustainability and sufficiency. Overall, these findings chime well not
+      just with what we might expect, but also with other quantitative and qualitative research
+      on tech elites.                                        
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+      Figure 1. References to different polities in statements by digital elites.
+                                                             
+        First, a survey of tech entrepreneurs from 2017 shows that while they have cultur-
+      ally progressive, cosmopolitan, even socially redistributive attitudes, they strongly
+      oppose government regulations and public services (Broockman et al., 2019). Digital
+      elites are more concerned about social problems than other business elites, but they
+      don’t think that addressing them should just or primarily be the government’s respon-
+      sibility. Instead, they trust the invisible hand of the market steered by the helping hand
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+       Nachtwey and Seidl                            101     
+                                                             
+       of solutionist businesses. Hence there is no need for regulators to meddle with the
+       world-improving endeavors of digital companies. Second, a quantitative analysis of
+       tweets and philanthropic documents of digital elites also finds that they have a dis-
+       tinct mindset that distinguishes them not only from the general population but also
+       from other wealthy elites – a mindset that is particularly ‘meritocratic’ and ‘mission-
+       driven’ (Brockmann et al., 2021).                     
+        Third, detailed qualitative analyses that focus on Facebook specifically have also
+       found that Mark Zuckerberg displays an almost ‘prophetic ethos [when trying to]
+       persuade the public about Facebook’s vision for the future of sociality’ (Hoffmann
+       et al., 2018: 214); and that Facebook strategically constructs a ‘corporate future imag-
+       inary’ (Haupt, 2021: 239) in which Facebook itself plays a crucial infrastructural role
+       in connecting the ‘global community’. In doing so, it uses a solutionist ‘corporate
+       prophesy’ (Haupt, 2021: 254) to make itself appear essential in bringing about a ‘bet-
+       ter world’. We also find many references to the solutionist – in addition to the civic
+       and project-based – polity in an additional analysis of Zuckerberg’s public utterances
+       (compiled in the ‘Zuckerberg Files’). This further corroborates the centrality of solu-
+       tionism to how digital elites publicly talk about their values and ambitions (see online
+       Appendix D).                                          
+        Given the central roles of these ‘celebrity tech founders and their networks of power’
+       (Little and Winch, 2021) in contemporary economies and societies, understanding the
+       beliefs they hold – or even profess to hold – is crucial to understanding the course and
+       character of digital capitalism more broadly. For example, through the role in shaping the
+       moral and ideational background of political debates (cf. Abend, 2014), solutionist
+       beliefs can help us understand the discursive politics of economic policymaking in the
+       digital age, namely why the Silicon Valley model had such outsized influence on policy-
+       makers’ expectations about future growth and how it can help performatively create and
+       sustain hegemonic social blocs (Rothstein, 2021). Likewise, solutionist beliefs are a
+       ‘constitutive element’ of a ‘scalability zeitgeist’ that increasingly permeates public pol-
+       icy thinking and its newfound interest in ‘mission-oriented innovation’ or experimental
+       ‘living labs’ (Pfotenhauer et al., 2022: 3, 6).       
+        A second finding concerns the questions of whether solutionist beliefs have spread
+       beyond the exclusive circle of digital elites and affected the wider digital milieu.
+       Figure 2 depicts the evolving importance of different orders of worth in Wired, widely
+       considered ‘the mouthpiece of the digital revolution’ (Wolf, 2003: 52). First, we find
+       many references to the values of non-conformity, authenticity, flexibility, and anti-
+       regulationism of the inspiration, market and partly also project polity – especially in
+       the 1990s. But we also find significant references to the solutionist polity which,
+       while lower than in the statements by digital elites themselves, increase after the
+       bursting of the dot.com bubble and again after the financial crisis, just when the mar-
+       ket and the project-based polity lose importance.     
+        This chimes well with the argument about the triangular relationship between capi-
+       talism, its spirit, and its critics (Chiapello, 2013). After all, the idea that the purpose of
+       business is not just to make profits but to solve social problems is
+                                                             
+                                                             
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+      102                             Theory, Culture & Society 41(2)
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+      Figure 2. References to different polities in Wired (1993–2019).
+                                                             
+      a powerful counterpoint to social critics who decry the moral parochialism of the
+      shareholder-value doctrine and the self-referential and crisis-prone nature of financial
+      capitalism (Kazmi et al., 2016: 749).4 Thus, at a time when capitalism was increasingly
+      criticized for producing private but not public wealth and for creating rather than solv-
+      ing social problems, solutionism lent legitimacy to entrepreneurs who promised to
+      harness the power of technology for the common good. The new spirit of capitalism
+      had incorporated the artistic critique of managerial capitalism as overly hierarchical
+      and bureaucratic by singing the praises of flat hierarchies, de-centralization, flexibility,
+      and self-reliance – all highly congenial to the demands of a postindustrial economy.
+      Similarly, the spirit of digital capitalism responds to the charge of selfishness and lack
+      of concern for the common good by highlighting the ability of digital companies to
+      solve social problems. This return of social critique can also be seen in the ‘post-neo-
+      liberal subjectivity’ of tech workers, namely their desire for being ‘middle-class
+      wealthy and morally worthy’ (Dorschel, 2022: 1303), although many of them are more
+      critical of naïve forms of solutionism.                
+        This suggests that starting in the early 2000s, we have seen a shift in the dominant
+      technology discourse, which is ‘inextricably linked’ (Fisher, 2010: 243) to the capitalist
+      spirit itself. For example, whereas Fordist technology discourse had extolled the ability
+      of technology to mitigate the exploitative aspects of capitalism (instability, insecurity,
+      inequality), post-Fordist technology discourse promised to overcome ‘the alienating
+      components of capitalism’ while downplaying ‘its exploitative components’ (Fisher,
+      2010: 235). Indeed, many have argued that the internet has amplified the appeal and
+      reach of the new spirit of capitalism, with a ‘spirit of networks’ (Fisher, 2010: 243) mak-
+      ing ‘the network a normative model’ (Boltanski and Chiapello, 2007: xxii) and serving
+                                                             
+                                                             
+                                                             
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+       Nachtwey and Seidl                            103     
+                                                             
+       as the ‘ethical foundation of the network enterprise’ (Castells, 2010: 214). Drawing on a
+       long history of cybernetic and countercultural ideas, the digital entrepreneurs of the late
+       20th century believed that the internet would help them do
+        what the New Communalists had failed to accomplish: [. . .] tear down hierarchies, undermine
+        the sorts of corporations and governments that had spawned them, and, in the hierarchies’
+        place, create a peer-to-peer, collaborative society, interlinked by invisible currents of energy
+        and information. (Turner, 2006: 209)                 
+                                                             
+       By joining ‘the cultural legitimacy of the counterculture to the technological and eco-
+       nomic legitimacy of the computer industry’ (Turner, 2006, 219), these cybercultural
+       apostles not only legitimized a hands-off approach to internet regulation. They also artic-
+       ulated a broader vision of a society – the Californian ideology (Barbrook and Cameron,
+       1996) – in which digital technologies would ‘marry the competitive demands of business
+       with the desire for personal satisfaction and democratic participation’, achieving ‘pro-
+       ductive coordination without top-down control’ (Taylor, 1994). The internet promised an
+       escape from the iron cage of Fordism; it ‘became both a metaphor for [a post-Fordist
+       society] and a means to bring it into being’ (Turner, 2006: 219).
+        But today’s ‘newest’ spirit of capitalism, as we have seen, reacts not so much to the
+       artistic critique of the alienating aspects of capitalism as to the social critique of capital-
+       ism’s lack of solidarity and concern for the common good: it promises not to ‘flatten
+       organizations, globalize society, decentralize control, and help harmonize people’
+       (Nicholas Negroponte quoted in Turner, 2006: 1) but solve society’s problems root and
+       branch, from traffic deaths to death itself. Moreover, it arises in a technological and polit-
+       ico-economic environment characterized not by personal computers and the internet, with
+       its decentralizing tendencies, but by the centralizing and scalable dynamics of platforms,
+       big data and artificial intelligence (Pfotenhauer et al., 2022; Seidl, 2023). This is not to say
+       that the values of the new spirit of capitalism are absent from the more recent technology
+       discourse. For example, the values of engagement, sharing, and horizontality have recently
+       diffused from the office space of the cadres into the social factory of the Web 2.0, promis-
+       ing digital laborers in symbolic rewards what they lack in material compensation
+       (Yeritsian, 2018). But, due to changes in dominant forms of critique and technologies, we
+       see a new emphasis on solutionist ideas and the ability of even large technology platforms
+       to solve social problems ‘at scale’ (Pfotenhauer et al., 2022). It is this new emphasis on
+       and centrality of solutionist ideas that defines the spirit of digital capitalism and distin-
+       guishes it from the more network-centered ‘new’ spirit of capitalism.
+        However, have solutionist ideas become influential beyond tech elites and the wider
+       tech milieu and begun to characterize capitalist discourse at large? Our third finding is that
+       this is not yet the case. Figure 3 depicts references to the different orders of worth in the
+       Harvard Business Review – perhaps the central venue for capitalist self-reflection and a
+       leading outlet of management discourse (Schulz and Nicolai, 2015). Unsurprisingly, we
+       find that the values of the industrial and market polity play a prominent role in a magazine
+       that is centrally concerned with the efficiency of organizations and the functioning of mar-
+       kets. Unlike in Wired, however, the projective polity becomes a lot more important in the
+                                                             
+                                                             
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+      104                             Theory, Culture & Society 41(2)
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+      Figure 3. References to different polities in Harvard Business Review (1980–2022).
+                                                             
+                                                             
+      1990s while the civic and industrial polities lose ground. This strongly confirms Boltanski
+      and Chiapello’s argument that the values of the flexibility and agility have partly replaced
+      the values of technical efficiency and planning, which had their heyday in the age of
+      Fordism. We therefore confirm that from the 1980s onward, the spirit of capitalism – as
+      expressed in management discourse (which Boltanski and Chiapello based their analysis
+      on) – has recentered around of the values of projective polity.
+        However, references to the solutionist order of worth remain marginal. For now, the
+      new spirit of capitalism thus remains the dominant configuration of normative principles
+      that justify capitalist action at large. Two developments might serve as a bridgehead for
+      solutionist ideas to enter more mainstream management debates. First, there is a growing
+      corporate social responsibility discourse that makes ‘the business case’ for social respon-
+      sibility and advances a win-win narrative in which business and social goals are depicted
+      as compatible or even complementary (Brandtner and Bromley, 2022). Second, there is
+      an emerging debate among business scholars that businesses should go beyond the nar-
+      row fixation on maximizing shareholder value and instead (re-)focus on ‘producing prof-
+      itable solutions to problems of people and planet’ (Mayer, 2018: 12). Even the Business
+      Roundtable has recently moved away from the idea that the sole purpose of business is
+      to increase shareholder value; instead, it encouraged companies to also invest in their
+      employees, protect the environment and deal fairly with their suppliers.
+      The Legitimating, Motivating, and Orienting Role of the
+      Spirit of Digital Capitalism                           
+      Our findings add important insights to the literature on the beliefs of digital elites and the
+      broader cultural underpinnings of digital capitalism. However, we have not discussed
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+       Nachtwey and Seidl                            105     
+                                                             
+       how solutionist ideas actually influence the trajectory of digital capitalism. While not the
+       primary focus of this paper, we want to briefly illustrate how solutionist ideas can have
+       legitimizing, motivating, and orienting effects – regardless of whether or not solutionist
+       beliefs are held disingenuously.5                     
+        First, solutionist ideas can influence how the public and policymakers perceive digital
+       companies. Securing their legitimacy is ‘a matter of [both] survival [and] reputation’ for
+       companies (Kazmi et al., 2016: 753) and actively curating their public image is therefore
+       essential to successfully managing the ‘non-market environment’ (Bach and Blake,
+       2016). We argue that the spirit of capitalism can amplify the effectiveness of such legiti-
+       macy-seeking strategies by shaping the ‘moral background’ (Abend, 2014) of public and
+       political debates on capitalism (cf. Rothstein, 2021). For example, solutionism can help
+       justify ideas as radical as Larry Page’s view that ‘[o]ld institutions like the law . . . aren’t
+       keeping up with the rate of change that we’ve caused through technology’ and only ham-
+       per Google’s ability to ‘build really great things’ (quoted in Zuboff, 2019: 105). Much
+       like the claim that ‘lawlessness is the necessary context for “technological innovation”’
+       (Zuboff, 2019: 104), solutionist ideas have also lent moral and cognitive plausibility to
+       the promise of the Silicon Valley model that ‘serving tech’s and VC’s interests drives
+       economic growth’ and thus profoundly shaped economic policymaking across advanced
+       capitalist democracies (Rothstein, 2021: 7).          
+        Second, their solutionist credentials helped tech companies convince their workers
+       that their values and those of the company are aligned. Capitalism faces a perennial
+       ‘deficit of motivation’ (Kazmi et al., 2016: 744). And while they can use the stick of
+       deprivation and the carrot of money, there are limits to coercive and economic methods
+       of ensuring compliance.                               
+        Workers have so many opportunities to take advantage of employers that it is not wise to
+        depend on coercion and financial incentives alone as motivators. Employers want workers to
+        operate autonomously, show initiative, use their imagination, and take on extra tasks not
+        required by management; workers who are scared or dejected do not do these things. (Bewley,
+        1999: 431)                                           
+       Companies are thus incentivized to employ methods of normative compliance which
+       instill identification with the company based on shared values and symbolic rewards
+       (Etzioni, 1975). We argue that by drawing on (and often appropriating) normatively
+       appealing ideas, the spirit of capitalism can help companies create normative compliance
+       and attraction. This can be especially important when work is complex and workers in
+       high demand, as is true for digital companies. Reporting, for example, has shown that
+       tech workers care about the ‘mission of the company and what the companies are trying
+       to achieve’, which is why Facebook had an increasingly difficult time recruiting talent
+       ‘as the social stigma of working for Facebook began outweighing the financial benefits’
+       (Bowles, 2018). A recent study also found that for college-degree jobs, invoking a proso-
+       cial mission allows companies to pay workers less, suggesting that values might be a
+       partial motivational substitute for money (Wilmers and Zhang, 2022).
+        Conversely, companies will suffer resistance if workers notice that solutionist com-
+       mitments are disregarded. This became evident during the recent wave of tech worker
+       protests. As one Googler noted, ‘we stood up because [. . .] we believe a strong ethical
+                                                             
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+      106                             Theory, Culture & Society 41(2)
+                                                             
+      framework that values human life and safety is inseparable from positive technological
+      progress [. . .] Before the [protests], a lot of Googlers had never considered the fact that
+      their values might not be aligned with the values of leadership’ (Tarnoff, 2018). Thus,
+      solutionist sermons are not just cheap talk but can powerfully motivate workers while
+      also imposing real limitations on what companies can do without facing resistance (for
+      the case of Google’s ‘Don’t be evil’, see Tiku, 2019). 
+        Third, even if what digital elites publicly profess is not what they privately feel, solu-
+      tionist ideas might still guide their profit-seeking activities by pointing them towards
+      certain problems and away from others. Moral ideas, after all, have been shown to affect
+      rational economic decision-making by offering plausible and appealing strategic goals in
+      the face of uncertainty (Schröder, 2013). For example, when Mark Zuckerberg was urged
+      to sell Facebook to Yahoo in 2006, he refused, arguing that he shared the ‘really deep
+      belief that when companies are executing well on their vision they can have a much big-
+      ger effect on the world than people think, not just as a business but as a steward of
+      humanity’ (Friend, 2015). Here, the idea that Facebook could be a ‘steward of humanity’
+      helped Zuckerberg make a decision laden with much uncertainty; Zuckerberg would
+      have arguably decided differently were he only in it for the money. Similarly, John Doerr
+      uses the missionaries-not-mercenaries heuristic to describe venture capital, and Google’s
+      solutionist ambition to ‘organize the world’s information’ led it to build products long
+      before they became profitable (such as Google Maps, which was released before the
+      smartphone revolution).                                
+      Conclusion                                             
+      In this article, we have revisited and revised the concept of the capitalist spirit. We have
+      shown how a new, solutionist spirit of digital capitalism has formed in which the idea
+      that there is a profitable technological solution to every social problem takes center
+      stage. We have also shown that while this spirit shapes the normative discourse of digital
+      elites and the wider digital milieu, it does not yet define capitalist discourse at large.
+      Here, as our findings confirm, Boltanski and Chiapello’s new spirit of capitalism is still
+      dominant. If digitalization continues apace, this may of course change, with solutionist
+      ideas spreading beyond their cultural crucible in Silicon Valley. We caution, however,
+      against understanding the diffusion of solutionist ideas all too simplistically. Rather, we
+      expect complex dynamics of culturally and institutionally mediated translation as solu-
+      tionist ideas are taken up by non-US tech elites and companies (cf. Rothstein, 2021: 19);
+      of selective appropriation as tech workers navigate their desire to be both ‘middle-class
+      wealthy and morally worthy’ while keeping a critical distance from the naïve solutionism
+      of their bosses (Dorschel, 2022: 1303); and even in the ambiguous embrace by many
+      policymakers of ‘mission-oriented’ policies in response to ‘grand societal challenges’ –
+      policies that, despite their critical credentials, cannot help but smack of solutionism
+      (Pfotenhauer et al., 2022).                            
+        But what about digital capitalism’s recent legitimation crisis? Aren’t the tech giants,
+      long heralded as agents of capitalist rejuvenation and societal progress, increasingly
+      seen as the BAADD guys: ‘big, anti-competitive, addictive and destructive to
+                                                             
+                                                             
+                                                             
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+       Nachtwey and Seidl                            107     
+                                                             
+       democracy’ (The Economist, 2018)? While this ‘techlash’ is real and by no means over,
+       we warn against writing off solutionism too early. For one, digital companies have
+       developed a kind of second-order solutionism where they promise technological solu-
+       tions to problems that their own technologies have created. Co-opting the criticism that
+       they have hijacked people’s minds with their addictive and distracting technologies,
+       tech companies have developed technological fixes to these primary technological and
+       business defects, such as apps that help users understand their habits and nudge them
+       towards more healthy ones. In the case of Facebook’s ‘Time Well Spent’ initiative, they
+       even co-opted the slogan of their most prominent critics at the Center for Humane
+       Technology. This proactive and soft appropriation of ‘tech-humanist’ ideas ‘may pro-
+       vide Silicon Valley with a way to protect that power from a growing public backlash –
+       and even deepen it by uncovering new opportunities for profit-making’ (Tarnoff and
+       Weigel, 2018).                                        
+        Second, digital companies have aggressively used solutionist rhetoric to legitimize
+       their move into new areas like health care, education, or climate change. Even before the
+       pandemic, Google and Apple promised to use their technological prowess to ‘transform
+       health care’, ‘improve outcomes’ and ‘save lives’. With the pandemic, they have teamed
+       up ‘to harness the power of technology’ to help countries combat the pandemic more
+       effectively, while Facebook wants to help use humanity’s ‘new superpower’ to fight the
+       pandemic: ‘the ability to gather and share data for good’. The pandemic has thus acceler-
+       ated digital companies’ move into semi-public sectors and recharged or supercharged
+       their solutionist credentials.                        
+        Moreover, new technologies such as artificial intelligence or quantum computing
+       have reinvigorated solutionist beliefs. For example, Microsoft’s head of quantum com-
+       puting wants ‘to solve some of the world’s hardest challenges with the quantum machine’.
+       She argues that only ‘quantum computing will enable us to solve [. . .] the challenges
+       facing humanity’ today; challenges such as climate change or sustainable food produc-
+       tion (Svore, 2023). Similarly, Thomas Friedman speaks of a ‘New Promethean Moment’
+       in the context of recent advances in artificial intelligence, arguing that the ‘potential to
+       use these tools to solve seemingly impossible problems – from human biology to fusion
+       energy to climate change – is awe-inspiring’ (Friedman, 2023). Perhaps not unsurpris-
+       ingly, then, the newest generation of tech elites around OpenAI’s Sam Altman continues
+       to be ‘resolutely upbeat’ and convinced ‘that with money and brains they can reboot
+       social progress’ (The Economist, 2022).               
+        Understanding solutionism better – including through more detailed qualitative and
+       quantitative analyses of their effects – thus remains crucial to understanding a world in
+       which ‘the solutionist toolkit [becomes] the default option for addressing all our existen-
+       tial problems – from inequality to climate change’ (Morozov, 2020; see also Bialy et al.,
+       2022).                                                
+       Acknowledgements                                      
+       We would like to thank Johannes Truffer, Kemal Yüksel, Jacqueline Kalbermatter, Joshua Klein,
+       Gerhard Lauer, Nicole Philipp-Jahnke, and Matthias Zaugg for their incredible help during various
+       stages of this research project. Without them, this paper would not have been possible.
+                                                             
+                                                             
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+      108                             Theory, Culture & Society 41(2)
+                                                             
+      Funding                                                
+      The author(s) disclosed receipt of the following financial support for the research, authorship, and/
+      or publication of this article: Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen
+      Forschung (Grant number: 183066)                       
+      ORCID iDs                                              
+                                                             
+      Oliver Nachtwey https://orcid.org/0000-0002-6246-1692  
+      Timo Seidl https://orcid.org/0000-0001-6895-7114       
+      Supplemental Material                                  
+      Supplemental material for this article is available online.
+                                                             
+      Notes                                                  
+      1. We are aware that our focus here is on American tech elites, companies, and discourses.
+        However, we explicitly encourage research on national or regional varieties of spirits of
+        digital capitalism (e.g. on Chinese digital elites). Likewise, while we focus on digital elites
+        and tech companies, our perspective should be complemented by research on tech workers
+        (Dorschel, 2022) and non-tech companies as they increasingly deploy and come to rely on
+        digital technologies.                                
+      2. The term ‘ethic of solutionism’ is of course a nod to Weber’s Protestant ethic, but it is
+        also meant to denote that solutionism is not merely a set of abstract ideas but can become,
+        in Weber’s own words, ‘an ethically coloured maxim for the conduct of life’ (Weber,
+        2007: 17).                                           
+      3. We provide a replication file and replication data for all analysis.
+      4. We see a similar development in the rise of win-win ideology in corporate social responsibil-
+        ity discourse, which coincided with and in a way compensates for the emergence of neoliber-
+        alism (Brandtner and Bromley, 2022).                 
+      5. Based on reading countless documents and our own interviews with tech workers in Europe
+        and California, digital elites strike us as deceiving themselves as much as others. In our view,
+        solutionism might be bullshit, but most of its proponents are not, in Harry G. Frankfurt’s
+        sense, bullshitting. It is of course easy to satirize solutionist beliefs, as HBO’s Silicon Valley
+        has done so brilliantly. But as many inside-stories and anecdotes illustrate, most solutionists
+        really do seem to believe in their lofty rhetoric. Ironically, Google’s Astro Teller left a meeting
+        with Silicon Valley’s producers in a huff, angrily telling them that ‘We don’t do stupid things
+        here [at GoogleX]. We do things that actually are going to change the world, whether you
+        choose to make fun of that or not’ (Marantz, 2016). This does not strike us as the reaction of
+        an insincere person.                                 
+      References                                             
+      Abend, Gabriel (2014) The Moral Background: An Inquiry into the History of Business Ethics.
+        Princeton, NJ: Princeton University Press.           
+      Bach, David and Blake, Daniel J. (2016) Frame or get framed: The critical role of issue framing in
+        nonmarket management. California Management Review 58(3): 66–87.
+      Barbrook, Richard and Cameron, Andy (1996) The Californian ideology. Science as Culture 6(1):
+        44–72.                                               
+      Bewley, Truman F. (1999) Why Wages Don’t Fall During a Recession. Cambridge, MA: Harvard
+        University Press.                                    
+
+[PAGE 19]
+                                                             
+                                                             
+                                                             
+       Nachtwey and Seidl                            109     
+                                                             
+       Bialy, Filip, Neff, Gina and Rone, Julia (2022) Silicon Valley’s brand of Green capitalism.
+         Unpublished manuscript (available on request from authors).
+       Boltanski, Luc and Chiapello, Eve (2007) The New Spirit of Capitalism. London: Verso.
+       Boltanski, Luc and Thévenot, Laurent (2006) On Justification: Economies of Worth. Princeton,
+         NJ: Princeton University Press.                     
+       Bowles, Nellie (2018) ‘I don’t really want to work for Facebook’. So say some computer science
+         students. Available at: https://www.nytimes.com/2018/11/15/technology/jobs-facebook-
+         computer-science-students.html (accessed 25 September 2023).
+       Brandtner, Christof and Bromley, Patricia (2022) Neoliberal governance, evaluations, and the
+         rise of win–win ideology in corporate responsibility discourse, 1960–2010. Socio-Economic
+         Review 20(4): 1933–1960.                            
+       Brockmann, Hilke, Drews, Wiebke and Torpey, John (2021) A class for itself? On the worldviews
+         of the new tech elite. PLoS One 16(1): 0244071.     
+       Broockman, David E., Ferenstein, Gregory and Malhotra, Neil (2019) Predispositions and the
+         political behavior of American economic elites: Evidence from technology entrepreneurs.
+         American Journal of Political Science 63(1): 212–233.
+       Busemeyer, Marius R., Kemmerling, Achim and van Kersbergen, Kees, et al. (eds) (2022)
+         Digitalization and the Welfare State. Oxford: Oxford University Press.
+       Campbell, Colin (2018) The Romantic Ethic and the Spirit of Modern Consumerism, new extended
+         edn. Cham, Switzerland: Palgrave Macmillan.         
+       Castells, Manuel (2010) The Rise of the Network Society: The Information Age: Economy, Society,
+         and Culture, Volume I. Chichester: Wiley-Blackwell. 
+       Chiapello, Eve (2013) Capitalism and its criticisms. In: du Gay, Paul, and Morgan, Glenn (eds)
+         New Spirits of Capitalism?: Crises, Justifications, and Dynamics. Oxford: Oxford University
+         Press, pp. 60–81.                                   
+       Crutzen, Paul J. and Stoermer, Eugene F. (2000) The Anthropocene. How can we live in a world
+         where there is no nature without people? In: Robin, Libby, Sörlin, Sverker, and Warde, Paul
+         (eds) The Future of Nature. New Haven, CT: Yale University Press, pp. 483–485.
+       Culpepper, Pepper D. and Thelen, Kathleen (2019) Are we all Amazon primed? Consumers and
+         the politics of platform power. Comparative Political Studies 17: 1–31.
+       Daub, Adrian (2020) What Tech Calls Thinking: An Inquiry into the Intellectual Bedrock of Silicon
+         Valley. FSG Originals x Logic. New York, NY: Farrar, Straus and Giroux.
+       Davis, Gerald F. and Sinha, Aseem (2021) Varieties of Uberization: How technology and institu-
+         tions change the organization(s) of late capitalism. Organization Theory 2(1): 1–17.
+       Denning, Peter J. and Tedre, Matti (2019) Computational Thinking. Cambridge, MA: MIT Press.
+       Diaz-Bone, Rainer and Salais, Robert (2011) Economics of convention and the history of econo-
+         mies: Towards a transdisciplinary approach in economic history. Historical Social Research
+         36(4): 7–39.                                        
+       Dorschel, Robert (2022) A new middle-class fraction with a distinct subjectivity: Tech workers
+         and the transformation of the entrepreneurial self. The Sociological Review 70(6): 1302–1320.
+       du Gay, Paul and Morgan, Glenn (2013) Understanding capitalism: Crises, legitimacy, and change
+         through the prism of the new spirit of capitalism. In: du Gay, Paul, and Morgan, Glenn (eds)
+         New Spirits of Capitalism?: Crises, Justifications, and Dynamics. Oxford: Oxford University
+         Press, pp. 1–39.                                    
+       Etzioni, Amitai (1975) A Comparative Analysis of Complex Organizations: On Power, Involvement,
+         and Their Correlates. Rev. and enl., edn. New York, NY: Free Press.
+       Fisher, Eran (2010) Contemporary technology discourse and the legitimation of capitalism.
+         European Journal of Social Theory 13(2): 229–252.   
+       Frey, Carl Benedikt (2019) The Technology Trap: Capital, Labor, and Power in the Age of
+         Automation. Princeton, NJ: Princeton University Press.
+
+[PAGE 20]
+                                                             
+                                                             
+                                                             
+      110                             Theory, Culture & Society 41(2)
+                                                             
+      Friedman, Thomas L. (2023) Our new Promethean moment. Available at: https://www.nytimes.
+        com/2023/03/21/opinion/artificial-intelligence-chatgpt.html (accessed 25 September 2023).
+      Friend, Tad (2015) Who funds the future? Available at: https://www.newyorker.com/maga-
+        zine/2015/05/18/tomorrows-advance-man (accessed 25 September 2023).
+      Gallego, Aina and Kurer, Thomas (2022) Automation, digitalization, and artificial intelligence in
+        the workplace: Implications for political behavior. Annual Review of Political Science 25(1)
+        463–484.                                             
+      Giridharadas, Anand (2018) Winners Take All: The Elite Charade of Changing the World. New
+        York, NY: Knopf.                                     
+      Hassel, Anke and Palier, Bruno (eds) (2020) Growth and Welfare in Advanced Capitalist
+        Economies: How Have Growth Regimes Evolved? Oxford University Press. Available at:
+        https://oxford.universitypressscholarship.com/view/10.1093/oso/9780198866176.001.0001/
+        oso-9780198866176 (accessed 11 May 2022).            
+      Haupt, Joachim (2021) Facebook futures: Mark Zuckerberg’s discursive construction of a better
+        world. New Media & Society 23(2): 237–257.           
+      Hoffmann, Anna Lauren, Proferes, Nicholas and Zimmer, Michael (2018) ‘Making the world
+        more open and connected’: Mark Zuckerberg and the discursive construction of Facebook
+        and its users. New Media & Society 20(1): 199–218.   
+      Hopkins, Daniel J. and King, Gary (2010) A method of automated nonparametric content analysis
+        for ssocial science. American Journal of Political Science 54(1): 229–247.
+      Jerzak, Connor T., King, Gary and Strezhnev, Anton (2022) An improved method of automated
+        nonparametric content analysis for social science. Political Analysis 31(1): 42–58.
+      Johnston, Sean F. (2017) Technological parables and iconic illustrations: American technocracy
+        and the rhetoric of the technological fix. History and Technology 33(2): 196–219.
+      Kazmi, Bahar Ali, Leca, Bernard and Naccache, Philippe (2016) Is corporate social responsibility
+        a new spirit of capitalism? Organization 23(5): 742–762.
+      Lanier, Jaron (2017) Dawn of the New Everything: Encounters with Reality and Virtual Reality.
+        New York, NY: Henry Holt and Company.                
+      Little, Ben and Winch, Alison (2021) The New Patriarchs of Digital Capitalism. Abingdon:
+        Routledge.                                           
+      McGoey, Linsey (2012) Philanthrocapitalism and its critics. Poetics 40(2): 185–199.
+      Marantz, Andrew (2016) How ‘Silicon Valley’ nails Silicon Valley. Available at: https://www.
+        newyorker.com/culture/culture-desk/how-silicon-valley-nails-silicon-valley (accessed 25
+        September 2023).                                     
+      Mayer, Colin P. (2018) Prosperity: Better Business Makes the Greater Good. Oxford: Oxford
+        University Press.                                    
+      Morozov, Evgeny (2013) To Save Everything, Click Here: Technology, Solutionism and the Urge
+        to Fix Problems That Don’t Exist. New York, NY: Public Affairs.
+      Morozov, Evgeny (2020) The tech ‘solutions’ for coronavirus take the surveillance state to the
+        next level. Available at: https://www.theguardian.com/commentisfree/2020/apr/15/tech-cor-
+        onavirus-surveilance-state-digital-disrupt (accessed 25 September 2023).
+      O’Toole, James (2019) The Enlightened Capitalists: Cautionary Tales of Business Pioneers Who
+        Tried to Do Well by Doing Good. New York, NY: Harper Business.
+      Pfotenhauer, Sebastian, Laurent, Brice and Papageorgiou, Kyriaki, et al. (2022) The politics of
+        scaling. Social Studies of Science 52(1): 3–34.      
+      Rahman, K. Sabeel and Thelen, Kathleen (2019) The rise of the platform business model and the
+        transformation of twenty-first-century capitalism. Politics & Society 47(2): 177–204.
+      Rothstein, Sidney A. (2021) Toward a discursive approach to growth models: Social blocs in the
+        politics of digital transformation. Review of International Political Economy 29(4): 1211–
+        1236.                                                
+
+[PAGE 21]
+                                                             
+                                                             
+                                                             
+       Nachtwey and Seidl                            111     
+                                                             
+       Schröder, Martin (2013) How moral arguments influence economic decisions and organizational
+         legitimacy: The case of offshoring production. Organization 20(4): 551–576.
+       Schulz, Ann-Christine and Nicolai, Alexander T. (2015) The intellectual link between manage-
+         ment research and popularization media: A bibliometric analysis of the Harvard Business
+         Review. Academy of Management Learning & Education 14(1): 31–49.
+       Seidl, Timo (2023) Commodification and disruption: Theorizing digital capitalism. Weizenbaum
+         Journal of the Digital Society 3(1). Available at: https://www.researchgate.net/publi-
+         cation/372498579_Commodification_and_Disruption_Theorizing_Digital_Capitalism
+         (accessed 25 September 2023).                       
+       Selling, Niels and Strimling, Pontus (2023) Liberal and anti-establishment: An exploration of
+         the political ideologies of American tech workers. The Sociological Review. https://doi.
+         org/10.1177/00380261231182522                       
+       Serwer, Andy (2008) Larry Page on how to change the world. Available at: https://money
+         .cnn.com/2008/04/29/magazines/fortune/larry_page_change_the_world.fortune/index.htm
+         (accessed 25 September 2023).                       
+       Slee, Tom (2016) What’s Yours Is Mine: Against the Sharing Economy. New York; London: OR
+         Books.                                              
+       Sombart, Werner (1902) Der Moderne Kapitalismus. Leipzig: Duncker & Humblot.
+       Staab, Philipp (2019) Digitaler Kapitalismus. Markt Und Herrschaft in Der Ökonomie Der
+         Unknappheit. Berlin: Suhrkamp.                      
+       Stark, David (2009) The Sense of Dissonance: Accounts of Worth in Economic Life. Princeton, NJ:
+         Princeton University Press.                         
+       Stark, David and Pais, Ivana (2020) Algorithmic management in the platform economy. Sociologica
+         14(3): 47–72.                                       
+       Svore, Krysta (2023) The quantum revolution: The race to build a quantum computer. Available
+         at: https://www.ft.com/content/f25038fd-a48f-4010-94a6-63e000ffae2d (accessed 25
+         September 2023).                                    
+       Tarnoff, Ben (2018) Tech workers versus the Pentagon: An interview with Kim. Available at:
+         https://jacobinmag.com/2018/06/google-project-maven-military-tech-workers/ (accessed 25
+         September 2023).                                    
+       Tarnoff, Ben and Weigel, Moira (2018) Why Silicon Valley can’t fix itself. Available at: https://
+         www.theguardian.com/news/2018/may/03/why-silicon-valley-cant-fix-itself-tech-humanism
+         (accessed 25 September 2023).                       
+       Taylor, Bill (1994) Control in the age of chaos. Available at: https://hbr.org/1994/11/control-in-
+         an-age-of-chaos (accessed 25 September 2023).       
+       The Economist (2018) How to tame the tech titans. Available at: https://www.economist.com/
+         leaders/2018/01/18/how-to-tame-the-tech-titans (accessed 25 September 2023).
+       Thelen, Kathleen (2018) Regulating Uber: The politics of the platform economy in Europe and the
+         United States. Perspectives on Politics 16(4): 938–953.
+       Thévenot, Laurent, Moody, Michael and Lafaye, Claudette (2000) Forms of valuing nature:
+         Arguments and modes of justification in French and American environmental disputes. In:
+         Lamont, Michèle and Thévenot, Laurent (eds) Rethinking Comparative Cultural Sociology:
+         Repertoires of Evaluation in France and the United States. Cambridge: Cambridge University
+         Press, pp. 229–272.                                 
+       Thompson, Clive (2019) Coders: The Making of a New Tribe and the Remaking of the World. New
+         York, NY: Penguin Press.                            
+       Tiku, Nitasha (2019) Three years of misery inside Google, the happiest company in tech. Available
+         at: https://www.wired.com/story/inside-google-three-years-misery-happiest-company-tech/
+         (accessed 25 September 2023).                       
+
+[PAGE 22]
+                                                             
+                                                             
+                                                             
+      112                             Theory, Culture & Society 41(2)
+                                                             
+      Tirole, Jean (2021) Digital dystopia. American Economic Review 111(6): 2007–2048.
+      Turner, Fred (2006) From Counterculture to Cyberculture: Stewart Brand, the Whole Earth
+        Network, and the Rise of Digital Utopianism. Chicago, IL: University of Chicago Press.
+      Vallas, Steven and Schor, Juliet B. (2020) What do platforms do? Understanding the gig economy.
+        Annual Review of Sociology 46(1): 273–294.           
+      Weber, Max (1946) Religious rejections of the world and their directions. In: Gerth, Hans Heinrich
+        Gerth, and Mills, Charles Wright Mills (eds) From Max Weber: Essays in Sociology, trans.
+        and ed. and with an intro by Hans Heinrich Gerth and Charles Wright Mills. New York, NY:
+        Oxford University Press, pp. 323–359.                
+      Weber, Max (2007) The Protestant Ethic and the Spirit of Capitalism, trans. by Talcott Parsons,
+        with an intro by Anthony Giddens. London: Routledge. 
+      Weizenbaum, Joseph (1976) Computer Power and Human Reason: From Judgment to Calculation.
+        San Francisco, CA: Freeman.                          
+      Wilmers, Nathan and Zhang, Letian (2022) Values and inequality: Prosocial jobs and the College
+        Wage Premium. American Sociological Review 87(3): 415–442.
+      Wolf, Gary (2003) Wired: A Romance. New York, NY: Random House.
+      Yeritsian, Gary (2018) ‘Capitalism 2.0’: Web 2.0 manifestoes and the new spirit of capitalism.
+        Critical Sociology 44(4–5): 703–717.                 
+      Zuboff, Shoshana (2019) The Age of Surveillance Capitalism: The Fight for a Human Future at
+        the New Frontier of Power. New York, NY: Public Affairs.
+      Oliver Nachtwey is Professor of Sociology at the University of Basel in Switzerland. His research
+      interests are processes of social modernization and individualization as well as the transformation
+      of work. His research and work also explore the development of social conflicts, political represen-
+      tation, protests and social movements. In 2024, Polity Press will publish his book Offended
+      Freedom: Aspects of Libertarian Authoritarianism (with Carolin Amlinger). He is also the author
+      of Germany’s Hidden Crisis: Social Decline in the Heart of Europe (Verso, 2018).
+      Timo Seidl is a post-doc at the University of Vienna’s Centre for European Integration Research.
+      He holds a PhD from the European University Institute with a thesis on the comparative political
+      economy of digital capitalism. In his research, Timo looks at how ideas and institutions as well as
+      politics and power shape the digital transformation of economies and societies, with a particular
+      focus on the role of the European Union. You can find out more about Timo’s work at www.timo-
+      seidl.com.                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             

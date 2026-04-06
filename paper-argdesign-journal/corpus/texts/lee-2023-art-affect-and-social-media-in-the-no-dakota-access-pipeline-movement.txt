@@ -1,0 +1,741 @@
+[PAGE 1]
+ 1146715                                                     
+ research-article2023 TCS0010.1177/02632764221146715Theory, Culture & SocietyLee
+                                                             
+       Global Public Life                                    
+                                                             
+                                             Theory, Culture & Society
+       Art, Affect, and Social Media        2023, Vol. 40(7-8) 179 –192
+                                              © The Author(s) 2023
+       in the ‘No Dakota  Access                             
+                                              Article reuse guidelines:
+       Pipeline’ Movement                 sagepub.com/journals-permissions
+                                        httpDs:O//dIo: i1.o0r.g1/1107.711/0727/60322673267462422121114466771155
+                                           journals.sagepub.com/home/tcs
+       Robyn Lee                                             
+       University of Alberta                                 
+                                                             
+                                                             
+       Abstract                                              
+       Indigenous-led activism against proposed oil pipelines has relied heavily on social media,
+       as in the #NoDAPL campaign against the Dakota Access Pipeline. This paper explores
+       affective engagement in online activism, including the Standing Rock ‘check-in’ campaign
+       on Facebook. Moving beyond dichotomous understandings of embodied vs digital
+       activism, Cannupa Hanska Luger’s Mirror Shields Project employs digital media in order
+       to support direct action at Standing Rock. Patricia Clough draws a direct link between
+       affect and technoscientific understandings of the body in her concept of biomediated
+       bodies. This helps explain how physical and digital activism are linked: the digital and the
+       physical cannot be understood as independent of each other, since online engagement
+       always has an embodied aspect as well. Luger’s Mirror Shields Project functions as a
+       form of alterlife, in resistance to biopower, recognizing historical and ongoing harms
+       while also creating new possibilities for resistance. 
+                                                             
+       Keywords                                              
+       affect, art, biopolitics, climate change, digital activism, environment, Indigenous
+       activism                                              
+                                                             
+                                                             
+       Introduction                                          
+       In November 2016, over a million people ‘checked in’ to the Standing Rock Sioux reser-
+       vation on Facebook in order to help protect activists protesting the construction of the
+       Dakota Access pipeline. A viral post of unknown origin claimed this would shield protes-
+       tors from police surveillance. However, the Morton County sheriff’s department denied
+       that it was monitoring Facebook check-ins and, while protestors had shared a variety of
+       possible support actions, checking in on Facebook was not among them. Despite not
+       being of practical use, according to protestors it was a welcome show of solidarity,
+                                                             
+       Corresponding author: Robyn Lee. Email: robyn5@ualberta.ca
+       TCS Online Forum: https://www.theoryculturesociety.org/
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+      180                            Theory, Culture & Society 40(7-8)
+                                                             
+      though it would have been better to see people show up and provide direct support.
+      Largely ignored by the media until this point, the Facebook check-ins prompted a dra-
+      matic increase in coverage of the protests, while also demonstrating that protestors and
+      supporters could communicate directly with each other. This virtual action demonstrates
+      some of the potential and the pitfalls associated with affect-driven digital activism.
+        The $3.8 billion, 1,172-mile (1,886 kilometer) Dakota Access pipeline crosses beneath
+      the Missouri River, just north of the Standing Rock Sioux Reservation that straddles the
+      North Dakota–South Dakota border. Running from North Dakota to Illinois with a capac-
+      ity of 570,000 barrels of oil a day, it is instrumental to the growing oil industry in North
+      Dakota and neighboring states. It was subject to months of protests in 2016 and 2017
+      since the pipeline’s route threatened the water supply and important Indigenous cultural
+      sites and ancient burial grounds. Physical protests halted when the pipeline began carry-
+      ing oil in June 2017. The protests at Standing Rock Sioux Reservation have included
+      members of more than 100 tribes and are considered to be one of the largest Native
+      American protests in recent times. Despite successive legal challenges by the Standing
+      Rock Sioux Tribe claiming that the environmental review conducted by the US Army
+      Corps of Engineers was insufficient, the Dakota Access pipeline was built and is cur-
+      rently operating. However, a federal appeals court has upheld the order of a full environ-
+      mental impact review of the Dakota Access pipeline. This will not require the pipeline to
+      stop operating.                                        
+        Indigenous-led activism against proposed oil pipelines has relied heavily on social
+      media, particularly Twitter, as in the #NoDAPL campaign. Resistance to the building of
+      the Dakota Access Pipeline also relied on affective response: a sense of shared nation-
+      hood, forged through histories of anticolonial activism, as well as a more-than-human
+      sense of community and responsibility. Oceti Sakowin (all the Lakota and Dakota nations
+      allying together) arose through shared histories of colonization dating back to the 19th
+      century and the dispossession of land through environmental devastation couched in
+      terms of economic development, including the building of a dam and flooding of
+      Indigenous lands. This resistance was both centered in place – Mni Sose (the Missouri
+      River) had long been the center of an ‘Indian war that never ends’– and also deeply
+      global and technologized, since through social media and technology ‘the world had
+      come to #NoDAPL’ (Estes, 2019: 7, 10). The prolonged protest garnered widespread and
+      consistent attention on social media, amplifying possibilities for similar protests else-
+      where (Steinman, 2019). #NoDAPL tactics – resistance camps, prominent use of social
+      media, and online fundraising – have been taken up against other pipeline projects, such
+      as the blockades against the Coastal GasLink in northern British Columbia led by the
+      Wet’suwet’sun hereditary chiefs (#WetsuwetsunStrong), which sparked cross-Canada
+      blockades and demonstrations.                          
+        This paper explores the relationship between the virtual realm and the offline world,
+      considering how affective engagement in activism is shaped by social media.
+      Communications technologies do not merely transmit pre-existing information and
+      affect; they play an active role in forming what they ostensibly merely express (Blackman,
+      2019; Derrida, 1998). In the age of COVID-19 and Black Lives Matter protests that
+      involved both extensive online activism as well as mass protests in the streets, it is even
+      more urgent to understand the relationships between embodied standing-with and digital
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+       Lee                                           181     
+                                                             
+       activism. The challenges for activism are clear: when proximity with other humans is a
+       direct threat due to a global pandemic, with a Canadian politician openly asserting that
+       this is a great time to build pipelines because of restrictions on public protests (Bracken,
+       2020), digital activism takes on a renewed importance. How does commitment and
+       empathy arise, circulate, and develop in and through physical and digital protests?
+        This paper draws on a variety of non-Indigenous as well as Indigenous theorists.
+       As a white settler reading Indigenous activism through different theoretical lenses, I
+       begin from Million’s (2014) assertion of the worthiness of Indigenous lives as the
+       ‘stuff of theory’ and the value of affective experiences or ‘felt knowledge’ of
+       Indigenous peoples independent of legitimation by Western academia, which is inex-
+       tricably linked to settler colonialism (p. 32). Rejecting binary oppositions of
+       Indigenous and modern/technological (Nelson, 1999), I draw from Native Studies
+       scholars who argue for conversations between Native Studies and other fields, and the
+       ‘intellectual sovereignty’ (Warrior, 1992) of Indigenous scholars and activists: both
+       being informed by other disciplines and shaping scholarly discourse as a whole
+       (Morgensen, 2011; Smith, 2010).                       
+        Social media activism such as checking in on Facebook is limited in its impact, since
+       it is inseparable from biopolitical modes of surveillance and limitations on Indigenous
+       access to cyberspace (Duarte, 2017). Technology has been used to surveil and limit
+       Indigenous-led activism: law enforcement agencies have access to a wide range of tools
+       to monitor geo-tagged posts on social media, such as Geofeedia (Levin and Woolf, 2016;
+       Waddell, 2016). Patricia Clough’s concept of biomediated bodies is helpful in under-
+       standing how the repressive effects of biopolitical racism are deployed through technolo-
+       gies of the body, which also simultaneously give rise to potential resistance. Clough
+       (2008) argues that affect is at work in biopower.     
+        Practices of ‘standing-with’ (TallBear, 2014) are hampered if activism is understood
+       as purely digital: Indigenous people gathering in the Oceti Sakowin camp at Standing
+       Rock were essential to the protest actions. The action of ‘standing’ is absolutely embod-
+       ied, involving a powerful connection to the land, in its specificities. There have, how-
+       ever, been important critiques of ‘standing’ as ableist, including Peers and Eales (2017).
+       As well, the collective ‘standing with’ at Standing Rock is enabled and promoted
+       through forms of technology – social media in particular. The virtual and the physical
+       cannot be understood as independent of each other, since online engagement always has
+       an embodied aspect as well (Karatzogianni, 2012b: 57). In order to avoid false dichoto-
+       mies of ‘real’ (embodied) vs virtual activism, I follow Judith Butler’s argument that
+       ‘What bodies are doing on the street when they are demonstrating is linked fundamen-
+       tally to what communication devices and technologies are doing when they “report” on
+       what is happening in the street. These are different actions, but they both require the
+       body’ (Butler, 2015: 93–4).                           
+        Moving beyond dichotomous understandings of bodily vs digital activism, I turn to a
+       discussion of the art/activism of Luger’s (2016) Mirror Shields Project. Luger is a
+       Mandan/Hidatsa/Arikara/Lakota multidisciplinary artist who was born on the Standing
+       Rock reservation. He employs digital media in this project in order to support direct
+       action, challenging conventional divisions between virtual and embodied. The Mirror
+       Shields Project is a form of what Michelle (2018) calls alterlives, in resistance to
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+      182                            Theory, Culture & Society 40(7-8)
+                                                             
+      biopower, both recognizing historical and ongoing harms while also envisioning new
+      futurities and possibilities for resistance and transformation.
+                                                             
+      Biomediated Bodies and ‘Standing-with’: Biopower, Media,
+      Affect                                                 
+      The ‘affective turn’ (Clough, 2007, 2008) moves away from dichotomies of mind/body
+      and passion/reason, away from subjective states of emotion contained within discrete sub-
+      jects, exploring instead how emotions and affect move between bodies, connecting them
+      in ‘new configurations of bodies, technology and matter’ (Clough and Halley, 2007: 2).
+      Clough (2008) analyzes affect in relation to what she describes as ‘the biomediated body’
+      (p. 207), drawing a direct link between affect and technoscientific understandings of the
+      body. Clough views affect as encompassing areas of information, surveillance, and capi-
+      tal, extending Foucaultian biopower to a Deleuzian-inspired thinking about bodies in
+      terms of openness, complexity, and becoming. She moves beyond thinking of bodies as
+      merely biological organisms, to analyze how they are increasingly technologized. New
+      media and digital technologies expand the capacities of bodily matter invested with capi-
+      tal, mapped through DNA sequencing and bioinformatics, and reduced to informational
+      substrates under advanced capitalism. Clough’s biomediated body recognizes the biopo-
+      litical deployment of racism – locating the Dakota Access Pipeline through the Standing
+      Rock reserve, moved from its original route due to concerns about possible contamination
+      of drinking water in the mostly white municipality of Bismarck, North Dakota – along
+      with the ways in which bodies, work and reproduction are being reconfigured.
+        Clough builds upon Eugene (2003) formulation of biomedia. Thacker defined biome-
+      dia as a relationship between the technological and the biological, through which the
+      biological remains biological while always taking on new capacities. This is not a hybrid
+      of body and machine, nor is it a virtual body. Instead, the body is mediated through a
+      relationship with technology, increasing the capacities of what the body can do but in
+      such a way that technology seems to disappear. As Thacker (2003) puts it, ‘the body you
+      get back is not the body with which you began, but you can still touch it’ (p. 53). Clough
+      expands Thacker’s concept of biomedia by reading this technological expansion of bod-
+      ily capacity through the lens of affect: building intensities through historically specific
+      modes that give rise to new potentialities of becoming.
+        Clough draws on Deleuze’s conception of the virtual, in which the virtual can be
+      real without being actual. In the virtual, objects and states exist but are not tangible or
+      ‘concrete’; the virtual is known only indirectly, through its effects (Shields, 2006). The
+      virtual is real insofar as it can be interacted with and is generative. For Deleuze, both the
+      actual and the virtual are fully real – the former has concrete existence while the latter
+      does not, but this does not make it any less real. Affect operates at the level of the virtual,
+      the potential and the emergent; it links across senses, events and temporalities. The real-
+      ity of the virtual is the reality of change: it operates in terms of openness and indeter-
+      minacy (Massumi, 1998).                                
+        The militarized response to the protests and the intensive use of technologies of sur-
+      veillance (to which the Facebook check-ins were responding) represent what Massumi
+      (2015) calls ontopower, a pre-emptive power beyond the biopolitical control of life.
+                                                             
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+       Lee                                           183     
+                                                             
+       Ontopower is the governance of affect, ‘or its modulation when assembled with new
+       technologies of time/memory, new media technologies, bio- and neuro-technologies as
+       well’ (Clough, 2012: 25). Ontopower, Massumi claims, is a new type of power encom-
+       passing both soft power (surveillance) and hard power (military interventions). It sub-
+       sumes and transcends biopower. Ontopower refocuses on what may emerge, as that
+       potential presents itself to feeling: it is based on an affective mode of pre-emption. As
+       such, ontopower can help explain criminalization of anti-pipeline protests: the feeling
+       that protests may pose a violent threat even in the absence of any evidence.
+        Affect challenges conceptualizations of matter as inert in contrast to active subjects;
+       instead affect moves through and between organic and inorganic bodies, without inhering
+       in them. The Standing Rock slogan, ‘Mni Wiconi’ – water is life, or more accurately,
+       water is alive – can be understood in these affective terms. This understanding of water
+       may be described as what Bennett (2010) calls ‘vital matter’: things having the capacity
+       to not only ‘impede or block the will and designs of humans but also to act as quasi agents
+       or forces with trajectories, propensities, or tendencies of their own’ (p. viii). There are
+       risks, however, in reading Indigenous worldviews through a posthuman theoretical lens.
+       Todd (2016) notes that posthuman theories often fail to recognize extremely long histories
+       of Indigenous worldviews with their complex relationalities of humans and nonhumans.
+       As Estes (2019) notes, ‘Concepts such as Mni Wiconi (water is life) may be new to some,
+       but like the nation of people the concept belongs to, Mni Wiconi predates and continues
+       to exist in spite of white supremacist empires like the United States’ (p. 15).
+       Social Media, Bodies in the Street, and Digital Assembly
+       Emotions can motivate people to become involved in social movements, keep them
+       involved, or lead them to stop participating; activists also appeal to emotions strategi-
+       cally in order to incite people to take action (Jasper, 1998; Gould, 2004). Affective trans-
+       mission occurs both within and beyond digital realms and may be intensified or muffled
+       in the process of digital circulation (Kuntsman, 2012: 1). Technologies do not faithfully
+       transmit ideas, data, and feelings, which are instead mediated and constituted through
+       their transmission. Consequently, the effects of technological transmission are not pre-
+       dictable. As Massumi (2002) puts it, ‘what the mass media transmit is not fundamentally
+       image-content but event-potential’ (p. 269). Networked affect (or networked virtuality)
+       involves trends, feelings, and processes spreading across social media in ways that
+       ‘appear to defy rational logic and understanding’ (Blackman, 2019: 11). Affect is not
+       reducible to rationality and thus affective engagement in digital activism cannot be fully
+       predicted or controlled; nevertheless, its power and potential are increasingly apparent.
+        #NoDAPL is certainly not the only recent protest to rely heavily on digital activism.
+       From the Arab Uprising, to Occupy, to the Worldwide Women’s March, to Black
+       Lives Matter, to #MeToo, to anti-lockdown protests (Schradie, 2020), to rent strikes
+       (Massarenti, 2020), to the GameStop Redditors’ complicated challenge to capitalism,
+       increasingly digital platforms are integral to social activism. #NoDAPL, building on
+       the Idle No More movement for Indigenous sovereignty, drew heavily on social media
+       use, particularly Twitter. The widespread use of digital platforms in Idle No More
+       meant that ‘an aspect of Indigeneity, as a paradigm of social and political protest, had
+                                                             
+                                                             
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+      184                            Theory, Culture & Society 40(7-8)
+                                                             
+      become digitized, infrastructurally through broadband internet, personally through con-
+      sumer mobile devices, socially through social media adoption, and discursively through
+      flash mobs, hashtags, and memes’ (Duarte, 2017: 5). #NoDAPL and Idle No More
+      attained widespread visibility as mass movements through their use of digital platforms,
+      yet they both emerged from hundreds of years of ongoing Indigenous resistance (Estes,
+      2019; Simpson et al., 2018).                           
+        The profile of the #NoDAPL protests increased dramatically at the national and
+      international level as a result of checking in on Facebook. During the protests, a rumor
+      started that the police were using Facebook to track and arrest activists involved in the
+      protests (Kennedy, 2016). Individuals were asked to check-in to the Standing Rock
+      Sioux Reservation on Facebook in order to confuse local authorities and provide ano-
+      nymity for protestors. This rumor was denied by local police and the action did not
+      actually protect protestors, but the show of solidarity that resulted from the campaign
+      increased attention to the protests generally and to the fact that protestors were being
+      attacked and arrested (Kennedy, 2016). The role of the ‘check-in’ function on Facebook
+      in this campaign made the use of social media itself newsworthy (Hunt and
+      Gruszczynski, 2019: 5). Both NPR and The Guardian reported that the number of
+      check-ins to Standing Rock went from 140,000 to over 1.5 million almost overnight
+      (Levin and Woolf, 2016; Hunt and Gruszczynski, 2019; Kennedy, 2016). According to
+      Hunt and Gruszczynski (2019), ‘the attention garnered through this interaction of social
+      media and traditional forms of media could have broader impacts, such as priming
+      attention to pipeline protests and concerns in the future’ (p. 12). Social media played an
+      important role in increasing affective engagement with the protest. Since ‘the largest
+      spikes in attention’ occurred following violent clashes at protests, it may be that regard-
+      less of the media form, vividness is a currency necessary for social movements to
+      acquire attention, lacking sustained, large-scale protests that tend to capture attention
+      over the long term (Hunt and Gruszczynski, 2019: 13; Jennings and Saunders, 2019).
+      Alexandra Deem argues that regardless of their effectiveness, the Facebook check-ins
+      reconfigured the structure of solidarity and presence, redefining place and reconstitut-
+      ing the virtual and the analog (Deem, 2018: 12). According to Deem, while ‘embodied
+      presence provided the model for the disembodied presence enacted by the check-in, it
+      was this disembodied presence that lent a new sort of visibility to the bodies actually
+      present at Standing Rock’ (Deem, 2018: 12).            
+        Karatzogianni (2012b) calls for further theorizing the revolutionary contribution of
+      social media in light of the affective structures and politics of emotion (p. 68). She argues
+      that the affective structures of social media and digital cultures more broadly allow the
+      transformation of the ‘digital virtual’ into the ‘revolutionary virtual’, which can material-
+      ize revolution in the offline world (Karatzogianni, 2012b). However, digital activism
+      does not necessarily promote progressive social change. Conservative digital activists
+      often gain an advantage online. A widening digital activism gap is ‘reproducing, and in
+      some cases intensifying, preexisting power imbalances’ due to the tremendous amount of
+      labor required (Schradie, 2019: 7). Organizations rich in resources are better positioned
+      to make use of digital technologies, while grassroots organizations with less time, money,
+      personnel, and structure risk falling behind (Schradie, 2019: 7). Digital activism also
+      tends to reinforce existing inequalities by relying on class privilege, horizontal organiza-
+      tion, and simplified ideology (Schradie, 2019).        
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+       Lee                                           185     
+                                                             
+        The 2016 US presidential election and accompanying Cambridge Analytica scandal
+       have exposed the risks of digital advertising in political campaigns. Facebook and
+       Google’s dominance in the market for online advertising has significant repercussions
+       for the private regulation of paid political speech, since these decisions are being made
+       in the absence of transparency and accountability (Kreiss and Mcgregor, 2019).
+       Facebook’s algorithms are far from politically neutral or progressive in their effects,
+       creating echo chambers by showing users similar content and thereby increasing political
+       polarization (Thorson et al., 2021). This leads to political extremism, toxic political rhet-
+       oric, misinformation, and ideologically motivated violence (Uscinski et al., 2021). All
+       digital platforms do not create echo chambers to the same degree, however: there are
+       significant differences between platforms that allow users to tweak their feed algorithm
+       (such as Reddit) and platforms that do not allow this (Facebook and Twitter) (Cinelli
+       et al., 2021).                                        
+        There are also barriers to online activism that reflect histories of colonization. A deep
+       ‘digital divide’ exists between Native Nations of the United States and the rest of the
+       country; according to the Federal Communications Commission, only 53% of people
+       living on tribal reservations have access to broadband internet, with access particularly
+       low in rural tribal areas (Mack et al., 2022; Wang, 2018). Although Simpson et al.
+       (2018) recognize the incredible utility of the internet for Indigenous activism, they are
+       concerned about the lack of reciprocal relationships between bodies and land on the
+       internet, which may constitute a ‘digital dispossession’ (p. 79). They also remain wary
+       of the asymmetry of large corporations such as Google, Facebook, and Twitter, where
+       Indigenous peoples can be content providers but are unable to structurally intervene in
+       digital technologies, reinforcing settler colonialism (Simpson et al., 2018: 79).
+       Technologies of Resistance: Biomedia and Art          
+       In contrast with the largely passive Facebook check-in campaign, Cannupa Hanska
+       Luger’s Mirror Shields Project enhanced creative capacities: online instruction for indi-
+       vidual makers of the shields and collective, embodied resistance deploying the shields at
+       Standing Rock. The project spans the fields of art and activism, physical and digital resist-
+       ance; through affective resistance to biopower, it produced new forms of intensities that
+       create possibilities for change. The mirror shields (16 x 48 inch reflective boards) were
+       designed, developed, and deployed for use at Standing Rock, where they transformed
+       notions of place and space while remaking the boundaries of bodies. Luger (2019)
+       described the shields as ‘poetic armour’ (p. 262), providing physical protection for
+       Standing Rock protestors while reflecting back the violence of police and security forces.
+        Luger took inspiration from mirror shields used by the EuroMaidan movement in
+       Ukraine. Protests broke out in late 2013 after then-Ukrainian president Viktor Yanukovich
+       scrapped a pending trade agreement with the European Union in favor of closer ties to
+       Russia (Scherker, 2014). After a brutal crackdown by Ukrainian riot police, mirror
+       shields were used by protestors to remind police that underneath all their riot gear they
+       were still human beings. The EuroMaidan mirror shields also inspired use of similar mir-
+       ror shields in 2017 during protests against President Nicolás Maduro in Venezuela
+       (Rawlins, 2017).                                      
+                                                             
+                                                             
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+      186                            Theory, Culture & Society 40(7-8)
+                                                             
+        Luger’s mirror shields were modified from those used in Ukraine, constructed from
+      Masonite boards and reflective adhesive foil rather than glass to be more durable and less
+      likely to cause injury. Luger worked with students at the Institute of American Indian Arts
+      in Santa Fe, New Mexico, where he is an artist-in-residence, to design the shields and
+      posted a video online providing instructions on how to build them. The shields linked the
+      makers, across the United States, with water protectors in North Dakota. The shields were
+      used on the frontline of the protests, protecting hundreds of people and behind them a
+      camp of thousands. Luger (2016) hoped that the mirror shields would inspire the dem-
+      onstrators to ‘hold ground and not panic’, promote solidarity among protestors and disrupt
+      the violence of uniformed security and police through reflecting their shared humanity.
+        Creative tactics, imagery and theatricality are increasingly features of political move-
+      ments and struggles (Serafini, 2018: 1), with affect a key aspect of art activist practices
+      (Serafini, 2018: 174). As Clough (2012) describe, ‘The measure of affect is an aesthetic
+      measure, understanding aesthetic measure to be singular, non-generalizable, particular to
+      each event, or each capture of the not-yet’ (p. 29). The combination of art and digital
+      technologies in Indigenous resistance has an extensive history. De La Garza (2016)
+      describes how digital technology ‘resembles and even parallels traditional Indigenous
+      means of producing and sharing knowledge and of experiencing time and space’ (p. 49).
+      Nelson (1999) coins the term ‘Maya-hacker’ to describe the vital importance of informa-
+      tion to political strategies of Indigenous resistance in Guatemala. The Zapatista move-
+      ment also relied on virtual protests, drawing together theatre and activism in the digital
+      realm (Lane and Dominguez, 2003).                      
+        Performativity provides a way of understanding the complex, iterative relationships
+      between digital and physical protest and between art and activism (Vlavo, 2017). In her
+      analysis of assembly, Butler (2015) describes how collective actions of various kinds
+      performatively produce ‘the people’. Bodies protesting are essentially making a per-
+      formative claim to belong there, to have a right to exist and assemble, both prior to and
+      in addition to any of their specific political demands. These modes of assembly are not
+      limited to physical gatherings for Butler (2015), since ‘not everyone can appear in a bod-
+      ily form, and many of those who cannot appear, who are constrained from appearing or
+      who operate through virtual or digital networks, are also part of “the people”’ (p. 8).
+        The mirror shields represent an opening to an affirmative biopolitics (Esposito, 2008),
+      which involves recognizing that harming one life harms all lives. The shields protected
+      protestors from the rubber bullets of DAPL security guards while reflecting back the
+      securitized, uniformed forces not just as instruments of biopower but as affected and
+      affecting humans. The mirror shields produce what Massumi (2002) terms intensity,
+      which he equates with affect (p. 27). Intensity is     
+        associated with nonlinear processes: resonance and feedback that momentarily suspend the
+        linear progress of the narrative present from past to future. Intensity is qualifiable as an emotional
+        state, and that state is static – temporal and narrative noise. It is a state of suspense, potentially
+        of disruption . . . It is not exactly passivity, because it is filled with motion, vibratory motion,
+        resonation. And it is not yet activity, because the motion is not of the kind that can be directed (if
+        only symbolically) toward practical ends in a world of constituted objects and aims. (Massumi,
+        2002: 26)                                            
+                                                             
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+       Lee                                           187     
+                                                             
+        Luger’s Mirror Shield Project represents perceiving the present in the past, observing
+       current protests in a historical mirror. Unlike linear notions of time dominant in settler
+       worldviews, Indigenous conceptions of time understand the present as structured by the
+       past and ancestors, with alternative futures made possible through relationship to the past
+       (Estes, 2019). Resistance to the Dakota Access Pipeline was inspired by the Lakota
+       prophecy of Zuzeca Sapa, the Black Snake, that would stretch over the land and threaten
+       all life, beginning with water (Estes, 2019: 14). Estes (2019) describes such prophecies
+       as a ‘revolutionary theory, a way to help us think about our relationship to the land, to
+       other humans and other than humans, and to history and time’ (p. 14).
+        The use of mirrors in Indigenous resistance has a long history. Carcelén-Estrada
+       (2017) traces a genealogy in a Zapatista story which explains how to kill a lion not with
+       a gun but with a mirror, which is used to deflect the lion’s power and direct it against
+       itself (p. 104). The 2016 Water Serpent Action built on this tradition, as well as reflecting
+       the prophecy of the Black Snake. Conceived and enacted by Luger and Rory Wakemup
+       (Ojibwe), it involved more than 150 protestors holding the mirror shields above their
+       heads as they marched along the snow-covered Oceti Sakowin camp near Standing Rock,
+       creating a moving river or serpent-like formation, documented from above by drone
+       camera. The audience for this action were police surveillance planes constantly flying
+       overhead; it was intended to provide evidence of the water protectors’ resilience and
+       reflect back the harms of police surveillance. In walking the shape of the river, light
+       reflected off the shields like water, the lines between human body and nonhuman nature
+       were blurred, challenging extractive views of the natural world and asserting Indigenous
+       sovereignty over the land (Davis, 2019: 149; Morris, 2019).
+        The Mirror Shield Project produced new affective and bodily capacities, transforming
+       the relationships between bodies and landscapes and challenging biopower. Many other
+       actions involving the mirror shields were organized by anonymous communities online,
+       including one of over 1000 US veterans who came from across the country to guard water
+       protectors from the police with mirror shields and other handmade protective shields. The
+       mirror shields continue to be made anonymously and used in frontline actions around the
+       world, including Black Lives Matter protests across the United States in 2020.
+       Conclusion: #NoDAPL’s Alterlives                      
+       Affect can be a powerful driver of action. Technology provides both opportunities and
+       obstacles, promoting empathy by giving us a glimpse into the lives of others but also
+       potentially misrepresenting our capacity to share the embodied experiences of others. To
+       what extent do social media strategies such as checking in at Standing Rock on Facebook
+       constitute a form of solidarity? How much of this is a technological buffer between a
+       passive audience and committed activists, an example of ‘cruel optimism’ (Berlant,
+       2011): a fantasy of effortless allyship possible through the click of a ‘like’ button dis-
+       guising underlying apathy and perpetuation of privilege? Is there a need to recognize the
+       limits of empathy along with the limits of a decentered, posthumanist subjectivity?
+        Clough (2008) describes biomediated bodies as operating at the postbiological thresh-
+       old. This threshold is indeterminate, however: it is ‘the limit point beyond which there
+       will have been change irreducible to causes’ (p. 19). Clough notes that the affective turn
+                                                             
+                                                             
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+      188                            Theory, Culture & Society 40(7-8)
+                                                             
+      has already been mined by capitalism: capital accumulates in the realm of affect and rac-
+      ism helps realize this accumulation economically. Nevertheless, Clough (2008) sounds a
+      note of cautious optimism: ‘it is important to remember the virtual at the threshold.
+      Beyond it, always a chance for something else, unexpected, new’ (p. 19). In the title of
+      his history of Indigenous resistance, Estes (2019) claims that ‘our history is the future’.
+      Through relationship to the past it is possible to imagine new possibilities for the future.
+      This is a time of what Murphy (2018) calls alterlife: ‘the struggle to exist again, but dif-
+      ferently when already in conflicted, damaging, and deadly conditions, a state of already
+      having been altered, of already being in the aftermath, and yet persisting’ (p. 113).
+      Protests against the Dakota Access Pipeline can be thought of in terms of alterlives – a
+      state of already having been altered by environmental violence that is nonetheless a
+      capacity to persist and to become something else (Murphy, 2017). Alterlives resist colo-
+      nialist biopower through imagining futurity and ways of being otherwise that are rooted
+      in local communities and intimate relations, that build on past and current political pro-
+      jects of resistance (Murphy, 2018: 122). Luger’s mirror shields show us both what is –
+      the racist history of settler colonialism, dispossession of Indigenous lands, environmental
+      destruction – while also creating new possibilities, new forms of relationality, rerouting
+      of affect, and reconfigured boundaries between us and them, protestor and police. Time
+      and space are transformed through relation to the long history of Indigenous resistance
+      to dispossession from their land and damage to Mni Sosa (the Missouri River). The bio-
+      mediated body is rooted in biopolitical racism, and yet it is transformed through art,
+      community, technology, and embodied resistance in Standing Rock. New potentialities
+      and forms of emergence have become possible.           
+        US President Biden’s cancellation of the Keystone XL project raised hopes that DAPL
+      will meet a similar fate. The environmental review by the Army Corps is ongoing and,
+      whatever the outcome, the losing side is likely to continue the fight in the Supreme
+      Court. Even if #NoDAPL is not able to shut down the pipeline in the near future, in peri-
+      ods of abeyance social media can help retain ‘the people (resources) needed to accumu-
+      late and maintain the power to carry on the movement’ (Leong et al., 2019: 191). Social
+      media use in #NoDAPL is described by Clark and Hinzo (2019) as ‘digital survivance’,
+      combining aspects of survival and resistance (Vizenor, 1999). This digital survivance
+      involves ‘the digital and visual practices of Indigenous peoples and their allies as they
+      have drawn upon and advanced Indigenous epistemologies and storytelling traditions
+      within the contexts and constraints of social media’ (Clark and Hinzo, 2019: 94).
+      #NoDAPL digital survivance includes networks of online and embodied solidarities ena-
+      bling future Indigenous-led resistance against pipeline development. The biomediated
+      body has changed through protest, standing-with, and checking-in. New potentialities
+      and forms of emergence have become possible. Through interconnections of fluids and
+      circuits, water protectors and Twitter-users, affective expansions of bodily capacities
+      give rise to solidarity and new forms of ‘standing-with’ between biomediated bodies.
+      References                                             
+      Bennett, Jane (2010) Vibrant Matter: A Political Ecology of Things. Durham, NC: Duke University\
+        Press.                                               
+      Berlant, Lauren (2011) Cruel Optimism. Durham, NC: Duke University Press.
+                                                             
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+       Lee                                           189     
+                                                             
+       Blackman, Lisa (2019) Haunted Data: Affect, Transmedia, Weird Science. London: Bloomsbury
+         Publishing.                                         
+       Bracken, Amber (2020) Alberta minister says it’s a ‘great time’ to build a pipeline because COVID-
+         19 restrictions limit protests against them. The Globe and Mail, 25 May 2020. Available at:
+         https://www.theglobeandmail.com/canada/alberta/article-alberta-minister-says-its-a-great-
+         time-to-build-a-pipeline-because/ (accessed 9 August 2019).
+       Butler, Judith (2015) Notes Toward a Performative Theory of Assembly. Boston, MA: Harvard
+         University Press.                                   
+       Carcelén-Estrada, Antonia (2017) Weaving Abya-Yala: The decolonial aesthetics of Indigenous
+         resistance. New Diversities 19(2): 103–117.         
+       Cinelli, Matteo, De Francisci Morales, Gianmarco, Galeazzi, Alessandro, et al. (2021) The echo
+         chamber effect on social media. Proceedings of the National Academy of Sciences 118(9):
+         e2023301118.                                        
+       Clark, Lynn Schofield and Hinzo, Angel (2019) Digital survivance: Mediatization and the sacred
+         in the tribal digital activism of the #NoDAPL movement. Journal of Religion, Media and
+         Digital Culture 8(1): 76–104.                       
+       Clough, Patricia Ticineto (2007) Introduction. In: Halley, Jean O’Malley, and Clough, Patricia
+         Ticineto (eds) The Affective Turn: Theorizing the Social. Durham, NC: Duke University
+         Press, pp. 1–33.                                    
+       Clough, Patricia Ticineto (2008) The affective turn: Political economy, biomedia and bodies.
+         Theory, Culture & Society 25(1): 1–22.              
+       Clough, Patricia Ticineto (2012) War by other means: What differences do(es) the graphic(s)
+         make? In: Karatzogianni, Athina, and Kuntsman, Adi (eds) Digital Cultures and the Politics
+         of Emotion: Feelings, Affect and Technological Change. London: Palgrave Macmillan, pp.
+         21–32.                                              
+       Clough, Patricia Ticineto and Halley, Jean O’Malley (2007) The Affective Turn: Theorizing the
+         Social. Durham, NC: Duke University Press.          
+       Davis, Thomas S. (2019) Perceptual methods. Cultural Dynamics 31(1–2): 144–150.
+       Deem, Alexandra (2018) Mediated intersections of environmental and decolonial politics in the
+         No Dakota Access Pipeline Movement. Theory Culture and Society 36(5): 113–131.
+       De la Garza, Armida (2016) Aboriginal digitalities: Indigenous peoples and new media. In: Travis,
+         Charles, and von Lunen, Alexander (eds) The Digital Arts and Humanities: Neogeography,
+         Social Media and Big Data Integrations and Applications. London: Springer, pp. 49–62.
+       Derrida, Jacques (1998) Archive Fever: A Freudian Impression, trans. Eric Prenowitz. Chicago,
+         IL: University of Chicago Press.                    
+       Duarte, Maria Elena (2017) Network Sovereignty: Building the Internet across Indian Country.
+         Seattle, WA: University of Washington Press.        
+       Esposito, Roberto (2008) Bíos: Biopolitics and Philosophy. Minneapolis, MN: University of
+         Minnesota Press.                                    
+       Estes, Nick (2019) Our History is the Future: Standing Rock Versus the Dakota Access Pipeline,
+         and the Long Tradition of Indigenous Resistance. New York, NY: Verso Books.
+       Gould, Deborah B. (2004) Passionate political processes: Bringing emotions back into the study of
+         social movements. In: Goodwin, Jeff and Jasper, James M. (eds) Rethinking Social Movements:
+         Structure, Meaning, and Emotion. Lanham: Rowman and Littlefield, pp.155–176.
+       Hunt, Kate and Gruszczynski, Mike (2019) The influence of new and traditional media coverage
+         on public attention to social movements: The case of the Dakota Access Pipeline protests.
+         Information, Communication & Society 24(7): 1024–1040.
+       Jasper, James (1998) The emotions of protest: Affective and reactive emotions in and around
+         social movements. Sociological Forum 13: 397–424.   
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+      190                            Theory, Culture & Society 40(7-8)
+                                                             
+      Jennings, Will and Saunders, Clare (2019) Street demonstrations and the media agenda: An anal-
+        ysis of the dynamics of protest agenda setting. Comparative Political Studies 52(13–14):
+        2283–2313.                                           
+      Karatzogianni, Athina (2012a) Epilogue: The politics of the affective digital. In: Karatzogianni,
+        Athina, and Kuntsman, Adi (eds) Digital Cultures and the Politics of Emotion: Feelings,
+        Affect and Technological Change. London: Palgrave Macmillan, pp. 245–249.
+      Karatzogianni, Athina (2012b) WikiLeaks affects: Ideology, conflict and the revolutionary
+        virtual. In: Karatzogianni, Athina, and Kuntsman, Adi (eds) Digital Cultures and the Politics
+        of Emotion: Feelings, Affect and Technological Change. London: Palgrave Macmillan,
+        pp. 52–73.                                           
+      Kennedy, Merrit (2016) More than a Million ‘Check In’ on Facebook to Support the Standing
+        Rock Sioux. Available at: https://www.npr.org/sections/thetwo-way/2016/11/01/500268879/
+        more-than-a-million-check-in-on-facebook-to-support-the-standing-rock-sioux (accessed 5
+        May 2018).                                           
+      Kreiss, Daniel and Mcgregor, Shannon C. (2019) The ‘arbiters of what our voters see’: Facebook
+        and Google’s struggle with policy, process, and enforcement around political advertising.
+        Political Communication 36(4): 499–522.              
+      Kuntsman, Adi (2012) Introduction: Affective fabrics of digital cultures. In: Karatzogianni, Athina
+        and Kuntsman, Adi (eds) Digital Cultures and the Politics of Emotion: Feelings, Affect and
+        Technological Change. London: Palgrave Macmillan, pp.1–17.
+      Lane, Jill and Dominguez, Ricardo (2003) Digital Zapatistas. TDR (1988–) 47(2): 129–144.
+      Leong, Carmen, Pan, Shan L., Bahri, Shamshul, et al. (2019) Social media empowerment in social
+        movements: Power activation and power accrual in digital activism. European Journal of
+        Information Systems 28(2): 173–204.                  
+      Levin, Sam and Woolf, Nicky (2016) A million people ‘check in’ at Standing Rock on Facebook
+        to support Dakota pipeline protesters. The Guardian. Available at: https://www.the-
+        guardian.com/us-news/2016/oct/31/north-dakota-access-pipeline-protest-mass-facebook-
+        check-in (accessed 19 November 2019).                
+      Luger, Cannupa Hanska (2016) Mirror Shield Project. Available at: http://www.cannupahanska.
+        com/mniwiconi (accessed 2 November 2020).            
+      Luger, Cannupa Hanska (2019) The Mirror Shield Project. In: Alvarez, Natalie, Lauzon, Claudette,
+        and Zaiontz, Keren (eds) Sustainable Tools for Precarious Times: Performance Actions in the
+        Americas. Cham: Springer, pp. 260–262.               
+      Mack, Elizabeth A., Helderop, Edward, Keene, Thomas, et al. (2022) A longitudinal analysis of
+        broadband provision in tribal areas. Telecommunications Policy 46(5): 102333.
+      Massarenti, Margherita (2020) How Covid-19 led to a #Rentstrike and what it can teach us
+        about online organizing. Interface: A Journal for and About Social Movements 12(1):
+        339–346.                                             
+      Massumi, Brian (1998) Sensing the virtual, building the insensible. Architectural Design 68(5/6):
+        16–25.                                               
+      Massumi, Brian (2002) Parables for the Virtual: Movement, Affect, Sensation. Durham, NC: Duke
+        University Press.                                    
+      Massumi, Brian (2015) Ontopower: War, Powers, and the State of Perception, illustrated edn.
+        Durham, NC: Duke University Press.                   
+      Million, Dian (2014) There is a river in me: Theory from life. In: Simpson, Audra, and Smith,
+        Andrea (eds) Theorizing Native Studies. Durham, NC: Duke University Press, pp. 31–42.
+      Morgensen, Scott Lauria (2011) Spaces Between Us: Queer Settler Colonialism and Indigenous
+        Decolonization. Minneapolis, MN: University of Minnesota Press.
+      Morris, Kate (2019) Shifting Grounds: Landscape in Contemporary Native American Art. Seattle,
+        WA: University of Washington Press.                  
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+       Lee                                           191     
+                                                             
+       Murphy, Michelle (2017) What can’t a body do? Catalyst: Feminism, Theory, Technoscience 3(1):
+         1–15.                                               
+       Murphy, Michelle (2018) Against population, towards alterlife. In: Clark, Adele, and Haraway,
+         Donna J. (eds) Making Kin Not Population. Chicago, IL: Prickly Paradigm Press, pp. 101–124.
+       Nelson, Diane M. (1999) A Finger in the Wound: Body Politics in Quincentennial Guatemala.
+         Oakland, CA: University of California Press.        
+       Peers, Danielle and Eales, Lindsay (2017) ‘Stand Up’ for Exclusion?: Queer pride, ableism, and
+         inequality. In: Smith, M. S. and Jaffar, F. (eds.) Beyond the Queer Alphabet: Conversations
+         on Gender, Sexuality and Intersectionality. Teaching Equity Matters E-Book Series.
+       Rawlins, Carlos Garcia (2017) Venezuela’s shield-bearing protesters – in pictures. The Guardian,
+         17 July. Available at: http://www.theguardian.com/artanddesign/gallery/2017/jul/17/
+         venezuelas-shield-bearing-protesters-in-pictures (accessed 5 January 2023).
+       Scherker, Amanda (2014) After being beaten by police, these protesters came back armed with
+         something stronger than weapons. Huffpost, 15 January. Available at: https://www.huffpost.
+         com/entry/ukraine-protests-mirrors_n_4596853 (accessed 15 October 2020).
+       Schradie, Jen (2019) The Revolution That Wasn’t: How Digital Activism Favors Conservatives.
+         Boston, MA: Harvard University Press.               
+       Schradie, Jen (2020) ‘Give me liberty or give me Covid-19’: Anti-lockdown protesters were
+         never Trump puppets. Communication and the Public 5(3–4): 126–128. DOI: 10.1177
+         /2057047320969433.                                  
+       Serafini, Paula (2018) Performance Action: The Politics of Art Activism. New York, NY:
+         Routledge.                                          
+       Shields, Rob (2006) Virtualities. Theory, Culture & Society 23(2/3): 284–286.
+       Simpson, Leanne Betasamosake, Walcott, Rinaldo, and Coulthard, Glen (2018) Idle No More and
+         Black Lives Matter: An exchange (panel discussion). Studies in Social Justice 12(1): 75–89.
+       Smith, Andrea (2010) Queer theory and native studies: The heteronormativity of settler colonial-
+         ism. GLQ: A Journal of Lesbian and Gay Studies 16(1–2): 41–68.
+       Steinman, Erich (2019) Why was Standing Rock and the #NoDAPL campaign so historic? Factors
+         affecting American Indian participation in social movement collaborations and coalitions.
+         Ethnic and Racial Studies 42(7): 1070–1090.         
+       TallBear, Kim (2014) Standing with and speaking as faith: A feminist-Indigenous approach to
+         inquiry. Journal of Research Practice 10(2): 1–7.   
+       Thacker, Eugene (2003) What is biomedia? Configurations 11(1): 47–79.
+       Thorson, Kjersten, Cotter, Kelley, Medeiros, Mel, et al. (2021) Algorithmic inference, political
+         interest, and exposure to news and politics on Facebook. Information, Communication &
+         Society 24(2): 183–200.                             
+       Todd, Zoe (2016) An Indigenous feminist’s take on the ontological turn: ‘Ontology’ is just another
+         word for colonialism. Journal of Historical Sociology 29(1): 4–22.
+       Uscinski, Joseph E., Enders, Adam M., Seelig, Michelle I., et al. (2021) American politics in
+         two dimensions: Partisan and ideological identities versus anti-establishment orientations.
+         American Journal of Political Science 65(4): 877–895.
+       Vizenor, Gerald R. (1999) Manifest Manners: Narratives on Postindian Survivance. Omaha, NE:
+         University of Nebraska Press.                       
+       Vlavo, Fidèle A. (2017) Performing Digital Activism: New Aesthetics and Discourses of
+         Resistance. New York, NY: Routledge.                
+       Waddell, Robinson and Waddell, Kaveh (2016) Did the ‘check-in at Standing Rock’ campaign
+         start with protesters? The Atlantic, 31 October. Available at: https://www.theatlantic.
+         com/technology/archive/2016/10/facebook-is-overtaken-with-check-ins-to-standing-
+         rock/505988/ (accessed 27 April 2019).              
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+      192                            Theory, Culture & Society 40(7-8)
+                                                             
+      Wang, Hansi Lo (2018) Native Americans on tribal land are ‘the least connected’ to high-speed
+        internet. NPR, 6 December. Available at: https://www.npr.org/2018/12/06/673364305/
+        native-americans-on-tribal-land-are-the-least-connected-to-high-speed-internet (accessed 21
+        June 2019).                                          
+      Warrior, Robert Allen (1992). Intellectual sovereignty and the struggle for an American Indian
+        future. Chapter 3 of Tribal Secrets: Vine Deloria, John Joseph Mathews, and the recovery of
+        American Indian intellectual traditions. Wicazo Sa Review 8(1): 1–20.
+      Robyn Lee is an Associate Professor in the Department of Sociology at the University of Alberta.
+      She is the author of The Ethics and Politics of Breastfeeding: Power, Pleasure, Poetics (University
+      of Toronto Press, 2018) and has published articles in a variety of journals including Feminist
+      Theory, Hypatia, and Environmental Politics. Her work explores theoretical issues of embodi-
+      ment, subjectivity, gender, and reproductive and environmental health.
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             

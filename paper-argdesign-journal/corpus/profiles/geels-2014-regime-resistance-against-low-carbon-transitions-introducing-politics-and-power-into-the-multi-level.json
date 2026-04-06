@@ -1,0 +1,74 @@
+{
+  "paper_id": "geels-2014-regime-resistance-against-low-carbon-transitions-introducing-politics-and-power-into-the-multi-level",
+  "title": "Regime Resistance against Low-Carbon Transitions: Introducing Politics and Power into the Multi-Level Perspective",
+  "author": "Geels",
+  "year": 2014,
+  "journal": "Theory, Culture & Society",
+
+  "opening_move": {
+    "type": "empirical_anomaly",
+    "description": "Despite growing renewable energy deployment, overall carbon emissions from electricity generation have not improved, because incumbent fossil fuel regimes actively resist low-carbon transitions. Existing MLP (multi-level perspective) scholarship on transitions focuses on green niche-innovations but under-theorizes the political power and resistance of incumbent regimes.",
+    "anchored_in": ["IEA (2013) World Energy Outlook", "Geels (2002) MLP framework", "political economy literature"],
+    "stakes_claimed": "Understanding how incumbent actors (coal, gas, nuclear) resist regime change through instrumental, discursive, material, and institutional power is essential for developing effective transition policy — and reveals that 'green innovation' alone is insufficient without actively destabilizing fossil fuel regimes."
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["niche-innovation-focused MLP studies", "transition management that ignores incumbent resistance", "structuration-theory-based MLP that under-theorizes collective actors"],
+    "engagement_structure": "absence_critique",
+    "immanent_critique": true,
+    "own_position_type": "external_alternative",
+    "own_position_explicit": true,
+    "description": "The paper works within and extends the MLP framework, arguing it requires enrichment with political economy to capture collective actors, power relations, and resistance strategies. The contribution is a typology of incumbent resistance modes (instrumental, discursive, material, institutional) illustrated through UK electricity system cases."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_qualitative_empirical",
+    "secondary": null,
+    "empirical_evidence_present": true,
+    "empirical_evidence_role": "illustrative",
+    "quantitative_methods": "Time-series data on UK electricity fuel mix (coal, gas, nuclear, renewables) and CO2 emissions 1990–2012 from DECC; IEA global emissions data.",
+    "qualitative_methods": "Case-based illustration of resistance strategies drawn from UK energy politics: Blair nuclear revival (2005–7), EDF contract negotiations, Clean Coal discourse, CCS innovation promises. Analytical framework developed conceptually; cases illustrate the typology.",
+    "data_sources": ["UK DECC electricity data", "IEA World Energy Outlook 2013", "UK energy policy documents"],
+    "interpretive_methods": "Political economy framework applied to MLP; framing analysis (Snow and Benford) for discursive resistance; typological classification of power forms (instrumental/discursive/material/institutional).",
+    "notes": "The paper has a theoretical contribution (enriching MLP with political economy) supported by illustrative empirical cases from the UK electricity sector. The epistemic mode is normative-with-qualitative-empirical where the UK electricity cases illustrate the analytical typology rather than test a hypothesis."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "institutional_process",
+    "case_name": "UK electricity system — coal, gas, nuclear regime resistance (1990s–2013)",
+    "case_function": "illustrative",
+    "case_relation_to_argument": "illustration_of_argument",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "medium",
+    "domain": "science and technology studies, energy policy, transition studies",
+    "claim_type": "critical_diagnostic",
+    "closure_type": "research_agenda"
+  },
+
+  "move_sequence": [
+    "empirical_presentation",
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "framework_proposal",
+    "conceptual_distinction",
+    "case_introduction",
+    "case_development",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["multi-level perspective (MLP)", "regime resistance", "incumbent actors", "instrumental power", "discursive framing", "low-carbon transition", "creative destruction", "destabilization"],
+
+  "thinkers_deployed": {
+    "central": ["Geels (MLP framework)", "Snow and Benford (framing analysis)"],
+    "engaged_critically": [],
+    "referenced_only": ["Lindblom", "Hajer", "Schumpeter", "Mouzelis", "Verbong and Geels"]
+  },
+
+  "confidence_notes": "This paper is primarily an analytical/policy paper within transition studies (STS, energy policy) — unusual for TCS but in the Energy & Society special issue. The epistemic mode is normative-with-qualitative-empirical: the paper develops a conceptual typology of resistance modes supported by UK electricity sector illustrations. The normative stake is medium: the conclusion has direct policy implications (destabilize fossil regimes, not just support green niches). The paper performs an immanent critique of the MLP tradition from within."
+}

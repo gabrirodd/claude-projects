@@ -1,0 +1,1045 @@
+[PAGE 1]
+                                                             
+                                                             
+                                                             
+                                                             
+        Special Issue: Energy & Society                      
+                                            Theory,Culture&Society
+                                              2014,Vol.31(5)21–40
+        Regime   Resistance                                  
+                                              !TheAuthor(s)2014
+                                             Reprintsandpermissions:
+        against  Low-Carbon                                  
+                                        sagepub.co.uk/journalsPermissions.nav
+                                         DOI:10.1177/0263276414531627
+        Transitions:  Introducing               tcs.sagepub.com
+        Politics and  Power   into                           
+        the Multi-Level                                      
+        Perspective                                          
+        Frank W Geels                                        
+        Universityof Manchester andKingAbdulaziz University  
+                                                             
+                                                             
+        Abstract                                             
+        Whilemoststudiesoflow-carbon transitionsfocusongreenniche-innovations,this
+        paper shifts attention to the resistance by incumbent regime actors to fundamental
+        change.Drawingoninsightsfrompoliticaleconomy,thepaperintroducespoliticsand
+        power into the multi-level perspective. Instrumental, discursive, material and insti-
+        tutional forms of power and resistance are distinguished and illustrated with exam-
+        ples from the UK electricity system. The paper concludes that the resistance and
+        resilienceofcoal,gasandnuclearproduction regimescurrentlynegatesthebenefits
+        from increasing renewables deployment. It further suggests that policymakers and
+        manytransition-scholarshavetoohighhopesthat‘green’innovationwillbesufficient
+        to bring aboutlow-carbon transitions. Future agendas inresearch and policy should
+        thereforepaymuchmoreattentiontothedestabilizationanddeclineofexistingfossil
+        fuel regimes.                                        
+        Keywords                                             
+        climate change, electricity, incumbent regimes, resistance, transitions
+                                                             
+                                                             
+                                                             
+        Climate Change and Socio-Technical Transitions       
+                                                             
+        A recent report by the International Energy Agency warns that: ‘The
+        world is not on track to meet the target agreed by governments
+        to limit the long-term rise in the average global temperature to
+        2 degrees Celsius’ (2013: 9). In May 2013 carbon-dioxide levels exceeded
+                                                             
+        Correspondingauthor:FrankWGeels.Email:frank.geels@mbs.ac.uk
+        Extramaterial:http://theoryculturesociety.org        
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+      22                            Theory, Culture & Society 31(5)
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+      Figure 1. Energy-related carbon-dioxide emissionsbycountry(from: Redrawingthe Energy
+      Climate Map, World Energy Outlook Special Report(cid:2)OECD/IEA, 2013,fig. 1.11,p.30, source:
+      Boden etal., 2013).                                    
+                                                             
+      400 parts per million, moving steadily towards the 450ppm threshold
+      that, according to climate scientists, should not be passed in order to
+      have a 50 per cent chance of reaching the 2-degree target. Despite the
+      1997Kyotoprotocolandvariousotherclimatechangepoliciesinthelast
+      20 years, global carbon-dioxide emissions have continued to rise (Figure
+      1). If present trends continue, temperature increase is predicted to be
+      between 3.5 and 5.3 degrees Celsius (IEA, 2013).       
+        A positive development in Figure 1 is that emissions in the United
+      States and Europe have recently decreased, partly because of the reces-
+      sion and the relocation of manufacturing industries to other countries,
+      partlybecauseofashiftfromcoaltogas(intheUnitedStates)andpartly
+      because of increasing penetration of renewable electricity (especially in
+      Europe, where relative contributions increased from 12.2% in 1990 to
+      22.1% in 2011). In China, India, and other non-OECD countries, how-
+      ever, emissions have been rising very fast because of industrialization,
+      urbanization, increasing car-based transport, increasing coal-based
+      energy and dietary changes (e.g. more meat and dairy). These develop-
+      ments increasingly lead to the realization that addressing climate change
+      (and other environmental problems) requires transitions from existing
+      fossil fuel-based energy, agro-food, and transport systems towards
+      low-carbonsystemsbasedon‘green’technologies(e.g.wind,solarphoto-
+      voltaic, battery-electric vehicles, bicycles, organic farming) and new
+      infrastructures, user practices, policies and cultural meanings (Elzen
+      et al., 2004; Verbong and Geels, 2010).                
+        A popular framework to understand the dynamics of such socio-
+      technical transitions is the multi-level perspective (Geels, 2002, 2012;
+                                                             
+                                                             
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+        Geels                                        23      
+                                                             
+        Smithetal.,2005;GeelsandSchot,2007),whichunderstandstransitions
+        as arisingfrom the interplaybetween multi-dimensional developments at
+        three analytical levels: niches (the locus of radical innovations), socio-
+        technical regimes (the locus of established practices and associated rules
+        that enable and constrain incumbent actors in relation to existing sys-
+        tems), and an exogenous socio-technical landscape.1 In a nutshell, the
+        core logic is that niche-innovations build up internal momentum
+        (through learning processes, price/performance improvements, and sup-
+        port from powerful groups); changes at the landscape level create pres-
+        suresontheregime;anddestabilizationoftheregimecreateswindowsof
+        opportunity for the diffusion of niche-innovations. The alignment of
+        these processes enables the breakthrough of ‘green’ innovations in main-
+        stream markets where they struggle with the existing regime on multiple
+        dimensions (economic, technical, political, cultural, infrastructural).
+         While the MLP hasbeen usedin many analyses of ‘green’innovations
+        andtransitions,therearevariousproblemsinthewaythishasbeendone.
+        One criticism is the lack of explicit attention for power and politics that
+        underpinthedevelopmentandimplementationofspecificpolicies(Smith
+        et al., 2005; Meadowcroft, 2011). Second, because most transition-scho-
+        larsfocuson‘green’niche-innovations,theypaylessattentiontoexisting
+        regimes and incumbent actors, or conceptualize regimes as monolithic
+        ‘barriers to be overcome’. This asymmetry runs counter to the initial
+        MLP-formulations and the emphasis on multi-level alignments.2 Third,
+        the stability of existing regimes is often conceptualized in terms of lock-
+        in, path dependence, and inertia, sometimes with reference to Hughes’s
+        (1994) metaphor of ‘technological momentum’. It is problematic, how-
+        ever,toportrayregimesasfollowingNewton’ssecondlawandtosuggest
+        that regime stability is automatic.                  
+         Against this background, the paper focuses on existing regimes rather
+        than ‘green’ niche-innovations. The specific contribution to the transi-
+        tions debate is to conceptualize regime stability as the outcome of active
+        resistance by incumbent actors.Furthermore, thepaper will discussvari-
+        ous ways in which these actors use power and politics to resist funda-
+        mental transitions to new low-carbon systems.        
+         The paper is structured as follows. The next section discusses how
+        power and politics can be introduced into the MLP, drawing on insights
+        from political economy. The subsequent section adds dynamics by dis-
+        cussing four ways in which regime actors resist fundamental system
+        change, using instrumental, discursive, material and institutional forms
+        of power and resistance. These resistance strategies will be illustrated
+        with examples from the UK electricity system in the last decade.
+         TheUKwas chosenforempirical illustrationsbecause successive gov-
+        ernmentshaveformulatedambitiousclimatechangetargets.TheLabour
+        Party made climate change an important issue in the 1997 election cam-
+        paign. In 2000, an influential report by the UK Royal Commission on
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+      24                            Theory, Culture & Society 31(5)
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+      Figure 2. UK carbon-dioxide emissions from electricity generation,Mt(constructed from
+      energystatistics datafrom Department of Energy andClimate Change,https://www.gov.uk/
+      government/uploads/system/uploads/attachment_data/file/193414/280313_ghg_national_
+      statistics_release_2012_provisional.pdf; accessed 22July2013).
+                                                             
+                                                             
+      Environmental Pollution further catalysed the climate change debate,
+      suggesting the need for a 60 per cent reduction of GHG emissions by
+      2050. The 2003 White Paper Our Energy Future: Creating a Low-Carbon
+      Economy adopted climate change as a central policy problem and high-
+      lightedrenewableenergyasthemostimportantlow-carbonstrategy.The
+      2008 Climate Change Act, which is one of the most ambitious policy
+      frameworks in the world, adopted 80 per cent reduction of greenhouse
+      gas emissions as a long-term goal for 2050, compared to 1990, and a 34
+      per cent reduction by 2020.                            
+        Electricity production was chosen for empirical illustrations, because
+      this sector makes the highest relative contribution (32%) to UK carbon-
+      dioxide emissions. Furthermore, electricity production is often seen as
+      the sector where most progress has been made so far, and where there is
+      most scope for further carbon reductions. Relative electricity production
+      from renewable sources, for instance, has increased from 4.3 per cent in
+      2005 to 11.3 per cent in 2012. However, overall carbon emissions from
+      electricity generation have not improved between 2000 and 2012 (Figure
+      2), because of increased coal use, especially between 1999–2006 and
+      2010–2012 (Figure 3) The coal regime has so far resisted climate
+      change pressures through a ‘clean coal’ discourse and the innovation
+      promise of carbon capture and storage (CCS). Nuclear energy actors
+      also repositioned themselves as low-carbon energy, giving rise to a
+                                                             
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+        Geels                                        25      
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+        Figure 3. Fuelinput tocentralpowergeneration intheUK,million tonsof oilequivalent
+        (constructed from historical electricitydata from the Department ofEnergyandClimate
+        Change;www.decc.gov.uk/,accessed 22July2013).        
+                                                             
+        ‘nuclear renaissance’ discourse. Natural gas has similarly been able to
+        gather new support from the UK government, which is gearing up to
+        ‘become a leader in the shale gas revolution’ in the words of the
+        Chancellor(citedinTheGuardian,19July2013).Thesebriefdescriptions
+        indicate that the electricity domain is an appropriate sector to provide
+        illustrations of the resilience and resistance of incumbent regimes (coal,
+        gas, nuclear).                                       
+         Thepaperendswithsuggestionsforanewpolicyandresearchagenda.
+        Whereasmostattentionwithregardtolow-carbontransitionsfocuseson
+        stimulating ‘green’ niche-innovations, this paper suggests that it is
+        equally important to understand and enact the destabilization and
+        decline of fossil fuel-based regimes. Phrased differently, this agenda
+        would mean that we should better understand the ‘destruction’ part of
+        Schumpeter’s ‘creative destruction’ concept. The analytical problem is
+        that regime actors will resist this destruction, which is the topic of this
+        paper. Before addressing various resistance strategies, the next section
+        will first discuss ways of introducing power and politics into the MLP.
+                                                             
+        Introducing Power and Political Economy into the MLP 
+        Thesocio-technicalregimeconceptcontains‘policy’asonedimension,in
+        addition to technology, user practices, science, cultural meaning, infra-
+        structure and industry (Geels, 2002). But, as critics have argued,
+        the underlying politics and power have remained under-theorized.
+                                                             
+                                                             
+                                                             
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+      26                            Theory, Culture & Society 31(5)
+                                                             
+      One reason for this relative neglect may be that the MLP draws closely
+      on structuration theory, which pays insufficient attention to collective
+      actors because of its emphasis on knowledgeable actors, recursive
+      action and reflexivity (Mouzelis, 1995). Field-level rules and resources
+      can also be shaped, however, through policing, defence or alteration
+      attempts by collective actors such as industry associations, government
+      departments,socialmovementorganizations,andspecial-interestgroups.
+        To accommodate this in the MLP, it is useful to enrich the regime
+      concept with insights from political economy, which explicitly bring in
+      collective actors and allow for a differentiated view of power, which
+      spans politics, economics and cultural meanings and discourses. The
+      basic idea is that policymakers and incumbent firms can be conceptua-
+      lizedasoftenformingacoreallianceattheregimelevel,orientedtowards
+      maintaining the status quo. This alliance has been noted previously with
+      concepts such as the ‘techno-institutional complex’ (Unruh, 2000) and a
+      ‘historical bloc’ (Levy and Newell, 2002). Empirically, this alliance has
+      also been noted for fossil fuel industries with concepts such as: a) the
+      ‘minerals-energy complex’, which refers to capital accumulation by fossil
+      fuelindustriessupportedbypolicymakers(FineandRustomjee,1996);b)
+      ‘carbon lock-in’, which refers to the self-perpetuating inertia related to
+      technical, economic and institutional aspects of fossil fuel-based energy
+      systems (Unruh, 2000); c) ‘carbon capital’, which refers to fossil fuel
+      configurations with economic, political, cultural and military dimensions
+      of power (Urry, 2013); and d) a ‘fossil fuel historical bloc’, comprising
+      fossil fuel corporations, industry representative organizations, and gov-
+      ernments (Phelan et al., 2012).                        
+        The underlying analytical argument is that policymakers and incum-
+      bent business actors tend to form close alliances because of mutual
+      dependencies. On the one hand, firms and industries depend on govern-
+      ments for establishing property rights, rules of exchange (obligations of
+      contracts), and general governance structures that establish legal and
+      illegal forms of corporate behaviour (Fligstein, 1996). Governments
+      also support and shape economic sectors in specific ways, e.g. through
+      tariff protection, loans, cash grants, government purchases, patents, tax
+      concessions,informationandresearchservices.Highlightingthisdepend-
+      ency,Lindblom(2001:42)thereforequipsthat:‘Ifthemarketsystemisa
+      dance, the state provides the dance floor and the orchestra.’
+        On theother hand, capitalist societies are systematically dependent on
+      economic growth, which implies that a central role of the state is to
+      advance the general interests of capital (Burnham, 1990). Newell and
+      Paterson (1998) argue that big business has ‘structural power’, because
+      states depend on industries to provide jobs, taxes, economic growth and
+      dynamism. I suggest there are, at least, three ways in which firms influ-
+      ence policymakers. First, dependency leads to relational networks and
+      close contacts between big business and senior policymakers, which
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+        Geels                                        27      
+                                                             
+        providepolicyaccesstofirms.Withregardtofossilfuelindustries,Newell
+        and Paterson (1998: 684) found that: ‘Governments routinely consult and
+        take account of the interests of energy lobbies when proposals are being
+        formulated.’ Second, frequent contacts may lead policymakers to intern-
+        alize the ideas and interests of industries, which is a more subtle mechan-
+        ism of influence. Market elites and governmental elites may haveconflicts
+        about specific policy instruments but generally agree about basic direc-
+        tions, problem definitions and desired solutions (Lindblom, 2001). Third,
+        firms use ‘corporate political strategies’ to influence policymakers, which
+        may contain information strategies, financial incentives strategy, orga-
+        nized pressure strategies, direct lobbying strategy, and confrontational
+        strategies such as litigation (Hillman and Hitt, 1999).
+         The power of firms to shape specific policies and wider political
+        debates has increased since the 1970s, first because of the emergence of
+        a pro-business neo-liberal discourse, which highlights free markets, pri-
+        vatization,andde-regulation,and,second,becauseofthepoliticalmobil-
+        ization of corporate interests in response to social and environmental
+        regulations. For the United States, Barley (2010) showed empirically
+        how firms since the 1970s have rapidly expanded the creation of foun-
+        dations, think tanks, political action committees, government affairs
+        offices, public relation firms, and advisory committees to corral govern-
+        ments and shape public opinion. In relation to increasing corporate
+        power Fligstein (1996: 662) notes that ‘laws and accepted practices
+        often reflect the interests of the most organized forces in society’.
+        Lindblom (2001: 223) further warns that the alliance of business and
+        political elites often dominates wider discourses and debates:
+         Compared to those elites, the voices, say, of consumer and envir-
+         onmental groups are infrequent and weak. The voice of labor
+         unions, though strong in some nations, rarely speaks so frequently
+         and loudly as the voices of entrepreneurial and governmental elites.
+         The two elites overwhelm all other contributors to what conse-
+         quently fails to become an illuminating competition of ideas.
+         In sum, one way to introduce power and politics into the MLP is to
+        conceptualize relations between policymakers and incumbent firms as a
+        core regime level alliance, which often resists fundamental change. The
+        neo-Gramscian political economy framework, developed by Levy and
+        Newell (2002: 87), suggests that the alliance between policymakers and
+        business can turn into a stable and hegemonic ‘historical bloc’ if it also
+        achieves consensual legitimacy in civil society via widely accepted dis-
+        courses. This multi-dimensional approach to power suggests that the
+        stability of historical blocs derives from ‘specific alignments of material,
+        organizational, and discursive formations which stabilize and reproduce
+        relations of production and meaning’ (Levy and Newell, 2002: 87). With
+                                                             
+                                                             
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+      28                            Theory, Culture & Society 31(5)
+                                                             
+      regard to transitions, this multi-dimensionality means that existing
+      regime actors can defend themselves and resist transitions in various
+      ways,whichisthetopicofthenextsection.Thisresistanceisincreasingly
+      perceived as important, as highlighted by Hess (2013: 279) in a recent
+      commentary: ‘In the case of the green-energy transition in the twenty-
+      first century United States, the political contestation by the incumbent
+      industrialregimeissowellorganizedthatitshouldbeatthecenterofthe
+      analytical framework’.                                 
+                                                             
+      Regime Resistance against Low-Carbon Transitions       
+      Whiletheprevioussectionelaboratedgeneralprinciples,thissectionadds
+      dynamics to the discussion by elaborating specific ways in which regime
+      actors, particularly incumbent firms and policymakers, can use power to
+      resist fundamental system change, in the context of climate change and
+      low-carbon transitions. Table 1 provides an overview of various distinc-
+      tions of power in relation to debates on transitions and climate change.
+        Combining various distinctions, this section will discuss instrumental,
+      discursive, material and institutional forms of power and resistance. The
+      various resistance strategies will be illustrated with examples from the
+      UK electricity sector, where coal, gas and nuclear regimes faced serious
+      challenges from the 2003 White Paper (Our Energy Future) and the 2008
+      Climate Change Act.                                    
+        Instrumental forms of power refer to actors using resources (e.g. pos-
+      itions of authority, money, access to media, personnel, capabilities) in
+      immediate interactions with other actors to achievetheir goalsand inter-
+      ests. Avelino and Rotmans (2009: 559) suggest that ‘the regime usually
+                                                             
+      Table 1. Various distinctions of power.                
+      Levyand   AvelinoandRotmans                            
+      Newell(2002) (2009)      Grin (2010)   Kern(2011)      
+      Material  Instrumental   Relational (immediate Interests
+                                interactions                 
+                                betweenactors)               
+      Discursive Discursive    Dispositional (related Ideas (discourse)
+                                to rules,resources,          
+                                actorconfigurations          
+                                anddominant                  
+                                images)                      
+      Organizational Structuralist (material Structural (related to Institutions
+                 andinstitutional) widerorders ofsig-        
+                                nification, domin-           
+                                ation and                    
+                                legitimization)              
+                                                             
+                                                             
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+        Geels                                        29      
+                                                             
+        has more power than niches, in the sense that the regime mobilizes more
+        resources than niches do’.                           
+         One example is that Prime Minister Tony Blair used his position and
+        authoritytopushnuclearenergybackontheagenda,afterthe2003White
+        Paperproclaimedthatnuclearpowerwas‘anunattractiveoptionfornew,
+        carbon-free generating capacity’ and that possible future decisions to
+        build new nuclear power stations would require ‘the fullest public con-
+        sultation’. By 2005, Blair began calling for a ‘nuclear renaissance’ as an
+        answer to climate change and rising gas and oil prices. Subsequently, a
+        2006energyreview(TheEnergyChallenge)announcedplanstobuildnew
+        nuclear stations over the next two decades. Greenpeace challenged these
+        plans, arguing that the government had failed to engage in ‘the fullest
+        public consultation’. In 2007, Greenpeace won its legal case, forcing the
+        government to launch a public consultation. In advance of the consult-
+        ation, however, Blair announced that he would go ahead anyway, claim-
+        ingthat‘thiswon’taffectpolicyatall’.Thisexampleillustratesdirectuse
+        of power and indicates that the nuclear regime enjoyed protection from
+        the highest political level.                         
+         Another example relates to the dubious economic performance of
+        nuclearpowerplants,whichrelatesnotjusttooperatingandconstruction
+        costs(andnotoriousbudgetoverrunsandconstructiondelays),butalsoto
+        costsassociatedwithwastestorageandprocessing,decommissioningand
+        accidentinsurance.Becauseoftheseeconomicuncertainties,utilitieshave
+        not invested in nuclear power since energy sector privatization in the
+        1990s. Having decided to push through nuclear power in the mid-2000s,
+        politiciansfacedthedifficulttaskofpersuadingprivatefirmstoinvestand
+        reassuringthepublicthatthetaxpayer’smoneywouldnotbewasted.To
+        addressthistask,politiciansfirstpromisedthepublicthatnuclearenergy
+        would not be subsidized, but subsequently broke this promise in negoti-
+        ationswithEDF(Electricite´ deFrance),agreeingtopayahighguaranteed
+        electricityprice(twicethecurrentwholesaleprice)for35years.Todisguise
+        their ploy, politicians called this subsidy a ‘contract for difference’.
+         Regime actors can also resist via discursive strategies, which can be
+        powerful when they result in dominant discourses that shape not only
+        what is being discussed (thus setting agendas) but also how issues are
+        discussed. Although social movement organizations, citizens, labour
+        unions and other groups also try to shape public discourses, the ‘dis-
+        course coalition’ (Hajer, 1995) of policymakers and incumbent firms is
+        particularly powerful in this respect (Lindblom, 2001), because of their
+        positions and media access. Building on Snow and Benford (1988), I
+        suggest that regime resistance can occur on three different framing
+        dimensions:a)diagnosticframing,whichidentifiesanddefinesproblems;
+        b) prognostic framing, which advances solutions to problems; and c)
+        motivational framing, which provides a rationale for action and serves
+        asa‘calltoarms’.Foreachdimension,exampleswillshowhowframings
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+      30                            Theory, Culture & Society 31(5)
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+      Figure 4. Averagefuelprices (penceperkWh)paidbyUKpowerproducers(constructed
+      from energyprice statistics datafrom theDepartment ofEnergyandClimate Change;
+      https://www.gov.uk/government/uploads/system/.../qep_mar_2013pdfhttp://www.decc.
+      gov.uk/assets/decc/Statistics/publications/prices/1085-qepdec10.pdf; accessed 22July 2013).
+                                                             
+      have changed since the 2003 White Paper in ways that enhance the legit-
+      imacy of existing regimes.                             
+        The diagnostic framing changed in terms of problem definitions and
+      policy goals. The 2003 White Paper portrayed climate change as the
+      central problem and renewable energy as the main solution. Since
+      about 2005, however, energy security and affordability (low costs) have
+      been emphasized as additional, and perhaps even more important, prob-
+      lems. These changes were partly related to rising oil and gas prices
+      (Figure 4) and Russian gas supply problems (related to a 2005 conflict
+      between Russia and Ukraine), but also benefitted existing regimes.
+        Coal was increasingly (re)positioned as an answer to energy security
+      andaffordability,asisvisibleintheexplanationofthetradeandindustry
+      secretary (Alan Johnson) of the government’s decision to stimulate coal:
+      ‘If a new, cleaner coal generation is viable, then I think it could have an
+      important part to play in making sure we have diverse generation in the
+      future. Coal is easy to store and it comes from a variety of well-estab-
+      lished sources around the world’ (reported in The Guardian,21 February
+      2006). Low prices also made utilities more interested in coal, leading to
+      increased coal use between 1999–2006 and 2010–2012 (Figure 3).
+        Nuclear power, in turn, became framed as a possible answer to energy
+      security and climate change. For example, David King, the
+      Government’sChiefScientificAdvisor,arguedthat:‘Weneedindigenous
+      sources so we don’t rely on imported gas from Russia.... Indigenous
+                                                             
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+        Geels                                        31      
+                                                             
+        supplies include all renewables and nuclear. Relying on renewable
+        sources to replace lost capacity when existing nuclear power stations
+        close would be a tough challenge’ (reported in The Guardian, 21
+        October 2005).                                       
+         These discursive changes became embedded in the 2007 White Paper
+        (Meeting the Energy Challenge), which established energy security and
+        affordability as strategic policy issues besides climate change. It also
+        endorsed nuclear power and carbon capture and storage (CCS) for
+        fossil fuels (coal, gas) as low-carbon options, in addition to renewables.
+         Affordability, jobs, and employment have gained salience since the
+        financial-economic crisis. These new concerns have been used to criticize
+        renewable options, as noted by Pearson and Watson (2012: 31): ‘The
+        public debate about energy has started to focus on the costs of the low
+        carbon transition’. These concerns are also used to legitimate increasing
+        use ofcheap coal since 2010and the UK’snew focus onshale gaswhich,
+        according to the Chancellor, ‘has the potential to create thousands of
+        jobs and keep energy bills low for millions of people’ (cited in The
+        Guardian, 19 July 2013). These examples indicate that the diagnostic
+        discourse (problems and goals) has changed in favour of coal, gas and
+        nuclear regimes.                                     
+         In the autumn of 2013, consumer bill rises of 8–10 per cent led to a
+        rapidpoliticizationoftheenergydebate,afterLabourpromisedtofreeze
+        energybillsfor20monthsifitwaselectedin2015.Althoughthepolitical
+        discourse initially focused on pricing policies of utilities, the government
+        and electricity firms managed to reorient the debate towards green levies
+        and eco-efficiency programmes, which were subsequently scrapped,
+        delayed or watered down in exchange for utilities promising to cut
+        energy bills by £50. So, the politicization of energy bills and fuel poverty
+        ledtoasubstantialweakeningofgreenambitionsandpolicies,whichfits
+        well with vested regime interests.                   
+         The prognostic framing changed in the sense that renewable energy,
+        whichthe2003WhitePaperadvocatedasthemainsolution,wasincreas-
+        ingly positioned as one of the options besides nuclear energy and CCS
+        (for coal and gas), for instance, in the 2007 White Paper. Another, more
+        subtle dimension of the new framing was that the proposed solutions
+        (including large offshore windparks) mainly entail large-scale technical
+        options, which fit relatively well with the practices and interests of uti-
+        lities and national governments. Other potential transition pathways are
+        side-lined or marginalized on policy agendas (both in terms of attention
+        and funding). One such alternative pathway consists of civil society ini-
+        tiatives, for example the Transition Towns movement in which citizens
+        develop local projects (e.g. low-carbon lifestyles, eco-housing projects,
+        local car-sharing projects) in response to climate change and peak oil
+        concerns. The Transition Town movement started in 2007 in the UK,
+        and now claims to encompass more than 400 projects in many countries.
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+      AnotherexamplearethehundredsofUK communityenergyprojects, in
+      which local neighbourhoods develop initiatives to generate their own
+      energy with wind turbines, solar panels, and biomass digestion (Walker
+      and Devine-Wright, 2008).                              
+        Urban initiatives form another kind of alternative transition pathway
+      (Bulkeley, 2010), focusing, for example, on co-generation of heat and
+      power (e.g. Aberdeen, Birmingham, Milton Keynes) or on local renew-
+      able energy generation with wind turbines or biomass digestion (e.g.
+      Birmingham, London, Manchester). These urban initiatives, of which
+      there are dozens in the UK, are enacted by professional actors such as
+      transport planners, urban planners, and civil engineers employed by
+      public works departments, who can act as ‘system builders’ in specific
+      localities. Bothalternativepathwaysconcern transitions‘ontheground’,
+      entailing interactions between firms, citizens, policymakers, and social
+      movements.Thesepathwaysfocuslesson‘upstream’large-scaletechnol-
+      ogies and more on reconfiguring local energy and transport systems.
+      These alternative transition pathways receive less attention and
+      resources,whichshowsthatthedominantprognosticdiscourseprivileges
+      the interests of centralized incumbent actors rather than those of less
+      organized and local actors.3                           
+        The motivational framing changed in the sense that public concerns
+      about climate change have weakened since the financial-economic crisis.
+      Aword-countanalysisofBritishnewspapers(Figure5)showsthatpublic
+                        normalized: max=1                    
+                                                             
+        1.0                                                  
+                                                             
+                                                             
+        0.8                                                  
+                                                             
+        0.6                                                  
+                                                             
+        0.4                                                  
+                                                             
+                                                             
+        0.2                                                  
+                                                             
+        0.0                                                  
+           0991 1991 2991 3991 4991 5991 6991 7991 8991 9991 0002 1002 2002 3002 4002 5002 6002 7002 8002 9002 0102 1102
+      32                            Theory, Culture & Society 31(5)
+               The Guardian                                  
+               The Times                                     
+               The Independent                               
+               Daily Express                                 
+      Figure 5. Yearlynumberof articlesinUK nationalnewspapers containingthewords
+      ‘climate change’.                                      
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+        Geels                                        33      
+                                                             
+        attentiontoclimatechangeincreasedfrom2004to2008–2009,fuelledby
+        events such as Hurricane Katrina (2005), Al Gore’s movie An
+        Inconvenient Truth (2006), the Stern Review (2006), and the Fourth
+        Assessment Report from the International Panel on Climate Change
+        (2007). But public attention subsequently nose-dived, because of con-
+        cerns about austerity and unemployment. A public attitudes survey by
+        the UK Department of Energy and Climate Change (March, 2012) con-
+        firms that most citizens now worry more about economic issues than
+        about climate change. The sense of urgency and motivation to enact a
+        low-carbon transition has similarly decreased, with policymakers now
+        paying more attention to issues such as the costs of energy transitions,
+        energy prices and new jobs, which are promised in relation to shale gas.
+         Oneindicationofthechangeinmotivationismountingcriticismofthe
+        2008 Climate Change Act, which enshrined ambitious carbon targets in
+        law. Chancellor George Osborne, for instance, argued at the
+        Conservative Party conference (2–5 October 2011) that the UK should
+        not pursue green policies that would ‘pile costs on the energy bills of
+        households and companies’ and might put the country ‘out of business’.
+        He further suggested that the UK’s post-2020 carbon targets should be
+        subject to review and pledged that the UK should not cut carbon emis-
+        sionsfasterthanotherEuropeancountries.Anotherindicationisthaton
+        21November2013PrimeMinisterCameronapparentlyorderedhisaides
+        to ‘get rid of all the “green crap”’ (i.e. green levies and eco-efficiency
+        programmes) to reduce energy bills. Both examples are not just indica-
+        tions of weakening political motivation, but also an instance of the
+        common tactic to use economic problems to argue for a weakening of
+        social or environmental policies.4                   
+         Regime actors can also defend themselves with material strategies,
+        drawing on technical capabilities and financial resources to improve
+        the technical dimension of socio-technical regimes. These technical
+        innovation efforts are often accompanied by promises and discourses
+        (Van Lente, 1993), which can be used to attract attention and resources
+        from external funders or to ward off possible regulation by promising
+        that solutions are ‘just around the corner’.5        
+         A salient example concerns technical innovation in coal-fired power
+        generation, e.g. flue gas desulfurization devices, supercritical pulverized
+        coal technologies, coal gasification, and carbon capture and storage
+        (CCS). These innovations, particularly CCS, gave rise to a ‘clean coal’
+        discourse, which the government used to legitimate its support for coal.
+        Although CCS is now technically feasible, there is much uncertainty
+        about commercial viability. Utilities are not keen to deploy the technol-
+        ogyandlookforgovernmentsupportandhand-outs(Bowen,2011).The
+        2007WhitePaperthereforeprovideda£1billionsubsidyforalarge-scale
+        CCS demonstration programme. In 2008, four consortia (Peel Energy,
+        BP, E.ON, Scottish Power) showed an interest in participation. But
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+      34                            Theory, Culture & Society 31(5)
+                                                             
+      subsequent negotiations proved difficult and, in October 2011, the last
+      consortium pulled out. Nevertheless, the government continues to
+      assume that CCS will diffuse widely in the coming years. Opponents,
+      however, argue that CCS is a technological promise that will never
+      materialize and is used to delay carbon abatement. The latest part of
+      this controversy is the proposal by CCS proponents that new-built coal
+      plants can be designed to be ‘capture-ready’, so that firms can add CCS
+      when it becomes feasible in the future (Bowen, 2011). But opponents see
+      this as a flimsy promise, which the industry uses to get permits to build
+      new coal-fired plants. They fear that ‘capture-ready’ plants will never
+      retrofit CCS because of the high costs involved. So far, however, CCS
+      andassociatedpromiseshaveeffectivelydefendedcoal-firedpowerplants
+      against climate change threats.                        
+        The fourth kind of resistance relates to broader institutional power,
+      which is embedded in political cultures, ideology and governance struc-
+      tures.Thesewiderinstitutionalcontextsfacilitatethestrategiesofincum-
+      bent actors and thus assist regime resistance. For example, the UK has a
+      liberal market economy (Hall and Soskice, 2001) in which the perceived
+      role of the state is limited to rule-setting and where coordination of
+      activities occurs mainly via market competition. The presumed failure
+      of ‘picking winners’ in the 1970s and 1980s led to a preference for the
+      market to decide about innovations, including low-carbon options.
+      While this ideological hands-off approach sounds neutral, it in effect
+      means that the government privileges powerful regime actors with
+      more capabilities, financial resources and established market positions.
+      It also means that the government is reluctant to take action when
+      market trends go in ‘wrong’ directions, e.g. when price developments
+      (Figure4)leadutilitiestosteeplyincreasetheircoaluse,ashashappened
+      since 2010 (Figure 3), even though this development clearly undermines
+      carbon reduction efforts.                              
+        Theliberalmarketeconomyalsomeansthatpolicymakerssympathize
+      withbusinessesandoftenidentifywiththeirgoalsandproblems.Thisfits
+      well with a UK policy culture, which Bailey (2007) characterizes as a
+      paternalistic and technocratic style of decision-making dominated by
+      techno-economic arguments and cost-benefit analyses; informal consult-
+      ation networks that give industry groups privileged positions as pro-
+      viders of technical knowledge and advice, with limited access for
+      outsiders to close-knit policy networks. This policy style has made UK
+      policymakers more skilful in dealing with incumbent firms and technical
+      experts than with citizens, cities, and social movements, which helps
+      explain why large-scale technical options receive more attention and
+      funding than alternative transition pathways.          
+        The political dimensions of these preferences are masked by a ‘post-
+      political’ discourse, which frames climate change and low-carbon transi-
+      tions as a techno-economic management challenge. This post-political
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+        Geels                                        35      
+                                                             
+        discourse avoids the ‘agonistic confrontation of competing visions of a
+        different socio-ecological order’ (Swyngedouw, 2010: 226), and instead
+        presents the preferred pathway as the only alternative. Stirling (2010)
+        criticizes this de-politicization of low-carbon transitions with reference
+        to an article in The Independent (13 July 2006) by David King, the
+        Government’s Chief Scientific Adviser, which was titled: ‘Why We
+        Have no Alternative to Nuclear Power’. With regard to this article,
+        Stirling (2010: 1624) argues that: ‘The crucial role for deliberate social
+        choice is seriously downplayed by current official and incumbent dis-
+        courses in energy policy. Senior figures routinely understate the scope
+        for agency, for instance promoting nuclear strategies for the
+        paradoxically contradictory reasons that there is “no alternative”.’ So,
+        while claiming to follow neutral expert advice, the government often
+        supports low-carbon options that fit incumbent interests.
+         Thispost-politicaltechnocraticstylethereforefavoursexistingregimes
+        and makes it difficult to open up choices for wider political and cultural
+        debate,whichagainhelpsexplainwhyalternativetransitionpathwaysare
+        side-lined. In the second half of 2013, energy policy suddenly became
+        highlypoliticized,firstbecauseofheatedlocaloppositionagainstfracking
+        and shale gas, and second because of a controversy about energy bills.
+        Neither issue did, however, lead to an open debate about different low-
+        carbon futures. With regard to shale gas the government pushed ahead,
+        dismissing opponents as uninformed NIMBY-activists (‘not in my back-
+        yard’),andattemptingto‘bribe’localauthoritiesbypromisingthem1per
+        cent of revenues. With regard to energy bills, both Labour and the
+        Conservative Party tried to position themselves as being on the side of
+        consumers, promising a price freeze or reduction, rather than using the
+        concernstostartabroaderdebateaboutprosandcons,costsandbenefits
+        oflow-carbonenergytransitions.Despitethepoliticalheat,bothdebates
+        thus remained technocratic, closed in terms of participation, and narrow
+        in terms of framing, which suited existing regime actors.
+        Conclusions and Wider Implications                   
+        The previous discussion has shown how incumbent regime actors in the
+        UK have used instrumental, discursive, material and institutional forms
+        of power to resist climate change-related pressures and to reposition
+        themselves for low-carbon futures without fundamental system change.
+        Thediscussionalsoshowedtheusefulnessofthepaper’scontributionsto
+        the socio-technical transitions debate: 1) seriously studying regime
+        dynamics, rather than focusing only on green niche-innovations; 2) con-
+        ceptualizing existing regime actors as actively resisting fundamental
+        change, rather than as locked-in and inert; and 3) introducing power
+        and politics into the MLP, both in a general sense, by articulating rela-
+        tions between incumbent firms and policymakers at the regime level, and
+                                                             
+                                                             
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+      36                            Theory, Culture & Society 31(5)
+                                                             
+      inaspecificsense,bydistinguishingfourwaysinwhichregimeactorscan
+      mobilize power to resist fundamental change.           
+        To finish the paper, I discuss wider empirical implications for low-
+      carbon transition and implications for future research. With regard to
+      low-carbontransitionsintheUKelectricitysystem,thepaperhasshown
+      that the resistance and resilience of fossil fuel regimes largely negated
+      positive developments such as increasing power generation from renew-
+      ables. This finding also has relevance for global electricity generation,
+      where coal-fired generation increased by 45 per cent between 2000 and
+      2010 to almost 8700 TWh, leaving coal as the main source of electricity
+      generation by far. Despite climate change debates and policies, coal’s
+      relative contribution to electricity generation expanded from 39 per
+      cent in 2000 to 42 per cent in 2010 (IEA, 2013). Renewable electricity
+      sources have so far been mainly additional to fossil fuels with no (or
+      limited) substitution effects. So, the resistance of existing regimes is
+      clearly hindering the progress of low-carbon transitions. Although cli-
+      mate change has been a high-level policy issue since the 1997 Kyoto
+      protocol, carbon-dioxide emissions continue to increase, leading the
+      International Energy Agency (2013) to conclude that the world is not
+      on track to meet the 2-degree target. Despite this policy failure, incum-
+      bent regime actors such as national governments and utilities remain
+      firmly committed to nuclear, gas and coal (with the promise of CCS).
+        Theresistanceandexpansionoffossilfuelregimesisamajorproblem,
+      because they rapidly consume the remaining ‘carbon budget’. Climate
+      scientists have calculated that carbon-dioxide concentrations should stay
+      below450partspermillion(ppm)tohavea50percentchanceofstaying
+      below the 2-degree target (Berners-Lee and Clark, 2013). The remaining
+      ‘carbon budget’ associated with 450ppm is about 1440 Gt of carbon-
+      dioxide, of which 420 Gt has already been emitted between 2000 and
+      2011 (International Energy Agency, 2013). Because another 136 Gt is
+      estimated to be emitted from non-energy-related sources before 2050
+      (e.g. from agriculture), the remaining budget is about 884 Gt carbon-
+      dioxideby2050(InternationalEnergyAgency,2013).Thebigproblemis
+      that the world’s proven fossil fuel reserves are much larger than the 884
+      Gt carbon budget, namely about 2800 Gt (International Energy Agency,
+      2013), with about 1870 Gt coal, 610 Gt oil, and 410 Gt gas.6 So, the
+      resistance of existing fossil fuel regimes is a major threat, because if the
+      world burns all these reserves, the 2-degree target will be far exceeded
+      (Berners-Lee and Clark, 2013).                         
+        In terms of conceptual and policy agendas this means that discussions
+      oflow-carbontransitionshouldnotjustfocusonstimulating‘green’alter-
+      natives but also on preventing existing fossil fuel reserves from being
+      burned or on stimulating the widespread adoption of CCS. At present,
+      policymakers (and many academics) have high (probably unrealistic)
+      hopesthat‘green’innovationwillbesufficienttobringaboutlow-carbon
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+        Geels                                        37      
+                                                             
+        transitions. While stimulating green alternatives remains important, a
+        strong focus on new innovations may serve to protect existing regimes
+        by detracting attention from the fossil fuel burning problem. So, an
+        important topic for future research is to better understand not just
+        regime resistance but also the destabilization and decline of existing
+        regimes, i.e. the ‘destruction’ part of Schumpeter’s ‘creative destruction’
+        concept(seeTurnheimandGeels,2013,forinitialconceptualizationsand
+        research). While Schumpeter mainly saw new technologies as drivers of
+        creativedestruction,Isuggestthatsocio-politicalstruggleswithfossilfuel
+        companiesandotherincumbentfirms(e.g.electricutilities,carcompanies)
+        will be crucial in the case of low-carbon transitions. In fact, politically-
+        inspired regime destabilization may be necessary to create opportunities
+        for the wider diffusion of renewables, which now face uphill struggles
+        againstresistantregimes,asthispaperhasshown.So,ratherthanfollow-
+        ing the normal ‘David versus Goliath’ storyline, in which heroic green
+        innovations overthrow thegiant, this new agendawould shift theanalyt-
+        ical agenda to better understand how ‘Goliath’ can be weakened, eroded
+        and destabilized, to enhance the chances of green Davids.
+         Anotherimportanttopicforfutureresearchistobetterunderstandthe
+        rise of alternative ‘Davids’, i.e. not just upstream green electricity pro-
+        duction technologies (e.g. wind, solar, bio-energy), but also broader
+        socio-technical innovations such as the civil society and urban initiatives
+        discussed above. This would entail a relative shift from the dominant
+        STI-mode of innovation (Science, Technology and Innovation), which
+        emphasizes upstream research and development investment in ‘green’
+        technologies, to a DUI-mode of innovation (Doing, Using and
+        Interacting) (Jensen et al., 2007), which emphasizes ‘learning by doing’,
+        ‘learning by using’ and broader social interactions in green reconfigur-
+        ations of concrete transport and energy systems. Although these broader
+        innovationshavemoresustainabilitypromise,suchashiftinthemodeof
+        innovation is likely to be resisted by incumbent regime actors, which
+        underlines the importance of the topic of this paper.
+        Acknowledgements                                     
+        I would like to thank five reviewers, the special issue editors (John Urry and David
+        Tyfield) and the TCS editors for their very insightful and constructive advice on a pre-
+        viousversionofthispaper.Theunderlyingworkforthispaperhasbeensupportedbya
+        grant (number 603942) from the European Commission for the research proposal
+        ‘Exploring Transition Pathways to Sustainable, Low Carbon Societies’ and by the
+        Centre for Innovation and Energy Demand, funded by an EPSRC/ESRC grant
+        (number EP/KO11790/1).                               
+        Notes                                                
+        1. Themulti-levelperspective(MLP)combinesconceptsfromevolutionaryeco-
+          nomics (trajectories, regimes, niches, speciation, path dependence, routines),
+                                                             
+                                                             
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+      38                            Theory, Culture & Society 31(5)
+                                                             
+        sociology of technology (sense-making, social networks, innovation as a
+        social process shaped by broader societal contexts), structuration theory
+        and neo-institutional theory (rules and institutions as ‘deep structures’ on
+        which knowledgeable actors draw in recursive actions) (Geels and Schot,
+        2007).                                               
+      2. Geels (2002: 1261), for instance, argued that: ‘To counter this bias [towards
+        novelty],Ithinkmoreexplicitattentionneedstobepaidtoongoingprocesses
+        at the regime and landscape level’.                  
+      3. In April 2010 the government did introduce a feed-in tariff for small-scale
+        renewable generation up to 5MW (e.g. solar photovoltaic and anaerobic
+        digestion). But substantial cuts in August 2012 created problems for many
+        small-scale initiatives.                             
+      4. PennaandGeels(2012)showedthattheUScarindustry(successfully)useda
+        similar tactic when it faced economic problems inthe late1970s,persuading
+        the government to weaken air pollution, auto-safety and fuel economy
+        regulations.                                         
+      5. Penna and Geels(2012)found that USautomakers inthe 1960s arguedthat
+        airpollutionregulationswerenotneeded,becausetheywerealreadyworking
+        on technical solutions such asPositive Crankcase Ventilation. Zehner (2012)
+        discusses how product champions of nuclear fusion over several decades
+        promised that the technology would be viable in about 30 years’ time.
+      6. Probable reserves and possible reserves of fossil fuels are far larger still.
+      References                                             
+      Avelino F and Rotmans J (2009) Power in transition: An interdisciplinary
+        framework to study power in relation to structural change. European
+        Journal of Social Theory 12(4): 543–569.             
+      Bailey I (2007) Market environmentalism, new environmental policy instru-
+        ments, and climate change policy in the United Kingdom and Germany.
+        Annals of the Association of American Geographers 97(3): 530–550.
+      Barley SR (2010) Building an institutional field to corral a government: A case
+        to set an agenda for organization studies. Organization Studies 31(6):
+        777–805.                                             
+      Berners-Lee M and Clark D (2013) The Burning Question. We Can’t Burn Half
+        theWorld’s Oil,CoalandGas.SoHowDoWeQuit?London: Profile Books.
+      BodenT,MarlandGandAndresR(2013)Global,RegionalandNationalFossil-
+        Fuel CO2 Emissions. Carbon Dioxide Information Analysis Center, Oak
+        Ridge National Laboratory, US Department of Energy, Oak Ridge,
+        Tennessee.                                           
+      BowenF(2011)Carboncaptureandstorageasacorporatetechnologystrategy
+        challenge. Energy Policy 39(5): 2256–2264.           
+      BulkeleyH(2010)Citiesandthegoverningofclimatechange.AnnualReviewof
+        Environment and Resources 35: 229–253.               
+      Burnham P (1990) The Political Economy of Postwar Reconstruction. London:
+        Macmillan.                                           
+      Elzen B, Geels FW and Green K (eds) (2004) System Innovation and the
+        Transition to Sustainability: Theory, Evidence and Policy. Cheltenham:
+        Edward Elgar.                                        
+
+[PAGE 19]
+                                                             
+                                                             
+                                                             
+        Geels                                        39      
+                                                             
+        Fine B and Rustomjee Z (1996) The Political Economy of South Africa: From
+         Minerals-Energy Complex to Industrialization. Boulder, CO: Westview Press.
+        Fligstein N (1996) Markets as politics: A political-cultural approach to market
+         institutions. American Sociological Review 61(4): 656–673.
+        GeelsFW(2002)Technologicaltransitionsasevolutionaryreconfigurationpro-
+         cesses: A multi-level perspective and a case-study. Research Policy 31(8–9):
+         1257–1274.                                          
+        Geels FW (2012) A socio-technical analysis of low-carbon transitions:
+         Introducing the multi-level perspective into transport studies. Journal of
+         Transport Geography 24: 471–482.                    
+        GeelsFWandSchotJW(2007)Typologyofsociotechnicaltransitionpathways.
+         Research Policy 36(3): 399–417.                     
+        GrinJ(2010)Understandingtransitionsfromagovernanceperspective.In:Grin
+         J, Rotmans J, Schot J, Geels FW and Loorbach D (eds) Transitions to
+         Sustainable Development: New Directions in the Study of Long Term
+         Transformative Change. London: Routledge, pp.249–319.
+        Hajer MA (1995) The Politics of Environmental Discourse: Ecological
+         Modernization and the Policy Process. Oxford: Clarendon Press.
+        Hall PA and Soskice D (2001) Varieties of Capitalism: The Institutional
+         Foundations of Comparative Advantage. Oxford: Oxford University Press.
+        Hess DJ (2013) Sustainability transitions: A political coalition perspective.
+         Research Policy 43(2): 278–283.                     
+        HillmanAandHittM(1999)Corporatepoliticalstrategyformulation:Amodel
+         of approach, participation, and strategy decisions. Academy of Management
+         Review 24(4): 825–842.                              
+        Hughes TP (1994) Technological momentum. In: Smith MR and Marx L (eds)
+         Does Technology Drive History? The Dilemma of Technological Determinism.
+         Cambridge, MA: MIT Press, pp.101–113.               
+        InternationalEnergyAgency(2013)RedrawingtheEnergyClimateMap:World
+         Energy Outlook Special Report. Paris, France.       
+        JensenMB,JohnsonB,LorenzEandLundvallBA(2007)Formsofknowledge
+         and modes of innovation. Research Policy 36(5): 680–693.
+        Kern F (2011) Ideas, institutions and interests: Explaining policy divergence in
+         fostering ‘system innovations’ towards sustainability. Environment and
+         Planning C: Government and Policy 29(6): 1116–1134. 
+        LevyDLandNewellP(2002)Businessstrategyandinternationalenvironmental
+         governance: Toward a neo-Gramscian synthesis. Global Environmental
+         Politics 2(4): 84–101.                              
+        Lindblom CE (2001) The Market System. What It Is, How It Works, and What
+         to Make of It. New Haven, CT: Yale University Press.
+        Meadowcroft J (2011) Engaging with the politics of sustainability transitions.
+         Environmental Innovation and Societal Transitions 1(1): 70–75.
+        Mouzelis N (1995) Sociological Theory: What Went Wrong? Diagnoses and
+         Remedies. London: Routledge.                        
+        Newell P and Paterson M (1998) Climate for business: Global warming, the
+         state, and capital. Review of International Political Economy 5(4): 679–704.
+        Pearson P and Watson J (2012) UK Energy Policy 1980–2010: A History and
+         Lessons to be Learnt. London: Parliamentary Group for Energy Studies.
+
+[PAGE 20]
+                                                             
+                                                             
+                                                             
+      40                            Theory, Culture & Society 31(5)
+                                                             
+      PennaCCRandGeelsFW(2012)Multi-dimensionalstrugglesinthegreeningof
+        industry: A dialectic issue lifecycle model and case study. Technological
+        Forecasting and Social Change 79(6): 999–1020.       
+      Phelan L, Henderson-Sellers A and Taplin R (2012) The political economy of
+        addressingtheclimatecrisisintheearthsystem:Underminingperverseresili-
+        ence. New Political Economy 18(2): 198–226.          
+      SmithA,StirlingAandBerkhoutF(2005)Thegovernanceofsustainablesocio-
+        technical transitions. Research Policy 34(10): 1491–1510.
+      Snow DA and Benford R (1988) Ideology, frame resonance, and participant
+        mobilization. International Social Movement Research 1: 197–217.
+      Stirling A (2010) Multicriteria diversity analysis: A novel heuristic framework
+        for appraising energy portfolios. Energy Policy 38(4): 1622–1634.
+      Swyngedouw E (2010) Apocalypse forever? Post-political populism and the
+        spectre of climate change. Theory, Culture & Society 27(2–3): 213–232.
+      Turnheim B and Geels FW (2013) The destabilisation of existing regimes:
+        Confronting a multi-dimensional framework with a case study of the
+        British coal industry (1913–1967). Research Policy 42(10): 1749–1767.
+      UnruhGC(2000)Understandingcarbonlock-in.EnergyPolicy28(12):817–830.
+      Urry J (2013) Societies Beyond Oil: Oil Dregs and Social Futures. London: Zed
+        Books.                                               
+      Van Lente H (1993) Promising technology: The dynamics of expectations in
+        technological development (PhD thesis, Twente University). Delft: Eburon.
+      Verbong GPJ and Geels FW (2010) Exploring sustainability transitions in the
+        electricity sector with socio-technical pathways. Technological Forecasting &
+        Social Change 77(8): 1214–1221.                      
+      Walker GP and Devine-Wright P (2008) Community renewable energy: What
+        should it mean? Energy Policy 36: 497–500.           
+      Zehner O (2012) Green Illusions: The Dirty Secrets of Clean Energy and the
+        Future of Environmentalism. London: University of Nebraska Press.
+      Frank Geels is Professor of System Innovation and Sustainability at the
+      Sustainable Consumption Institute at the University of Manchester.
+      Geels is Chairman of the international Sustainability Transitions
+      Research Network (www.transitionsnetwork.org) and one of the
+      world-leading scholars on socio-technical transitions and radical
+      innovation.                                            
+      This article is part of the Special Issue on Energy & Society, edited
+      by David Tyfield and John Urry.                        
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             

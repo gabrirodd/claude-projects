@@ -1,0 +1,946 @@
+[PAGE 1]
+ 1363070                                                     
+ research-article2025 TCS0010.1177/02632764251363070Theory, Culture & SocietyMoran
+                                                             
+                                                             
+       Article                                               
+                                             Theory, Culture & Society
+       Love Makes  Robots                     2026, Vol. 43(1) 99 –116
+                                              © The Author(s) 2025
+       Human:   Loveability and                              
+                                              Article reuse guidelines:
+       the Politics of Liveliness         sagepub.com/journals-permissions
+                                        httpDs:O//dIo: i1.o0r.g1/1107.711/0727/60322673267462452153136633007700
+                                           journals.sagepub.com/home/tcs
+       Jenny Carla Moran                                     
+       University of Cambridge                               
+                                                             
+                                                             
+       Abstract                                              
+       How is it that some people become concerned with non-living robots’ ‘rights’ while
+       many humans and animals are still permitted to die? There is a socially-constructed
+       symbolic hierarchy of beings and objects within which, at times, commodities are valued
+       over the living. While there are many works that have thought about hierarchies of
+       the human, few have adequately conceptualized the role of love in affording protected
+       statuses to living beings as well as non-living objects in this hierarchy. This article outlines
+       genealogies of narrative-encoding reproducing conditions of normative loveability to
+       Western coloniality. It critically explores the role of love in wrongfully attributing lives
+       that matter to an AI-embodying sex doll, an infant-imitating sociable robot, and an
+       experimental transhumanist cyborg. The article proposes loveability is a key factor
+       impacting the symbolic liveliness of living beings and non-living objects ancillary to the
+       dominant Man in the hierarchy of liveliness.          
+                                                             
+       Keywords                                              
+       autopoiesis, biopolitics, colonialism, love, artificial intelligence, robots, narrative
+                                                             
+                                                             
+       Introduction                                          
+       This article argues that relations of love are a key factor in the hierarchization of liveli-
+       ness. It treats liveliness as an attribution which may be assigned to living beings or non-
+       living objects. The work explores how adherence to normative ideals of loveability may
+       afford certain living beings, and certain non-living objects, improved positionings in an
+       ontological hierarchy of symbolic life and death drawn through the political-economic
+       system of Western coloniality. The article delineates this process to intervene in wrongful
+       attributions of highly-valued forms of liveliness, namely humanness, to non-living
+                                                             
+                                                             
+       Corresponding author: Jenny Carla Moran. Emails: jcm211@cam.ac.uk; jemoran@tcd.ie.
+       TCS Online Forum: https://www.theoryculturesociety.org/
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+      100                             Theory, Culture & Society 43(1)
+                                                             
+      robots. This inquiry began with the question: how can some people ostensibly care about
+      the ‘rights’ of non-living robots within the same economy of value that still renders many
+      humans and animals killable?                           
+        To answer this question, the article employs narrative-encoding as a method for read-
+      ing robots. Seaver (2017: 1) proposes algorithms can be read not ‘in’ culture but ‘as’
+      culture, in that they co-constitute broad patterns of meaning and practice that can be
+      methodologically engaged on an empirical basis. I use narratives informing robots
+      designed for relations of love to engage such broad patterns of meaning and practice
+      concerning normative conditions for loveability to Western coloniality. When a roboti-
+      cist designs a robot to be loved, they make a series of predictions about how the average
+      user would wish for a loveable robot to look, perform, and interact. The robot’s behav-
+      ioural success is dependent upon those predictions being correctly accounted for and
+      encoded in the object’s software. Many roboticists cite a wealth of scientific studies and
+      science fiction informing such predictive decisions. This article foregrounds the fictional
+      and non-fictional narratives of loveability informing the constitution of three robots
+      expressly designed for relations of love: Samantha, Kismet, and BINA48.1 It demon-
+      strates how longer-standing narratives of loveability have been encoded into these robots.
+      Following an initial section theoretically engaging loveability under Western coloniality,
+      the article will tell three love stories: one of romantic love, one of parent-infant love, and
+      one of infinite love; following which it will conclude in a critical discussion of rights for
+      loveable robots.                                       
+        Unlike many works in tech ethics, the intention of this article is not to intervene in
+      algorithmic bias, to imagine using the chosen artefacts otherwise, nor to explore instances
+      where any objects release an unexpected, performative output. The method of reading
+      narrative-encoding is employed to understand these three robots as snapshots capturing
+      dominant cultural conditions that contribute to a broader pattern of meaning concerning
+      what is and is not loveable. These dominant cultural conditions are not merely adopted
+      from one book which a given roboticist may read, but derived from genealogies of narra-
+      tive representation drawn through centuries of the political-economic system of Western
+      coloniality. In order to interpret such a wealth of synthesized data, the article employs the
+      decolonial literary theoretical lens of autopoiesis, or the process through which a system
+      brings itself into being. In relation to the problem of the human, which has been described
+      as a racially-codified mutable category across Black Studies and Afropessimism, Sylvia
+      Wynter understands narratives written and repeated by the species over millennia as part
+      of the autopoietic process bringing the human into being.2 Building on Frantz Fanon’s
+      work establishing ‘sociogeny’ (1986 [1952]: 13), Wynter turns attention to broad themes
+      in narrative that are repeated again and again, such that they co-constitute and reify the
+      cultural systems of meaning-making cohering Western coloniality and defining who gets
+      to be counted as fully human. Like gender studies theorists who identify a dominant ‘Man’
+      as the centred upon subject in symbolic orders such as phallocentrism, Wynter explores
+      how genealogies of narrative produced throughout the political-economic system of
+      Western coloniality have continued to centre a normative, idealized version of (white)
+      Man, represented as the most-human human (2015: 196). She scrutinizes ‘part-myth-part-
+      science’ origin stories made to seem supra-credal, like Christianity and pop-sci evolution,
+      to demonstrate how these help to structure ontological hierarchizations of liveliness in a
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+       Moran                                         101     
+                                                             
+       racially-codified manner, aligning whiteness with goodness and symbolic liveliness, and
+       aligning Blackness and/or Indigeneity with disease, the pollution of sin, and symbolic
+       death (2015: 197; 2003: 309). Similarly, scholarship at the intersection of literary studies
+       and tech ethics examines the importance of a science fiction narrative to the design, recep-
+       tion, and governmental management of contemporary robots and AI (see Cave et al.,
+       2020). The article takes inspiration from such approaches by using narratives of love to
+       hermeneutically read broader patterns of cultural meaning in relation to robots.
+       Love Makes Us Human; Love as Poiesis                  
+                                                             
+       Love has been crafted into an avenue for transcendence in centuries of myth, sciences,
+       and literary fictions shaped through the political-economic system of Western colonial-
+       ity. In the theocentric mythos of Western coloniality which Wynter examines, a Christian
+       love between Man and God enables transcendence of the limitations of the flesh in the
+       form of immortality. This repeated trope is always-already racialized to hierarchize live-
+       liness, with the children of Ham made to bear Original Sin in slavery, occupying ‘the
+       level of the beast’, in contrast to Man’s spatial ‘ris[ing] to the level of the angels’ (Wynter,
+       2003: 276–7). Man’s continued placement at the top of a hierarchy of distance from ani-
+       mality was then further determined through narratives of appropriately-heteronormative
+       romantic love with (white) Woman, following developments in the biological sciences,
+       gynaecology, and colonially-motivated reproductive governance in the 18th and 19th
+       centuries.3 Transcendence of abjectified animality through the right kind of loving
+       becomes a marker of civilized humanness. Indeed, in evolutionary terms Dominic
+       Pettman (2006: 17) proposes love functioned to exteriorize the self as a ‘technology of
+       community’, suggesting love marks a point of enlightenment from whence the ‘prehu-
+       man’ emerges as human. Many dominant accounts in psychoanalysis, psychiatry, and
+       psychology have historically supported these framings, even finding commonality with
+       narrative representations of love in Plato’s famous Symposium: love as an enabling force
+       in social organizations of community; love as a recovery of spiritual wholeness; and love
+       as a means of symbolic immortality through progeny (Plato, 1990/c. 385–370 BCE, 10–
+       12, 23–4, 43–4).4 Meanwhile, especially from the 19th century onward, children are
+       raised on stories hinging on the transcendent power of ‘True Love’s Kiss’ in making
+       objects, monsters, and animals into humans. In each of these examples, love acts as a
+       means of bringing forward modes of liveliness in a hierarchy drawn from non-human
+       animality to immortal angels. The repeated theme across the narratives establishes an
+       idea that beings and objects transcend their status through love, allowing non-humans to
+       come closer to the status of Man, and allowing Man to come closer to the status of God.
+        The narrative trope of transcendence is particularly salient for relations of love with
+       robots, proto-robots, and automatons from the 18th century onward. Even in the play
+       from whence the term ‘robot’ is derived, Karel Čapek’s R.U.R. (2011 [1920]), it is the
+       relation of love between robot characters Primus and Helena which makes their creator
+       accept they are no longer commodities. When the chief robot builder, Alquist, wishes to
+       experiment on Helena, and then Primus in her place, each oppose him, demonstrating
+       anger, capacity to cry, and a will to ‘live’ but ‘not live without’ one another (2011 [1920]:
+       96–8). The play ends with Primus’s assertion that the two are not the property of Alquist
+                                                             
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+      102                             Theory, Culture & Society 43(1)
+                                                             
+      because they ‘belong to each other’, and Alquist’s final resignation: ‘Go, Adam, go, Eve.
+      The world is yours’ (2011 [1920]: 99). Comparing this text to other literary representa-
+      tions of robots from the 18th century, William E. Harkins notes that evidence of capacity
+      to love becomes evidence of life itself, writing that when an object is ‘incapable of love’
+      it ‘has no soul’, and thus, in Čapek’s play, love acts as evidence that ‘the robots have
+      become men’ (1960: 316). Narratives like that of Primus prime us to assign humanness
+      to loveable robots. The fact that the robots are not understood as human becomes a meta-
+      phor for unjust Othering. In her critical analysis of sex-robot science fiction narratives,
+      Leslie Bow (2022: 113–15) argues that popular representations of robots have problem-
+      atically played into gendered and racial tropes, establishing a dominant ‘neoslave narra-
+      tive’ of robot victimhood. I want to emphasize the political stakes of misdirecting these
+      sentiments. If Western coloniality reproduces conditions of loveability through narrative
+      repetition, and loveable robots embody and repeat these conditions to achieve affinitive
+      human-likeness by design, we risk positioning our own self-fulfilling prophecies as the
+      metric for evaluating robots’ liveliness.              
+        I want to further suggest that loveability acts as a form of poiesis in the autopoiesis of
+      diverse genres of humanness and liveliness. In its critical framing of love as a fantasy of
+      deliverance cohering Western coloniality, this article takes a technical approach to the
+      functionality of what gets called love in repeated dominant narratives. There are many
+      more ways to frame something called love beyond, and indeed against, regimes of colo-
+      nial violence.5                                        
+        However, thinking about narratively-encoded normative loveability in reference to its
+      conceptual, load-bearing function is advantageous for understanding the role of love-
+      ability in imagining that an object like a robot possesses a life that matters. Heidegger
+      (1977 [1954]: 293) describes poiesis as a ‘bringing-forth’ of ‘truth’, identifying both
+      poiesis and physis. Poiesis refers to a truth brought forth through some form of media-
+      tion, for example a sculptor’s use of tools to turn marble into a statue. The thing of ‘truth’
+      that is brought forth need not necessarily be inherently true, but could be something that
+      is made to seem true. This is the case for the construction of the human through millennia
+      of narratives which have repeatedly placed Man ‘at the centre of a self-valorizing cos-
+      mogeny and mythical charter’ (Wynter, 2015: 197–8).    
+        The narratives which centre Man are the mediating tools in this process, but this pro-
+      cess of autopoiesis only accounts for the dominant genre of the human: Man, whose
+      hierarchization has traditionally been understood according to metrics of rationality (see
+      Eze, 2008). Exploring love with Man makes visible the emergence of more genres of
+      humanness and liveliness narratively-encoded as symbolically lively or symbolically
+      dead in reference to their relationality with Man. Hence, gender studies scholarship has
+      otherwise demonstrated how patriarchal ontological systems phallocentrically organized
+      around the centred-upon the subject of ‘Man’ have affectively and relationally defined
+      ‘Woman’ through lack – as the less agential, and therefore less symbolically lively,
+      object-to-be-fucked (MacKinnon, 1982: 541; see also de Beauvoir, 2010 [1949]; Salleh,
+      1997). While false equivocations of patriarchy and racism are unhelpful, and indeed
+      often insidious, a worthwhile theoretical perspective can be provided by using gender
+      studies critical approaches to intersectionally reinterpret the role of loveability in hier-
+      archizing beings and objects not afforded the status of ‘Man’.
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+       Moran                                         103     
+                                                             
+        The value of more diverse genres of humanness and liveliness become determined
+       through loveability to Man. Certain robots may therefore become easily understood as
+       symbolically lively, despite the fact that they are non-living, precisely because they are
+       loveable. Beings and objects ancillary to Man in the symbolic order exist along a hierar-
+       chy of liveliness drawn through the political-economic system of Western coloniality.
+       They/we similarly are assigned genres of liveliness that have always-already been estab-
+       lished in relation to Man. Our loveability to Man therefore becomes a key metric in
+       determining the value of our liveliness. The genres of liveliness assigned to beings and
+       objects ancillary to Man in the symbolic order are also autopoietically reproduced, but
+       dominant narratives largely maintain the centrality of Man. Our loveability to Man may
+       therefore be understood as narratively-encoded primarily through the love-plot: a future-
+       oriented fantasy of deliverance promising the closure of a gap of need/desire/possibility
+       between central Man and the love object (see Berlant, 2012: 4–6). Incorporating many
+       existing narratives establishing love as a means of transcendence, the love-plot promises
+       proximity to humanness through the meeting of needs: a means of becoming (more)
+       human through love. Demonstrating the role of narrative in forging conditions contribut-
+       ing to each of the selected robots’ loveability, each love-plot presented in this article
+       serves to further elucidate the role of love in assigning highly-valued genres of liveliness
+       to non-living objects.                                
+       Love-Plot I: the Artificial Intelligibility of Samantha’s Suffering
+       At the 2017 Arts Electronica Festival in Linz, Austria, nanoscientist and sex doll custom-
+       izer Sergi Santos proudly presented his creation, Samantha, to an excited crowd of
+       attendees. Santos had high hopes for the sex doll. To create it and similar products for his
+       company, Synthea Amatus, Santos purchases realistic silicone sex dolls from larger cor-
+       porations and fits them with a software he claims to have designed around diverse con-
+       versationally-interactive modes, like ‘family’ or ‘hard sex’ (Kleeman, 2020: 65). He
+       personally ascribes liveliness to dolls like Samantha with a protective guise, noting that,
+       when these devices have just been made, they are innocently low in libido (in Kleeman,
+       2020: 148). Simultaneously filling both the role of father and prospective sexual partner,
+       Santos accompanied his creation into the world of humans via the festival. He was sub-
+       sequently horrified when the doll was mounted and heavily soiled by those who greeted
+       it. Santos described these attendees as ‘bad,’ suggested their treatment of the doll was
+       uncivilized by calling them ‘barbarians’ and questioned their education by suggesting
+       they ‘did not understand technology’ (in Waugh, 2017: n.p.). In fact, attendees used the
+       object for precisely the activities for which it was designed. Santos was shocked because
+       he expected the average user to assign liveliness to the doll; and perhaps they did, mak-
+       ing their treatment of the doll comparable to sexual violence against a living woman in
+       his worldview. Santos’s outrage was not confined to his own worldview, however. In the
+       media reports which followed, descriptions of the interaction as a sexually-violent
+       ‘molest[ation]’ proliferated (Waugh, 2017: n.p.).6 This reporting culminated in powerful
+       calls from Victoria Brooks (2018) to create legal status for objects like Samantha to pro-
+       tect them against sexual violence. Similarly covered in an array of popular reporting,
+       much of which simplified Brooks’ position, the notion that ‘sex robots should have
+                                                             
+                                                             
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+      104                             Theory, Culture & Society 43(1)
+                                                             
+      “human rights”’ soon gained traction in response to Samantha’s treatment (Best, 2018:
+      n.p.).7 I want to depart from Brooks’ understanding of the ostensible ‘kindness and
+      empathy we feel toward Samantha’ as a ‘good place to begin’ in reference to governing
+      human-robot interactions (Brooks, 2018: n.p.). We should instead question the ease with
+      which kindness and empathy are directed toward the non-living object, particularly when
+      sexual violence that continues to be experienced by many living peoples is not always so
+      easily met with ubiquitous empathy.8                   
+        The reporting of the attack on the doll emerges in a period marked by tabloid obses-
+      sion with the figure of the female-gendered sex robot. Publics have been told that sex
+      robots would ‘replace us’ (Ellen, 2017: n.p.), ‘dehumanize women’ (Vincent, 2019:
+      n.p.), ‘ruin civilization forever’ (VICE Staff, 2016: n.p.), be used to ‘simulate rape’
+      (Timmins, 2017: n.p.), embody memories to bring back ‘dead wives’ (Harrison, 2017:
+      n.p.), be ‘so amazing that we stop having sex with humans’ (Bond, 2017: n.p.), and,
+      eventually, ‘kill’ us (Daly, 2021: n.p.). Combined tones of desire and doom have crafted
+      the reception of these commodities into something sensational, and indeed world-
+      changing. In reality, some of the most reported-upon sex dolls – including Samantha,
+      RealBotix’s Harmony, or TrueCompanion’s ROXXY – amount to little more than
+      ‘Stochastic Parrot[s]’ close in nature to early Natural Language Processing systems
+      (Bender et al., 2021: 610).9 However, the fascination with the artificial construction of
+      female-gendered objects, and the will to associate these objects with desire and doom,
+      far predates 2010s journalistic coverage. I position Samantha as an example of a typical
+      figure we see represented again and again in such narratives: the Tropic Gynoid; the
+      classic fembot figure of the machine Woman.            
+        Samantha’s story has been autopoietically reproduced time and again through a gene-
+      alogy of narrative surrounding the gendering of beloved robots. Though this genealogy
+      of narrative is long-standing, scholars have mistakenly identified Pygmalion from Book
+      X of Ovid’s (2000/8) The Metamorphoses to be a seemingly singular origin myth, implic-
+      itly suggesting Man possesses innate desire to objectify Woman throughout vastly differ-
+      ing cultural and historical periods.10 Automata historians, on the other hand, have noted
+      that proto-robots were predominantly gendered as male, or indeed not gendered at all,
+      before the 18th century. Voskuhl (2013: 7–8) suggests the first gendering of music-play-
+      ing automata as female related to the need for Enlightened European audiences to dem-
+      onstrate a cultivation of sentiment to convey their belonging to ‘civil society’. This
+      new-found focus on sentimentality occurred as Enlightenment-era philosophers were
+      becoming increasingly concerned with the law-like regulation of physical and intellec-
+      tual labours (Schaffer, 1999: 145–50). Due to the production of automated machinery
+      which could similarly labour with law-like regularity during the Industrial Revolution,
+      hierarchizing Man above other forms of liveliness could no longer rely solely on the
+      metric of reason but necessitated a focus on feeling correctly as proof of humanness. In
+      the process of fetishizing a need to demonstrate civility to coloniality, a love for the
+      products of coloniality became sentimentalized evidence of proper humanness and
+      capacity to feel. In precisely this cultural moment, the figure of the ‘machine-woman’
+      first began to popularly feature in science fiction narrative (see Huyssen, 1982: 224–6).
+      Julie Wosk further provides a detailed account of the continued popularity of the Tropic
+      Gynoid into 19th and 20th century science fiction narrative (2015: 18–30, 90–136).
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+       Moran                                         105     
+                                                             
+        During the 18th century in which these narratives first proliferated, a version of the
+       famous myth of Descartes’ ‘Mechanical Daughter’ also evolved to refashion Rene
+       Descartes as a ‘proto-cybernetic theorist’ (Kang, 2017: 647). The myth reflects a geneal-
+       ogy of 18th-century narratives representing the Tropic Gynoid as loveable, and further-
+       more reads as a direct progenitor to the Samantha story. The myth was first invented in
+       the 17th century to explain away Descartes’ real daughter – Francine, conceived out of
+       wedlock – by suggesting uneducated peoples had mistaken an automaton travelling with
+       Descartes for a living girl (Kang, 2017: 643). However, retellings of the myth from the
+       19th century onward no longer concerned his real daughter, and instead depicted the
+       female-gendered automaton as a sexual companion. Like Samantha, this imagined
+       automaton was purportedly destroyed by unenlightened ‘ignoran[t] and suspicio[us]’
+       lower-class men who did not understand the device’s humanness nor the creator’s genius,
+       and who therefore acted as villains in throwing the loveable automaton overboard upon
+       finding it on their ship (Kang, 2017: 647). In the narrative, the object is only a victim
+       because it is loved by the kind of civilized Man who knows how to feel correctly toward
+       it. Furthermore, the narrative-encoding of the non-living object as beloved, tragic victim
+       obfuscates the true victimization of many more players: Francine, the frightened men,
+       factory workers assembling silicone dolls to be fitted with AI systems, miners extracting
+       cobalt for batteries, actual living rape victims, and even the alienated Santos himself.
+        Misdirection of feeling is found in the slippage between understanding the doll as
+       proximate to an idealized Woman because it is loved by Man, versus understanding the
+       doll as an object owned by Man. The proximity of dolls and robots to human-likeness is
+       further emphasized as a marker of liveliness in 20th-century approaches to AI ‘intelli-
+       gence’ as replicating ‘human behaviour’ (Dick, 2009: 2; see also Turing, 1950: 442).
+       Rather than being intelligent, real-world examples of Tropic Gynoids, such as Samantha,
+       succeed in emulating a genre of humanness because they are intelligible as Woman (see
+       Moran, 2024). The conceptual slippage between intelligence and intelligibility confuses
+       the capacity to feel for it with an imagined capacity for the object itself to be capable of
+       feeling. In addition, prominent representations of AI-embodying sex dolls promise rela-
+       tions of utopic ‘unconditional love’ (Shevlin in Blakely, 2023, n.p.; see also Levy, 2007).
+       Such gendered discourses of romantic love have been well documented in their predict-
+       ability, with Roland Barthes (2018 [1977]: 4–6) producing an ‘image repertoire’ of
+       expected features in heteronormative courtship based on the dominant literary canon in
+       the Anglophone world. Outputting standardized, canned responses to key words based
+       on a predictable repertoire is precisely what a Stochastic Parrot is designed to do, yet
+       correct performance of this function becomes evidence of liveliness in behavioural mod-
+       els. It is not code but narrative-encoding that has primed us to receive the Tropic Gynoid
+       as loveable.                                          
+       Love-Plot II: Re-Cognizing the Loveable Infant in Kismet
+       When she was a little girl, Cynthia Breazeal dreamed of bringing to life the fantastical
+       droids she’d seen in the original Star Wars movies. Perhaps unsurprisingly, she grew up to
+       become an engineer. But it wasn’t just a mechanical fascination with the workings of
+       R2-D2 and C-3PO that enticed her. Breazeal ‘actually cared’ about the objects,
+                                                             
+                                                             
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+      106                             Theory, Culture & Society 43(1)
+                                                             
+      experiencing feelings of loss when she realized R2-D2 and C-3P0 would, as she imagined,
+      probably never exist in her lifetime (Breazeal, 2004: xi). However, in 1997 Breazeal joined
+      Rodney Brooks’ team at the MIT AI Lab as a PhD candidate. Her doctoral project consti-
+      tuted the production of the robot she named Kismet, referencing her sense that it was her
+      destiny to bring such a device into being (2004: xv). Despite its construction in the 1990s,
+      Kismet remains exemplary amongst sociable robots as ‘the best-known sociable robot in
+      the world’ (Atanasoski and Vora, 2019: 116). The robot has arguably achieved this status
+      because of its reported success in endearing itself to users when contrasted with the same
+      lab’s earlier, ‘insect-like’ robots (Breazeal, 2004: xi). Indeed, Breazeal expressly created
+      Kismet to be loveable. Unlike Santos, however, Breazeal was not drawing on an autopoi-
+      etically reproduced desire for a gendered, romantic love object. A well-educated roboticist
+      who would go on to become an MIT professor, Breazeal was simultaneously aware of the
+      limits and possibilities of what she could produce during her PhD. Early on, she realized
+      she would not be capable of producing a speaking, humanoid robot that successfully met all
+      remits of intelligible human-likeness in an affinitive manner (Breazeal, 2004: 5). To make
+      a robot that would be successfully interactable by other means, she reviewed a wealth of
+      scientific literature concerning features and emotional expression. Her goal was to create a
+      device that naïve users could be ‘entrained’ to treat in the same manner as a loveable infant
+      (Breazeal, 2004: 35, 101). Her design encouraged the users to modulate their behaviours in
+      infant-directed ways: slowing down; exaggerating pitch, expression and vocal tone; and
+      bringing their face close-to and in-front-of the object (2004: 29). These modulations make
+      stimuli produced by the user, and recorded by Kismet’s cameras and microphones, easier
+      for Kismet’s perceptual system to process, leading to suitable behavioural outputs being
+      released (Breazeal, 2004: 95–6). In sum, if Kismet was not loveable, Kismet would not
+      function.                                              
+        Despite not imitating human infancy exactly, Breazeal needed Kismet to display
+      ‘anthropomorphic’ features and expressions as outputs that would be ‘easily recogniza-
+      ble to a human’ so that the user might successfully interact with the object like they
+      would with a human infant (Breazeal, 2004: 52). Kismet’s metallic head is not fitted with
+      silicone coverage for skin. It has long, curved, outward-facing ears; fuzzy, caterpillar-
+      like eyebrows; and two long red bands on the lower portion of the face which act as lips.
+      In reference to her design of these features, and of Kismet’s emotional expressions,
+      Breazeal documents the influence of human ethologist Irenäus Eibl-Eibesfeldt, develop-
+      mental psychologist John Newson, and Paul Ekman and Wallace Friesen’s expansions on
+      Charles Darwin (2004: 27–35, 51–2, 105–7, 111, 173–4). Eibl-Eibesfeldt considered
+      love between parents and infants to be fundamental to human development, and there-
+      fore proposed an infant schema of recognizable features stimulating ‘innate releasing
+      mechanisms’ that supposedly catalyse caring behaviour in parents (2017 [1970]: 6, 22;
+      1972: 304). Taking the evolutionary pre-programming of these drives for granted,
+      Breazeal designed Kismet’s face in accordance with features documented in this infant
+      schema, including a big head and large eyes (2004: 52). Similarly assuming a biologi-
+      cally-innate developmental model of care-giving, Newson (1979: 213) additionally
+      emphasized the importance of an infant’s ‘pre-programmed’ expressions, which parents
+      ‘readily interpret’ as recognizable in order to care for the infant. He presents a conjec-
+      tured universality of emotional expression in parent-infant relations of love across the
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+       Moran                                         107     
+                                                             
+       species, influenced by Darwin’s early work. Along with the device’s affinitive features
+       and vocal babble, Breazeal designed the motor system to imitate precisely these emo-
+       tional expressions infrastructurally. She hypothesized that this design would cause the
+       user to assist Kismet’s system in artificially achieving homeostatic regulation.11 Breazeal
+       thus expressly programmed Kismet to repeat pre-programmed conditions of loveable
+       recognizability.                                      
+        So far, this love-plot has followed a very smart roboticist who chose to reproduce
+       ideas from some scientific and pseudo-scientific literatures for a clearly logical goal; but
+       there is a twist. The parent-infant love-plot which Breazeal draws upon promises expan-
+       sion of the self to assign liveliness to Kismet. Encouraging treatment of the human infant
+       and the non-living object as proto-humans of the same kind, Breazeal further suggests
+       that the non-living Kismet might one day become ‘conscious’ through learning from its
+       sociable interactions with users (Breazeal, 2004: 112 n1). The developmental models
+       chosen by Breazeal supported the idea that ‘babies become human beings’ only ‘because
+       they are treated as if they already were human beings’ (Newson, 1979: 208, emphasis
+       added; quoted in Breazeal, 2004: 27). This is a disingenuous overstatement of the non-
+       living object’s capacity to – like the living human infant – ‘become human’ in the future.
+       Its loveability is a condition of its becoming human. When Kismet is successfully treated
+       as a human infant because of its loveability, it can be placed within this temporal framing
+       of development influenced by dominant trends in the scientific narratives synthesized by
+       Breazeal. Thus, once again, we are presented with a narrative haunted by implicitly
+       abjectified players. If recognizing Kismet as loveable grants it the possibility of becom-
+       ing human, the very same logic would call into question the humanness of infants that
+       struggle to communicate needs to caregivers, peoples whose regulatory systems are not
+       so easily arbitrated, and indeed those whose emotional transparency is seen to vary
+       within coloniality’s ‘racial mapping feeling and unfeeling’ on a biopolitical basis (Yao,
+       2021: 30).                                            
+        Not intelligible in its linguistic performance, recognizability becomes the central con-
+       dition of Kismet’s loveability, leading Breazeal to focus most heavily on this aspect of
+       design. The success of the object could attest to the validity of the scientific narratives
+       informing Breazeal, but what if Kismet’s destiny was pre-written? Recognizability is
+       informed by genealogies of knowledge concerning appearance and non-linguistic expres-
+       sion. As Ahmed (2000: 22) writes, to recognize a being or object is to re-cognize them:
+       to know them again through a framework of already-established knowledge. The narra-
+       tives which have encoded recognizability are precisely that which is known again in
+       moments wherein robots like Kismet are positioned as loveable, and therefore lively, by
+       Breazeal and indeed by users (see Breazeal, 2004: 175–8). This is not to suggest there
+       may be no truth to ontogeny and phylogeny, but to once again emphasize the important
+       role played by sociogeny in the autopoiesis of humanness and liveliness, even in these
+       scientific literatures. Indeed, it is not only fictional narrative representations that contrib-
+       ute to the ongoing reproduction of the dominant bios/mythos of Western coloniality, as
+       modes of being are autopoietically reproduced through ‘part-myth-part-science’ narra-
+       tives (Wynter, 2015: 197, emphasis added). By reproducing assumptions in some of the
+       scientific literatures informing her design, Breazeal reproduces conditions of loveability
+       in the process of assigning the potential for life to Kismet.
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+      108                             Theory, Culture & Society 43(1)
+                                                             
+      Love-Plot III: BINA48 and a Love that Lasts Forever    
+      In 1994, millionaire attorney-entrepreneur Martine Rothblatt turned to her beloved wife,
+      Bina Aspen, and confessed to her that she was a transgender woman. Rothblatt was ter-
+      rified to tell Aspen her truth (Miller, 2014). Aspen had married Rothblatt 12 years prior,
+      while Rothblatt still presented as male: the gender she was assigned at birth. Already
+      having met across cultural worlds – Rothblatt being a white Jewish person from San
+      Diego, and Aspen being an African-American woman from Compton – the two had over-
+      come difference before. They purportedly transcended these differences through love.
+      So, when Rothblatt came out, Aspen’s response was also appropriately transcendent. She
+      reassured her wife ‘I love you for your soul, not your skin’ (Aspen in Miller, 2014, n.p.).
+      Transcending the body to preserve the soul continued to be an important theme in
+      Rothblatt’s (2013) philosophical writings, which draw direct comparisons between being
+      transgender and going beyond the boundaries of the human. This philosophy animates
+      Rothblatt and Aspen’s joined technological enterprises. The product of one such enter-
+      prise, BINA48 is a robotic head and shoulders commissioned by Rothblatt from Hanson
+      Robotics. It is made in Aspen’s image, and recognizable as a middle-aged Black woman.
+      Despite intelligibility in the love narratives surrounding the object, BINA48 was not
+      designed to be human in its own right but to one day merge with the consciousness of the
+      real Aspen; to preserve her mind into futurity beyond the limitations of her mortal body.
+      Lisa Miller therefore describes Rothblatt’s commissioning of BINA48 as a ‘pursuit of
+      immortality’ in ‘love that will last forever’ (Miller, 2014: n.p.). Coverage of the robot has
+      since assigned humanness to the object, with creators and commentators consistently
+      representing it through the language of love.12 The device is simultaneously represented
+      as loving, capable of love, and an exercise in love.   
+        The loveable robot is furthermore an ambassador of LifeNaut, a research project
+      which involves storing user data and genetic information in satellites orbiting earth.
+      LifeNaut.com currently accepts human users’ input of data about themselves to construct
+      ‘MindFiles’, with this data being stored in commercial satellites in space contracted by
+      the Terasem Movement Foundation (TMF) (LifeNaut, 2024). Rothblatt, Aspen, and
+      other TMF members believe that eventual unspecified developments in neuroscience,
+      AI, and nanotechnology will allow their consciousnesses to one day blend with these
+      MindFiles (Rothblatt, 2013). Preserving their consciousnesses beyond their bodies in
+      death, TMF’s members believe their data storage system will prevent love ever having to
+      end, enabling them to be ‘reunited’ with deceased partners, and to ‘explore space
+      together’ in the future (in Roy, 2014: n.p.). Fashioning their own self-made heaven
+      among the stars, Rothblatt and Aspen invoke a future-oriented fantasy in a love-plot that
+      promises believers expansion of the self beyond bodily difference, beyond mortality, and
+      indeed beyond earth.                                   
+        Rothblatt and Aspen select the predicted Aspen-BINA48-assemblage as first to enter
+      their self-made heaven. Not discounting their post-racial representations of their love,
+      this could be described as an act oppositional to the violences of Western coloniality (see
+      Eriksen, 2021: 79; Greene, 2016). Rothblatt and Aspen encourage this perspective
+      through the connection they draw between TMF and Afrofuturist fiction.13 However, this
+      kind of branding confuses the status of Aspen – whose humanness may wrongfully come
+                                                             
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+       Moran                                         109     
+                                                             
+       into question in accordance with the violences of Western coloniality – with the non-
+       living BINA48, whose imagined liveliness should indeed be critically in question. In
+       fact, seven years prior to the robotic head and shoulders ever even being commissioned,
+       Rothblatt imagined how she would represent BINA48’s right not to be switched off in a
+       court of law (Rothblatt, 2003: n.p.). She wrote a performative mock trial, the record of
+       which has since been removed from TMF’s websites. The transcript remains accessible
+       via an archived internet page. In the trial, Rothblatt’s lawyer character makes a case for
+       BINA48’s human rights on the basis that BINA48 can feel after the robot pleads: ‘Please
+       agree to be my counsel and save my life. I love every day that I live’ (2003: n.p.).
+       Answering the BINA48 character’s call for salvation, Rothblatt argues in favour of the
+       robot’s rights, suggesting that denying BINA48’s status as ‘living’ would be akin to ani-
+       mal cruelty, non-consensual removal of life support, and, most problematically, denial of
+       the liveliness of enslaved peoples prior to abolition (2003: n.p.). The alignment of anti-
+       Black racism with any will to question the liveliness of the imagined robot equates the
+       lived experience of African-American ancestors with the imagined experience of the
+       commodity that would later be commissioned. A problematic, post-racial, futurist narra-
+       tive love-plot thereby served to encode BINA48 as loveable even prior to the device’s
+       material creation.                                    
+        Furthermore, in its broader genealogy of narrative-encoding, BINA48 is positioned
+       as transcendently loveable through adaptability because of its positioning in a futurist
+       love-plot. In the 1990s, many engineers moved away from problematic behavioural
+       metrics of human-like performativity and toward adaptability as a benchmark of AI
+       ‘intelligence’ (Pfeifer and Scheier, 2001: 21). As was seen in the case of Kismet, this
+       adaptive model is evolutionary, aiming to embed objects with sophisticated synthetic
+       systems from whence ‘goal-directed behavior’ might emerge (1990: 7). The adaptive
+       model engenders a timeline of progress seeking to evolve more complex liveliness in
+       the future, with the ultimate anthropocentric goal of evolving ‘human-level intelli-
+       gence’ (Brooks, 1990: 7). However, unlike Kismet, BINA48 is not fitted with a syn-
+       thetic nervous system to theoretically produce goal-directed behaviours in response to
+       its environment. BINA48 is designed to seamlessly blend with Aspen, who loves
+       Rothblatt, with the goal of making their love immortal beyond the remits of contempo-
+       rary human capacity.                                  
+        The robotic head and shoulders is instead narratively-encoded as loveable through
+       adaptability in accordance with narratives produced through a group of futurist philoso-
+       phies recently bundled together under the acronym TESCREAL: transhumanism, extro-
+       pianism, singularitarianism, cosmism, rationalism, effective altruism, and longtermism
+       (Gebru and Torres, 2024: 1). Namely, Rothblatt and Aspen identify as transhumanists.
+       Transhumanism maintains belief in computers coming to life to produce advancements
+       beyond humanness (Gebru and Torres, 2024: 5). Like the other intersecting TESCREAL
+       philosophies, transhumanism has been traced to an historical manifestation of second-
+       wave eugenics focused on ‘human enhancement’ (Gebru and Torres, 2024: 5). These
+       eugenic approaches to evolving humanness echo longer-standing Social Darwinist per-
+       spectives which first emerged during the shift from theocentric to biocentric ontology to
+       cohere Western coloniality: a shift which ostensibly took place during the 18th and 19th
+       centuries (Wynter, 2003).                             
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+      110                             Theory, Culture & Society 43(1)
+                                                             
+        Social Darwinist representations of natural ‘selection’ are narratively-encoded by
+      an earlier theocentric narrative, in which the most symbolically lively, most-human
+      humans would achieve immortality by being selected to enter the Kingdom of Heaven
+      (Wynter, 2003: 316). TESCREALists further this selective approach, electively rep-
+      resenting some beings and objects to enter the future while others must be strategi-
+      cally abandoned to the inevitable ravages of humanist violence, such as climate
+      change.14 This violent and alienated perspective is also a love-plot. Not unlike the
+      theocentric promise of heaven, TESCREALists promise some beings and objects an
+      enhanced capacity for ‘infinite love’ as ‘evolution moves inexorably toward . . . God’
+      (Kurzweil, 2005: 389). In these framings, the most valued form of liveliness is deter-
+      mined by capacity for ‘joy, creativity, worthwhile achievements, friendships, and
+      love’ (Bostrom, 2013: 31); all of which can supposedly be improved through conjec-
+      turally using technology to ‘modify and enhance one’s body, cognition, and emotions’
+      (Various, 2013: 54–5). If Man has been narratively-encoded as the being destined to
+      rise to ‘the level of the angels’ while killable others occupied ‘the level of the beast’,
+      projects like LifeNaut seek not to disrupt this mapping but to control who to elevate
+      (Wynter, 2003: 274–7; see also Ali, 2020). The futurist love-plot offers salvationist
+      transcendence to theocentric, biocentric, and now technocentric imaginings of infi-
+      nite love.                                             
+      Rights for Loveable Robots                             
+      In each of the love-plots, a non-living object is apprehended as though it were living
+      because it is loveable. Objects which are encoded to algorithmically deliver predictively-
+      desirable, human-like outputs are made loveable in accordance with the existing ‘master
+      code’ of Western coloniality (Wynter, 2003: 309). This is not to suggest that loving,
+      interacting, nor imagining outside of this ‘master code’ is not possible, but to emphasize
+      the role of narrative-encoding in creating conditions for valuing modes of liveliness. I
+      have suggested that conditions such as intelligibility, recognizability, and adaptability are
+      not inherent evidence of a life that matters. The intelligible Tropic Gynoid is narratively-
+      encoded as loveable in the part-myth-part-science romantic love-plot. The recognizable
+      sociable robot is narratively-encoded as loveable in the part-myth-part-science parent-
+      infant love-plot. The adaptable cyborgian experiment is narratively-encoded as loveable
+      in the part-myth-part-science futurist love-plot. The objects may be popularly appre-
+      hended as lively because they are always-already represented as possessing lives that
+      matter in their respective love-plots. We risk repeating these narratives when we assess
+      the degree of such objects’ ‘artificial intelligence’ in accordance with behavioural intel-
+      ligibility, interactable recognizability, or potential for adaptability. As has been the case
+      in relation to the autopoiesis of the mutable category of ‘human’, constructed metrics to
+      evidence liveliness manifest cyclically, like self-fulfilling prophecies. Narrative-
+      encoding is pre-programming.                           
+        I have argued that loveable robots are imagined to be lively on the basis of their
+      loveability, and that conditions determining loveability have been delineated through
+      the political-economic system of Western coloniality. The most dangerous aspect of
+      this phenomenon concerns robots’ positioning in the broader hierarchy of liveliness.
+                                                             
+                                                             
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+       Moran                                         111     
+                                                             
+       Within Western coloniality’s ontological system, hierarchies of liveliness have been
+       understood in terms of the scala naturae, the Great Chain of Being, and the transpo-
+       sition of heaven and earth onto the physical level of reality in supralunar and sublu-
+       nar terms (Wynter, 2003: 274–7; see also Jackson, 2020: 39–40). If humanness and
+       other modes of liveliness are understood to be autopoietic constructs, it becomes
+       possible for a non-living object to overtake living beings in this hierarchy. Hence,
+       while some peoples and non-human animals remain killable, tech ethicists simulta-
+       neously call to protect non-living commodities with something approximating human
+       rights.                                               
+        These calls are relational, recalling the love-plot. David Gunkel differentiates between
+       the question of whether a robot can have rights and whether a robot ought to have rights,
+       arguing in favour of a ‘moral status’ to be conferred ‘according to empirically observa-
+       ble, extrinsic relationships’ (Gunkel, 2018: 10, 165). Similarly, Mark Coeckelbergh pro-
+       poses that a robot’s ‘rights’ should be determined by the ‘virtue’ of its relation to a user
+       (Coeckelbergh, 2021: 32). Darling (2021) suggests we understand robots through the
+       existing relational framework for domesticated pets. Sweeney (2023) argues loss of a
+       user’s beloved robot must be recognized as bereavement, and proposes destruction of
+       such a robot may therefore be criminalized as a hate crime. It would be laughable to sug-
+       gest similarly protecting commodities like food, toys, or smartwatches, but robots are
+       object-commodities treated differently through a relational valuation. The reasoning
+       behind the robots’ proposed protections – value of their extrinsic relationships, virtuous
+       relations, and beloved status – elevate the robots while continuing to centre the user.
+       Love-plots similarly centre Man while relationally attributing value to his love object on
+       the basis of loveability to coloniality. Rather than serving to deny the liveliness of robots
+       by prioritizing Man, these relational framings of robot rights risk repeating established
+       paradigms of the love-plot.                           
+        Relational framings of robot rights should be understood as part of a longer-
+       standing paradigm of valuing Man’s love objects based on their loveability. Affect
+       theorists have identified the role of love in differentiating between who can and
+       cannot inhabit certain communities (Ahmed, 2004: 16, 124; see also Harnett, 2024).
+       I have suggested love acts as a form of poiesis in the narratological autopoiesis of
+       Man, closing the distance between Man and the love object in the symbolic hierar-
+       chy of liveliness. It may do so regardless of whether the love object is living or
+       non-living, because Man’s feeling-for the object becomes the primary metric of
+       worth in an ontological worlding which centres Man. Nonetheless, symbolic prox-
+       imity to Man materially improves status. As Povinelli (2006: 3) has argued, the
+       institutional function of love therefore becomes love’s role in distributing ‘life and
+       death, rights and recognition, goods and resources’. Amidst a transitional moment
+       for ‘AI welfare’ which increasingly treats consciousness of AI as an inevitability
+       (see Long et al., 2024: 3), we must remain critical of the pre-programming narra-
+       tives which prime us to receive these products as loveable; to protect non-living
+       products of the same colonial system which dispossesses many living beings. We
+       must resist any undue will to favour contemporary or future robots over the living
+       humans, non-human animals, and eco-systems entangled in the process of produc-
+       ing these commodities.                                
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+      112                             Theory, Culture & Society 43(1)
+                                                             
+      Funding                                                
+      The author(s) disclosed receipt of the following financial support for the research, authorship, and/
+      or publication of this article: The research conducted for the purpose of this article was funded by
+      the Cambridge University Trust, the Arts and Humanities Research Council, and the Cambridge
+      Mellon Sawyer seminar series “Histories of AI: A Genealogy of Power.”
+      ORCID iD                                               
+      Jenny Carla Moran https://orcid.org/0009-0006-8609-6921
+                                                             
+      Notes                                                  
+      1. The robots in each story have been selected on the basis of being representative of a group of
+        robots narratively-encoded as loveable by similar means. As detailed further in their respec-
+        tive sections, Samantha is representative of the Tropic Gynoid, Kismet is representative of
+        sociable robots, and BINA48 is representative of futurist cyborgian experiments.
+      2. For further works exploring the problem of the human see, for example, Jackson (2020),
+        Moten (2013), Spillers (1987), Warren (2018), and Weheliye (2014).
+      3. Wynter accounts for shifts from theocentric to biocentric ontological systems (Wynter, 2003:
+        316). Biocentric accounts also developed to preserve the health of the white race through
+        governance of white women’s genitalia, reproduction, and health in the context of coloniality
+        (see Schuller, 2018).                                
+      4. See Freud (2015 [1920]: 191) on love as an ego-instinct for self-preservation which produces
+        the ‘libido’ as ‘Eros’, Suttie (1991 [1935]: 6–7) on the infantile will to expand the self in
+        reaching for the mother, Belk (1988: 139) on humans’ ‘exten[sion]’ of the self via ‘posses-
+        sions’, and Aron and Tomlinson (2018: 1) on the ‘self-expansion model of love’.
+      5. Practices of love that oppose colonial violence include radical love (see hooks, 2000), critical
+        decolonial polyamory (see TallBear, 2021), and relationship anarchy (see De la Heras Goméz,
+        2019).                                               
+      6. See also Ayo-Aderele (2017), Frymoregen (2017), and Brooks (2018).
+      7. See also Blaire (2018), Johnston Press Staff (2018), and Narayanan (2019).
+      8. See Phipps (2021) on politically-motivated, differential directions of empathy toward victims
+        of sexual violence.                                  
+      9. There is evidence that further research is being undertaken in RealBotix to produce sophisti-
+        cated robots (see Kleeman, 2020).                    
+      10. See, for example, Cave and Dihal (2021), Devlin (2018), Kleeman (2020), Levy (2007), and
+        Wosk (2015).                                         
+      11. Kismet’s algorithms release outputs performed by the motor system in response to numerical
+        degrees of fulfilment of the object’s ‘drives’, modelled on psychologists Charles S. Carver
+        and Michael Scheier’s work on self-regulation and psychoevolutionist Robert Plutchik’s
+        work on homeostasis (Breazeal, 2004: 44–6, 95–6, 105–110).
+      12. Commentators that have interviewed the robot invite it to sequence words about love (Manuel,
+        2019; Musto, 2018; Pringle, 2017). It was also popularly reported that BINA48 was the first
+        robot to successfully complete a college course on ‘The Philosophy of Love’ (see Johnson
+        Hess, 2017: n.p.).                                   
+      13. Rothblatt and Aspen reference Octavia E. Butler when naming their religion Terasem (see
+        Roy, 2014).                                          
+      14. For example, longtermism in the TESCREAL bundle is concerned with how our actions
+        affect the very long-term future of the universe (see Gebru and Torres, 2024: 7). Longtermists
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+       Moran                                         113     
+                                                             
+         believe that preserving the life of some must take priority over ‘feel-good projects of subop-
+         timal efficacy’, including poverty alleviation (Bostrom, 2012: 19).
+       References                                            
+       Ahmed, Sara (2000) Strange Encounters. London: Routledge.
+       Ahmed, Sara (2004) The Cultural Politics of Emotion. Edinburgh: Edinburgh University Press.
+       Ali, Syed Mustafa (2020) Transhumanism and/as whiteness. In: Hofkirchner, Wolfgang, and
+         Kreowski, Hans-Jörg (eds) Transhumanism. Cham: Springer.
+       Aron, Arthur and Tomlinson, Jennifer (2018) Love as expansion of the self. In: Sternberg,
+         Robert J., and Sternberg, Karin (eds) The New Psychology of Love. Cambridge: Cambridge
+         University Press.                                   
+       Atanasoski, Neda and Vora, Kalindi (2019) Surrogate Humanity. Durham: Duke University Press.
+       Ayo-Aderele, Adesola (2017) N1.6m female robot severely damaged after molestation at electron-
+         ics fair. Punch, 4 October. Available at: https://punchng.com/n1-6m-female-robot-severely-
+         damaged-after-molestation-at-electronics-fair/ (accessed 4 June 2024).
+       Barthes, Roland (2018 [1977]) A Lover’s Discourse, trans. Richard Howard. London: Penguin
+         Vintage Classics.                                   
+       Belk, Russell (1988) Possessions and the extended self. Journal of Consumer Research 15(2):
+         139–168.                                            
+       Bender, Emily, Gebru, Timnit, and McMillan-Major, Angelina, et al. (2021) On the dan-
+         gers of stochastic parrots. In: FAccT 2021, 3–10 March. Available at: https://dl.acm.org/
+         doi/10.1145/3442188.3445922 (accessed 28 July 2025).
+       Berlant, Lauren (2012) Desire/Love. California: Punctum Books.
+       Best, Shivali (2018) Sex robots should have ‘human rights’ to prevent them being sexually abused,
+         expert claims. Mirror, 9 April. Available at: https://www.mirror.co.uk/tech/sex-robots-
+         should-human-rights-12330202 (accessed 20 December2024).
+       Blaire, Anthony (2018) ‘Sex dolls deserve HUMAN RIGHTS’: Expert’s shock claim. Daily Star,
+         7 April. Available at: https://www.dailystar.co.uk/news/weird-news/sex-robot-doll-human-
+         rights-17126815 (accessed 20 December 2024).        
+       Blakely, Rhys (2023) Chatbots may spell future of romance, says Cambridge researcher. The
+         Times, 10 February. Available at: https://www.thetimes.co.uk/article/chatbots-may-spell-
+         future-of-romance-says-cambridge-researcher-5mkzks9qr (accessed 8 April 2023).
+       Bond, John-Michael (2017) Sex robots might be so amazing that we stop having sex with humans.
+         Daily Dot, 8 April. Available at: https://www.dailydot.com/debug/the-problem-with-sex-
+         robots/ (accessed 20 December 2024).                
+       Bostrom, Nick (2012) Existential risk prevention as global priority. Global Policy Volume 4(1):
+         15–31.                                              
+       Bostrom, Nick (2013) Why I want to be a posthuman when I grow up. In: More, Max, and Vita-
+         More, Natasha (eds) The Transhumanist Reader. Sussex: Wiley-Blackwell.
+       Bow, Leslie (2022) Racist Love. Durham, NC: Duke University Press.
+       Breazeal, Cynthia (2004) Designing Sociable Robots. Cambridge, MA: MIT Press.
+       Brooks, Rodney (1990) Elephants don’t play chess. Robotics and Autonomous Systems 6: 3–15.
+       Brooks, Victoria (2018) ‘I’m a sex robot & I deserve rights too’. Sunday Times, 6 April. Available
+         at: https://www.timeslive.co.za/sunday-times/lifestyle/health-and-sex/2018-04-06-im-a-sex-
+         robot–i-deserve-rights-too/ (accessed 20 December 2024).
+       Čapek, Karel (2011 [1920]) R.U.R., trans. Paul Selver and Nigel Playfair. Available at: http://
+         uploads.worldlibrary.net/uploads/pdf/201106180331rur.pdf (accessed 3 June 2024).
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+      114                             Theory, Culture & Society 43(1)
+                                                             
+      Carver, Charles and Scheier, Michael (1998) On the Self-Regulation of Behavior. Cambridge:
+        Cambridge University Press.                          
+      Cave, Steven and Dihal, Kanta (2021) Roxanne, or companion robots and hierarchies of the
+        human. In: Campell, Aifric (ed.) The Love Makers. London: Goldsmiths Press.
+      Cave, Steven, Dihal, Kanta and Dillon, Sarah (2020) AI Narratives. Oxford: Oxford University
+        Press.                                               
+      Coeckelbergh, Mark (2021) How to use virtue ethics for thinking about the moral standing of
+        social robots. International Journal of Social Robotics 13(5): 31–40.
+      Daly, Ciarán (2021) Sex robots of the future will be lesbians, have ‘bionic penises’ and could
+        kill you. Daily Star, 29 December. Available at: https://www.dailystar.co.uk/tech/news/sex-
+        robots-future-lesbians-bionic-25807791 (accessed 20 December 2024).
+      Darling, Kate (2021) The New Breed. New York, NY: Henry Holt and Co.
+      de Beauvoir, Simone (2010 [1949]) The Second Sex, trans. Constance Borde and Sheila Malovany-
+        Chevallier. New York, NY: Random House.              
+      Devlin, Kate (2018) Turned On. London: Bloomsbury.     
+      De la Heras Goméz, Roma (2019) Thinking relationship anarchy from a queer feminist approach.
+        Sociological Research Online 24(4): 644–660.         
+      Dick, Stephanie (2009) Artificial intelligence. Harvard Data Science Review 1(1): n.p.
+      Ellen, Barbara (2017) Female sex robots, feel free to replace us if you want to. The Guardian,
+        3 December. Available at: https://www.theguardian.com/commentisfree/2017/dec/03/sex-
+        robots-technology-women-artificial-intelligence/ (accessed 20 December 2024).
+      Eriksen, Annelin (2021) The human version 2.0. Social Analysis: The International Journal of
+        Anthropology 65(1): 70–88.                           
+      Eze, Emmanuel Chukwudi (2008) On Reason. Durham, NC: Duke University Press.
+      Freud, Sigmund (2015 [1920]) Beyond the pleasure principle. Psychoanalysis and History 17(2):
+        151–204.                                             
+      Frymoregen Tomasz (2017) Sex robot sent for repairs after being molested at tech fair. BBC, 28
+        September. Available at: https://www.bbc.co.uk/bbcthree/article/610ec648-b348-423a-bd3c-
+        04dc701b2985 (accessed 4 June 2024).                 
+      Gebru, Timnit and Torres, Émile (2024) The TESCREAL bundle. First Monday 29(4).
+      Greene, Shelleen (2016) Bina48: Gender, race, and queer artificial life. Ada 9, 16 May. Available
+        at: https://scholarsbank.uoregon.edu/xmlui/handle/1794/26811 (accessed 5 June 2024).
+      Gunkel, David (2018) Robot Rights. Cambridge, MA: MIT Press.
+      Harkins, William Edward (1960) Karel Čapek’s R. U. R. and A. N. Tolstoj’s Revolt of the Machines.
+        The Slavic and East European Journal 4(4): 312–318. doi: 10.2307/304665.
+      Harnett, Liane (2024) How love orders. European Journal of International Relations 30(1):
+        203–226.                                             
+      Harrison, George (2017) In lovemaking memory. The Sun, 14 August. Available at: https://www.
+        thesun.co.uk/living/4230725/sex-robots-dead-wives-customisation/ (accessed 20 December
+        2024).                                               
+      Heidegger, Martin (1977 [1954]) The question concerning technology. In: Farrell Krell, David
+        (ed.) Martin Heidegger: Basic Writings, trans. William Lovitt. New York, NY: Harper &
+        Row.                                                 
+      hooks, bell (2000) All About Love. New York, NY: Harper.
+      Huyssen, Andreas (1982) The vamp and the machine. New German Critique 24/25: 221–237.
+      Jackson, Zakiyyah Iman (2020) Becoming Human. New York, NY: NYU Press.
+      Johnson Hess, Abigail (2017) Meet the robot that passed a college class on philosophy and love.
+        CNBC, 21 December. Available at: https://www.cnbc.com/2017/12/21/meet-the-robot-that-
+        passed-a-college-class-on-philosophy-and-love.html (accessed 5 June 2024).
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+       Moran                                         115     
+                                                             
+       Johnston Press Staff (2018) Why a sex robot should have rights too. The iPaper, 5 April.
+         Available at: https://inews.co.uk/news/technology/sex-robot-rights-abuse-machines-moles-
+         tation-141640#:~:text=It%20is%20Devlin%20who%20has,made%20by%20and%20for%20
+         humans (accessed 20 December 2024).                 
+       Kang, Minsoo (2017) The mechanical daughter of Rene Descartes. Modern Intellectual History
+         14(3): 633–660.                                     
+       Kleeman, Jenny (2020) Sex Robots and Vegan Meat. London: Picador.
+       Kurzweil, Ray (2005) The Singularity is Near. New York, NY: Penguin.
+       Levy, David (2007) Love and Sex with Robots. New York, NY: HarperCollins.
+       LifeNaut (2024) Spacecast. LifeNaut. Available at: https://www.lifenaut.com/spacecast/ (accessed
+         5 June 2024).                                       
+       Long, Robert, Sebo, Jeff and Butlin, Patrick, et al. (2024) Taking AI welfare seriously. arXiv, 4
+         November. Available at: https://arxiv.org/abs/2411.00986 (accessed 8 July 2025).
+       MacKinnon, Catharine (1982) Feminism, Marxism, method, and the state. Signs 7(3): 515–544.
+       Manuel, Emily (2019) We asked a robot to teach us about love. Goalcast, 18 July. Available at:
+         https://www.goalcast.com/bina-48-robot-teaches-us-about-love/ (accessed 5 June 2024).
+       Miller, Lisa (2014) The trans-everything CEO. Lisa Miller, 7 September. Available at: https://
+         lisaxmiller.com/the-trans-everything-ceo/5967 (accessed 22 December 2024).
+       Moran, Jenny Carla (2024) Artificial intelligibility. Journal of Gender Studies 34(2): 300–310.
+       Moten, Fred (2013) Blackness and nothingness (mysticism in the flesh). South Atlantic Quarterly
+         112(4): 737–780.                                    
+       Musto, Pete (2018) Can someone with no heart know love? Voa News, 20 February, p. 18.
+         Available at: https://www.voanews.com/a/robot-classmate-brings-mindfulness-to-whole-
+         new-level/4262984.html?src=voa-editor-picks (accessed 5 June 2024).
+       Narayanan, Nirmal (2019) Pitching for human rights of sex robots? International Business Times,
+         6 December. Available at: https://www.ibtimes.sg/pitching-human-rights-sex-robots-yes-
+         they-deserve-human-rights-says-legal-expert-25824 (accessed 20 December 2024).
+       Newson, John (1979) The growth of shared understanding between infant and caregiver. In:
+         Bullowa, Margaret (ed.) Before Speech. Cambridge: Cambridge University Press.
+       Ovid (2000 [8 AD]) The Metamorphoses, trans. A.S. Kline. Charlottesville, VA: University of
+         Virginia Library. Available at: https://ovid.lib.virginia.edu/trans/Ovhome.htm#askline
+         (accessed 14 April 2023).                           
+       Pettman, Dominic (2006) Love and Other Technologies. New York, NY: Fordham University
+         Press.                                              
+       Pfeifer, Mark and Scheier, Christian (2001) Understanding Intelligence. Cambridge MA: MIT
+         Press.                                              
+       Phipps, Alison (2021) White tears, white rage. European Journal of Cultural Studies 24(1): 81–93.
+       Plato (1999 [c.385–370]) The Symposium, trans. Christopher Gill. London: Penguin.
+       Plutchik, Robert (1958) Section of psychology. Transactions of the New York Academy of Sciences
+         20(5): 394–403.                                     
+       Povinelli, Elizabeth (2006) The Empire of Love. Durham, NC: Duke University Press.
+       Pringle, Ramona (2017) Love, philosophy and processors. Hanson Robotics, 29 June, p. 17.
+         Available at: https://www.hansonrobotics.com/headlines-ieee-love-philosophy-processors/
+         (accessed 5 June 2024).                             
+       Rothblatt, Martine (2003) Biocyberethics: Should we stop a company from unplugging an intel-
+         ligent computer? Kurzweil AI Brain Archive, 28 September. Available at: https://kurzweilai-
+         brain.gothdyke.mom/articles/art0594.html (accessed 22 December 2024).
+       Rothblatt, Martine (2013) Mind is deeper than matter. In: More, Max, and Vita-More, Natasha
+         (eds) The Transhumanist Reader. Sussex: Wiley-Blackwell.
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+      116                             Theory, Culture & Society 43(1)
+                                                             
+      Roy, Jessica (2014) The rapture of the nerds. Time, 17 April. Available at: https://time.com/66536/
+        terasem-trascendence-religion-technology/ (accessed 5 June 2024).
+      Salleh, Ariel (1997) Ecofeminism as Politics. London: Zed Books.
+      Schaffer, Simon (1999) Enlightened automata. In: Clark, William, Golinski, Jan, and Schaffer,
+        Simon (eds) The Sciences in Enlightened Europe. Chicago, IL: University of Chicago Press.
+      Schuller, Kyla (2018) The Biopolitics of Feeling. Durham, NC: Duke University Press.
+      Seaver, Nick (2017) Algorithms as culture. Big Data & Society 4(2): 1–12.
+      Spillers, Hortense (1987) Mama’s baby, papa’s maybe. Diacritics 17(2): 64–81.
+      Suttie, Ian (1991/1935) The Origins of Love and Hate. London: Routledge.
+      Sweeney, Paula (2023) Could the destruction of a beloved robot be considered a hate crime? AI &
+        Society 39: 2735–2741.                               
+      TallBear, Kim (2021) Identity is a poor substitute for relating. In: Hokowhitu, Brendan, Moreton-
+        Robinson, Aileen, and Tuhiwai-Smith, Linda, et al. (eds) Routledge Handbook of Critical
+        Indigenous Studies Handbook. London: Routledge.      
+      Timmins, Beth (2017) New sex robots with ‘frigid’ settings allow men to simulate rape.
+        Independent, 21 July. Available at: https://www.independent.co.uk/life-style/sex-robots-
+        frigid-settings-rape-simulation-men-sexual-assault-a7847296.html/ (accessed 20 December
+        2024).                                               
+      Turing, Alan (1950) Computing machinery and intelligence. Mind: A Quarterly Review LIX(236):
+        433–460.                                             
+      Various (2013) Transhumanist declaration (2012). In: More, Max and Vita-More, Natasha (eds)
+        The Transhumanist Reader. Sussex: Wiley-Blackwell.   
+      VICE Staff (2016) Sex robots may be so good in bed they’ll ruin civilization as we know it. VICE,
+        6 September. Available at: https://www.vice.com/en/article/kwkw3w/sex-robots-might-ruin-
+        everything-guys-vgtrn/ (accessed 20 December 2024).  
+      Vincent, Milly (2019) Swedish feminists demand a ban on sex robots because they are ‘danger-
+        ous’ and dehumanise women just like pornography. Mail Online, 21 February. Available
+        at: https://www.dailymail.co.uk/news/article-6730555/Swedish-feminists-demand-ban-sex-
+        robots-dehumanise-women-just-like-pornography.html (accessed 20 December 2024).
+      Voskuhl, Adelheid (2013) Androids in the Enlightenment. Chicago, IL: Chicago University Press.
+      Warren, Calvin (2018) Ontological Terror. Durham, NC: Duke University Press.
+      Waugh, Rob (2017) Men at tech fair molest £3,000 sex robot so much it’s left broken and ‘heav-
+        ily soiled’. Metro, 27 September, p. 17. Available at: https://metro.co.uk/2017/09/27/men-
+        at-tech-fair-molest-3000-sex-robot-so-much-its-left-broken-and-heavily-soiled-6960778/
+        (accessed 4 June 2024).                              
+      Weheliye, Alexander (2014) Habeas Viscus. Durham, NC: Duke University Press.
+      Wosk, Julie (2015) My Fair Ladies. London: Rutgers University Press.
+      Wynter, Sylvia (2003) Unsettling the coloniality of being/power/truth/freedom. CR: The New
+        Centennial Review 3(3): 257–337.                     
+      Wynter, Sylvia (2015) The ceremony found. In: Ambroise, Jason R., and Broeck, Sabine (eds)
+        Black Knowledges/Black Struggles. Liverpool: Liverpool University Press.
+      Yao, Xine (2021) Disaffected. Durham, NC: Duke University Press.
+      Jenny Carla Moran (she/her/hers) earned her PhD focusing on love, humanness, and human-
+      robot interactions at the University of Cambridge, where she also lectured for two years. She is
+      presently beginning a postdoctoral research fellowship in Trinity College, University of Dublin,
+      during which time she will be dedicated to producing her first book.

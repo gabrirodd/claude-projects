@@ -1,0 +1,941 @@
+[PAGE 1]
+                                                             
+                                                             
+                                                             
+                                                             
+        Special Issue: Energy & Society                      
+                                            Theory,Culture&Society
+                                              2014,Vol.31(5)41–58
+        What   Is Energy   For?                              
+                                              !TheAuthor(s)2014
+                                             Reprintsandpermissions:
+        Social Practice   and                                
+                                        sagepub.co.uk/journalsPermissions.nav
+                                         DOI:10.1177/0263276414536746
+        Energy   Demand                         tcs.sagepub.com
+        Elizabeth Shove and Gordon Walker                    
+        Lancaster University                                 
+        Abstract                                             
+        Energy has an ambivalent status in social theory, variously figuring as a driver or an
+        outcome of social and institutional change, or as something that is woven into the
+        fabric of society itself. In this article the authors consider the underlying models on
+        which different approaches depend. One common strategy is to view energy as a
+        resourcebase,themanagementandorganizationofwhichdependsonvariousinter-
+        secting systems: political, economic and technological. This is not the only route to
+        take.Theauthorsdevelopanalternativeapproach,viewingenergysupplyandenergy
+        demand as part of the ongoing reproduction of bundles and complexes of social
+        practice. In articulating and comparing these two positions they show how social-
+        theoreticalcommitmentsinfluencethewaysinwhichproblemslikethoseofreducing
+        carbon emissions are framed and addressed. Whereas theories of practice highlight
+        basic questions about what energy is for, these issues are routinely and perhaps
+        necessarily obscured by those who see energy as an abstract resource that struc-
+        tures or that is structured by a range of interlocking social systems.
+        Keywords                                             
+        demand, energy, social practice, social theory       
+                                                             
+                                                             
+                                                             
+        Introduction                                         
+        Despite defining energy as the ‘ability to do work’, natural scientists
+        rarely comment on the kind of work that is thereby enabled or on how
+        this changes. In engineering and material science, as in energy policy,
+        there is a tendency to take the societal ‘need’ for energy for granted and
+        to focus on methods of meeting demand more efficiently, or in a manner
+        thatreducesCO emissions(Allwoodetal.,2013).Inthiscontext,andin
+                  2                                          
+        sofarastheyariseatall,questionsaboutthepoliticsofaccess,provision
+                                                             
+        Correspondingauthor:ElizabethShove.Email:e.shove@lancaster.ac.uk
+        Extramaterial:http://theoryculturesociety.org        
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+      42                            Theory, Culture & Society 31(5)
+                                                             
+      and supply, and the details of consumption are delegated to other dis-
+      ciplines, including the social sciences.               
+        This relocates but does not resolve questions about how the need for
+      energy arises, or how such needs evolve. Whilst the relation between
+      energy and society has been a central theme across the social sciences
+      (Moellers and Zachmann, 2012; Nye, 1999; Rosa et al., 1988; Verbong
+      and Loorbach, 2012; White, 1943), there are significant differences of
+      approach. Rather than speaking with a single voice, explanations of
+      energy demand reflect and reproduce contrasting theories of society
+      and of social change.                                  
+        Inreviewing some of this literature, wedistinguish between two broad
+      schools of thought. We start with approaches in which forms of energy
+      productionandusearetakentobeeitherthecauseortheconsequenceof
+      changingpolitical,economicandtechnicalsystems.Wethenconsiderthe
+      placeofenergyintheoreticalaccountsthattakesocialpracticestobethe
+      ‘site’ of the social. The relation between energy and social practice is not
+      one that has been explored and discussed in quite these terms before. In
+      moving into this territory we suggest that energy supply and demand are
+      realizedthroughartefactsandinfrastructuresthatconstituteandthatare
+      in turn woven into bundles and complexes of social practice. From this
+      point of view, the relation between energy and society is not defined by
+      externalfactorsanddrivingforces.Instead,itisbestunderstoodaspartof
+      theongoingreproductionandtransformationofsocietyitself.Ironically,
+      thisbringsusbacktoadefinitionofenergyas‘theabilitytodowork’,but
+      thistimewiththepossibilityofdrawingonanappropriatelysophisticated
+      account of what that ‘work’ entails and how it changes.
+        Deliberate efforts to reduce energy demand necessarily rest on one or
+      another social theoretical account of energy, society and social change.
+      Energy policies consequently foreground and marginalize different lines
+      of enquiry and intervention. In bringing this article to a close we argue
+      that dominant approaches sideline basic questions about what energy is
+      for. We conclude with a discussion of how these questions might be
+      brought back into view and of the policy implications of focusing on
+      the dynamics of social practice and hence on the ‘work’ that energy
+      enables us to do.                                      
+      Energy and Social Systems                              
+      Sociologicalinterestinresourceshasarguablywanedinrecentyears,but
+      there is an established tradition that focuses quite explicitly on energy–
+      society relations. In their excellent review of this field, Rosa et al. (1988:
+      153) explain that early interest in the topic was inspired by thoroughly
+      linear and typically deterministic narratives of societal progress. White’s
+      (1943) influential article on ‘Energy and the Evolution of Culture’ takes
+      just such an approach, attributing ‘vast social changes’ to methods and
+                                                             
+                                                             
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+        Shove and Walker                             43      
+                                                             
+        techniques of energy conversion. White’s discussion is organized around
+        a series of law-like statements including the suggestion that ‘culture
+        develops when the amount of energy harnessed by man per capita per
+        yearisincreased;orastheefficiencyofthetechnologicalmeansofputting
+        this energy to work is increased; or, as both factors are simultaneously
+        increased’(White,1943:338).AsWhiterecognizes,thisequationissome-
+        times complicated by confounding factors. For instance forms of social
+        and cultural organization can, on occasion, block technological innov-
+        ation.InWhite’swords,‘Asocialsystemmayfostertheeffectiveoperation
+        of its underlying technology or it may tend to restrain and thwart it’
+        (White, 1943: 347). Whether this occurs or not, White’s basic position is
+        clear: in his analysis the appropriation and use of energy features as a, if
+        not the, critical factor determining the rate of societal progress.
+         White’swritingnowhasadecidedlydatedfeel,butmorerecentexercises
+        in modelling energy flows and patterns of resource intensity are founded
+        uponstrikinglysimilarinterpretationsofthesocietalsignificanceofenergy
+        and energy-related technologies. For example, concepts of urban metab-
+        olismdependontracingrelationsofenergy-dependencebetweencitiesand
+        their hinterlands, or between one part of the world and another. Sankey
+        diagrams,widelyusedinnaturalscienceandinpolicy,representenergyin
+        much the same way, plotting the relative significance of different sectors
+        (e.g. industry and agriculture), and characterizing losses and
+        in/efficiencies as energy ‘travels’ from primary source to end use
+        (MacKay, 2009). Studies of this kind treat energy as if it were a uniform
+        substance,thefateofwhichcanbedescribedandplottedwiththehelpof
+        standardizedunits,forexample,joules,watts,horsepowerequivalents,etc.
+         Such techniques underpin other more historical work including that
+        which shows how sources and forms of energy have changed over time.
+        FouquetandPearson’s(1998)reviewofathousandyearsofenergyinthe
+        UK is organized along these lines, as is Sørensen’s still more ambitious
+        100,000-year input–output based survey of northern Europe, from
+        Neanderthal society onwards (Sørensen, 2012). Reconstructing the bal-
+        ance-sheets of energy supply and demand historically, or as a means of
+        showing how energy flows between one place and another, gives a sense
+        of the types of fuels and resources involved, and of the efficiency, or
+        otherwise, of their conversion. In the mainstream energy–society litera-
+        ture, calculations like these raise further questions about how the
+        resource bases of societies change and what implications these changes
+        have for social order and upheaval.                  
+        The Drivers of Change                                
+        In White’s (1943) view, processes of organizing and converting energy
+        primarily depend on technological innovation, this being something that
+        appears to have a trajectory and a momentum of its own. Subsequent
+                                                             
+                                                             
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+      44                            Theory, Culture & Society 31(5)
+                                                             
+      discussions of energy-related technology take issue with this representa-
+      tion of progress. For example, Nye’s book Consuming Power (1999) is
+      explicitly positioned as an antidote to analyses like White’s in which
+      methods of energy use and conversion figure as independent forces of
+      social and cultural development. Instead, Nye contends that techniques
+      of provision and supply are shaped by social conditions and choices and
+      that,whileinfluencedbyformsoftechnologicalmomentum,energysystems
+      are socially constructed: they could be otherwise and their development is
+      not inevitable. In keeping with this approach, Nye describes some of the
+      interactions involved in bringing new systems into being and reviews the
+      social, geographical and organizational implications of transitions from
+      muscle to water, steam and electrical power. For Nye, as for Verbong
+      and Geels (2010) and Elzen et al. (2004), understanding energy-related
+      innovationdependsonunderstandingmultiple,intersectingsocial,political
+      and organizational systems (Geels, 2002). As these examples indicate, dif-
+      ferentauthorshaveverydifferentideasaboutwhatinnovationentails,but
+      the central problem for Nye, and for White, is essentially one of under-
+      standinghowtechnologiesofenergyprovisionandsupplyevolve.
+        Other commentators place much greater weight on economic systems,
+      arguing that these have a major influence on the directions in which
+      energysystemsdevelop.Forexample,FouquetandPearson(1998)conclude
+      that the processes involved in allocating and converting energy are bound
+      both‘byachanginggrowthrateandstructureofeconomicactivity’andby
+      theconstraintsofthe‘energeticresources’themselves(FouquetandPearson,
+      1998:2).Againtherearetwosidestothecoin:whilsttheusesofenergyare
+      heretakentobeoutcomesofeconomicactivity,changesineconomicactivity
+      are sometimes explained by changes in the ‘fuel mix’ of society. Bartoletto
+      andDelMarRubioVaras(2008)makethispointwithreferencetoadetailed
+      analysisofenergytransitionsinSpainandItalyoverthelast150years.They
+      describe transformations in the fuel mix (especially the decreasing signifi-
+      cance of wood fuel) and in total energy demand, arguing that: ‘The use of
+      newenergysourcesstimulatedand,atthesametime,cameaboutasaresult
+      of,theemployingofnewtechnologies,whichintheirturnhadanimpacton
+      productivity,thepricesofcommodities,andtheirconsumption’(Bartoletto
+      and del Mar Rubio Varas, 2008: 62). Whether it is the economy that is
+      thought to drive the energy system or the energy system that is thought to
+      drive the economy, the common contention is that societies are in part
+      definedbythewaysinwhichresourcesareorganizedandmanaged.
+        This leads some to conclude that interaction between energy and eco-
+      nomicsystemsisatheartamatterofpolitics.Thisisevidentlysoforthose
+      who focus on the distribution of resources (oil, gas, etc.) and the vested
+      interests which surround them. Such issues are also important in Harvey
+      and McMeekin’s (2010) discussion of the potential for switching from
+      highertolowercarbonformsofenergysupply.Intheirview,fuelswitch-
+      ing offers capitalist political economies a possible route to sustainable
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+        Shove and Walker                             45      
+                                                             
+        economic growth. However, they suggest that such developments are
+        unlikely without ‘scientifically informed, politically-led and long term
+        strategic innovation’, regulation and a strong dose of political will
+        (Harvey and McMeekin, 2010: 11).                     
+         Whilst the weight given to technological innovation or to political–
+        economic processes varies, the literature referred to thus far has the
+        common aim of isolating critical factors and systems that determine, or
+        that are determined by, forms and patterns of energyuse. From a social-
+        theoretical point of view, such explanatory schemes suppose that social
+        arrangements (and hence forms of energy/use) are best understood as
+        outcomes of the sorts of forces and interactions described above. This
+        commitment remains important, even for those whose project is to dem-
+        onstratetheinterweavingof‘social’and‘technical’considerationsandto
+        document the ‘social’ organization of technological innovation.
+         This is not a comprehensive review of all that has been written about
+        energy–societyrelations,butitisenoughtorevealdisciplinarydifferences
+        inhowenergyandsocialsystemsarethoughttointeractwithtrajectories
+        of sociotechnical innovation, patterns of urbanization, divisions of
+        labour, the changing significance of industrial and other sectors, and
+        related forms of state and corporate power. It is also enough to demon-
+        strate the societal importance accorded to energy and resource
+        management.                                          
+        The Implications of Change                           
+        Insofar as societies depend on energy and its management, radical
+        changes in energy-related technologies or in fuel mix are likely to result
+        in correspondingly massive forms of social upheaval. As one might
+        expect, there are numerous, typically apocalyptic, claims about the
+        risks and dangers that lie ahead as resources run out, as populations
+        growandasexpectationsescalate(Urry,2013).Someofthesepredictions
+        may well come true. Whether they do so or not, the tendency to suppose
+        thatfuture societies will besubject todramatic swings, innovativebreak-
+        throughs and sweeping transformation is, in a sense, part and parcel of
+        the tendency to conceptualize energy as a generic resource, the need for
+        which is as self-evident as it is taken for granted. On this point it is
+        intriguing to compare Urry’s view of the impending crises of energy
+        andclimatechangewithWhite’scommentsonthescaleofsocietaltrans-
+        formation following the industrial revolution. Urry (2010: 208) contends
+        thatenergyisattheheartof oneofthemostfundamentalcontradictions
+        of 20th-century capitalism. In his words, 20th-century capitalism’s
+         pervasive, mobile and promiscuous commodification involved
+         utterlyunprecedentedlevelsofenergyproductionandconsumption,
+         a high carbon society whose dark legacy we are beginning to reap.
+                                                             
+                                                             
+                                                             
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+      46                            Theory, Culture & Society 31(5)
+                                                             
+        This contradiction could result in a widespread reversal of many of
+        the systems that constitute capitalism as it turns into its own
+        gravedigger.                                         
+                                                             
+      White, who was writing nearly 70 years before, does not engage with the
+      contradictions of capitalism, or with issues of climate change, but his
+      remarks are alike in underlining the centrality of ‘the energy situation’
+      for social order:                                      
+        TheIndustrialRevolutionhasrunitscourse,andwearenowenter-
+        ing upon the second stage, one of profound institutional change, of
+        social revolution. Barring collapse and chaos, which is of course
+        possible, a new social order will emerge... The key to the future,
+        in any event, lies in the energy situation. (White, 1943: 350)
+                                                             
+      Both assessments are of their time but, as these extracts indicate and as
+      the discussion above suggests, the proposition that social systems shape
+      andareshapedbyenergysystemspervadesavastbodyofsocial,political
+      and economic analysis.                                 
+        In all of this, that nigglingly obvious, but also annoyingly impossible
+      question ‘what is energy for?’ slips out of sight. It does so because that
+      question is effectively excluded by a mode of analysis in which social
+      arrangements are taken to be outcomes of various systems of provision,
+      politicaleconomy,resourcemanagementandtechnology.Topersistently
+      ask‘butwhatisenergyfor?’,andtotakethatasthecentralquestion,isto
+      takeadifferentviewofthesocial.Itistoseesocietynotasanoutcomeof
+      intersectingsystems,likegeologicalforcespressingthiswayandthat,but
+      as emergent from, and defined by, social practice.     
+                                                             
+      Energy and Social Practices                            
+      We now take what is best described as a practice turn (Schatzki et al.,
+      2001). Theories of practice have a long and varied history in the social
+      sciences, but until very recently there has been little or no attempt to
+      bring this way of thinking about social life and social change to bear on
+      matters of energy. In this section we introduce and explore the relevance
+      and the potential of conceptualizing energy not as a cause or a conse-
+      quence of social systems but as an ingredient of the social practices and
+      complexes of practice of which societies are composed. As we go on to
+      show, this simple but fundamental change of orientation has significant
+      consequences for those interested in understanding, analysing and influ-
+      encing energy demand.                                  
+        Before going further it is important to set out what we take to be
+      useful and relevant features of practice theory. For us, the starting
+      point is the proposition that ‘social practices ordered across space and
+                                                             
+                                                             
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+        Shove and Walker                             47      
+                                                             
+        time’ should feature as ‘the basic unit of social enquiry’ (Giddens, 1984).
+        In taking this approach to heart, we differ from those who mobilize
+        practice-based terminology in the energy field, but who do so as a
+        means of revealing differences in people’s use of energy, whether at
+        home or at work (Gram-Hanssen, 2010, 2011; Hargreaves, 2011). In
+        many such cases, references to practice theory are layered on top of
+        projects and studies that are, in essence, designed to explain patterns of
+        individual or group behaviour. In this context, to talk of practice is to
+        stressthefactthatsocialmeaningsandnormsareshared,ortounderline
+        the point that technologies matter and that actions are materially
+        scripted. Despite claiming to adopt a practice perspective, this swathe
+        of energy research does not, in fact, exemplify or depend on a theory of
+        practice – at least not as defined by Giddens (1984) or as subsequently
+        developedbySchatzki(2002),orbyShoveetal.(2012).Inotherwords,it
+        does not take social practice as the central topic of enquiry.
+         If we are to get to grips with the significance of thinking about energy
+        and social practice, we need to start from scratch, and we need to do so
+        by working through the energy-related implications of a handful of key
+        ideas that set the practice theories in which we are interested apart from
+        other forms of social theorizing.                    
+        Energy as an Ingredient of Social Practice           
+        Theodore Schatzki is one of the key proponents of practice theory (see,
+        forexample,Schatzki,1996,2002,2006,2009,2010;Schatzkietal.,2001)
+        and in what follows we make use of his work, focusing first on the con-
+        tention that practices constitute what he calls the ‘site’ of the social, and
+        then on his closely related analysis of materiality, material arrangements
+        and social life.                                     
+         Before going into detail, we begin by recognizing that energy is used
+        not for its own sake but as part of, and in the course of, accomplishing
+        socialpractices,examplesofwhichmightincludecooking,commutingto
+        work,watchingTVorconductingmeetings(Warde,2005).Havingmade
+        this link between energy and practice, we suggest that understanding
+        trends and patterns in energy demand (and in provision and supply as
+        well)isinessenceamatterofunderstandinghowsocialpracticesdevelop,
+        change and intersect.                                
+         On this point, Schatzki develops a coherent and distinctive explan-
+        ation of change and order that is rooted in an analysis of practice. In
+        brief, he suggests that accounting for change is not a matter of abstract-
+        ing sets of forces orsystems (e.g. of technology, economics, politics, etc.)
+        but of detailing precisely how social practices, and bundles and constel-
+        lations of practice, hang together, and of identifying the material and
+        other arrangements amidst which they ‘transpire’, and which they also
+        sustain and reproduce.                               
+                                                             
+                                                             
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+      48                            Theory, Culture & Society 31(5)
+                                                             
+        Thisisconsistentwithhisrepresentationofpracticesasthe‘site’ofthe
+      social. To explain, Schatzki takes social practices to be nexuses of saying
+      and doing. He writes about social practices as recognizable blocks or
+      patterns of activity that are filled out and enacted by practitioners, that
+      is,bythosewhodo,andwho,intheenactmentandperformanceofthese
+      doings reproduce, transform and perpetuate the practices they carry (see
+      also Shove et al., 2012). In his words:                
+        Human coexistence is inherently tied, not just to practices but also
+        to material arrangements. Indeed, social life, as indicated, always
+        transpiresaspartofameshofpracticesandarrangements:practices
+        are carried on amid and determinative of, while also dependent on
+        and altered by, material arrangements. I call the practice-
+        arrangement nexuses, as inherently part of which human existence
+        transpires, sites of the social. (Schatzki, 2010: 130, emphasis in
+                                                             
+        original)                                            
+      Given that societies are defined by this hanging-together of practice-
+      arrangement bundles, it is appropriate to conclude that social order
+      and change are largely ‘established in practices’ (Schatzki, 2002: 110).
+      As indicated above, this argues for explanations of social phenomena
+      that are grounded in the ‘specifics of pertinent practice-arrangement
+      nexuses and the events that happen to them’ (Schatzki, 2010: 146),
+      rather than in generalized claims regarding the impact and influence of
+      abstract systems, be they technological, economic or political.
+        Put simply, Schatzki’s account of social practice provides us with a
+      way of conceptualizing the ‘work’ (broadly defined to include bundles
+      andconstellationsofsayingsanddoings)thatgoesonwithinsociety,and
+      hence of conceptualizing and addressing basic questions about what
+      energy is for. More than that, such an account argues for an analysis
+      of energy that starts with and that is inseparable from an analysis of the
+      dynamics of social practice (Shove et al., 2012). From this point of view,
+      understanding energyis first and foremost a matterof understanding the
+      sets of practice that are enacted, reproduced and transformed in any one
+      society, and of understanding how material arrangements, including
+      forms of energy, constitute dimensions of practice.    
+      Material Arrangements, Energy and Social Practice      
+      Practices are not purely social phenomena in that much of social life is
+      intertwined with what Latour refers to as the ‘masses’, here meaning the
+      huge range of material infrastructures, devices and artefacts that
+      co-constitute and configure so much of what we do (Latour, 1992).
+      Schatzki (2002: 23) makes a very similar point, arguing that:
+      ‘The arrangements amidst which practices are enacted are not only
+                                                             
+                                                             
+                                                             
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+        Shove and Walker                             49      
+                                                             
+        social: arrangements include substances of all kinds, including natural
+        phenomena along with man-made fabrications.’         
+         Since ‘material arrangements are in some sense crystallisations of
+        matter-energy flows’ (Schatzki, 2010: 137), sources of energy – wood,
+        coal, oil, etc. – along with technologies of conversion and use (stoves,
+        boilers, cars, etc.) qualify as part of such arrangements, but they do so
+        only in relation to specific practices. This is an important observation.
+        Conceptualizing energy as and as part of the material arrangements
+        within which certain practices go on undermines the value and relevance
+        of trying to analyse or characterize energy systems in general. This is
+        because material arrangements including fuels and configurations of
+        matter and energy only have meaning within, and in relation to, the
+        practices in which they are enfolded and through which they are
+        reproduced.                                          
+         Though not inspired by theories of practice as such, Hughes’ (1983)
+        classic discussion of emerging networks of power depends on a strikingly
+        similar analysis of the close coupling not only of supply and demand but
+        of infrastructures and practices. Hughes writes about how electricity sys-
+        tems were built and about how this depended on deliberate and quite
+        successful attempts to redefine a range of everyday practices such that
+        electricity became a normal and necessary part of doing things like light-
+        ing,cookingandheating.Itisplainlyobviousthatwithoutmovesofthis
+        kind there would be no ‘need’ for electricity at all. It is also obvious that
+        people do not consume energy as such: rather, patterns of energy con-
+        sumption depend on a series of historically specific conjunctions of tech-
+        nologies (wiring, light bulbs, etc.) and practices (illuminating rooms,
+        reading at night) and constellations of practice, many of which are
+        now disconnected from seasonal variations in daylight.
+         Turning to another sector, petrol-based systems of automobility
+        require the continual, relatively faithful reproduction of an entire com-
+        plex of variously interdependent practices, ranging from oil exploration
+        through to garage forecourt operation, traffic management and driving
+        itself. If these practices did not ‘hang together’ in the way they do today,
+        the oil system that is thereby constituted and sustained would, of neces-
+        sity, take some other form.                          
+         Giventhatthesalienceorotherwiseofoil,steamorelectricpowerisso
+        thoroughly inseparable from specific bundles and complexes of social
+        practices, there is no reason to suppose that energy has any special
+        status as the driver of practice. Likewise, it makes no sense to treat
+        energy and energy-related technologies as the defining features of a
+        series of epoch-making transformations, as was the case in White’s
+        (1943) discussion of energy and the evolution of culture. From this
+        point of view, methods of studying energy in the abstract, for example,
+        by quantifying energy flows in joules or units of horsepower, are just as
+                                                             
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+      50                            Theory, Culture & Society 31(5)
+                                                             
+      problematic in that they depend on splitting ‘energy’ out of the practices
+      in and of which it is a part.                          
+        That said, there is some value in making an analytic distinction
+      between material arrangements on the one hand and social practices
+      on the other (Schatzki, 2010). For one thing, this distinction allows us
+      torecognizeandconsiderthedifferenttemporalitiesatstake.Ineveryday
+      life, the enactment of any one practice (for example, cooking a meal or
+      travellingtowork)typicallydependsonthepriorexistenceandavailabil-
+      ity of a range of energy sources (gas, electricity, oil), infrastructures
+      (grids, pipes, roads) and devices (cookers, cars, bicycles). Schatzki
+      (2006) consequently suggests that whereas practices ‘happen’ (in the pre-
+      sent), material arrangements and infrastructures ‘exist’, meaning that
+      they endure and persist for longer than any one instance of performance
+      or moment of enactment. Second, distinguishing between material
+      arrangements and practices allows us to acknowledge that past and pre-
+      sent infrastructures are frequently implicated in the enactment of several
+      practices at once: for example, roads feature as material arrangements
+      amidst which the diverse practices of walking, cycling, driving and horse
+      riding all go on. Third, material arrangements have a forward-looking
+      aspect, simultaneously shaping the happening of present practices and
+      hence the configuration both of material arrangements and of practices
+      that do not yet exist but that might do so in the future.
+        As Schatzki (2011: 10) explains:                     
+        Materialarrangementsubiquitouslyprefigurepractices–thatis,the
+        continued happening of the doings and sayings that compose spe-
+        cificpractice–bymakingsomeactions,interalia,easierandharder
+        or more direct or circuitous than others. Arrangements also prefig-
+        ure changes in practices and arrangements. For example, existing
+        coal company arrangements prefigure changes in company oper-
+        ations, making possible changes easier or harder, more or less
+        expensive, more or less time consuming, and so on. Existing mater-
+        ial infrastructures in the coal electricity regime also prefigure
+        changes in these infrastructures or in the introduction of new ones
+        (tied to alternative practice-arrangement bundles).  
+      This is not simply a matter of recognizing what Nye and Hughes refer to
+      as ‘technological momentum’, nor isit onlya question of acknowledging
+      the path dependence of complex and distributed infrastructures at the
+      level of power supply, engineering and design. The additional step is to
+      explain that processes of prefiguring only occur and only have effect in
+      and through the trajectories or ‘lives’ of specific social practices. Inother
+      words, whilst there is value in discussing ‘material arrangements’ aside
+      from practice, it is wrong to treat these arrangements as externalized
+                                                             
+                                                             
+                                                             
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+        Shove and Walker                             51      
+                                                             
+        contextual factors that have some sort of independent power of their
+        own. There is, then, a very real sense in which what counts as context
+        itselfdependsonthespecificpracticesandbundles/constellationsofprac-
+        tice that are contextualized, hence Schatzki’s conclusion that ‘a context
+        has composition, the precise character of which varies with the entities
+        andphenomenathatexistincontext’(Schatzki,2002:63).Morestraight-
+        forwardly, it is vital to remember that material arrangements are them-
+        selves made, reproduced and transformed through and as part of
+        happening practices.                                 
+         Drawing these threads together, understanding energy–society rela-
+        tions depends on understanding the range of practices, material arrange-
+        ments and social orders in which energy is immersed, and on showing
+        how material arrangements and energy flows are implicated in the con-
+        stitution and prefiguring of practices and hence of social order/society.
+        From this point of view, an account of energy–society relations is, in
+        effect,anaccountofhow‘humantransformationsofnature,responsesto
+        nature and artefact maintenance all transpire as moments of industrial,
+        housing, scientific, informational, medical, and hobby (etc) practices’
+        (Schatzki, 2002: 262).                               
+         Incontrast to styles of analysis which attribute change to one ormore
+        driving forces, or which consider the production and consumption of
+        energy as a generic resource, conceptualizing energy as an ingredient of
+        specific social practices provides a means of radically reframing contem-
+        porary approaches to energy policy and sustainability. It does so in that
+        it situates energy demandas part of,and as in noway separatefrom, the
+        dynamics of social practice. In this, it provides a means of reinstating
+        fundamental questions about what energy is for. In the same move,
+        redefining the energy–society agenda in these terms makes it possible –
+        indeed necessary – to mobilize a much wider range of social theoretical
+        resources than is usually the case.                  
+        Social Theory and Energy Policy                      
+                                                             
+        Dominant approaches in energy research and policy reproduce resource-
+        based,systemsstylethinking,emphasizingquestionsthathavetodowith
+        efficiency of conversion and supply, with the price of fuel or with con-
+        sumers’viewsaboutenergyandtheirattitudestowardsconsumptionand
+        conservation(Parkhilletal.,2013).Thesestrategiesofanalysisandinter-
+        vention depend on forcibly disconnecting a discussion of ‘energy’ from a
+        discussion of social practice: a necessary step if ‘energy’ is to be consti-
+        tuted as a topic in its own right. The problem is that this same move
+        ensures that debates about energy futures routinely proceed without ref-
+        erence toprimary questions aboutwhatenergyisfororaboutthesetsof
+        social practices on which energy demand depends.     
+                                                             
+                                                             
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+      52                            Theory, Culture & Society 31(5)
+                                                             
+      Overlooking the Dynamics of Demand                     
+                                                             
+      One ironic consequence is that whilst government documents like
+      Pathways to 2050, produced by the UK’s Department of Energy and
+      ClimateChange(2010),claimtoexplorefutureenergyneedsandidentify
+      ways in which these might be met in a suitably low-carbon manner, they
+      failtoengageinanymeaningfulwaywiththebasicdynamicsofdemand.
+      Instead, the strategy is to take present practices entirely for granted,
+      treating the perpetuation of current ‘standards’ as an unquestioned,
+      non-negotiable part of the equation and focusing exclusively on the effi-
+      ciency (or otherwise) with which these might be met. In effect, the path-
+      ways and scenarios that follow address issues of supply and consider
+      systems of provision, but fail to acknowledge or engage with potentially
+      importantchangesinthe‘work’thatisdoneinsociety,orinthecomplex
+      ofsocialpracticesthatconstitutedailylife.Twosmallexamplesfromthis
+      report give a sense of how future needs are conceptualized.
+        The Pathways to 2050 report is organized around a series of scenarios
+      whichexploretheenergyandcarbonimplicationsofinnovationandchange
+      acrossdifferentsectors.Asisusual,thediscussionrevolvesaroundtechnol-
+      ogies and resources. For instance, the report sets out a range of possible
+      futuresinwhichtheestimatedneedforhotwatervariesfroma50percent
+      increasethroughtoa50percentdecrease,comparedwith2007figures.The
+      basicunderstandingisthathot-waterusageisessentiallyamatterofafford-
+      ability,takenforgrantedneedandtechnicalefficiency/avoidanceofwaste.
+      Thereportconsequentlysupposesthateconomicgrowthwouldresultinan
+      ‘increaseduseofhotwater,andagreaternumberofhotwaterusingappli-
+      ances’(DepartmentofEnergyandClimateChange,2010:99),butmakesno
+      referencetowhattheseappliancesmightbefor,ortothesocialpracticesof
+      which they might be a part. Meanwhile, assessments of the potential for
+      reducing hot-water consumption refer to the scope for eliminating waste
+      and promoting efficiency, but not to changes in bathing, laundering or
+      washing, on which hot-water demand actually depends. A 50 per cent
+      decrease in hot-water consumption is therefore ‘thought to be the limit
+      that could be achieved with greater consumer awareness of hot water effi-
+      ciency, and more water efficient fittings’ (Department of Energy and
+      ClimateChange,2010:102).Thisreductionisthoughttobefeasiblebecause
+      itdoesnotsupposeanymodificationin hot-waterusingpracticesorinthe
+      demandassociatedwiththem.                              
+        A second example, this time to do with consumer electronics, demon-
+      strates a similar reluctance to confront the dynamics of demand. Leisure
+      andhomeentertainmentareareasinwhichpracticesareco-evolvingfast,
+      generating new ways of using electricity and of spending time. Although
+      there has been a sixfold increase in consumer electronics since the 1970s
+      (Department of Energy and Climate Change, 2010: 49), the Pathways to
+      2050 report makes no attempt to consider or evaluate potential trends in
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+        Shove and Walker                             53      
+                                                             
+        the sector as a whole. Instead, the scenarios focus, exclusively, on
+        whether consumers will or will not purchase the most efficient electronic
+        devices on the market. The low demand scenario consequently supposes
+        that when ‘replacing our consumer electronics and home computing
+        products, we could adopt only the best practice products until 2050’
+        (Department of Energy and Climate Change, 2010: 55). 
+         It is difficult, and perhaps impossible, to predict how practices might
+        change.Bysettingthisissueasideandbytakingpresentpracticeasabench-
+        mark, the report’s authors are, in theory, able to estimate the impact of
+        technological innovation and of improvements in efficiency. Although this
+        makesitpossibletoproduceandcomparescenarios,thereisnogettingaway
+        from the fact that the necessary assumption of stability – at the level of
+        practice–isfundamentallyflawed.Thisisnottheonlyroutetotake.Since
+        thePathwaysto2050reportisorganizedaroundaseriesofscenarios,thereis
+        scope to consider and compare future trajectories in terms of practice. For
+        example,ascenariomethodcould be used to imaginesome ofthedifferent
+        waysinwhichconsumer-electronic-dependentpracticesmightdevelop.
+         We have not singled out the Pathways to 2050 report because it is in
+        any way unusual in failing to engage with the underlying dynamics of
+        demand. Many other policy documents, including the International
+        Energy Agency’s Saving Electricity in a Hurry (Meier, 2005), updated
+        in 2011 (Pasquier, 2011), proceed on exactly the same basis, comparing
+        and evaluating methods of delivering the same services with fewer
+        resources, and doing so without questioning the characteristics of the
+        practices on which energy use depends.               
+         Although energy is never used outside some specific context or practice,
+        thediscursivestrategyoftreatingitasifitwereameaningfultopicinitsown
+        rightunderpinsaraftofresearchandanalysis.Acrosstheboard,theproject
+        ofpersuadingindividualstomeetcurrentneedswithfewerresourcesconsti-
+        tuteswhatseemstobeaself-evidentlysensiblegoalthatcanbesafelypursued
+        withoutfearofstirringupahornets’nestofuncomfortablequestionsabout
+        thesustainabilityorotherwiseofpresentconstellationsofpractice.
+         On the other hand, it is important to recognize that policies that are
+        designed to deliver similar services but with less energy are anything but
+        ‘neutral’. Like it or not, they play an important part in reproducing the
+        status quo and in sustaining and legitimizing contemporary material
+        arrangements and practices. For those interested in long-term sustain-
+        ability, this is a major drawback.                   
+         Whilst there is some scope for technological innovation and increased
+        efficiency, it is clear that if climate change policy is to make a difference
+        on the scale and at the rate required, it will have to engage more overtly,
+        and more explicitly, with the bundles and constellations of practice on
+        which energy demand depends. By implication, any policy analysis that
+        looks decades ahead needs to consider the dynamics of social practice
+        andanticipatechangesinwhatpeopledoandhenceinwhatenergyisfor.
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+      54                            Theory, Culture & Society 31(5)
+                                                             
+      More than that, such analyses need to recognize that some such changes
+      are already set in train and that future possibilities are to some extent
+      prefigured by past and present policy and by the material arrangements
+      andinfrastructuresassociatedwiththem.Asmentionedabove,designing
+      policies and strategies around the status quo is itself an important inter-
+      vention in the future dynamics of demand.              
+                                                             
+      Reinstating the Dynamics of Demand                     
+      Nye’s (2010) book on blackouts provides a compelling picture of the
+      extent and rate at which energy has become embedded in (and has trans-
+      formed) whatpeople do.Asheexplains, inthe 1950s,apowercut would
+      have an impact on office work by affecting lighting and ventilation sys-
+      tems. People might have to go home at dusk but typing and filing would
+      continue as normal. Today a power cut would bring much of what con-
+      stitutes office activity to a sudden halt. This is just one example and Nye
+      is of the view that large parts of the USA would quickly become unin-
+      habitable if power supplies should fail for any length of time.
+        The point is not just that societies are increasingly dependent on reli-
+      able supplies of electricity and oil in particular. For those interested in
+      developing practice-oriented policy (see Shove, 2012), there are two key
+      questions arising from this example: first, how is it that such intercon-
+      nected bundles and constellations of practices and material arrange-
+      ments, including technologies of energy provision, distribution and
+      consumption, have taken hold and, second, how might they change?
+      The way to address these questions is not by focusing on how resources
+      are managed and distributed or by discussing the politics and technolo-
+      giesoffuelandpowerintheabstract.Asarguedhere,thesepatternsand
+      arrangements are outcomes of what energy is for.       
+        It therefore makes sense to start from this point, from the site of the
+      social, and work back to discover the material arrangements amidst
+      which contemporary practices occur, and which are partly constituted
+      in and through these same practices. This is, in essence, a matter of
+      positioning the practices on which energy demand depends as central
+      topics of policy intervention and of analysis and debate. Whether they
+      areawareofitornot,policymakersofallsorts–notonlythosewhodeal
+      with energy – have a hand in prefiguring and sometimes modifying the
+      range of practices that are reproduced in any one society, and the energy
+      demands that follow. Jasanoff and Kim (2013: 189) underline the polit-
+      ical implications of this conclusion, contending that: 
+        Newenergyfutureswillneedtoreconfigurethephysical deepstruc-
+        tures of civilization – grids and pipelines, seashores and pastoral
+        landscapes, and suburbs and cities – that were shaped by the
+        energy choices of the past. Equally, we argue here, radical changes
+                                                             
+                                                             
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+        Shove and Walker                             55      
+                                                             
+         in the fuel supply are likely to transform social infrastructures,
+         changing established patterns of life and work and allocating bene-
+         fits and burdens differently from before. Accordingly analysts
+         should pay greater attention to the social dimensions of energy
+         transitions, complementing more conventional analyses of eco-
+         nomic and engineering issues.                       
+                                                             
+        Tothisweaddtheveryimportantpointthat‘socialdimensionsofenergy
+        transitions’onlyexist,andonlyhavemeaningthroughandaspartofthe
+        reproductionofspecificsocialpractices,henceourpersistentemphasison
+        the need to consider the changing forms of ‘work’ that material arrange-
+        ments, including flows of matter and energy, enable us to do.
+         In combination, these observations point to a distinctive agenda for
+        future research, some of which will be undertaken by DEMAND, a new
+        RCUK-funded centre focusing on the dynamics of energy, mobility and
+        demand.1 The centre’s research programme revolves around three key
+        propositions.First,thatenergyisusednotforitsownsakebutaspartof
+        accomplishing social practices. Energy demand is consequently dynamic,
+        social, cultural, political and historical: it is bound up with the temporal
+        rhythm of society and with what people do. Second, energy demand is
+        profoundly shaped by material arrangements. In a very literal sense,
+        demand and the means to consume constitute each other. These means
+        encompass grids, power stations, road and rail networks through to the
+        multitude of devices with which end-users engage (computers, heating
+        systems, cars, etc.). Third, these are all implicated in the ongoing repro-
+        duction of practice, and of bundles and constellations of practice that
+        define what energy is for. From this it follows that insofar as policy has
+        an impact on energy use, it does so in, through, and by means of mod-
+        ifying or transforming material arrangements, practices and social
+        orders.                                              
+         Theselinesofenquiryarerootedinatheoreticalapproachwhichtakes
+        social practices,including extensive complexes of socialpractice, ordered
+        across space and time, to be the central unit of analysis. As described
+        above, much existing research, including other articles in this special
+        issue, and many policy studies are grounded in different genres of
+        social theory. In many cases, energy supply and demand are conceptua-
+        lized as outcomes of what are taken to be somewhat independent social,
+        technical, political or economic systems.            
+         As one might expect, different paradigms matter for the way in which
+        questions are framed, and for how energy demand is understood. They
+        also matter for the types of policy intervention proposed in response to
+        majorchallenges,includingthoseofradicallyreducingCO emissions.In
+                                             2               
+        thisarticle wehavesuggested thatintreating energyas atopicin its own
+        right, and in disregarding the extent to which energy demand is
+        embedded in social practice, conventional approaches have the
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+      56                            Theory, Culture & Society 31(5)
+                                                             
+      unintendedconsequenceofreproducingcontemporaryformsof‘normal’
+      practice.Assuch,theyareincapableofengagingwith,letalonedebating
+      and promoting, change on the scale required. Likewise, in losing sight of
+      basic questions about what energy is for, many social and political the-
+      ories take the significance of resource management for granted. As a
+      result, the politics and economics of supply are discussed aside from an
+      understanding of the underlying dynamics of demand. In conclusion, we
+      argue for reinstating fundamental questions about what energy is for in
+      researchandinpolicy;wesuggestthatsuchamovedependsonrecogniz-
+      ing energy as an ingredient of practice, and we contend that reframing
+      the energy ‘problem’ in these terms is as important for social theory as it
+      is for climate change and sustainability.              
+      Acknowledgement                                        
+      This work was supported by the Engineering and Physical Sciences Research Council
+      (grantnumberEP/K011723/1)aspartoftheRCUKEnergyProgrammeandbyEDFas
+      part ofthe R&D ECLEER Programme.                       
+                                                             
+      Note                                                   
+      1. DEMAND Centre Award No: EP/K011723/1. For more details, see
+        www.demand.ac.uk                                     
+                                                             
+      References                                             
+                                                             
+      AllwoodJetal.(2013)Materialefficiency: Providingmaterial serviceswithless
+        material production. Philosophical Transactions of the Royal Society A 371
+        (DOI: 10.1098/rsta.2012.0496).                       
+      Bartoletto S and Del Mar Rubio Varas M (2008) Energy transition and CO2
+        emissions in Southern Europe: Italy and Spain (1861–2000). Global
+        Environment 2: 47–81.                                
+      Department of Energy and Climate Change (2010) 2050 Pathways Analysis.
+        London: HMSO.                                        
+      ElzenB,GeelsFWandGreenK(eds)(2004)SystemInnovationandtheTransition
+        to Sustainability: Theory, Evidence and Policy. Cheltenham: Edward Elgar.
+      Fouquet R and Pearson PJG (1998) A thousand years of energy use in the
+        United Kingdom. Energy Journal 19(4): 1–41.          
+      Geels F (2002) Technological transitions as evolutionary reconfiguration pro-
+        cesses: A multi-level perspective and a case-study. Research Policy 31(8–9):
+        1257–1274.                                           
+      Giddens A (1994) The Constitution of Society. Cambridge: Polity Press.
+      Gram-Hanssen K (2010) Standby consumption in households analysed with a
+        practice theory approach. Journal of Industrial Ecology 14(1): 150–165.
+      Gram-Hanssen K (2011) Understanding change and continuity in residential
+        energy consumption. Journal of Consumer Culture 11(1): 61–78.
+      Hargreaves T (2011) Practice-ing behaviour change: Applying social practice
+        theory to pro-environmental behaviour change. Journal of Consumer
+        Culture 11(1): 79–99.                                
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+        Shove and Walker                             57      
+                                                             
+        HarveyMandMcMeekinA(2010)PoliticalShapingofTransitionstoBiofuelsin
+         Europe,BrazilandtheUSA.CentreforResearchinEconomicSociologyand
+         Innovation (CRESI), Working Paper 2010–02. Colchester: University of
+         Essex.                                              
+        Hughes T (1983) Networks of Power: Electrification in Western Society, 1880–
+         1930. Baltimore, MD: Johns Hopkins University Press.
+        Jasanoff S and Kim SH (2013) Sociotechnical imaginaries and national energy
+         policies. Science as Culture 22(2): 189–196.        
+        LatourB(1992)Wherearethemissingmasses?Thesociologyofafewmundane
+         artefacts.In:BijkerWandLawJ(eds)ShapingTechnology/BuildingSociety:
+         Studies in Sociotechnical Change. Cambridge, MA: MIT Press.
+        MacKay DJC (2009) Sustainable Energy: Without the Hot Air. Cambridge: Uit
+         Cambridge Limited.                                  
+        Meier A (2005) Saving Electricity in a Hurry. Paris: OECD/IEA.
+        Moellers N and Zachmann K (2012) Past and Present Energy Societies: How
+         Energy Connects Politics, Technologies and Cultures. New Brunswick, NJ:
+         Transaction Publishers.                             
+        Nye DE (1999) Consuming Power: A Social History of American Energies.
+         Cambridge, MA: MIT Press.                           
+        Nye DE (2010) When the Lights Went Out: A History of Blackouts in America.
+         Cambridge, MA: MIT Press.                           
+        Parkhill K, et al. (2013) Transforming the UK Energy System: Public Values,
+         Attitudes and Acceptability: Synthesis Report. London: UKERC.
+        Pasquier S (2011) Saving Electricity in a Hurry II. Paris: OECD/IEA.
+        Rosa EA, Machlis GE and Keating KM (1988) Energy and society. Annual
+         Review of Sociology 14: 149–172.                    
+        Schatzki TR (1996) Social Practices: A Wittgensteinian Approach to Human
+         Activity and the Social. Cambridge: Cambridge University Press.
+        Schatzki TR (2002) The Site of the Social: A Philosophical Account of the
+         Constitution of Social Life and Change. University Park: Pennsylvania State
+         University Press.                                   
+        Schatzki TR (2006) On organizations as they happen. Organization Studies
+         27(12): 1863–1873.                                  
+        Schatzki TR (2009) Timespace and the organization of social life. In: Shove E,
+         et al. (eds) Time, Consumption and Everyday Life. Oxford: Berg.
+        Schatzki TR (2010) Materiality and social life. Nature and Culture 5(2):
+         123–149.                                            
+        Schatzki TR (2011) Where the Action Is: On Large Social Phenomena such as
+         Sociotechnical Regimes. Sustainable Practices Research Group Working
+         Paper 1. Manchester: University of Manchester.      
+        Schatzki TR, Knorr-Cetina K and Savigny E (eds) (2001) The Practice Turn in
+         Contemporary Theory. London: Routledge.             
+        Shove E (2012) Putting practice into policy: Reconfiguring questions of con-
+         sumption and climate change. Contemporary Social Science: 1–15
+         (DOI: 10.1080/21582041.2012.692484).                
+        Shove E, Pantzar M and Watson M (2012) The Dynamics of Social Practice:
+         Everyday Life and How It Changes. London: Sage.     
+        Sørensen B (2012) A History of Energy: Northern Europe from the Stone Age to
+         the Present Day. Abingdon: Earthscan.               
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+      58                            Theory, Culture & Society 31(5)
+                                                             
+      Urry J (2010) Consuming the planet to excess. Theory, Culture & Society
+        27(2–3): 191–212.                                    
+      Urry J (2013) Societies beyond Oil: Oil Dregs and Social Futures. London: Zed
+        Books.                                               
+      Verbong G and Loorbach D (2012) Governing the Energy Transition: Reality,
+        Illusion or Necessity? London: Taylor & Francis.     
+      Verbong GPJ and Geels FW (2010) Exploring sustainability transitions in the
+        electricitysectorwithsocio-technicalpathways.TechnologicalForecastingand
+        Social Change 77(8): 1214–1221.                      
+      Warde A (2005) Consumption and theories of practice. Journal of Consumer
+        Culture 5(2): 131–153.                               
+      White LA (1943) Energy and the evolution of culture. American Anthropologist
+        45(3): 335–356.                                      
+      Elizabeth Shove is Co-Director of the DEMAND research centre
+      (Dynamics of Energy, Mobility and Demand) and Professor of
+      Sociology at Lancaster University.                     
+                                                             
+      Gordon Walker is Co-Director of DEMAND and Professor of
+      Environment, Risk and Justice at Lancaster Environment Centre.
+                                                             
+      This article is part of the Special Issue on Energy & Society, edited by
+      David Tyfield and John Urry.                           
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             

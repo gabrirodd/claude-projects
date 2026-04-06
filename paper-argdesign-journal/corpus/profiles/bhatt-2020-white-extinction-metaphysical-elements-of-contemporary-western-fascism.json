@@ -1,0 +1,74 @@
+{
+  "paper_id": "bhatt-2020-white-extinction-metaphysical-elements-of-contemporary-western-fascism",
+  "title": "White Extinction: Metaphysical Elements of Contemporary Western Fascism",
+  "author": "Bhatt",
+  "year": 2020,
+  "journal": "Theory, Culture & Society",
+
+  "opening_move": {
+    "type": "empirical_anomaly",
+    "description": "The Euro-American far-right appears ideologically diverse and incoherent, but this surface diversity conceals a deep metaphysical unity organized around the idea of 'white extinction'. The article diagnoses this hidden ideological infrastructure.",
+    "anchored_in": ["Evola", "Nietzsche", "Klages", "Gu\u00fcnther", "Gehlen"],
+    "stakes_claimed": "Understanding the metaphysical substrate of contemporary fascism is necessary for grasping why it tends inevitably toward cleansing violence, rather than stopping at populism or cultural nationalism."
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["accounts of far-right as ideologically incoherent or simply populist", "narratives that treat contemporary fascism as discontinuous with historical fascism"],
+    "engagement_structure": "absence_critique",
+    "immanent_critique": false,
+    "own_position_type": "external_alternative",
+    "own_position_explicit": true,
+    "description": "The paper reconstructs the intellectual genealogy of contemporary fascism by tracing its metaphysical sources (Nietzsche, vitalism, fascist anthropology, cosmic destiny), arguing this reveals a coherent logic that existing accounts miss by focusing only on surface politics."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_interpretive_case",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "Genealogical-interpretive analysis: close reading of fascist texts (European New Right, US alt-right, historical sources like Evola, Klages, G\u00fcnther); tracing intellectual transmission across texts and movements.",
+    "notes": "The argument proceeds entirely through textual interpretation of fascist ideological sources. Far-right texts are the primary object of analysis and also the evidence for the argument. This is interpretive analysis with a strong normative-diagnostic conclusion."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "philosophical_text",
+    "case_name": "European New Right and US alt-right ideological texts (Evola, Klages, G\u00fcnther, De Benoist, Faye, Johnson, Andersen)",
+    "case_function": "primary_object_of_analysis",
+    "case_relation_to_argument": "object_of_interpretation",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "political theory, anti-fascism",
+    "claim_type": "critical_diagnostic",
+    "closure_type": "strong_normative_conclusion"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "genealogical_reconstruction",
+    "conceptual_distinction",
+    "case_development",
+    "case_interpretation",
+    "normative_derivation",
+    "conclusion_strong"
+  ],
+
+  "reflexive_move": true,
+
+  "key_concepts": ["white extinction", "fascist metaphysics", "vitalism", "bioculture", "cosmic destiny", "cleansing violence"],
+
+  "thinkers_deployed": {
+    "central": ["Nietzsche", "Klages", "Evola", "G\u00fcnther", "Gehlen"],
+    "engaged_critically": ["European New Right (De Benoist, Faye, Andersen)", "US alt-right (Johnson, Spencer)"],
+    "referenced_only": ["Schopenhauer", "Benjamin", "Habermas (as co-recipient of Klages' influence)", "Griffin"]
+  },
+
+  "confidence_notes": "The paper is a genealogical-interpretive analysis: far-right texts are both the primary object and the evidence. The epistemic mode is normative_with_interpretive_case where the 'case' is a body of political-philosophical texts read as symptomatic of a fascist logic. The normative conclusion (fascism leads remorselessy to cleansing violence) is explicit and strong."
+}

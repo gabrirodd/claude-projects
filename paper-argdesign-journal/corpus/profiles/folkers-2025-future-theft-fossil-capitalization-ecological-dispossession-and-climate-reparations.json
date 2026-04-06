@@ -1,0 +1,76 @@
+{
+  "paper_id": "folkers-2025-future-theft-fossil-capitalization-ecological-dispossession-and-climate-reparations",
+  "title": "Future Theft: Fossil Capitalization, Ecological Dispossession and Climate Reparations",
+  "author": "Folkers",
+  "year": 2025,
+  "journal": "Theory, Culture & Society",
+
+  "opening_move": {
+    "type": "conceptual_gap",
+    "description": "Climate politics lacks a concept adequate to the structural relation between fossil asset owners and climate victims across time. Folkers proposes 'future theft' — fossil capitalization as a temporally inverted form of original accumulation — to name this relation and to ground claims for climate reparations.",
+    "anchored_in": ["Marx (original accumulation)", "Mitchell (2020)", "Doganova (2024)", "Birch and Muniesa"],
+    "stakes_claimed": "Understanding fossil capitalization as 'future theft' — appropriation of the future through legal preemption, calculative discounting, and material pollution — reveals both the limits of liberal climate economics and the political potential and limits of climate torts and reparations."
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["hegemonic climate economics (Nordhaus, discounted social cost of carbon)", "tort/liberal property law framing", "intergenerational framings of climate justice"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": true,
+    "own_position_type": "synthesis",
+    "own_position_explicit": true,
+    "description": "The paper critiques climate economics for repeating the appropriative logic of fossil capitalization (discounting = cheapening the future); critiques liberal property law for limiting climate accountability to symbolic reparations; and proposes that genuine climate reparations must go beyond liberal ownership logic toward an ecological critique of property, combining Marxist accumulation theory with valuation studies and climate jurisprudence."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_interpretive_case",
+    "secondary": null,
+    "empirical_evidence_present": true,
+    "empirical_evidence_role": "constitutive",
+    "quantitative_methods": null,
+    "qualitative_methods": "Legal case analysis: detailed examination of the Lliuya v. RWE climate tort (Peruvian farmer suing German energy company for glacier-melt damages) as the pivotal case; complemented by analysis of carbon accounting practices, investment treaty structures, and discounted cash flow calculative devices.",
+    "data_sources": ["Lliuya v. RWE climate tort (Oberlandesgericht Hamm)", "Carbon Majors project (Heede, 2014)", "Chancel (2022) wealth-emission data"],
+    "interpretive_methods": "Marxist political economy (original accumulation, Veblen on sabotage); valuation studies (Doganova, Muniesa) applied to fossil asset pricing; legal analysis of property and tort; climate attribution science as forensic archive.",
+    "notes": "The Lliuya v. RWE tort case is constitutive — it is the primary vehicle through which the paper tests the concept of future theft against legal reality and discovers both its potential and its limits. The paper moves from theoretical concept (future theft) through legal case (tort) to normative horizon (reparations and beyond)."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "institutional_process",
+    "case_name": "Lliuya v. RWE climate tort (Germany)",
+    "case_function": "test_case_for_framework",
+    "case_relation_to_argument": "object_of_interpretation",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "political ecology, critique of capitalism, climate justice",
+    "claim_type": "critical_diagnostic",
+    "closure_type": "open_ended_with_burden_on_reader"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "framework_proposal",
+    "conceptual_distinction",
+    "rival_mapping",
+    "immanent_critique",
+    "case_introduction",
+    "case_development",
+    "case_interpretation",
+    "normative_derivation",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["future theft", "fossil capitalization", "original accumulation", "discounting", "preemption", "climate tort", "climate reparations", "air-appropriation", "temporal dispossession"],
+
+  "thinkers_deployed": {
+    "central": ["Marx", "Doganova", "Mitchell (Timothy)", "Birch and Muniesa"],
+    "engaged_critically": ["Nordhaus (climate economics)", "Coase (social cost)", "liberal property law"],
+    "referenced_only": ["Moore (Jason)", "Veblen", "Pistor", "Táíwò", "Serres", "Piketty", "Hegel"]
+  },
+
+  "confidence_notes": "This paper has a high normative stake: it proposes both a conceptual framework (future theft as temporally inverted original accumulation) and a critical diagnosis of the limits of existing climate politics (economics, torts, reparations). The Lliuya v. RWE case is constitutive — it is the primary test case through which the framework is developed and its limits assessed. The conclusion is genuinely open: reparations are necessary but insufficient; the revolution must be reparative, not just re-appropriative."
+}

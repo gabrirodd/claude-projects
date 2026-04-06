@@ -1,0 +1,944 @@
+[PAGE 1]
+ 1363194                                                     
+ research-article2025 TCS0010.1177/02632764251363194Theory, Culture & SocietyHoppe
+                                                             
+                                                             
+       Article                                               
+                                             Theory, Culture & Society
+       Ecodependence:   The  Intrinsic        2026, Vol. 43(1) 27 –43
+                                              © The Author(s) 2025
+       Connection  between   Living                          
+                                              Article reuse guidelines:
+       and Killing                        sagepub.com/journals-permissions
+                                        httpDs:O//dIo: i1.o0r.g1/1107.711/0727/60322673267462452153136633119944
+                                           journals.sagepub.com/home/tcs
+       Katharina Hoppe                                       
+       Goethe-University Frankfurt                           
+                                                             
+                                                             
+       Abstract                                              
+       This article fleshes out the concept of ecodependence, situating it in discussions
+       about more-than-human relationality and biopolitics. In ecofeminist discourses,
+       ecodependence emphasizes human dependency on natural resources, whereas the
+       notion of interdependence focuses on interpersonal relationships. The article critiques
+       a distinction between these types of dependency and opposes the related tendency to
+       romanticize more-than-human relationality. In contrast, it develops an understanding of
+       ecodependence that foregrounds the ambivalent and destructive qualities of relationality.
+       Through an analysis of Maria Mies’ ecofeminist framework, the article identifies
+       two dimensions of ecodependence: one structural and one ontological. Ecofeminist
+       accounts incline toward idealizing dependency in the latter sense. By engaging with the
+       works of Donna Haraway and Jacques Derrida, the article proposes a conceptualization
+       of ecodependence that acknowledges the destructive character of relationality not
+       only structurally but also on an ontological level. It points out the intrinsic connection
+       between living and killing, leading to a perspective of affirmative thanatopolitics.
+       Keywords                                              
+       relationality, ecofeminism, dependency, thanatopolitics, Donna Haraway, Maria Mies
+                                                             
+                                                             
+       Introduction                                          
+                                                             
+       Confronted with the current ecological crises, many recent cultural and social theoretical
+       contributions emphasize a thinking along the lines of relationality, interwovenness, and
+       entanglement. Crucially, these concepts are used to analyze ‘more-than-human’
+       (Whatmore, 2002) or interspecies relationality – a relational perspective, it is argued, is
+       especially necessary to face the manifold materializations and articulations of ecological
+                                                             
+                                                             
+       Corresponding author: Katharina Hoppe. Email: k.hoppe@em.uni-frankfurt.de
+       TCS Online Forum: https://www.theoryculturesociety.org/
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+      28                              Theory, Culture & Society 43(1)
+                                                             
+      devastation (see e.g. Kirksey and Helmreich, 2010; Lejano, 2019; Tsing, 2012). In par-
+      ticular, contributions associated with what has come to be called ‘new materialism’ advo-
+      cate a perspective of relational ontology to develop a post-anthropocentric theory that
+      takes into account the agency of the non-human world (Barad, 2012; Dolphijn and van
+      der Tuin, 2012). Despite the heterogeneity of relational approaches in the Environmental
+      Humanities, Ecosocialism, and Science and Technology Studies, there seems to be a
+      consensus on the need for ‘relational’ thinking to grasp the complex constitutive condi-
+      tions of current crisis dynamics (Escobar et al., 2024; Moore, 2015; Puig de la Bellacasa,
+      2017). However, beyond this analytical consensus (that I share), neither the concrete
+      characteristics of more-than-human relations nor the normative implications of relation-
+      ality are clearly determined or even extensively discussed.
+        One promising possibility to qualify more-than-human relationality more precisely is
+      offered by the concept of ‘ecodependence’, which originates from ecofeminist discus-
+      sions but is barely systematically developed there (Herrero, 2013). With the invocation
+      of dependency, this approach calls upon a quality of relationality that is often neglected,
+      namely, the substantial character of relations associated with necessity instead of proces-
+      suality, vitality, or freedom. In ecofeminist discussions, the concept of ecodependence
+      points at the inevitable dependency of human life on natural resources and is distin-
+      guished from interdependency, which is understood to be an interpersonal matter
+      (Herrero, 2013: 281). Whereas this strict distinction between interpersonal and interspe-
+      cies relations reproduces a division between nature and society, this article puts forward
+      a more inclusive concept of ecodependence that not only points to the entanglement of
+      natural and social aspects of life, but also takes into account the asymmetrical and
+      destructive character of dependency relations and does not treat ecological relations as
+      homogenous. It will build on the ecofeminist intuition to focus on dependency, because
+      this highlights the fundamental necessity of some relations for the reproduction of socie-
+      ties and life forms, a necessity which can be seen vividly in more-than-human relations.
+      The vocabulary of dependency therefore offers a way to systematically include essential,
+      but at the same time (potentially) destructive, qualities of relationality. In particular, a
+      further development of the concept of ecodependence opens an important path, because
+      more-than-human relationality is neither conceptualized as flat in the sense of being free
+      from hierarchies nor normatively charged in the sense of ‘good’ per se. This potential has
+      not yet been exhausted in the ecofeminist approach, because here, too, the latter assump-
+      tion that the recognition of ecodependence ought to bring about a less appropriative and
+      ‘better’ relation to nature plays a crucial role. Until now, the concept of ecodependence
+      has therefore been accompanied by a rather affirmative rhetoric that underlines the
+      potential of the restoration of a harmonious relation with nature – a motif important to
+      many ecofeminist approaches (see Diamond and Orenstein, 1990).1
+        Against a ‘political romanticization of relation’ (Hörl, 2017: 7), this article fore-
+      grounds the ambivalent nature of ecodependence. Emphasizing the destructive but
+      always also nourishing character of relationality avoids a conception of relations of
+      dependency as mere (capitalist) domination (Llaguno, 2023). In order to further specify
+      the notion of ecodependence as a fruitful approach to more-than-human relationality, the
+      article stresses – only at first sight paradoxically – its constitutively destructive character.
+      It does so by introducing Donna Haraway’s approach to life as irreversibly linked with
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+       Hoppe                                          29     
+                                                             
+       practices of killing. This reading of her more-than-human approach emphasizes that
+       ecodependence is not conceivable without conceptualizing the ontological quality of
+       using each other, of living ‘in and through the use of one another’s bodies’ (Haraway,
+       2008: 79). This accentuation of ecodependence has important implications for a more-
+       than-human conceptualization of the relation of bio-, thanato-, and necropolitics. While
+       necropolitics refers to practices that render living beings merely killable, biopolitics and
+       thanatopolitics are closely linked in this perspective, as the politics of life and death
+       respectively, since life is considered as inevitable killing. Taking this intrinsic relation
+       seriously lies at the very core of thinking with and through ecodependence.
+        Following the ecofeminist insight to emphasize dependency as not merely passive or
+       ‘bad’, the article sets out from a discussion of the analysis of dependency and independ-
+       ency in the work of Maria Mies. In her ecofeminist account, two modes of dependency
+       are to be found: one structural and one ontological. I show that the first is a crucial fea-
+       ture for theorizing ecodependence, whereas the ontological dimension in Mies positively
+       transfigures relationality. In a second step, I draw on the (later) works of Haraway and
+       those of Jacques Derrida to elaborate the ontological dimension of ecodependence with-
+       out idealizing relationality. Though Haraway herself has been accused of romanticizing
+       more-than-human relationality, especially in regard to human-animal relationships
+       (Dwyer, 2007), her works are of crucial importance to developing the concept of ecode-
+       pendence further. Reading Haraway in dialogue with Derrida reveals a notion of life that
+       ties together living and killing, which can inform a robust account of ecodependence.
+       Thirdly, I further elaborate the ethical and political implications of the thesis of an irre-
+       ducible involvement with killing by discussing Haraway’s approach as a politics of
+       affirmative ecodependence that can be understood as an approach to affirmative biopoli-
+       tics as thanatopolitics. The article concludes by outlining the potentials of the concept of
+       ecodependence as a theoretical and political category.
+       Dependency and Independency in Ecofeminism            
+       The ecofeminist strand of thought associated with the name Maria Mies – often referred
+       to as the ‘Bielefeld School’ and in international debates assigned to so-called ‘social
+       ecofeminism’2 – revolves around the criticism of relations of dependency and is hence
+       vital for a first approach to the concept of ecodependence. The Bielefeld School devel-
+       oped great influence in the late 1970s and 1980s, but in the course of queer-feminist and
+       post-structural critique it fell into disregard and then also into oblivion (see Thompson,
+       2006). Too difference-feminist, too essentialist, too spiritualist: this is how the post-
+       structuralist criticism of ecofeminism in the 1990s may be summarized (see e.g. Haraway,
+       1991). By now, however, there is an animated discussion of the renewal of ecofeminism.
+       Against the backdrop of climate change and drastic ecological crises, the movement that
+       is emerging is almost excessively fast-growing, though important and stimulating, with
+       constant revisiting of the tradition (Foster, 2021; Gaard, 2011). For my project of formu-
+       lating a more substantial concept of ecodependence, Mies’ account can serve as a starting
+       point, because it draws attention to tensions between dependence and independence in
+       two important regards: first, in her analysis of the international division of labor, and
+       second, in her reflections on the concepts of freedom and emancipation.
+                                                             
+                                                             
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+      30                              Theory, Culture & Society 43(1)
+                                                             
+        In Mies’ analysis of the dynamics of the world market in the course of globalization
+      dynamics, the dependency structures of the Global North and the Global South are at the
+      core. The thesis of a ‘housewifization of labour’ (Mies, 1986: 74), developed together
+      with Claudia von Werlhof and Veronika Bennholdt-Thomsen, is based on a materialist
+      analysis of the international division of labor, which focuses particularly on the position
+      and function of women in the Global South (see also Mies, 1982). What they describe as
+      ‘housewifization’ involves a double analysis of dependency relations. On the one hand,
+      the provision of the subsistence base for modernization in countries of the Global South
+      was largely performed by females (and other feminized people3), but not recognized as
+      such. On the other hand, and beyond that, they have also been actively involved in
+      ‘development’ and pushed from the subsistence economy into wage labor. However –
+      and this is what ‘housewifization’ describes – the production of consumer goods by
+      women was not understood as such, let alone remunerated. On the contrary, the Western
+      ‘breadwinner model’, including the ideology of the dependent housewife, was extended
+      to the Global South and women’s income was understood as ‘additional income’ to the
+      actual income. In this way, not only were reproductive activities rendered invisible, but
+      also the contribution of women’s labor in so-called production was relegated to the pri-
+      vate and reproductive sphere via housewifization (Mies, 1986: 116–20). Dependence on
+      the sphere of subsistence (or reproduction) – i.e. all those practices and processes that
+      serve to maintain the basis of life – is obscured by producing something like a ‘house-
+      wife’ in the first place: ‘This mystification that women are basically housewives, is not
+      an accidental side-effect of the new IDL [international division of labor], but a necessary
+      precondition for its smooth functioning: it makes a large part of labor that is exploited
+      and super-exploited for the world market invisible’ (Mies, 1986: 120). Exploitation is
+      justified by shifting feminized activity into the reproductive sphere, whereby depend-
+      ence on these activities is disavowed, precisely because women’s work is denied the
+      form of wage labor. With this global and intersectional focus, one can also speak of a
+      mechanism of double externalization. The Global North lives at the expense of the
+      Global South; and, in the Global South, modernization builds on housewifized labor.
+      Following Mies, these invisibilized dependencies on the dynamics of the global capital-
+      ist economy can be understood as historically specific parts of ecodependency relations.
+      They point to what can be called the structural dimension of ecodependence, which must
+      crucially take into account the post- and neocolonial constellation of the present.
+        Besides this perspective, Mies offers a second account of dependency and independ-
+      ency. This concerns the promise of liberation and the relation of freedom and necessity.
+      In the introduction to their co-authored volume Ecofeminism, Vandana Shiva and Mies
+      outline a critique of the classical understandings of emancipation. They identify the
+      Western-dominant concept of emancipation efforts as the idea ‘that Man’s freedom and
+      happiness depend on an ongoing process of emancipation from nature’ (Mies and Shiva,
+      1993: 6; emphasis in original). This ideal is based on a profoundly dualistic view of the
+      world, in which it is assumed that freedom is realized in a freedom from necessities. In
+      such a world view, everything physical and natural is linked to repugnant necessities: ‘As
+      well as women, these include nature and other peoples – the colonized and “naturized”
+      – “opened up” for free exploitation and subordination, transformed into “others”, the
+      “objects”, in this process of European (male) subject’s emancipation from the “realm of
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+       Hoppe                                          31     
+                                                             
+       necessity”’ (Mies and Shiva, 1993: 7). According to Mies and Shiva, for an ecofeminist
+       concept of freedom it is crucial not to deny dependence on these necessities – hence, not
+       to deny ecodependence. Rather, freedom must be rethought from the very perspective of
+       necessity: ‘Freedom within the realm of necessity can be universalized to all; freedom
+       from necessity can be available to only a few’ (Mies and Shiva, 1993: 8; emphasis in
+       original; see also Mies, 1986: 40–41). And one should add: The few can only feel free at
+       the price of denying their ecodependence. With the emphasis on necessity, a second
+       dimension of ecodependence is invoked: the ontological dimension.
+        Mies’ ecofeminism therefore theorizes two dimensions of dependency: first and struc-
+       turally, the dependence of capitalist reproduction on feminized labor in the Global South,
+       which ensures the prosperity and consumption levels of the Global North and the ‘devel-
+       opment’ of the countries of the Global South; second and ontologically, it highlights the
+       dependency on necessities, especially on nature. Although ecodependence is usually
+       only associated with the latter aspect, it is crucial also to grasp the global dimension of
+       the reproduction of societies in the Global North. Acknowledging ecodependence must
+       involve a theorization of complicity in global capitalist and neocolonial exploitation.
+        The ontological dimension of ecodependence relations in Mies, however, is less con-
+       vincingly elaborated, which becomes clear with an examination of her positive vision for
+       ecofeminist societies. Paradoxically, this vision relies on an ideal of radical independ-
+       ence while affirming dependence on ‘nature’. As is well known, this is the ideal of sub-
+       sistence economy (Mies, 1993b). With the perspective of subsistence, Mies and her
+       colleagues describe forms of economic activity that aim at maintaining the basic neces-
+       sities of life and rely on a supply of food that is independent of the world market, that
+       involves autonomous control over land and water, and is oriented toward the postulate of
+       regionality (Mies, 1993b: 318–22). A certain independence is the core value of this strat-
+       egy and refers in particular to an exit of ‘organic communities’ (Shiva, 1993: 106) from
+       any linkages with the world market. This radical critique of globalization, however,
+       brings with it the danger of romanticizing poverty or ‘indigeneity’, which a timely
+       ecofeminist theory must avoid (see Sturgeon, 1997: 113–34). For Mies regards global
+       linkages, along with all technologies, as androcentric and dominating (Mies, 1993a).
+       Thus, with the idea of subsistent communities, Mies reproduces a fantasy of removal
+       from more-than-human relationality (that crucially includes technologies) that is itself
+       closely linked to the idea of the sovereign subject of Western modernity. Nature is juxta-
+       posed with a genuinely dangerous technology, science, and culture, and an affirmation of
+       radical dependence on a pure and genuinely nurturing nature is invoked. Mies and Shiva
+       therefore promote a romanticizing affirmation of ontological ecodependence:
+        This celebration of our dependence to Mother Earth is quite contrary to the attitude promoted
+        by Francis Bacon and his followers, the fathers of modern science and technology. For them
+        this dependence was an outrage, a mockery of man’s right to freedom on his own terms and
+        therefore had forcefully and violently to be abolished. (Mies and Shiva, 1993: 18)
+        The call for affirmation and even celebration of dependence on nature fosters the
+       idea of pure, pristine, and peaceful ecodependence that leads to problematic naturaliza-
+       tions and homogenizations. In particular, it has encouraged a renewed romanticization
+                                                             
+                                                             
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+      32                              Theory, Culture & Society 43(1)
+                                                             
+      and essentialization of ‘Third World Women’. The idea of learning from and appropriat-
+      ing indigenous people’s knowledge, as well as their lived relations to nature, tends to
+      naturalize the associated subject positions. A naturalization that renders them passive.
+      As Noël Sturgeon puts it: ‘[T]he stance of this form of antiracism ironically still main-
+      tains white privilege insofar as it sees women of color, and “nonmodern” women, as
+      natural resources for the betterment of white people’ (Sturgeon, 1997: 130).4 It is impor-
+      tant to emphasize instead that more-than-human relations and relations of dependency
+      in particular are never merely harmonious: they are asymmetrical and heterogeneous,
+      they entail destructive potential. For these reasons it is crucial to acknowledge the
+      (potentially) destructive character of ecodependence relations not only on the structural
+      level, but also on the ontological level (that is historically specific, linked to the
+      structural).                                           
+      Ecodependence and Practices of Killing                 
+      Donna Haraway’s ‘Cyborg Manifesto’ criticized precisely the vision of harmonious rela-
+      tions to nature found in Mies’ ecofeminism. In what became a well-known plea, she
+      asked for a perspective that is ‘about transgressed boundaries, potent fusions, and dan-
+      gerous possibilities’ (Haraway, 1991: 154). It was the normative certainties of the
+      ecofeminist ‘goddesses’ that Haraway rejected. To her, technology is not per se andro-
+      centric, militaristic, or domineering, and nor is nature harmonious, nurturing, or pure.5
+      Addressing the reality of ‘technologically mediated societies’ (p. 154), the ‘Cyborg
+      Manifesto’ focused on biotechnological and information technological developments
+      and their potentials as well as dangers. Ecological relations were only discussed in pass-
+      ing. Towards the end of the essay, Haraway highlights that ‘to recognize oneself as fully
+      implicated in the world, frees us of the need to root politics in identification, vanguard
+      parties, and mothering’ (Haraway, 1991: 176). Exploring the consequences of this deep
+      implication with the world is the essential motif in Haraway’s oeuvre, and especially her
+      theory of more-than-human relationality as a process of killing in her later works.
+        At least since the publication of her second manifesto – The Companion Species
+      Manifesto (Haraway, 2003) – Haraway has no longer theorized relationality as networks
+      or as interconnections, but as constitutive entanglement. The concept pointing at this
+      shift is the notion of ‘naturecultures’ (Haraway, 2003: 1). With this, she underlines the
+      inescapable interwovenness of nature and culture that materializes in a historically spe-
+      cific manner as a ‘matrix of contrasts’ (Latimer and Miele, 2013: 11). In Haraway’s later
+      work, it is the notion of ‘companion species’ that refers to a theory of naturalcultural
+      relationality. It describes the co-constitutive becoming of heterogeneous bodies, organ-
+      isms, and entities, which finds expression in various differentiations. Entities and bodies,
+      according to this view, emerge in and through relations and do not precede them
+      (Haraway, 2003: 6; 2008: 16–17). However, the constitutive relationality across species,
+      entities, and technologies is neither thought of as good per se nor as all-encompassing:
+      ‘Nothing is connected to everything; everything is connected to something’ (Haraway,
+      2016: 31). And it should be added: connections appear in different modes. Dependency
+      relations are one of these modes, and these play a crucial role, especially when ecological
+      dimensions are considered.                             
+                                                             
+                                                             
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+       Hoppe                                          33     
+                                                             
+        According to Haraway, the relations commonly associated with ecological relation-
+       ships indicate asymmetrical dependence on one another. They are ‘infectious’, as she
+       puts it in Staying with the Trouble: ‘Sheer contagion. Companion species infect each
+       other all the time. Bodily ethical and political obligation are infectious, or they should be’
+       (Haraway, 2016: 115). The vocabulary of ‘infection’ may be disconcerting, but Haraway
+       points to a central insight that one has to take seriously in conceptualizing ecodepend-
+       ence: namely, that the normative reference to a re-enchanted relationship to nature and
+       our dependence on it is problematic, because it carries with it a purity requirement that
+       tends to exclude queer embodiments and hybrid identities. Moreover, it negates the
+       destructive dimensions of nature (or better: naturalcultural processes). However, destruc-
+       tiveness, infectiousness, and queerness belong to ‘nature’ (Barad, 2012) and it must be
+       asked how one can live with and in these ambivalences, at what price, and under what
+       circumstances (see also Shotwell, 2016). A price – according to this perspective – always
+       has to be paid. This is due to humanity’s deep implication with the world.
+        The consequences of this deep ecological and bodily implications are carved out in
+       their negativity when Haraway theorizes life as a process of killing (Haraway, 2008;
+       Wolfe and Haraway, 2016). As a basic mode of being-in-the-world, life comes into play
+       here in ecosystemic embeddedness: human and non-human entities appear more and
+       more ‘to be ecosystems’ (Wolfe and Haraway, 2016: 249; emphasis in original). Haraway
+       highlights the web of dependence on natural resources and other (more-than-human)
+       entities in a radical immanent way; she makes it clear that ‘this question of ecosystem
+       assemblages is the name of the game of life on Earth. Period. There is no other game.
+       There are no individuals plus environments. There are only webbed ecosystems’ (Wolfe
+       and Haraway, 2016: 250). In these webbed ecosystems on all levels, life is understood as
+       a differentially articulating and materializing process in which vitality and death, varia-
+       tion and continuity are closely intertwined. But Haraway does not merely endorse a theo-
+       rization of finitude and death as a part of life; rather, living is understood as a process of
+       differential killing. According to her, it is ‘a misstep to pretend to live outside killing’
+       (Haraway, 2008: 79).                                  
+        Whereas the notion of killing is commonly associated with sovereignty and activity, with
+       Haraway one can see that killing in an ontological and post-anthropocentric sense points at
+       dependence, necessity, and even a certain passivity. Derrida develops this thought in regard
+       to a theory of subjectivity in an interview entitled ‘“Eating Well”, or the Calculation of the
+       Subject’ (1995), in which he reflects on the consequences of humanity’s implication with the
+       (non-human) world. He sets out with a critical note on Emmanuel Levinas’s humanism,
+       arguing that in a purely humanly connoted ‘Thou shalt not kill’ lies the possibility of sacri-
+       ficing other carnal beings (Derrida, 1995: 279–80). According to Derrida, this manifests a
+       ‘virile and heroic schema’ (p. 281), which culminates in a ‘carno-phallogocentrism”
+       (p. 280; emphasis in original), according to which the subject ‘does not want just to master
+       and possess nature actively’ (p. 281), but at least in the version of a sovereign subject must
+       also ‘be an eater of flesh’ (p. 281). In order to maintain the boundary between human and
+       animal, the sovereign subject ‘accepts sacrifice and eats flesh’ (p. 281). Meat eating as a
+       specific mode of killing and eating, however, is a particularly problematic case of ‘different
+       modes of the conception-appropriation-assimilation of the other’ (p. 281) which is often
+       associated with ideals of masculinity via a radical idea of sovereignty (see Adams, 2015).
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+      34                              Theory, Culture & Society 43(1)
+                                                             
+      Whereas appropriation and assimilation inevitably take place, accepting the sacrifice of the
+      (non-human) other is precisely the dimension of subjectivity and being-in-the-world one
+      can criticize against the backdrop of the concept of ecodependence.
+        Against the virile and heroic – sovereign – mode of killing, an emphasis on the non-
+      heroic dimension of killing allows us to imagine less destructive modes of ‘eating’. One
+      way or another, the ontological dimension of ecodependence and this destructive mode
+      of being dependent on others is a foundational dimension of subjectivity (which is often
+      denied, but has to be shaped, negotiated, and lived with). In the perspective of ‘eating
+      well’, Derrida indicates how subjectivity understood in this sense can be constituted in
+      ‘better’ or ‘worse’ ways.                              
+        The infinitely metonymical question on the subject of ‘one must eat well’ must be nourishing
+        not only for me, for a ‘self’, which would thus eat badly; it must be shared, as you might put it,
+        and not only in language. ‘One must eat well’ does not mean above all taking in and grasping
+        in itself, but learning and giving to eat, learning-to-give-the-other-to-eat. One never eats
+        entirely on one’s own: this constitutes the rule underlying the statement, ‘One must eat well’.
+        (Derrida, 1995: 282; emphasis in original)6          
+        The subject, according to this argument, is inevitably involved in and with what
+      Derrida calls eating or what Haraway calls killing. However, differences within these
+      killing practices can and have to be made – we are not dealing with some kind of flat
+      ontology of killing. Haraway’s proposal in this regard is to abandon the imperative ‘Thou
+      shalt not kill’ and to replace it with ‘Thou shalt not make killable’ (see Haraway, 2008:
+      80). Kill-ability is produced whenever entire groups of people, species, or other organ-
+      isms are rendered deployable. Being rendered killable is a necropolitical process: In the
+      production of non-human actors today this is radically evident, for example, in the pro-
+      duction of ‘the animal’ not merely symbolically but in brutal materiality. In this regard,
+      Haraway speaks of ‘exterminism’ (Haraway, 2008: 78): of a necropolitical killing and
+      extermination. Especially in agro-industrial production, killability is the driving force for
+      profits. Following a suggestion of her student Eric Stanley, Haraway calls this ‘forced
+      life’ (Haraway and Franklin, 2017: 56), to point out the enormous generation of life that
+      is only produced to be killed, especially in the ‘animal-industrial-complex’ (Noske,
+      1989: 22) for ‘extractive profit’ (Haraway and Franklin, 2017: 57).
+        Against this backdrop, there have been discussions of whether this position is an argu-
+      ment for strict vegetarianism or veganism (Irni, 2023). And to be sure, there are good
+      reasons – from the perspective of ecodependence – to plead for such diets. However,
+      Haraway in particular has argued that vegetarianism or veganism should not work as a
+      doxa, because this tends to foreclose necessary debate and conflict on how to kill ‘better’
+      or how to eat well in always specific cultural and historical circumstances. There is no
+      distinction between good and bad killing practices – for example as ‘natural’ versus
+      ‘industrial’ practices – that is normatively decided once and for all. Rather, the perspec-
+      tive of ecodependence puts forward the necessity of deciding in historically specific
+      relations without self-certainty which practices of killing might be appropriate, and
+      which practices merely produce beings as killable. This is important in order to avoid
+      generalized devaluations of other eating and killing practices, which are often racialized
+                                                             
+                                                             
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+       Hoppe                                          35     
+                                                             
+       or coded according to class relations – nurturing has quite different expressions and con-
+       sequences (see Haraway, 2008: 295–396).7              
+        Whereas dogmatic veganism or vegetarianism works from a self-certainty on what is
+       nurturing and what is not, crucially for the conceptualization of ecodependence, nurtur-
+       ing is neither understood to be completely harmonious nor merely mutually beneficial.
+       This perspective shifts away from human exceptionalism and imaginaries of white
+       Western self-sufficiency and foregrounds ‘that we are food and that through death we
+       nourish others’ (Plumwood, 2012: 91). Taking this shift in the ‘food/death imaginary’
+       (p. 91) seriously, ecodependence is not a passive state, but an active involvement.
+       However, even in the supposedly sovereign act of killing, the radical dependence of the
+       subject is articulated. Living well as an ecodependent subject hence involves learning
+       how to give while taking.                             
+       Politics of Affirmative Ecodependence                 
+       The close relation of living and killing that I have outlined following Haraway and
+       Derrida sheds light on a post-anthropocentric understanding of the relations between
+       biopolitics, thanatopolitics and necropolitics. Biopolitics has always been associated
+       with its supposed opposite, the politics of death. Michel Foucault’s classic definition of
+       biopolitics as the politics of disciplining the body and regulating the population, too, puts
+       forward a specific relation of life and death (Foucault, 1978: 137–40). Famously,
+       Foucault showed that power, at least from the 19th century on, operated as a power over
+       life and ‘death is power’s limit, the moment that escapes it; death becomes the most
+       secret aspect of existence, the most “private”’ (p. 138). However, the government of life
+       implies – at the very least – killing and differential dying. In his analysis of state racism,
+       for instance, Foucault asserted a positive relationship between life and death, in which
+       the assumption is made that the dying of the one has a positive effect on the life of the
+       other, or on (biological) life in general (Foucault, 2003: 255–6). For Foucault, biopolitics
+       involves killing, especially by regulating, enhancing and improving life. The exclusions
+       and manifest killings evoked by practices of improvement, however, are quite different
+       from ‘privatized’ dying. I therefore loosely follow Mbembe (2003) in understanding the
+       former set of (racist and colonialist) practices as necropolitics, in contrast to thanatopoli-
+       tics. Thanatopolitics, for Foucault, point to human death as something that mostly eludes
+       government and is no longer power’s main object. This is a rather limited perspective on
+       thanatopolitics – especially when it comes to thinking about more-than-human relations
+       – because it largely ignores the constitutive aspects in killing as an inevitable feature of
+       life.                                                 
+        The conception of living, killing, and eating in Haraway and Derrida places biopoli-
+       tics in a post-anthropocentric perspective and makes an ontological claim about the rela-
+       tions of living and killing. This accentuates the nexus of thanato- and biopolitics
+       differently, in that it analyzes the specific practices of control and regulation of human
+       life and its exclusions as necropolitics, but also and beyond that focuses on the concrete
+       bio-thanato-political involvement in the web of life of various actors and practices. This
+       is why they are also able to give this insight an affirmative and politicizing twist, despite
+       the destructive force of relations of ecodependence: By theorizing the inescapable
+                                                             
+                                                             
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+      36                              Theory, Culture & Society 43(1)
+                                                             
+      connection between living and killing, and thus the inevitable nexus of affirmative
+      biopolitics with – or as – thanatopolitics, their approach attempts to make clear that it is
+      precisely in this perspective that a more comprehensive view of a politics of life as a poli-
+      tics of affirmative ecodependence becomes possible. Acknowledging the destructiveness
+      of life means developing a greater sensitivity to intolerable forms of killing, not trivial-
+      izing killing by ontologizing it. Rather than implying a purely harmonious idea of life, it
+      also theorizes its destructive – thanatopolitical – force, which must be subject to partial
+      affirmations as well.                                  
+        This differs significantly from other approaches to affirmative biopolitics. In his elab-
+      oration of such a perspective, the Italian philosopher Esposito (2008) introduces a strict
+      juxtaposition of thanato- and biopolitics. In the context of his analysis of the paradigm of
+      immunization as the prevalent modern form of biopolitics, he states: ‘the category of
+      immunization enables us to take another step forward (or, perhaps better, laterally) to the
+      bifurcation that runs between the two principal declinations of the biopolitical paradigm:
+      one affirmative and productive and the other negative and lethal’ (Esposito, 2008: 46).
+      Esposito reconstructs the biopolitics of National Socialism as the extreme point of a
+      negative thanatopolitics in which life and community merged: subjects were reduced to
+      bodies, individual bodies were absorbed into the body of the ‘people’s community’
+      (2008: 110–45). With the end of National Socialism, however, biopolitics and its thanat-
+      opolitical form, and with it the immunitarian logic, did not disappear; rather, according
+      to Esposito, it is the task of a philosophy after Auschwitz to think about ways of detach-
+      ing biopolitics from the logic of immunization. He thus counters the politics of death,
+      thanatopolitics, with an affirmative politics of life (2008: 11). Such politics recognize the
+      irreducible complexity of life, affirm it and in this way oppose the immunitarian logic of
+      the preservation of the isolated self, which he understands as destructive. Esposito’s
+      juxtaposition of thanatopolitics and biopolitics is based on the assumption that destruc-
+      tive thanatopolitics can be countered by affirmative biopolitics. The perspective of an
+      affirmative biopolitics informed by the concept of ecodependence proposed here differs
+      from this, since it foregrounds the inevitable character of killing. However, countering
+      practices that are immunitarian in the sense that they demand homogeneity and identify-
+      ing logics, and recognizing the relative openness and vulnerability of bodies, are shared
+      intuitions in the work of Haraway, Derrida, and Esposito, though Esposito’s description
+      of thanatopolitics is closer to what I understand as necropolitics: rendering beings and
+      groups killable.8                                      
+        The point of reference of a politics of life as a politics of affirmative ecodependence
+      is life in its ambivalences, its openness and endangerment: life is vulnerable, destructive
+      and therefore always endangering itself and others. Accentuated in this way, thanatopoli-
+      tics affirms ecodependence as an ontological connection of life to heterogeneous others
+      that are not immediately present. The simultaneous consideration of thanato- and biopol-
+      itics is hence a precondition for a critique of the excessive killings and production of
+      vulnerabilities in the face of ecological crises, especially when the more-than-human is
+      considered. Nevertheless, this does not mean that the killing of humans is trivialized as
+      an ontological fate or that the killing of animals and of humans are equated with each
+      other. The inevitability of killing in the world makes other and further challenges for
+      political and ethical action more visible than a Foucauldian perspective on biopolitics,
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+       Hoppe                                          37     
+                                                             
+       but can – and this is central – make distinctions. Killing itself is ontologized in terms of
+       ecodependence in order to criticize practices whereby humans, groups of humans, and
+       groups of other living beings or even entire species are rendered killable.
+        To make such distinctions, the concept of ecodependence underlines the profoundly
+       feminist thesis that the fantasy of being able to step out of killing is just as much a denial
+       of physical and social dependencies as the assumption of a realm of freedom beyond that
+       of necessity. From an ecofeminist perspective, such denial is understood to cause extreme
+       harm:                                                 
+        I suggest that what follows from the feminist insight that embraced historically situated,
+        mindful bodies as the site of not just first (maternal) birth but also of full life and all its projects,
+        failed and achieved, is that human beings must learn to kill responsibly. (Haraway, 2008: 81)
+        With this emphasis, Haraway inscribes herself in the feminist interpretation of radical
+       relationality and the ecofeminist character of her intervention becomes clear. Just like the
+       approach of Mies and Shiva, the conceptualization of ecodependence as destructive rela-
+       tionality in which killing takes place tries to think with and through bodily and ecological
+       necessities, and even Haraway admits passionately that it is about how to love. Her
+       thinking, too, is based on an ‘unembarrassed thinking with and through the love of
+       nature’ (Wolfe and Haraway, 2016: 265). As I have shown, however, this version of a
+       ‘love of nature’ recognizes the destructive character of life.
+        If killing is understood as an ontological constant in ecodependency relations, a nor-
+       mative category must be added to further conceptualize the direction of a politics of
+       affirmative ecodependence, which is Haraway’s proposal that we refrain from rendering
+       beings killable. Such practices of rendering human and non-human beings killable most
+       often include a reduction to the reactive. While ‘full’ actors are able to respond to the
+       other, killable actors are merely able to react:      
+        Every living being except Man can be killed but not murdered. To make Man merely killable is
+        the height of moral outrage; indeed, it is the definition of genocide. Reaction is for and toward
+        the unfree; response is for and toward the open. Everything but Man lives in the realm of reaction
+        and so calculation; so much animal pain, so much human good, add it up, kill so many animals,
+        call it sacrifice. Do the same for people, and they lose their humanity. (Haraway, 2008: 78)
+        In the denial of the capacity to respond and the categorization of ‘animals’ in the
+       realm of reaction, the animal is produced as animal and it is in many cases produced as
+       killable (Derrida, 2002: 377; Mehrabi, 2016: 149–61). Wherever entire groups of more-
+       than-human entities, entire species, or their livelihoods, are rendered killable (often in
+       the name of ‘sacrifice’), thanatopolitics encompassing destructive and nurturing rela-
+       tions becomes ‘necropolitics’ (Mbembe, 2003) that instrumentalize human (and more-
+       than-human) existence to strategically generate value, to sovereignly appropriate
+       bodies, or to destroy them materially. Mechanisms of animalization and dehumaniza-
+       tion that reduce living beings (including humans) to mere reaction play a crucial role in
+       necropolitical practices, as postcolonial theorists have shown (Deckha, 2012; Said,
+       2003: 108–9). In her analysis of totalitarian domination, Hannah Arendt analyzes such
+       methods as methods of totalitarianism precisely because these regimes reduce every
+                                                             
+                                                             
+                                                             
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+      38                              Theory, Culture & Society 43(1)
+                                                             
+      person ‘to a never-changing identity of reactions, so that each of these bundles of reac-
+      tions can be exchanged at random for any other’ (Arendt, 1958: 438). Pluralism and
+      liveliness are eradicated in such practices and, crucially, ecodependence is neglected,
+      because the other is not seen as nurturing, or even as ‘useful’ at all.
+        Haraway’s late works have been accused of being depoliticizing and of lacking a
+      sensitivity for capitalist and technological shifts after the turn of the millennium
+      (Gardey, 2014; Hayles, 2006). In particular, the slogan ‘Make kin, not babies’ (Haraway,
+      2016: 103) has been subject to heated debate (Battistoni, 2017; Lewis, 2017). Invoking
+      the population problem as an issue that suggests countability of isolated subjects and
+      entities and moreover recalls a discourse deeply entangled with racist practices of popu-
+      lation control does indeed run counter to Haraway’s thinking (Murphy, 2017: 137–41).
+      Haraway’s approach to (human) population growth demonstrates that she does not deal
+      comprehensively with the implications of ecodependence, because she overemphasizes
+      the ontological dimension of more-than-human relationality while largely ignoring the
+      specificities of its interwovenness with the structural dimension. While the ontological
+      dimension of thanatopolitical being-in-the-world is projected onto ‘too many people’,
+      especially in the Global North, the global conditions of exploitation and overproduction
+      – the structural dimensions of ecodependence – remain underexplored here.
+        In response to the criticism of her slogan, Haraway introduced the distinction between
+      ‘The Born Ones’ and ‘The Disappeared’, which theorizes the unequal distribution of life
+      chances as well as mere chances of survival in contemporary biocapitalism:
+        The Born Ones include the almost unimaginable [. . .] multi-billions of human beings, industrial
+        food animals, and companion pets enterprised-up to bloated consumer status. The Disappeared
+        include human resisters to criminal nation states, the imprisoned, missing generations of the
+        Indigenous and other oppressed people and peoples, unruly women, trafficked child and adult
+        sexual and other workers, Black and Brown young people, disposable young people of every
+        race or ethnicity, migrants, refugees and displaced people, stateless people, human beings
+        subject to ethnic cleansing and genocide, and already 50% of all vertebrate wildlife that were
+        living on earth’s lands and oceans less than 50 years ago, plus 76% of fresh water species.
+        (Haraway, 2018: 73)                                  
+        Belonging to the group of ‘The Disappeared’ means living outside of capitalist, neo-
+      colonial utility and hence being exposed to killability, whereas ‘The Born Ones’ fuel
+      consumer culture and are heavily involved in (necro- and thanatopolitical) killing prac-
+      tices. However, none of these groups are outside killing, and clearly, the involvement of
+      ‘The Born Ones’ has to be taken into account rigorously and must be the linchpin of
+      criticism. In this regard, it is particularly important to consider the structural facet of
+      ecodependence, which I explained at the beginning of this article following Mies and
+      other social ecofeminists. Although the ontological dimension of ecodependence
+      emphasizes the constitutive and inevitably destructive quality of more-than-human
+      relationality, this dimension is not decoupled from the structural dimension. A critical
+      analysis of the necropolitical production of killability must be linked back to the mecha-
+      nisms of contemporary biocapitalism and neocolonial structures, and take global ine-
+      qualities into account.                                
+                                                             
+                                                             
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+       Hoppe                                          39     
+                                                             
+        A thinking with and through the ‘love of nature’, then, must consider ecodepend-
+       ence in its always also destructive ontological and structural dimensions. The invoca-
+       tion of a position in which the negative, endangering aspects of life are omitted is
+       problematic for a perspective that takes ecodependence seriously. It would install a
+       discursive strategy of innocence and unworldliness that obscures accountability and
+       consequences. By theorizing the inescapable connection between living and killing,
+       the approach of ecodependence attempts to make clear that forms of affirming more-
+       than-human involvement are conceivable that do not simply romanticize relationality.
+       These take a comprehensive view of ecodependence, including its thanatopolitical
+       approach to life: ‘I think we need pro-ongoingness in our mortality, not pro-Life’
+       (Wolfe and Haraway, 2016: 236). The concept of ‘ongoingness’ encompasses killing,
+       but rejects necropolitics. Affirmative thanatopolitics as a politics of affirmative ecode-
+       pendence emphasizes the necessity of spaces for negotiation and for conflicts about
+       how and in what form the world – in its destructiveness – should be shaped. The point
+       of reference is not the sovereign subject or a freedom from necessity but life in its
+       ambivalences, with its openness and endangerment: in its constitutive dependencies on
+       human and more-than-human others.                     
+       Conclusion: Affirming Ecodependence                   
+       Turning to ongoingness by taking account of ecodependence in its destructiveness may
+       make a modest impression, not very spectacular, not very radical. In view of contem-
+       porary ecological and political disasters, it does not seem like much. However, if the
+       ‘love of nature’ is to be a motor of change and criticism and not merely a private pleas-
+       ure or a romanticization, the radical character of this modesty must be recognized and
+       lived. Affirming ecodependence may open up a path of thinking relationally in a lov-
+       ing, but not romanticizing way, because it means affirming and politicizing necessity
+       and needs. The feminist insight that dependence on nature, reproduction, bodies, and
+       others has to be taken seriously translates into an ecofeminist account that is open
+       toward the thanatopolitical dimension of life as a crucial aspect of ecodependence. In
+       order to analyze and criticize the mechanisms rendering groups of people, forests,
+       animals, species, plants, and landscapes killable, the classical ecofeminist account of
+       the international division of labor with all its consequences should not be omitted. The
+       structural and ontological aspects of ecodependence have to be analyzed in their co-
+       evolving dynamics.                                    
+        In regard to the current ecological crises, the distinction between thanato- and nec-
+       ropolitical practices is of particular heuristic value. Take the agricultural cultivation of
+       soya and the associated deforestation in the Amazon. Careful analysis would not dismiss
+       the cultivation of soya on an industrial scale altogether, but focus on differences between
+       thanato- and necropolitical practices in this context. Importantly, the production of soya
+       as killable has to be examined carefully. Is this put into work to fight world hunger or to
+       raise cattle that are in turn born as killable and consume up to 90% of this soya? Killing
+       has to be considered judiciously with an eye for necessities and complicities. The con-
+       cept of ecodependence as it is outlined here allows for rigorous critical analysis of such
+       settings of more-than-human relationality in all its exploitative, destructive, as well as
+                                                             
+                                                             
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+      40                              Theory, Culture & Society 43(1)
+                                                             
+      life-sustaining qualities. It is rigorous in its analytical foresight, and it rigorously con-
+      fronts our own involvement with killing. Hence – and again clearly rooted in a feminist
+      tradition – it is about complicity that is never completely unavoidable. It asks exactly
+      which killings ‘we’ want to afford and how to build ‘better’ constitutively destructive
+      ecodependencies that do not collapse into necropolitics. Necessity, according to this
+      framework, is not the end or counterpart of politics, but the beginning of shaping more
+      livable worlds.                                        
+      ORCID iD                                               
+      Katharina Hoppe https://orcid.org/0000-0002-0303-8624  
+                                                             
+      Notes                                                  
+      1. This affirmative gesture towards (ecological) relations is also present in discussions about
+        more-than-human relationality in new materialism, in particular. Here, too, positions can be
+        found that recognize a positive ethical value in relationality as such or see positive ethical and
+        political effects in the mere recognition of interdependence (see e.g. Bennett, 2010: 121–2;
+        Benson, 2019: 252–3; Braidotti, 2013: 49–50). The emphasis on relationality is one important
+        point of connection that shows the affinity between ecofeminisms and new materialisms. For
+        a more extensive discussion of the two theoretical strands, see Casselot (2016) and Stevens
+        et al. (2017: 10–13).                                
+      2. In the literature on ecofeminism, a distinction between social (sometimes ‘socialist’) and
+        cultural ecofeminism has become common to distinguish spiritualist and difference-feminist
+        oriented approaches such as those of Susan Griffin and Starhawk from socialist and structur-
+        ally-oriented approaches such as those of Carolyn Merchant and Val Plumwood. For an exten-
+        sive discussion of the history of the field and the many strands of ecofeminism which cannot
+        all be easily assigned to one camp see, for example, Carlassare (2000) and Gaard (2011).
+      3. It is crucial to note that Mies and the Bielefeld School belong to a strand of thought that is
+        closer to difference-feminism, which is why they were criticized by queer-feminist interven-
+        tions of the 1990s. However, the notion of housewifization is not limited to the analysis of
+        women’s labor, but can also be extended to the labor of many non-binary and Trans positions,
+        as well as to people of other genders.               
+      4. Which is not to say that critical ecofeminism should not be informed by indigenous studies.
+        Quite the reverse: it is important to refer to these works without appropriating or romanticiz-
+        ing them from the outside, and crucial in indigenous studies on ecological issues (see e.g. De
+        la Cadena, 2015; Sempértegui, 2021).                 
+      5. Mies in turn vehemently criticized the cyborg as a feminist figure as a postmodern gimmick
+        encouraging the fragmentation and commodification of the female body (see Mies and Shiva,
+        1995: 32). Early on, Alaimo (1994) advocated a critical alliance between ecofeminism and
+        cyborg feminism – the concept of ecodependence put forward here also seeks to tie both
+        strands of discourse together.                       
+      6. In French, the double – ontological and ethical – dimension of this thought comes to the fore
+        more clearly, as the translator notes: ‘The phrase in play here, “Il faut bien manger” [. . .],
+        can be read in at least two ways: “one must eat well” or “everyone has to eat”’ (Derrida, 1995:
+        475).                                                
+      7. For a critical perspective on Haraway in this regard see Adams (2006), and for a discussion of
+        Derrida’s position concerning the question of meat eating see Oliver (2019).
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+       Hoppe                                          41     
+                                                             
+       8. Giorgio Agamben understands biopolitics even more radically as thanatopolitics and, as
+         is well known, deals primarily with the extermination policies of National Socialism (see
+         Agamben, 1998). Following my argument made here, these practices, too, would belong to
+         the realm of necropolitics. Haraway and Derrida’s perspective of differential killing by no
+         means excludes these necropolitical processes as Agamben describes them. Rather, the aim is
+         to adopt a perspective that is capable of distinguishing between different practices of killing
+         and then criticizing them appropriately. The scope of such a critique is expanded to include
+         non-human entities and environments.                
+       References                                            
+       Adams, Carol J. (2006) An animal manifesto: Gender, identity, and vegan-feminism in the twenty-
+         first century. Interviewed by Tom Tyler. Parallax 12(1): 120–128.
+       Adams, Carol J. (2015) The Sexual Politics of Meat: A Feminist-Vegetarian Critical Theory. New
+         York, NY, London: Bloomsbury.                       
+       Agamben, Giorgio (1998) Homo Sacer: Sovereign Power and Bare Life. Stanford, CA: Stanford
+         University Press.                                   
+       Alaimo, Stacy (1994) Cyborg and ecofeminist interventions: Challenges for an environmental
+         feminism. Feminist Studies 20(1): 133–152.          
+       Arendt, Hannah (1958) The Origins of Totalitarianism. San Diego, CA: Harcourt Brace &
+         Company.                                            
+       Barad, Karen (2012) Nature’s queer performativity. Kvinder, Køn & Forskning/Women, Gender
+         and Research 1–2: 25–53.                            
+       Battistoni, Alyssa (2017) Monstrous, duplicated, potent. On Donna Haraway. n+1, 28. Available
+         at: https://www.nplusonemag.com/issue-28/reviews/monstrous-duplicated-potent/ (accessed
+         21 July 2025).                                      
+       Bennett, Jane (2010) Vibrant Matter: A Political Ecology of Things. Durham, NC: Duke University
+         Press.                                              
+       Benson, Melinda H. (2019) New materialism: An ontology for the Anthropocene. Natural
+         Resources Journal 59(2): 251–280.                   
+       Braidotti, Rosi (2013) The Posthuman. Cambridge: Polity Press.
+       Carlassare, Elizabeth (2000) Socialist and cultural ecofeminism: Allies in resistance. Ethics and
+         the Environment 5(1): 89–106.                       
+       Casselot, Marie-Anne (2016) Ecofeminist echoes in new materialism? PhaenEx. Journal of
+         Existential and Phenomenological Theory and Critique 11(1): 73–96.
+       Deckha, Maneesha (2012) Toward a postcolonial, posthumanist feminist theory: Centralizing race
+         and culture in feminist work on nonhuman animals. Hypatia 27(3): 527–545.
+       De la Cadena, Marisol (2015) Earth Beings: Ecologies of Practice across Andean Worlds. Durham,
+         NC: Duke University Press.                          
+       Derrida, Jacques (1995) ‘Eating well’, or the calculation of the subject. In: Derrida, Jacques (ed.)
+         Points . . . Interviews, 1974–1994. Stanford, CA: Stanford University Press, pp. 255–287.
+       Derrida, Jacques (2002) The animal that therefore I am (more to follow). Critical Inquiry 28(2):
+         369–418.                                            
+       Diamond, Irene and Orenstein, Gloria Feman (eds) (1990) Reweaving the World: The Emergence
+         of Ecofeminism. San Francisco, CA: Sierra Club Books.
+       Dolphijn, Rick and van der Tuin, Iris (eds) (2012) New Materialism: Interviews & Cartographies.
+         Ann Arbor, MI: Open Humanities Press.               
+       Dwyer, June (2007) A non-companion species manifesto: Humans, wild animals, and ‘the pain of
+         anthropomorphism’. South Atlantic Review 72(3): 73–89.
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+      42                              Theory, Culture & Society 43(1)
+                                                             
+      Escobar, Arturo, Osterweil, Michal and Sharma, Kriti (2024) Relationality: An Emergent Politics
+        of Life beyond the Human. London: Bloomsbury.        
+      Esposito, Roberto (2008) Bios: Biopolitics and Philosophy. Minneapolis, MN: University of
+        Minnesota Press.                                     
+      Foster, Emma (2021) Ecofeminism revisited: Critical insights on contemporary environmental
+        governance. Feminist Theory 22(2): 190–205.          
+      Foucault, Michel (1978) The History of Sexuality. Volume I: An Introduction. New York, NY:
+        Pantheon Books.                                      
+      Foucault, Michel (2003) Society Must Be Defended: Lectures at the Collège de France, 1975–
+        1976. New York, NY: Picador.                         
+      Gaard, Greta (2011) Ecofeminism revisited: Rejecting essentialism and re-placing species in a
+        material feminist environmentalism. Feminist Formations 23(2): 26–53.
+      Gardey, Delphie (2014) The reading of an œuvre: Donna Haraway: the poetics and politics of life.
+        Feministische Studien 14(1): 86–100.                 
+      Haraway, Donna (1991) A cyborg manifesto: Science, technology, and socialist-feminism in the
+        late twentieth century. In: Haraway, Donna, Simians, Cyborgs, and Women: The Reinvention
+        of Nature: London: Free Association Books, pp. 149–181.
+      Haraway, Donna (2003) The Companion Species Manifesto: Dogs, People, and Significant
+        Otherness. Chicago, IL: Prickly Paradigm Press.      
+      Haraway, Donna (2008) When Species Meet. Minneapolis, MN: University of Minnesota Press.
+      Haraway, Donna (2016) Staying with the Trouble: Making Kin in the Chthulucene. Durham, NC:
+        Duke University Press.                               
+      Haraway, Donna (2018) Making kin in the Chthulucene: Reproducing multispecies justice. In:
+        Clarke, Adele and Haraway, Donna (eds) Making Kin Not Population. Chicago, IL: Prickly
+        Paradigm Press, pp. 67–99.                           
+      Haraway, Donna and Franklin, Sarah (2017) Staying with the manifesto: An interview with Donna
+        Haraway. Theory, Culture & Society 34(4): 49–63.     
+      Hayles, N. Katherine (2006) Unfinished work: From cyborg to cognisphere. Theory, Culture &
+        Society 23(7–8): 159–166.                            
+      Herrero, Yayo (2013) Miradas ecofeministas para transitar a un mundo justo y sostenible. Revista
+        de Economía Crítica 16: 278–307.                     
+      Hörl, Erich (2017) Introduction to general ecology. The ecologization of thinking. In: Hörl,
+        Erich and Burton, James (eds) General Ecology: The New Ecological Paradigm: London:
+        Bloomsbury, pp. 1–73.                                
+      Irni, Kuura (2023) Fostering feminist politics of veganism: On ‘the political’ in Donna Haraway’s
+        approach to food, eating and animals. Redescriptions. Political Thought, Conceptual History
+        and Feminist Theory 26(19): 4–20.                    
+      Kirksey, Eben and Helmreich, Stefan (2010) The emergence of multispecies ethnography. Cultural
+        Anthropology 25(4): 545–576.                         
+      Latimer, Joanna and Miele, Mara (2013) Naturecultures? Science, affect and the non-human.
+        Theory, Culture & Society 30(7–8): 5–31.             
+      Lejano, Raul P. (2019) Relationality and social–ecological systems: Going beyond or behind sus-
+        tainability and resilience. Sustainability 11(10): 2760.
+      Lewis, Sophie (2017) Chthulu plays no role for me. Viewpoint Magazine. Available at: https://
+        viewpointmag.com/2017/05/08/cthulhu-plays-no-role-for-me/ (accessed 21 July 2025).
+      Llaguno, Tatiana (2023) Alienated dependence: The unfreedom of our social relations. Journal of
+        Social Philosophy 56: 185–201.                       
+      Mbembe, Achille (2003) Necropolitics. Public Culture 15(1): 11–40.
+      Mehrabi, Tara (2016) Making Death Matter: A Feminist Technoscience Study of Alzheimer’s
+        Sciences in the Laboratory. Linköping: TEMA (Department of Thematic Studies).
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+       Hoppe                                          43     
+                                                             
+       Mies, Maria (1982) The Lace Makers of Narsapur: Indian Housewives Produce for the World
+         Market. London: Zed Books.                          
+       Mies, Maria (1986) Patriarchy and Accumulation on a World Scale: Women in the International
+         Division of Labor. London: Zed Books.               
+       Mies, Maria (1993a) New reproductive technologies: Sexist and racist implications. In: Mies,
+         Maria and Shiva, Vandana (eds) Ecofeminism. London: Zed Books, pp. 174–197.
+       Mies, Maria (1993b) The need for a new vision: The subsistence perspective. In: Mies, Maria, and
+         Shiva, Vandana (eds) Ecofeminism. London: Zed Books, pp. 297–324.
+       Mies, Maria and Shiva, Vandana (1993) Introduction: Why we wrote this book together. In: Mies,
+         Maria, and Shiva, Vandana (eds) Ecofeminism: London: Zed Books, pp. 1–21.
+       Mies, Maria and Shiva, Vandana (1995) Einleitung: Warum wir dieses Buch zusammen geschrie-
+         ben haben. In: Mies, Maria and Shiva, Vandana (eds) Ökofeminismus: Beiträge zur Praxis
+         und Theorie. Zürich: Rotpunkt Verlag, pp. 7–35.     
+       Moore, Jason W. (2015) Capitalism in the Web of Life: Ecology and the Accumulation of Capital.
+         London: Verso.                                      
+       Murphy, Michelle (2017) The Economization of Life. Durham, NC: Duke University Press.
+       Noske, Barbara (1989) Humans and Other Animals: Beyond the Boundaries of Anthropology.
+         London: Pluto Press.                                
+       Oliver, Kelly (2019) Derrida and eating. In: Kaplan, David M. (ed.) Encyclopedia of Food and
+         Agricultural Ethics. Dordrecht: Springer Netherlands, pp. 574–579.
+       Plumwood, Val (2012) The Eye of the Crocodile. Canberra: ANU E Press.
+       Puig de la Bellacasa, María (2017) Matters of Care: Speculative Ethics in More than Human
+         Worlds. Minneapolis, MN: University of Minnesota Press.
+       Said, Edward (2003) Orientalism. London: Penguin Books.
+       Sempértegui, Andrea (2021) Indigenous women’s activism, ecofeminism, and extractivism: Partial
+         connections in the Ecuadorian Amazon. Politics and Gender 17(1): 197–224.
+       Shiva, Vandana (1993) Homeless in the ‘global village’. In: Mies, Maria and Shiva, Vandana (eds)
+         Ecofeminism: London: Zed Books, pp. 98–107.         
+       Shotwell, Alexis (2016) Against Purity: Living Ethically in Compromised Times. Minneapolis,
+         MN: University of Minnesota Press.                  
+       Stevens, Lara, Tait, Peta and Varney, Denise (2017) Introduction: ‘Street fighters and phi-
+         losophers’: Traversing ecofeminisms. In: Stevens, Lara, Tait, Peta and Varney, Denise
+         (eds) Feminist Ecologies: Changing Environments in the Anthropocene: Cham: Springer
+         International Publishing, pp. 1–22.                 
+       Sturgeon, Noël (1997) Ecofeminist Natures: Race, Gender, Feminist Theory, and Political Action.
+         New York, NY: Routledge.                            
+       Thompson, Charis (2006) Back to nature? Resurrecting ecofeminism after poststructuralist and
+         third-wave feminisms. Isis 97(3): 505–512.          
+       Tsing, Anna L. (2012) Unruly edges: Mushrooms as companion species. Environmental
+         Humanities 1: 141–154.                              
+       Whatmore, Sarah (2002) Hybrid Geographies: Natures, Cultures, Spaces. London: Sage.
+       Wolfe, Cary and Haraway, Donna (2016) Companions in conversation. In: Wolfe, Cary and
+         Haraway, Donna (eds) Manifestly Haraway. Minneapolis, MN: University of Minnesota Press,
+         pp. 199–296.                                        
+       Katharina Hoppe is a research associate at the Institute of Sociology at Goethe-University
+       Frankfurt, Germany. Her research and teaching focuses on sociological, feminist and critical theo-
+       ries as well as the sociology of science and nature relations.
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+    Learning            Resources                            
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+     A complete  suite. For supercharging research.          
+                                                             
+     Supporting  student success. And  creating impact.      
+                                                             
+                                                             
+     At Sage, we offer seamless experiences across all of our digital
+     resources, from books, cases, videos, and data to full online courses.
+     We pride ourselves on the quality of our content – in fact, we
+                                                             
+     commission most of it ourselves. It’s driven by our deep understanding
+     of the theory and practice of learning, and by our vast experience
+     publishing teaching and research materials. For anyone involved in
+     research, we have the only tool dedicated to social science research
+     skills training. And for anyone studying business, we publish a resource
+     collection with a contemporary global perspective.      
+                                                             
+                                                             
+                                                             
+                                                             
+     Powered by Data Planet                                  
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                              sagelearningresources.com      
+                                                             

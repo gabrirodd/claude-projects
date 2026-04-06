@@ -1,0 +1,1252 @@
+[PAGE 1]
+ 1203185                                                     
+ research-article2023 TCS0010.1177/02632764231203185Theory, Culture & Society Davison-Vecchione and Seeger
+                                                             
+                                                             
+       Global Public Life                                    
+                                             Theory, Culture & Society
+                                            2023, Vol. 40(7-8) 119 –140
+       Ursula   Le Guin’s                                    
+                                              © The Author(s) 2023
+       Speculative                                           
+                                              Article reuse guidelines:
+                                          sagepub.com/journals-permissions
+       Anthropology:     Thick                               
+                                        httpDs:O//dIo: i1.o0r.g1/1107.711/0727/60322673267462412110105511778800
+                                           journals.sagepub.com/home/tcs
+       Description,   Historicity                            
+       and  Science   Fiction                                
+       Daniel Davison-Vecchione                              
+       Universityof Cambridge                                
+       Sean Seeger                                           
+       Universityof Essex                                    
+                                                             
+                                                             
+       Abstract                                              
+       This article argues that Ursula Le Guin’s science fiction is a form of ‘speculative
+       anthropology’ that reconciles thick description and historicity. Like Clifford
+       Geertz’s ethnographic writings, Le Guin’s science fiction utilises thick description
+       to place the reader within unfamiliar social worlds rendered with extraordinary
+       phenomenological fluency. At the same time, by incorporating social antagonisms,
+       culturalcontestation,andhistoricalcontingency,LeGuinneverallowsthickdescrip-
+       tiontoneutralisehistoricity.Rather,bycombiningthetwoandexploringtheirinter-
+       play, Le Guin establishes a critical relation between her imagined worlds and the
+       reader’sownhistoricalmoment.ThisenableshertobothcounterFredricJameson’s
+       influential criticism of her work – the charge of ‘world reduction’ – and point to
+       ungrasped utopian possibilities within the present. Le Guin’s speculative anthropol-
+       ogy thus combines the strengths while overcoming some of the limitations of both
+       Geertz’sthick-descriptivemethodandJameson’stheoryofthesciencefictiongenre.
+       Keywords                                              
+       anthropology,CliffordGeertz,FredricJameson,UrsulaLeGuin,sciencefiction,thick
+       description, utopia                                   
+                                                             
+                                                             
+       Introduction                                          
+       The intersection of science fiction studies with other areas of academic
+       enquiry has proven a fertile one in recent years. Scholarship of this kind
+       includes work on the relationship between science fiction and cultural
+                                                             
+                                                             
+       Correspondingauthor:DanielDavison-Vecchione.Email:dd502@cam.ac.uk
+       TCSOnlineForum:https://www.theoryculturesociety.org/  
+
+[PAGE 2]
+                                                             
+                                                             
+      2                               Theory, Culture & Society 0(0) Davison-Vecchione and Seeger                  3
+      120                            Theory, Culture & Society 40(7-8)
+                                                             
+      studies (Milner, 2010), economics (Davies, 2018), sociology (Seeger and (Kroeber, 1979). He also worked closely with Ishi, the last known
+      Davison-Vecchione, 2019), and intellectual history (Bell, 2020). member of the Yahi people, of whom Theodora subsequently wrote an
+      Anthropologists have likewise shown interest in science fiction. In acclaimed biography, Ishi in Two Worlds, published in 1961 (Kroeber,
+      2018, the Society for Cultural Anthropology commissioned a blog 2002). The influence of her parents’ involvement with anthropology on
+      series on the theme of speculative anthropologies (Anderson et al., Le Guin’s upbringing, education, and intellectual development was
+      2018). These intriguing suggestions by scholars from across the huma- therefore profound.
+      nities and social sciences point to some of the many potential resonances As a way into the following discussion of Le Guin’s speculative
+      between science fiction and the discipline of anthropology. Developing anthropology, and in order to motivate the questions that we pursue
+      these ideas, Matthew Wolf-Meyer has authored a short monograph on throughout it, it is instructive to consider an influential critique of Le
+      anthropology and speculative fiction, drawing on a range of science fic- Guin’s work put forward by Fredric Jameson in his essay ‘World
+      tion literature and film (Wolf-Meyer, 2019). Wolf-Meyer’s contention is Reduction in Le Guin’. The core of Jameson’s criticism is that in her
+      thatinsistingonasharpdistinctionbetweensocialtheoryandspeculative major science fiction novels Le Guin is engaged in thought experiments
+      fiction misrepresents and downplays the speculative nature of knowledge which involve a drastic simplification of human life as we know it. These
+      claims in the social sciences (2019: 6). Wolf-Meyer also draws attention involve, Jameson claims, a ‘surgical excision of empirical reality, some-
+      to their shared focus: as he observes, ‘the questions anthropologists, thinglikeaprocessofontological attenuationinwhichthesheerteeming
+      sociologists, and psychologists have been pursuing since the nineteenth multiplicity of what exists, of what we call reality, is deliberately thinned
+      century have also been motivating speculative fiction writers, from Mary and weeded out through an operation of radical abstraction and simpli-
+      Shelley, Jules Verne, and H.G. Wells, to our contemporaries’ (2019: 5). fication which I will henceforth term world reduction’ (Jameson, 2005c:
+      As this rollcall of authors indicates, comparisons between the social sci- 271). In the case of The Left Hand of Darkness, Jameson sees the depic-
+      ences and the science fiction genre, as a subset of speculative fiction, are tion of the inhabitants of the planet Gethen, on which the novel is set, as
+      highly promising. Such comparisons allow anthropology to build on the anattempttostripawaymanyofthefeaturesandhistoricaltraceswhich
+      ‘literary turn’ it took in the 1980s and 1990s, when scholars like James constitute present-day humanity, so as to be left with an ‘essential’
+      Clifford and George Marcus (1986) brought techniques associated with human nature – something that Jameson, as a thoroughgoing historicist,
+      literary fiction to bear on anthropological writing. One major science is committed to rejecting (2005c: 269). Jameson also voices reservations
+      fiction author conspicuously absent from Wolf-Meyer’s study is Ursula about the novel’s ostensibly radical gender politics. The Left Hand of
+      Le Guin, a writer whose work clearly exhibits anthropological influences Darkness is concerned with a race of ambisexual beings, the
+      and, the present article shall argue, itself merits consideration as a form Gethenians, who spend most of their lives in an androgynous state,
+      of ‘speculative anthropology’.                                only becoming male or female for a few days each month during a sexu-
+        It is no surprise that Le Guin’s work should be influenced by anthro- ally active period known as ‘kemmer’. Whereas commentators on the
+      pology.1LeGuin’smother,TheodoraKroeber,pursuedgraduatestudies novel have tended to focus on the nature of the Gethenians themselves,
+      in anthropology, participated in an archaeological dig in Peru’s Nazca Jameson shifts the focus to the text’s political unconscious. What Le
+      Valley, co-authored a journal article on methodologies in cultural Guin’s novel tries to repress is, according to Jameson, conflicting
+      anthropology (Clements, Schenck, and Brown, 1926), published a collec- human desires and hence historical conflict, which ‘admits of no
+      tion of retellings of California Native American legends in 1959 [merely fictional] ‘‘solution’’’ (Jameson, 2005c: 274). In effect, the fic-
+      (Kroeber, 2005), and later married the anthropologist Alfred Louis tional device of kemmer short-circuits political conflict around gender
+      (A.L.) Kroeber, one of the most influential American cultural anthro- byinventingaworldinwhichsuchconflictcanneverarise.Thiscriticism
+      pologists of the first half of the 20th century. After Alfred received his is followed by an analogous criticism levelled at Le Guin’s slightly later
+      PhDinanthropologyfromColumbiaUniversityin1901,wherehisthesis  work, The Dispossessed.
+      was supervised by Franz Boas, he went on to become Professor of The Dispossessed focuses on the relationship between two neighbour-
+      Anthropology at the University of California, Berkeley, where he ing worlds, Anarres and Urras, the former of which is organised along
+      taught until his retirement. As well as forging personal ties with a anarcho-syndicalist lines, while the latter features a patriarchal capitalist
+      number of Native Americans in the Napa Valley area, Alfred was the society with obvious parallels to 20th-century America. Regarding the
+      author of the Handbook of the Indians of California, a major 1925 study novel’s attempt to think beyond capitalism in the case of Anarres,
+      ofthedemographics,languages,socialstructures,folkways,religion,and Jameson identifies similar limitations to those he finds in The Left
+      material culture of the principal Native American tribes of California Hand of Darkness: in order to describe a liberated society, Le Guin is
+
+[PAGE 3]
+                                                             
+                                                             
+2 Theory, Culture & Society 0(0) Davison-Vecchione and Seeger 3
+       Davison-Vecchione and Seeger                  121     
+                                                             
+studies (Milner, 2010), economics (Davies, 2018), sociology (Seeger and (Kroeber, 1979). He also worked closely with Ishi, the last known
+Davison-Vecchione, 2019), and intellectual history (Bell, 2020). member of the Yahi people, of whom Theodora subsequently wrote an
+Anthropologists have likewise shown interest in science fiction. In acclaimed biography, Ishi in Two Worlds, published in 1961 (Kroeber,
+2018, the Society for Cultural Anthropology commissioned a blog 2002). The influence of her parents’ involvement with anthropology on
+series on the theme of speculative anthropologies (Anderson et al., Le Guin’s upbringing, education, and intellectual development was
+2018). These intriguing suggestions by scholars from across the huma- therefore profound.
+nities and social sciences point to some of the many potential resonances As a way into the following discussion of Le Guin’s speculative
+between science fiction and the discipline of anthropology. Developing anthropology, and in order to motivate the questions that we pursue
+these ideas, Matthew Wolf-Meyer has authored a short monograph on throughout it, it is instructive to consider an influential critique of Le
+anthropology and speculative fiction, drawing on a range of science fic- Guin’s work put forward by Fredric Jameson in his essay ‘World
+tion literature and film (Wolf-Meyer, 2019). Wolf-Meyer’s contention is Reduction in Le Guin’. The core of Jameson’s criticism is that in her
+thatinsistingonasharpdistinctionbetweensocialtheoryandspeculative major science fiction novels Le Guin is engaged in thought experiments
+fiction misrepresents and downplays the speculative nature of knowledge which involve a drastic simplification of human life as we know it. These
+claims in the social sciences (2019: 6). Wolf-Meyer also draws attention involve, Jameson claims, a ‘surgical excision of empirical reality, some-
+to their shared focus: as he observes, ‘the questions anthropologists, thinglikeaprocessofontological attenuationinwhichthesheerteeming
+sociologists, and psychologists have been pursuing since the nineteenth multiplicity of what exists, of what we call reality, is deliberately thinned
+century have also been motivating speculative fiction writers, from Mary and weeded out through an operation of radical abstraction and simpli-
+Shelley, Jules Verne, and H.G. Wells, to our contemporaries’ (2019: 5). fication which I will henceforth term world reduction’ (Jameson, 2005c:
+As this rollcall of authors indicates, comparisons between the social sci- 271). In the case of The Left Hand of Darkness, Jameson sees the depic-
+ences and the science fiction genre, as a subset of speculative fiction, are tion of the inhabitants of the planet Gethen, on which the novel is set, as
+highly promising. Such comparisons allow anthropology to build on the anattempttostripawaymanyofthefeaturesandhistoricaltraceswhich
+‘literary turn’ it took in the 1980s and 1990s, when scholars like James constitute present-day humanity, so as to be left with an ‘essential’
+Clifford and George Marcus (1986) brought techniques associated with human nature – something that Jameson, as a thoroughgoing historicist,
+literary fiction to bear on anthropological writing. One major science is committed to rejecting (2005c: 269). Jameson also voices reservations
+fiction author conspicuously absent from Wolf-Meyer’s study is Ursula about the novel’s ostensibly radical gender politics. The Left Hand of
+Le Guin, a writer whose work clearly exhibits anthropological influences Darkness is concerned with a race of ambisexual beings, the
+and, the present article shall argue, itself merits consideration as a form Gethenians, who spend most of their lives in an androgynous state,
+of ‘speculative anthropology’. only becoming male or female for a few days each month during a sexu-
+It is no surprise that Le Guin’s work should be influenced by anthro- ally active period known as ‘kemmer’. Whereas commentators on the
+pology.1LeGuin’smother,TheodoraKroeber,pursuedgraduatestudies novel have tended to focus on the nature of the Gethenians themselves,
+in anthropology, participated in an archaeological dig in Peru’s Nazca Jameson shifts the focus to the text’s political unconscious. What Le
+Valley, co-authored a journal article on methodologies in cultural Guin’s novel tries to repress is, according to Jameson, conflicting
+anthropology (Clements, Schenck, and Brown, 1926), published a collec- human desires and hence historical conflict, which ‘admits of no
+tion of retellings of California Native American legends in 1959 [merely fictional] ‘‘solution’’’ (Jameson, 2005c: 274). In effect, the fic-
+(Kroeber, 2005), and later married the anthropologist Alfred Louis tional device of kemmer short-circuits political conflict around gender
+(A.L.) Kroeber, one of the most influential American cultural anthro- byinventingaworldinwhichsuchconflictcanneverarise.Thiscriticism
+pologists of the first half of the 20th century. After Alfred received his is followed by an analogous criticism levelled at Le Guin’s slightly later
+PhDinanthropologyfromColumbiaUniversityin1901,wherehisthesis work, The Dispossessed.
+was supervised by Franz Boas, he went on to become Professor of The Dispossessed focuses on the relationship between two neighbour-
+Anthropology at the University of California, Berkeley, where he ing worlds, Anarres and Urras, the former of which is organised along
+taught until his retirement. As well as forging personal ties with a anarcho-syndicalist lines, while the latter features a patriarchal capitalist
+number of Native Americans in the Napa Valley area, Alfred was the society with obvious parallels to 20th-century America. Regarding the
+author of the Handbook of the Indians of California, a major 1925 study novel’s attempt to think beyond capitalism in the case of Anarres,
+ofthedemographics,languages,socialstructures,folkways,religion,and Jameson identifies similar limitations to those he finds in The Left
+material culture of the principal Native American tribes of California Hand of Darkness: in order to describe a liberated society, Le Guin is
+
+[PAGE 4]
+                                                             
+                                                             
+      4                               Theory, Culture & Society 0(0) Davison-Vecchione and Seeger                  5
+      122                            Theory, Culture & Society 40(7-8)
+                                                             
+      forced to imagine humanity ‘released from the multiple determinisms ‘scientific phenomenology of culture’ (2017b: 389). Phenomenological
+      (economic, political, social) of history itself’ (Jameson, 2005c: 275). approaches to qualitative social science aim to understand human
+      Jameson’s criticism of the later novel’s world reduction thus parallels action via the actor’s own frames of reference, focusing on the actor’s
+      that of the earlier: ‘this attempt to rethink Western history without cap- embodied and intersubjective engagements with their world, as well as
+      italismisofapiece,structurallyandinitsgeneralspirit,withtheattempt the organised ‘stocks’ of taken-for-granted knowledge on which their
+      to imagine human biology without desire’ (Jameson, 2005c: 277). everyday activities draw. However, in explicit contrast to philosophical
+        Jameson’s readings are, then, examples of ideology critique: both phenomenologists, Geertz stresses the symbolically mediated relation
+      novels are read as trying to resolve social antagonisms in the form of between actor and situation. Geertz looks at how social actors engage
+      fantasy,therebyprofferingimaginarysolutionstorealproblems.Thereis
+                                                                    in (inter)subjectively meaningful activities within a ‘self-evident’ world
+      a case to be made, however, that Jameson’s readings neglect much of the
+                                                                    of everyday life, but sees this world, crucially, as ‘a cultural prod-
+      richness and specificity of Le Guin’s science fiction, in the process fore-
+                                                                    uct...framed in terms of the symbolic conceptions of ‘‘stubborn fact’’
+      closing its anthropological aspect as well as its utopian potential. In
+                                                                    handed down from generation to generation’ (2017c: 119).
+      order to recover this potential, a different approach is required, one
+                                                                      Arguably the most well-known of Geertz’s ethnographies to employ
+      capable of doing justice to the complex worldbuilding that is character-
+                                                                    thick description is ‘Deep Play: Notes on the Balinese Cockfight’.
+      istic of Le Guin’s fiction. As we shall see, attending to the interplay of
+                                                                    In almost cinematic style, Geertz describes being taken to one of the
+      thick description and historicity in Le Guin’s work reveals the outline of
+                                                                    many popular, but illegal, cockfights in a Balinese village in 1958
+      animplicittheoryofspeculativeanthropologythatfacilitatesexploration
+                                                                    and then fleeing from the police when they arrive to break up the gather-
+      of the relationship between anthropology and science fiction. In effect,
+                                                                    ing. The account he offers vividly renders the event such that the
+      Le Guin uses science fiction to combine the strengths – and partly over-
+                                                                    reader feels something of what it is like to ‘be there’ and analyses the
+      come the limitations – of Geertzian thick description and Jamesonian
+                                                                    experience through the layers of meaning the participants ascribe to
+      historicist formalism as approaches to analysing symbolic practices.
+                                                                    the event. In doing so, the ethnography not only relates what happened,
+                                                                    but helps the reader to see it as a symbolically laden activity. Geertz
+                                                                    interprets the cockfight as a ritual that is ‘fundamentally a dramatization
+      Clifford Geertz and Thick Description                  
+                                                                    of status concerns’ (2017a: 459). Rather than the monetary bets as
+      In his own words, Clifford Geertz sets out to demonstrate that anthro- such, the depth of Balinese cockfighting as a kind of play comes
+      pologyis‘notanexperimentalscienceinsearchoflawbutaninterpretive from ‘the migration of the Balinese status hierarchy into the body of
+      one in search of meaning’ (Geertz, 2017f: 5).2 Central to this interpretive the cockfight’ (Geertz, 2017a: 457). Drawing partly on the literary
+      anthropology is the concept of ‘thick description’, which Geertz adapts critic Northrop Frye’s account of literature as a form of socially consti-
+      from the philosopher Gilbert Ryle (1971b; 1971c). By this, Geertz means tutive meaning-making, Geertz then reaches the following extensive
+      an attempt to reconstruct the symbolic meaning that human actors conclusions:
+      ascribe to their activity within a defined cultural context. Geertz is
+      highly sensitive to the complex, superimposed, interpenetrating concep- What the cockfight says it says in a vocabulary of sentiment – the
+      tual structures that the ethnographer has the difficult task of grasping thrillofrisk,thedespairofloss,thepleasureoftriumph.Yetwhatit
+      andthen rendering discursively (Geertz, 2017f: 11).He acknowledges the
+                                                                      says is not merely that risk is exciting, loss depressing, or triumph
+      dilemma of how the anthropologist is expected ‘to sound like a pilgrim
+                                                                      gratifying, banal tautologies of affect, but that it is of these emo-
+      and a cartographer at the same time’, that is, to simultaneously convey
+                                                                      tions, thus exampled, that society is built and individuals put
+      intimate immersion in the cultural worlds they visit and keep a cool
+                                                                      together. Attending cockfights and participating in them is, for
+      distancefromthoseworlds(Geertz, 1988:10).Geertzcriticisesideational
+                                                                      the Balinese, a kind of sentimental education. What he learns
+      understandings of culture, preferring instead to conceptualise culture as
+      both socially constituted and socially constituting, and to concentrate on there is what his culture’s ethos and his private sensibility (or,
+      symbols that hold and convey meanings for the social actors who have anyway, certain aspects of them) look like when spelled out exter-
+      producedthem.Indoingso,heputsforwardaviewofanthropologythat     nally in a collective text; that the two are near enough alike to be
+      brings together finely detailed ethnography, a broadly hermeneutic articulated in the symbolics of a single such text; and – the disquiet-
+      approach to the interpretation of cultural texts, and a striking literary ing part – that the text in which this revelation is accomplished
+      sensibility.Geertzlikewiseexplicitlycallsonanthropologiststodevelopa
+
+[PAGE 5]
+                                                             
+                                                             
+4 Theory, Culture & Society 0(0) Davison-Vecchione and Seeger 5
+       Davison-Vecchione and Seeger                  123     
+                                                             
+forced to imagine humanity ‘released from the multiple determinisms ‘scientific phenomenology of culture’ (2017b: 389). Phenomenological
+(economic, political, social) of history itself’ (Jameson, 2005c: 275). approaches to qualitative social science aim to understand human
+Jameson’s criticism of the later novel’s world reduction thus parallels action via the actor’s own frames of reference, focusing on the actor’s
+that of the earlier: ‘this attempt to rethink Western history without cap- embodied and intersubjective engagements with their world, as well as
+italismisofapiece,structurallyandinitsgeneralspirit,withtheattempt the organised ‘stocks’ of taken-for-granted knowledge on which their
+to imagine human biology without desire’ (Jameson, 2005c: 277). everyday activities draw. However, in explicit contrast to philosophical
+Jameson’s readings are, then, examples of ideology critique: both phenomenologists, Geertz stresses the symbolically mediated relation
+novels are read as trying to resolve social antagonisms in the form of between actor and situation. Geertz looks at how social actors engage
+fantasy,therebyprofferingimaginarysolutionstorealproblems.Thereis
+       in (inter)subjectively meaningful activities within a ‘self-evident’ world
+a case to be made, however, that Jameson’s readings neglect much of the
+       of everyday life, but sees this world, crucially, as ‘a cultural prod-
+richness and specificity of Le Guin’s science fiction, in the process fore-
+       uct...framed in terms of the symbolic conceptions of ‘‘stubborn fact’’
+closing its anthropological aspect as well as its utopian potential. In
+       handed down from generation to generation’ (2017c: 119).
+order to recover this potential, a different approach is required, one
+         Arguably the most well-known of Geertz’s ethnographies to employ
+capable of doing justice to the complex worldbuilding that is character-
+       thick description is ‘Deep Play: Notes on the Balinese Cockfight’.
+istic of Le Guin’s fiction. As we shall see, attending to the interplay of
+       In almost cinematic style, Geertz describes being taken to one of the
+thick description and historicity in Le Guin’s work reveals the outline of
+       many popular, but illegal, cockfights in a Balinese village in 1958
+animplicittheoryofspeculativeanthropologythatfacilitatesexploration
+       and then fleeing from the police when they arrive to break up the gather-
+of the relationship between anthropology and science fiction. In effect,
+       ing. The account he offers vividly renders the event such that the
+Le Guin uses science fiction to combine the strengths – and partly over-
+       reader feels something of what it is like to ‘be there’ and analyses the
+come the limitations – of Geertzian thick description and Jamesonian
+       experience through the layers of meaning the participants ascribe to
+historicist formalism as approaches to analysing symbolic practices.
+       the event. In doing so, the ethnography not only relates what happened,
+       but helps the reader to see it as a symbolically laden activity. Geertz
+       interprets the cockfight as a ritual that is ‘fundamentally a dramatization
+Clifford Geertz and Thick Description                        
+       of status concerns’ (2017a: 459). Rather than the monetary bets as
+In his own words, Clifford Geertz sets out to demonstrate that anthro- such, the depth of Balinese cockfighting as a kind of play comes
+pologyis‘notanexperimentalscienceinsearchoflawbutaninterpretive from ‘the migration of the Balinese status hierarchy into the body of
+one in search of meaning’ (Geertz, 2017f: 5).2 Central to this interpretive the cockfight’ (Geertz, 2017a: 457). Drawing partly on the literary
+anthropology is the concept of ‘thick description’, which Geertz adapts critic Northrop Frye’s account of literature as a form of socially consti-
+from the philosopher Gilbert Ryle (1971b; 1971c). By this, Geertz means tutive meaning-making, Geertz then reaches the following extensive
+an attempt to reconstruct the symbolic meaning that human actors conclusions:
+ascribe to their activity within a defined cultural context. Geertz is
+highly sensitive to the complex, superimposed, interpenetrating concep- What the cockfight says it says in a vocabulary of sentiment – the
+tual structures that the ethnographer has the difficult task of grasping thrillofrisk,thedespairofloss,thepleasureoftriumph.Yetwhatit
+andthen rendering discursively (Geertz, 2017f: 11).He acknowledges the
+         says is not merely that risk is exciting, loss depressing, or triumph
+dilemma of how the anthropologist is expected ‘to sound like a pilgrim
+         gratifying, banal tautologies of affect, but that it is of these emo-
+and a cartographer at the same time’, that is, to simultaneously convey
+         tions, thus exampled, that society is built and individuals put
+intimate immersion in the cultural worlds they visit and keep a cool
+         together. Attending cockfights and participating in them is, for
+distancefromthoseworlds(Geertz, 1988:10).Geertzcriticisesideational
+         the Balinese, a kind of sentimental education. What he learns
+understandings of culture, preferring instead to conceptualise culture as
+both socially constituted and socially constituting, and to concentrate on there is what his culture’s ethos and his private sensibility (or,
+symbols that hold and convey meanings for the social actors who have anyway, certain aspects of them) look like when spelled out exter-
+producedthem.Indoingso,heputsforwardaviewofanthropologythat nally in a collective text; that the two are near enough alike to be
+brings together finely detailed ethnography, a broadly hermeneutic articulated in the symbolics of a single such text; and – the disquiet-
+approach to the interpretation of cultural texts, and a striking literary ing part – that the text in which this revelation is accomplished
+sensibility.Geertzlikewiseexplicitlycallsonanthropologiststodevelopa
+
+[PAGE 6]
+                                                             
+                                                             
+      6                               Theory, Culture & Society 0(0) Davison-Vecchione and Seeger                  7
+      124                            Theory, Culture & Society 40(7-8)
+                                                             
+        consists of a chicken hacking another mindlessly to bits. (Geertz, thanidealismversusmaterialism:‘Bytreatingaculturalperformanceasa
+        2017a: 471)                                                 text...one fixes it and subjects it to a synchronic gaze, bracketing the
+                                                                    question of the processes that produced it in order to work out its inter-
+      Geertz sees ‘the more profound corollary’ of his research as the insight nal logic’ (Sewell, 1997: 36–7). Although Geertz specifies the synchronic
+      that‘culturalformscanbetreatedastexts,asimaginativeworksbuiltout coherence underlying the cultural practices he examines, this analysis
+      of social materials’ (2017a: 470).                            does not usually circle back to a diachronic view of the social tensions
+        Influential and compelling as it may be, Geertz’s approach is open to or contingent historical circumstances that produced the cultural per-
+      several criticisms. To begin with, viewing ritualistic events as symbolic formance in question (Sewell, 1997: 37).
+      reflections of social structure that affirm a society’s core values neglects In summary, the strength of Geertz’s interpretive anthropology is its
+      inquiry into the process of symbolisation itself, including the partici- abilitytocapturetherichtextureofhumanactivityanditsplaceinaweb
+      pants’ contestation of how status relationships are symbolised and of cultural meaning; its weakness is its insufficient sensitivity to perspec-
+      centred (Bronner, 2005). Leo Howe argues that, by ignoring the mech- tival differences within a given culture (including those arising from
+      anics of power and confusing ‘the local idiom of power’ with its material social and political conflict), and to the macro-historical context in
+      basis,GeertzrisksmakingsocietiessuchasBaliappearmore‘other’than whichculturesaresituated.ThisisnottosaythatGeertzneveraddresses
+      warranted(Howe,1991:451).Howedemonstratesthiswithethnographic conflict or history. When Geertz does consider these, however, it comes
+      evidence of how pervasive hierarchy is in Bali, how Balinese social rela- at the price of disrupting the phenomenological continuity of his thick
+      tions become encoded in hierarchically informed ideas, and how these description.
+      ideas historically become formative presuppositions of Balinese life
+      (1991: 453).                                           
+                                                                    Thick Description in Le Guin
+        Geertz likewise at times fails to appreciate the specifically political
+      dimension of cultural change and the ways in which social and political Like Geertz, Le Guin uses thick description for the purpose of making
+      conflict affects culture. In the case of the Balinese cockfight, one can sense of the practices of societies which differ radically from the obser-
+      reasonably assume that the prohibition of such ceremonies and their ver’s (author’s or reader’s) own. In Geertz’s case, the societies under
+      interruption by the Javanese police involve political confrontations, consideration are those of real-world human groups studied by social
+      which the Balinese interpret in explicitly political terms (Peletz, 1993). scientists. In the case of Le Guin’s speculative anthropology, these are
+      WhenGeertzdoesturnhisattentiontotherelationshipbetweennational fictionalsocieties typically seenfromthe perspective ofanoutsider figure
+      politics and culture, he expressly aims to develop ‘an understanding of whoplaystheroleofersatzanthropologist.LeGuinstatesthatshechose
+      how it is that every people gets the politics it imagines’ (Geertz, 2017e: to write The Dispossessed as a novel rather than, for instance, an essay
+      335). This is somewhat unsatisfactory because it ignores how some because this allowed the story to have
+      groups pay a price for imagining something different, as well as how
+      groups differ in how much they gain from politics (Waters, 1980). As ...the inherent self-contradictions of novelistic narrative that pre-
+      Mitchell Duneier points out, in his account of the cockfight, Geertz kept vent simplistic, single-theme interpretation, the novelistic ‘thickness
+      no records of the family members’ bets or conversation, yet treated class ofdescription’(Geertz’sterm)thatresistsreductiontoabstractsand
+      distinctions as largely irrelevant to how the event is perceived, claiming binaries, the embodiment of ethical dilemma in a drama of charac-
+      that family members always root for cocks that belong to their own ter that evades allegorical interpretation, the presence of symbolic
+      familyleaders(Duneier,2011:7–8).Howmighttheaccounthavediffered  elements that are not fully accessible to rational thought. (Le Guin,
+      had we heard from Balinese witnesses themselves, especially those from
+                                                                      2005: 306)
+      subordinate classes?                                   
+        William Roseberry likewise argues that Geertz neglects key aspects of A comparable ‘thickness of description’ canbe found at work in some of
+      Balinese society, such as the context of state formation and colonialism, Le Guin’s other science fiction novels.
+      because of his insistence on seeing culture as a text, which separates it While not formally an anthropologist, the protagonist of The Left
+      from its material process of creation, as well as the larger historical pro- Hand of Darkness, Genly Ai, plays the role of participant-observer in
+      cess that shapes it and that it shapes in turn (Roseberry, 1982: 1022). an alien culture, gradually deciphering the meaning of its inhabitants’
+      Although William Sewell Jr. appreciates the force of Roseberry’s criti- practices over the course of several years. During Ai’s time on Gethen/
+      cism, he sees the issue as more one of synchrony versus diachrony rather Winter, he often struggles to interpret the opaque codes and behaviours
+
+[PAGE 7]
+                                                             
+                                                             
+6 Theory, Culture & Society 0(0) Davison-Vecchione and Seeger 7
+       Davison-Vecchione and Seeger                  125     
+                                                             
+consists of a chicken hacking another mindlessly to bits. (Geertz, thanidealismversusmaterialism:‘Bytreatingaculturalperformanceasa
+2017a: 471) text...one fixes it and subjects it to a synchronic gaze, bracketing the
+       question of the processes that produced it in order to work out its inter-
+Geertz sees ‘the more profound corollary’ of his research as the insight nal logic’ (Sewell, 1997: 36–7). Although Geertz specifies the synchronic
+that‘culturalformscanbetreatedastexts,asimaginativeworksbuiltout coherence underlying the cultural practices he examines, this analysis
+of social materials’ (2017a: 470). does not usually circle back to a diachronic view of the social tensions
+Influential and compelling as it may be, Geertz’s approach is open to or contingent historical circumstances that produced the cultural per-
+several criticisms. To begin with, viewing ritualistic events as symbolic formance in question (Sewell, 1997: 37).
+reflections of social structure that affirm a society’s core values neglects In summary, the strength of Geertz’s interpretive anthropology is its
+inquiry into the process of symbolisation itself, including the partici- abilitytocapturetherichtextureofhumanactivityanditsplaceinaweb
+pants’ contestation of how status relationships are symbolised and of cultural meaning; its weakness is its insufficient sensitivity to perspec-
+centred (Bronner, 2005). Leo Howe argues that, by ignoring the mech- tival differences within a given culture (including those arising from
+anics of power and confusing ‘the local idiom of power’ with its material social and political conflict), and to the macro-historical context in
+basis,GeertzrisksmakingsocietiessuchasBaliappearmore‘other’than whichculturesaresituated.ThisisnottosaythatGeertzneveraddresses
+warranted(Howe,1991:451).Howedemonstratesthiswithethnographic conflict or history. When Geertz does consider these, however, it comes
+evidence of how pervasive hierarchy is in Bali, how Balinese social rela- at the price of disrupting the phenomenological continuity of his thick
+tions become encoded in hierarchically informed ideas, and how these description.
+ideas historically become formative presuppositions of Balinese life
+(1991: 453).                                                 
+       Thick Description in Le Guin                          
+Geertz likewise at times fails to appreciate the specifically political
+dimension of cultural change and the ways in which social and political Like Geertz, Le Guin uses thick description for the purpose of making
+conflict affects culture. In the case of the Balinese cockfight, one can sense of the practices of societies which differ radically from the obser-
+reasonably assume that the prohibition of such ceremonies and their ver’s (author’s or reader’s) own. In Geertz’s case, the societies under
+interruption by the Javanese police involve political confrontations, consideration are those of real-world human groups studied by social
+which the Balinese interpret in explicitly political terms (Peletz, 1993). scientists. In the case of Le Guin’s speculative anthropology, these are
+WhenGeertzdoesturnhisattentiontotherelationshipbetweennational fictionalsocieties typically seenfromthe perspective ofanoutsider figure
+politics and culture, he expressly aims to develop ‘an understanding of whoplaystheroleofersatzanthropologist.LeGuinstatesthatshechose
+how it is that every people gets the politics it imagines’ (Geertz, 2017e: to write The Dispossessed as a novel rather than, for instance, an essay
+335). This is somewhat unsatisfactory because it ignores how some because this allowed the story to have
+groups pay a price for imagining something different, as well as how
+groups differ in how much they gain from politics (Waters, 1980). As ...the inherent self-contradictions of novelistic narrative that pre-
+Mitchell Duneier points out, in his account of the cockfight, Geertz kept vent simplistic, single-theme interpretation, the novelistic ‘thickness
+no records of the family members’ bets or conversation, yet treated class ofdescription’(Geertz’sterm)thatresistsreductiontoabstractsand
+distinctions as largely irrelevant to how the event is perceived, claiming binaries, the embodiment of ethical dilemma in a drama of charac-
+that family members always root for cocks that belong to their own ter that evades allegorical interpretation, the presence of symbolic
+familyleaders(Duneier,2011:7–8).Howmighttheaccounthavediffered elements that are not fully accessible to rational thought. (Le Guin,
+had we heard from Balinese witnesses themselves, especially those from
+         2005: 306)                                          
+subordinate classes?                                         
+William Roseberry likewise argues that Geertz neglects key aspects of A comparable ‘thickness of description’ canbe found at work in some of
+Balinese society, such as the context of state formation and colonialism, Le Guin’s other science fiction novels.
+because of his insistence on seeing culture as a text, which separates it While not formally an anthropologist, the protagonist of The Left
+from its material process of creation, as well as the larger historical pro- Hand of Darkness, Genly Ai, plays the role of participant-observer in
+cess that shapes it and that it shapes in turn (Roseberry, 1982: 1022). an alien culture, gradually deciphering the meaning of its inhabitants’
+Although William Sewell Jr. appreciates the force of Roseberry’s criti- practices over the course of several years. During Ai’s time on Gethen/
+cism, he sees the issue as more one of synchrony versus diachrony rather Winter, he often struggles to interpret the opaque codes and behaviours
+
+[PAGE 8]
+                                                             
+                                                             
+      8                               Theory, Culture & Society 0(0) Davison-Vecchione and Seeger                  9
+      126                            Theory, Culture & Society 40(7-8)
+                                                             
+      of those he encounters. At the root of these difficulties lies the however, by the ‘sense of falseness, of imposture’ that comes over Ai
+      Gethenians’ gender system, which Le Guin shows has ramifications for whenever he tries to see Estraven exclusively in this way. Had Le Guin
+      every aspect of their lives. The following reflections by Ai on his early endedthesentenceatthispointwithafullstop,Ai’sthoughtwouldhave
+      encounters with Estraven, a senior Gethenian politician, provide insight culminated in an uncertainty about how to define Estraven’s gender.
+      into the nature of the challenges this system presents him with: Instead, Le Guin introduces an unexpected colon, and the words that
+                                                                    follow it raise Ai’s reflections to a higher level of self-consciousness. The
+        Though I had been nearly two years on Winter I was still far from question he is left with is not simply that of why he feels a sense of
+        being able to see the people of the planet through their own eyes. falsenessinregardingEstravenaseitheramanorawomanbut,crucially,
+        I tried to, but my efforts took the form of self-consciously seeing a ofwhetherhisfamiliargendercategoriesarethemselvesthesourceofthat
+                                                                    senseoffalseness.Thefalsenesshas,wemightsay,beguntomigratefrom
+        Gethenian first as a man, then as a woman, forcing him into those
+                                                                    the ‘anomalous’ Estraven to the gender conventions Ai adheres to,
+        categories so irrelevant to his nature and so essential to my own.
+                                                                    thereby bringing about a crisis in the latter.
+        Thus as I sipped my smoking sour beer I thought that at table
+                                                                      ThequestionAiraisesinthelastsentenceisleftunanswered,atleastat
+        Estraven’s performance had been womanly, all charm and tact
+                                                                    this early point in the novel, but in raising it in this way and in exploring
+        and lack of substance, specious and adroit. Was it in fact perhaps
+                                                                    its contours in the involved, self-interrogative manner of this passage, Le
+        this soft supple femininity that I disliked and distrusted in him? For
+                                                                    Guinis abletointerpolatethereader ina verydirect wayintotheexperi-
+        it was impossible to think of him as a woman, that dark, ironic, ence undergone by a participant-observer coming to know an unfamiliar
+        powerful presence near me in the firelit darkness, and yet whenever culture.Itisnoteworthyherethat,beforecomingtoGethen,Aiwasfully
+        IthoughtofhimasamanIfeltasenseoffalseness,ofimposture:in    aware of the gender system on the planet, yet still finds it hard to adjust
+        him, or in my own attitude towards him? (Le Guin, 2017b: 11–12). to once he arrives. This contrast between Ai’s bare knowledge of that
+                                                                    system and his actual encounter with it serves as a fictional exemplifica-
+      This passage conveys a sense of the adjustments, readjustments, and re- tionofthe difference betweenthin andthickdescription: theinformation
+      readjustments that Ai finds he must make in order to comprehend his he has been furnished with prior to his visit is a long way from his lived
+      interlocutor. It is sustained partly by a tension – sometimes implicit, experience on Gethen as rendered by Le Guin via her fictional analogue
+      sometimes explicit – between Ai’s binary, patriarchal understanding of of a Geertzian thick-descriptive field report.
+      gender and the gender system he finds among the Gethenians. The self- Thick description is put to many uses by Le Guin, however, beyond
+      interrogative,self-reflexivemodeofthepassageenactsAi’srapidchanges providing a sense of the epistemological crises which fieldwork can
+      of mind and the sudden, gestalt-shift-like changes in perspective he induce in the participant-observer. In the case of The Dispossessed,
+      undergoes. The cumulative effect of the passage is a deepening turn thick description is used to provide, if anything, an even more complete
+      against the very categories in which it is couched. At first, Ai reflects, picture of an alien society’s norms and practices. The protagonist of the
+      he had viewed the typical Gethenian ‘first as a man, then as a woman’, novel, Shevek, is a physicist from the anarcho-syndicalist world of
+      before becoming aware of the insufficiency of this way of seeing, at least Anarres. Like Ai, Shevek does not have a background in anthropology,
+      in part due to the degree of self-conscious effort required to do so. yet his open-mindedness and intellectual curiosity mean he approaches
+      Another attempt to make sense of gender on Gethen involves projecting life on Urras, the planet where much of the action is set, with all the
+      onto Estraven qualities Ai associates with femininity – ‘charm and tact attentiveness and inquisitiveness of a dedicated ethnographer. The patri-
+      andlackofsubstance’–inanattempttostabilisetheapparentfluxwhich archal capitalist Urrasian state of A-Io is a society whose values and
+      confronts him. This leads Ai to a question: is it these specifically ‘femin- priorities are at first deeply puzzling to Shevek. In one early Urrasian
+      ine’ characteristics in the ‘man’ before him that he finds himself reacting encounter, Shevek reflects that, ‘this curious matter of superiority, of
+      against? But this possibility is then reframed and subtly undercut by the relative height, was important to the Urrasti; they often used the word
+      final sentence. Its opening clause (‘For it was impossible to think of him ‘‘higher’’ as a synonym for ‘‘better’’ in their writings, where an Anarresti
+      as a woman’) increases our awareness of the ambiguity of the term ‘fem- would use ‘‘more central’’ [...] It was one puzzle among hundreds’ (Le
+      inine’ in the context of Ai’s train of thought. Ai rules out the option of Guin, 1999: 16). Given that Urras is clearly modelled on contemporary
+      seeingEstravenasawomanbecauseofthelatter’s‘dark,ironic,powerful US society, the effect of such passages is to estrange the reader from that
+      presence’, which inclines Ai to view him, in line with his own socially way of life, rendering it unfamiliar and questionable by aligning us with
+      instilled expectations, as a man. This latter possibility is negated in turn, Shevek’s perspective.
+
+[PAGE 9]
+                                                             
+                                                             
+8 Theory, Culture & Society 0(0) Davison-Vecchione and Seeger 9
+       Davison-Vecchione and Seeger                  127     
+                                                             
+of those he encounters. At the root of these difficulties lies the however, by the ‘sense of falseness, of imposture’ that comes over Ai
+Gethenians’ gender system, which Le Guin shows has ramifications for whenever he tries to see Estraven exclusively in this way. Had Le Guin
+every aspect of their lives. The following reflections by Ai on his early endedthesentenceatthispointwithafullstop,Ai’sthoughtwouldhave
+encounters with Estraven, a senior Gethenian politician, provide insight culminated in an uncertainty about how to define Estraven’s gender.
+into the nature of the challenges this system presents him with: Instead, Le Guin introduces an unexpected colon, and the words that
+       follow it raise Ai’s reflections to a higher level of self-consciousness. The
+Though I had been nearly two years on Winter I was still far from question he is left with is not simply that of why he feels a sense of
+being able to see the people of the planet through their own eyes. falsenessinregardingEstravenaseitheramanorawomanbut,crucially,
+I tried to, but my efforts took the form of self-consciously seeing a ofwhetherhisfamiliargendercategoriesarethemselvesthesourceofthat
+       senseoffalseness.Thefalsenesshas,wemightsay,beguntomigratefrom
+Gethenian first as a man, then as a woman, forcing him into those
+       the ‘anomalous’ Estraven to the gender conventions Ai adheres to,
+categories so irrelevant to his nature and so essential to my own.
+       thereby bringing about a crisis in the latter.        
+Thus as I sipped my smoking sour beer I thought that at table
+         ThequestionAiraisesinthelastsentenceisleftunanswered,atleastat
+Estraven’s performance had been womanly, all charm and tact  
+       this early point in the novel, but in raising it in this way and in exploring
+and lack of substance, specious and adroit. Was it in fact perhaps
+       its contours in the involved, self-interrogative manner of this passage, Le
+this soft supple femininity that I disliked and distrusted in him? For
+       Guinis abletointerpolatethereader ina verydirect wayintotheexperi-
+it was impossible to think of him as a woman, that dark, ironic, ence undergone by a participant-observer coming to know an unfamiliar
+powerful presence near me in the firelit darkness, and yet whenever culture.Itisnoteworthyherethat,beforecomingtoGethen,Aiwasfully
+IthoughtofhimasamanIfeltasenseoffalseness,ofimposture:in aware of the gender system on the planet, yet still finds it hard to adjust
+him, or in my own attitude towards him? (Le Guin, 2017b: 11–12). to once he arrives. This contrast between Ai’s bare knowledge of that
+       system and his actual encounter with it serves as a fictional exemplifica-
+This passage conveys a sense of the adjustments, readjustments, and re- tionofthe difference betweenthin andthickdescription: theinformation
+readjustments that Ai finds he must make in order to comprehend his he has been furnished with prior to his visit is a long way from his lived
+interlocutor. It is sustained partly by a tension – sometimes implicit, experience on Gethen as rendered by Le Guin via her fictional analogue
+sometimes explicit – between Ai’s binary, patriarchal understanding of of a Geertzian thick-descriptive field report.
+gender and the gender system he finds among the Gethenians. The self- Thick description is put to many uses by Le Guin, however, beyond
+interrogative,self-reflexivemodeofthepassageenactsAi’srapidchanges providing a sense of the epistemological crises which fieldwork can
+of mind and the sudden, gestalt-shift-like changes in perspective he induce in the participant-observer. In the case of The Dispossessed,
+undergoes. The cumulative effect of the passage is a deepening turn thick description is used to provide, if anything, an even more complete
+against the very categories in which it is couched. At first, Ai reflects, picture of an alien society’s norms and practices. The protagonist of the
+he had viewed the typical Gethenian ‘first as a man, then as a woman’, novel, Shevek, is a physicist from the anarcho-syndicalist world of
+before becoming aware of the insufficiency of this way of seeing, at least Anarres. Like Ai, Shevek does not have a background in anthropology,
+in part due to the degree of self-conscious effort required to do so. yet his open-mindedness and intellectual curiosity mean he approaches
+Another attempt to make sense of gender on Gethen involves projecting life on Urras, the planet where much of the action is set, with all the
+onto Estraven qualities Ai associates with femininity – ‘charm and tact attentiveness and inquisitiveness of a dedicated ethnographer. The patri-
+andlackofsubstance’–inanattempttostabilisetheapparentfluxwhich archal capitalist Urrasian state of A-Io is a society whose values and
+confronts him. This leads Ai to a question: is it these specifically ‘femin- priorities are at first deeply puzzling to Shevek. In one early Urrasian
+ine’ characteristics in the ‘man’ before him that he finds himself reacting encounter, Shevek reflects that, ‘this curious matter of superiority, of
+against? But this possibility is then reframed and subtly undercut by the relative height, was important to the Urrasti; they often used the word
+final sentence. Its opening clause (‘For it was impossible to think of him ‘‘higher’’ as a synonym for ‘‘better’’ in their writings, where an Anarresti
+as a woman’) increases our awareness of the ambiguity of the term ‘fem- would use ‘‘more central’’ [...] It was one puzzle among hundreds’ (Le
+inine’ in the context of Ai’s train of thought. Ai rules out the option of Guin, 1999: 16). Given that Urras is clearly modelled on contemporary
+seeingEstravenasawomanbecauseofthelatter’s‘dark,ironic,powerful US society, the effect of such passages is to estrange the reader from that
+presence’, which inclines Ai to view him, in line with his own socially way of life, rendering it unfamiliar and questionable by aligning us with
+instilled expectations, as a man. This latter possibility is negated in turn, Shevek’s perspective.
+
+[PAGE 10]
+                                                             
+                                                             
+      10                              Theory, Culture & Society 0(0) Davison-Vecchione and Seeger                  11
+      128                            Theory, Culture & Society 40(7-8)
+                                                             
+        The aspect of the novel which most closely approximates Geertzian The dominant social value underlying the various practices alluded to in
+      thick description, however, is Le Guin’s treatment of life on Anarres. these passages is what the Anarresti call, in a conscious echo on Le
+      In these parts of the book, rather than viewing a familiar kind of Guin’s part of the anarchist tradition, ‘mutual aid’. Rather than
+      society through the eyes of an alien observer, we are viewing a decid- making this theory explicit, however, Le Guin instead emphasises the
+      edly unfamiliar kind of society – one where the concept of private ingrained responses of individuals to a range of everyday issues: express-
+      property is not just absent but almost inconceivable, for instance – ing contempt in the face of the desire to privatise knowledge, equating
+      through the eyes of someone acculturated within it and able to take solitude with disgrace, and equating privacy with waste, for example.
+      its ways largely as given. By weaving the absence of patriarchy, private Thesecondpassageemploystheverb‘egoise’,atermofLeGuin’sown
+      property, social hierarchy, and law into her narrative in this way, Le invention. This term is never defined, but it often appears in exchanges
+      Guin forces the reader to work actively to construct plausible inter- between the Anarresti. On the simplest level, someone maybe accused of
+      pretations of the evidence they receive of how such a society might egoising if they act out of an inflated sense of self-importance. On a
+      function. She does not, in other words, provide a comprehensive second level, to egoise is to act in a way which denies or overrides the
+      aerial perspective on Anarres. Instead, the reader is left to construct sense of solidarity that is the foundation of the Anarresti way of life.
+      ascoherentanaccountastheycanofwhattheyaregiven.Althoughwe     Thirdly, egoising has connotations of a mean, hoarding mentality, and is
+      are privy to some of the teachings of Odo, the founder of the dominant associated with squandering resources, as in the case of the individual
+      political philosophy of Anarres, these are dense, decontextualised, and who takes an unwarranted share of land for themselves. Fourthly, there
+      occasionally incomplete fragments. What we are presented with, is what mightbe calledan ‘ecological’ dimension to the condemnation of
+      rather, are suggestive accounts of everyday scenes on Anarres without, egoising, since promoting one’s own power or advantage at the expense
+      as it were, an accompanying set of footnotes explaining the principles of others damages an entire network of nested relationships and inter-
+      which inform them.                                            involvements. Finally, echoing Le Guin’s interest in the Chinese Taoist
+        The following passages succinctly illustrate some of the central values tradition, there is a metaphysical dimension to egoising. Shevek remarks
+      of Shevek’s society:                                          that, ‘It’s the self that suffers, and there’s a place where the self – ceases’
+                                                                    (LeGuin,1999:53).Giventhisemphasisonthelimitsoftheself,egoising
+        ...SabulwantedtokeepthenewUrrastiphysicsprivate–toownit,    maybeunderstoodasresistancetotheultimatenatureofthings.Itisalso
+        asaproperty,asourceofpoweroverhiscolleaguesonAnarres.But    therefore to fall into a kind of error: the person who egoises is acting on
+        this idea was so counter to Shevek’s habits of thinking that it had the basis of their isolated self as opposed to acting out of a sense of the
+                                                                    wholeofwhichtheyareapart.Theterm‘egoising’unitesallthesediverse
+        great difficulty getting itself clear in his mind, and when it did he
+                                                                    senses.
+        suppressed it at once, with contempt, as a genuinely disgusting
+                                                                      In Always Coming Home, published 11 years after The Dispossessed,
+        thought. (Le Guin, 1999: 93)                         
+                                                                    Le Guin’s speculative anthropology is at its most explicit and self-aware.
+                                                                    Although often billed as a novel, the book describes itself as ‘an archae-
+        As a child, if you slept alone in a single it meant you had bothered
+                                                                    ology of the future’ and takes the form of a compendious bricolage of
+        the others in the dormitory until they wouldn’t tolerate you; you
+                                                                    texts recovered from a society inhabited by the Kesh people of Northern
+        had egoised. Solitude equated with disgrace. (Le Guin, 1999: 93)
+                                                                    Californiainthedistantfuture(LeGuin,2016:3).Thebookiscomposed
+                                                                    of scraps of narrative related in the first person, anthropological field
+        ...sexual privacy was freely available and socially expected; and notes, poems, songs, folk tales, musical scores, diagrams, sketches of
+        beyond that privacy was not functional. It was excess, waste. The artefacts,andevenrecipes.Toagreaterextentthaneitheroftheprevious
+        economy of Anarres would not support the building, maintenance, texts,AlwaysComingHomerequiressustained,activeengagementonthe
+        heating, lighting of individual houses and apartments. A person partofthereaderinconstructingacontextforthepeopleandpracticesit
+        whose nature was genuinely unsociable had to get away from soci- depicts.
+                                                                      AroundathirdofthebookistakenupbythestoryofStoneTelling,a
+        ety and look after himself. He was completely free to do so...But
+                                                                    Kesh woman whose life illustrates some of the main elements of Kesh
+        for those who accepted the privilege and obligation of human
+                                                                    society. Many of these texts are also framed by commentary from a
+        solidarity, privacy was a value only where it served a function.
+                                                                    character named Pandora, an anthropologist from another society that
+        (Le Guin, 1999: 94)                                  
+                                                                    seemstoinhabitamuchlaterperiodthanthatoftheKesh.Bypresenting
+
+[PAGE 11]
+                                                             
+                                                             
+10 Theory, Culture & Society 0(0) Davison-Vecchione and Seeger 11
+       Davison-Vecchione and Seeger                  129     
+                                                             
+The aspect of the novel which most closely approximates Geertzian The dominant social value underlying the various practices alluded to in
+thick description, however, is Le Guin’s treatment of life on Anarres. these passages is what the Anarresti call, in a conscious echo on Le
+In these parts of the book, rather than viewing a familiar kind of Guin’s part of the anarchist tradition, ‘mutual aid’. Rather than
+society through the eyes of an alien observer, we are viewing a decid- making this theory explicit, however, Le Guin instead emphasises the
+edly unfamiliar kind of society – one where the concept of private ingrained responses of individuals to a range of everyday issues: express-
+property is not just absent but almost inconceivable, for instance – ing contempt in the face of the desire to privatise knowledge, equating
+through the eyes of someone acculturated within it and able to take solitude with disgrace, and equating privacy with waste, for example.
+its ways largely as given. By weaving the absence of patriarchy, private Thesecondpassageemploystheverb‘egoise’,atermofLeGuin’sown
+property, social hierarchy, and law into her narrative in this way, Le invention. This term is never defined, but it often appears in exchanges
+Guin forces the reader to work actively to construct plausible inter- between the Anarresti. On the simplest level, someone maybe accused of
+pretations of the evidence they receive of how such a society might egoising if they act out of an inflated sense of self-importance. On a
+function. She does not, in other words, provide a comprehensive second level, to egoise is to act in a way which denies or overrides the
+aerial perspective on Anarres. Instead, the reader is left to construct sense of solidarity that is the foundation of the Anarresti way of life.
+ascoherentanaccountastheycanofwhattheyaregiven.Althoughwe Thirdly, egoising has connotations of a mean, hoarding mentality, and is
+are privy to some of the teachings of Odo, the founder of the dominant associated with squandering resources, as in the case of the individual
+political philosophy of Anarres, these are dense, decontextualised, and who takes an unwarranted share of land for themselves. Fourthly, there
+occasionally incomplete fragments. What we are presented with, is what mightbe calledan ‘ecological’ dimension to the condemnation of
+rather, are suggestive accounts of everyday scenes on Anarres without, egoising, since promoting one’s own power or advantage at the expense
+as it were, an accompanying set of footnotes explaining the principles of others damages an entire network of nested relationships and inter-
+which inform them. involvements. Finally, echoing Le Guin’s interest in the Chinese Taoist
+The following passages succinctly illustrate some of the central values tradition, there is a metaphysical dimension to egoising. Shevek remarks
+of Shevek’s society: that, ‘It’s the self that suffers, and there’s a place where the self – ceases’
+       (LeGuin,1999:53).Giventhisemphasisonthelimitsoftheself,egoising
+...SabulwantedtokeepthenewUrrastiphysicsprivate–toownit, maybeunderstoodasresistancetotheultimatenatureofthings.Itisalso
+asaproperty,asourceofpoweroverhiscolleaguesonAnarres.But therefore to fall into a kind of error: the person who egoises is acting on
+this idea was so counter to Shevek’s habits of thinking that it had the basis of their isolated self as opposed to acting out of a sense of the
+       wholeofwhichtheyareapart.Theterm‘egoising’unitesallthesediverse
+great difficulty getting itself clear in his mind, and when it did he
+       senses.                                               
+suppressed it at once, with contempt, as a genuinely disgusting
+         In Always Coming Home, published 11 years after The Dispossessed,
+thought. (Le Guin, 1999: 93)                                 
+       Le Guin’s speculative anthropology is at its most explicit and self-aware.
+       Although often billed as a novel, the book describes itself as ‘an archae-
+As a child, if you slept alone in a single it meant you had bothered
+       ology of the future’ and takes the form of a compendious bricolage of
+the others in the dormitory until they wouldn’t tolerate you; you
+       texts recovered from a society inhabited by the Kesh people of Northern
+had egoised. Solitude equated with disgrace. (Le Guin, 1999: 93)
+       Californiainthedistantfuture(LeGuin,2016:3).Thebookiscomposed
+       of scraps of narrative related in the first person, anthropological field
+...sexual privacy was freely available and socially expected; and notes, poems, songs, folk tales, musical scores, diagrams, sketches of
+beyond that privacy was not functional. It was excess, waste. The artefacts,andevenrecipes.Toagreaterextentthaneitheroftheprevious
+economy of Anarres would not support the building, maintenance, texts,AlwaysComingHomerequiressustained,activeengagementonthe
+heating, lighting of individual houses and apartments. A person partofthereaderinconstructingacontextforthepeopleandpracticesit
+whose nature was genuinely unsociable had to get away from soci- depicts.
+         AroundathirdofthebookistakenupbythestoryofStoneTelling,a
+ety and look after himself. He was completely free to do so...But
+       Kesh woman whose life illustrates some of the main elements of Kesh
+for those who accepted the privilege and obligation of human 
+       society. Many of these texts are also framed by commentary from a
+solidarity, privacy was a value only where it served a function.
+       character named Pandora, an anthropologist from another society that
+(Le Guin, 1999: 94)                                          
+       seemstoinhabitamuchlaterperiodthanthatoftheKesh.Bypresenting
+
+[PAGE 12]
+                                                             
+                                                             
+      12                              Theory, Culture & Society 0(0) Davison-Vecchione and Seeger                  13
+      130                            Theory, Culture & Society 40(7-8)
+                                                             
+      first-person narrative and commentary alongside each other, Le Guin any impression that they are immutable or simply given, however they
+      tasks the reader with following Pandora’s lead by working to make may be understood by those who inhabit these worlds.
+      sense of the symbolic structures of Kesh culture in a manner redolent In The Left Hand of Darkness, Le Guin uses changes in viewpoint to
+      of Geertz’s study of the Balinese cockfight. As in that study, Le Guin’s suggest possible long-term explanations for present social conditions.
+      novel provides many instances of what a ‘culture’s ethos’ – in this case For instance, an investigator who was part of the first landing party
+      the Kesh’s – ‘look[s] like when spelled out externally in a collective text’, on Gethen hypothesises that the sparse population and harsh climate
+      primarily in the form of a range of arts and crafts (Geertz, 2017a: 470). are major reasons for the absence of war (Le Guin, 2017a: 96). In the
+      Like the Gethenian gender system and the Anarresti prohibition on ego- story’s present, however, Ai points to a number of more recent develop-
+      ising, the practices and values of the Kesh depart radically from those of ments that might bring an end to this long-standing state of affairs,
+      patriarchalcapitalistsociety.Mostnotably,theKeshdonotexperiencea including the rise of patriotism, the nation-state, and economic prestige
+      gulfseparatinghuman fromnonhuman.They seehumanityashaving no  competition (Le Guin, 2017a: 49). Elsewhere, Ai considers the compara-
+      particular privilege or centrality within nature, suggesting affinities with tivelyslowrateoftechnologicalprogressonGethen,whichseemstohave
+      deep ecology and setting up a contrast with a capitalist ethos of profit developed ‘without any industrial revolution, without any revolution at
+      and growth. Always Coming Home represents the most ambitious of Le all’(LeGuin,2017a:98).Aiattributesthisgradualpacetocautioninthe
+      Guin’s exercises in speculative anthropology: an attempt to envision a face of the unforgiving environment, but underscores that, despite
+      way of life in which the guiding assumptions and values of capitalist appearances, technological progress on Gethen has never ceased: both
+      modernity are wholly absent, yet in which modern concerns – about ‘the torrent and the glacier... get where they are going’ (Le Guin, 2017a:
+      the environment, alienation, and oppression – are addressed.  98). The effect of all this is to place the society that Ai observes within a
+        From these examples, we see how Le Guin’s affectively and symbol- much larger set of historical processes, thereby helping to explain why
+      ically immersive encounters with imagined anthropological ‘others’ Gethen exists in its current state and how certain developments, such as
+      promptself-reflectioninbothhercharactersandherreaders.Shethereby the recent increase in competition between Gethenian polities for eco-
+      utilises thick description to achieve reflexivity of the kind Michael nomic and other forms of prestige, might be creating the conditions for
+      Taussig(2010:xiv)hasinmindwhenhewarnshow,‘[i]ntryingtoexplain further and more drastic change. In these and related ways, Le Guin
+      the strange and the unknown, we must never lose sight of how truly ensures that her speculative anthropology articulates both a synchronic
+      strange is our own reality’. Like the anthropologist Kathleen Stewart account of webs of human meaning-making and a diachronic account of
+      (2007: 5), Le Guin writes ‘not as a trusted guide carefully laying out the modification of those webs over time.
+      the links between theoretical categories and the real world, but as a Historicity is perhaps even more central to The Dispossessed. A major
+      point of impact, curiosity, and encounter’, depicting character inter- historical event that informs much of the novel is a failed revolution on
+      actions in a way that understands how ethnographic subjects can Urras that occurred two centuries before the novel takes place, which Le
+      ‘resist researchers’ efforts and interpretations, and add their own inter- Guin explores elsewhere in her 1974 short story ‘The Day before the
+      pretations and insights’ (Naples, 2003: 4). Like Kim Fortun (2001: 22) in Revolution’(LeGuin,2017b).Aftertheirattemptedrevolutionwasfore-
+      her ethnographic studies of real-world social actors, Le Guin presents stalled, the Odonians agreed to leave Urras and settle on the harsher,
+      diverse, narratively mediated texts like folk tales and transcripts not scarcer world of Anarres. The novel conveys the extent of the changes
+      because they establish the finality of the offered account but ‘rather undergone by the Odonian community by illustrating how aspects of
+      because they harbor potential for ever further elaboration’. As we will their pre-revolutionary past that were taken for granted at the time
+      see, this resistance to closure is also key to Le Guin’s approach to have now become alien to them. An Odonian called Tirin shows a
+      historicity.                                                  more critical awareness of history when discussing archival film footage
+                                                                    of Urras in a class on the history of the Odonian movement:
+      Historicity in Le Guin                                          If those pictures are a hundred and fifty years ago, things could be
+                                                                      entirelydifferentnowonUrras.Idon’tsaytheyare,butiftheywere
+      While employing thick description, Le Guin remains sensitive to histor-
+                                                                      how would we knowit? We don’t go there, we don’t talk, there’s no
+      icity, presenting the elements of her invented worlds – practices, institu-
+                                                                      communication. We really have no idea what life’s like on Urras
+      tions,philosophies,religions,etc.–ashavingdevelopedhistorically.This
+                                                                      now. (Le Guin, 1999: 38)
+      lends these elements a vital sense of historical contingency, undercutting
+
+[PAGE 13]
+                                                             
+                                                             
+12 Theory, Culture & Society 0(0) Davison-Vecchione and Seeger 13
+       Davison-Vecchione and Seeger                  131     
+                                                             
+first-person narrative and commentary alongside each other, Le Guin any impression that they are immutable or simply given, however they
+tasks the reader with following Pandora’s lead by working to make may be understood by those who inhabit these worlds.
+sense of the symbolic structures of Kesh culture in a manner redolent In The Left Hand of Darkness, Le Guin uses changes in viewpoint to
+of Geertz’s study of the Balinese cockfight. As in that study, Le Guin’s suggest possible long-term explanations for present social conditions.
+novel provides many instances of what a ‘culture’s ethos’ – in this case For instance, an investigator who was part of the first landing party
+the Kesh’s – ‘look[s] like when spelled out externally in a collective text’, on Gethen hypothesises that the sparse population and harsh climate
+primarily in the form of a range of arts and crafts (Geertz, 2017a: 470). are major reasons for the absence of war (Le Guin, 2017a: 96). In the
+Like the Gethenian gender system and the Anarresti prohibition on ego- story’s present, however, Ai points to a number of more recent develop-
+ising, the practices and values of the Kesh depart radically from those of ments that might bring an end to this long-standing state of affairs,
+patriarchalcapitalistsociety.Mostnotably,theKeshdonotexperiencea including the rise of patriotism, the nation-state, and economic prestige
+gulfseparatinghuman fromnonhuman.They seehumanityashaving no competition (Le Guin, 2017a: 49). Elsewhere, Ai considers the compara-
+particular privilege or centrality within nature, suggesting affinities with tivelyslowrateoftechnologicalprogressonGethen,whichseemstohave
+deep ecology and setting up a contrast with a capitalist ethos of profit developed ‘without any industrial revolution, without any revolution at
+and growth. Always Coming Home represents the most ambitious of Le all’(LeGuin,2017a:98).Aiattributesthisgradualpacetocautioninthe
+Guin’s exercises in speculative anthropology: an attempt to envision a face of the unforgiving environment, but underscores that, despite
+way of life in which the guiding assumptions and values of capitalist appearances, technological progress on Gethen has never ceased: both
+modernity are wholly absent, yet in which modern concerns – about ‘the torrent and the glacier... get where they are going’ (Le Guin, 2017a:
+the environment, alienation, and oppression – are addressed. 98). The effect of all this is to place the society that Ai observes within a
+From these examples, we see how Le Guin’s affectively and symbol- much larger set of historical processes, thereby helping to explain why
+ically immersive encounters with imagined anthropological ‘others’ Gethen exists in its current state and how certain developments, such as
+promptself-reflectioninbothhercharactersandherreaders.Shethereby the recent increase in competition between Gethenian polities for eco-
+utilises thick description to achieve reflexivity of the kind Michael nomic and other forms of prestige, might be creating the conditions for
+Taussig(2010:xiv)hasinmindwhenhewarnshow,‘[i]ntryingtoexplain further and more drastic change. In these and related ways, Le Guin
+the strange and the unknown, we must never lose sight of how truly ensures that her speculative anthropology articulates both a synchronic
+strange is our own reality’. Like the anthropologist Kathleen Stewart account of webs of human meaning-making and a diachronic account of
+(2007: 5), Le Guin writes ‘not as a trusted guide carefully laying out the modification of those webs over time.
+the links between theoretical categories and the real world, but as a Historicity is perhaps even more central to The Dispossessed. A major
+point of impact, curiosity, and encounter’, depicting character inter- historical event that informs much of the novel is a failed revolution on
+actions in a way that understands how ethnographic subjects can Urras that occurred two centuries before the novel takes place, which Le
+‘resist researchers’ efforts and interpretations, and add their own inter- Guin explores elsewhere in her 1974 short story ‘The Day before the
+pretations and insights’ (Naples, 2003: 4). Like Kim Fortun (2001: 22) in Revolution’(LeGuin,2017b).Aftertheirattemptedrevolutionwasfore-
+her ethnographic studies of real-world social actors, Le Guin presents stalled, the Odonians agreed to leave Urras and settle on the harsher,
+diverse, narratively mediated texts like folk tales and transcripts not scarcer world of Anarres. The novel conveys the extent of the changes
+because they establish the finality of the offered account but ‘rather undergone by the Odonian community by illustrating how aspects of
+because they harbor potential for ever further elaboration’. As we will their pre-revolutionary past that were taken for granted at the time
+see, this resistance to closure is also key to Le Guin’s approach to have now become alien to them. An Odonian called Tirin shows a
+historicity. more critical awareness of history when discussing archival film footage
+       of Urras in a class on the history of the Odonian movement:
+Historicity in Le Guin If those pictures are a hundred and fifty years ago, things could be
+         entirelydifferentnowonUrras.Idon’tsaytheyare,butiftheywere
+While employing thick description, Le Guin remains sensitive to histor-
+         how would we knowit? We don’t go there, we don’t talk, there’s no
+icity, presenting the elements of her invented worlds – practices, institu-
+         communication. We really have no idea what life’s like on Urras
+tions,philosophies,religions,etc.–ashavingdevelopedhistorically.This
+         now. (Le Guin, 1999: 38)                            
+lends these elements a vital sense of historical contingency, undercutting
+
+[PAGE 14]
+                                                             
+                                                             
+      14                              Theory, Culture & Society 0(0) Davison-Vecchione and Seeger                  15
+      132                            Theory, Culture & Society 40(7-8)
+                                                             
+      This illustrates not only consciousness of the possibility of radical social description and historicity in a way that avoids a noted weakness of
+      change across historical eras but also of how historical memory of the Geertz’sownapproach.Relatedly,whereasGeertz’saccountofthecock-
+      failedrevolutionandthesubsequentdevelopmentofOdoniansocietycan fight and its breakup has been criticised for its lack of interest in how
+      be leveraged as a source of political criticism of that very society. The subordinateclassparticipantsviewedtheeventandhowallthosepresent
+      Odonians,Tirin suggests,haveallowedthemselvestobecomeisolatedon understood the confrontation with law enforcement politically,
+      Anarres, not only in the sense that they agreed to their initial exile but Le Guin’s account of the Ioti general strike and its breakup foregrounds
+      also in terms of their failure to stay in communication with the both of these elements and places them in a macro-historical perspective.
+      Urrasians, thereby undermining one of their philosophy’s own revolu- Uniting the Anarresti and Urrasian strands of the novel, the episode of
+      tionary tenets. Consequently, Odonian culture has begun to ossify and the general strike – viewed from the immersed perspective of a partici-
+      lose its vitality. As another Odonian, Bedap, laments, ‘Kids learn pant-observer who becomes more a participant than an observer –
+      to parrot Odo’s words as if they were laws – the ultimate blasphemy!’ implies that the history of Urras could conceivably have been radically
+      (Le Guin, 1999: 140).                                         different had the Odonians not cut themselves off from those who might
+        On Urras, on the other hand, the Ioti use museums to preserve their have supported their cause.
+      ancient cultural memory, including its most graphically and sadistically In Always Coming Home, meanwhile, historicity is elevated to a meta-
+      violent episodes:                                             textual principle through the book’s framing as an ethnographic account
+                                                                    of a future people. In her narration, Pandora expresses self-reflexive con-
+        ShevekandVeacametoaglasscaseinwhichlaythecloakofQueen       cerns about how she is conducting her study of the Kesh. Early in the
+        Teaea, made of the tanned skins of rebels flayed alive, which that book, she draws attention to the incomplete pattern she is assembling,
+        terrible and defiant woman had worn when she went among her illustrating this through the metaphor of a broken clay bowl (Le Guin,
+        plague-stricken people to pray God to end pestilence, fourteen hun- 2016: 53). This would seem to be a commentary on the task of the eth-
+        dred years ago. [...] ‘Why do you people cling to your shame?’ nographer and the problem of representation, since Pandora’s object of
+                                                                    study, an entire way of life, is by its nature incomplete and open-ended,
+        [Shevek] said. ‘But it’s all just history! Things like that couldn’t
+                                                                    yet she is conscious of the presumed authoritativeness that comes from
+        happen now!’ [replied Vea.] (Le Guin, 1999: 180)     
+                                                                    couching her account in social-scientific terms. Pandora is wary of pre-
+      This passage illustrates how the Ioti ruling classes nostalgically look senting Kesh culture as static or fixed – the danger of prioritising syn-
+      upon their society’s past, with the displayed cloak serving as a symbol chrony over diachrony that we saw in the case of Geertz.
+      of power and authority in the face of challenges to the status quo. While In this respect, it is worth considering the Kesh’s distinctive under-
+      Vea’s response to Shevek’s horrified question indicates that she does not standing of their position in time and space. Two key elements here are
+      view the exhibit as an ideological statement, immediately before this she the ‘City of Mind’ and the ‘City of Man’ (Le Guin, 2016: 149–72). The
+      flippantly remarks that the cloak ‘looks awfully like goatskin’ (Le Guin, City of Mind is a network of intercommunicating sites ‘occupied by
+      1999: 180), suggesting a lack of sympathy for the slaughtered rebels and independent, self-contained, and self-regulating communities of cyber-
+      reflecting how the Ioti have been taught to understand their violent past netic devices or beings’ (Le Guin, 2016: 149).3 The City of Man, on
+      (and,itisimplied,theirpresent).ThisrecallsGeertz’sremarkthatculture the other hand, is how the ‘period in which we live, our civilisation,
+      imposes meaning on experience through ‘symbolic conceptions of ‘‘stub- Civilisation as we know it, appeared in the Valley [Kesh] thought’, that
+      bornfact’’handeddownfromgenerationtogeneration’,whichframethe is, ‘as a remote region, set apart from the community and continuity of
+      ‘world of everyday life’ (Geertz, 2017c: 119). The scene’s dialogic quality human/animal/earthly existence – a sort of peninsula sticking out from
+      calls the Ioti’s settled view of the past into question, however, by viewing the mainland, very thickly built upon, very heavily populated, very
+      the same artefact from an alien (Shevek’s) perspective. In terms of the obscure, and very far away’ (Le Guin, 2016: 153). Pandora elaborates:
+      hermeneutic phenomenology that informs Geertz’s thick description, ‘the City of Mind, the computer network, including the Exchanges, was
+      Shevek disturbs the Ioti’s taken-for-granted knowledge of their everyday referred to as being ‘‘outside the world’’ – existing in the same time-
+      world by drawing attention to a significant symbolic object within that region or mode as the City of Man, civilisation. The relation between
+      world and viewing it through a different cultural frame. As with other the City and the Valley is not clear’ (Le Guin, 2016: 153). Pandora pur-
+      scenes set on Urras, the reader is made conscious of how ideas of hier- sues this point in her consideration of the story of a Kesh man who
+      archy which are alien to Shevek have historically become formative pre- journeys to the United States in the late 20th century, where he is horri-
+      suppositions of everyday life on Urras, thereby integrating thick fied by the pollution, war, and inequality, and eventually dies ‘of grief
+
+[PAGE 15]
+                                                             
+                                                             
+14 Theory, Culture & Society 0(0) Davison-Vecchione and Seeger 15
+       Davison-Vecchione and Seeger                  133     
+                                                             
+This illustrates not only consciousness of the possibility of radical social description and historicity in a way that avoids a noted weakness of
+change across historical eras but also of how historical memory of the Geertz’sownapproach.Relatedly,whereasGeertz’saccountofthecock-
+failedrevolutionandthesubsequentdevelopmentofOdoniansocietycan fight and its breakup has been criticised for its lack of interest in how
+be leveraged as a source of political criticism of that very society. The subordinateclassparticipantsviewedtheeventandhowallthosepresent
+Odonians,Tirin suggests,haveallowedthemselvestobecomeisolatedon understood the confrontation with law enforcement politically,
+Anarres, not only in the sense that they agreed to their initial exile but Le Guin’s account of the Ioti general strike and its breakup foregrounds
+also in terms of their failure to stay in communication with the both of these elements and places them in a macro-historical perspective.
+Urrasians, thereby undermining one of their philosophy’s own revolu- Uniting the Anarresti and Urrasian strands of the novel, the episode of
+tionary tenets. Consequently, Odonian culture has begun to ossify and the general strike – viewed from the immersed perspective of a partici-
+lose its vitality. As another Odonian, Bedap, laments, ‘Kids learn pant-observer who becomes more a participant than an observer –
+to parrot Odo’s words as if they were laws – the ultimate blasphemy!’ implies that the history of Urras could conceivably have been radically
+(Le Guin, 1999: 140). different had the Odonians not cut themselves off from those who might
+On Urras, on the other hand, the Ioti use museums to preserve their have supported their cause.
+ancient cultural memory, including its most graphically and sadistically In Always Coming Home, meanwhile, historicity is elevated to a meta-
+violent episodes: textual principle through the book’s framing as an ethnographic account
+       of a future people. In her narration, Pandora expresses self-reflexive con-
+ShevekandVeacametoaglasscaseinwhichlaythecloakofQueen cerns about how she is conducting her study of the Kesh. Early in the
+Teaea, made of the tanned skins of rebels flayed alive, which that book, she draws attention to the incomplete pattern she is assembling,
+terrible and defiant woman had worn when she went among her illustrating this through the metaphor of a broken clay bowl (Le Guin,
+plague-stricken people to pray God to end pestilence, fourteen hun- 2016: 53). This would seem to be a commentary on the task of the eth-
+dred years ago. [...] ‘Why do you people cling to your shame?’ nographer and the problem of representation, since Pandora’s object of
+       study, an entire way of life, is by its nature incomplete and open-ended,
+[Shevek] said. ‘But it’s all just history! Things like that couldn’t
+       yet she is conscious of the presumed authoritativeness that comes from
+happen now!’ [replied Vea.] (Le Guin, 1999: 180)             
+       couching her account in social-scientific terms. Pandora is wary of pre-
+This passage illustrates how the Ioti ruling classes nostalgically look senting Kesh culture as static or fixed – the danger of prioritising syn-
+upon their society’s past, with the displayed cloak serving as a symbol chrony over diachrony that we saw in the case of Geertz.
+of power and authority in the face of challenges to the status quo. While In this respect, it is worth considering the Kesh’s distinctive under-
+Vea’s response to Shevek’s horrified question indicates that she does not standing of their position in time and space. Two key elements here are
+view the exhibit as an ideological statement, immediately before this she the ‘City of Mind’ and the ‘City of Man’ (Le Guin, 2016: 149–72). The
+flippantly remarks that the cloak ‘looks awfully like goatskin’ (Le Guin, City of Mind is a network of intercommunicating sites ‘occupied by
+1999: 180), suggesting a lack of sympathy for the slaughtered rebels and independent, self-contained, and self-regulating communities of cyber-
+reflecting how the Ioti have been taught to understand their violent past netic devices or beings’ (Le Guin, 2016: 149).3 The City of Man, on
+(and,itisimplied,theirpresent).ThisrecallsGeertz’sremarkthatculture the other hand, is how the ‘period in which we live, our civilisation,
+imposes meaning on experience through ‘symbolic conceptions of ‘‘stub- Civilisation as we know it, appeared in the Valley [Kesh] thought’, that
+bornfact’’handeddownfromgenerationtogeneration’,whichframethe is, ‘as a remote region, set apart from the community and continuity of
+‘world of everyday life’ (Geertz, 2017c: 119). The scene’s dialogic quality human/animal/earthly existence – a sort of peninsula sticking out from
+calls the Ioti’s settled view of the past into question, however, by viewing the mainland, very thickly built upon, very heavily populated, very
+the same artefact from an alien (Shevek’s) perspective. In terms of the obscure, and very far away’ (Le Guin, 2016: 153). Pandora elaborates:
+hermeneutic phenomenology that informs Geertz’s thick description, ‘the City of Mind, the computer network, including the Exchanges, was
+Shevek disturbs the Ioti’s taken-for-granted knowledge of their everyday referred to as being ‘‘outside the world’’ – existing in the same time-
+world by drawing attention to a significant symbolic object within that region or mode as the City of Man, civilisation. The relation between
+world and viewing it through a different cultural frame. As with other the City and the Valley is not clear’ (Le Guin, 2016: 153). Pandora pur-
+scenes set on Urras, the reader is made conscious of how ideas of hier- sues this point in her consideration of the story of a Kesh man who
+archy which are alien to Shevek have historically become formative pre- journeys to the United States in the late 20th century, where he is horri-
+suppositions of everyday life on Urras, thereby integrating thick fied by the pollution, war, and inequality, and eventually dies ‘of grief
+
+[PAGE 16]
+                                                             
+                                                             
+      16                              Theory, Culture & Society 0(0) Davison-Vecchione and Seeger                  17
+      134                            Theory, Culture & Society 40(7-8)
+                                                             
+      and poison’ (Le Guin, 2016: 157). This is followed by the story of ‘Big the richness of this way of bringing experience to words. Beyond simply
+      Man and Little Man’, which takes the form of a creation myth and tells ‘describing’ character, action, and setting, Le Guin inhabits language
+      of the backward-headed ‘Little Man’ (implicitly modern humanity) kill- in such a way as to be able to initiate the reader, both cognitively
+      ing and poisoning everything in the world and eventually dying of fear and affectively, into alternate ways of being. To this extent, Le Guin
+      (Le Guin, 2016: 157–9). Pandora’s following editorial, which makes and Geertz are engaged in strikingly complementary enterprises.
+      explicit the post-apocalyptic framing of the novel, clarifies that the Unlike Geertz, however, Le Guin never allows thick description to neu-
+      Backward-Heads populate Kesh ghost stories because the Valley is still tralise historicity. She avoids this by incorporating social antagonism,
+      marked by ‘the permanent desolation of vast regions through release of cultural contestation, and historical contingency directly into her thick
+      radioactive or poisonous substances, the permanent genetic impairment descriptions. The ‘thickness’ of experience as rendered in Le Guin’s
+      from which [the Kesh] suffered most directly in the form of sterility, novels is never seamless, and does not lead to a neglect of the conflicted,
+      stillbirth, and congenital disease’ (Le Guin, 2016: 159). Le Guin’s own unstable, and ambiguous elements of the societies portrayed.
+      societyisthuswovenintoKesh loreandsuperstitionviatheevidenceleft Another dimension to the historicity of these novels, one with a bear-
+      from that era’s destructive activity. This serves to underscore the extent ing on their status as science fiction, is its critical relation to the present.
+      to which a past moment of historical rupture – namely, the anthropo- The imaginative challenge posed to capitalism, imperialism, individual-
+      genicprocessesthatculminatedinecologicaldestructionandthecollapse ism, ecological irresponsibility, patriarchy, and the gender binary in the
+      of industrialised society – pervades the present reality of the Kesh in three novels we have been discussing is considerable. This challenge is
+      terms of both cultural memory and physical geography. As in the previ- made possible by their resituating of familiar social and political realities
+      ous two novels, this juxtaposition of familiar and unfamiliar transforms within a speculative frame which is nevertheless continuous with the
+      capitalistmodernityintothe‘other’ofthesocietydepicted–totheextent world of the reader. To return to the issue of fiction versus reality
+      thateventhewhollyartificialCityofMindisseenbytheKeshasbelong- raised above, the fact that Le Guin is describing invented societies as
+      ing to an earlier ‘time-region’ rather than their own, despite the City’s opposedtorealonesstartstobecomelessimportantatthispoint.Alarge
+      acknowledged existence within their own moment. In this way, both the
+                                                                    and complex society built around the principle of mutual aid may not as
+      world inhabited by the characters and the world inhabited by the reader
+                                                                    a matter of fact exist, yet The Dispossessed manages not just to power-
+      are historicised and seen in relation to one another. By establishing this
+                                                                    fully rearticulate ideas of the sort found in anarchists like Kropotkin but
+      diachronic relation and setting her imagined worlds in motion, Le Guin
+                                                                    also to give the reader some sense of what a radical, non-egoic solidarity
+      reflexively brings questions of power, voice, translation, and memory
+                                                                    mightbelikeinpractice.Bracketingthefactthatthenoveltakesplaceon
+      into sharper relief and complicates traditional ethnographic binaries
+                                                                    two alien worlds, what Carl Freedman has called science fiction’s ‘cog-
+      like insider/outsider and observer/observed.           
+                                                                    nitive continuum with the actual’ (Freedman, 2017: 232) can be seen in
+                                                                    the fact that the rival systems of government depicted are variations on
+                                                                    real-world forms of politics. In addition to the interaction of historical
+      Le Guin’s Speculative Anthropology                     
+                                                                    elementswithinLeGuin’sinventedworlds,then,weneedtodistinguisha
+      Jameson’s ‘World Reduction in Le Guin’ and Geertz’s ‘Notes on the second mode of historicity whereby they stand in a critical relationship
+      BalineseCockfight’representtwostronglycontrastingwaysofapproach- not only to Le Guin’s (and our own) present but to unrealised possibi-
+      ingtheanalysisofculturaltexts:a‘transcendent’approachthatabstracts lities withinthatpresent.To thisextent, LeGuin’s work stepsoutside the
+      away from content and resituates the text within the historical totality of parameters of Jameson’s own theory of science fiction. On the one hand,
+      literaryforms,andan‘immanent’approachthatfocusesalmostsolelyon in imagining the ‘future’ she is indirectly imagining the present, as
+      content and brackets the text’s wider historical frame. In the face of the Jameson would want to say (Jameson, 2005b: 288). At the same time,
+      apparent irreconcilability of these approaches, Le Guin’s synthesis of the anthropological component of her writing means the scenarios she
+      historicity and thick description in a science-fictional context takes on projects are not merely, in Jameson’s words, ‘mock futures’ (2005b: 288)
+      a new significance.                                           but rather occupy a zone somewhere between present and future: a kind
+        Allowing for the important difference that Geertz is concerned with of exploratory anticipation.
+      empirically existing societies while Le Guin is concerned with invented Inevitably, separating out the thick-descriptive, historicist, and
+      ones (a point to which we shall return), both writers can be seen to science-fictional aspects of Le Guin’s work for analytical purposes is a
+      employ a range of literary techniques to disclose the phenomenological somewhat artificial enterprise. In reality, these are virtually inseparable,
+      texture of unfamiliar ways of life. ‘Description’ scarcely does justice to and it is arguably on account of this fully integrated quality that her
+
+[PAGE 17]
+                                                             
+                                                             
+16 Theory, Culture & Society 0(0) Davison-Vecchione and Seeger 17
+       Davison-Vecchione and Seeger                  135     
+                                                             
+and poison’ (Le Guin, 2016: 157). This is followed by the story of ‘Big the richness of this way of bringing experience to words. Beyond simply
+Man and Little Man’, which takes the form of a creation myth and tells ‘describing’ character, action, and setting, Le Guin inhabits language
+of the backward-headed ‘Little Man’ (implicitly modern humanity) kill- in such a way as to be able to initiate the reader, both cognitively
+ing and poisoning everything in the world and eventually dying of fear and affectively, into alternate ways of being. To this extent, Le Guin
+(Le Guin, 2016: 157–9). Pandora’s following editorial, which makes and Geertz are engaged in strikingly complementary enterprises.
+explicit the post-apocalyptic framing of the novel, clarifies that the Unlike Geertz, however, Le Guin never allows thick description to neu-
+Backward-Heads populate Kesh ghost stories because the Valley is still tralise historicity. She avoids this by incorporating social antagonism,
+marked by ‘the permanent desolation of vast regions through release of cultural contestation, and historical contingency directly into her thick
+radioactive or poisonous substances, the permanent genetic impairment descriptions. The ‘thickness’ of experience as rendered in Le Guin’s
+from which [the Kesh] suffered most directly in the form of sterility, novels is never seamless, and does not lead to a neglect of the conflicted,
+stillbirth, and congenital disease’ (Le Guin, 2016: 159). Le Guin’s own unstable, and ambiguous elements of the societies portrayed.
+societyisthuswovenintoKesh loreandsuperstitionviatheevidenceleft Another dimension to the historicity of these novels, one with a bear-
+from that era’s destructive activity. This serves to underscore the extent ing on their status as science fiction, is its critical relation to the present.
+to which a past moment of historical rupture – namely, the anthropo- The imaginative challenge posed to capitalism, imperialism, individual-
+genicprocessesthatculminatedinecologicaldestructionandthecollapse ism, ecological irresponsibility, patriarchy, and the gender binary in the
+of industrialised society – pervades the present reality of the Kesh in three novels we have been discussing is considerable. This challenge is
+terms of both cultural memory and physical geography. As in the previ- made possible by their resituating of familiar social and political realities
+ous two novels, this juxtaposition of familiar and unfamiliar transforms within a speculative frame which is nevertheless continuous with the
+capitalistmodernityintothe‘other’ofthesocietydepicted–totheextent world of the reader. To return to the issue of fiction versus reality
+thateventhewhollyartificialCityofMindisseenbytheKeshasbelong- raised above, the fact that Le Guin is describing invented societies as
+ing to an earlier ‘time-region’ rather than their own, despite the City’s opposedtorealonesstartstobecomelessimportantatthispoint.Alarge
+acknowledged existence within their own moment. In this way, both the
+       and complex society built around the principle of mutual aid may not as
+world inhabited by the characters and the world inhabited by the reader
+       a matter of fact exist, yet The Dispossessed manages not just to power-
+are historicised and seen in relation to one another. By establishing this
+       fully rearticulate ideas of the sort found in anarchists like Kropotkin but
+diachronic relation and setting her imagined worlds in motion, Le Guin
+       also to give the reader some sense of what a radical, non-egoic solidarity
+reflexively brings questions of power, voice, translation, and memory
+       mightbelikeinpractice.Bracketingthefactthatthenoveltakesplaceon
+into sharper relief and complicates traditional ethnographic binaries
+       two alien worlds, what Carl Freedman has called science fiction’s ‘cog-
+like insider/outsider and observer/observed.                 
+       nitive continuum with the actual’ (Freedman, 2017: 232) can be seen in
+       the fact that the rival systems of government depicted are variations on
+       real-world forms of politics. In addition to the interaction of historical
+Le Guin’s Speculative Anthropology                           
+       elementswithinLeGuin’sinventedworlds,then,weneedtodistinguisha
+Jameson’s ‘World Reduction in Le Guin’ and Geertz’s ‘Notes on the second mode of historicity whereby they stand in a critical relationship
+BalineseCockfight’representtwostronglycontrastingwaysofapproach- not only to Le Guin’s (and our own) present but to unrealised possibi-
+ingtheanalysisofculturaltexts:a‘transcendent’approachthatabstracts lities withinthatpresent.To thisextent, LeGuin’s work stepsoutside the
+away from content and resituates the text within the historical totality of parameters of Jameson’s own theory of science fiction. On the one hand,
+literaryforms,andan‘immanent’approachthatfocusesalmostsolelyon in imagining the ‘future’ she is indirectly imagining the present, as
+content and brackets the text’s wider historical frame. In the face of the Jameson would want to say (Jameson, 2005b: 288). At the same time,
+apparent irreconcilability of these approaches, Le Guin’s synthesis of the anthropological component of her writing means the scenarios she
+historicity and thick description in a science-fictional context takes on projects are not merely, in Jameson’s words, ‘mock futures’ (2005b: 288)
+a new significance. but rather occupy a zone somewhere between present and future: a kind
+Allowing for the important difference that Geertz is concerned with of exploratory anticipation.
+empirically existing societies while Le Guin is concerned with invented Inevitably, separating out the thick-descriptive, historicist, and
+ones (a point to which we shall return), both writers can be seen to science-fictional aspects of Le Guin’s work for analytical purposes is a
+employ a range of literary techniques to disclose the phenomenological somewhat artificial enterprise. In reality, these are virtually inseparable,
+texture of unfamiliar ways of life. ‘Description’ scarcely does justice to and it is arguably on account of this fully integrated quality that her
+
+[PAGE 18]
+                                                             
+                                                             
+      18                              Theory, Culture & Society 0(0)
+      136                            Theory, Culture & Society 40(7-8)
+                                                             
+      speculative anthropology possesses a utopian dimension unavailable to
+      Geertz. While Geertz clearly rejects primitivism, exoticism, or the ideal-
+      isationoftraditionalsocieties,heneverthelessholdsthatmoderncultures
+      maybeabletolearnfromthewaysoflifethatarethefocusofanthropo-
+      logical research (Geertz, 2000a: 68–88). Le Guin’s own borrowings from
+      such studies, most notably in Always Coming Home, which draws on
+      fieldwork on Native American cultures, suggests she shares this view.
+      Thereisanobviouslimitation tothepotentialofsuchalearningprocess,
+      however, to which Le Guin, as a novelist, is not subject. This is that the
+      anthropologist as an empirical social scientist is constrained to represent
+      as accurately as possible the actual societies with which they are con-
+      fronted.Thisotherwiseobviouspointisworthmakingasithighlightsthe
+      importance of combining anthropological knowledge and methodology
+      with science-fictional worldbuilding. What Le Guin has in common with
+      Geertzis anabilitytoplacethe readerwithinafullyrealised yetunfamil-
+      iarsocialworld.Byemployingthesciencefictiongenre,however,withits
+      simultaneous relation of difference and sameness to the present, and its
+      unique way of granting a historical perspective on that present, Le Guin
+      initiates a utopian mode of anthropology concerned as much with life as
+      it might be as with life as it is. The nonbinary gender system of the
+      Gethenians, the non-egoic solidarity of the Anarresti, and the ecological
+      attunement of the Kesh are all examples of science-fictional devices
+      which, although radically utopian in one sense, nevertheless display
+      clear links to real historical developments, including feminism, queer
+      politics, socialism, anarchism, andenvironmental activism.Thephenom-
+      enological fluency with which these practices are rendered helps the
+      reader to relate them back to their own experience and to recognise
+      that, contra Jameson’s charge of world reduction, none of them requires
+      a leap outside the process of history altogether. If anything, Le Guin
+      illustrates how science fiction as a genre allows thick description and
+      historicity to become mutually enabling rather than mutually exclusive.
+        Inmappingthe relationshipbetweenhistoricity,thick description, and
+      science fiction in Le Guin, we have identified the core of her implicit
+      theory of anthropology. One might nevertheless wish to ask what value
+      such speculative anthropology is supposed to have for anthropologists
+      themselves. What exactly is to be gained by anthropological engagement
+      with science fiction? After all, a ‘speculative’ reconstruction of a trad-
+      itional way of life on the part of an anthropologist in the field would just
+      be bad anthropology, however imaginative it might be. An initial answer
+      is that, by illustrating how society could be organised differently, science
+      fiction is a valuable resource for thinking critically about the present by
+      denaturalising practices we take for granted and imagining counterfac-
+      tual lines of development. This is a promising approach to the genre for
+      social scientists because many of the phenomena examined in science
+      fiction (e.g. gender, class) are constitutive of real-world social relations
+
+[PAGE 19]
+                                                             
+                                                             
+18 Theory, Culture & Society 0(0) Davison-Vecchione and Seeger 19
+       Davison-Vecchione and Seeger                  137     
+                                                             
+speculative anthropology possesses a utopian dimension unavailable to andsoareregardedasdefiningobjectsofstudyinseveralsocial-scientific
+Geertz. While Geertz clearly rejects primitivism, exoticism, or the ideal- disciplines. A sceptic might respond, however, by arguing that instead of
+isationoftraditionalsocieties,heneverthelessholdsthatmoderncultures engaging with Le Guin’s portrayal of, say, a nonbinary culture, anthro-
+maybeabletolearnfromthewaysoflifethatarethefocusofanthropo- pologists could simply turn to the actual ethnographic record to find
+logical research (Geertz, 2000a: 68–88). Le Guin’s own borrowings from examples of such cultures, especially as the ethnographic record provides
+such studies, most notably in Always Coming Home, which draws on more secure empirical footing.
+fieldwork on Native American cultures, suggests she shares this view. Partoftheanswertothisliesinhow,whencomparingextantcultures,itis
+Thereisanobviouslimitation tothepotentialofsuchalearningprocess, easy to think that a given culture developed as it did because of unique
+however, to which Le Guin, as a novelist, is not subject. This is that the economic, social, or geographical factors that cannot arise in the ethnog-
+anthropologist as an empirical social scientist is constrained to represent rapher’sownsociety.Thismakesitmoredifficulttoconceiveofsuchcultures
+as accurately as possible the actual societies with which they are con- as representing possibilities ‘for us’ than imagined cultures that directly
+fronted.Thisotherwiseobviouspointisworthmakingasithighlightsthe extrapolate from observable processes in the ethnographer’s immediate con-
+importance of combining anthropological knowledge and methodology text. At the very least, it suggests that these two forms of intercultural com-
+with science-fictional worldbuilding. What Le Guin has in common with parison yield somewhat different critical orientations. Another part of the
+Geertzis anabilitytoplacethe readerwithinafullyrealised yetunfamil- answer lies in the fact that ethnography is a form of writing that not only
+iarsocialworld.Byemployingthesciencefictiongenre,however,withits describes but also constructs its subject. This point was central to anthropol-
+simultaneous relation of difference and sameness to the present, and its ogy’sliteraryturn,whichlookedbacktotheinterestvoicedbyearlieranthro-
+unique way of granting a historical perspective on that present, Le Guin pologists in literary theory and practice (Craith and Fournier, 2016). As
+initiates a utopian mode of anthropology concerned as much with life as James Clifford, a key figure in the literary turn, has observed, ‘Margaret
+it might be as with life as it is. The nonbinary gender system of the Mead, Edward Sapir, and Ruth Benedict saw themselves as both anthro-
+Gethenians, the non-egoic solidarity of the Anarresti, and the ecological pologists and literary artists’ (Clifford, 1986: 1). Meanwhile, in his key 1973
+attunement of the Kesh are all examples of science-fictional devices essay on thick description, Geertz states that ‘anthropological writings are
+which, although radically utopian in one sense, nevertheless display necessarily second and third order interpretations’ and ‘are thus, fictions;
+clear links to real historical developments, including feminism, queer fictions, in the sense that they are ‘‘something made’’, ‘‘something fash-
+politics, socialism, anarchism, andenvironmental activism.Thephenom- ioned’’’ (Geertz, 2017f: 17) – a point he subsequently expanded on
+enological fluency with which these practices are rendered helps the (Geertz, 1988). Anthropology is of course distinguishable from fiction for
+reader to relate them back to their own experience and to recognise manypurposes,but,astheliteraryturndemonstrated,theirsharedemphasis
+that, contra Jameson’s charge of world reduction, none of them requires on the reconstruction and elaboration of diverse kinds of human experience
+a leap outside the process of history altogether. If anything, Le Guin means that no straightforward separation between the two can be consist-
+illustrates how science fiction as a genre allows thick description and ently maintained. Conversely, as seen from our discussion of Le Guin’s
+historicity to become mutually enabling rather than mutually exclusive. novels,‘fictional’neednotmean‘entirelyinvented’.Aswellasincorporating
+Inmappingthe relationshipbetweenhistoricity,thick description, and real-world elements, Le Guin’s fiction dramatises the cognitive and affective
+science fiction in Le Guin, we have identified the core of her implicit challenges of entering into and comprehending an unfamiliar way of life
+theory of anthropology. One might nevertheless wish to ask what value without either (i) entirely reducing it to the reader’s local idiom, or (ii)
+such speculative anthropology is supposed to have for anthropologists assuming that cultural differences make mutual understanding impossible.
+themselves. What exactly is to be gained by anthropological engagement Afinalcomponentofspeculativeanthropologylikelytoproveofinterest
+with science fiction? After all, a ‘speculative’ reconstruction of a trad- tosocialscientistsisitsrelationshiptothefuture.Althoughwecannotfully
+itional way of life on the part of an anthropologist in the field would just engage with them here, there have been various proposals for bringing
+be bad anthropology, however imaginative it might be. An initial answer futurity centre-stage in anthropology. For example, in projecting an
+is that, by illustrating how society could be organised differently, science ‘anthropology of the future’, Rebecca Bryant and Daniel M. Knight
+fiction is a valuable resource for thinking critically about the present by makethecasefor‘areorientationofthedisciplinefrombeingtobecoming,
+denaturalising practices we take for granted and imagining counterfac- from structure to agency, and from social institutions to the hope, plan-
+tual lines of development. This is a promising approach to the genre for ning, practices, and action that project those into the yet-to-come’ (Bryant
+social scientists because many of the phenomena examined in science and Knight, 2019: 192–3). In response to these intimations, we shall close
+fiction (e.g. gender, class) are constitutive of real-world social relations with the suggestion that when we recognise Le Guin’s deployments of
+
+[PAGE 20]
+                                                             
+                                                             
+      20                              Theory, Culture & Society 0(0)
+      138                            Theory, Culture & Society 40(7-8)
+                                                             
+      speculative anthropology as containing possibilities for us, a productive
+      dialogue between anthropology and science fiction studies may beckon.
+                                                             
+      Acknowledgements                                       
+      The authors would like to thank Joe P.L. Davidson and the anonymous peer reviewers
+      for their helpful comments on an earlier draft.        
+                                                             
+      ORCID iD                                               
+      Daniel Davison-Vecchione https://orcid.org/0000-0003-4376-1195
+                                                             
+      Notes                                                  
+                                                             
+      1. Le Guin has sometimes been considered part of a subgenre known as
+        ‘anthropological science fiction’, encompassing Chad Oliver, Michael
+        Bishop, and Joanna Russ, among others (Collins, 2004). The term ‘specula-
+        tiveanthropology’asweuseithere,however,referstoaspecificcombination
+        of thick description, historicity, and utopian anticipation. Whether it can be
+        applied to writers otherthan LeGuin wouldtherefore have to beconsidered
+        on a case-by-case basis (see also Collins, 2005).    
+      2. WhenGeertzwasappointedatHarvard,heprovidedassistanceonaresearch
+        project on the multiple meanings of the term ‘culture’ led by, among others,
+        A.L. Kroeber, ‘the then dean of the discipline’ (Geertz, 2000b: 12).
+      3. LeGuinelsewheresuggeststheinspirationforthe‘CityofMind’camepartly
+        from her reading of Claude Le´vi-Strauss’s lecture, ‘The Scope of
+        Anthropology’ (Le Guin, 2018b: 117).                 
+      References                                             
+      Anderson, Ryan, Backe, Emma Louise, Nelms, Taylor, Reddy, Elizabeth and
+       Trombley, Jeremy (2018) Speculative anthropologies. Fieldsights. Available
+       at: https://culanth.org/fieldsights/series/speculative-anthropologies (accessed
+       22 September 2020).                                   
+      Bell, Duncan (2020) Dreamworlds of Race: Empire and the Utopian Destiny of
+       Anglo-America. Princeton, NJ: Princeton University Press.
+      Bronner, Simon J. (2005) Contesting tradition: The deep play and protest of
+       pigeon shoots. Journal of American Folklore 118(470): 409–452.
+      Bryant, Rebecca andKnight, Daniel M. (2019) The Anthropology ofthe Future.
+       Cambridge: Cambridge University Press.                
+      Clements,ForrestE.,Schenck,SaraM.andBrown,TheodoraK.(1926)Anew
+       objective method for showing special relationships. American Anthropologist
+       28(4): 585–604.                                       
+      Clifford, James (1986) Introduction: Partial truths. In: Clifford, James and
+       Marcus, George E. (eds) Writing Culture: The Poetics and Politics of
+       Ethnography. Berkeley: University of California Press, pp. 1–26.
+      Clifford, James and Marcus, George E. (eds) (1986b) Writing Culture: The
+       Poetics and Politics of Ethnography. Berkeley: University of California Press.
+      Collins, Samuel Gerald (2004) Scientifically valid and artistically true: Chad
+       Oliver, anthropology, and anthropological SF. SFS 31(2): 243–263.
+
+[PAGE 21]
+                                                             
+                                                             
+20 Theory, Culture & Society 0(0) Davison-Vecchione and Seeger 21
+       Davison-Vecchione and Seeger                  139     
+                                                             
+speculative anthropology as containing possibilities for us, a productive Collins, Samuel Gerald (2005) ‘No anthropologist aboard the Enterprise’:
+dialogue between anthropology and science fiction studies may beckon. Science fiction and anthropological futures. Anthropology & Education
+        Quarterly 36(2): 182–188.                            
+       Craith, Ma´ire´ad Nic and Fournier, Laurent Sebastian (2016) Literary anthro-
+Acknowledgements                                             
+        pology: The sub-disciplinary context. Anthropological Journal of European
+The authors would like to thank Joe P.L. Davidson and the anonymous peer reviewers Cultures 25(2): 1–8.
+for their helpful comments on an earlier draft. Davies,William(ed.)(2018)EconomicScienceFictions.London:GoldsmithsPress.
+       Duneier, Mitchell (2011) How not to lie with ethnography. Sociological
+        Methodology 41(1): 1–11.                             
+ORCID iD                                                     
+       Fortun, Kim (2001) Advocacy After Bhopal: Environmentalism, Disaster, New
+Daniel Davison-Vecchione https://orcid.org/0000-0003-4376-1195
+        Global Orders. Chicago: University of Chicago Press. 
+       Freedman,Carl(2017)Sciencefictionandcriticaltheory.In:Latham,Rob(ed.)
+Notes   Science Fiction Criticism: An Anthology of Essential Writings. London:
+        Bloomsbury, pp. 225–245.                             
+1. Le Guin has sometimes been considered part of a subgenre known as Geertz, Clifford (1988) Works and Lives: The Anthropologist as Author.
+‘anthropological science fiction’, encompassing Chad Oliver, Michael Stanford, CA: Stanford University Press.
+Bishop, and Joanna Russ, among others (Collins, 2004). The term ‘specula- Geertz, Clifford (2000a) Available Light: Anthropological Reflections on
+tiveanthropology’asweuseithere,however,referstoaspecificcombination Philosophical Topics. Princeton, NJ: Princeton University Press.
+of thick description, historicity, and utopian anticipation. Whether it can be Geertz, Clifford (2000b) Passage and accident: A life of learning. In: Available
+applied to writers otherthan LeGuin wouldtherefore have to beconsidered Light: Anthropological Reflections on Philosophical Topics. Princeton, NJ:
+on a case-by-case basis (see also Collins, 2005). Princeton University Press, pp. 3–20.
+2. WhenGeertzwasappointedatHarvard,heprovidedassistanceonaresearch Geertz,Clifford(2000c)Thestateoftheart.In:AvailableLight:Anthropological
+project on the multiple meanings of the term ‘culture’ led by, among others, Reflections on Philosophical Topics. Princeton, NJ: Princeton University
+A.L. Kroeber, ‘the then dean of the discipline’ (Geertz, 2000b: 12). Press, pp. 80–142.
+3. LeGuinelsewheresuggeststheinspirationforthe‘CityofMind’camepartly Geertz, Clifford (2017a) Deep play: Notes on the Balinese cockfight. In: The
+from her reading of Claude Le´vi-Strauss’s lecture, ‘The Scope of
+        Interpretation of Cultures: Selected Essays, 3rd edn. New York: Basic Books,
+Anthropology’ (Le Guin, 2018b: 117).                         
+        pp. 435–73.                                          
+       Geertz,Clifford(2017b)Person,time,andconductinBali.In:TheInterpretation
+References                                                   
+        of Cultures: Selected Essays, 3rd edn. New York: Basic Books, pp. 385–434.
+Anderson, Ryan, Backe, Emma Louise, Nelms, Taylor, Reddy, Elizabeth and Geertz, Clifford (2017c) Religion as a cultural system. In: The Interpretation of
+Trombley, Jeremy (2018) Speculative anthropologies. Fieldsights. Available Cultures: Selected Essays, 3rd edn. New York: Basic Books, pp. 93–135.
+at: https://culanth.org/fieldsights/series/speculative-anthropologies (accessed Geertz,Clifford(2017d)TheInterpretationofCultures:SelectedEssays,3rdedn.
+22 September 2020). New York: Basic Books.                   
+Bell, Duncan (2020) Dreamworlds of Race: Empire and the Utopian Destiny of Geertz, Clifford (2017e) The politics of meaning. In: The Interpretation of
+Anglo-America. Princeton, NJ: Princeton University Press. Cultures: Selected Essays, 3rd edn. New York: Basic Books, pp. 333–348.
+Bronner, Simon J. (2005) Contesting tradition: The deep play and protest of Geertz, Clifford (2017f) Thick description. In: The Interpretation of Cultures:
+pigeon shoots. Journal of American Folklore 118(470): 409–452. Selected Essays, 3rd edn. New York: Basic Books, pp. 1–33.
+Bryant, Rebecca andKnight, Daniel M. (2019) The Anthropology ofthe Future. Howe,Leo(1991)Rice,ideology,andthelegitimationofhierarchyinBali.Man:
+Cambridge: Cambridge University Press. New Series 26(3): 445–467.
+Clements,ForrestE.,Schenck,SaraM.andBrown,TheodoraK.(1926)Anew Jameson, Fredric (2005a) Archaeologies of the Future. London: Verso.
+objective method for showing special relationships. American Anthropologist Jameson,Fredric(2005b)Progressversusutopia;Or,canweimaginethefuture?
+28(4): 585–604. In: Archaeologies of the Future. London: Verso, pp. 281–295.
+Clifford, James (1986) Introduction: Partial truths. In: Clifford, James and Jameson, Fredric (2005c) World reduction in Le Guin. In: Archaeologies of the
+Marcus, George E. (eds) Writing Culture: The Poetics and Politics of Future. London: Verso, pp. 267–280.
+Ethnography. Berkeley: University of California Press, pp. 1–26. Kroeber, A.L. (1979) Handbook of the Indians of California. New York: Dover.
+Clifford, James and Marcus, George E. (eds) (1986b) Writing Culture: The Kroeber,Theodora(2002)IshiinTwoWorlds.Berkeley:UniversityofCalifornia
+Poetics and Politics of Ethnography. Berkeley: University of California Press. Press.
+Collins, Samuel Gerald (2004) Scientifically valid and artistically true: Chad Kroeber, Theodora (2005) The Inland Whale: Nine Stories Retold from
+Oliver, anthropology, and anthropological SF. SFS 31(2): 243–263. California Indian Legends. Berkeley: University of California Press.
+
+[PAGE 22]
+                                                             
+                                                             
+      22                              Theory, Culture & Society 0(0)
+      140                            Theory, Culture & Society 40(7-8)
+                                                             
+      Le Guin, Ursula (1999) The Dispossessed. London: Gollancz.
+      Le Guin, Ursula (2005) A response, by Ansible, from Tau Ceti. In: The New
+        UtopianPoliticsofUrsulaK.LeGuin’sTheDispossessed,eds.LaurenceDavis
+        and Peter Stillman, Lanham, MD: Lexington Books, pp. 305–308.
+      Le Guin, Ursula (2016) Always Coming Home. London: Gollancz.
+      Le Guin, Ursula (2017a) The day before the revolution. In: Ursula K. Le Guin:
+        The Hainish Novels & Stories, Vol. 1, ed. Brian Attebery. New York: The
+        Library of America, pp. 975–989.                     
+      Le Guin, Ursula (2017b) The Left Hand of Darkness. London: Gollancz.
+      Le Guin, Ursula (2018a) Dreams Must Explain Themselves: The Selected Non-
+        Fiction of Ursula K. Le Guin. London: Gollancz.      
+      Le Guin, Ursula (2018b) A non-Euclidean view of California as a cold place to
+        be. In: Dreams Must Explain Themselves: The Selected Non-Fiction of Ursula
+        K. Le Guin. London: Gollancz, pp. 105–125.           
+      Milner, Andrew (2010) Tenses of Imagination: Raymond Williams on Science
+        Fiction, Utopia, and Dystopia. Bern: Peter Lang.     
+      Naples, Nancy A. (2003) Feminism and Method: Ethnography, Discourse
+        Analysis, and Activist Research. New York: Routledge.
+      Peletz,MichaelG.(1993)Sacredtextsanddangerouswords:Thepoliticsoflaw
+        and cultural rationalization in Malaysia. Comparative Studies in Society and
+        History 35(1): 66–109.                               
+      Roseberry, William (1982) Balinese cockfights and the seduction of anthropol-
+        ogy. Social Research 49(4): 1013–1028.               
+      Ryle, Gilbert (1971a) Collected Papers 1929–68, Vol. 2. London:
+        Hutchinson & Co.                                     
+      Ryle,Gilbert(1971b)Thethinkingofthoughts:Whatis‘LePenseur’doing?In:
+        Collected Papers 1929–68, Vol. 2. London: Hutchinson & Co., pp. 480–486.
+      Ryle,Gilbert(1971c)Thinkingandreflecting.In:CollectedPapers1929–68,Vol.
+        2. London: Hutchinson & Co., pp. 465–479.            
+      Seeger, Sean, and Davison-Vecchione, Daniel (2019) Dystopian literature and
+        the sociological imagination. Thesis Eleven 155(1): 45–63.
+      Sewell Jr., William H. (1997) Geertz, cultural systems, and history: From syn-
+        chrony to transformation. Representations 59: 35–55. 
+      Stewart, Kathleen (2007) Ordinary Affects. Durham, NC: Duke University
+        Press.                                               
+      Taussig, Michael (2010) The Devil and Commodity Fetishism in South America,
+        30th anniversary edn. Chapel Hill: University of North Carolina Press.
+      Waters, Ronald G. (1980) Signs of the times: Clifford Geertz and historians.
+        Social Research 47(3): 537–556.                      
+      Wolf-Meyer, Matthew (2019) Theory for a World to Come: Speculative Fiction
+        and Apocalyptic Anthropology. Minneapolis: University of Minnesota Press.
+      Daniel Davison-Vecchione is a PhD candidate in Sociology at the
+      University of Cambridge.                               
+      Sean Seeger is Lecturer in Literature in the Department of Literature,
+      Film, and Theatre Studies at the University of Essex.  

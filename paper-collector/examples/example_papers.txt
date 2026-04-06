@@ -1,0 +1,15 @@
+# Add one DOI or arXiv ID per line. Comments with # are ignored.
+ 
+# DOIs (works with any journal paper)
+# 10.1037/0022-3514.63.5.749
+# 10.1080/01973533.2012.674547
+# 10.1177/0956797611420188
+ 
+# arXiv IDs (for preprints)
+# 2103.00020
+# 2201.11903
+ 
+# Full DOI URLs also work
+# https://doi.org/10.1111/j.1467-6494.2008.00536.x
+
+# Also: Drop PDF files directly into the examples/ folder. The filter-agent will extract the title, abstract, and keywords from each PDF and use them for scoring. File names do not matter.

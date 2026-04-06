@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(claude-api)",
+      "Skill(claude-api:*)",
+      "WebFetch(domain:developers.openalex.org)",
+      "WebFetch(domain:docs.openalex.org)",
+      "WebSearch",
+      "WebFetch(domain:www.semanticscholar.org)",
+      "WebFetch(domain:www.crossref.org)",
+      "Bash(curl -s \"https://api.openalex.org/works?filter=primary_location.source.issn:0263-2764,publication_year:2010-2026&per-page=3&select=title,publication_year,primary_location\")",
+      "Bash(python3 -m json.tool)",
+      "Bash(wait)",
+      "Bash(npx @playwright/mcp --version)",
+      "Bash(npx @playwright/mcp@latest --help)",
+      "Read(//Users/Gabri/.claude/**)",
+      "Bash(python3 -c \"import playwright; print\\('playwright available'\\)\")",
+      "Bash(pip3 install:*)",
+      "Bash(python3 -m playwright install chromium)",
+      "Bash(python3 -m py_compile download_pdfs.py)"
+    ]
+  }
+}

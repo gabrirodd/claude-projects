@@ -1,0 +1,1048 @@
+[PAGE 1]
+ 1178472                                                     
+ research-article2023 TCS0010.1177/02632764231178472Theory, Culture & SocietyOsborne and Rose
+                                                             
+                                                             
+       Article                                               
+                                             Theory, Culture & Society
+       Against Posthumanism:    Notes          2024, Vol. 41(1) 3 –21
+                                              © The Author(s) 2023
+       towards  an Ethopolitics of                           
+                                              Article reuse guidelines:
+       Personhood                         sagepub.com/journals-permissions
+                                        httpDs:O//dIo: i1.o0r.g1/1107.711/0727/60322673267462432131117788447722
+                                           journals.sagepub.com/home/tcs
+       Thomas Osborne                                        
+       University of Bristol                                 
+                                                             
+       Nikolas Rose                                          
+       Australian National University; University College London
+                                                             
+                                                             
+                                                             
+       Abstract                                              
+       Are we humans destined to become ‘posthuman’? In this paper, we question the
+       claims of posthumanism, accepting some of its broader insights whilst proposing a
+       more empirically and ethically appropriate ‘vitalist’ response. We argue that despite
+       recent changes in styles of thought that question the uniqueness of ‘the human’, and
+       despite novel technological developments for augmenting human bodies, we remain
+       – fundamentally – persons. Humans, as persons, are constitutively embedded in and
+       scaffolded by the material, social, semantic and cultural niches they have constructed
+       for themselves. An ‘ethopolitical’ response to our present that recognizes this fact not
+       only requires us to engage with the consequences of making lives in the unequal niches
+       that restrict and stunt the personhood of so many human beings at present, but also
+       requires us to broaden the bandwidth of those who are recognized fully as persons. In
+       our conclusion we briefly develop the theme that this emphasis on personhood can be
+       seen as a vitalist – rather than a humanist – stance. 
+       Keywords                                              
+       ethics, ethopolitics, personhood, posthumanism, vitalism
+                                                             
+                                                             
+                                                             
+       Have we become ‘posthuman’? Have we crossed some kind of a threshold, consigning
+       both the idea of human uniqueness and the limits of the natural born human being
+       to history? Should we embrace ‘posthumanism’ as the theoretical and ethical stance
+                                                             
+                                                             
+       Corresponding author: Thomas Osborne. Email: thomas.osborne@bristol.ac.uk
+       TCS Online Forum: https://www.theoryculturesociety.org/
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+      4                               Theory, Culture & Society 41(1)
+                                                             
+      appropriate to our times? In this paper we argue that this way of posing the question of
+      the human today forecloses crucial social, ethical and political debates, and that these
+      debates are better framed in terms of the ethopolitics of personhood.
+        Of course there are many versions of posthumanism in both the academic literature
+      and the popular media, and it is beyond the scope of this paper to review them all (Hayles,
+      1999; Herbrechter, 2013; Wolfe, 2009; Rosendahl et al., 2022). Nevertheless, for heuris-
+      tic purposes, we can distinguish two main themes in the current debates.
+        In one version, which we call ‘standpoint posthumanism’, the idea of the human
+      embodies the premises of those who framed it: the norm against which humans have
+      come to be judged is that of the male, white, heterosexual, European and so forth
+      (Braidotti, 2013). Thus standpoint posthumanism argues that we must reject the ideas
+      and values attached to the idea of ‘the human’ along with all the other binaries bequeathed
+      to us by phallocentric Enlightenment rationality: human/animal; man/woman; born/
+      made; white/black; reason/passion, etc. The very idea of the human, it is claimed, embod-
+      ies deeply prejudicial hierarchies and should be subject to critique by theory, philosophy,
+      and ethics in the name of a posthumanism that transcends such divisions. Central to this
+      normative project should be the emerging field of the post-humanities: studies that no
+      longer chart the doings and achievements of male, white humans but explore the consti-
+      tutive entanglements between humans, animals, material and technological artefacts and
+      other entities (Braidotti, 2018).                      
+        In another version, the claim that we are becoming posthuman is not so much norma-
+      tive as diagnostic. From this perspective, we have finally escaped the limits of our bio-
+      logical bodies: we are becoming posthuman because of technological advances from
+      genetic manipulation and brain-computer interfaces to neuroprosthetics and robotics
+      (Halberstam and Livingston, 1995; Fukuyama, 2006; Mahon, 2017). We are no longer
+      beings shaped by the long history of evolution; we have remade ourselves. From this
+      perspective, we need to address the novel social, ethical and political challenges that
+      these technological developments pose, whether these be limits on what is ethically or
+      legally permissible, or the dilemmas of attributing responsibility to self-driving automo-
+      biles or robots.                                       
+        In this paper, we argue that both these versions, whilst capturing something impor-
+      tant in our present, are framed in such a way as to foreclose crucial debates. Standpoint
+      posthumanism captures the implicit sociopolitical assumptions in many of the ways that
+      the distinction between human and non-human has been deployed historically. But it
+      shuts down crucial ethopolitical debates about the values that should shape relations
+      between diverse ways of being human persons in our global present. As for technologi-
+      cal posthumanism, as theorists like Serres (2019) have argued, humans escaped the
+      constraints of Darwinian evolution from the moment of emergence of our species (cf.
+      Sterelny, 2012). It is true that some posthumanists recognize that humans have always
+      been ‘more’ than human (Mahon, 2017; cf. Haraway, 2006) but this mis-poses the issue.
+      In Clark’s (2003) resonant phrase, humans are ‘natural born cyborgs’ and have always
+      augmented themselves with tools and scaffolded their forms of life with material, social,
+      semantic and linguistic artefacts. Despite many technological advances, and the fash-
+      ionable speculations of some popular science writers, the empirical reality is that the
+      destiny of the vast majority of us, many millions of whose lives are constrained by the
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+       Osborne and Rose                               5      
+                                                             
+       corporeal consequences of brutal material inequalities in access to infrastructure,1 is to
+       remain human, all too human. Our bodies and souls may be decomposed into data
+       points for algorithms or parameters for surveillance systems (Burrell and Fourcade,
+       2021; Roussi, 2020), but we bear the cerebral and corporeal consequences of these new
+       governmental regimes as vital organisms who, for the foreseeable future, are fated to
+       age, to suffer and to die.                            
+        This is not to deny that there are many changes in how some of us, at least in the
+       Global North, understand our status as human beings, and what, given the resources
+       necessary, humans are able to do to augment ourselves. But the claim that we have
+       become posthuman evades the necessary empirical and historical debates in the social
+       and human sciences about the many ways of being human in the past and the present and
+       the highly differentiated sociopolitical implications of technological changes in the fore-
+       seeable future. Any empirically grounded history, sociology and anthropology seems to
+       be lost in such ways of thinking, as is any genuine political awareness of the forces shap-
+       ing human lives in the multitude of different human inhabitations, and enabling or stunt-
+       ing human capacities.                                 
+        In short, each of these forms of posthumanism addresses a badly-formed problem;
+       they are unable to give rise to a progressive conceptual and empirical research pro-
+       gramme, still less a realistic politics. In this paper, we step aside from the language of
+       ‘posthumanism’ to propose what we argue is a more empirically robust and ethically
+       appropriate ‘vitalist’ response. Ours is an empirical vitalism that takes seriously ‘the
+       pathic aspects of life – pathology, sickness, error; in short everything that makes us, as
+       living beings, potentially weak, without power’ (Osborne, 2016: 185).
+        Such vitalism broadens the bandwidth of what it is to be a fully human person and
+       draws our attention to the historically and culturally variable extent to which all
+       human beings are accorded social, political and legal recognition as persons; a matter
+       that includes, but goes way beyond, the matter of rights. Rather than posthumanism,
+       we suggest, what is required is an ethopolitical response to such challenges to person-
+       hood in our present, that is to say, one that takes seriously the values and moral com-
+       mitments that should inform our political and ethical responsibilities (Rose, 2007:
+       27). A focus on the reality of the vital existence of human persons moves our attention
+       away from the often arcane debates about posthumanism to the reality of our present,
+       to an understanding of the complex vital infrastructure that has been, and is, required
+       to sustain personhood, and to support and sustain the differing modalities of living
+       human persons.                                        
+        In the first part of this paper, we consider the claims about the posthuman we have
+       outlined above and set out our objections to these in more detail. In the second part, we
+       develop our argument that we should formulate our investigations, not in terms of the
+       human, but in terms of the variety of ways of being a person; we suggest that we can
+       learn something from studies of what we term ‘minority persons’ about the ways, beyond
+       the posthuman, that we might go about understanding what Amanda Baggs terms ‘the
+       many shades of persons’.2 Finally, we briefly address our approach to vitalism, arguing
+       that it is necessary to recognize the specific pathos of being a finite human person strug-
+       gling to make a life, and to create and sustain a milieu for that life, in an often hostile and
+       unforgiving world.                                    
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+      6                               Theory, Culture & Society 41(1)
+                                                             
+      Part One: A Badly Formed Problem                       
+      The idea of ‘the human’ as the essence of a certain type of being has always been mis-
+      leading. The evidence from neurobiology, cognitive science and evolution firmly sup-
+      ports the view that human capabilities, mental and physical, have always been
+      ‘transdermal’ in John Dewey’s terms (Dewey, 1958 [1925]). These are invoked with
+      impressionistic verve by Serres (2019) when he argues that our exo-Darwinian status –
+      inaugurated by the first tools, by ‘culture’ – has turned inward upon itself; in a world of
+      extended technologies humanity has left Darwinism behind through novel technologies
+      that do not just situate the body in extended networks but which actually transform that
+      body and the person itself (pp. 40–41). These include what Serres (2019) describes as
+      soft technologies, by which he means information technologies of various types (p. 176).
+      These do not only extend the human outwards but fold into the human itself. With the
+      mushrooming of information technologies, Serres (2019) suggests that we have ‘returned
+      to evolution’, but perhaps this appears more Lamarckian than Darwinian as each genera-
+      tion passes on what it has invented to the next (p. 48).
+        Evolutionary and cognitive neurobiologists give empirical form to such arguments.
+      As Clark (1997) argues, human capacities are not bounded by their ‘skinbag’ but extended
+      by and embedded in the milieu that humans have carved out for themselves; as Sterelny
+      (2008) puts it, they are ‘scaffolded’ by the material organization of the environment, the
+      capacities for communication provided by language, and memory, and the semantic and
+      symbolic worlds they enable, worlds not just embodied or embrained, but built into lan-
+      guage and tradition and passed forward to each individual in the course of their develop-
+      ment (Sprevak, 2019). Thus, as Hutchins (1995) showed so compellingly, cognition ‘in
+      the wild’ is not a property of an isolated human brain but always distributed across and
+      embedded in a complex milieu of tools, instruments, persons within a specific material
+      environment. The distinctiveness of humans thus lies not only in the size and complexity
+      of their neuronal equipment but also in their long apprenticeship in which language in
+      action is taught anew to each generation, as are many other ‘natural’ human capacities
+      such as control of urination and defecation, management of requirements for food and
+      water, practices of mutual care and defence, especially of infants and other vulnerable
+      conspecifics, and so forth, all embedded in historically and culturally shaped modes of
+      individuation. Viewed from this perspective, the social history of humans in their differ-
+      ent cultures – naming practices, the transmission of myths and legends, religious rituals
+      and traditions, regimes of power and control, and indeed the very layout and architecture
+      of human material niches – creates a further social scaffolding through which human
+      animals become particular types of persons – with all their hierarchies and distinctions
+      – at different times and places (Sterelny, 2021).      
+        The ideas of 4E cognition – embodied, emplaced, extended and enacted cognition –
+      may be recent and subject to internal debate and external criticisms (see Newen et al.,
+      2018). But there is a much older body of scholarly research that has pointed to the way
+      that language, writing, printing, and even such apparently simple practices as list mak-
+      ing, have transformative cognitive consequences for humans (Goody, 1978; Latour,
+      1986). But there is much more to being human than the capacity to use these cognitive
+      skills. Contemporary humanness depends on an immensely complex but often barely
+                                                             
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+       Osborne and Rose                               7      
+                                                             
+       visible infrastructure – from sewage systems and water supplies through networks of
+       pipes and pipelines, the production and distribution of power through networks and
+       grids, the development of national and international standards and regulatory regimes,
+       the creation of global financial systems and much more, which extends way beyond any
+       human life and structures, supports and constraints across human generations (see the
+       articles collected in Collier et al., 2016).          
+        Our scaffolding has certainly been transformed by recent technological develop-
+       ments, but it has been similarly transformed innumerable times in our past. The thresh-
+       old, if there ever was one, from human animal to human being, was passed millennia
+       ago, and those who dream of a posthuman or transhuman future do so only by forgetting
+       what has made us human in the first place. If we need reminding of the consequences of
+       the absence of such scaffolding, we need only to consider what it takes to be human in
+       the slums of Mumbai or Dhaka, or contemplate the tragic reduction of the possibilities
+       for human life occurring as we write during the massive destruction of critical infrastruc-
+       ture by the ‘inhuman’ Russian bombardment of Ukraine. 
+       The Ethopolitics of Persons                           
+       This is the approach that we label ‘ethopolitical’. It is not so much to do with ‘the human’
+       but with persons, with the political, moral and conceptual schemas shaping who or what
+       counts as a person at any time and place, and their consequences for the multiple ways of
+       being persons at any one time and place (Rose, 2007: 22–7). Instead of invoking the
+       binary terminology of the human versus the posthuman we insist on the multiplicity of
+       modalities of personhood. Of course personhood is always a construct – but none the less
+       real for all that. What or rather who does or does not qualify as a person is, and long has
+       been, a political issue. Recall, for example, the well known facts that slaves were not
+       counted as full persons in early US censuses (Finkelman, 2012); that in many jurisdic-
+       tions women could not be fully persons at law until very recently; and that it has taken
+       decades of political activism, including now the neurodiversity movement, to grant full
+       person-ness to those deemed mad or intellectually differently abled. Perhaps it will be
+       argued that this shows that the category of the person is no less difficult to pin down than
+       that of the human – are we speaking of legal persons, of dramatic personae, and what, for
+       example, is implied when people attribute some form of personhood to animals? But in
+       all these cases, what is indeed involved are questions of value and values, and the politi-
+       cal and ethical disputes around these. That is to say, these are ethopolitical issues, and the
+       challenges raised in defining or delimiting personhood are unlikely to be resolved epis-
+       temologically or even philosophically. Indeed, rather than suggesting that the category of
+       the human should be superseded, we suggest it is more productive to explore how ideas
+       as to what or who counts as a person have been transformed in different historical and
+       geographical domains, and in arenas ranging from the medical to the geopolitical.
+        The binary of human versus posthuman prematurely forecloses these investigations of
+       the formation, maintenance and overturning of different modes of personhood, the scaf-
+       foldings and affordances that have made such forms of personhood possible, and the
+       value and values attached to the varieties of persons, historically and culturally, for
+       instance in relation to rank, race, gender, age, or sensory impairments. These are not
+                                                             
+                                                             
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+      8                               Theory, Culture & Society 41(1)
+                                                             
+      merely socially ascribed statuses but entail very different material, corporeal and cere-
+      bral modes of being. If we are to understand the mutations in our present that are bundled
+      into the posthuman ‘turn’ then we will need to be realistic, in the sense of an attention to
+      the ways in which our ways of thinking about, intervening upon and being human per-
+      sons are changing in the light of research on human evolution, animal sentience, artificial
+      intelligence and so forth and the specific questions of ethics and politics that these
+      changes raise.                                         
+        For example, we do not need to question human exceptionalism to recognize what is
+      at stake in the campaigns of activists protesting against the cruel treatment of animals,
+      whether it be the harsh violence of the slaughterhouse, the routinized violence of indus-
+      trial food production, or even the constraining and moulding of animal biology in the
+      everyday routines of the farmyard. Theirs is an idealistic but pragmatic ethopolitics, a
+      rejection of practices that are cruel or hurtful to animals, based on the belief that they can
+      feel pain and suffer, that is to say they have modes of sentience that should be recognized
+      in particular ways. Those who wonder if robots equipped with artificial intelligence will
+      develop sentience or consciousness do not suggest that this would make such entities
+      human but that it would make them, at least in some respects, worthy of some of the
+      rights and protections granted to persons, and also some of their ethical and legal obliga-
+      tions. An ethopolitical perspective enables us to extend our concerns to non-human oth-
+      ers that demonstrate sentience, and even grant them some of the protections hitherto
+      reserved to certain types of persons, while still recognizing what evolutionary biology
+      and historical sociology have shown us – that, as far as our own planet is concerned,
+      while humans are not alone in their capacity for sentience, they are indeed a unique spe-
+      cies, albeit one that is constitutively entangled in much wider webs of life and indeed in
+      the transformation of the materiality of our planet itself.
+      The Universal Human?                                   
+      Whilst the hierarchies of raciology are all too familiar, we need no posthuman standpoint
+      to underpin critical evaluations of these styles of thought and their consequences (e.g.
+      Gould, 1981; Gilman, 1985). The movements towards universal human rights have been
+      more ethopolitical than ontological, that is to say based on certain values and ideals
+      about how a human person should be treated and directed against certain classes of harms
+      that violate those beliefs. Take, for instance, three conventions: the charter of human
+      rights, the idea of crimes against humanity and the convention on the rights of persons
+      with disabilities. The UN Universal Declaration of Human Rights adopted in 1948 does
+      not make much mention of ‘the human’ but refers in its preamble, for example, to ‘inal-
+      ienable rights of all members of the human family’ and to ‘the dignity and worth of the
+      human person’ and later refers throughout simply to ‘everyone’.3 The 11 categories of
+      offences that are considered ‘crimes against humanity’ in the 1998 Rome Statute estab-
+      lishing the International Criminal Court refer to offences against civilian populations and
+      persons, but not to any universal category of humans. It needs no ontological account of
+      the human to define such crimes, and the history of the concept shows its pragmatic,
+      ethopolitical status; the category of ‘crimes against humanity’ emerged because there
+      was need for a notion that encapsulated genocidal behaviour beyond the ‘laws of war’ – a
+                                                             
+                                                             
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+       Osborne and Rose                               9      
+                                                             
+       crime against humanity is thus pragmatically distinguished from a ‘war crime’ (Jia,
+       1999; Osborne, 2003). The 2006 UN Convention on the Rights of Persons with
+       Disabilities refers throughout, as the title suggests, not to ‘human rights’ but to ‘persons
+       with disabilities’.4 And while the politics of enforcement of these instruments and decla-
+       rations is highly unequal, there is not much sign here of an underlying conception of the
+       human as male, white, fully abled, heterosexual or any of the other attributes that some
+       posthumanists believe is invoked by the term – indeed quite the reverse, the history of
+       these endeavours shows very clearly the repeated attempts to extend their concerns to all
+       persons.                                              
+        Such conventions function as part of what Judith Shklar termed ‘the liberalism of
+       fear’ (Shklar, 1989), a set of beliefs about the equal worth of all persons, and instrumen-
+       tally as one weapon, albeit limited, against cruelty and fear. Bernard Williams has called
+       this a ‘negative universalism’, and the idea of all human persons as forming one family
+       certainly has a place in such ethopolitical debates (Williams, 2005). Similarly, for a
+       writer such as Gilroy (2001), a vision of a cosmopolitan ‘planetary humanism’ is not
+       based in ontology but is a strategy for combatting the many varieties of fascism and
+       raciology. It is, in our terms, an ethopolitical move, an ethical strategy to give shape to
+       urgent demands in the politics of our present.        
+       Uneasy Cyborgs                                        
+       What, then, of claims that, even if we humans are only such because of our augmenta-
+       tions and scaffolds, recent technological developments, in artificial intelligence, robot-
+       ics, prosthetics, brain-computer implants or brain-machine interfaces and the like, do
+       mark a threshold, freeing us from the skinbags of our body, with its ailments and inescap-
+       able ageing, liberating our minds from those limited capacities bequeathed to us by the
+       aleatory work of evolution? For some who think this way, age will be conquered by
+       genetic engineering, babies will be born in artificial environments engineered to maxi-
+       mize their capacities, ailments will be all but eliminated as genomes will be edited at
+       birth if not before to ensure longevity and eliminate the defects that lead to disease,
+       humans will have chips implanted into their brains, using wireless technologies, not just
+       to control prosthetic limbs but also to enhance their sensory capacities and manipulate
+       distant robotic entities via the internet (e.g. Lee, 2019; Bohan, 2022). Yet one needs to be
+       realistic about the limits of these augmentations. Our AIs can win at chess but have no
+       idea what the game means to those who play it, our self-driving cars prove all too prone
+       to ‘accidents’, Google strongly denies that its advanced language recognition and
+       response system LaMDA has given rise to sentience,5 and even though our sex aids and
+       robot companions have got fancier since ancient times, as COVID isolation has shown
+       us, we still yearn for the touch, taste and smell of another human body, and can die of
+       loneliness (Cacioppo and Patrick, 2008). As for augmenting our bodies and brains, a
+       growing literature has shown that it is not necessarily so easy to live with ones prostheses
+       (e.g. Davies and Dattta, 2003) and the use of brain/computer interfaces requires exten-
+       sive training and is exhausting for the user over any long period (Olaronke et al., 2018).
+       Many who have electrodes implanted for deep brain stimulation to modulate mobility
+       problems cause by Parkinson’s, and now to ‘treat’ depression, ask for them to be turned
+                                                             
+                                                             
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+      10                              Theory, Culture & Society 41(1)
+                                                             
+      off as they dislike the effects they have on their own sense of personhood (Bluhm et al.,
+      2020; Dubiel, 2009). While some dream of uploading human brains into silicon entities,
+      our understanding of the neural circuitry of even the most simple creatures is rudimen-
+      tary, and despite multi-million-dollar research projects such as the European Human
+      Brain Project, and similar endeavours in the US and many other regions, our understand-
+      ing of the real time functioning – rather than the structures – of the normal human brain
+      in everyday human activities, let alone in pathologies, remains rudimentary.6
+        We still have no mechanistic understanding of some of the most devastating neuro-
+      logical disorders, and decades of careful and rigorous brain research has not led to effec-
+      tive interventions in dementias (Mauricio et al., 2019). While gene editing using the
+      technology known as CRISPR-Cas9 is now used in plant breeding, it is not generally
+      accepted for humans, given the high proportion of failures, even in attempts to target
+      well-specified single gene disorders (Zuccaro et al., 2020).7 Genomics has certainly
+      helped us to understand the mechanisms of some disorders, but the wholesale revolution
+      in genomic medicine promised at the time of the sequencing of the human genome has
+      yet to arrive (Coote and Joyner, 2015; McCarthy et al., 2013). Notwithstanding the gurus
+      who tell us that immortality is just around the corner, we continue to age, suffer and die
+      in grotesquely unequal ways. So despite the claims of technological post-humanism, and
+      the hype of the entrepreneurs of Silicon Valley, we remain human, all too human.
+      Part Two: Shades of Personhood                         
+      Humans are animals, their capacities arise out of intelligible processes of evolution, and
+      they share many capacities once thought to be unique to them with non-human animals
+      – tool use, capacity for communication, transmission of modes of behaviour down gen-
+      erations by learning, active problem solving, awareness, experience and some form of
+      sentience or consciousness, and, for some animals at least – dolphins, elephants, chim-
+      panzees – the capacity for self-recognition (Ginsburg and Jablonka, 2019). These capaci-
+      ties are never just ‘built in’ to the organism, they are always realized in particular niches
+      within which those creatures have evolved, developed, and co-constructed (Odling-Smee
+      et al., 2013). Yet the human animal has long departed from other animal forms, not sim-
+      ply in terms of the size, complexity and plasticity of human brains, and the long period
+      of development of humans outside the womb, but also by the almost inexhaustible vari-
+      ety of the milieus that they can successfully inhabit. Thus, we do not follow those who
+      seek to break down the wall, apparently another Enlightenment binary, between human
+      and non-human animals – and indeed between humans and the natural world more gener-
+      ally (Descola, 2014; Despret, 2016; Kohn, 2013).       
+        But there is another difference. While there is debate about whether non-human ani-
+      mals can recognize different individuals, each individual human being, or each one that
+      survives into infancy, is individuated by a name and recognized by their face (Ferretti
+      and Papaleo, 2019). And in the moment of such individuation, the being becomes a per-
+      son, a person only in situ, a unique form of being in its own landscape of being, the
+      milieu in which it can make its way, for better or for worse, as a person enacting a par-
+      ticular mode of being in a particular material, linguistic, social, semantic ‘umwelt’ of
+      signs and meanings.                                    
+                                                             
+                                                             
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+       Osborne and Rose                               11     
+                                                             
+       Repertoires of Personhood                             
+       In his famous essay on the notions of the person and the self, delivered in London in
+       1938, Mauss (2021 [1938]) argued that while the notion of the ‘I’ (le moi) is both recent
+       and culturally specific, notions of the person are perennial but have varied over time
+       from ‘a mere masquerade to the mask, from a role to a person, to a name, to an individual
+       . . . to a being with metaphysical value, from a moral consciousness to a sacred being’ (p.
+       260). The Oxford English Dictionary tells a similar story. It finds its earliest usage in
+       English in the 13th century, as in Old Occitan, Catalan, Spanish, Portuguese and Italian.
+       All have an etymological reference back to the Latin personae, for a ‘role or character’
+       assumed in real life or in a drama or story, but also to the idea of ‘an individual human
+       being’, sometimes with a qualifying word denoting rank (high or low). Later usages
+       distinguish the person from his or her occupation, relate to the living body of a human
+       being present at some place without reference to their dress or adornment, that is to say
+       to be present ‘in person’. By the 17th century, the word seems to have acquired the fur-
+       ther connotation of a being that has reason, reflection and can consider itself as a self –
+       which leads to the question posed in The Humanist, in 1994, and that we are still posing
+       three decades later: ‘Will artificial intelligence develop to the point that a computer or
+       robot could qualify as a person?’8                    
+        Of course, there are many other senses, including the grammatical one, but the most
+       important for our purposes is that of law, viz. whether an entity, individual or corporate
+       body is recognized by the law as having certain rights or duties. As the influential English
+       jurist William Blackstone puts it in 1765, in The Common Laws of England: ‘Natural
+       persons are such as the God of nature formed us; artificial are such as are created and
+       devised by human laws for the purposes of society and government, which are called
+       corporations or bodies politic’ (Blackstone, 1765: vol. 1, i, 123). Thus, as is well-known,
+       for many centuries in many jurisdictions, while women could be tried in the criminal
+       courts, they were not independent ‘natural persons’ in other areas of law, could not own
+       property or initiate divorce. In the US, in the censuses of 1850 and 1860, slaves were not
+       enumerated alongside freeborn Americans and not counted as persons, and when they
+       were counted at all, as required by the Federal Constitution, the Constitution ‘stipulated
+       that a slave counted as three-fifths of a person for purposes of taxation and apportion-
+       ment of the House of Representatives’.9 The question, then, was not who is human,
+       subhuman or posthuman, but which living human being is counted as a person, by whom
+       and with what consequences.                           
+       Minority Persons                                      
+       The term ‘minority persons’ is increasingly used to refer to ethnic minorities or those
+       with particular sexual orientations and, more recently, to those with physical disabilities
+       (cf. Barnes, 2016). Activists for different minority groups have waged a long struggle
+       for their constituents to be recognized as persons at law. But it is not only a question of
+       law. Of course the law can be both an indicator of personhood and the grounds for
+       claims to be made by those whose status as persons is not fully recognized. But behind
+       the law the possibility of being a particular kind of person is constructed out of motley
+                                                             
+                                                             
+                                                             
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+      12                              Theory, Culture & Society 41(1)
+                                                             
+      materials – discourses, practices, objects – and always enacted in situ, that is to say in
+      particular places, times, niches (cf. Hacking, 1995; 1998).
+        There is a tendency to consider persons, in their ‘normal’ state, as unitary, as essen-
+      tially whole, distinct from other persons and coherent in themselves, and to think as non-
+      unity as at least a potential pathology. In our view this is fundamentally mistaken.
+      Non-unity does not constitute an ailment. Let us take Janet (1929) as our example here.
+      In L’evolution psychologique de la personnalite, the person is understood as a unity of
+      otherwise separate things: a distinction from other such unities (individuality), and as
+      integration (actually Sherrington’s term). ‘Une personne . . . c’est un organisme humain,
+      avec une tete, des bras, des jambes, mais c’est un corps unique’ (p. 11). A person – unlike
+      an object such as a lamp or a table – has personality, which means that its distinctiveness
+      is not imposed from outside but is self-generated. Janet thinks this is very important – it
+      is surely a vitalist premise that only living beings generate their own distinctiveness. And
+      it is the doctor’s role, says Janet, to understand this self-generated distinctiveness. The
+      sick person is still a person, but with a different type or level of integration. But, cru-
+      cially, Janet sees the integration of the personality not as given but as travaille towards
+      unity. It is always a question of a striving, a form of vital activity: ‘nous appellerons
+      d’abord une personnalite l’ensemble des operations, des actes petits et grands, qui serv-
+      ant a un individu pour construire, maintenir, et perfectionner son unite et sa distinction
+      d’avec le reste du monde’ (p. 13). Janet’s own terminology for these worlds did not adopt
+      the romantic terminology of ‘wholeness’. The belief in wholeness as the actual, desirable
+      normal state of being a person is imposed upon us today, in part by our belief that our
+      name indexes the unity of a biography, in part because of the multiple practices of indi-
+      vidualization that hang on the name, from the courtroom to the tax office, the passport to
+      the death certificate. Janet used the terminology of equilibrium; persons strive to attain
+      equilibria, however temporary, both ‘within’ themselves, their varying conducts,
+      impulses and forms of comportment, but also in relation to their ‘environments’, con-
+      structing milieus which they both adapt and to which they adapt. Persons, as such, are
+      living beings, attempting to ward off the ‘catastrophic’ possibility of a level of disorgani-
+      zation that overwhelms their capacity to maintain their life (cf. Goldstein, 1995 [1939]).
+        Oliver Sacks is the most well-known example of this kind of approach. We can learn
+      a lot from his studies of those who live in worlds we have come to think of as ‘abnormal’
+      about the vital struggles of humans to make lives for themselves in worlds scaffolded for
+      other modes of being. The people whose lives Sacks documents live in worlds where
+      time and space and movement have become completely different from those inhabited
+      by ‘majority persons’, and yet some manage to live lives they would not forsake. In his
+      Preface to the 1990 edition of Awakenings, Sacks (1990 [1973]) writes that ‘what con-
+      fronted one . . . was not just disease or physiology, but people, struggling to adapt and
+      survive’ (p. xxvii). Indeed, what Sacks provides is what one might term a ‘clinical ethol-
+      ogy’ of what it is to be a person. He writes: ‘We must be explorers in the uncanny realm
+      of being-Parkinsonian, this land beyond the boundaries of common experience . . . to
+      compare being-Parkinsonian with that mode-of-being that we agree to call “normal”’
+      (Sacks (1990 [1973]: 8). Sacks, as a clinician, has no hesitation in considering the per-
+      sons he is treating as disordered, for Parkinsonism is pathological. It is a difference from
+      ‘normal’ response because it disrupts the background taken-for-granted aspects of
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+       Osborne and Rose                               13     
+                                                             
+       comportment; a pathological speeding-up (festination) and/or a pathological slowing
+       down (akinesia). But the pathology is experienced by the patients themselves, and Sacks’
+       accounts leave us in no doubt about their sense of being very painfully taken out of the
+       given, ‘normal’, background run of things. The version of Parkinsonism induced by
+       encephalitis lethargica and transformed by the administration of L-Dopa was indeed a
+       way of being a person, what Hacking might term a human kind, and we should not be
+       blind to the looping effects of this as with other categories. But whatever the similarities
+       between the persons that Sacks treated and those who live with Parkinson’s disease
+       today, the form of being a person that Sacks observed and treated could exist only in a
+       particular time and space; it was a way of being a person in a specific niche, a milieu that
+       no longer exists.                                     
+       Normal Persons?                                       
+                                                             
+       Sacks’ patients raise the issue of normativity. What, after all, is ‘normal’ personhood?
+       Our response is that the biologically normal is always relative to a milieu, and hence
+       there are indeed many forms of vital normativity. But there are also disturbances to that
+       normativity, whether caused by organic malfunction or other disruptions. Those minority
+       persons who are challenged by forms of organic restriction or disablement, either from
+       birth or by a disabling medical condition or what are is now termed a ‘life changing’
+       experience, are obliged to invent or enact strategies of normalization in relation to the
+       milieu in which they live, reshaping both themselves and that milieu in the process
+       (Dokumaci, 2020, 2023). Hence such kinds of ‘disorder’ are not merely a reduction from
+       a norm that is passively undergone. As Sacks puts it, commenting on Jelliffe’s work:
+       ‘Thus, post-encephalitic illness . . . needed to be seen as an individual creation of the
+       greatest complexity, determined not simply by a primary disease-process, but by a vast
+       host of personal traits and social circumstances; an illness, in short, like neurosis or psy-
+       chosis, a coming-to-terms of the sensitized individual with his total environment’ (Sacks,
+       1990 [1973]: 21–2). Sacks insists on the case-study method precisely for this reason: that
+       it is not just a question of ‘disease’. Thus, when patients take L-Dopa they often don’t
+       improve in terms of their symptoms but they do improve in terms of their sense of them-
+       selves as persons, able to reach a new compromise with their milieu. As, for instance, for
+       Frances D. (Dokumaci, 2023: 63, footnote):            
+        In her long years of illness, she had observed her own propensities and symptoms with a minute
+        curiosity, and had devised many ingenious ways of reducing, overcoming, or circumventing
+        these. Thus, she had various ways of ‘defreezing’ herself if she chanced to seize in her walking:
+        she would carry in one hand a supply of minute paper balls of which she would now let one
+        drop to the ground: its tiny whiteness immediately ‘incited’ or ‘commanded’ her to take a step,
+        and thus allowed her to break loose from the freeze and resume her normal walking pattern.
+       Perhaps in this ‘compromise’, this sense of improvisation, we can recognize strategies of
+       personhood more widely; for what makes us persons is all the different compromises we
+       make with our environment – our habits, our perceptions, our judgements and indeed, as
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+      14                              Theory, Culture & Society 41(1)
+                                                             
+      Sacks constantly emphasizes, our sociality: to be a person means to co-exist with others.
+      It is to be able to improvise and be responsive to one’s milieu and to others.
+        What can we learn from those persons who Sacks refers to as inhabiting a land beyond
+      the boundaries of common experience, out of step with that mode-of-being that we – or
+      the majority – agree to call ‘normal’? We referred earlier to a phrase used by Amanda
+      Baggs, an early activist for the rights of autistic persons, especially those deemed ‘low
+      functioning’. As she reminds us in her video, ‘In My Language’, there are ‘many shades
+      of persons’.10 Baggs creates a circumscribed world and utters cries and shrieks and
+      engages in repetitive motions to signal its qualities and boundaries, to bring about her
+      own kind of equilibrium. In this world, Baggs is indeed intensely, vitally normal. For her,
+      as she insists with such clarity, such behaviour is not irrational or senseless; it is a form
+      of making sense, not necessarily for ‘others’ but for the intensely social world that is her
+      own ‘interior’ world. If there is no-one else to speak to, after all, we speak with our-
+      selves. But, as Baggs insists:                         
+        The richness I experience of the world is not merely a more limited version of other people’s
+        experiences. My experiences have their own richness that other people may not be able to see,
+        and they are far more than a mere lack of movement, conventional thought, speech, language,
+        or perception. (Baggs, 2010)                         
+        Or consider persons who, for whatever reason, are deprived of one of the senses that
+      are common to the majority of those who live in the land we call normal, but who hardly
+      experience this as a ‘deprivation’. Helen Keller became deaf and blind at the age of
+      19 months, probably as a result of a virus. She emphasized the importance of touch; not
+      just that being deaf and blind she had necessarily to resort to touch, but the extent to
+      which her sense of touch could replace and even better the other senses; how, for instance,
+      she could read character traits in the hand and on the faces of those she met (Keller,
+      2010). To read her creation of a viable mode-of-being reveals that there are many ways
+      in which personhood can be improvised, and it is that incessant necessity for improvisa-
+      tion that makes persons human.11                       
+      Personhood beyond the Human                            
+                                                             
+      So what of personhood beyond the human? The Nonhuman Rights Project (NhRP) in the
+      US is trying to get legal status for chimps held in captivity in America and has brought a
+      number of cases to court, but so far their claims have been denied by judges on the
+      grounds that chimps are not persons (Andrews et al., 2019: 1). Following the traditional
+      – though increasingly problematic – legal distinction between persons and things
+      (Esposito, 2015), in US law, every entity is either a ‘person’ or a ‘thing’ – and chimps are
+      deemed to be ‘things’ and so not eligible for habeas corpus.12 In fact, in European his-
+      tory, the distinction of persons and things was not always so straightforward. As Edmund
+      P. Evans shows us in enormous detail, from the 9th century to the 18th century, in many
+      parts of Europe, animals – from woodworm whose chewing caused church beams to col-
+      lapse, killing and maiming worshippers, to pigs and other animals who caused the death
+      of innocent humans, to the weevils that destroyed French grapes around the French
+                                                             
+                                                             
+                                                             
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+       Osborne and Rose                               15     
+                                                             
+       village of St. Julien in the middle of the 16th century – could be brought to trial in the
+       ecclesiastical courts, and if found guilty, sentenced to death (Evans, 1906). They were
+       not thought of as humans, but in a certain sense they were considered as persons, as hav-
+       ing intentions to commit wrongful acts, and therefore liable to the same obligations and
+       punishment as persons with legal capacity.            
+        They illustrate our point: that these are ethopolitical issues, and such issues of person-
+       hood cannot be foreclosed in ontological or epistemological terms. Is Happy the ele-
+       phant, who is the subject of another test-case for the Nonhuman Rights Project, actually
+       deserving of some of the rights of personhood because she has demonstrated self-aware-
+       ness and hence a form of sentience deserving of respect? The NhRP filed ‘a petition for
+       a common law writ of habeas corpus in the New York Supreme Court, Orleans County,
+       demanding recognition of Happy’s legal personhood and fundamental right to bodily
+       liberty and her release to an elephant sanctuary’.13 Sceptics might reasonably respond
+       that while Happy should be treated well, it is absurd to confer personhood upon her in
+       order for her to be freed from restricted confinement. But the NhRP garnered support
+       from legal scholars, theologians and many other experts in their bid to extend the rights
+       and safeguards of personhood to a sentient non-human being. And why stop with ani-
+       mals? In Ecuador, legal status is given to forests and nature; and this aligns with some of
+       the recommendations of Michel Serres to ordinate a new ‘natural contract’ (Khandelwal,
+       2020; Serres, 1995). The idea of environmental personhood is not a posthumanist notion;
+       it is rather an event in contemporary ethopolitics – the seeding of an idea derived from
+       human personhood to non-human forms of the living.    
+        Personhood presupposes the possibility of ethology, an interpretation of conduct and
+       behaviour of sentient entities within given milieus (Williams, 2005). Persons do not enact
+       what an earlier generation of animal behaviourists, following Konrad Lorenz and Nico
+       Tinbergen, termed ‘fixed action patterns’ in which a given stimulus evokes a fixed chain
+       of behaviours (see Hinde, 1979). But actually, as a host of contemporary ethological stud-
+       ies have shown, most animal behaviour is not of the ‘fixed action pattern’ type. Animals
+       shape their behaviour in relation to their milieu; they form their milieu – construct it – out
+       of their environment in order to make a world that they can live in (Tomasello, 2022).
+       They confront situations and predicaments in given social and material space and react to
+       those in ways that may be habitual and non-conscious but are not automatic or pre-given.
+       We can extend this line of thinking to AI equipped robots. The question is not so much
+       whether they can think, but whether they can have some kind of sentience or awareness of
+       their situation, a critical awareness which entails not only inventing novel responses to
+       unpredictable changes in their milieu, but also a capacity to reshape their milieu itself in
+       relation to their goals. If so, their behaviour should be understood through an ethological
+       rather than a merely mechanical account. At present it is only in fictional representation
+       that such accounts are possible – one thinks of Ishiguro’s Klara and the Sun, or the movie
+       Ex Machina, both of which seem to us to be precisely about this issue. Some years ago,
+       Georges Canguilhem remarked that we were not quite at the stage yet when we could
+       imagine finding a volume in a bookshop entitled A Computer’s Autobiography or A
+       Computer’s Self-Critique (Canguilhem, 2008: 12). Yet, beyond the binaries that the post-
+       human imposes on our thinking, we now are indeed at the stage when we can engage in
+       the ethopolitical debates about what kinds of entities have potential personhood.
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+      16                              Theory, Culture & Society 41(1)
+                                                             
+      Conclusion                                             
+      For some Kantian philosophers – such as Christine Korsgaard – only humans have genu-
+      ine autonomy because only humans have language and self-consciousness so as to define
+      their own ends and be aware of them at all (Korsgaard, 2006). Such philosophical discus-
+      sions are highly normative, based on idealized conceptions of what it is to be a person,
+      and assuming that, if we are persons, we are constantly aware of what we are up to, we
+      are aware of our ends, and we act – or should be allowed to act – consciously and autono-
+      mously in order to achieve them. But this criterion for personhood would rule out almost
+      all human beings, given that most act according to ends that they have not consciously
+      chosen or willed, and are not autonomous in Korsgaard’s sense, but shaped and con-
+      strained by their social, symbolic, unequal milieu.    
+        It is not just Kantians who like to draw hard and fast lines between humans and others.
+      We might contrast Baggs’s pluralist appreciation of the multiple varieties of personhood
+      with that epitome of European philosophy, Martin Heidegger, who insisted that there
+      were, so to speak, barrier-like distinctions between dead things, mere animals and genu-
+      ine humans; that stones were without world, that animals – and presumably those humans
+      who, whether for medical or perhaps ‘racial’ reasons – were ‘poor in world’, and that
+      only genuine humans were ‘world-forming’ (Heidegger, 1995: 177). Others take an
+      ostensibly less hierarchical view and yet still subscribe to a narrowly anthropocentric
+      prejudice. Charles Taylor contends that personhood can only apply to humans since only
+      humans have language and so only humans can ‘respond’ to each other. ‘A person is a
+      being who can be addressed and who can reply’ (Taylor, 1985: 97). For Taylor, only
+      humans can be respondents. One might suspect that only ‘responsive’ humans would
+      qualify, and that the severely autistic or those with sensory impairments restricting their
+      capacity to hear or to speak might be categorized as non-human or less than fully
+      human.14 Whether Heideggerian or post-Hegelian, philosophers have tended to see non-
+      human matters in terms of a presumed ‘lack’ of world. But, as we have already argued, it
+      is persons that are ‘world-forming’, not just humans. And the essential problems of
+      ethopolitics will tend to turn around what is a ‘normal’ type of world-forming and what
+      is not.                                                
+        As we have argued, human responsiveness is a much wider matter than the possession
+      of language and is dependent on a lifetime of experience within all sorts of material and
+      social scaffolding beyond the skin of the individual. Gerard Quinn has argued in this
+      context that we need a more ‘three-dimensional’ understanding of disability and rights of
+      personhood; that human personhood is not just atomistic but shared, part of a surround-
+      ing and enabling – if not restricting – world (Quinn, 2012: 40). As such, personhood is a
+      category with politicized – or rather, ethopoliticized – boundaries. Its parameters are not
+      fixed by ontology, biology or even culture; they have to be negotiated via ethopolitical
+      effort. Persons might be defined in terms of their latitudes of responsiveness. A person
+      might be defined as an entity endowed with responses that are not just reflexive but, to
+      various extents, open-ended, improvised. Persons do not just react; they respond. Animals
+      have various shades of responsiveness, and even – at least potentially – certain sophisti-
+      cated kinds of artificial intelligence. It is true, as Canguilhem observed, that the condi-
+      tion of existence for all forms of artificial intelligence lies in the extended evolution of
+                                                             
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+       Osborne and Rose                               17     
+                                                             
+       living creatures capable of making them. There is no primeval soup from which any AI
+       could emerge. But nonetheless, such entities may be considered to have the capacities
+       that warrant the attribution of personhood if they show sentience and open-ended
+       improvisation to manage their existence in a milieu that has not been artificially created
+       for them: if they are niche constructors, engaged in milieus in which they have a certain
+       degree of latitude in the face of threats which they negotiate, using what is at hand from
+       the affordances of their situation, whether these are artefacts such as Frances D.’s minute
+       balls of paper or signs, symbols and theories. What is in question is not simply ‘adaption’
+       of an entity with fixed capacities to a given environment but the engaged activity of a
+       sentient creature creating its life through negotiating fields of experience of different
+       kinds. Perhaps the Helen Kellers of this world or Sacks’s patients are exemplary in this
+       regard, because of the degree to which they have sought to negotiate the kinds of cata-
+       strophic situation that confronted them.              
+        We have seen how the concept of personhood, derived as it is from specifically human
+       experience, can be seeded and transferred into non-human context. This is what much
+       contemporary ethopolitics is about. Debates about the extension of personhood are not
+       anthropomorphism – attributing to animals, and even to the environment, qualities of
+       human personhood. Nor is it a question of deriving personhood from some foundational-
+       ist ontology or epistemology. It is more akin to what Paul Ricoeur once termed the ‘con-
+       textualism of the universal’ (Ricoeur, 1998: 61; Osborne, 2003: 529), using the improvised
+       variability of human experience in situ as a kind of template. Personhood is not an onto-
+       logical category but it is a transferrable one; it is a condition of our own personhood that
+       we can debate the politic and ethics – the ethopolitics – of extending the concept of
+       personhood again and again beyond the limits that are taken to circumscribe it.
+        If our approach is vitalist, it is a vitalism as much of pathos as of affirmation (Osborne,
+       2016). To be alive, to emphasize the import of vitality, is not necessarily to celebrate or
+       ‘affirm’ life, but to be aware equally of the challenges of life, the catastrophic situations
+       in which many people – and non-human animals – find themselves. It is to be attentive
+       to the extent to which to be a person is not to be ‘normal’ but always to be, as Janet puts
+       it, striving to get beyond incompleteness, or what he calls the sense of ‘emptiness’, work-
+       ing towards different kinds of equilibria, however localized and precarious (Janet, 1929).
+       This, then, is more the ‘pathic’ vitalism of Samuel Beckett’s characters, struggling with
+       their milieu, counting stones in their pockets, a vitalism whose slogan might be ‘try
+       again, fail again, fail better’.                      
+       ORCID iD                                              
+       Nikolas Rose https://orcid.org/0000-0003-4007-5077    
+       Notes                                                 
+       1. This way of phrasing this issue was suggested by one of our anonymous reviewers.
+       2. https://www.youtube.com/watch?v=JnylM1hI2jc        
+       3. https://www.un.org/en/about-us/universal-declaration-of-human-rights
+       4. https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-
+         disabilities.html#Fulltext                          
+                                                             
+                                                             
+                                                             
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+      18                              Theory, Culture & Society 41(1)
+                                                             
+      5. https://www.washingtonpost.com/technology/2022/06/11/google-ai-lamda-blake-lemoine/
+      6. https://www.technologyreview.com/2021/08/25/1032133/big-science-human-brain-failure/.
+        One of the authors of the present paper was a member of the steering group of the social and
+        ethical division of the HBP for over a decade.       
+      7. https://royalsociety.org/news/2023/03/statement-third-international-summit-human-genome-
+        editing/                                             
+      8. Quoted in the Oxford English Dictionary definition of the word person: ‘In general philo-
+        sophical sense: a conscious or rational being’.      
+      9. https://www.archives.gov/files/research/census/african-american/census-1790-1930.pdf
+      10. https://www.youtube.com/watch?v=JnylM1hI2jc&ab_channel=silentmiaow. Temple Grandin,
+        in her book Animals in Translation (Grandin and Johnson, 2005), aligns autistic personhood
+        with that of animals to the detriment of neither. But ‘autists’ are undoubtedly persons, with
+        a vital normativity very different from non-human animals, even if they inhabit landscapes
+        of being that are beyond the bounds of the experiences that, in our societies, we have been
+        brought to take to be normal.                        
+      11. For another telling example, see Tito Mukhopadhyay’s (2000) account of the way that, though
+        completely non-verbal, he is able to write the story of his life and his inner world, and com-
+        municate fluently through prose and poetry.          
+      12. On this particular case, see the documentary Unlocking the Cage. As is the case more gen-
+        erally with attempts to break down barriers between human and non-human animals, anti-
+        racism activists in the US have been very critical when animal rights campaigners liken the
+        treatment of chimps to the treatment of slaves in US history.
+      13. https://www.nonhumanrights.org/client-happy/       
+      14. Presumably Taylor’s criterion would exclude Tito Mukhopadhyay, referred to above.
+      References                                             
+      Andrews, Kristin, Comstock, Gary L., Crozier, G. K. D., et al. (2019) Chimpanzee Rights. London:
+        Routledge.                                           
+      Baggs, Amanda (2010) Up in the clouds, down in the valley: My richness and yours. Disability
+        Studies Quarterly 30(1). DOI: 10.18061/dsq.v30i1.1052.
+      Barnes, Elizabeth (2016) The Minority Body: A Theory of Disability. Oxford: Oxford University
+        Press.                                               
+      Blackstone, William (1765–70) The Commentaries on the Laws of England, 4 vols. Oxford:
+        Clarendon Press.                                     
+      Bluhm, Robyn, Cabrera, Laura and McKenzie, Rachel (2020) What we (should) talk about when
+        we talk about deep brain stimulation and personal identity. Neuroethics 13(3): 289–301.
+      Bohan, Elise (2022) Future Superhuman: Our Transhuman Lives in a Make-Or-Break Century.
+        Sydney, Australia: New South Books.                  
+      Braidotti, Rosi (2013) The Posthuman. Cambridge: Polity.
+      Braidotti, Rosi (2018) A theoretical framework for the posthumanities. Theory, Culture & Society
+        36(6): 31–61.                                        
+      Burrell, Jenna and Fourcade, Marion (2021) The society of algorithms. Annual Review of Sociology
+        47: 213–237.                                         
+      Cacioppo, John and Patrick, William (2008) Loneliness: Human Nature and the Need for Social
+        Connection. New York, NY: W.W. Norton.               
+      Canguilhem, Georges (2008) The brain and thought. Radical Philosophy 148: 6–18.
+      Clark, Andy (1997) Being There: Putting Brain, Body and World Together Again. Cambridge,
+        MA: MIT.                                             
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+       Osborne and Rose                               19     
+                                                             
+       Clark, Andy (2003) Natural-Born Cyborgs: Minds, Technologies, and the Future of Human
+         Intelligence. Oxford: Oxford University Press.      
+       Collier, Steven J., Mizes, James Christopher and Von Schnitzler, Antina (2016) Preface: Public
+         infrastructures/infrastructural publics. Limn, 7 July. Available at: https://limn.it/issues/pub-
+         lic-infrastructuresinfrastructural-publics/ (accessed 19 May 2023).
+       Coote, John H. and Joyner, Michael J. (2015) Is precision medicine the route to a healthy world?
+         The Lancet 385(9978): 1617.                         
+       Davies, B. and Datta, D. (2003) Mobility outcome following unilateral lower limb amputation.
+         Prosthetics and Orthotics International 27(3): 186–190.
+       De Waal, Frans (ed.) (2006) Primates and Philosophers. Princeton, NJ: Princeton University Press.
+       Descola, Phillipe (2014) Beyond Nature and Culture, trans. Janet Lloyd. Chicago, IL: Chicago
+         University Press.                                   
+       Despret, Vincent (2016) What Would Animals Say If We Asked Them the Right Questions?, trans.
+         Brett Buchanan. Minneapolis, MN: University of Minnesota Press.
+       Dewey, John (1958 [1925]) Experience and Nature. New York: Dover.
+       Dokumaci, Arseli (2020) People as affordances: Building disability worlds through care intimacy.
+         Current Anthropology 61(S21): S97–S108.             
+       Dokumaci, Arceli (2023) Activist Affordances: How Disabled People Improvise More Habitable
+         Worlds. Durham, NC: Duke University Press.          
+       Dubiel, Helmut (2009) Deep Within the Brain: Living with Parkinson’s Disease. Harmondsworth:
+         Penguin.                                            
+       Esposito, Roberto (2015) Persons and Things: From the Body’s Point of View. London: John
+         Wiley.                                              
+       Evans, Edward P. (1906) The Criminal Prosecution and Capital Punishment of Animals. New
+         York, NY: E. P. Dutton.                             
+       Ferretti, Valentina and Papaleo, Francesco (2019) Understanding others: Emotion recognition in
+         humans and other animals. Genes, Brain and Behavior 18(1): 1–12.
+       Finkelman, Paul (2012) Slavery in the United States: Persons or property. In: Allain, Jean (ed.) The
+         Legal Understanding of Slavery. Durham, NC: Duke University Press, pp. 105–130.
+       Fukuyama, Francis (2006) Our Posthuman Future: Consequences of the Biotechnology Revolution.
+         London: Profile Books.                              
+       Gilman, Sander L. (1985) Difference and Pathology: Stereotypes of Sexuality, Race, and Madness.
+         Ithaca, NY: Cornell University Press.               
+       Gilroy, Paul (2001) Against Race: Imagining Political Culture Beyond the Colour Line. Cambridge,
+         MA: Harvard University Press.                       
+       Ginsburg, Simona and Jablonka, Eva (2019) The Evolution of the Sensitive Soul. Cambridge, MA:
+         MIT Press.                                          
+       Goldstein, Kurt (1995 [1939]) The Organism. New York, NY: Zone Books.
+       Goody, Jack (1978) The Domestication of the Savage Mind. Cambridge: Cambridge University
+         Press.                                              
+       Gould, Stephen J. (1981) The Mismeasure of Man. New York, NY: Norton.
+       Grandin, Temple and Johnson, Catherine (2005) Animals in Translation: Using the Mysteries of
+         Autism to Decode Human Behaviour. London: Bloomsbury.
+       Hacking, Ian (1995) The looping effects of human kinds. In: Sperber, Dan, Premack, David
+         and Premack, Ann J. (eds) Causal Cognition: A Multidisciplinary Debate. Oxford: Oxford
+         University Press, pp. 351–394.                      
+       Hacking, Ian (1998) Mad Travellers: Reflections on the Reality of Transient Mental Illness.
+         London: Free Association Books.                     
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+      20                              Theory, Culture & Society 41(1)
+                                                             
+      Halberstam, Judith M. and Livingston, Ira (1995) Posthuman Bodies: Bloomington, IN: Indiana
+        University Press.                                    
+      Haraway, Donna (2006) When we have never been human, what is to be done? (interview with N.
+        Gane). Theory, Culture & Society 23(7–8): 135–158.   
+      Hayles, N. Katherine (1999) How We Became Posthuman: Virtual Bodies in Cybernetics,
+        Literature and Informatics. Chicago, IL: Chicago University Press.
+      Heidegger, Martin (1995 [1929/30]) The Fundamental Concepts of Metaphysics, trans. William
+        McNeill and Nicholas Walker. Bloomington, IN: Indiana University Press.
+      Herbrechter, Stefan (2013) Posthumanism: A Critical Analysis. London. Bloomsbury.
+      Hinde, Robert (1979) Animal Behaviour. New York, NY: McGraw Hill.
+      Hutchins, Edward (1995) Cognition in the Wild. Cambridge, MA: MIT Press.
+      Janet, Pierre (1929) L’Evolution Psychologique de la Personnalite. Paris: Chahine.
+      Jia, Bing (1999) The differing concepts of war crimes and crimes against humanity in interna-
+        tional criminal law. In: Brownlie, Ian, Goodwin-Gill, Guy S. and Talmon, Stefan (eds) The
+        Reality of International Law: Essays in Honour of Ian Brownlie. Oxford: Clarendon Press,
+        pp. 243–272.                                         
+      Keller, Helen (2010) The World I Live in and Optimism. New York, NY: Dover.
+      Khandelwal, Sanket (2020) Environmental personhood: Recent developments and the road
+        ahead. Jurist: Legal News and Commentary. Available at: https://www.jurist.org/commen-
+        tary/2020/04/sanket-khandelwal-environment-person/ (accessed 19 May 2023).
+      Kohn, Eduardo (2013) How Forests Think: Toward an Anthropology Beyond the Human. Berkeley,
+        CA: University of California Press.                  
+      Korsgaard, Christine (2006) Morality and the distinctiveness of human action: In: de Waal, Frans
+        (ed.) Primates and Philosophers. Princeton, NJ: Princeton University Press, pp. 98–119.
+      Latour, Bruno (1986) Visualization and cognition: Thinking with hands and eyes. Knowledge and
+        Society 6: 1–40.                                     
+      Lee, Newton (ed.) (2019) The Transhumanism Handbook. New York, NY: Springer.
+      McCarthy, Jeanette J., McLeod, Howard L. and Ginsburg, Geoffrey S. (2013) Genomic medicine:
+        A decade of successes, challenges, and opportunities. Science Translational Medicine 5(189):
+        189sr184.                                            
+      Mahon, Peter (2017) Posthumanism: A Guide for the Perplexed. London: Bloomsbury.
+      Mauricio, Rui, Benn, Caroline, Davis, John, et al. (2019) Tackling gaps in developing life-chang-
+        ing treatments for dementia. Alzheimer’s & Dementia: Translational Research & Clinical
+        Interventions 5: 241–253.                            
+      Mauss, Marcel (2021 [1938]) Sociologie, Psychologie, Physiologie, ed. A. Chevance, J. Clement
+        and F. Weber. Paris: Presses Universitaires de France.
+      Mukhopadhyay, Tito R. (2000) Beyond the Silence. London: National Autistic Society.
+      Newen, Albert, Bruin, Leon and Gallagher, Shaun (eds) (2018) Oxford Handbook of 4E Cognition.
+        Oxford; New York, NY: Oxford University Press.       
+      Odling-Smee, F. John, Laland, Kevin N. and Feldman, Marcus W. (2013) Niche Construction: The
+        Neglected Process in Evolution. Princeton, NJ: Princeton University Press.
+      Olaronke, Iroju, Rhoda, Ikono, Gambo, Ishaya, et al. (2018) Prospects and problems of brain com-
+        puter interface in healthcare. Current Journal of Applied Science and Technology 23: 1–7.
+      Osborne, Thomas (2003) What is neo-enlightenment? Human rights culture and juridical reason.
+        Journal of Human Rights 2(4): 523–530.               
+      Osborne, Thomas (2016) Vitalism as pathos. Biosemiotics 9: 185–205.
+      Quinn, Gerard (with A. Arstein-Kerslake) (2012) Restoring the ‘human’ in ‘human rights’:
+        Personhood and doctrinal innovation in the UN disability convention. The Cambridge
+        Companion to Human Rights Law. Cambridge: Cambridge University Press.
+
+[PAGE 19]
+                                                             
+                                                             
+                                                             
+       Osborne and Rose                               21     
+                                                             
+       Ricoeur, Paul (1998) Critique and Conviction. Cambridge: Polity.
+       Rose, Nikolas (2007) The Politics of Life Itself: Biomedicine, Power and Subjectivity in the
+         Twenty-First Century. Princeton, NJ: Princeton University Press.
+       Rosendahl Thomsen, Mads and Wamberg, Jacob (eds) (2022) The Bloomsbury Handbook of
+         Posthumanism. London: Bloomsbury.                   
+       Roussi, Antoaneta (2020) Resisting the rise of facial recognition. Nature 587(7834): 350–354.
+       Sacks, Oliver (1990 [1973]) Awakenings. London: Picador.
+       Serres, Michel (1995) The Natural Contract. Ann Arbor, MI: University of Michigan Press.
+       Serres, Michel (2019) Hominescence. London: Bloomsbury Academic.
+       Shklar, Judith (1989) The liberalism of fear. In: Rosenblum, Nancy L (ed.) Liberalism and the
+         Moral Life, Cambridge, MA: Harvard University Press, pp. 21–38.
+       Sprevak, Mark (2019) Extended cognition. In: Craig, Edward (ed.) The Routledge Encyclopedia of
+         Philosophy. London: Routledge.                      
+       Sterelny, Kim (2008) Thought in a Hostile World: The Evolution of Human Cognition. Oxford:
+         Blackwell.                                          
+       Sterelny, Kim (2012) The Evolved Apprentice. Cambridge, MA: MIT Press.
+       Sterelny, Kim (2021) The Pleistocene Social Contract: Culture and Cooperation in Human
+         Evolution. Oxford: Oxford University Press.         
+       Taylor, Charles (1985) Human Agency and Language. Cambridge: Cambridge University Press.
+       Tomasello, Michael (2022) The Evolution of Agency: Behavioral Organization from Lizards to
+         Humans. Cambridge, MA: MIT Press.                   
+       Williams, Bernard (2005) The liberalism of fear. In: Williams, Bernard (ed.) In the Beginning Was
+         the Deed: Realism and Moralism in Political Argument. Princeton, NJ: Princeton University
+         Press.                                              
+       Wolfe, Cary (2009) What is Posthumanism? Minneapolis, MN: Minnesota University Press.
+       Zuccaro, Michael V, Xu, Jia, Mitchell, Carl, et al. (2020) Allele-specific chromosome removal
+         after Cas9 cleavage in human embryos. Cell 183(6): 1650–1664.e1615.
+       Thomas Osborne is Professor of Social and Political Theory at the University of Bristol, UK. He
+       is the author of Aspects of Enlightenment: Social Theory and the Ethics of Truth (UCL Press,
+       1998) and The Structure of Modern Cultural Theory (Manchester University Press, 2008).
+       Nikolas Rose is Honorary Professor in the Institute of Advanced Studies at University College
+       London and Distinguished Honorary Professor in the Research School of Social Sciences of the
+       Australian National University. His most recent books include The Politics of Life Itself (Princeton
+       University Press, 2006), Neuro (with Joelle Abi-Rached, Princeton University Press, 2013), Our
+       Psychiatric Future (Polity Press, 2018) and The Urban Brain: Mental Health in the Vital City
+       (with Des Fitzgerald, Princeton University Press, 2022).
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 20]
+                                                             
+                                                             
+                                                             
+                          Body                     &         
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                        Society                              
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                Editor-in-Chief:
+                                             MMiikkee FFeeaatthheerrssttoonnee
+                                   GGoollddssmmiitthhss,, UUnniivveerrssiittyy ooff LLoonnddoonn,, UUKK
+                                                     Editor: 
+                                               Lisa Blackman 
+                                   GGoollddssmmiitthhss,, UUnniivveerrssiittyy ooff LLoonnddoonn,, UUKK
+                                                             
+                                               Managing Editor:
+                                               Tomoko Tamari 
+                                   GGoollddssmmiitthhss,, UUnniivveerrssiittyy ooff LLoonnddoonn,, UUKK
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+    Body & Society hhaass ffrroomm iittss iinncceeppttiioonn iinn MMaarrcchh 11999955 aass aa ccoommppaanniioonn jjoouurrnnaall ttoo
+    Theory, Culture & Society, ppiioonneeeerreedd aanndd sshhaappeedd tthhee fifi eelldd ooff bbooddyy--ssttuuddiieess.. IItt
+    has been committed to theoretical openness characterized by the publication of
+    a wide range of critical approaches to the body, alongside the encouragement
+                                                             
+    and development of innovative work that contains a transdisciplinary focus.
+                                                             
+                                                             
+                                                             
+                                                             
+    journals.sagepub.com/home/bod                            
+                                                             

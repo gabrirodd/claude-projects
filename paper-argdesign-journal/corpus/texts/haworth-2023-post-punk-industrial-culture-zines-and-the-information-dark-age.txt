@@ -1,0 +1,1361 @@
+[PAGE 1]
+ 1151133                                                     
+ research-article2023 TCS0010.1177/02632764221151133Theory, Culture & SocietyHaworth
+                                                             
+                                                             
+       Global Public Life                                    
+                                             Theory, Culture & Society
+       Post-punk, Industrial Culture        2023, Vol. 40(7-8) 211 –235
+                                              © The Author(s) 2023
+       Zines, and the Information                            
+                                              Article reuse guidelines:
+       Dark Age                           sagepub.com/journals-permissions
+                                        httpDs:O//dIo: i1.o0r.g1/1107.711/0727/60322673267462422121115511113333
+                                           journals.sagepub.com/home/tcs
+       Christopher Haworth                                   
+       University of Birmingham                              
+                                                             
+                                                             
+       Abstract                                              
+       Several scholars have noted parallels between the online communicative tactics of the
+       American alt-right and those of industrial musicians in the 1970s and 1980s. This article
+       explores these connections further by analysing the informational media that industrial
+       musicians developed. Between the mid-1980s and 1990s, these zines, handbooks, and
+       websites made a strenuous break with the values of democracy, egalitarianism, and
+       grassroots authenticity that were the default ideological ‘mode’ of DIY. Where the
+       Californian ideology would centre the summer of love and the politics of the New
+       Left, the zines ambiguously celebrated the nihilistic, authoritarian, and occult vectors
+       of psychedelia – tendencies that have been associated with the late 1960s fate of the
+       counterculture rather than its earlier heyday. The article tracks these themes from
+       Vague magazine and Rapid Eye, to the Cybernetic Culture Research Unit in the 1990s, to
+       neoreaction and the Dark Enlightenment, asking whether communicational utopianism
+       should be considered a blip rather than the internet’s default state.
+                                                             
+       Keywords                                              
+       alt-right, Cybernetic Culture Research Unit, industrial culture, internet history, Nick
+       Land, subcultural politics                            
+                                                             
+                                                             
+       Introduction                                          
+       Many journalists and scholars have noted the rapid transformation in fortunes the world-
+       wide web has undergone in its short life, from early optimism about its power to turbo-
+       charge participatory democracy through to more recent fears that it may have brought
+       about democracy’s end. In Fred Turner’s (2019) account, the shift represents the
+       far right’s exploitation of liberal efforts to decentralise media and reshape mass
+                                                             
+                                                             
+       Corresponding author: Christopher Haworth. Email: c.p.haworth@bham.ac.uk
+       TCS Online Forum: https://www.theoryculturesociety.org/
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+      212                            Theory, Culture & Society 40(7-8)
+                                                             
+      communications around cybernetic and systems theoretical principles. ‘[T]hat effort’, he
+      writes, is ‘animated by a deep faith that when engineering replaces politics, the alienation
+      of mass society and the threat of totalitarianism will melt away [. . .]. Yet [e]ven as they
+      grant us the power to communicate with others around the globe, our social media net-
+      works have spawned a new form of authoritarianism’ (Turner, 2019). Some authors
+      (Bridle, 2018; Hannah, 2021) have used the metaphor of an intellectual ‘dark age’ to
+      describe the risks communications technologies pose to democracy (understood in terms
+      of cultural and intellectual decline rather than a lack of historical sources). For Hannah
+      (2021), ‘[w]hereas early Internet advocates predicted a utopian age of information access
+      and literacy, the twenty-first century has witnessed a paradoxical technological expan-
+      sion of communications technologies and, at the same time, the growth and spread of
+      bizarre, vast, complex conspiracies’. Yet not all have been convinced of a solid distinc-
+      tion between early and present-day web ideologies. Chun (2021: 7) reminds us that in
+      1990s representations of cyberspace, dystopia was ‘the goal, not an error’. Rooted in the
+      apocalyptic and Orientalist visions of cyberpunk, cyberspace figured the internet not as
+      empowering-enabling but as an addictive and hallucinatory technology like that depicted
+      in William Gibson’s Neuromancer, from which cyberspace famously took its name.
+      Drawing attention to the settler-colonialist, frontier mythology that it animated, Chun
+      writes that it ‘was the Wild West meets speed meets Yellow Peril meets capitalism on
+      steroids. This bodiless exultation and stealthy, rebellious power explain why “pioneers”
+      mislabelled the internet “cyberspace’” (Chun, 2021).   
+        Indeed, to those for whom cyberculture was primarily an artistic concern, the con-
+      sistencies between the information dark age and the giddy 1990s have proven to be
+      more salient than the distinctions. Italian and Dutch new media scholars were quick to
+      note the parallels between today’s far-right conspiracy theories online and ‘cultural
+      sabotage’ techniques developed by ‘tactical media’ art groups active in Italy, Britain and
+      the Netherlands – most notably in the case of QAnon and its links to the Italian media
+      activists, Luther Blissett (Wu Ming 1, 2021). In its strange narrative about Donald
+      Trump fighting to expose and punish a shadowy elite that controls society, the QAnon
+      conspiracy bore narrative similarities to the novel ‘Q’ that the group collectively
+      authored in 1999 – to the extent that the Twitter account of Wu Ming, a collective pseu-
+      donym formed from a subset of Luther Blissett, suggested QAnon might be a Q-inspired
+      prank invented to troll the alt-right (Wu Ming 1, 2018). Related to these currents has
+      been the rediscovery of the 1990s British cybertheory collective the Cybernetic Culture
+      Research Unit (CCRU) in the context of present-day accelerationism. In contrast to the
+      extropian optimism of what Barbrook and Cameron (1995) famously termed the
+      Californian ideology, the CCRU tried to bed down a gloomy, dystopian ‘British cyber-
+      punk’ that emphasised the capacity of interconnected global media to generate disinfor-
+      mation, political polarisation, and culture war. The critical theorist Benjamin Noys has
+      written that this:                                     
+        was a prescient thinking. Before our familiarity with the meme and the capacity of the global
+        Internet to generate fake news [Nick] Land and the CCRU, drawing on science fiction and
+        theory, had already captured something of the world to come. (Noys, 2022: 4)
+                                                             
+                                                             
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+       Haworth                                       213     
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+       Figure 1. (a) Throbbing Gristle cartoon strip, first published in Re/Search #6/7: in Industrial
+       Culture Handbook (Vale and Juno, 1983), used with permission of Cosey Fan Tutti and Chris
+       Cosey; (b) Pepe the Frog suicide meme, derived from KnowYourMeme.com (2016).
+                                                             
+       Closer examination of the subcultures that influenced artistic cybercultures like the
+       CCRU closes the information utopianism-dystopian gap still further. Right after Trump’s
+       election, Cramer (2016) linked the alt-right’s visual culture and uses of irony to the trans-
+       gressive positions taken by ‘extreme’ industrial, noise, and neofolk groups active largely
+       in Britain in the 1970s and 1980s. Figure 1 comparing a détourned comic strip by
+       Throbbing Gristle (TG) with a Pepe the Frog meme displays the types of affinities he
+       identified. In the suggestion that TG’s notorious ‘anti-music’ might drive someone to
+       suicide, or that a frog might harbour suicidal ideations, there is clearly dark humour and
+       irony. At the same time, they each hint at the psychological consequences of extreme
+       politics: the TG strip through the presence of the group’s insignia (which famously
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+      214                            Theory, Culture & Society 40(7-8)
+                                                             
+      recalls the Nazi Schutzstaffel symbol), and the Pepe meme via the character’s assimila-
+      tion into far-right symbolism. Yet considering their content alone is insufficient to under-
+      standing how they signify. Appearing in the San Francisco-based zine Re/Search in 1983,
+      the TG comic strip is unlikely to have been seen beyond fans of punk and industrial
+      music. Thus, any audience is likely to be literate in its codes and therefore able to resolve
+      its symbolic ambiguity as neither fascist nor pro-suicide. The same cannot be said of
+      readers of Pepe memes, which thrive on platforms like Twitter where multiple perspec-
+      tives are assimilated to one – a phenomenon danah boyd termed ‘context collapse’.1
+      Indeed, the ability of Pepe to point in multiple directions at once was removed when it
+      was added to the Anti-Defamation League’s database of hate symbols in 2016. And dif-
+      ferences in political context also matter. Subcultural posturing in the 1970s and 1980s,
+      when explicit far-right politics had no direct path to power in Britain and America, is not
+      equivalent to the same gestures after the 2010s, when it does.
+        However, one can perhaps charge the extreme music subcultures with complacency,
+      in not being attuned to the threat the far right posed in the 1970s and 1980s. For if both
+      the alt-right and extreme music subcultures made proliferate use of irony, then they
+      equally provided subterfuge for those who, in the words of Tuters (2021: 173), use youth-
+      cultural posturing ‘to dissimulate their true (political) intentions’. Indeed, reading the
+      American Neo-Nazi Andrew Anglin describe his grift as ‘[n]on-ironic Nazism masquer-
+      ading as ironic Nazism’ (O’Brien, 2017), it is hard to ignore the parallels with long-cel-
+      ebrated extreme artists who used the cover of artistic libertarianism to toy with fascist
+      aesthetics, and who since have been outed as ‘true believers’ (Tuters, 2021: 173) – Tony
+      Wakeford of Death in June being the most famous case. The recent spate of exposés and
+      ‘painful reflections’ published in the online music press attest to just how rapidly opinion
+      has turned on underground music’s transgressive past in light of the growing influence of
+      the far right.2                                        
+        To date, these associations between past and present subcultures have gone unex-
+      plored beyond superficial observations. Yet they raise an intriguing possibility: that in
+      narrating the story of contemporary communications along the lines of a utopia spoiled,
+      scholars may have overlooked alternative ideologies of media that provide equally
+      compelling explanations for cultural politics in our digital present. This article explores
+      this question by analysing the changing media ideologies and aesthetics that developed
+      around British post-punk zines in the 1970s, 1980s, and 1990s, leading to the early
+      subcultural embrace of the worldwide web. A key stepping-stone from past to present
+      subcultures is the aforementioned Cybernetic Culture Research Unit (CCRU), whose
+      lead figure Nick Land became an intellectual figurehead of the neoreaction subculture,
+      considered a precursor to the alt-right (Kirchick, 2016). Noys’ assessment (cited earlier)
+      of the CCRU’s prescience in a world of memes and fake news is widely shared among
+      theorists, both advocates and critics. However, as this article shows, the media ideology
+      they adopted was far from new. It was inherited practically wholesale, not from 1990s
+      rave and jungle as is popularly assumed (Holt, 2019; Noys, 2014), but from left-liber-
+      tarian new musick and industrial culture fanzines of the previous decade. During the
+      mid-1980s these zines made a strenuous break with the values of democracy, egalitari-
+      anism, and grassroots authenticity which were the default ideological ‘mode’ of DIY
+      production, growing to concentrate instead on the romantic-visionary personae of the
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+       Haworth                                       215     
+                                                             
+       zines’ editors and their eclectic interests in esotericism and the occult. Where the
+       Californian ideology would centre the summer of love and the politics of the New Left
+       (or ‘new communalists’, Turner, 2006), the zines ambiguously celebrated the nihilistic,
+       authoritarian, and occult vectors of psychedelia – tendencies that have been associated
+       with the late 1960s and 1970s fate of the counterculture rather than its earlier heyday
+       (Davis, 2014).                                        
+        The data aesthetic that prevailed in these resources was the sublime-inflected quality
+       of ‘immersion’ in esoteric phenomena. Knowledge acquisition was framed as at once a
+       personal adventure in gnostic study and a suspension of criticality and reason. The con-
+       figuration of the ‘user’ as an independent-minded knowledge seeker was of course ubiq-
+       uitous in early internet culture, manifest in encyclopaedic links pages that point to strange
+       and arcane destinations on the web, and traceable at least as far back as the Whole Earth
+       Catalogue, with its emphasis on self-education (cf. Turner, 2006: 80). Yet the artistic
+       libertarianism of the zines shifted the emphasis towards transgression through contact
+       with censored or samizdat literature. Immersion therefore implies a kind of radicalisation
+       through media. My contention is that this same rhetorical understanding of media can be
+       found in online political subcultures of the present. The illustrations I discuss are Vague
+       and Rapid Eye, two British post-punk-cum industrial culture zines from the 1980s; the
+       subcultural web directory Internet. Underground.Guide; and the web 1.0 site for the
+       Cybernetic Culture Research Unit. As well as demonstrating a direct line of historical
+       influence from industrial culture zines to the CCRU, the artefacts show how consistent
+       media imaginaries were remediated amid profound changes in their underlying condi-
+       tions – from zines printed on paper, to links directories, to digital websites. Building on
+       recent historical work on zines in Britain (Bland, 2018; Worley, 2015), my analysis
+       shows how the zines developed into independent media entities in their own right, whose
+       effects could be as influential as the groups they chronicled.
+       From Post-punk to Cyberpunk: Vague                    
+       Vague magazine was founded in 1979 at Salisbury College of Technology and Art by
+       Tom Vague together with the illustrator Perry Harris and the photographer Iggy
+       Zevenbergen. While most of the independent punk zines covered ‘real punk’, Vague fol-
+       lowed the ‘more experimental or avant-garde’ strand that at the time would have been
+       understood to lie between new wave and new musick (see Cateforis, 2011: 27), but ret-
+       rospectively was categorised as post-punk. Vague’s first issue featured Siouxsie and the
+       Banshees, Adam and the Ants, The Cure, The Specials, Madness, Swell Maps, and Red
+       Crayola, with most of the features being interviews and reviews (Figure 2). Despite the
+       differences in musical coverage, however, the zine’s aesthetic and ideological position-
+       ing was closely related to the wider punk zine ecosystem which it distinguished itself
+       from.3 It emphasised democracy, claiming to ‘create an alternative media in which ordi-
+       nary people can get their views across’; egalitarianism, in its stated aim to try to ‘make
+       this one relate to the layman more and not the big music scholars that read the music
+       press’; and radical left politics, via its purported kinship with ‘the tradition of radical
+       pamphlets’, in contrast to ‘DIY style mags or Big Issue prototypes’.4 Prefiguring the
+       imaginary that would later be animated by the web, and that has been celebrated by
+                                                             
+                                                             
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+      216                            Theory, Culture & Society 40(7-8)
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+      Figure 2. Cover of Vague 1, November 1979 edition, used with permission of Tom Vague.
+                                                             
+                                                             
+      authors such as Shirky (2009) and Duncombe (1997), Vague therefore offered a kind of
+      informational utopianism.                              
+        Tom Vague later narrated the zine’s early period as one characterised by his own,
+      ultimately failed, attempt to break into mainstream music journalism.5 Yet a series of
+      changes pushed him away from this aim. The most important was the mutation of ele-
+      ments of new wave and new musick into the more commercially oriented ‘new pop’.
+      Adam Ant, the pre-eminent figure of the early Vague and the subject of Tom Vague’s
+      unpublished book, pivoted strongly towards new pop, famously declaring to Sounds in
+      1980 that ‘cult is just a safe word meaning “loser” [. . .] I want success’ (Reynolds, 2005:
+      312). Seeking a more sustainable underground, Vague went the other way, leaning into
+      the darker, more esoteric elements of new musick. Contemporary critics and historians
+      often elide new musick with the later category of post-punk (see Cateforis, 2011;
+                                                             
+                                                             
+                                                             
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+       Haworth                                       217     
+                                                             
+       Reynolds, 2009 Beckett, 2016).6 Yet, as Haddon (2020: 25) notes, teleological readings
+       of this kind smooth out the tensions and inconsistencies that were in play during the
+       period when these terms were under negotiation. For Jon Savage, who alongside Jane
+       Suck and Sandy Robertson coined the term, the definition was largely driven by the pop-
+       avant-garde crossings of Throbbing Gristle and Cabaret Voltaire, even if later they would
+       be more enduringly associated with ‘industrial’. Reflecting in the Industrial Culture
+       Handbook issue of Re/Search, itself an important influence on Vague and Rapid Eye,
+       Savage described five principles that industrial took from new musick: organisational
+       autonomy; access to information; use of synthesizers and anti-music; extra-musical ele-
+       ments; and shock tactics. Savage’s description is useful for understanding the formal
+       development of Vague, for two reasons. First, it imagines a non-hierarchical relationship
+       between music and other media, where zines exceed their role as secondary ‘fan’ media
+       to dwell in a flattened ‘information’ space of music, text and image. Second, it gives the
+       zines a renewed purpose, from reports on scenes and subcultures to providing a platform
+       for ‘extra-musical elements’, defined as ‘literary elements (discussed) in a thorough – as
+       opposed to typical pop dilettantism – manner’ (Savage, 1983: 5). For new musick musi-
+       cians, zines embracing ‘literary elements’ would provide a crucial plank of the crossover
+       from pop into avant-garde. For magazines like Vague, it would supply them with an
+       independent purpose untethered to the wax and wane of subcultural styles.
+        After 1984 Vague shed the punk-ish cut-and-paste aesthetic, its design incorporating
+       artistic photography and its commentary roving further into analysis of the urban envi-
+       ronment, youth culture, Situationist theory, and anarchist politics. Vague was also forg-
+       ing alliances with the fringes of other fields, many of which were central to the industrial
+       universe. An issue from 1984, titled CONTROL DATA MANUAL: Programming
+       Phenomena and Conspiracy Theory, lists conspiracy theories, William Burroughs, the
+       Situationists, cyberpunk, Red Army Faction, Charles Manson, the occult, and Data
+       Control as its features, suggesting an underground culture defined across literature, poli-
+       tics, theory, the arts and theology (Vague, 1984). And where previously Vague himself
+       had tended to disappear into the bands and scenes the zine chronicled, the new curatorial
+       eclecticism served to turn attention towards his authorial persona, which increasingly
+       resembled the ‘visionary’ romanticism of figures like William Burroughs and William
+       Blake. What I want to highlight, however, is the aesthetic and ideological transforma-
+       tions that the post-1984 ‘turn’ brought. Like most zines Vague had been hand cut-and-
+       pasted, mixing image and text in a way that could occasionally be hard to read. However,
+       with the departure from post-punk this collision of image and text became more oppres-
+       sive and psychedelic – the images more solarised, the text often bordering on the illegi-
+       ble. One piece in the 1984 issue demonstrates this atmosphere. In a review article on The
+       Family: The Story of Charles Manson’s Dune Buggy Attack Battalion by Ed Sanders, the
+       author Lucian K. Truscott IV describes the descent of the values of the counterculture
+       into authoritarianism and ‘psychedelic fascism’:      
+        Psychedelic fascism. In a way it was inevitable. The drugs, beginning in the fIower-power days
+        of yesteryear, and their accompanying expanded consciousness, got weirder and weirder. As
+        Ken Kesey predicted on the front of his bus in the early days, everything went further. (Truscott,
+        1970)                                                
+                                                             
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+      218                            Theory, Culture & Society 40(7-8)
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+      Figure 3. ‘Psychedelic Fascism’, Vague 18/19 (1984): CONTROL DATA MANUAL: Programming
+      Phenomena and Conspiracy Theory, used with permission of Tom Vague.
+                                                             
+      The author predicts a growing ‘age of psychedelic fascism’ that, inaugurated by the
+      Manson Family killings, was now incubating in the new religions of the early 1970s
+      and the subcultural trend for video trading of snuff movies. His moral position is
+      clearly expressed throughout in the warnings about ‘a locust-swarm of eviloids [sic]
+      that are devouring some of the best young minds of the country at this very moment’.
+      Yet its presentation in Vague makes it provocatively ambiguous. First, it is printed in
+      black atop a dark red and white print of Manson’s face, which gives it an oppressive,
+      immersive intermediality, making the text difficult to read and aestheticizing the con-
+      cept of psychedelic fascism (Figure 3). Second, Truscott’s text is followed by an
+      excerpt from Manson’s ‘Last Will and Judgement’, allowing Manson to have the final
+      say on the killings, and implicitly making the murders into a two-sided affair that the
+      reader can arbitrate between. The horrors of the Manson Family killings are first
+                                                             
+                                                             
+                                                             
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+       Haworth                                       219     
+                                                             
+       simulated in the détourned Truscott text, and then equivocated via the presentation of
+       Manson’s response.                                    
+        Although music was de-emphasised in the later Vague, projects like Psychic TV and
+       the Temple Ov Psychick Youth still featured on the grounds that they were ideologically
+       aligned. The nature of that alignment can be seen in the next, related illustration: Rapid
+       Eye Movement.                                         
+       Proto-web Occulture: Rapid Eye Movement               
+                                                             
+       Rapid Eye Movement (REM) was a contemporary of Vague, and there are similarities
+       between the two. Both started in 1979 as new-wave-cum-new-musick zines, and both
+       went in radically different, more experimental and literary directions, all but abandoning
+       music in the 1980s. Both, too, were edited by writers with close relationships to the
+       bands and musicians they wrote about – in REM’s case this was Simon Dwyer. Like
+       Vague, Rapid Eye Movement stressed its commitment to independence and distinction
+       from the mainstream music press, asserting that ‘we are not interested in sales graphs and
+       charts [. . .] more ideas, less lists’ (Dwyer, 1979: 3). However, the zine undeniably had a
+       more professional, more legitimate feel than Vague. Dwyer’s early writing on the anar-
+       cho-punk band Crass landed him a job writing for the weekly music magazine Sounds,
+       and this proximity to the mainstream meant he could draw on his contacts for interviews
+       and articles at REM. The first issue featured a discussion between NME writers Julie
+       Burchill and Tony Parsons, for instance, which lent the zine an overground legitimacy
+       that Vague never achieved.                            
+        The REM archive is spotty so it is difficult to assess how it developed after the first
+       few instalments in the late 1970s and early 1980s. Those issues show a punk, anarcho-
+       punk, and post-punk emphasis in coverage, which is framed by fine art photography
+       bearing a Victorian gothic aesthetic (Figure 4). Sometime in the 1980s REM ceased,
+       being relaunched as Rapid Eye in 1989. In keeping with Savage’s definition of industrial
+       culture, the renewed zine embraced an expanded informational space as literature, poetry,
+       philosophy, film, television, and visual art were introduced alongside or in place of
+       music, and in issues that were closer in length to journals. This was aligned with an edi-
+       torial-stylistic shift from ‘reportage’ to actively defining the culture that it addressed.
+       This can be observed in the introduction to the first issue, in which Dwyer defines the
+       category of ‘occulture’:                              
+        This new word obviously suggests both Culture and the Occult. To me, this ‘oculture’ is not a
+        secret culture as the word might suggest, but a culture that is in some way hidden and ignored,
+        or wilfully marginalised to the extremities of our society. A culture of individuality and sub-
+        cults, a culture of questions that have not been properly identified – let alone answered – and
+        therefore, do not get a fair representation in the mainstream media. It is a culture that has been
+        misinterpreted. Not because it is ‘evil’ or wrong, but because it is generally apolitical and
+        amoral, unashamedly artistic, experimental, undogmatic, intellectual and oddly evolutionary. It
+        is a sub-culture that is forming a question that ‘reality’ alone cannot answer. Which is why it
+        makes people nervous. (Dwyer, 1989: 3)7              
+       Going by the content of the first issue, the category of occulture traversed anti-human
+       theory (William S. Burroughs, Brion Gysin), Western occultism (Aleister Crowley),
+                                                             
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+      220                            Theory, Culture & Society 40(7-8)
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+      Figure 4. Rapid Eye Movement, Issue 1, Winter 1979.    
+                                                             
+      Eastern esotericism (Tantra), fictional or reality-hacking art movements (‘Situationism’,
+      Neoism), outsider art (Austin Osman Spare), conspiracy theories (Nazi UFOs), experi-
+      mental and ‘transgressive’ writers and artists (Kathy Acker, Derek Jarman, Mr Sebastian),
+      new religions and cults (Charles Manson, Jim Jones and The People’s Temple of Christ).
+      To the extent that music was covered, the focus was overwhelmingly on industrial music
+      – particularly Psychic TV (PTV) and the associated artistic collective and self-styled
+      ‘cult’, the Temple Ov Psychick Youth (TOPY). The appeal of these projects to the indus-
+      trial culture and new musick zines was threefold. First, they can be seen to have per-
+      formed the same extra-musical expansion that Rapid Eye and Vague had participated in,
+      and that was described by Savage in the Industrial Culture Handbook. Although TOPY
+      is often remembered as a secondary ‘fanclub’ to PTV, the relationship between the two
+      was more complex, and certain TOPY ‘access points’ (city-based nodes in the TOPY
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+       Haworth                                       221     
+                                                             
+       mail network) were almost entirely independent of PTV and Genesis P-Orridge.8 Rapid
+       Eye followed suit. It was the most forceful advocate for TOPY and PTV among the
+       British industrial culture zines, and it reported on its activities as a magazine would.
+       However, it was also an independent component in it, feeding in extra-musical contents.
+       The concept of occulture, for instance, was absorbed by TOPY after Dwyer defined it. In
+       this way, TOPY were seen to harbour the same relation to PTV as the reformed punk
+       zines did to ‘popular music’ – as collaborators in a flattened-out information space.
+        Second, TOPY and its related projects appealed on the grounds of their infamy and
+       related under-representation in the mainstream press. Beyond Belief (Addicott, 1992), a
+       Dispatches documentary, helped cement the view that TOPY were a depraved, brain-
+       washed cult who engaged in erotic rituals mixing sex, violence, and child abuse. After
+       this, mainstream outlets became nervous around the group, with record deals and pend-
+       ing shows being cancelled and the police, HM Customs, Royal Mail and BT investigat-
+       ing the group on separate grounds. To Rapid Eye and Vague, this secured their underground
+       and countercultural credentials. Put simply, there was no danger of PTV migrating to the
+       mainstream as Adam Ant had done in 1981.              
+        Finally, TOPY represented a particular way of remembering the 1960s, which empha-
+       sised the darker, more paranoid, anti-human qualities of the counterculture. This is best
+       represented by Psychic TV’s 1985 single, ‘Godstar’. A tribute to the late Rolling Stone
+       Brian Jones, the song both propagates the conspiracy theory that he was murdered rather
+       than drowned, and tries to create a deity of him. Seen on TOPY’s own terms the song was
+       a piece of cultural engineering that ‘hacks’ into mainstream media – the charts – in order
+       to unsettle with images of conspiracy and cultism. Within Rapid Eye and Vague it offered
+       one plank of an assemblage of references that, together with such artefacts as Charles
+       Manson’s testimony to the courts about the Tate-LaBianca murder and William
+       Burroughs’s anti-human literature, created a 1960s ‘darkside’.
+       Occulture Remediated: From Zines to the Worldwide     
+       Web                                                   
+       Dwyer’s ‘occulture’ echoed Savage’s definition of industrial culture. Yet the coinage
+       added something important, which was to frame the zine format less as a bearer of con-
+       tent than as a particular kind of technology – one that, like the non-Western spiritualisms
+       that often featured on its pages, demanded personal experience and discovery on the part
+       of the user. This configuration of the zine audience as a ‘user’ rather than a ‘fan’ would
+       be an important point of ideological contact between the zines of the 1980s and the early
+       web. ‘Transitional’ media artefacts like Internet.Underground.Guide (Ludovico, 1995)
+       integrated the two, fusing the zine with the more ‘practical’ technology of the hyperlinks
+       directory, and privileging the arcane and hidden knowledge that could be found online.
+       My final illustration shows how this same ethos was carried across to the web: it is the
+       website belonging to the Cybernetic Culture Research Unit, and dating from 1999. The
+       CCRU were a group of philosophy lecturers and PhD students based at Warwick
+       University whose core group, at the time their website was created, included the cultural
+       critic and music journalist Mark Fisher; the electronic musician and founder of Hyperdub
+                                                             
+                                                             
+                                                             
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+      222                            Theory, Culture & Society 40(7-8)
+                                                             
+      records Steve Goodman/Kode9; the theorist and art curator Suzanne Livingston; the
+      media scholars Anna Greenspan and Luciana Parisi; and the philosopher Nick Land. As
+      an academic research group whose discipline is philosophy, the CCRU stand out from
+      the examples discussed so far, but from another perspective they are similar. First, music,
+      and particularly the popular electronic dance music of the 1990s, was at the heart of the
+      CCRU’s collective writing and thought, and it is in large part thanks to the later music-
+      related activities of Goodman and Fisher that the group have received any attention at all.
+      Second, although the group was born in an academic philosophy department, it acquired
+      notoriety as an interdisciplinary art-theory collective operating beyond academia, an
+      ethos that was embodied in the group’s publications, which were typically either zines or
+      web texts – the former being sold in the same independent bookstores as Vague and
+      Rapid Eye.9 Third, following the exit from academia the ‘research interests’ of the CCRU
+      underwent a self-conscious shift from a postmodern mix of cybernetics, continental phi-
+      losophy, dance music, sci fi and cyberpunk literature, feminism and gaming, to esoteri-
+      cism and occulture.                                    
+        This shift from academia to subculture was narrated by the CCRU themselves as a
+      ‘descent into madness’. Later, those at the centre of things revealed it to have been partly
+      driven by the real psychological breakdown experienced by the group’s academic lead,
+      Nick Land.10 Either way, it had a strong literary-aesthetic dimension. The 1997 web page
+      retrieved from the Wayback Machine (Figure 5), and advertising a work in progress
+      seminar, shows the CCRU as an open, democratically organised group. By contrast, the
+      independently hosted web page from the same year, produced following the group’s
+      departure from the university, keeps the reader at a distance (Figure 5). Written in the
+      third person, and offering cryptic evasions as to its function and membership (the group
+      were anonymous in the style of tactical media groups like Luther Blissett), it presents the
+      CCRU not as an open research group but as a clandestine and cult-like organisation.
+      Although conveyed through radically different media, institutional arrangements, and
+      organisational forms, the shift therefore mirrors that of the post-punk zines: from infor-
+      mational democracy to enclosure and immersion.         
+        Aesthetically and ludically, the post-university web presence clearly draws influ-
+      ences from the occultural zine ecosystem. We see this in the 1999 iteration of the site
+      pictured in Figure 6. In the banner at the top, the name ‘Cybernetic Culture Research
+      Unit’ is written alongside a hand-drawn spiral pattern symbol recalling the secret soci-
+      ety imagery commonly used by industrial musicians. Below it is a row of seven catego-
+      ries, one of which is notably titled ‘occultures’ and contains descriptions of invented
+      ‘subcultures’ the CCRU experimented with in their writing (e.g. AOE, Hyper-C,
+      Lemurs). Below that sits a self-authored occult system for summoning demons called
+      the Numogram. However, it is on the humble links page that we find the clearest reten-
+      tion of 1980s occulture. Already the vernacular metaphors associated with web experi-
+      ence conjure images of ludic immersion in information, from the ‘information
+      superhighway’ to ‘web surfing’. ‘Liminal’ artefacts like the aforementioned Internet.
+      Underground.Guide sought to swerve links directories towards the darker side of occul-
+      ture with its pages on UFOs, conspiracy theories, and the occult. The CCRU links page
+      amplified these qualities, aligning web surfing with sublime revelations of
+                                                             
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+       Haworth                                       223     
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+       Figure 5. (a) CCRU institutional website (top), vs (b) CCRU independent website (bottom).
+       Both date from 1998 and were retrieved via the Wayback Machine.
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+      224                            Theory, Culture & Society 40(7-8)
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+      Figure 6. CCRU independent website (1999). Ccru.net. Used with permission of Suzanne
+      Livingston.                                            
+                                                             
+      unconcealment and gnosis. Navigating the web with ccru.net as the starting point, one
+      would be guided towards arcane destinations such as: the Aleister Crowley library; the
+      Ordo Templi Orientis Phenomenon; the horology index; the I Ching and number theory;
+      maps of plate tectonics; a chronology of H.P. Lovecraft’s mythos; artificial intelligence
+      and robotics research pages; conspiracism on alien abduction; cyberpunk resources;
+      Mesopotamian magic and myth; and more – 70 destinations in fact. As Table 1 and
+      Figure 7 show, the blizzard of strange and esoteric references remediate those that could
+      be found in the aforementioned 1980s post-counterculture revival zines. And like those
+      zines, the experience that is invited oscillates between the epistemological and the aes-
+      thetic – between the personal acquisition of ‘knowledge’ and an anti-critical immersion
+      in the arcane and otherworldly.                        
+        Positioning links pages as immersive media shows the remediation of the aesthetics
+      and ludics of zine media for the early web. After Bolter and Grusin (2000), remediation
+      is the representation of one medium in another, and a common logic of development in
+      the design of media technologies – arguably more so with digital media. However,
+      immersion was not only remediated via the re-presentation in another medium of its
+      signifying content. Closer examination of the CCRU’s web page shows that it was also
+      redeployed using web-idiomatic means. Listed inside the page source code, visible in
+      Figure 8, are 53 keywords that the site designer scripted into the page. Surprisingly, the
+      keywords give names to the anonymous members and associates of the CCRU, alongside
+      musical genres, critics and publications that the group oriented their work towards
+      (breakbeat culture, garage, jungle, 2-step, darkside and drum ’n bass; The Wire and i-D
+      mag; Simon Reynolds and Kodwo Eshun); essays, concepts, institutions and theorists
+      that members of the CCRU might be known for (e.g. ‘Meltdown’ by Nick Land; Steve
+      Goodman’s Katasonix label; Y2K; Deleuze, Guattari, DeLanda and Virilio); and more
+      overt references to Cold War paranoia and psychedelia (‘drugs’, ‘Nato’, ‘CIA’). Not all
+      of these are hidden on the public face of the website (especially Kode9 and Orphan
+      Drift), but most are, so it is a strange thing to encounter for a group whose commitment
+                                                             
+                                                             
+                                                             
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+       Haworth                                       225     
+                                                             
+       Table 1. ‘Contents’ as it appeared in Rapid Eye 1, 1989.
+       CONTENTS                                              
+       THE FALL OF ART         THROUGH A SCREEN, DARKLY      
+       William S Burroughs     An Audience With Derek Jarman 
+       1                       Simon Dwyer                   
+                               135                           
+       FROM ATAVISM TO ZYKLON B                              
+       Genesis P-Orridge & The Temple Of THE GEMSTONE FILE INVESTIGATION
+       Psychic Youth                                         
+       Simon Dwyer             Who Killed The Kennedys?      
+       5                       Nick Toczek                   
+                               151                           
+       SYBARITE AMONG THE SHADOWS                            
+       An invocation Of Aleister Crowley THE SECRET LANGUAGE OF ALCHEMY
+       R. C. McNeff            Kenneth Rayner Johnson        
+       47                      164                           
+       DREAMACHINE             “BRAZIL”                      
+       An information Montage  The Last Of England           
+       Simon Dwyer             Simon Dwyer                   
+       52                      171                           
+       BECAUSE AND COSMOS      SEX, CRIME AND THE OCCULT     
+       C. John Taylor          Colin Wilson                  
+       56                      209                           
+       THE VIDEODROME          I AM THE BEAST                
+       Situationism & Death TV The Trial Testimony Of        
+       Mark Downham            Charles Manson                
+       64                      214                           
+       WORDS FROM A ROOM       A REVOLUTIONARY SUICIDE       
+       An Interview With Hubert Selby jnr. Transcript of Rev. Jim Jones
+       Pat Hollis              & The People’s Temple of Christ
+       72                      Simon Dwyer                   
+                               224                           
+       DEAD FINGERS TALK                                     
+       An interview With William $ Burroughs TWO DRAGONS PLAYING WITH A PEARL
+       V. Vale                 The Ancient Art Of Footbinding
+       79                      Nancy MacKenzie               
+                               230                           
+       THE JOHNSON FAMILY                                    
+       William S Burroughs     BODYSHOCKS                    
+       84                      An interview With Mr. Sebastian
+                               Simon Dwyer                   
+       SMILE                   233                           
+                                                  (Continued)
+                                                             
+                                                             
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+      226                            Theory, Culture & Society 40(7-8)
+                                                             
+      Table 1. (Continued)                                   
+      CONTENTS                                               
+      An Introduction To Neoism                              
+      A Rapid Eye Report      THE BLACK BOX                  
+      87                      Kathleen McAuliffe             
+                              238                            
+      TIME MIRRORS                                           
+      The Art Of Austin Osman Spare HIS NAME WAS MASTER      
+      Genesis P-Orridge       in Memory Of Brion Gysin       
+      111                     Genesis POrridge               
+                              242                            
+      THE UNDYING MONSTER                                    
+      Hitler & Nazi UFOs      Epiloque:                      
+      lan Blake               A THANKSGIVING PRAYER          
+      116                     William S Burroughs            
+                              247                            
+      I BECOME A MURDERESS                                   
+      Kathy Acker                                            
+      124                                                    
+      TANTRA                                                 
+      An introduction                                        
+      Sahajanath                                             
+      131                                                    
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+      Figure 7. Visualisation of visible links from links page of ccru.net.
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+       Haworth                                       227     
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+       Figure 8. Visualisation of ‘named entities’ hidden in source code of ccru.net.
+                                                             
+       to collective anonymous authorship has retrospectively provoked such intrigue. In fact,
+       the hidden keywords offer exactly what one might expect to find on a conventional links
+       page – the personnel, interests, and associates of the group. Indeed, they offer examples
+       of aspirational hyperlinking: ‘the anticipatory projection by one party of wished-for rela-
+       tions with and valorization by another – relations that are not (yet) reciprocated or actual-
+       ized, but in which the potential for an inflationary cycle [of prestige/cultural capital] is
+       sought’ (Born and Haworth, 2017: 612)                 
+        Why did whichever member designed the website choose to undermine the cool
+       secrecy and closure of the CCRU? One interpretation is that the source code contains
+       traces of a tactic – now obsolete – to influence search engine results. The functionality
+       this relies on was deprecated with the ascent of Google’s PageRank technology after
+       about 1998, but in a pre-Google world a site designer could hard-code ‘named entities’
+       into a website so that they would be discoverable via search. (Indeed, the presence of
+       ‘cybernetic culture research unit’ and ‘ccru’ in the keywords suggests a designer trying
+       to anticipate various possible queries.) This means that a search for ‘The Wire’, ‘Simon
+       Reynolds’, or ‘2-Step’, for example, could lead a web user to ccru.net, from where
+       they would find occultism, conspiracy, number theory, time travel and so on. Thus,
+       rather than arriving at The Wire or i-D from ccru.net, the site appears as a detour, or
+       better, interrupt, upon searching for these music-related organisations. A naïve visitor
+       to the site via this route might be aware that the CCRU had some relationship to
+                                                             
+                                                             
+                                                             
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+      228                            Theory, Culture & Society 40(7-8)
+                                                             
+      underground and experimental music, but quite what their function or purpose is
+      remains unclear.                                       
+        The CCRU’s website therefore performs a kind of web-based subcultural infiltration,
+      where music and other subcultural interests are switched out for esoterica. To continue
+      the analysis begun with Vague, we can say that the naïve visitor to ccru.net is immersed
+      – the term conjuring both aesthetic immersion and a kind of radicalisation into the sym-
+      bolism and mythos of the CCRU.11                       
+      Conclusion: From 1990s Occulture to the 2016 Culture   
+      Wars                                                   
+                                                             
+      When the alt-right emerged into the mainstream during the 2016 US presidential election
+      it drew legitimacy from a host of far-right intellectuals, from contemporary neo-reaction-
+      aries (NRx) like Curis Yarvin (aka Mencius Moldbug) to more traditional conservatives
+      like Jordan Peterson. Somewhere among them were a handful of figures who had made
+      their name amid the political upheavals of the late 1980s and early 1990s and were being
+      rediscovered: the Russian political analyst and philosopher Aleksandr Gelyevich Dugin
+      was one, and Nick Land of the CCRU was another. As has been widely discussed (cf.
+      Hawley, 2018; Hermansson et al., 2020; Nagle, 2017), the chief driver of Land’s new
+      popularity was ‘The Dark Enlightenment’, a blog series starting in 2013 that critiqued
+      liberal democracy’s ‘relentless trend to (intellectual) degeneration’ and toys with neo-
+      reactionary themes including ‘race realism’ and ‘human bio diversity’ (Land, 2013). At
+      the same time, the fact that Land was listened to at all was a product of the cultural pres-
+      tige he had amassed as a philosophy lecturer and guru to a new generation of cultural
+      theorists. In article after article across both liberal and right-wing media, Land’s back-
+      ground as the expelled Warwick academic-turned-crazed-leader of the CCRU featured
+      strongly. Users of political forums like the 4chan/pol (‘politically incorrect’) board in
+      turn mythologised the connection, producing esoteric memes that positioned Land as a
+      William Blake-like visionary who had glimpsed the neofeudalist future (Dean, 2021) at
+      a time when others were talking up the dotcom boom.    
+        We see this in a meme posted to the /pol/ board, a political forum on the Reddit plat-
+      form (Figure 9). In the image, a pyramid is depicted upon which various online subcul-
+      tures are ironically piled up in an ‘interlocking chain of command which constitute(s)
+      the power structure of our invisible world government’ – they include the ‘Land-Dugin
+      Syncretic Brotherhood’, the ‘CCRU Remnant Enclave (Shanghai)’, and other CCRU
+      references (e.g. ‘Architectonic Order of the Eschaton’). The title of the meme is ‘Who
+      Runs the World?’, a reference to the varyingly anti-socialist, anti-semitic New World
+      Order conspiracy theory which posits a totalitarian political system run by either
+      Marxists or Jews. Thus, while it would be poor historicism to suggest, as Noys and oth-
+      ers have done, that Land and the CCRU gave rise to extreme right political subcultures
+      of the last ten years, we can nevertheless assert that the subcultural esteem Land enjoys
+      turned attention backwards, to the strange, remediated new-religion atmosphere that the
+      CCRU cultivated following TOPY. Rather than see the path of historical succession
+      between the occultural web and the forms of occulture that characterise subcultural
+      communication among the far right as a linear and molecular line of ‘influence’, then,
+                                                             
+
+[PAGE 19]
+                                                             
+                                                             
+                                                             
+       Haworth                                       229     
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+       Figure 9. [WHO RUNS THE WORLD?] (2020), CCRU meme.    
+                                                             
+       we might instead characterise it in terms of a structure of protentions and retentions.12
+       The traces of 1980s and 1990s occulture in today’s subcultural communication act upon
+       the earlier occulture ‘in such a way as to frame it, retroactively, as being a more or less
+       straightforward cause of the later’ occulture’s effect (Haworth, 2018: 618; see also
+       Born, 2005).                                          
+        Yet although figures like Land might like to believe that there is an inevitability
+       between their acts in the present and their future repercussions, historical criticism should
+       return our attention to the contingent and unsettled nature of events during their own
+       present. This article has attempted to foreground this uncertainty by situating 1990s
+       occulture within a much wider subcultural network that grew out of punk, and was to an
+       extent a reaction to punk’s ideological emphasis on democracy, egalitarianism, and
+       grassroots authenticity.13 The industrial dimension of what Savage, Suck and Robertson
+       termed ‘new musick’ retained punk’s organisational autonomy, augmenting it with an
+                                                             
+                                                             
+                                                             
+
+[PAGE 20]
+                                                             
+                                                             
+                                                             
+      230                            Theory, Culture & Society 40(7-8)
+                                                             
+      elevating turn to the ‘extra-musical’ fields of outsider art and literature. Later, when sub-
+      cultural groups in Britain turned their attention to the web, this ‘extra-musical’ culture –
+      later termed occulture – informed what they found there.14 One of the continuous logics I
+      have tried to emphasise within this turn is an aesthetic of immersion. In Tom Vague’s
+      Vague, immersion describes the textual-visual sublime that transforms a text about Charles
+      Manson into an aesthetic cipher of psychedelic fascism. In Dwyer’s (1989) Rapid Eye, it
+      describes venturing into ‘apolitical and amoral’ thoughtforms that have been ‘hidden
+      and ignored, or wilfully marginalised to the extremities of our society’ (p. 3). In Nick
+      Land’s CCRU, occulture is remediated and immersion augmented with the disorienting
+      tactic of subcultural infiltration.                    
+        Immersion should put us in mind of contemporary far-right memes that sit at the inter-
+      section between media and politics. Key NRx concepts are the notion of the cathedral
+      and of ‘taking the red pill’: the former describing the liberal-progressive-elite whose
+      power in terms of its control of the media, higher education, and institutions of power
+      serves to suppress independent thought and enforce conformity (Tait, 2019: 194), and the
+      latter describing the perspective-shift required to see the world outside of this prism.
+      Typically, this entails becoming ‘aware’ of purported Jewish media control (as with the
+      racist George Soros conspiracy theories), ‘innate’ biological racial or sexual differences,
+      or social problems associated with multiculturalism (Hawley, 2018: 83). Both concepts
+      evoke the libertarian ethos of the zines, and particularly Rapid Eye in its desire to cata-
+      lyse ‘experimental, undogmatic, intellectual and oddly evolutionary’ thinkers, unbe-
+      holden to mainstream taste and opinion. As much as content, however, it is the ideologies
+      they carry as media that ensure contact with enlightenment. From underground zines and
+      handbooks to the contemporary ‘deep vernacular web’ (de Zeeuw and Tuters, 2020),
+      each styles itself as a portal to gnosis. Indeed, it is possible to see media being imbued
+      with magic and mysticism, a theme that has animated analyses of the internet both in its
+      early stages and in the present (cf. Davis, 1998; Lachman, 2018).
+        Immersion, in my understanding, differs from the merely sensory-aesthetic definition
+      that dominates in contemporary art scholarship, and that is usually contrasted with the
+      mental-conceptual. What is important is not only the implied desire to suspend ‘critical
+      thought and differentiation’ (Schrimshaw, 2015: 156), but the imaginaries that inform
+      immersion in the unknown. Arun Saldhana’s Psychedelic White compellingly describes
+      how ‘white people become white’ through their ‘constant urge’ to engage with spaces
+      different to them, whether they be surreal, exotic or otherworldly (Saldanha, 2007: 17).
+      Indeed, the desire for transcendence can come at the risk of losing their bearings entirely
+      (Saldanha, 2007). After their ‘visionary’ turns, Tom Vague, Simon Dwyer and Nick Land
+      used everything from structural anthropology to Victorian-era new religions to ‘make
+      strange’ the new media, so that reading a zine or surfing the web could become akin to a
+      state of altered consciousness – similar to Aldous Huxley’s experiments with mescaline
+      or Timothy Leary’s with LSD. To talk of whiteness in relation to digital media of course
+      recalls longer debates on cyberculture, from the ‘white liberal in disguise’ figure of the
+      posthuman that Weheliye (2002) describes to the frontier-settler rhetoric that was grafted
+      onto early encounters with cyberspace, and that has been analysed by many (cf. Barbrook
+      and Cameron, 1995; Streeter, 2011; Turner, 2006). What I have tried to do here, however,
+      is to analyse the localised cultural politics of British and European cyberculture, where
+
+[PAGE 21]
+                                                             
+                                                             
+                                                             
+       Haworth                                       231     
+                                                             
+       the digital vanguard was chiefly associated with artists, theorists and creators (Barbrook,
+       1998), and where zines and other music media of the previous decade provided the most
+       important subcultural coordinates. In these contexts, whiteness manifested in the protec-
+       tion from harm it provided to authors and artists to immerse themselves in the anti-
+       rational, abject, and censored – including explorations of right-wing esotericism or the
+       supernatural thinking that informed the Third Reich.  
+        Political theorists like Nancy Love and Ana Teixeira Pinto have highlighted how eas-
+       ily art worlds were infiltrated by new right-wing movements like NRx and the alt-right
+       after 2016 (Love, 2016; Pinto, 2017, 2020). Love has stressed the need to develop ‘criti-
+       cal listening publics’ who are able to ‘crack the not-so-hidden codes of white supremacy’
+       that have coursed through alternative musics in the last ten years. To this I would add that
+       we also need to develop historical and media literacy. Because although 21st-century
+       fascism seemed to emerge in an entirely different way in the previous decade – most
+       notably in the strong role played by culture and cultural politics – this is not to say that
+       there were not precedents.                            
+       Acknowledgements                                      
+       The author would like to thank John Eden, Niall Gallen, Michael Haworth, Mimi Haddon, Patrick
+       Quick, Ed Spencer and Marie Thompson for comments, suggestions and dialogue that helped to
+       improve this article. Funding for this research was provided by the AHRC Leadership Fellowship
+       Music and the Internet: Towards a Digital Sociology of Music, grant number AH/S00744X/1.
+       ORCID iD                                              
+       Christopher Haworth https://orcid.org/0000-0003-0587-1465
+                                                             
+       Notes                                                 
+       1. Context collapse was first described in relation to broadcast media (Meyrowitz, 1985), and
+         later extended to digital media (and named) by boyd (2002) in her Master’s thesis. Philips and
+         Milner (2017) analyse ambivalence and ironic detachment as products of context collapse.
+       2. See for example Siepmann (2019) and Miller (2019). Thompson (2019) has offered a thought-
+         ful critique of the industry in op-eds on ‘past transgressions’.
+       3. See Vague and Fisher (2016: 78) for a list of zines Vague saw as competing.
+       4. All quotes from Vague, issue 1, 1979.              
+       5. Vague in the late 1970s was drafting a book on Adam and the Ants, although it failed to con-
+         nect with a publisher (Vague and Fisher, 2016: 491).
+       6. Cateforis (2011: 26) writes that the ‘more overtly experimental and radical musical decon-
+         structions’ of post-punk were initially termed ‘new musick’ by taste-shaping journalists like
+         Jon Savage.                                         
+       7. Christopher Partridge has become associated with the concept of occulture through a series
+         of theoretical texts which draw influence from a range of sources, including the Temple Ov
+         Psychick Youth (Partridge 2013a, 2013b, 2013c). However, its origins in Dwyer’s Rapid Eye
+         seem little known (cf Partridge, 2013a, 2013b, 2013c).
+       8. Siepmann (2019) describes PTV as a ‘front organisation’ for TOPY, which has some fidelity
+         to how PTV saw themselves.                          
+                                                             
+                                                             
+                                                             
+
+[PAGE 22]
+                                                             
+                                                             
+                                                             
+      232                            Theory, Culture & Society 40(7-8)
+                                                             
+      9. Mark Fisher was an enthusiastic reader of Vague magazine, writing in his blog that Vague
+        ‘understood that the (70s) stand-off between Old Media and fanzines presaged a conflict
+        that you are participating in now’ (K-Punk, 2007). Fisher singled out two articles from
+        Vague, both by Mark Downham, arguing that they presaged the CCRU: ‘Certainly, there
+        would have been no Ccru without Downham’s two treatises, “Videodrome: the Thing in
+        Room 101” and “Cyberpunk”, which – years before such connections would be academic-
+        rusted into familiarity – patched together Gibson, Debord, Moorcock, Tesla, Baudrillard,
+        Apocalypse Now, in a form that accelerated what Ballard had done in The Atrocity
+        Exhibition’ (K-Punk, 2007).                          
+      10. Robin Mackay writes: ‘let’s get this out of the way: In any normative, clinical, or social sense
+        of the word, very simply, Land did “go mad.” Afterwards he did not shrink from meticulously
+        documenting this process, as if writing up a failed (?) experiment’ (Mackay, 2012).
+      11. In recent years, prominent electronica artists like Oneohtrix Point Never, Chino Amobi, and
+        Lee Gamble have explicitly name-checked the CCRU or drawn from their writings in their
+        work, while concepts like sonic fiction recirculate around sound art and sound art theory.
+      12. This concept is taken from Alfred Gell, who initially drew on Edmund Husserl. Georgina
+        Born has adapted the concept for the music disciplines.
+      13. It is important to emphasise, however, that the left-leaning attributes that have been associated
+        with punk frequently did not bear out in practice. Egalitarianism and especially anti-racism
+        often turned out to be retrospective claims made upon the genre from the vantage point of the
+        ‘politically correct’ 1980s and 1990s, while punk’s overtly racist aspects were ignored (Sabin,
+        1999: 199).                                          
+      14. Retrospectively, P-Orridge (2010: 11) claimed that ‘[t]he first generation developers of
+        “cyberculture” were certainly aware of – and some of them even active in – TOPY and its
+        ideas and ideals’.                                   
+      References                                             
+      Addicott, Graham (dir.) (1992) Beyond Belief. In: Dispatches series. Broadcast: 19 February,
+        Channel 4.                                           
+      Barbrook, Richard (1998) The Holy Fools: A Critique of the Avant-Garde in the Age of the Net.
+        London: Hypermedia Research Centre, University of Westminster.
+      Barbrook, Richard and Cameron, Andy (1995) The Californian ideology. Mute. Available at: https://
+        www.metamute.org/editorial/articles/californian-ideology (accessed 26 February 2022).
+      Beckett, Andy (2016) Promised You a Miracle: Why 1980–82 Made Modern Britain. London:
+        Penguin Books.                                       
+      Bland, Benjamin (2018) ‘Don’t do as you’re told, do as you think’: The transgressive zine culture
+        of industrial music in the 1970s and 1980s. In: Subcultures Network (eds) Ripped, Torn and
+        Cut: Pop, Politics and Punk Fanzines from 1976. Manchester: Manchester University Press,
+        pp. 150–169.                                         
+      Bolter, Jay David and Grusin, Robert (2000) Remediation: Understanding New Media. Cambridge,
+        MA: MIT Press.                                       
+      Born, Georgina (2005) On musical mediation: Ontology, technology and creativity. Twentieth-
+        Century Music 2(1): 7–36. DOI: 10.1017/S147857220500023X.
+      Born, Georgina, and Haworth, Christopher (2017) From microsound to vaporwave: Internet-
+        mediated musics, online methods, and genre. Music and Letters 98(4): 601–647.
+      boyd, danah (2002) Faceted ID/entity: Managing representation in a digital world. Master’s the-
+        sis. Massachusettes Institute of Technology, Cambridge, MA.
+      Bridle, James (2018) New Dark Age: Technology and the End of the Future. London: Verso Books.
+
+[PAGE 23]
+                                                             
+                                                             
+                                                             
+       Haworth                                       233     
+                                                             
+       Cateforis, Theo (2011) Are We Not New Wave? Modern Pop at the Turn of the 1980s. Ann Arbor,
+         MI: University of Michigan Press.                   
+       Chun, Wendy Hui Kyong (2021) Discriminating Data: Correlation, Neighborhoods, and the New
+         Politics of Recognition. Cambridge, MA: MIT Press.  
+       Cramer, Florian (2016) Alt-right: A lecture. Available at: https://evening-class.org/2016/12/13/
+         alt-right-a-lecture-by-florian-cramer (accessed 26 February 2022).
+       Davis, Erik (1998) Techgnosis: Myth, Magic and Mystery in the Age of Information. London: The
+         Serpent’s Tail.                                     
+       Davis, Erik (2014) The counterculture and the occult. In: Partridge, Christopher (ed.) The Occult
+         World. Abingdon, Oxon: Routledge, pp. 635–645.      
+       de Zeeuw, Daniël and Tuters, Marc (2020) Teh internet is serious business: On the deep vernacular
+         web and its discontents. Public Culture 16(2): 214–232.
+       Dean, Jodi (2021) Neofeudalism: The end of capitalism? In: Lewis, Penny, Holm, Lorens, and
+         Santos, Sandra Costa (eds) Architecture and Collective Life. Abingdon, Oxon: Routledge,
+         pp. 42–54.                                          
+       Duncombe, Stephen (1997) Notes from Underground: Zines and the Politics of Alternative
+         Culture. London: Verso Books.                       
+       Dwyer, Simon (1979) By-pass today. In: Dwyer, Simon (ed.) Rapid Eye Movement, issue 1,
+         Winter, self-published.                             
+       Dwyer, Simon (1989) Introduction. In: Dwyer, Simon (ed.) Rapid Eye 1, 1st edn. R.E. Publishing
+         Ltd.                                                
+       Haddon, Mimi (2020) What is Post-punk? Genre and Identity in Avant-garde Popular Music,
+         1977–82. Ann Arbor, MI: University of Michigan Press.
+       Hannah, Matthew (2021) QAnon and the information dark age. First Monday online first. DOI:
+         10.5210/fm.v26i2.10868.                             
+       Hawley, George (2018) Making Sense of the Alt-Right. New York, NY: Columbia University
+         Press.                                              
+       Haworth, Christopher (2018) Protentions and retentions of Xenakis and Cage: Nonhuman actors,
+         genre and time in microsound. Contemporary Music Review 37(5–6): 606–625. DOI:
+         10.1080/07494467.2018.1577639.                      
+       Hermansson, Patrik, Lawrence, David, Mulhall, Joe et al. (2020) The International Alt-Right:
+         Fascism for the 21st Century? Abingdon, Oxon: Routledge.
+       Holt, Macon (2019) Pop Music and Hip Ennui: A Sonic Fiction of Capitalist Realism. New York,
+         NY: Bloomsbury Publishing.                          
+       K-Punk (2007) A rupturing of this collective amnesia. Available at: http://k-punk.abstractdynam-
+         ics.org/archives/009656.html (accessed 31 January 2022).
+       Kirchick, James (2016) Trump’s terrifying online brigades. Available at: https://www.commen-
+         tary.org/articles/james-kirchick/trumps-terrifying-online-brigades/ (accessed 26 February
+         2022).                                              
+       Lachman, Gary (2018) Dark Star Rising: Magick and Power in the Age of Trump. London:
+         Penguin Publishing Group.                           
+       Land, Nick (2013) The Dark Enlightenment. Available at: http://www.thedarkenlightenment.com/
+         the-dark-enlightenment-by-nick-land/ (accessed 31 January 2022).
+       Love, Nancy S. (2016) Trendy Fascism: White Power Music and the Future of Democracy. New
+         York: SUNY Press.                                   
+       Ludovico, Alessandro (1995) Internet.Underground.Guide. Bari, Italy: Minus Habens Records.
+       Mackay, Robin (2012) Nick Land: An experiment in inhumanism. Umelec Magazine 16.
+       Meyrowitz, Joshua (1985) No Sense of Place: The Impact of Electronic Media on Social Behavior.
+         New York, NY: Oxford University Press.              
+
+[PAGE 24]
+                                                             
+                                                             
+                                                             
+      234                            Theory, Culture & Society 40(7-8)
+                                                             
+      Miller, Dylan (2019) Why we’re investigating extreme politics in underground music. Quietus.
+        Available at: https://thequietus.com/articles/25682-fascism-underground-music-racism-
+        industrial-black-metal-noise (accessed 25 August 2022).
+      Nagle, Angela (2017) Kill All Normies: Online Culture Wars From 4chan and Tumblr to Trump
+        and the Alt-Right. Lanham, MD: John Hunt Publishing. 
+      Noys, Benjamin (2014) Malign Velocities: Accelerationism and Capitalism. London: John Hunt
+        Publishing                                           
+      Noys, Benjamin (2022) Burn out: Reflections on accelerationism. Available at: https://www.
+        academia.edu/64818298/Burn_Out_Reflections_on_Accelerationism (accessed 26 February
+        2022).                                               
+      O’Brien, Luke (2017) Andrew Anglin: The making of an American Nazi. The Atlantic. Available
+        at: https://www.theatlantic.com/magazine/archive/2017/12/the-making-of-an-american-
+        nazi/544119/ (accessed 31 January 2022).             
+      P-Orridge, Genesis Breyer (2010) THEE PSYCHICK BIBLE: Thee Apocryphal Scriptures ov
+        Genesis Breyer P-Orridge and Thee Third Mind ov Thee Temple ov Psychick Youth. Port
+        Townsend, WA: Feral House.                           
+      Phillips, Whitney and Milner, Ryan M. (2017) The Ambivalent Internet: Mischief, Oddity, and
+        Antagonism Online. London: John Wiley & Sons.        
+      Pinto, Ana Teixeira (2017) Ironie und alt-right. Springerin 4: 12–14.
+      Pinto, Ana Teixeira (2020) Illiberal arts. Pallaten. Available at: https://paletten.net/artiklar/
+        illiberal-arts (accessed 26 February 2022).          
+      Reynolds, Simon (2009) Rip it Up and Start Again: Postpunk 1978–1984. London: Faber & Faber.
+      Sabin, Roger (1999) I won’t let that dago by: Rethinking punk and racism. In: Roger, Sabin (ed.)
+        Punk Rock: So What? London: Routledge, pp. 199–218.  
+      Saldanha, Arun (2007) Psychedelic White: Goa Trance and the Viscosity of Race. Minneapolis,
+        MN: University of Minnesota Press.                   
+      Savage, Jon (1983) Introduction. In: Vale, V and Juno, Andrea (eds) Industrial Culture Handbook.
+        San Francisco, CA and Eugene, OR: V/Search Publications, pp. 4–5.
+      Schrimshaw, Will (2015) Exit immersion. Sound Studies 1(1): 155–170.
+      Shirky, Clay (2009) Here Comes Everybody: How Change Happens When People Come Together.
+        London: Penguin.                                     
+      Siepmann, Dan (2019) Groupthink and other painful reflections on Thee Temple ov Psychick
+        Youth. PopMatters, 27 September. Available at: https://www.popmatters.com/genesis-p-
+        orridge-groupthink-2640631583.html (accessed 31 January 2022).
+      Streeter, Thomas (2011) The Net Effect: Romanticism, Capitalism, and the Internet. New York,
+        NY: New York University Press.                       
+      Tait, Joshua (2019) Mencius moldbug and neoreaction. In: Sedgwick, Mark (ed.) Key Thinkers of
+        the Radical Right. New York, NY: Oxford University Press, pp. 187–203.
+      Thompson, Marie (2019) Past transgressions. Keynote given to Punk/Noise, the 6th Punk Scholars
+        Network Conference, Newcastle University, Newcastle upon Tyne, 16–17 December.
+      Truscott, Lucian K. (1970) Psychedelic fascism. The Georgia Straight, 18 November, pp. 12–13.
+      Turner, Fred (2006) From Counterculture to Cyberculture: Stewart Brand, the Whole Earth
+        Network, and the Rise of Digital Utopianism. Chicago, IL: University of Chicago Press.
+      Turner, Fred (2019) Machine politics: The rise of the internet and a new age of authoritarianism.
+        Harper’s Magazine, January, p. 9.                    
+      Tuters, Marc (2021) Belief beyond belief: On fashwave’s esoteric future past. Krisis | Journal for
+        Contemporary Philosophy 41(1): 172–178. DOI: 10.21827/krisis.41.1.37162.
+      Vague, Tom (1984) Control Data Manual #18/19: Programming Phenomena and Conspiracy
+        Theory. London.                                      
+
+[PAGE 25]
+                                                             
+                                                             
+                                                             
+       Haworth                                       235     
+                                                             
+       Vague, Tom and Fisher, Mark (2016) Vague post-punk memories: A lecture by Tom Vague, and
+         conversation with Mark Fisher (11/12/14). In: Butt, Gavin, Fisher, Mark and Eshun, Kodwo
+         (eds) Post Punk Then and Now. London: Duncan Baird Publishers.
+       Vale, V and Juno, Andrea (1984) Industrial Culture Handbook (RE/Search 6-7). San Francisco,
+         CA: RE/Search Publications.                         
+       Weheliye, Alexander G. (2002) ‘Feenin’: Posthuman voices in contemporary Black popular music.
+         Social Text 20(2): 21–47.                           
+       [WHO RUNS THE WORLD?] (2020) Available at: https://twitter.com/notjessewalker/sta-
+         tus/1328328521211662336 (accessed 26 February 2022).
+       Worley, Matthew (2015) Punk, politics and British (fan)zines, 1976–84: ‘While the world was
+         dying, did you wonder why?’ History Workshop Journal 79(1): 76–106.
+       Wu Ming 1 (2018) Archivio dei tweet di Wu Ming 2009–2019. @wu_ming_foundt, 12 June.
+         Available at: https://twitter.com/wu_ming_foundt/status/1006664569920606211 (accessed
+         31 January 2022).                                   
+       Wu Ming 1 (2021) The Q in Qonspiracy: QAnon and its Surroundings, How Conspiracy Fantasies
+         Defend the System. Rome, Italy: Edizione Alegre.    
+       Christopher Haworth is Associate Professor in Music at the University of Birmingham. His
+       research spans a number of topics in 20th- and 21st-century musics, including electronic and
+       experimental musics; British popular music; music and politics; digital media; and music and the
+       internet. He is currently completing a historical monograph examining the relationship between
+       popular music and radical theory in 1990s Britain, as musicians, political groups, art collectives
+       and intellectuals retooled left-aligned theories of political change for the emerging world wide
+       web. Between 2019 and 2021 he held an AHRC Early Career Leadership Fellowship under the title
+       Music and the Internet: Towards a Digital Sociology of Music. His articles have appeared in such
+       journals as Computer Music Journal, Music and Letters, Leonardo Music Journal, and Organised
+       Sound, as well as several edited collections. He is also an electronic musician with releases on
+       Superpang, Head+Arm, Optophono and others.            
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 26]
+                                                             
+                                                             
+                                                             
+                          Body                     &         
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                        Society                              
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                Editor-in-Chief:
+                                             MMiikkee FFeeaatthheerrssttoonnee
+                                   GGoollddssmmiitthhss,, UUnniivveerrssiittyy ooff LLoonnddoonn,, UUKK
+                                                     Editor: 
+                                               Lisa Blackman 
+                                   GGoollddssmmiitthhss,, UUnniivveerrssiittyy ooff LLoonnddoonn,, UUKK
+                                                             
+                                               Managing Editor:
+                                               Tomoko Tamari 
+                                   GGoollddssmmiitthhss,, UUnniivveerrssiittyy ooff LLoonnddoonn,, UUKK
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+    Body & Society hhaass ffrroomm iittss iinncceeppttiioonn iinn MMaarrcchh 11999955 aass aa ccoommppaanniioonn jjoouurrnnaall ttoo
+    Theory, Culture & Society, ppiioonneeeerreedd aanndd sshhaappeedd tthhee fifi eelldd ooff bbooddyy--ssttuuddiieess.. IItt
+    has been committed to theoretical openness characterized by the publication of
+    a wide range of critical approaches to the body, alongside the encouragement
+                                                             
+    and development of innovative work that contains a transdisciplinary focus.
+                                                             
+                                                             
+                                                             
+                                                             
+    journals.sagepub.com/home/bod                            
+                                                             

@@ -1,0 +1,82 @@
+{
+  "paper_id": "ungureanu_2013",
+  "title": "The 'mystical' foundation of democratic society, mythmaking and truth in The Man Who Shot Liberty Valance (John Ford 1962)",
+  "author": "Ungureanu",
+  "year": 2013,
+  "journal": "Philosophy & Social Criticism",
+
+  "opening_move": {
+    "type": "normative_puzzle",
+    "description": "The paper opens with the foundational paradox in democratic theory: how can a people legitimately found a constitutional order if no already-legitimate authority exists at the founding moment? This is the pouvoir constituant problem framed as an aporia that cannot be resolved without circularity.",
+    "anchored_in": ["Arendt", "Rousseau", "Derrida"],
+    "stakes_claimed": "Understanding this aporia is necessary to evaluate whether democratic legitimacy can be sustained without either naive teleology or nihilistic deconstruction"
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["Habermas", "Derrida", "Pippin"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": true,
+    "own_position_type": "middle_way",
+    "own_position_explicit": true,
+    "description": "The paper stages a contrast between Habermasian progressive reconciliation (teleological, smuggles convergence) and Derridean deconstruction (hyperbolic aporia, loses practical traction), then proposes a critical-Enlightenment middle way that retains both aporias and the possibility of non-teleological progress"
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_interpretive_case",
+    "secondary": "purely_interpretive_hermeneutic",
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "Hermeneutic-political reading of a film as a philosophical parable; close attention to plot structure, visual composition (Pompey classroom scene), and narrative voice as carriers of political argument",
+    "notes": "The film is treated as a site of theoretical thinking, not as an empirical object. The case does not test the framework — it instantiates and generates it. This is interpretive constitution of the argument, not empirical support."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "film",
+    "case_name": "The Man Who Shot Liberty Valance (John Ford, 1962)",
+    "case_function": "parable_for_theory",
+    "case_relation_to_argument": "illustrative_and_generative",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "democratic theory — legitimacy, founding violence, truth and myth",
+    "claim_type": "critical_diagnostic",
+    "closure_type": "open_ended_with_burden_on_reader"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "immanent_critique",
+    "framework_proposal",
+    "case_introduction",
+    "case_development",
+    "case_interpretation",
+    "meta_reflexive_qualification",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": true,
+
+  "key_concepts": [
+    "pouvoir constituant",
+    "mystical foundation",
+    "founding violence",
+    "legitimating myth",
+    "aporetic democracy",
+    "politics of truth"
+  ],
+
+  "thinkers_deployed": {
+    "central": ["Derrida", "Arendt"],
+    "engaged_critically": ["Habermas", "Pippin"],
+    "referenced_only": ["Rousseau", "Benjamin"]
+  },
+
+  "confidence_notes": "High confidence overall. The move sequence is unusually clear due to the paper's explicit section structure. The main classification decision is whether the film functions as illustrative or constitutive evidence — I classify it as constitutive because the paper's positive normative claims (that democracy requires truth-telling, that myths can be pathological) are derived from the film reading rather than established prior to it and then illustrated."
+}

@@ -1,0 +1,950 @@
+[PAGE 1]
+ 1316403                                                     
+ research-article2025 TCS0010.1177/02632764251316403Theory, Culture & SocietyDavies
+                                                             
+                                                             
+       Article                                               
+                                             Theory, Culture & Society
+       Another  Age  of Anxiety:               2025, Vol. 42(5) 3 –20
+                                              © The Author(s) 2025
+       Psychological Distress and                            
+                                              Article reuse guidelines:
+       the ‘Asset Economy’                sagepub.com/journals-permissions
+                                        httpDs:O//dIo: i1.o0r.g1/1107.711/0727/60322673267462452153131166440033
+                                           journals.sagepub.com/home/tcs
+       William Davies                                        
+       Goldsmiths, University of London                      
+                                                             
+       Abstract                                              
+       Rates of ‘anxiety disorder’ have risen rapidly in the 21st century, provoking much public
+       debate as to the causes. However, despite attending to varieties of mental distress over
+       its history, sociology has said little about the context of this ‘epidemic’. By contrast,
+       the rise of depression and anti-depressants in the 1980s has been viewed by cultural
+       theorists and critics as a distinctly neoliberal affliction, that casts light on its sociological
+       context. Too often, both in critical and non-critical discourses, the distinction between
+       ‘depression’ and ‘anxiety’ has been elided. The article seeks to take anxiety seriously as
+       a distinct contemporary sociological phenomenon. To do this, it examines how anxiety
+       has been framed in the past by existentialist and psychoanalytic traditions, then how
+       this history was systematically eliminated by the medicalization of psychiatry. It then
+       considers how the sociology of assets and assetization might provide an explanatory
+       context for contemporary anxiety ‘disorders’.         
+       Keywords                                              
+       anxiety, assets, depression, neoliberalism, psychoanalysis, social theory, sociology
+                                                             
+                                                             
+                                                             
+       As a diagnostic category, ‘anxiety’ has a claim to being one of the greatest contributors
+       to ill-health and distress in the world today. Anxiety disorders have become the most
+       common of all mental health disorders globally, while the contribution of mental ill-
+       health to the overall ‘burden of disease’ continues to rise (World Health Organization,
+       2023). In the UK and the US, diagnoses of anxiety disorders started to rise precipitously
+       after 2008, disproportionately afflicting women and young people (Goodwin et al., 2020;
+       Slee et al., 2021). The everyday struggles of those who feel unable to go to school,
+       socialize with others, leave the house, attend a lecture, or be in a busy public place are
+       now part of the tapestry of families and institutions, requiring a range of techniques of
+       coping and care. Why there is so much anxiety is a matter of widespread public concern
+                                                             
+       Corresponding author: William Davies. Email: w.davies@gold.ac.uk
+       TCS Online Forum: https://www.theoryculturesociety.org/
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+      4                               Theory, Culture & Society 42(5)
+                                                             
+      and debate, producing a cottage industry of self-help literature, ‘talking cures’, ‘wellness
+      hacks’, not to mention pharmaceutical innovation and marketing.
+        Independently of medical perspectives, the concept of anxiety has long denoted a type
+      of unfounded fear that afflicts the body (especially the chest) and the mind simultane-
+      ously. Many of its symptoms (such as accelerated heart rate) may have beneficial func-
+      tions in genuinely dangerous situations, but become deemed ‘irrational’ or ‘disordered’
+      when they appear in apparently unthreatening contexts (Horwitz and Wakefield, 2012).
+      It is the lack of any clear object that distinguishes an anxiety disorder from what might
+      be deemed a ‘normal’ or ‘healthy’ fear. In the context of medicalized psychiatry, ‘anxiety
+      disorders’ have become associated with the presence of ‘worries’ that are persistent, dif-
+      ficult to control or ‘excessive’, and therefore become an impediment to everyday activi-
+      ties (Rickels and Rynn, 2001; Crocq, 2017). But the phenomenon of anxiety, or ‘angst’,
+      has also been viewed as a mood to which the modern individual is particularly prone.
+      Existentialists have seen anxiety as emerging from the fundamentally arbitrary nature of
+      human freedom, in a world stripped of traditional identities and rituals (Heidegger, 1962;
+      Kierkegaard, 2014). Absent tradition and fixed community, individuals are left strug-
+      gling to find meaning and purpose from within their own selves, a project that leaves
+      them feeling isolated and anxious, struggling to turn contingent decisions into a coherent
+      narrative (Taylor, 1992; Giddens, 2013; Rebughini, 2021).
+        Sociologists and social theorists have attended to such phenomena in the past.
+      Identifying the broader political, economic and social logics behind the distribution of
+      distress and alienation is one of the primary vocations on which these disciplines have
+      been built (Durkheim, 1952; Mills, 2000). A recognition that individualism and secular-
+      ism are potentially disorienting and frightening is built into a long tradition of critique
+      (e.g. Fromm, 1995). And in recent years, critical theorists have treated rates of ‘depres-
+      sion’ as means of interrogating and criticizing neoliberal capitalism (Fisher, 2009;
+      Cederström and Fleming 2012). But sociologists and social theorists have said surpris-
+      ingly little about a type of distress that has become endemic, especially since the Global
+      Financial Crisis (GFC) of 2008. One reason for this is that there are two distinct termi-
+      nological registers at work, which may appear to have little overlap. There is ‘anxiety’ as
+      it has been variously understood by philosophers, psychoanalysts, social theorists and
+      individuals themselves, a concept with rich hermeneutic potential, reflecting on ethics,
+      secularization and the human condition itself. Then there are ‘anxiety disorders’, diag-
+      nostic categories that are applied to specific sets of symptoms in a clinical setting, for
+      various governmental purposes (see Rose, 2013). When we speak of statistical rates of
+      anxiety, what we really mean is rates of ‘anxiety disorder’, given that this is a govern-
+      mental discourse, not an existential or experiential one. And yet the capacity of diagnos-
+      tic governance to fully control any discourse is never absolute (least of all in psychiatry),
+      and there are reasons to assume that the vernacular, philosophical and expert languages
+      of ‘anxiety’ bleed into each other in various ways, as we will explore. That said, for pur-
+      poses of clarity, this paper will use ‘anxiety disorder’ to refer to a diagnostic classifica-
+      tion, and to ‘anxiety’ to refer to a range of subjective, ethical and affective experiences,
+      that may (but may not) lead to a diagnosis of an ‘anxiety disorder’.
+        As a step towards a sociology of contemporary anxiety, this paper aims to do two
+      things. Firstly, it considers how and why ‘anxiety’ (of various forms) became initially
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+       Davies                                         5      
+                                                             
+       occluded under neoliberalism, both within the dominant tradition of American psychia-
+       try and within critical, cultural and social theory. Indeed, there is a type of dialectic
+       between these parallel discursive spheres, whereby critics may seek to interpret the injus-
+       tices and exploitation of a mode of capitalism in terms of the distress that it apparently
+       generates. Rising expert and cultural attention to depression over the 1980s and ’90s also
+       reflected on the types of ‘critical capacities’ that were available (Boltanski and Thevenot,
+       1999), while comparative inattention to anxiety informed how the critique of neoliberal-
+       ism initially developed. In the 21st century, anxiety has, however, become a far more
+       visible and prevalent type of distress (in the form of numerous ‘disorders’), offering a
+       different set of resources to individuals seeking to explain their distress, but also to criti-
+       cal social theorists of neoliberalism.                
+        Secondly, the paper seeks to locate this resurgence of anxiety within the sociological
+       context now known as the ‘asset economy’ (Adkins et al., 2020). ‘Asset-based lives’ are
+       governed by a speculative logic, whereby individuals must exploit whatever contingent
+       circumstances are available to them (especially those provided by family), in order to
+       project themselves onto ontologically uncertain futures. This precarious existence is one
+       that has much in common with the mode of freedom described by existentialists, in
+       which individual self-hood lacks any kind of essence or transcendence and is wholly
+       constituted by decision-making and temporality. There are reasons why the asset econ-
+       omy is especially anxiety-provoking. One problem for us to consider is how this sense of
+       existential unease relates to the stark rise of ‘anxiety disorders’.
+        The paper is structured as follows. The next section examines how and why sociologi-
+       cal perspectives have been applied to medicalized and individualized forms of distress in
+       the past, and how these went into retreat after the 1970s. That retreat was itself tied up
+       with the ascendency of ‘depression’ and – initially – the decline of ‘anxiety’ as psychiat-
+       ric concerns. I then examine anxiety from psychoanalytic and existential perspectives,
+       emphasizing how anxiety reflects on the groundlessness and temporality of being human.
+       The third section identifies key steps via which anxiety became medicalized, what is
+       retained and what is discarded as psychoanalytic and philosophical concepts of ‘anxiety’
+       morph into the diagnostic category of ‘anxiety disorder’. Finally, we turn to the socio-
+       logical context of the asset economy. The argument is made that there are certain family
+       resemblances between the ‘post-foundational’ subjectivity of asset-based life (built
+       around the logic of balance sheets) and the anxious self, and that diagnoses are in part a
+       form of defence against this radically uncertain condition (Menzies, 1960; Armstrong
+       and Rustin, 2019).                                    
+       Sociologies of Distress                               
+       The hope that the roots of mental distress could be located in society and institutions (as
+       opposed to individuals) took various forms over the 20th century. The Frankfurt School
+       drew on Freud to help explain the absence of a revolutionary class subject and the appeal
+       of fascism (Fromm, 1995; Adorno, 2019). London’s Tavistock Clinic and Tavistock
+       Institute of Human Relations each in different ways sought to build bridges between
+       psychoanalysis and the study of social life (e.g. Jaques, 2001). American humanist psy-
+       chology of the 1960s sought to move beyond normalizing patients, and to examine the
+                                                             
+                                                             
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+      6                               Theory, Culture & Society 42(5)
+                                                             
+      conditions of general human flourishing (Grogan, 2013). Simultaneously, anti-psychia-
+      trists highlighted the politics of how ‘sanity’ and ‘insanity’ are distinguished, and the
+      often violent methods used to treat the latter (Foucault, 2001; Laing, 2010). This is a
+      heterogenous list of theoretical and methodological traditions, but what they all shared
+      was a commitment to binding an analysis of psychological distress to political and eco-
+      nomic critique.                                        
+        As copious histories of psychiatry and psychology have detailed, these diverse tradi-
+      tions have shrunk significantly since the dawn of the neoliberal era, which has coincided
+      with the widespread medicalization of mental distress (Healy, 1997; Rose, 2013).
+      Behaviourist, cognitivist and neurochemical explanations for human suffering have gen-
+      erated a range of professional treatments, operating via psychopharmaceuticals and/or
+      short-term therapeutic interventions in the cognition and behaviour of sufferers (Lawlor,
+      2012; Moloney, 2013). A key way in which these treatments align with wider currents of
+      neoliberalism (and differ from the various forms of critical social psychology that came
+      before) is that they view distress as a dysfunction within the individual, rather than as
+      possibly truthful reflections of material, political and social circumstances (Sampson,
+      1981). This ideological climate has allowed techniques of treatment and optimization
+      (such as mindfulness and coaching) to migrate constantly between the realms of psychia-
+      try, self-help, management and education, to form a generalized infrastructure of quanti-
+      fication and modification of individuals (Binkley, 2014).
+        Depression has taken on a particular significance in this genealogy of expertise and
+      subjectivity, for a number of reasons. Firstly, depression (or melancholia) was one of the
+      terrains in which the professional conflict between psychoanalysts and medical psychia-
+      trists was most fiercely fought during the 1970s (Wilson, 1993; Lawlor, 2012; Decker,
+      2013). The former worked with the assumption that ‘melancholia’ was caused by conflict
+      within the self, resulting from unprocessed grief for a lost love-object (Freud, 2005),
+      whereas the latter assumed that ‘depression’ was caused by an imbalance in neurochem-
+      istry. Debates about depression touched on the very ontology of the self, and who has the
+      authority to treat it; the triumph of the positivist viewpoint on depression was also the
+      triumph of psychological positivism more broadly. Secondly, the problem of happiness
+      (and its inverse) was elevated to a new cultural and political significance by the individu-
+      alism and consumerism of the 1960s. An ethos in which the individual was exhorted to
+      achieve satisfaction, self-esteem and flourishing (as opposed to discipline and normali-
+      zation) further pathologized the individual who was unable to do so (Smail, 1999;
+      Ehrenberg, 2010).                                      
+        Thirdly, as critics of the DSM-III (1980) have emphasized, the new diagnostic
+      approach was incapable of distinguishing a symptom from a disorder; it merely offered
+      a standardized tool with which to name symptoms, but offered no explanation for them,
+      beyond the assumption that it lay in brain chemistry (Healy, 1997; Horwitz and Wakefield,
+      2007). To suffer a psychological ‘disorder’ or ‘disease’ simply meant to present a suffi-
+      cient list of symptoms from a given list, for a sufficient length of time. On this basis, the
+      only way of identifying that a disease was present (as opposed to merely a group of
+      symptoms) was that the symptoms were alleviated by a drug that professed to treat that
+      disease. The success and cultural profile of Prozac, marketed as an ‘anti-depressive’,
+      granted credibility to the neurochemical theory of depression, while also greatly
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+       Davies                                         7      
+                                                             
+       expanding the definitional and explanatory reach of ‘depression’ as a concept, as it
+       became clear how many other syndromes and malaises could be alleviated with SSRIs.
+        ‘Depression’ became an umbrella category, whose lack of specificity was mirrored in
+       the breadth of symptoms to which ‘anti-depressants’ could be targeted (Ehrenberg,
+       2010). But depression and anti-depressants also took on a wider significance for cultural
+       theorists and critics of neoliberalism, who hoped to find in them a glimmer of the nega-
+       tivity from which critique and even resistance might emerge (Fisher, 2009; Davies,
+       2011). It was argued that ‘the new economy of the 1990s was essentially a Prozac econ-
+       omy’ (Berardi, 2011: 36). Statistical rates of depression (in the diagnostic sense) became
+       widely used to criticize the injustices and iniquities of neoliberal capitalism, and the
+       inequality and precarity it breeds (Wilkinson and Pickett, 2009; Stuckler and Basu,
+       2013). These critical perspectives have all been valuable as ways of resurrecting a pos-
+       sible alliance of critical psychology and political economy, but they leave the hegemonic
+       status of ‘depression’ relatively untroubled. A preoccupation with the ‘positive’ and ‘neg-
+       ative’ affects generated by contemporary capitalism potentially obscures other psychic
+       phenomena, such as anxiety, that potentially cast a different light on political economy.
+        Elements of anti-psychiatry have continued to inspire clinical psychologists (e.g.
+       Bentall, 2009), while a tradition of ‘critical psychology’ survived as a rear-guard action
+       against behaviourist, cognitivist and medicalised accounts of ‘mental illness’ (Smail,
+       1999; Rapley et al., 2011). Social epidemiology has successfully demonstrated statistical
+       correlations between rates of mental illness and economic circumstance (e.g. Muntaner,
+       2004), but there remains a role for sociology and the ‘sociological imagination’ in helping
+       to interpret how and why distress manifests as it does, where and when it does.
+        Historical and cultural critiques, which have sought to locate the rise of depression in
+       the context of post-1960s individualism and neoliberalism, have pointed to the sorts of
+       sociological narratives and explanations that can assist with such a hermeneutical pro-
+       ject. The task is not to move from statistical correlation to causation, but to weave
+       explanatory narratives on the basis of those correlations, in tandem with sociological
+       accounts of structural change. The depressed self of the 1970s and ’80s has been inter-
+       preted against the backdrop of post-1960s neoliberal developments with which it coin-
+       cided: consumerism and post-Fordist working practices. The startling rise of the anxious
+       self in the 21st century (especially post-2008 and amongst young people) demands a
+       similar hermeneutic response, which has rarely occurred.1 But first, we must consider
+       how anxiety was first occluded, then reappeared, as a psychic phenomenon.
+       Anxiety as Neurosis and as Mood                       
+       Common to virtually any definition of ‘anxiety’ is a sense of dread or worry that either
+       lacks any discernible object (and is therefore not ‘about’ anything in particular) or else
+       seems disproportionate to whatever its proximate cause happens to be. This section of
+       the paper seeks to identify key aspects of anxiety as they have appeared to both existen-
+       tialist and psychoanalytic thinkers, which arguably hold important clues for sociology.
+       Anxiety, from these non-medicalized perspectives, is not a ‘disorder’ and – while poten-
+       tially unpleasant – should not be considered ‘unhealthy’, but instead registers as a central
+       fact of being a human with a degree of freedom in the world.
+                                                             
+                                                             
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+      8                               Theory, Culture & Society 42(5)
+                                                             
+        Within the Freudian tradition, anxiety originally indicated forms of intra-psychic con-
+      flict (i.e. neurosis) and repressed libidinal energy that was manifest via irrational fears,
+      dread and panic attacks (Rickels and Rynn, 2001; Horwitz, 2013; Crocq, 2017). In his
+      earlier work, Freud took a more physiological perspective, in which the repression of
+      sexual urges was the cause of anxiety, suggesting that anxiety was an effect more than a
+      cause (Freud, 1985 [1894]). But anxiety would later take on a more generative and pri-
+      mordial function. Especially after the First World War, Freud came to view anxiety as the
+      force that produced neuroses and psychoses. On this basis, anxiety would become a kind
+      of master concept for analysts and the Freudian tradition, including the work of Adolf
+      Meyer that shaped the post-war American psychiatric profession. In both the DSM-I
+      (1952) and the DSM-II (1968), anxiety was more than a mere diagnostic category, but
+      retained a privileged theoretical place in the understanding and explanation of other
+      symptoms (Rickels and Rynn, 2001). No clinical distinction was drawn at this stage
+      between chronic or ‘generalized’ anxiety and anxiety ‘attacks’, seeing as the underlying
+      cause was assumed to be the same.                      
+        This was echoed at the level of popular and intellectual culture during the middle
+      decades of the 20th century in Europe and the United States, when ‘anxiety’ became
+      treated as a generalized cultural-psychic malaise, as reflected in the post-war popularity
+      of existentialist ideas and literature (Barrett, 2011). Works such as Jean-Paul Sartre’s
+      Nausea (1938) and W.H. Auden’s The Age of Anxiety (1948) explored how everyday
+      urban life was punctured by feelings of deep pointlessness and disorientation. Reflections
+      on the ‘human condition’ and the fate of ‘man’ in a godless universe produced a dis-
+      course of philosophical anthropology that grappled with the collapse of moral yardsticks
+      and traditions, which appeared to have been demolished by the horrors of the first half of
+      the 20th century (Greif, 2016). The comforts of the emerging consumer culture of the
+      1950s, coupled with recent memories of devastation, could be seen as fertile conditions
+      for a sense of dread which struggles to attach itself to any discernible threat. It is because
+      anxiety (unlike fear) is provoked by no empirical threat that existentialists have seen it as
+      emanating from something ontological. Such moods and emotions have a privileged
+      position within the existentialist tradition, seeing as they bring to light elements of exist-
+      ence that cannot be grasped cognitively, and do so in part via the body (Heidegger, 1962;
+      Sartre, 2015).                                         
+        Nowhere was the philosophical status of anxiety more important than in Heidegger’s
+      philosophy of human Being. What anxiety reveals here is the fundamental temporality of
+      being human, the existential fact that a human life is a constant process of becoming,
+      only achieving completion in death (Heidegger, 1962: 232). Anxiety is for Heidegger
+      ‘primordial’, not some effect of empirical circumstances, but how humans first encoun-
+      ter their ontological relationship to the world (1962: 310). That relationship is a temporal
+      one, lacking any stable foundations or essence, and it is this very lack that anxiety (which
+      notably lacks an object) makes palpable, in the form of ‘mood’. The human being is
+      always ‘ahead of itself’, that is, in a state of anticipation, because it is always in a state
+      of ‘care’ towards that which has yet to transpire (1962: 297). But it also finds itself
+      ‘thrown’ into a set of circumstances that are now in the past, a ‘having been’, including
+      the fact of a birth that was never willed. These basic realities of being a human, with a
+      contingent past, an undetermined future, and finally a death, are things which are hidden
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+       Davies                                         9      
+                                                             
+       by everyday discourse and reason, but which anxiety has a unique capacity to ‘bring us
+       back’ to. As Peter Osborne has noted, the future holds ontological priority over the past
+       in this scheme, and it is death (as opposed to birth) that the human being is tasked with
+       taking ownership over (Osborne, 2020).                
+        Heidegger’s account signals a central commonality between psychoanalytic and exis-
+       tentialist perspectives on anxiety, namely the emphasis on time, and futurity in particular.
+       Amongst the forms of neurotic anxiety that concerned Freud was ‘anticipatory anxiety’,
+       a feeling of non-specific dread regarding that which was yet to unfold. For Freud, the ego
+       is tasked with enacting defences against external dangers, but can also do the same
+       against internal processes that are anticipated to cause it pain and displeasure (Nersessian,
+       2013). In both cases, the self must be constantly ahead of itself, which can in extreme
+       cases become a neurotic, over-defensive relationship to the future. For Heidegger, anx-
+       ious anticipation is a reminder that we are temporal beings. Society and community offer
+       various ways of hiding this truth (such as institutional rituals, which imply permanence),
+       creating sources of existential security and identity that rescue the individual from anxi-
+       ety. Institutional rituals serve as what Tavistock researchers have termed ‘social defences
+       against anxiety’, allowing individuals to go about their daily lives without having to
+       confront the full uncertainty or stakes of what they are doing (Menzies, 1960; Armstrong
+       and Rustin, 2019). Early experiences may play a particularly important role in building
+       what Laing termed ‘ontological security’ for the individual, without which the ‘person is
+       preoccupied with preserving rather than gratifying himself: the ordinary circumstances
+       of living threaten his low threshold of security’ (Laing, 2010: 42). In acute cases, this
+       presents as a schizoid or ‘divided’ self which refuses to confront the reality of an outside
+       world. But even from this critical perspective, anxiety retains a capacity to reveal, inas-
+       much as angst serves as an index of the precarity of conventions and social roles that are
+       available. Isolation and ennui reflect sociological and psychological truths about the
+       weakening of sources of existential security, that is, the social defences against anxiety
+       (Giddens, 2013). Whether viewed as neurosis, psychosis, as ontological revelation or as
+       an effect of modernity, anxiety must be allowed to speak, and when it does so it reflects
+       on relations to the indeterminacy of the future. That in turn is a reflection on sociological
+       conditions, including the security provided by economic relations.
+       Anxiety as Disorder                                   
+       The rise of medicalized or neo-Kraepelinian psychiatry in the United States in the 1970s,
+       which produced the DSM-III in 1980, is a story that has been told repeatedly and exten-
+       sively (Wilson, 1993; Shorter, 1997; Decker, 2013). To the extent that this was a revolu-
+       tion aimed at overthrowing psychoanalytic orthodoxy, it also necessarily had to topple
+       ‘anxiety’ from its privileged position in the explanation of distress, or what would
+       become conceived as ‘mental illness’. The DSM-III introduced several new diagnostic
+       categories, which separated off aspects of what had once been a master category. Firstly,
+       it introduced the category of ‘Generalized Anxiety Disorder’ (GAD), a term that had
+       been circulating in US psychiatry since the 1960s, on account of the fact that it seemed
+       treatable via different techniques from other more specific phobias. Symptoms of GAD,
+       which were primarily psychic and non-specific, needed to be present for six months for
+                                                             
+                                                             
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+      10                              Theory, Culture & Society 42(5)
+                                                             
+      a diagnosis to be made, but the difficulty in specifying what the symptoms actually were,
+      and the very high levels of co-morbidity with depression, meant that there were lengthy
+      debates as to whether it deserved a place in the DSM at all (Crocq, 2017). Secondly, it
+      introduced the concept of ‘Panic Disorder’, in which the sufferer experiences persistent
+      and crippling anxiety attacks. What had previously been considered one way in which
+      anxiety revealed itself was now a separate syndrome of its own. Thirdly, anxiety that
+      primarily presented itself in somatic terms was now classified as a ‘Somatization
+      Disorder’, thereby undermining the essentially psychosomatic nature of anxiety. And
+      fourthly, anxiety that was prompted by specific situations was broken down into separate
+      ‘phobias’, such as ‘Social Phobia’, in which sufferers experience excessive fear of being
+      judged by others (Moutier, 1998).                      
+        In this way, the concept of anxiety as it had been passed down through the psychoana-
+      lytic tradition was broken up into component cognitive and behavioural symptoms and
+      largely renamed. Where the term ‘anxiety’ did survive, notably in the form of GAD, this
+      was largely as a residual form of distress that didn’t appear to fit other categories, primar-
+      ily because it wasn’t intense enough to be somatic or disabling, and wasn’t initially viewed
+      as treatable with anti-depressants (Tyrer, 1984). Had GAD been eliminated from the
+      DSM, then American psychiatry would have successfully replaced the entire language of
+      ‘anxiety’ with specific forms of phobia, somatization and panic, cleansing itself of its
+      psychoanalytic heritage in the process. A concept that apparently reflected on the human
+      condition itself would have been banished, under the auspices of scientific psychiatry.
+        At the same time, the category of ‘depression’ was expanding in various directions,
+      primarily because of the growing range of symptoms that could be alleviated with the use
+      of ‘anti-depressants’. The logic of the DSM is that, where multiple disorders appear to be
+      present, a diagnosis is given to the one that appears most severe or generates the most
+      distress. The frequent co-morbidity of depression and anxiety (which now runs at over
+      50%), and the greater suitability of depression to classification by the DSM-III, meant that
+      depression effectively trumped anxiety in the hierarchy of disorders, and many patients
+      who might once have been treated for ‘anxious neurosis’ were instead treated for ‘depres-
+      sion’ (Horwitz, 2013; Hirschfeld, 2023). The fact that the new SSRIs were marketed as
+      ‘anti-depressants’, despite the wide range of syndromes that they helped to relieve (includ-
+      ing anxiety), accelerated this tendency. The triumph of neurochemical over psychoana-
+      lytic theoretical frameworks in American psychiatry could therefore be witnessed in part
+      via the steady encroachment of ‘depression’ into territories formally designated as ‘anxi-
+      ety’. By the turn of the 21st century, US psychiatrists were more than twice as likely to
+      make a diagnosis of ‘depression’ as of ‘anxiety’ (Horwitz and Wakefield, 2012: 204).
+        The fact that the language of ‘anxiety’ was not successfully expunged by medicalization
+      of distress potentially signals the limits of that medicalization project. While ‘anxiety’
+      retained some kind of residual place in the DSM-III, denoting symptoms that couldn’t be
+      captured as ‘depression’, ‘somatization’, ‘phobia’ or ‘panic’, GAD received greater defini-
+      tion in the DSM-IV (1994), now framed in terms of persistent and excessive ‘worry’, that
+      was accompanied by other behavioural and cognitive symptoms such as sleep disturbance
+      and irritability (Murphy and Leighton, 2009). By continuing to restrict this to the realm of
+      the psychic and the non-specific (as opposed to somatic syndromes, phobias and panics),
+      this remained a relatively narrow category, that could be encroached upon further by
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+       Davies                                         11     
+                                                             
+       ‘depression’, but did attain clearer clinical definition. ‘Worry’ was in turn understood as
+       ‘apprehensive expectation’, a reminder of the futural quality of what had once been named
+       ‘anxious neurosis’. Meanwhile, ‘social phobia’ was renamed ‘social anxiety’, becoming
+       more clearly denoted to emphasize its persistent and excessive quality. The DSM-V (2013)
+       later added ‘separation anxiety disorder’, to refer to those who are persistently unable to
+       leave home, go to school or the like. To be sure, it is assumed within the post-DSM III,
+       neo-Kraepelinian paradigm that all of these ‘disorders’ have genetic and neurochemical
+       underpinnings (Wiedemann, 2015; Szuhany and Simon, 2022).
+        The clinical reappraisal of anxiety over the 1990s and 2000s created the conditions for
+       a remarkable resurgence in rates of diagnosis. Having first been largely expunged from
+       the vocabulary of psychiatry, and then recast in terms of behavioural and cognitive
+       symptoms, awareness of ‘anxiety’ began to rise all over again, to the levels with which
+       this paper began. The high co-morbidity of anxiety disorders with depression (which the
+       DSM-III and the launch of SSRIs meant was too often reduced to just depression) could
+       equally be viewed from the other perspective: people may suffer from persistently low
+       moods because they suffer from such acute anxiety. In many circumstances, anxiety
+       deserved a higher place in the diagnostic hierarchy than depression. In view of very high
+       rates of co-morbidity, a diagnostic category of ‘Mixed Anxiety Depressive Disorder’
+       (MADD) was added to the tenth edition of International Statistical Classification of
+       Diseases and Related Health Problems. Even so, the explanatory limitations of the neo-
+       Kraepelinian diagnostic model are as severe in the case of ‘anxiety’ as they are of
+       ‘depression’. In neither case does a standardized taxonomy of symptoms and nomencla-
+       ture help to understand what a condition means or what might ultimately explain it.
+       Anticipation in the Asset Economy                     
+       Even if we do not credit positivist psychiatry with a realistic or theoretically valid account
+       of the self, the statistics on the rise of anxiety in the 21st century provide a clue regarding
+       contemporary subjectivity and its discontents, just as the elevated professional discourses
+       surrounding ‘depression’ signalled something about cultural and economic transformations
+       from the 1960s through to the 1980s. These statistics show a sharp rise in rates of ‘anxiety
+       disorder’ after 2008, concentrated especially amongst young people, with scarcely any
+       increase amongst over-50s (Goodwin et al., 2020; Slee et al., 2021). Hacking famously
+       suggested that labels (such as psychiatric diagnoses) that are applied to people have ‘loop-
+       ing effects’, whereby individuals come to experience, explain and narrate their distress via
+       the expert discourses that surround them (Hacking, 1996, 2004). This has been observed in
+       how young people discuss their psychological distress (Lindholm and Wickström, 2020)
+       and is exacerbated by the internet, which allows sufferers to diagnose their own symptoms.
+       We might therefore surmise there is a ‘loop’ connecting ‘anxiety’ (as ontological condition
+       and subjective experience) and ‘anxiety disorder’ (as diagnostic category), in which the
+       condition of being anxious finds some public expression and recognition in medical symp-
+       toms of anxiety disorders. Diagnostic discourses and categories can be viewed as providing
+       what Boltanski and Thevenot term a ‘critical capacity’ that is available to sufferers as much
+       as to clinicians, in justifying and explaining certain courses of action (Boltanski and
+       Thevenot, 1999). In other words, the language of anxiety disorders and symptoms enters
+                                                             
+                                                             
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+      12                              Theory, Culture & Society 42(5)
+                                                             
+      the self-understanding and narratives of the anxious subject, as they navigate institutions
+      (such as workplace or university) that may be contributing to the experience of anxiety.
+        Where anxiety is concerned, the search for diagnosis may itself be considered a quest
+      for ‘existential security’, that is, a means of alleviating uncertainty regarding one’s own
+      self or Being, and its relationship to an insecure future. Where the individual is inade-
+      quately grounded in social institutions, a diagnostic classification provides an anchor of
+      sorts. Thus, a label of ‘anxiety disorder’ provides one kind of ‘social defence against
+      anxiety’, serving to keep wider psychoanalytic and existential questions at bay, and
+      anchoring the individual in a set of norms, metrics and institutional rituals with respect
+      to ‘mental health’ and ‘wellbeing’. ‘Anxiety disorders’ remain related to anxiety in a
+      more primordial sense, reflecting heavily on the disintegration of institutional rituals and
+      other sources of existential security, even while the medicalized language of ‘disorder’
+      might distract from these underlying social facts.     
+        As we have established, something common to any understanding of anxiety is a
+      concern with the future that can become debilitating (or, for Heidegger, revelatory).
+      Moving from a diagnostics to a sociology of anxiety requires us to consider why this
+      concern may have become unbearable for so many people, especially young people, in
+      the 21st century. There is no shortage of possible reasons, and the most obvious one –
+      global warming – has attracted its own deserved share of analysis as a driver of anxiety,
+      especially amongst young people (Grose, 2020; Marks et al., 2021). But here I wish to
+      examine another sociological dimension of the present, that has been encapsulated in
+      literature on the ‘asset economy’ and ‘assetization’, and which has cast fresh light on the
+      management and politics of temporality and the future in neoliberal societies (Doganova
+      and Muniesa, 2015; Adkins et al., 2020; Birch and Muniesa, 2020). The logic of the
+      asset, which is ultimately the logic of the financial balance sheet, generates a form of
+      selfhood which is in a constant state of anticipation regarding what is about to unfold;
+      indeed the very function of balance sheets in financialized societies is to enable decision-
+      makers to act within and upon a future that has yet to transpire, while taking into account
+      the facts of a contingent past (Beckert, 2016). Economic existence appears without any
+      underlying foundation or measure of ‘value’, but as a constant flow of time (Konings and
+      Adkins, 2022) into which one has been thrown (Davies, 2024). Rationalities that have
+      previously been viewed as foundational to neoliberalism, such as consumerism, produc-
+      tivity and ‘growth’, are displaced by an emphasis on speculation and anticipation. This
+      aspect change also affects the kinds of pathologies and distress that capitalism might be
+      expected to generate.                                  
+        ‘Assets’ are those items that get accounted for on the basis that they are expected to
+      pay some calculable return in the future, sitting on the other side of the balance sheet to
+      ‘liabilities’, which are obligations to pay. Thus housing can be viewed as an ‘asset’ to the
+      extent that it is a source of future rents and capital gains, but it also may involve ‘liabili-
+      ties’ in the form of mortgage debt. Unlike the category of ‘capital’ (whose traditional
+      usage implies a relationship to production), ‘assets’ are entities whose value consists
+      wholly in financial calculations of their future benefits, regardless of how they came to
+      be (Doganova, 2024), and ‘asset managers’ typically own a wide array of ‘real’ and
+      financial entities in search of profitability (Christophers, 2023). Where political econo-
+      mists in the past have criticized capitalism by focusing on the ‘commodity form’ (that
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+       Davies                                         13     
+                                                             
+       which is produced in order to be exchanged for money on the market), the period since
+       the GFC has seen rising attention to the ‘asset form’, along with renewed concern with
+       forms of wealth accumulation (or rent-seeking) that bypass the sphere of production and
+       labour altogether (Piketty, 2014; Pistor, 2019; Christophers, 2020). The thesis that neo-
+       liberalism brings about an ‘asset economy’ rests on the claim that its central organizing
+       principle is not the extraction of value from labour, but the manipulation of time via bal-
+       ance sheets (Konings, 2018). This insight derives from Minsky, for whom every actor in
+       a capitalist economy is fundamentally a ‘balance sheet actor’ (like a bank), whose main
+       concern is to manage their assets and liabilities in such a way that they have sufficient
+       liquidity to survive into the future (Minsky, 2008; Konings and Adkins, 2022). An exis-
+       tential threat lurks in every balance sheet: the income generated by one’s assets must be
+       enough to pay one’s liabilities, or else the entity is extinguished. This is a weak basis for
+       the ontological security that wards off anxiety.      
+        Foucault made the acute observation that American neoliberal thought, as expressed
+       in the work of Gary Becker, set about eliminating the category of ‘labour’ from econom-
+       ics, by reconceiving human beings as forms of ‘capital’ that can be invested in for some
+       future return, via education, training or self-improvement (Foucault, 2008). As ‘balance
+       sheet entities’, individuals have no essence or essential purpose, but are – as with
+       Heidegger – thrown into a set of contingent circumstances and commitments, and face
+       an open-ended future. This is a departure from the liberal Enlightenment tradition, in
+       which ideas of ‘life’ and ‘labour’ had served as regulatory (or quasi-transcendent) prin-
+       ciples of political economy and, by implication, of history (Foucault, 2005). Instead, life
+       becomes a fundamentally speculative process, a series of bets and strategies, that may or
+       may not pay off. Freedom must therefore be seized in a quasi-existentialist sense, with-
+       out any guidance or measure through which to judge value, beyond what Minsky termed
+       the ‘survival constraint’ (a nakedly existential phrase) that one must remain solvent, from
+       one moment to the next.                               
+        The most palpable manifestation of the ‘asset economy’ has been the reappearance of
+       the multi-generational family, as a means through which individuals seek to navigate an
+       uncertain future and (for the middle classes) to share in the gains of asset appreciation in
+       the housing market (Cooper, 2017; Adkins et al., 2019). Gifts, inheritance, mortgage
+       guarantees and shared living arrangements between generations are all means of manag-
+       ing the family ‘balance sheet’ of assets and liabilities over the course of multiple lifes-
+       pans. There is ethnographic evidence that the management of family wealth is the cause
+       of grave anxieties, that wealth might depreciate or be misused further down the family
+       line (Sherman, 2019; Higgins, 2021). The contingency of wealth, debt and social bonds
+       into which an individual is born shape what kinds of freedom and possibility are availa-
+       ble to them, and how different stages of the life-course (childhood, independence, retire-
+       ment) play out. These are what Adkins et al. (2020) refer to as ‘asset-based lives’,
+       anchored in ‘Minskyan households’.                    
+        Alternatively, consider how reputation becomes a type of asset to be speculatively
+       invested in for future returns, in the context of social media platforms and rating systems
+       (Rosamond, 2020). By rendering past behaviour visible and rateable, platforms encourage
+       strategic investments in reputational capital, of a sort that might generate financial (or
+       other) returns in the future. Thus liberal struggles for ‘recognition’ (that coincided with the
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+      14                              Theory, Culture & Society 42(5)
+                                                             
+      emergence of the commodity form as the organizing principle of capitalism) morph into
+      neoliberal struggles for ‘reputation’ (which coincides with the emergence of the asset econ-
+      omy) (Davies, 2021). Unpaid work and ‘networking’ take on the characteristics of financial
+      investment, where one’s name or ‘brand’ must be strategically built up over time. But this
+      is also a precariously post-foundational source of identity and value. Reputations can rap-
+      idly turn negative, producing a culture and ethos of paranoia as to what has been captured,
+      what has been seen, and what forms of social divestment might follow.
+        Historically, the emergence of this asset condition can be traced with some specificity
+      to key moments in the development of neoliberal reform. The fierce deflationary policies
+      of the early 1980s in the Anglosphere signalled a new state commitment to bring down
+      inflation through the defeat of organized labour and the normalization of higher unem-
+      ployment, but asset values were implicitly protected from this politically manufactured
+      depression (Cooper, 2024). The status of housing as not just a commodity (produced to
+      be sold) but an asset (owned in pursuit of returns and capital gain) is significant here, and
+      was bolstered by policies that reduced the rights of tenants and which excluded house
+      prices from the calculation of inflation (O’Mahony, 2007; Konings, 2018). These were
+      the building blocks of a political economy that made social, productive and reproductive
+      life subservient to the temporal sovereignty of the financial balance sheet.
+        But the GFC was a turning point inasmuch as it rendered this privileging of asset
+      ownership naked, stripping away whatever conservative and liberal ideologies might
+      previously have justified neoliberal reforms (Davies, 2024). The public policies enacted
+      across the Global North in response to the GFC, both immediately and in the years that
+      followed, made it very clear that supporting the interests of asset owners – through bail-
+      outs, ultra-low interest rates and central bank asset purchases – trumped all other possi-
+      ble political-economic goals. Thus there followed a decade of so-called ‘K-shaped’
+      growth, in which the price of assets (leveraged by ultra-cheap credit) rose inexorably,
+      while wage and productivity growth stagnated. This was the historical context in which
+      the scholarly reappraisal of wealth, capital, inequality and assets took place (Savage,
+      2021). The question of future appreciation and depreciation of assets – housing and
+      ‘human capital’ especially – became unavoidable after 2008, providing the sociological
+      backdrop to a surge of anxiety disorders amongst the young.
+        As many critics have noted, in addition to amplifying the influence of the family, polit-
+      ical commitment to indefinite asset appreciation has had some pronounced generational
+      effects, which fall especially hard upon the young (Milburn, 2019; Forrest and Xian,
+      2018; Timperley, 2020). Whether one has the opportunity to acquire the attributes of eco-
+      nomic and social independence, such as home ownership, family and financial security,
+      depends heavily on the sheer existential luck as to when one happened to be born and/or
+      the balance sheet of one’s parents. This state of (what Heidegger terms) ‘thrownness’
+      shapes what kinds of futures the self is projected onto, via various speculative projects and
+      strategies. The ‘assetization’ of higher education (in which a degree becomes explicitly
+      represented as a leveraged investment, whose success will only be revealed over decades)
+      requires the anticipatory self to be stretched from childhood through to middle age.
+      Distinctions between childhood and adulthood become harder to establish, where young
+      adults are dependent on their parents either for financial gifts or accommodation. Concepts
+      of ‘career’ or the ‘life course’ which once provided meaning and coherence to individual
+      biographies break down, where work is no longer an adequate basis for security and
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+       Davies                                         15     
+                                                             
+       individual progression. What is potentially so overwhelming about asset-based life is that
+       it knows no bounds, extending well beyond the labour market or workplace to engulf fam-
+       ily life, intimate relationships (Feher, 2009), social life and relationship to self. The logic
+       of the balance sheet can encompass monetary and non-monetary ‘investments’ and
+       ‘debts’, while in the space between past and future the central constraint is (as Minsky
+       emphasized) ‘survival’. Save for the very wealthy, work remains a necessity for achieving
+       this survival, but work’s status as a source of ontological security (that is, of secure iden-
+       tity over time) is greatly reduced (Sennett, 1998; Standing, 2011).
+        The relationship of these conditions to the dramatic surge of ‘anxiety disorders’ is
+       certainly not a direct one, but may instead be mediated by the financial and diagnostic
+       governmentalities that make up 21st century subjectivity, especially that of the young.
+       The requirement to define oneself in relation to an uncertain future (for example through
+       investment in one’s human capital), without the ontological security provided by con-
+       cepts of ‘career’ and stable metrics of ‘value’, is existentially burdensome. The language
+       of ‘anxiety disorder’, which is an artefact of medicalized psychiatry, provides its own
+       source of ontological security, plus a narrative surrounding the state of overwhelming
+       futurity that is a consequence of economic conditions as much as psychic ones.
+       Anticipatory selfhood is the thread linking ‘asset-based lives’ to ‘anxiety’ (as existential
+       condition), and from there to ‘anxiety disorder’ (as diagnosis).
+       Conclusion                                            
+       In his critical appraisal of contemporary psychiatry, Rose has argued in favour of a shift
+       from ‘diagnosis’ to ‘formulation’, ‘an account that seeks to make sense of a person’s cur-
+       rent difficulties in terms of aspects of their current situation, for example, their relation-
+       ships, their experiences at work or in unemployment, their housing and financial
+       situation, and indeed their own ways of making sense of their situation, and accounting
+       for their distress’ (Rose, 2018: 187). Empirical evidence on the social contexts of ‘anxi-
+       ety disorders’ contributes to this kind of ‘formulation’, emphasizing the contribution of
+       financial insecurity and precarity. In the UK, those living in private rental accommoda-
+       tion are twice as likely to experience an anxiety disorder as homeowners (Clark and
+       Wenham, 2022). Universities appear to have become especially conducive to anxiety
+       disorders, with full-time students more likely to report them than young people either in
+       work or out of work (McCurdy and Murphy, 2024).       
+        Neoliberal reforms since the 1980s have unwound many of the institutions that might
+       previously have served as sources of ‘existential security’, including trade unions, free
+       university tuition, the safety nets of the welfare state and so on. The resulting condition
+       is one that has been frequently characterized as one of ‘precarity’, which forces individu-
+       als into a condition of self-reliance, or what Streeck sums up as ‘hoping’, ‘coping’, ‘dop-
+       ing’ and ‘shopping’ (Streeck, 2017: 46). One injunction that hovers over the precarious
+       subject is that they must attempt to remain ‘positive’ and exercise desire, in order to
+       accord with systemic imperatives to keep going. But this doesn’t capture a separate
+       dimension of neoliberal society, which is the obligation to face up to an economic exist-
+       ence that is characterized ontologically by constant temporal flow. The mode of selfhood
+       that is valorized is not only a ‘positive’ one (producing depression as its pathological
+       correlate) but also a post-foundational or ‘speculative’ one (Komporozos-Athanasiou,
+                                                             
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+      16                              Theory, Culture & Society 42(5)
+                                                             
+      2022), in which the present is stretched between a contingent past and an undetermined
+      future which the individual must seize control over. The politically installed conditions
+      that make up the ‘asset economy’ (which engulfs housing and higher education, amongst
+      much else) actively impose a form of existential isolation, not only through deconstruct-
+      ing institutional rituals and safety nets, but by rendering time (and not labour or con-
+      sumer welfare) as the governing principle of economic life.
+        Statistics suggest that we are living through an age of anxiety, though of course there
+      have been previous ones. Not just neoliberalism, but modernity itself can be read as a
+      generator of anxiety, in the way in which institutions and rituals are constantly destroyed
+      and remade (Giddens, 2013). But neoliberalism is a distinctive variant of modernity,
+      producing a distinctive mode of anxiety: financial time is installed as the governing prin-
+      ciple of society, with the balance sheet the existential template for life itself. The gambit
+      of neoliberal governance is that existence must become financial, and finance must
+      become existential. The language of ‘human capital’, ‘survival constraint’ or ‘cost of liv-
+      ing crisis’ indexes this fusion of the existential and the financial. Therefore, anxiety is not
+      merely what is left after other sources of security and solidarity have been stripped away
+      (be that by war or capitalism), but manufactured by design, thanks to the enforced insti-
+      tutionalization of financial time that is the political backdrop to the ‘asset economy’.
+        The statistical evidence on ‘anxiety disorders’ indicates one stark feature of the pre-
+      sent age of anxiety, which distinguishes it from previous ones: it is primarily children and
+      young people who are afflicted. If we are to move from diagnosis to ‘formulation’ of this
+      distress, we need an account that does two things. Firstly, it needs to consider how the
+      foundations and structures of the individual life course have been so drastically dis-
+      rupted, as to make the future a space of radical uncertainty and threat. We need to con-
+      sider how the post-foundational or speculative existence that is integral to contemporary
+      neoliberalism is by its very nature an anxiety-producing one. Secondly, we need to ask
+      what a diagnosis of ‘anxiety disorder’ reveals and conceals about anxiety. It is partly use-
+      ful to the sufferer as a defence against the full extent of anxiety, a kind of narrative that
+      anchors the individual in an expert rubric. But in an imperfect way, it is also a means
+      through which existential anxiety speaks and shows itself, telling us certain things about
+      power and governance in our economy today.             
+      ORCID iD                                               
+      William Davies https://orcid.org/0000-0001-9506-969X   
+      Note                                                   
+      1. Interestingly, the domain in which sociologists have recently attended to ‘anxiety’ as a dis-
+        tinct phenomenon has been in their own professional sphere, namely of higher education
+        (Loveday, 2018, 2021; Haiven and Komporozos-Athanasiou, 2022).
+      References                                             
+      Adkins, Lisa, Cooper, Melinda and Konings, Martijn (2019) Class in the 21st century: Asset infla-
+        tion and the new logic of inequality. Environment and Planning A: Economy and Space,
+        0308518X1987367.                                     
+      Adkins, Lisa, Cooper, Melinda and Konings, Martijn (2020) The Asset Economy. London: Wiley.
+                                                             
+                                                             
+                                                             
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+       Davies                                         17     
+                                                             
+       Adorno, Theodor (2019) The Authoritarian Personality. London: Verso Books.
+       Armstrong, David and Rustin, Mike (2019) Social Defences Against Anxiety: Explorations in a
+         Paradigm. London: Routledge.                        
+       Auden, W.H. (1948) The Age of Anxiety. New York, NY: Random House.
+       Barrett, William (2011) Irrational Man: A Study in Existential Philosophy. New York, NY: Knopf
+         Doubleday.                                          
+       Beckert, Jens (2016) Imagined Futures. Cambridge, MA: Harvard University Press.
+       Bentall, Richard (2009) Doctoring the Mind: Why Psychiatric Treatments Fail. London: Penguin.
+       Berardi, Franco (2011) After the Future. Chico, CA: AK Press.
+       Binkley, Sam (2014) Happiness as Enterprise: An Essay on Neoliberal Life. New York, NY:
+         SUNY Press.                                         
+       Birch, Kean and Muniesa, Fabian (eds) (2020) Assetization: Turning Things into Assets in
+         Technoscientific Capitalism. Cambridge, MA: MIT Press.
+       Boltanski, Luc and Thevenot, Laurent (1999) The sociology of critical capacity. European Journal
+         of Social Theory 2(3): 359–377.                     
+       Cederström, Carl and Fleming, Peter (2012) Dead Man Working. New Arlesford: John Hunt
+         Publishing.                                         
+       Christophers, Brett (2020) Rentier Capitalism: Who Owns the Economy, and Who Pays for It?
+         London: Verso Books.                                
+       Christophers, Brett (2023) Our Lives in Their Portfolios: Why Asset Managers Own the World.
+         London: Verso Books.                                
+       Clark, Tom and Wenham, Andrew (2022) Anxiety Nation: Economic Insecurity and Mental
+         Distress in 2020s Britain. London: Joseph Rowntree Foundation.
+       Cooper, Melinda (2017) Family Values: Between Neoliberalism and the New Social Conservatism.
+         Cambridge, MA: MIT Press.                           
+       Cooper, Melinda (2024) Counterrevolution: Extravagance and Austerity in Public Finance.
+         Princeton, NJ: Princeton University Press.          
+       Crocq, Marc-Antoine (2017) The history of Generalized Anxiety Disorder as a diagnostic cat-
+         egory. Dialogues in Clinical Neuroscience 19(2): 107–116.
+       Davies, William (2011) The political economy of unhappiness. New Left Review 71.
+       Davies, William (2021) The politics of recognition in the age of social media. New Left Review
+         128: 83–99.                                         
+       Davies, William (2024) Owning towards death: The asset condition as existential conundrum.
+         Finance & Society 10(3): 215–233.                   
+       Decker, Hannah (2013) The Making of DSM-III: A Diagnostic Manual’s Conquest of American
+         Psychiatry. Oxford: Oxford University Press.        
+       Doganova, Liliana (2024) Discounting the Future: The Ascendancy of a Political Technology.
+         Princeton, NJ: Princeton University Press.          
+       Doganova, Liliana and Muniesa, Fabian (2015) Capitalization devices: Business models and
+         the renewal of markets. In: Kornberger, Martin, Justesen, Lise, et al. (eds). Making Things
+         Valuable. Oxford: Oxford University Press, pp. 109–125.
+       Durkheim, Émile (1952) Suicide: A Study in Sociology. Oxford: Routledge.
+       Ehrenberg, Alain (2010) The Weariness of the Self: Diagnosing the History of Depression in the
+         Contemporary Age. Montreal: McGill-Queen’s University Press.
+       Feher, Michel (2009) Self-appreciation; or, the aspirations of human capital. Public Culture 21(1):
+         21–41.                                              
+       Fisher, Mark (2009) Capitalist Realism: Is There No Alternative? London: Zero Books.
+       Forrest, Ray and Xian, Shi (2018) Accommodating discontent: Youth, conflict and the housing
+         question in Hong Kong. Housing Studies 33(1): 1–17. 
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+      18                              Theory, Culture & Society 42(5)
+                                                             
+      Foucault, Michel (2001) Madness and Civilization: A History of Insanity in the Age of Reason.
+        Hove: Psychology Press.                              
+      Foucault, Michel (2005) The Order of Things. Oxford: Routledge.
+      Foucault, Michel (2008) The Birth of Biopolitics: Lectures at the Collège de France, 1978–1979.
+        Basingstoke: Palgrave Macmillan.                     
+      Freud, Sigmund (1985 [1894]) Draft E: How anxiety originates. In: Masson, Jeffrey (ed.) The
+        Complete Letters of Sigmund Freud to Wilhelm Fliess, 1887–1904. Cambridge, MA: Harvard
+        University Press.                                    
+      Freud, Sigmund (2005) On Murder, Mourning and Melancholia. London: Penguin Classics.
+      Fromm, Eric (1995) The Fear of Freedom. Oxford: Routledge.
+      Giddens, Anthony (2013) Modernity and Self-Identity: Self and Society in the Late Modern Age.
+        London: John Wiley & Sons.                           
+      Goodwin, Renee, Weinberger, Andrea, Kim, June, Wu, Melody and Galea, Sandro (2020)
+        Trends in anxiety among adults in the United States, 2008–2018: Rapid increases among
+        young adults. Journal of Psychiatric Research 130: 441–446. https://doi.org/10.1016/j.jpsy-
+        chires.2020.08.014                                   
+      Greif, Marc (2016) The Age of the Crisis of Man: Thought and Fiction in America, 1933–1973.
+        Princeton, NJ: Princeton University Press.           
+      Grogan, Jessica (2013) Encountering America: Humanistic Psychology, Sixties Culture and the
+        Shaping of the Modern Self. New York, NY: Harper Perennial.
+      Grose, Anouchka (2020) A Guide to Eco-Anxiety: How to Protect the Planet and Your Mental
+        Health. London: Watkins Publishing.                  
+      Hacking, Ian (1996) The looping effects of human kinds. In: Sperber, D., Premack, D., and Premack,
+        A.J. (eds) Causal Cognition: A Multidisciplinary Debate. Oxford: Oxford University Press.
+      Hacking, Ian (2004) Between Michel Foucault and Erving Goffman: Between discourse in the
+        abstract and face-to-face interaction. Economy and Society 33(3): 277–302.
+      Haiven, Max and Komporozos-Athanasiou, Aris (2022) An ‘anxiety epidemic’ in the financialized
+        university: Critical questions and unexpected resistance. Cultural Politics 18(2): 173–193.
+      Healy, David (1997) The Antidepressant Era. Cambridge, MA: Harvard University Press.
+      Heidegger, Martin (1962) Being and Time. Oxford: Blackwell.
+      Higgins, Katie (2021) Dynasties in the making: Family wealth and inheritance for the first-
+        generation ultra-wealthy and their wealth managers. The Sociological Review 70(6).
+        DOI: 10.1177/00380261211061931.                      
+      Hirschfeld, Robert (2023) The comorbidity of major depression and anxiety disorders: Recognition
+        and management in primary care. Primary Care Companion to The Journal of Clinical
+        Psychiatry 3(6): 244–254.                            
+      Horwitz, Allan (2013) Anxiety: A Short History. Baltimore, MD: Johns Hopkins University Press.
+      Horwitz, Allan and Wakefield, Jerome (2007) The Loss of Sadness: How Psychiatry Transformed
+        Normal Sorrow into Depressive Disorder. Oxford: Oxford University Press.
+      Horwitz, Allan and Wakefield, Jerome (2012) All We Have to Fear: Psychiatry’s Transformation
+        of Natural Anxieties into Mental Disorders. Oxford: Oxford University Press.
+      Jaques, Elliot (2001) The Changing Culture of a Factory. Hove: Psychology Press.
+      Kierkegaard, Soren (2014) The Concept of Anxiety: A Simple Psychologically Oriented
+        Deliberation in View of the Dogmatic Problem of Hereditary Sin. New York, NY: Norton
+      Komporozos-Athanasiou, Aris (2022) Speculative Communities: Living with Uncertainty in a
+        Financialized World. Chicago, Il: University of Chicago Press.
+      Konings, Martijn (2018) Capital and Time: For a New Critique of Neoliberal Reason. Stanford,
+        CA: Stanford University Press.                       
+      Konings, Martijn and Adkins, Lisa (2022) Re-thinking the liquid core of capitalism with Hyman
+        Minsky. Theory, Culture & Society 39(5): 43–60.      
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+       Davies                                         19     
+                                                             
+       Laing, R.D. (2010) The Divided Self (An Existential Study in Sanity and Madness). London:
+         Penguin.                                            
+       Lawlor, Clark (2012). From Melancholia to Prozac: A History of Depression. Oxford: Oxford
+         University Press.                                   
+       Lindholm, Sofia and Wickström, Anette (2020) ‘Looping effects’ related to young people’s mental
+         health: How young people transform the meaning of psychiatric concepts. Global Studies of
+         Childhood 10(1): 26–38.                             
+       Loveday, Vik (2018) The neurotic academic: Anxiety, casualisation, and governance in the neolib-
+         eralising university. Journal of Cultural Economy 11(2): 154–166.
+       Loveday, Vik (2021) ‘Under attack’: Responsibility, crisis and survival anxiety amongst manager-
+         academics in UK universities. The Sociological Review 69(5): 903–919.
+       Marks, Elizabeth, Hickman, Caroline, Pihkala, Panu, and Clayton, Susan, et al. (2021) Young
+         People’s Voices on Climate Anxiety, Government Betrayal and Moral Injury: A Global
+         Phenomenon (SSRN Scholarly Paper 3918955). Social Science Research Network.
+       McCurdy, Charlie and Murphy, Louise (2024) We’ve Only Just Begun. London: The Health
+         Foundation/Resolution Foundation.                   
+       Menzies, Isabel (1960) A case-study in the functioning of social systems as a defence against anxiety:
+         A report on a study of the nursing service of a general hospital. Human Relations 13(2): 95–121.
+       Milburn, Keir (2019) Generation Left. London: John Wiley & Sons.
+       Mills, C. Wright (2000) The Sociological Imagination. Oxford: Oxford University Press.
+       Minsky, Hyman (2008) Stabilizing an Unstable Economy. London: McGraw Hill.
+       Moloney, Paul (2013) The Therapy Industry: The Irresistible Rise of the Talking Cure, and Why It
+         Doesn’t Work. London: Pluto Press.                  
+       Moutier, Stein (1998) The history, epidemiology, and differential diagnosis of social anxiety dis-
+         order. Journal of Clinical Psychiatry 5. Available at: https://www.psychiatrist.com/pdf/the-
+         history-epidemiology-and-differential-diagnosis-of-social-anxiety-disorder-pdf/ (accessed
+         26 January 2025).                                   
+       Muntaner, Carlos (2004) Socioeconomic position and major mental disorders. Epidemiologic
+         Reviews 26(1): 53–62. https://doi.org/10.1093/epirev/mxh001
+       Murphy, Jane and Leighton, Alexander (2009) Anxiety: Its role in the history of psychiatric epide-
+         miology. Psychological Medicine 39(7): 1055–1064.   
+       Nersessian, Edward (2013) Psychoanalytic theory of anxiety: Proposals for reconsideration. In:
+         Arbiser, Samuel, et al. (eds) On Freud’s ‘Inhibitions, Symptoms and Anxiety’. London: Routledge.
+       O’Mahony, Lorna (2007) Conceptualising Home: Theories, Laws and Policies. London:
+         Bloomsbury.                                         
+       Orr, Jackie (2006) Panic Diaries: A Genealogy of Panic Disorder. Durham, NC: Duke University
+         Press.                                              
+       Osborne, Peter (2020) The Politics of Time: Modernity and Avant-Garde. London: Verso
+       Piketty, Thomas (2014) Capital in the Twenty-First Century. Cambridge, MA: Harvard University
+         Press.                                              
+       Pistor, Katherina (2019) The Code of Capital: How the Law Creates Wealth and Inequality.
+         Princeton, NJ: Princeton University Press.          
+       Rapley, Mark, Moncrieff, Joanna and Dillon, Jacqui (eds) (2011) De-medicalizing Misery:
+         Psychiatry, Psychology and the Human Condition. Basingstoke: Palgrave Macmillan.
+       Rebughini, Paola (2021) A sociology of anxiety: Western modern legacy and the Covid-19 out-
+         break. International Sociology 36(4): 554–568.      
+       Rickels, Karl and Rynn, Moira (2001) What is Generalized Anxiety Disorder? Journal of Clinical
+         Psychiatry 9.                                       
+       Rosamond, Emily (2020) From reputation capital to reputation warfare: Online ratings, trolling,
+         and the logic of volatility. Theory, Culture & Society 37(2): 105–129.
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+      20                              Theory, Culture & Society 42(5)
+                                                             
+      Rose, Nikolas (2013) What is diagnosis for? Lecture given at ‘DSM-5 and the Future of
+        Psychiatry’, Institute of Psychiatry, 4 June 2013. Available at: https://nikolasrose.com/wp-
+        content/uploads/2013/07/Rose-2013-What-is-diagnosis-for-IoP-revised-July-2013.pdf
+      Rose, Nikolas (2018) Our Psychiatric Future. London: John Wiley & Sons.
+      Sampson, Edward (1981) Cognitive psychology as ideology. American Psychologist 36(7):
+        730–743.                                             
+      Sartre, Jean-Paul (1949 [1938]) Nausea. New York, NY: Penguin.
+      Sartre, Jean-Paul (2015) Sketch for a Theory of the Emotions. Oxford: Routledge.
+      Savage, Mike (2021) The Return of Inequality: Social Change and the Weight of the Past.
+        Cambridge, MA: Harvard University Press.             
+      Sennett, Richard (1998) The Corrosion of Character: The Personal Consequences of Work in the
+        New Capitalism. New York, NY: Norton.                
+      Sherman, Rachel (2019) Uneasy Street: The Anxieties of Affluence. Princeton, NJ: Princeton
+        University Press.                                    
+      Shorter, Edward (1997) A History of Psychiatry: From the Era of the Asylum to the Age of Prozac.
+        London: John Wiley & Sons.                           
+      Slee, April, Nazareth, Irwin, Freemantle, Nick and Horsfall, Laura (2021) Trends in generalised
+        anxiety disorders and symptoms in primary care: UK population-based cohort study. The
+        British Journal of Psychiatry 218(3): 158–164.       
+      Smail, David (1999) The Origins of Unhappiness: A New Understanding of Personal Distress.
+        London: Constable.                                   
+      Standing, Guy (2011) The Precariat: The New Dangerous Class. London: Bloomsbury.
+      Streeck, Wolfgang (2017) How Will Capitalism End? Essays on a Failing System. London: Verso
+      Stuckler, David and Basu, Sanjay (2013) The Body Economic: Why Austerity Kills. New York,
+        NY: Basic Books.                                     
+      Szuhany, Kristin and Simon, Naomi (2022) Anxiety disorders: A review. JAMA 328(24):
+        2431–2445.                                           
+      Taylor, Charles (1992) Sources of the Self: The Making of the Modern Identity. Cambridge:
+        Cambridge University Press.                          
+      Timperley, Chloe (2020) Generation Rent: Why You Can’t Buy a Home (or Even Rent a Good
+        One). London: Canbury Press.                         
+      Tyrer, Peter (1984) Classification of anxiety. The British Journal of Psychiatry 144(1): 78–83.
+      Wiedemann, Klaus (2015) Anxiety and anxiety disorders. In: Wright, James D. (ed.) International
+        Encyclopedia of the Social & Behavioral Sciences, 2nd edn. Amsterdam: Elsevier, pp. 804–810.
+      Wilkinson, Richard and Pickett, Kate (2009) The Spirit Level: Why More Equal Societies Almost
+        Always Do Better. London: Allen Lane.                
+      Wilson, Mitchell (1993) DSM-III and the transformation of American psychiatry: A history. The
+        American Journal of Psychiatry 150(3): 399–410.      
+      World Health Organization (2023) Anxiety disorders. Available at: https://www.who.int/news-
+        room/fact-sheets/detail/anxiety-disorders (accessed 28 August 2024).
+      William Davies is Professor of Political Economy at Goldsmiths, University of London. His
+      books include The Limits of Neoliberalism: Authority, Sovereignty and the Logic of Competition
+      (2014), The Happiness Industry: How the Government and Big Business Sold Us Wellbeing (2015)
+      and Nervous States: How Feeling Took Over the World (2018).
+                                                             

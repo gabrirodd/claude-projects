@@ -1,0 +1,53 @@
+# ── WHAT TO SEARCH ──────────────────────────────────────
+# When issns is set, topic is only used by semantic_scholar (which doesn't
+# support ISSN filtering). CrossRef and OpenAlex use the ISSN directly and
+# will return papers guaranteed to be from that journal.
+topic: "theory culture society modernity power identity"
+
+# ISSNs for direct journal lookup (CrossRef + OpenAlex only).
+# Theory, Culture & Society: print ISSN 0263-2764, online ISSN 1460-3616
+issns:
+  - "0263-2764"
+  - "1460-3616"
+
+research_brief: >
+  I want papers that are theoretically significant in the tradition of
+  Theory, Culture & Society journal: social theory, cultural analysis,
+  modernity, power, identity, globalisation, subjectivity, and related
+  themes. Papers should make a substantial theoretical or conceptual
+  contribution. Empirical papers are welcome if they are grounded in
+  social or cultural theory. Diversity of subjects is expected and welcome.
+  Penalise only papers that are purely technical, clinical, or have no
+  theoretical dimension (e.g. engineering, medicine, hard sciences).
+
+journals: []
+
+# ── HOW MANY AND WHICH ──────────────────────────────────
+count: 50
+
+year_min: 2010
+year_max: 2026
+min_citations: 5
+min_relevance: 6
+
+language: en
+
+# ── SOURCES ─────────────────────────────────────────────
+# crossref and openalex use the issns field above — results are guaranteed
+# to be from the journal. semantic_scholar is unreliable for this journal
+# (venue field is often empty) so it is excluded for now.
+sources:
+  - crossref
+  - openalex
+
+# ── EXAMPLE PAPERS ──────────────────────────────────────
+use_examples: false
+
+# ── OUTPUT ──────────────────────────────────────────────
+download_pdfs: true
+output_format:
+  - csv
+output_dir: outputs/
+
+# ── REPORT ───────────────────────────────────────────────
+theoretical_framework: "Social Theory / Theory, Culture & Society"

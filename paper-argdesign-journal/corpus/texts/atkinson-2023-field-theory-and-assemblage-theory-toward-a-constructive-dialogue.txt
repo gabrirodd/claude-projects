@@ -1,0 +1,837 @@
+[PAGE 1]
+ 1167774                                                     
+ research-article2023 TCS0010.1177/02632764231167774Theory, Culture & SocietyAtkinson
+                                                             
+                                                             
+       Article                                               
+                                             Theory, Culture & Society
+       Field Theory and  Assemblage           2024, Vol. 41(1) 79 –94
+                                              © The Author(s) 2023
+       Theory: Toward   a Constructive                       
+                                              Article reuse guidelines:
+       Dialogue                           sagepub.com/journals-permissions
+                                        httpDs:O//dIo: i1.o0r.g1/1107.711/0727/60322673267462432131116677777744
+                                           journals.sagepub.com/home/tcs
+       Will Atkinson                                         
+       University of Bristol                                 
+                                                             
+                                                             
+       Abstract                                              
+       This paper engages with Manuel DeLanda’s Deleuze-inspired ‘assemblage theory’ from
+       a perspective sympathetic to Pierre Bourdieu’s field theory. It first outlines DeLanda’s
+       proposed new ‘philosophy of society’, focusing on his major works in this vein, and
+       registers some scepticism as to its originality for sociology. It then introduces and
+       responds to DeLanda’s critique of Bourdieu. Rather than simply reject assemblage
+       theory outright, however, I draw on selected insights from DeLanda to push field
+       theory in new directions. More specifically, I conceptualise the interplay of fields and
+       assemblages and use notions of ‘exteriority’ and ‘possibility space’ to help conceive
+       individual plurality of social positioning and its effects for subjectivity and practice.
+                                                             
+       Keywords                                              
+       assemblage theory, Bourdieu, DeLanda, Deleuze, field theory
+                                                             
+                                                             
+                                                             
+       For almost three decades, urban theorist and philosopher Manuel DeLanda has been try-
+       ing to wrestle from Gilles Deleuze’s giant opus a new ‘philosophy of society’. Departing
+       from the usual deployment of Deleuze in social theory as an extension on the Marxist-
+       Foucauldian tradition of ideology/discourse critique to examine contemporary ‘societies
+       of control’ (Clough et al., 2007), DeLanda endeavours instead to offer clear and consist-
+       ent concepts that purportedly dissolve some of the age-old antagonisms of social theory
+       while being of concrete use to practising social scientists interested in explaining all
+       manner of historical and contemporary events. More specifically, he champions, elabo-
+       rates and generalises one concept drawn from Deleuze’s sprawling, enigmatic treatise
+                                                             
+       Corresponding author: Will Atkinson. Email: w.atkinson@bristol.ac.uk
+       TCS Online Forum: https://www.theoryculturesociety.org/
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+      80                              Theory, Culture & Society 41(1)
+                                                             
+      co-authored with Felix Guattari on Capitalism and Schizophrenia (Deleuze and Guattari,
+      1984, 1988); a concept that is held by DeLanda to traverse physics, chemistry, biology,
+      ecology, psychology, sociology and history, among others. This is the concept of
+      assemblage.                                            
+        The term ‘assemblage’ is also used by actor-network theorists (ANTs) and, like most
+      ANTs, DeLanda subscribes to a ‘flat ontology’, eschewing recourse to deep structures or
+      hidden mechanisms, and a ‘generalized symmetry’ in which social, material and sym-
+      bolic entities are treated equivalently. Sometimes, therefore, he is cited alongside ANT
+      and Deleuze himself as a force within the ‘new materialist’ or ‘post-human’ currents of
+      contemporary social theory (see e.g. Fox and Alldred, 2017), or is otherwise seen as a
+      crucial force behind the rising popularity of the concept of assemblage for non-conven-
+      tional forms of conceptualisation and explanation across social, political and geographi-
+      cal theory (e.g. Anderson et al., 2012; Conway, 2022; Elliot and Urry, 2010; Marcus and
+      Saka, 2006; Venn, 2006; Thrift, 2008). Like some ANTs, moreover, DeLanda has explic-
+      itly positioned his contribution against that of Pierre Bourdieu. As part of his mission to
+      advocate ‘assemblage theory’, as he calls it, DeLanda has compared and contrasted his
+      ideas with foundational contributions of major sociologists, from Weber and Goffman to
+      Giddens and Tilly. Many of these are treated sympathetically and their ideas converted
+      into the language of assemblage theory. Bourdieu, however, is given a noticeably rougher
+      ride. While noting some points of apparent convergence or harmony, DeLanda ultimately
+      rejects both the notion of habitus and the notion of field (or social space). These rejec-
+      tions have been noted, but not challenged, by other commentators (e.g. Adkins, 2013;
+      Clough et al., 2007), and Fox and Alldred (2017) have even built on them in their synthe-
+      sis of new materialist themes to discard Bourdieu’s specific vision of social class.
+        The tasks of this paper are as follows. First, I aim to provide a clear summary of
+      DeLanda’s assemblage theory in abstracto and as it relates to human agency and social
+      structures, registering my scepticism as I go regarding its originality or usefulness in
+      toto. Second, after noting some affinities of language between the two thinkers, I will
+      summarise and respond to DeLanda’s critique of Bourdieu, essentially showing it to be
+      highly questionable. Despite these problems, however, engaging with assemblage theory
+      does prove fruitful for Bourdieusian social theory because specific insights from it allow
+      us to push deeper on the interplay between fields, networks and the material world and
+      the relational constitution of subjectivity than Bourdieu went, thus taking field theory in
+      productive directions.                                 
+        Some caveats before continuing. This paper does not try to compare the perspectives
+      of Bourdieu and Deleuze himself, which would be a far larger and much more compli-
+      cated task, nor am I interested in the degree to which DeLanda departs from or distorts
+      Deleuze’s own ideas, which others certainly take issue with. Whether another ‘Deleuzian
+      sociology’ is possible and superior, therefore, I leave aside. There are others, moreover,
+      who advocate versions of ‘assemblage theory’, including Jane Bennett (e.g. Bennett,
+      2010) and Ian Buchanan (e.g. Buchanan, 2020), offering similar ideas (without necessar-
+      ily agreeing with one other), but not only do they refrain from targeting Bourdieu but
+      they are much less interested than DeLanda in criticising, accommodating or otherwise
+      comparing against large swathes of sociological or social theory. This is what makes
+      DeLanda worthy of singling out, and why I will consider only the relationship between
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+       Atkinson                                       81     
+                                                             
+       habitus/fields as defined and used by Bourdieu and assemblages as defined and used by
+       DeLanda in what follows.                              
+                                                             
+       Assemblage Theory                                     
+       DeLanda began contributing to social theory in the early 1990s, but assemblage theory
+       per se only consolidated with the publication of A New Philosophy of Society (DeLanda,
+       2006a) and subsequent works (esp. DeLanda, 2005, 2006b, 2008, 2009, 2016a, 2016b).
+       In these he established that an assemblage is, at bottom, a processual fitting together of
+       elements (‘segments’ or ‘lines’) into a whole. The notion is defined against ‘strata’ on the
+       basis of how elements relate to one another. In a stratum, parts are defined by ‘interior-
+       ity’, that is, exclusively in relation to one another, and exhibit complete homogeneity.
+       Examples cited by DeLanda across works include geological strata (rock layers) but also
+       social strata (classes) and family relations (DeLanda, 1997: 59ff, 2016a: xx). Assemblages,
+       by contrast, are defined by ‘exteriority’: their component parts, while associated with
+       one another, have relative autonomy from the assemblage – they are not exhaustively
+       defined by it – and are heterogeneous. In DeLanda’s eyes, this constitutes a refutation of
+       the Hegelian idea, otherwise present in almost all social theory, that parts are always
+       defined relative to their place in a whole, or totality.
+        The distinction between strata and assemblages is scalar rather than categorical: com-
+       ponents can be bounded off and homogenised to different degrees depending on several
+       factors, including ‘coding’, which is any process fixing the identity of an assemblage’s
+       component parts. Language is a key vehicle for coding. ‘Territorialisation’, a term taken
+       directly from Deleuze, is another factor, referring to the degree to which the boundaries
+       of an assemblage are stabilised and made impermeable and its elements standardised.
+       The difference from coding seems to be that territorialisation is not reducible to lan-
+       guage. Instead, territorialisation can depend on either material or ‘expressive’ elements
+       of an assemblage – a distinction which is, once again, scalar, according to DeLanda.
+       Expressive elements do include linguistic segments – names, labels, etc. – but also sym-
+       bols, iconography and so on, while material elements include specifically physical enti-
+       ties, such as walls or doors. Both coding and territorialisation, however, are fully
+       changeable and reversible – they can be undone and progress or regress at varying speeds
+       depending on the morphology of the assemblage.        
+        Assemblages possess emergent properties and capacities irreducible to their compo-
+       nent parts. They possess things and can do things that the elements on their own cannot,
+       just as water can flow or has a freezing point, unlike its individual hydrogen and oxygen
+       atoms. Thus assemblages constrain and enable their elements, providing limits and
+       opportunities for activity (downward causation), but at the same time assemblages would
+       not exist without their relatively autonomous elements (upwards causation). This is cru-
+       cial, in DeLanda’s mind, for avoiding the micro/macro division (which he also describes
+       as the ‘molecular/molar’ division, after Deleuze) and the structure/agency division within
+       social theory, because seeing assemblages as emergent entities avoids according them
+       transcendent status over their constituents. Instead, it grants assemblages and segments
+       equivalent ontological status – they are things equally. In the Deleuzian parlance, they
+       exist on the ‘plane of immanence’. At the same time, assemblages do not exist in
+                                                             
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+      82                              Theory, Culture & Society 41(1)
+                                                             
+      categories with definitive essences but are always unique, singular individuals with their
+      own trajectories (DeLanda, 2006a: ch. 2).              
+        The properties and capacities of assemblages may be actualised or virtual, that is,
+      exist in potentia without being actualised. To each assemblage, therefore, there corre-
+      sponds a ‘possibility space’ or ‘diagram’ (sometimes referred to as the ‘multiplicity’): a
+      kind of n-dimensional map of possible developments for the assemblage and its compo-
+      nents – their ‘lines of flight’ – including as they relate to (d)territorialisation and (de)
+      coding (DeLanda, 2016a: ch. 5). When it comes to causal analysis, however, social sci-
+      entists must eschew linear thinking (A causes B) in favour of thinking in terms of spe-
+      cific interactions and combinations of assemblages and components effecting the
+      probabilities of specific lines of flight, including in the form of catalysis (DeLanda,
+      2006a: 20) or feedback loops (on this see esp. DeLanda, 1997).1 They must also focus on
+      the relevant emergent properties of assemblages rather than the activities of individual
+      components if they are to avoid causal redundancy (DeLanda, 2006a).
+        Similar to ANT, then, assemblage theory refuses to bound off the social or human
+      from the material or symbolic; it places all entities, whether apparently individual (human
+      persons) or collective (groups, classes, etc.), on the same plane of existence; and it attrib-
+      utes agency – the capacity to affect possibilities – to humans and non-humans alike.
+      Hence their conflation in many discussions. DeLanda is unapologetically realist in a
+      more straightforward manner than most ANTs, however: assemblages, he says, exist
+      independently of the conceptions our minds form of them (DeLanda, 2016a: ch. 6). In
+      this he explicitly cleaves close to Bhaskar (1998, 2008), though he distances himself
+      from the apparent essentialism lurking in the latter’s philosophy of science. DeLanda
+      also heads off the common criticism levelled at ANT – rightly or wrongly – that it oper-
+      ates with an undeveloped view of human agents and their unignorable specificity relative
+      to other actants or segments (Collins and Yearley, 1992; Pels, 1995; Vandenberghe,
+      2002). This is because DeLanda (2006a: ch. 3, 2011, 2016a: 26ff) offers a vision of what
+      makes up humans qua subjects or agents, i.e. on what basis they have the capacity to un/
+      intentionally affect possibilities, and perhaps it is no surprise that it boils down to seeing
+      human beings as themselves assemblages.                
+      The Model of the Subject                               
+      Inspired by Deleuze’s reading of David Hume, DeLanda casts the human agent as an
+      assemblage of experiences understood as sense impressions of varying intensity. These
+      are bound together by relations of association and territorialised via habitual repetition,
+      though they can also be deterritorialised by the acquisition of new skills, since these
+      change the capacities and properties of the agent, or anything disrupting routine. Material
+      elements of the assemblage include biological/neurological processes and expressive
+      components include ideas and language, the latter of which can inform beliefs under-
+      stood as ‘attitudes toward propositions’ (DeLanda, 2006a: 23, 52). However, DeLanda
+      stresses the distinction of his Deleuzean-Humean model of human agency from a sup-
+      posed neo-Kantianism holding that all sense impressions are read through existing clas-
+      sifications and, more specifically, a linguistic version in which human thought is always
+      structured by language (he seems to be alluding to the Sapir-Whorf thesis here). This
+                                                             
+                                                             
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+       Atkinson                                       83     
+                                                             
+       approach is falsified, he suggests, by the fact that experiential association facilitating
+       object recognition and complex ‘scene analysis’ predated language acquisition histori-
+       cally (and also, we might add with a nod to Piaget, in childhood) (DeLanda, 2011).
+        In practice, however, DeLanda’s model of human agency is neither original nor sound.
+       It ultimately boils down to saying that reasons and motives should be factored into social
+       explanation (DeLanda, 2006a: ch. 1), echoing Weber, but only if they appear to make a
+       difference to the operations of assemblages (if we can explain developments in terms of
+       emergent properties, then we ignore them). These motives are based on beliefs and
+       desires, which are the product of socialisation (DeLanda, 2006a: 24–5), and that sociali-
+       sation is essentially a process of instrumental conditioning. Human beings ‘match means
+       to ends’, and, to quote:                              
+        the choice of ends depends entirely on the passions: on the habitual pursuit of those ends
+        associated with pleasurable or positively valued passions [e.g. happiness or pride], and the
+        habitual avoidance of those linked with painful or negatively valued ones [e.g. sadness or
+        shame]. (DeLanda, 2006a: 49; cf. DeLanda, 2011, where he explicitly embraces instrumental
+        conditioning)                                        
+       There is no discussion of how else something might derive value other than the pleasure/
+       pain or happiness/sadness it brings, and DeLanda then cites Deleuze to the effect that this
+       is reducible to ‘the principle of utility’.2 All this sounds mightily like utilitarianism
+       backed by behaviourist principles, à la George Homans (1961). DeLanda does factor
+       assemblage norms and ‘meta-norms’ into the picture as constraints on action, but mainly
+       in terms of punishments and perceptions of punishment attached to deviant actions – thus
+       repeating James Coleman (1990). We started with Deleuze and Hume but, via Weber,
+       end with rational choice theory – a thin, fictional conception of human subjectivity and
+       how it engages with the surrounding world conjured from afar rather than based on sus-
+       tained in situ observation. To be sure, DeLanda (2006a: 24) does express reservations
+       about rationality as a causal principle, but only because it supposedly isolates mental
+       calculation from the formation of passions (via conditioning) and physical elements of
+       the means-goal relation, which hardly does justice to sociological rational choice theory.
+       Elsewhere, moreover, DeLanda (2011: ch. 8) happily resorts to game theory, with all its
+       assumptions, to conceptualise elementary social relations.
+       Relevant Assemblages for Sociology                    
+       The limited gains of assemblage theory carry over to its purported applications for soci-
+       ology. DeLanda (2006a, 2016a) works through a sequence of examples of social assem-
+       blages, including everyday interactions or conversations, social networks, social
+       movements, organisations/governments and cities and nations. In each case he identifies
+       material and expressive components, forces of (de)territorialisation and (de)coding and
+       so on. Smaller-scale assemblages fit into or become segments in larger-scale assem-
+       blages, though DeLanda rejects any notion there are bounded ‘societies’, which includes
+       discarding Deleuze and Guattari’s own concept of the ‘social field’. In all cases, how-
+       ever, DeLanda effectively accepts yet redescribes, with little obvious payoff, the work of
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+      84                              Theory, Culture & Society 41(1)
+                                                             
+      other sociologists or historians on each of these domains: Goffman on interaction,
+      Coleman on social networks, Charles Tilly on social movements, Weber plus Foucault on
+      organisations and Braudel on cities and nations. Their own explanations, and even
+      Weber’s typology of legitimacy, are not questioned but simply considered compatible
+      with assemblage theory. One is reminded of Giddens (1984) translating Paul Willis’s
+      (1977) research on educational inequality into the language of structuration theory with
+      no obvious benefit to understanding the topic.         
+        More generally, in fact, Giddens is brought to mind when reading DeLanda’s efforts
+      to overcome the micro/macro, individualism/holism or agency/structure divides by ref-
+      erence to constraints and enablements, unintended consequences and the virtuality of
+      assemblages, which mirror the British theorist’s language on social structure. DeLanda
+      (2006a) rejects structuration theory, however, on the basis that its notion of the ‘duality
+      of structure’ – the idea that neither agency nor structure exists separate from one another
+      – posits a seamless (Hegelian) whole, thus excluding relations of exteriority from con-
+      sideration. This in turn, like the focus on emergence more generally, is reminiscent of
+      Archer’s (1995) critique of Giddens’ ‘conflationism’ and her alternative morphogenetic
+      approach, or perhaps Bhaskar’s (1998) transformational model of social life, both of
+      which are based on a similar form of realism to DeLanda’s own.
+        However, one thing DeLanda does that most of those he accommodates or echoes do
+      not do is to push the issue of materiality. A bureaucratic assemblage is not just a structure
+      or network of power between humans, mediated by symbols, but a system of walls,
+      rooms, corridors, doors, etc., constraining and facilitating what people or other segments
+      can do, including in relation to those walls, doors, etc. (e.g. removing them, making them
+      transparent or open, and so on). A village is not just a mesh of human beings joined by
+      mutual awareness, and related symbols of identity (e.g. the village name or icons), but a
+      complex of specific buildings, roads, paths and so on structuring possibilities for spati-
+      otemporal and symbolic activity. Science qua assemblage is not just a body of practition-
+      ers but includes concepts and techniques and a collection of material entities – tools,
+      equipment, laboratories, institutes – co-defining the space of possibilities or diagram. An
+      army is not just a collection of soldiers but an assemblage of soldiers, specific technolo-
+      gies (weapons, tools, etc.), animals (horses, dogs, etc.), techniques (strategies, tactics,
+      etc.), symbols (flags, emblems, etc.) and so on.       
+        Others have brought materiality into sociology or social thought before, from Marx
+      on the forces of production through to Foucault on carceral/surveillance techniques,
+      Giddens on time-space paths and Urry on spatial affordances and mobility systems, and,
+      indeed, DeLanda seems to more or less accept the insights of Foucault and Giddens for
+      assemblage theory with only slight modification – the counterbalance with Weber in
+      Foucault’s case, and the counterbalance of deliberate choice (when relevant) against rou-
+      tine in Giddens’ case. DeLanda differs, though, insofar as human, symbolic and material
+      segments are treated with parity. Each possesses the same capacity for shaping the pos-
+      sibilities of others. One can look at the way in which humans shape the material world,
+      but also the way in which material entities shape human activity – really, one must do
+      both at the same time. The point is, an assemblage is not merely a ‘social structure’ but a
+      distinct nexus between all kinds of things, and all those things are treated as capable of
+      affecting its co-constituents in the same ways. Changing military technologies, for
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+       Atkinson                                       85     
+                                                             
+       instance, such as the development of rifles or portable radio transmitters, have operated
+       to deterritorialise armies and change their capabilities – making them looser, open to
+       greater initiative and flexibility and so on – with profound effects on battles, wars and
+       geopolitical relations.                               
+        Ascribing agency to material entities like this is not to ‘fetishize’ them – to obscure or
+       mystify the relations of production or domination underlying them – as Vandenberghe
+       (2002) worried of ANT. For sure, the posited effects of any material segment have been
+       made possible by a chain of human interdependencies, struggles and interests. The
+       agency of a type of rifle or a specific rifle, for example, implicates the interests of and
+       struggles between weapons manufacturers and their nexus with suppliers, distributors
+       and states. Yet those chains of interdependence can be identified as yet another assem-
+       blage, with the rifle’s insertion into the different assemblages demonstrating its exterior-
+       ity, and the rifle nonetheless bears capacities and properties in the military assemblage by
+       virtue of its material form. The background human elements are not denied or suppressed
+       but rather ‘bracketed out’, to use Giddens’ (1984) term, for explicative parsimony. Even
+       the interdependencies lying behind the capacities and properties of a material entity,
+       though, cannot be reduced to human beings but implicate the capacities and properties of
+       other material entities, including, in our example, the properties, capacities and distribu-
+       tion of the raw materials necessary for manufacturing rifles.
+       The Critique of Bourdieu                              
+       Having aired a degree of scepticism about assemblage theory while appreciating the
+       focus on materiality, now we turn to DeLanda’s (2006a) critique of Bourdieu. Bourdieu,
+       to remind readers, conceived the social world as comprised of so many fields structured
+       by the distribution of multiple capitals understood as properties and possessions mis-
+       recognised as inherently worthy or legitimate. Experiences associated with position and
+       trajectory in a field shape actual and intuited possibilities and probabilities for activity
+       within that field, specifically strategies for accumulating capital – striving for worth – or
+       subverting the field, as well as a sense of what kinds of practices and activities are associ-
+       ated with what sorts of positions. Those with a similar sense of possibilities/probabilities
+       or ‘feel for the game’ by virtue of similar locations and experiences are said to have the
+       same habitus (Bourdieu, 1977, 1990a). Science, law, religion, art and so on are examples
+       of fields, but the class structure – or ‘social space’ – is the major field of a social order
+       structured by economic, cultural and social capital (Bourdieu, 1984). Some of the lan-
+       guage might seem similar to what we have seen so far: both Bourdieu and DeLanda talk
+       about spaces of possibility, probabilistic causation, things being defined by their relation
+       to others within a system, perceptual association and so on. Yet DeLanda rejects Bourdieu
+       on two counts.                                        
+       Habitus and Language                                  
+       First, DeLanda rejects the concept of habitus for two reasons. One of these is the appar-
+       ent automatism it implies: the lack of attention to conscious activity, intentional choice,
+       articulated reasons and so on. This is an old charge that has been grappled with at length
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+      86                              Theory, Culture & Society 41(1)
+                                                             
+      elsewhere, shown to be a partial reading of the concept and avoidable if its phenomeno-
+      logical heritage is emphasised (Atkinson, 2010). The other is Bourdieu’s supposed com-
+      mitment to the neo-Kantian theory of linguistically constituted experience, which is also
+      said to lack a theory of codification – the coding of assemblages – of the kind seen in
+      Tilly’s work. This is based on a quotation from Bourdieu (1991: 105) in which he says
+      that neo-Kantianism, which gives ‘specifically symbolic efficacy’ to language in ‘the
+      construction of reality’, is ‘perfectly justified’.    
+        However, the charge of linguistic reductivism is misplaced.3 Bourdieu was certainly
+      interested in the power of words to construct and shape social reality, as part of his theory
+      of symbolic power, classification struggles and ‘group making’ (see Bourdieu, 2018).
+      That does not mean that all perception is mediated by language, however. He folded the
+      linguistic element of experience within a broader vision of the structuring of perception
+      according to schemata generated by practical experience. How many times did Bourdieu
+      emphasise that dispositions to act and evaluative schemes exist below the level of verbal
+      articulation? What matters for Bourdieu – and neo-Kantianism generally – is not just
+      language but symbols, as perceptual stimuli representing, alluding to or ‘standing in’ for
+      something else. Words are merely a special type of symbol, which for the sake of clarity
+      I will call – after Piaget – signs. Both symbols and signs are furnished with their specific
+      meaning through practical experience in the world. Emphasising the phenomenological
+      lineage again, we note the genesis of symbolic meaning – with Husserl (1991) – via
+      active (conscious) or passive (non-conscious) synthesis and its operation via horizons of
+      experience and protention, i.e. pre-predicative association and expectation.4 A phenom-
+      enological reading of Piaget furnishes evidence for the pre-linguistic genesis of associa-
+      tive symbolic (and motor/affective) schemes upon which linguistic associations are later
+      layered (Atkinson, 2016).                              
+        Phenomenological synthesis is not the same as bare Humean associationism (or
+      behaviourist conditioning), however, because Husserl, and later Schutz, emphasised the
+      formation of mental or cognitive types via typification, i.e. the genesis of perceptual
+      archetypes – which are not necessarily linguistic – for automatically classifying or cate-
+      gorising specific stimuli which may nonetheless vary from and inform the archetype in
+      specific ways. Such is the basis of object recognition and scene analysis. In fact, DeLanda
+      (2011) himself moves in this direction when he acknowledges that simulations of neural
+      networks – models of brain activity – demonstrate the incremental formation of overlap-
+      ping archetypes from which new stimuli are perceived to vary in differing ways and
+      extents. Integrating this insight with the general relationalism drawn from structuralism
+      (but also Cassirer), Bourdieu would emphasise that any typification or classification is
+      inherently co-defined by that which it is not – by its oppositions and contrasts, in other
+      words, which in Bourdieu’s mind were structured by fields. Desire and affect also satu-
+      rate typification because fields – including the family as a field – are the sources of
+      human worth and purpose via the forms of (mis)recognition they bear (Bourdieu, 1990b,
+      2000a; cf. Threadgold, 2020).                          
+        Finally, it bears stating that Bourdieu did have an explicit theory of codification (see
+      esp. Bourdieu, 1990b: 76–86). It is not exactly the same as DeLanda’s meaning, of course,
+      but its purpose was to elucidate instances where specific ‘rules of the game’ and perceptual
+      constructions of the world which are otherwise practically (non-linguistically) or even
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+       Atkinson                                       87     
+                                                             
+       affectively/corporeally intuited are given formal, linguistic elaboration in the form of laws,
+       official decrees, written records or formalised theories. This extends to the existence of
+       groups or collectivities, as those invested with symbolic power declare the reality of spe-
+       cific ‘groups’, ‘organisations’, ‘institutions’, ‘movements’ and so on (or even ‘communi-
+       ties’, ‘cities’, etc.), fix their identities and boundaries in the minds of others – thus affecting
+       their practice – and claim to represent, express or speak for them in some way (Bourdieu,
+       1991, 2018). Incorporating the kind of ‘delegation’ of interest to Latour (2005) – scientists
+       identifying and speaking in the name of ‘species’ or ‘elements’, for example – it becomes
+       possible to extend the same logic to non-human entities too.
+       Assemblage or/and Social Space                        
+                                                             
+       DeLanda’s second rejection is of Bourdieu’s conception of social structure, particularly
+       his vision of class in terms of social space. This is in keeping with his rejection of Deleuze
+       and Guattari’s notion of the social field, which seemingly covers similar ground. The
+       substance of DeLanda’s (2006a: 63) critique, moving away from his earlier crude sug-
+       gestion that classes are strata, is that the distribution of resources – or capitals – does not
+       exist in an abstract space but is only ever embedded in concrete networks of people or
+       organisations. This critique is, in fact, very similar to that raised by social network theo-
+       rists, such as Becker (2006) and Crossley (2011, 2022), who prefer the notion of ‘world’
+       instead, though DeLanda emphasises the organisational and material aspects to a greater
+       degree – i.e. resource distributions are not only dependent on connections or ties between
+       people but between people, organisations and material entities. One can thus respond in
+       a similar way (cf. Atkinson, 2020): put simply, networks/assemblages and fields/social
+       spaces need not be mutually exclusive.                
+        The utility of the concept of field or social space is to document the basic cartography
+       of possibilities and probabilities in relation to a specific set of stakes: possession of a
+       certain stock of capital shapes what is objectively possible, probable and desirable for
+       people in their struggle for capital and the sense of the possible, probable and desirable,
+       as well as the sense of what is possible or probable for others – grasped (via typification)
+       at varying levels of anonymity and abstraction – in the field. These possibilities and
+       intuitions unite individuals who are far removed from one another in terms of network
+       linkages, generate similar practices and even inform the formation of networks (Lizardo,
+       2006). This has been empirically verified often enough. That does not mean networks do
+       not exist or are inconsequential. Bourdieu (1996, 2000a) himself talked about ‘legitima-
+       tion chains’ to convey the interpersonal chains of command and delegation through
+       which symbolic power, as control over capital, operates, his major point, echoing Norbert
+       Elias, being that the lengthier the chains become the more impersonal and stable becomes
+       the symbolic power to the perceiver. More generally, though, the distribution of resources
+       does indeed depend on specific networks and circuits of people and activity, and agents
+       form their practical sense and discursive construction of the field in good part – but not
+       exclusively5 – through interaction with concrete others, meaning those similarly posi-
+       tioned in the field can have different interpretations of the field and their place within it
+       with ramifications for their practice and even variant structures of possibility. As Crossley
+       (2013; Bottero and Crossley, 2011; cf. Lahire, 2012) has noted in his more conciliatory
+                                                             
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+      88                              Theory, Culture & Society 41(1)
+                                                             
+      moments, the relationship between fields and networks is best understood in terms of a
+      dialectical interplay, though I would add: with the sense of the game (and one’s place)
+      and investment in the game, both oriented toward field structures, taking explanatory
+      priority.6 Worlds can thus be reconceived as cross-field networks and circuits oriented
+      around specific domains. The military world in a nation, for example, would encompass
+      agents across the state (the bureaucratic field) and the military field strictu senso (army
+      personnel) as well as arms and supplies manufacturers (in the economic field), each with
+      their own interests relative to their fields. Some of these fields and circuits will be trans-
+      national, others national. There is even evidence to suggest Bourdieu himself sometimes
+      worked with this notion of worlds without naming them as such (Atkinson, 2020).
+        The same logic can be expanded to assemblages incorporating material entities. Thus
+      we flesh out the human interests and relations underpinning the production, distribution,
+      accumulation, interpretation and uses of specific material entities within discrete assem-
+      blages, as Vandenberghe (2002) suggests, but we also acknowledge the effect of material
+      entities within specific assemblages on field structures and possibilities. The military
+      assemblage encompasses the military world just mentioned, but also highlights the (im)
+      possibilities generated by the capacities and properties of associated technologies or non-
+      human animals insofar as they are ‘re-structured’ – as Bourdieu would have it (Bourdieu
+      and Wacquant, 1992: 105) – into the logic and strategies of component fields (cf.
+      Dominguez-Rubio and Silva, 2013). More broadly, the capitals defining a social space
+      – especially economic capital and cultural capital – are actualised in material entities
+      (coins, certificates, computer networks) embedded in assemblages of production and
+      distribution, and their durability, size, weight, etc – made possible by the capacities and
+      properties of their own material segments – make some strategies of accumulation or
+      conversion possible and more or less viable both objectively and subjectively. Alchemy,
+      for example, is impossible; forgery has only a chance of success depending on its method;
+      paper money is easier to store and transfer than metal money, but not as easy to store and
+      transfer as digital money (which also opens up possibilities for hacking); and so on. Still,
+      the very drive to accumulate or convert the material manifestations of capital unites all
+      agents within a social order and across numerous assemblages, and the sense of one’s
+      place is attuned to intuition, however fuzzy, of the topological distribution of capitals
+      beyond the networks and assemblages in which one is directly embedded. The very pro-
+      duction and distribution of materials perceived as capitals are also linked to the state’s
+      interest in accumulating or maintaining control over capital within a territory, docu-
+      mented by Bourdieu (2014), which is also, of course, affected by the properties and
+      capacities of those materials.                         
+        Part of what is at stake here are what can be called – extending on legitimation chains
+      – circuits of symbolic power, or the movements over time-space and between fields of
+      specific people, symbols and material entities. A material entity – a singular artwork, a
+      rifle or a standardised consumer commodity – may be produced via the struggles and
+      strategies in one field, though also dependent on the properties and capacities of its con-
+      stituent materials. It is then disseminated over time-space in accordance with the sym-
+      bolic power of their producers and their connections within worlds, thence having a
+      specific effect on what an agent or set of agents can and cannot do with consequences for
+      their activity within a different field by virtue of its capacities and properties. This may
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+       Atkinson                                       89     
+                                                             
+       take the form of catalysing specific symbolic revolutions or other major events within
+       fields, or constitute feedback loops for the original field of production, and they may
+       even operate to (de/re)territorialise specific assemblages or underpin codification or
+       ‘group-making’ efforts. Such is the ‘social life of things’, to quote Appadurai (1988), but
+       also the material life of the social.                 
+                                                             
+       Plurality, Exteriority and Relational Phenomenology   
+       In responding to DeLanda’s critique, then, I have discarded his associationist-utilitarian-
+       behaviourist model of human agency in favour of the phenomenological habitus but also,
+       rather than reject the notion of assemblage outright, considered ways in which fields and
+       assemblages may co-exist and affect one another. There are other ways in which
+       DeLanda’s vocabulary may enrich field theory, however. One of these, implicit in the
+       foregoing, is the concept of exteriority, which emphasises when the capacities and prop-
+       erties of an entity are irreducible to its insertion within an assemblage – and, we might
+       now add, a field. In a social universe defined by a multitude of fields, the interpretations,
+       uses and capacities of a single material entity vary substantially across fields. What a
+       single rifle makes possible or impossible is very different in the economic field com-
+       pared to the military field, the armed clash of state armies, and a familial field (where it
+       may be a cherished heirloom, for instance).           
+        The same applies to human beings. Bernard Lahire (e.g. Lahire, 2011, 2012, 2015)
+       has long criticised Bourdieu for confining individuals to single fields, reducing them to
+       ‘beings-in-a-field’ and nothing more, thus missing the full complexity and plurality of
+       individual lives lived and dispositions forged across myriad contexts. There is some truth
+       to that charge, or at least, as is now being increasingly recognised, a need to think about
+       how to bring plurality into field theory – how, that is, individuals may be positioned
+       within multiple fields (Atkinson, 2016; Schmitz et al., 2017). The notion of exteriority,
+       then, serves to underscore, on the one hand, that an individual and their capacities, prop-
+       erties and activity are irreducible to a single field, and have some relative autonomy from
+       it, by virtue of their being inserted within other fields too, as well as within networks and
+       assemblages; but also, on the other hand, that what goes on in a field is not entirely
+       reducible to the structure of the field, as ‘outside forces’, like an individual’s family com-
+       mitments or the material structures and limitations of their village life, play their part.7
+       As DeLanda stresses, however, this is a scalar phenomenon: the degree to which an
+       individual is defined by a singular field, and to which they are homogeneous in relation
+       to others in the same field, can vary and surely has varied over history (cf. Lahire, 2011).
+       There may be just one localised field in small-scale undifferentiated social orders, where
+       members are relatively homogeneous, yet multiple field membership in others and great
+       social dispersion within those fields. Bourdieu (e.g. 1990b: 73–4) himself recognised
+       this, in fact, but never made anything of it. And then, of course, there is the isolated indi-
+       vidual, like the Brazilian ‘Man of the Hole’, who appears to be an agent in no field but
+       who still exists within assemblages of matter and whose material environment may still
+       be shaped by circuits of symbolic power originating far away (e.g. state protection of his
+       territory).                                           
+                                                             
+                                                             
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+      90                              Theory, Culture & Society 41(1)
+                                                             
+        Individuals and fields, then, are both objects equally amenable to social scientific
+      construction; fields are comprised of individuals whose relations of mutual recognition
+      generate emergent properties – structures, strategies, doxa, etc. – without being entirely
+      reducible to those individuals or those individuals being reducible to it; and each human
+      individual and each field are historically unique entities in the same way as assemblages
+      are.8 Whether or not that makes for a ‘flat ontology’ is a moot point. However, DeLanda’s
+      use of exteriority to reject the Hegelian part-whole logic, which ultimately underpins
+      both the structuralist version of relationalism adopted by Bourdieu and the interactionist
+      relationalism of social network theory (and which I have tried to bring together in a ‘uni-
+      fied relationalism’), is problematic. This is because it can always be retorted that the
+      present possibilities of any singular entity are defined by its combination of assemblage
+      insertions; it is, in other words, defined by the totality of its assemblage participations
+      and the relations between those participations.        
+        In the case of human individuals, for instance, they may be irreducible to single fields,
+      but their singularity can still be understood in terms of their specific locations in multiple
+      fields and circuits of symbolic power and the relations between those field/circuit loca-
+      tions in everyday life. Bourdieu (2000b), in fact, seemed to recognise this when he pos-
+      ited a term for grasping an individual’s existence – their perceptions and dispositions
+      – across multiple fields: their ‘social surface’. This can be interpreted as a kind of ‘meta-
+      habitus’ and, using tools from phenomenology, it becomes possible to conceptualise the
+      relations between fields and circuits within individual lifeworlds. Within any percept, for
+      example, there may be loaded horizonal significance related to any one field in which the
+      individual participates, but also significance related to how activity in one field/circuit
+      bears on another – what becomes (im)possible or (un)desirable in one field by virtue of
+      events in another. More generally, the individual’s sense of self – of what matters to them
+      and the hierarchy of those values – is constructed out of the fuzzy sense of plurality and
+      circuit embeddedness, each intuited in relation to one another, whether that means they
+      feel themselves fully integrated, neatly compartmentalised or ‘conflicted’ and ‘internally
+      torn’. And, of course, different fields will structure the time and space of lifeworlds, and
+      streams of consciousness, to different extents, with some (e.g. ‘greedy fields’ related to
+      employment) demanding attention and structuring time-space paths more than others.
+        Here we can return to DeLanda (2006a), who, in offering a ‘charitable’ reading of
+      habitus in his endnotes, suggests it might be reconstrued as an individual’s ‘internal pos-
+      sibility space’ provided by their assemblage of beliefs, habits and skills. That is, in fact,
+      a perfectly reasonable reading of the habitus, so long as we specify those beliefs and
+      habits in phenomenological terms as expectations of the forthcoming, co-given with pre-
+      sent perception, structured by pre-predicative typifications and soliciting associated
+      activity. Elsewhere it has even been suggested that the habitus constitutes a sort of ‘sub-
+      jective field of possibles’, i.e. a set of more or less doable, thinkable and conceivable
+      practices and activities (beyond which lies the impossible, unthinkable, inconceivable or
+      fantastical), attuned to the objective field of possibilities provided by position within a
+      field or social space as it manifests in everyday experience (Atkinson, 2010). Now, how-
+      ever, we add in the structuration of perception by attunement to the possibilities and
+      probabilities of multiple fields, awareness of their interrelation (how events and activity
+      in one field will likely impact upon another, or are relevant to more than one field)
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+       Atkinson                                       91     
+                                                             
+       – which we might call the ‘lifeworld horizon’9 – and the different strengths of desire for
+       their respective stakes.                              
+        The result is a relational conceptualisation of the social surface: it is a (virtual) space
+       of possibilities and probabilities of thought and action structured according to relations
+       within fields but also the relations between fields as defined by spatiotemporal extension
+       within the lifeworld, degrees of mutual interpenetration and strength of desire. It is in
+       constant process, structured by time in the double sense of not just sedimentation of past
+       experience and adjustment to the future but (bounded) flux in relation to the durée of
+       everyday life and the ‘situations’ it encompasses. This is no metaphysical abstraction; the
+       relational social surface or meta-habitus is an explanatory tool for making sense of
+       observed events and practices – for comprehending why someone did something, or why
+       they reacted the way they did to a situation or experience, whether its consequences are
+       part of an ongoing feedback loop into myriad fields, a (de)coding or (de)territorialisation
+       of an assemblage or ‘group’ or a catalyst for a thoroughgoing multi-field symbolic revo-
+       lution. It can only ever be reconstructed by the analyst, but limning the relational struc-
+       ture of the internal possibility space, defined by spatiotemporal attention and intensity of
+       desire directed towards fields, with all their solicitations, should facilitate a more refined
+       sense of the conditions of possibility or likelihood of certain practices and affective
+       states.                                               
+       Conclusion                                            
+       My intention was to put field theory and DeLanda’s assemblage theory into dialogue.
+       There is no disguising the fact that field theory was the starting point, and its founda-
+       tional premises regarding human beings – the quest for value, misrecognition and sym-
+       bol/sign manipulation – the ultimate anchors. An easy reaction to DeLanda’s critique of
+       Bourdieu would have been simply to dismiss it and assemblage theory altogether. And
+       sure enough, there is much in DeLanda’s theorising that seems to be flawed or unorigi-
+       nal, especially the default to utilitarianism backed by behaviourism. Yet DeLanda’s ren-
+       dering of assemblage theory does bring fruitful insights to the table which should be
+       taken seriously. It offers an opportunity to push field theory in novel directions, there-
+       fore, and develop new tools for the task of explaining social life.
+        The outcome of the dialogue can be summarised as follows. First, the causal power of
+       ‘the material’ must be acknowledged; it has its own irreducible effect on fields; there
+       exist distinct assemblages of material and non-material entities; these may even be use-
+       fully described as more or less (de)territorialised. Yet that does not preclude the existence
+       of fields as trans-assemblage structures of capital structuring subjectivity and agency.
+       Better to examine the interplay of fields and assemblages, and networks generally, via
+       circuits of symbolic power. The desires and sense of possibilities related to fields may be
+       the primary principle of practice, but they are co-conditioned and modified or individu-
+       ated by the (sense of) im/possibilities furnished specifically by networks and assem-
+       blages. Second, the concept of exteriority gainfully underscores the plurality of
+       positioning, and identity, of material objects and human individuals, all of which can
+       exist in multiple fields, networks and assemblages while retaining relative autonomy
+       from each, though DeLanda’s posited escape from relational logic is doubtful. Finally,
+                                                             
+                                                             
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+      92                              Theory, Culture & Society 41(1)
+                                                             
+      exteriority qua plurality has consequences for rethinking subjectivity as an internal pos-
+      sibility space, bringing a new layer of relationalism – beyond that provided by adaptation
+      to a single field – to the phenomenology of experience and practice.
+        It might be supposed that the human/post-human or anthropocentric/ecocentric
+      divides are new oppositions within social theory, opened up by Deleuze and the new
+      materialism, to match the old ones of micro/macro and structure/agency. Perhaps the
+      effort here could be considered a step toward reconciling, overcoming or at least ques-
+      tioning those oppositions insofar as I have tried to make field theory less ‘human only’
+      while recognising the specificity of human beings, including their tendency to form
+      fields of mutual recognition and struggle. More important, though, is the possibility of
+      providing new ways of conceiving the relation between material life and human life, and
+      the structures of perception, that may prove useful for sociological explanation – for
+      making sense of why such-and-such event or practice occurred, for example, when refer-
+      ence to the structure and forces of a single field or social space seems not to be enough.
+      ORCID iD                                               
+      Will Atkinson https://orcid.org/0000-0002-1032-1241    
+      Notes                                                  
+                                                             
+      1. Thus for each assemblage there may be any number of possibilities, or outcomes, that can
+        feasibly happen, but observation of an assemblage, with all its interactions, determines that
+        some outcomes are more or less likely than others, often statable numerically or statistically
+        (e.g. 20% probability, 60% probability, etc.). In this DeLanda explicitly makes common cause
+        with Weber.                                          
+      2. The only other possible motivating force for human activity in DeLanda’s Humean account of
+        agency is habit and an associated quest to maintain the stability of personal identity – an idea
+        echoing Giddens’ (1984) appeal to ‘ontological security’ and leading to the same psychologi-
+        cal reductivism (Atkinson, 2007).                    
+      3. One also wonders whether DeLanda’s own emphasis on propositional beliefs and reasons as
+        explanations for human action does not also depend on a linguistic conception of experience.
+        Certainly it seems to unjustifiably exclude or downplay sensation and affect (Clough et al.,
+        2007).                                               
+      4. This phenomenological account of experience is complemented by a neurological account of
+        experience emphasising the formation, strengthening and activation of synaptic connections.
+      5. It may also come, for example, from reading books, journals, magazines, news reports, etc.
+      6. This point can be pursued and demonstrated in empirical research. See, e.g., De Nooy (2003)
+        and Basov (2022).                                    
+      7. This argument counters Fox and Alldred’s (2017) explicit rejection of class as a concept
+        by appeal to exteriority: it is possible to conceive of individual diversity and specificity via
+        multiplicity but retain the notion of class as a practical means of describing relative similarity
+        within one field (the social space), as indeed even they seem to do when referring to the ‘class
+        mix’ of neighbourhoods (p. 68).                      
+      8. It might be argued that ‘field’ is a class of entity, thus violating DeLanda’s postulate of singu-
+        larity, but it is no more such than assemblages are. A field’s emergent properties can be con-
+        sidered as ‘parametrisable’ (or scalar) as those of an assemblage; even the degree of struggle
+        and heterogeneity is variable, the limit case of homogeneity being the ‘apparatus’ or ‘corps’
+        (Atkinson, 2020).                                    
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+       Atkinson                                       93     
+                                                             
+       9. Previously I have suggested Husserl’s term ‘world horizon’ for this, but since that already
+         has a useful meaning (pre-predicative awareness of there being a world beyond immediate
+         perception), changing it to lifeworld horizon has the benefit of retaining that meaning while
+         also being more precise in its coverage, i.e. awareness of the interplay of fields defining one’s
+         lifeworld.                                          
+       References                                            
+       Adkins, Lisa (2013) Ontological Bourdieu? Social Epistemology 27(3–4): 295–301.
+       Anderson, Ben, Kearnes, Matthew, McFarlane, Colin, et al. (2012) On assemblages and geogra-
+         phy. Dialogues in Human Geography 2(2): 171–189.    
+       Appadurai, Arjun (ed.) (1988) The Social Life of Things. Cambridge: Cambridge University Press.
+       Archer, Margaret (1995) Realist Social Theory. Cambridge: Cambridge University Press.
+       Atkinson, Will (2007) Anthony Giddens as adversary of class analysis. Sociology 41(3): 533–549.
+       Atkinson, Will (2010) Class, Individualization and Late Modernity. Basingstoke: Palgrave
+         Macmillan.                                          
+       Atkinson, Will (2016) Beyond Bourdieu. Cambridge: Polity.
+       Atkinson, Will (2020) Bourdieu and After. London: Routledge.
+       Basov, Nikita (2022) The ambivalence of cultural homophily. Poetics 78: 101353.
+       Becker, Howard (2006) Art Worlds, 2nd edn. Berkeley: University of California Press.
+       Bennett, Jane (2010) Vibrant Matter. Durham: Duke University Press.
+       Bhaskar, Roy (1998) The Possibility of Naturalism, 3rd edn. London: Routledge.
+       Bhaskar, Roy (2008) A Realist Theory of Science, 2nd edn. London: Verso.
+       Bottero, Wendy and Crossley, Nick (2011) Worlds, fields and networks. Cultural Sociology 5(1):
+         99–119.                                             
+       Bourdieu, Pierre (1977) Outline of a Theory of Practice. Cambridge: Cambridge University Press.
+       Bourdieu, Pierre (1984) Distinction. London: Routledge.
+       Bourdieu, Pierre (1990a) The Logic of Practice. Cambridge: Polity.
+       Bourdieu, Pierre (1990b) In Other Words. Cambridge: Polity.
+       Bourdieu, Pierre (1991) Language and Symbolic Power. Cambridge: Polity.
+       Bourdieu, Pierre and Wacquant, Loic (1992) An Invitation to Reflexive Sociology. Cambridge:
+         Polity.                                             
+       Bourdieu, Pierre (1996) The State Nobility. Cambridge: Polity.
+       Bourdieu, Pierre (2000a) Pascalian Meditations. Cambridge: Polity.
+       Bourdieu, Pierre (2000b) The biographical illusion. In: du Gay, Paul, Evans, Jessica and Redman,
+         Peter (eds) Identity. London: SAGE, pp. 297–303.    
+       Bourdieu, Pierre (2014) On the State. Cambridge: Polity.
+       Bourdieu, Pierre (2018) Classification Struggles. Cambridge: Polity.
+       Buchanan, Ian (2020) Assemblage Theory and Method. London: Bloomsbury.
+       Clough, Patricia, Han, Sam and Schiff, Rachel (2007) Review of A New Philosophy of Society.
+         Theory, Culture & Society 24(7–8): 387–393.         
+       Coleman, James S. (1990) Foundations of Social Theory. Cambridge, MA: Belknap Press.
+       Collins, Harry and Yearley, Steven (1992) Epistemological chicken. In: Pickering, Alan (ed.)
+         Science and Practice and Culture. Chicago, IL: University of Chicago Press, pp. 301–326.
+       Conway, Jay (2022) Deleuze, Guattari and the concept of social assemblage. In: Delanty, Gerard
+         and Turner, Stephen (eds) Routledge International Handbook of Contemporary Social and
+         Political Theory, 2nd edn. London: Routledge, pp. 232–240.
+       Crossley, Nick (2011) Towards Relational Sociology. London: Routledge.
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+      94                              Theory, Culture & Society 41(1)
+                                                             
+      Crossley, Nick (2013) Interactions, juxtapositions and tastes. In: Powell, Christopher and
+        Dépelteau, Francois (eds) Conceptualising Relational Sociology. Basingstoke: Palgrave
+        Macmillan, pp. 123–143.                              
+      Crossley, Nick (2022) A dependent structure of interdependence. Sociology 56(1): 166–182.
+      De Nooy, Wouter (2003) Fields and networks. Poetics 31(5–6): 305–327.
+      DeLanda, Manuel (1997) A Thousand Years of Nonlinear History. New York, NY: Zone Books.
+      DeLanda, Manuel (2005) Beyond the problematic of legitimacy. boundary 2 32(1): 117–128.
+      DeLanda, Manuel (2006a) A New Philosophy of Society. London: Continuum.
+      DeLanda, Manuel (2006b) Deleuzian social ontology and assemblage theory. In: Fulsgang, Martin
+        and Sørenson, Bent Meier (eds) Deleuze and the Social. Edinburgh: Edinburgh University
+        Press, pp. 250–266.                                  
+      DeLanda, Manuel (2008) Deleuze, materialism and politics. In: Buchanan, Ian and Thoburn,
+        Nicholas (eds) Deleuze and Politics. Edinburgh: Edinburgh University Press, pp. 160–177.
+      DeLanda, Manuel (2009) Molar entities and molecular populations in human history. In: Bell,
+        Jeffrey and Colebrook, Claire (eds) Deleuze and History. Edinburgh: Edinburgh University
+        Press, pp. 225–236.                                  
+      DeLanda, Manuel (2011) Philosophy and Simulation. London: Continuum.
+      DeLanda, Manuel (2016a) Assemblage Theory. Edinburgh: Edinburgh University Press.
+      DeLanda, Manuel (2016b) Parametrising the social. Architectural Design 86(2): 124–127.
+      Deleuze, Gilles and Guattari, Felix (1984) Anti-Oedipus. London: Athlone Press.
+      Deleuze, Gilles and Guattari, Felix (1988) A Thousand Plateaus. London: Athlone Press.
+      Dominguez-Rubio, Fernando and Silva, Elizabeth B. (2013) Materials in the field. Cultural
+        Sociology 7(2): 161–178.                             
+      Elliot, Antony and Urry, Jon (2010) Mobile Lives. London: Routledge.
+      Fox, Nick J. and Alldred, Pam (2017) Sociology and the New Materialism. London: SAGE.
+      Giddens, Anthony (1984) The Constitution of Society. Cambridge: Polity Press.
+      Homans, George (1961) Social Behaviour. New York, NY: Harcourt, Brace and World.
+      Husserl, Edmund (1991) Analyses Concerning Passive and Active Synthesis. Dordrecht: Kluwer.
+      Lahire, Bernard (2011) The Plural Actor. Cambridge: Polity.
+      Lahire, Bernard (2012) Monde Pluriel. Paris: Seuil.    
+      Lahire, Bernard (2015) The limits of the field. In: Hilgers, Mathieu and Mangez, Eric (eds) Bourdieu’s
+        Theory of Social Fields. London: Routledge, pp. 62–101.
+      Latour, Bruno (2005) Reassembling the Social. Oxford: Oxford University Press.
+      Lizardo, Omar (2006) How cultural tastes shape personal networks. American Sociological Review
+        71(5): 778–807.                                      
+      Marcus, George and Saka, Erkan (2006) Assemblage. Theory, Culture & Society 23(2–3): 101–
+        106.                                                 
+      Pels, Dick (1995) Have we never been modern? History of the Human Sciences 8(3): 129–141.
+      Schmitz, Andreas, Witte, Daniel and Gengnagel, Vincent (2017) Pluralizing field analysis. Social
+        Science Information 56(1): 49–73.                    
+      Threadgold, Steven (2020) Bourdieu and Affect. Bristol: Policy Press.
+      Thrift, Nigel (2008) Non-Representational Theory. London: Routledge.
+      Vandenberghe, Frèdèric (2002) Reconstructing humants. Theory, Culture & Society 19(5–6):
+        51–67.                                               
+      Venn, Couze (2006) A note on assemblage. Theory, Culture & Society 23(2–3): 107–108.
+      Willis, Paul (1977) Learning to Labour. Farnborough: Saxon House.
+      Will Atkinson is Professor of Sociology in the School of Sociology, Politics and International
+      Studies at the University of Bristol, UK. His publications include Beyond Bourdieu (Polity Press,
+      2016) and Bourdieu and After (Routledge, 2020).        

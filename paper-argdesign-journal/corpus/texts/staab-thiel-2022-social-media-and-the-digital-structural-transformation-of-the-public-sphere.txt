@@ -1,0 +1,782 @@
+[PAGE 1]
+ 1103527                                                     
+ research-article2022 TCS0010.1177/02632764221103527Theory, Culture & SocietyStaab and Thiel
+                                                             
+                                                             
+       Special Issue: A New Structural Transformation of the Public Sphere?
+                                             Theory, Culture & Society
+       Social Media and  the Digital         2022, Vol. 39(4) 129 –143
+                                              © The Author(s) 2022
+       Structural Transformation                             
+                                              Article reuse guidelines:
+       of the Public Sphere               sagepub.com/journals-permissions
+                                        httpDs:O//dIo: i1.o0r.g1/1107.711/0727/60322673267462422121110033552277
+                                           journals.sagepub.com/home/tcs
+       Philipp Staab                                         
+       Humboldt University of Berlin                         
+                                                             
+       Thorsten Thiel                                        
+       Weizenbaum Institute for the Networked Society        
+                                                             
+                                                             
+                                                             
+       Abstract                                              
+       This article explores the question of how to understand social media following the
+       Habermasian theory of the structural transformation of the public sphere. We argue
+       for a return to political-economic fundamentals as the basis for analysing the public
+       sphere and seek to establish a characteristic connection between digital-behavioural
+       control and singularised audiences in the context of proprietary markets. In the digital
+       constellation, it is less a matter of immobilising the citizen as a consumer but rather of
+       their political activation – albeit in conditions under which commercial interests have
+       primacy: privatisation without privatism.             
+       Keywords                                              
+       digital capitalism, Jürgen Habermas, public sphere, social media, structural
+       transformation                                        
+                                                             
+                                                             
+       The relationship between the public sphere and the economy is at the heart of Jürgen
+       Habermas’s classic analysis of The Structural Transformation of the Public Sphere
+       (Habermas, 1991). According to Habermas, the historical constitution of the bourgeois
+       public sphere was predicated on the role of private property as acquired and reproduced
+       in the early capitalist (market-based) exchange of goods. The bourgeois entrepreneur
+       acquired private power along with private wealth; this, however, did not translate into a
+       comparable ability to shape the public sphere in light of the then still predominant prin-
+       ciple of monarchical representation. Against this background – and connected with the
+                                                             
+                                                             
+       Corresponding author: Thorsten Thiel. Email: thorsten.thiel@wzb.eu
+       TCS Online Forum: https://www.theoryculturesociety.org
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+      130                             Theory, Culture & Society 39(4)
+                                                             
+      validity claim of patriarchal, bourgeois nuclear families and a specific literary culture –
+      the bourgeois public sphere developed. It became a vehicle for public criticism of monar-
+      chical representation and a place for the articulation of the interests of autonomous,
+      largely equal, bourgeois market participants in the political sphere. Somewhat simplisti-
+      cally, one could say that the triumph of market principles was a condition for the emer-
+      gence of the bourgeois public sphere. The self-confidence individuals acquired as market
+      citizens was brought to bear in the field of public interests.
+        Likewise, in his analysis of the disintegration of the bourgeois public sphere,
+      Habermas describes material changes as the trigger: he argues that economic concentra-
+      tion effects and the social inequalities generated by the market initiated a second stage of
+      the transformation of the public sphere from the late 19th century onwards. The horizon-
+      tal market of small traders was replaced by industrial capitalism, which was dominated
+      by large companies on the one hand and dependent, proletarian wage labour on the other.
+      Two consequences were of central importance: first, there was the high concentration of
+      economic power in the hands of individual entrepreneurs (or entrepreneurial families)
+      and the simultaneous proletarianisation of large parts of the population, which made the
+      idea of free and equal market actors increasingly implausible. Second, there were the
+      welfare state interventions developed in response to rampant impoverishment, which
+      changed the relationship between the state and society.
+        In the ‘industrial society constituted as a social-welfare state’ (Habermas, 1991: 229),
+      the representational function of the bourgeois family faded as late bourgeois nuclear
+      families increasingly retreated into privacy and hedonism. The establishment of the mass
+      media in the form of radio and television and the associated rise of the culture industry
+      are hence characteristic of the third stage of the transformation, which culminated in the
+      mass society of the 20th century and its obsession with consumption. The citizens of the
+      public sphere were now primarily consumers; the critical discourse was undermined by
+      advertising and distraction. Building on early critical theory, Habermas diagnosed a
+      return to unidirectional communication, a refeudalisation in which private actors brought
+      their interests to the privatised public in the form of monarchical representation.
+        This brief summary of the argument of the structural transformation of the public
+      sphere shows how important the materialist underpinnings of the transformation were for
+      Habermas’s original theory. This theory draws its strength from a combination of three
+      elements: the functional logic of specific forms of media (literary criticism, print-media
+      conflict over public opinion, mass-media entertainment), the subjectivity of the public
+      (bourgeois self-consciousness, industrial class polarisation, late capitalist consumerism)
+      and the surrounding structures of accumulation (bourgeois entrepreneurship, industrial
+      monopoly capitalism, Fordism). Although the historically informed debate linking socio-
+      logical and economic aspects is the basis for Habermas’s later work, it is not revised in
+      light of this later work or by the political theories of the public sphere formulated in its
+      wake. The relationship between the public sphere and the market is thus generally and
+      abstractly cited as a perennially problematic factor, but the analysis in later writings
+      focuses mainly on the interface between the organised public sphere (especially civil
+      society) and the political process. The fact that the structural transformation is ongoing
+      is an issue that is addressed in these later works – transnationalisation and the digital
+      transformation are identified as its expression – but its reconstruction for contemporary
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+       Staab and Thiel                               131     
+                                                             
+       society is less comprehensive and rather understood as a change in media which also
+       affects social dynamics.                              
+        Our concern in this text is to provide an updated understanding of the triad of medial-
+       ity, subjectivity and accumulation that is constitutive of the classical theory of structural
+       transformation. We do this by formulating a proposal for the analysis and critique of
+       social media and its role in the contemporary public sphere. Because social media only
+       represents a specific part of the current hybrid media system, any generalisation of its
+       logics can merely be described as an experimental hypothesis. Nevertheless, we argue
+       that social media has become so important for the constitution of the democratic public
+       sphere that a better understanding of it is essential for a critique of the contemporary
+       public sphere.                                        
+        The text advances two theses: first, concerning the phenomenon of social media itself,
+       we argue that social media is characterised by a specific interrelation of digital behav-
+       ioural control (mediality), singularised audiences and a characteristic proprietary market
+       form. Second, and based on this, we interpret the digital transformation as a new, fourth
+       stage of the structural transformation: in this stage, the role of the citizen once again
+       shifts from the politically passive consumer to an active and expressive role. However,
+       this is not (or not solely) realised as a societally oriented political activity: representation
+       is privatised but without the privatism typical of mass society. A commercial politicisa-
+       tion emerges in which economic motives always threaten to corrupt the political.
+        In the following, we will initially (I) return to the development of the political theory
+       of the public sphere and explicate how socio-economic aspects have increasingly faded
+       in the later work of Jürgen Habermas as well as in the theories of the public sphere that
+       have followed. Then, (II) we will present the three theorems for the socio-economic
+       interpretation of the digital structural transformation of the public sphere, which proceed
+       from the dimensions of mediality (data behaviourism: II.1), subjectivity (singularisation:
+       II.2) and accumulation (the primacy of proprietary markets: II.3). In the last section (III),
+       we will then contextualise these findings in relation to the theory of the structural trans-
+       formation of the public sphere by discussing the transition from the principle of mass-
+       societal-monarchical representation to that of digital-privatised representation as well as
+       the inclusion of socio-economic analysis in the discussion on political theory.
+       I The Political Theory of the Public Sphere in Transition
+       The relationship between the public sphere and the economy is already embodied in the
+       ancient distinction between the private household (oikos) and the public affair, the res
+       publica. It was not until the modern era that this ideal of two separate spheres in a rela-
+       tionship of normative subordination was transformed. The differentiation of society was
+       driven by political changes (such as territorial states), economic changes (such as early
+       capitalism) and media-related changes (such as the printing press). The public sphere and
+       the realm of institutionalised politics became more clearly differentiated and the increas-
+       ingly popular liberal understanding of the public sphere defined it very broadly as the
+       general, even non-political sphere of visible social life. In this context, market relations
+       were understood as a form of public relationship. The relations between markets and the
+       public sphere were also understood to be positive, since trade relations were viewed as a
+                                                             
+                                                             
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+      132                             Theory, Culture & Society 39(4)
+                                                             
+      civilising force and the marketplace of ideas was thought to be innovative in promoting
+      progress (Hirschman, 1982).                            
+        The great achievement of the Habermasian theory of the structural transformation of
+      the public sphere is to have revolutionised this long simplified conception of the public
+      sphere – which had been viewed as a politically diffuse phenomenon that was unrelated
+      to specific forms of media and mainly stabilised by the virtuous attitudes of citizens –
+      and thus to have established a more comprehensive political theory of the public sphere.
+      As described in the introduction, Habermas’s work on structural transformation, first
+      published in 1962, explicates the complex relationship between the economy, the devel-
+      opment of the public sphere and democratisation. At the centre of the analysis are the
+      reciprocal relationships between mediality, subjectivation and accumulation. Habermas
+      thus goes beyond previous critical theory, especially that of Max Horkheimer and
+      Theodor W. Adorno, who, with their diagnosis of the culture industry, identified a central
+      mechanism of the mass media public sphere and decoded it economically but did not
+      systematically address the position of the public sphere in the political system. The the-
+      ory of the structural transformation, on the other hand, represents an attempt to uncover
+      the political meaning of the public sphere. Habermas criticised the development of the
+      public sphere in the Western democracies of the 1950s, which, in his view, (re)institu-
+      tionalised a feudal structure of one-sided representation through the focus on consump-
+      tion and entertainment.                                
+        Habermas’s great scepticism towards the mass media public sphere and the descrip-
+      tion presented in his work on the structural transformation represent the foundation of
+      his lifelong examination of the public sphere, but his approach changed decisively in
+      the following decades: the assumption that the modern public sphere was constituted by
+      capitalism and shaped by the mass media remained stable, but the capacity of a demo-
+      cratic public sphere to nevertheless emerge and assert itself in this context became more
+      important. To explain this, Habermas constantly introduced new elements: from the
+      possibility that capitalism could be tamed by the welfare state (Habermas, 1976) to
+      discourse ethics (Habermas, 1984) and the role of civil society (Habermas, 1996), to the
+      investigation of systemic states of equilibrium in complex democracies (Habermas,
+      2006).                                                 
+        For Habermas, digitalisation and the digital public sphere represent a qualitative leap
+      and thus a structural change, but he no longer devotes the same analytical attention to this
+      upheaval as he once did to the mass media. According to him, digitalisation adds new
+      aspects to the dangers of mass media democracy, such as unequal access to discursive
+      power (agenda-setting, chances of manipulation): the centrifugal forces of this ‘bubble’-
+      inducing communicative structure. Habermas treats online publics as if they were struc-
+      turally separate from ‘normal’ publics but amplifies their shortcomings. He fears that in
+      the digital public sphere the possibility of inclusive and society-wide discourse – which,
+      despite all the risks of domination and manipulation, still existed in the mass media pub-
+      lic sphere – gets irrevocably lost. At the same time, the new form of public sphere – con-
+      trary to what was hoped for at the beginning of the digital revolution – is just as susceptible
+      to democratic pathologies as the old one (Habermas, 2006). However, this fragmentation
+      hypothesis is barely elaborated. In essence, Habermas reproduces the criticism of the
+      development of filter bubbles and echo chambers as an effect of algorithmic dispersion.
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+       Staab and Thiel                               133     
+                                                             
+       He acknowledges that a socio-economic analysis would be of great benefit but has not
+       attempted to elaborate one himself (Habermas, 2022).  
+        Likewise, deliberative democratic theory, which builds on Habermas’s work, devotes
+       little systematic attention to the question of digital structural transformation and its
+       socio-economic drivers. Of course, it examines how systematic distortions in a society’s
+       discursive capacities can be countered; the theoretical programme has also expanded
+       from normative questions to more empirical ones (Elstub et al., 2016). Yet, although the
+       spectrum of institutions studied today ranges from mini-publics to the connections
+       between different discursive spaces – that is, deliberative systems – the analytical cri-
+       tique of socio-economic inequalities and power imbalances remains surprisingly under-
+       developed. And even the related questions of mediality and subjectivity are predominantly
+       uncharted territory. The analysis of the digital structural transformation is therefore one-
+       sided: digitality is recognised as significant, but the analysis mainly examines the effects
+       attributed to it, and, above all, the possible corrective instruments, rather than the socio-
+       technical dynamics and their causes (Landemore, 2020). Compared to Habermas’s clas-
+       sical analysis, deliberative democratic theory therefore remains depthless and mainly
+       uses idealised juxtapositions of, for example, face-to-face interactions, mass media
+       structures and digital tools to make its point.       
+        Overall, with regard to the development of a political theory of the public sphere, we
+       arguably do not have a political theory of mediatised democracy in the proper sense
+       (Hofmann, 2019). The political theoretical discourse on digital public spheres is concep-
+       tually too one-sided, and it overlooks the interplay of sociological, technological-media
+       and economic factors (Benson, 2009; Berg et al., 2020).
+       II The Market and the Public Sphere in the Context of 
+       Social Media                                          
+       The fact that an analysis of the systematic connection between capitalist development,
+       historical subjectivity and media forms has been neglected by the political theory of the
+       public sphere is problematic for an analysis of the present, for both theoretical and
+       empirical reasons – and motivates our proposal to update Habermas’s theory of structural
+       transformation. Before doing so, we must clarify two points. First, we need to briefly
+       delineate the digital public sphere and justify why we are focusing specifically on the
+       narrower field of social media in this analysis; second, we want to take a look at the
+       research to date on social media and examine the extent to which our social theoretical
+       proposal has already been described there.            
+        The digitality of today’s societies is based on the fact that almost every action and
+       communication can be digitally recorded, operationalised and recursively turned into the
+       object of subsequent action. Digital public spheres are characterised by algorithmicity,
+       many-to-many communication, data collection and much more, and not just by the fact
+       that they take place on a screen (Stalder, 2018). In the following analysis, however, we
+       will partially ignore the complex multiformity of digital publics and instead focus solely
+       on their currently most dominant manifestation: social media. The reason for this is two-
+       fold: first, we assume that the functional logic of the digital public sphere will become
+       particularly evident in an analysis of social media. Second, the mass media system,
+                                                             
+                                                             
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+      134                             Theory, Culture & Society 39(4)
+                                                             
+      which is still undoubtedly of central importance, has been profoundly reconstructed by
+      social media, so that today, it is best understood as a hybrid media system (Chadwick,
+      2013). Hence, while an analysis of social media alone cannot enable us to understand the
+      media system as a whole, social media is a particularly good place to start when consid-
+      ering the structuring of the news system and political/social communication with a view
+      to understanding the actual change that has taken place in recent decades.
+        The digital public sphere is, of course, a booming topic in social science research
+      quite apart from political theory. The question therefore arises as to how the connection
+      of interest here, namely between capitalism and the public sphere, is discussed in the
+      broad field of studies on social media and whether the social theoretical dimension that
+      has been neglected in the debates on democratic theory can be found here.
+        Roughly speaking, the scholarship on social media can be divided into two parts: on
+      the one hand, there are publications that directly address platforms as instruments of
+      capitalist accumulation, such as the writings of Nick Srnicek (2016) or Christian Fuchs
+      (2020). In these works, the particular logic of the extraction and use of personal data is
+      reconstructed and the resulting findings are then placed in the broader analytical context
+      of the development of capitalism. Yet, authors in this field shed little light on mediality
+      and subjectivity. Studies from the other direction are centrally interested in describing
+      the dynamics of digital publics. Only in recent times has the importance of economic
+      incentives for platform companies been emphasised more strongly. Originally, the focus
+      was on the user experience in social media, its affordances and the resulting social
+      dynamics. While early work in this direction focused on technically induced dynamics,
+      contemporary research in communication and media studies is more differentiated and
+      reflexive (Bennett and Pfetsch, 2018). In terms of economic analysis, however, consid-
+      eration is usually limited to one or two essential mechanisms – mainly the monopoly
+      position of the central companies (Hindman, 2018). The self-reinforcing logic of these
+      economic settings is then invoked to explain the high affectivity of digital communica-
+      tion or even the willingness of platform providers to promote polarising communications
+      (Gillespie, 2018). While this strand of research places mediality at the heart of its consid-
+      erations and also talks about accumulation, it does not refer to historically specific forms
+      of subjectivation, as Habermas originally emphasised.  
+        In the following three subsections, we will therefore reconstruct the dimensions cen-
+      tral to Habermas’s original analysis (mediality, subjectivity and accumulation) with the
+      help of three authors who have synthesised the multitude of empirical studies and find-
+      ings in a theoretically comprehensive way: Shoshana Zuboff, Andreas Reckwitz and
+      Philipp Staab.                                         
+      II.1 Mediality: Data Behaviourism                      
+      The point of reference in the field of mediality is Shoshana Zuboff’s influential study of
+      surveillance capitalism (Zuboff, 2019). At the heart of Zuboff’s analysis is the data gen-
+      erated in the context of the commercial internet, especially data that can be attributed to
+      individual user profiles. Data is, first and foremost, the by-product of digital communica-
+      tion: whenever we communicate, we leave digital traces. According to Zuboff’s account,
+      this ‘data as a by-product’ was discovered – first by Google and Facebook – as the
+                                                             
+                                                             
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+       Staab and Thiel                               135     
+                                                             
+       actually profitable raw material of the commercial internet. Instead of treating their own
+       products as such and selling them in portions or via user licences, they recognised the
+       secondary value of personal data. This data can be used to create detailed profiles of
+       individuals, which can be converted into money via advertising. The raw material,
+       namely data, is extracted via surveillance processes, which, in Zuboff’s view, form the
+       very core of digital mediality. Since capital imperatives are at work, this extraction
+       machinery must constantly expand. According to Zuboff, in recent years, increasing
+       numbers of companies have begun to centre their value creation on surveillance profits,
+       which is why she assumes that surveillance capitalism will rapidly advance. In this line
+       of argument, the appropriation of data by surveillance capitalist corporations reflects the
+       rise of an economic logic that is not focused on the resource-efficient production of
+       physical products but rather on measuring, influencing and ultimately controlling our
+       behaviour.                                            
+        Zuboff invests great effort in lending suggestive power to the thesis that surveil-
+       lance capitalism is about to become the guiding paradigm of the entire economy. Yet,
+       a sober reading suggests that it is a description of the operational logics of advertising-
+       financed platforms – especially social media platforms – that exploit their specific
+       mediality. Unlike the classical mass media of the 20th century, social media is not
+       unidirectional (one-to-many). Instead, the recipients of information are also senders of
+       it. In Zuboff’s work, a phenomenon that has long been described as the multidirection-
+       ality of communication (many-to-many communication, user-generated content, etc.)
+       is analytically inverted by the insight that the actual communication generates obser-
+       vational data that a third party – the mediating platform – uses, which creates a strong
+       vested interest in structuring the communication. This shatters the idea of horizontal or
+       even domination-free communication. Instead, a triadic constellation emerges in which
+       platform providers, which occupy a privileged position, analyse users and seek to
+       influence their behaviour. The democratic promise of bidirectional communication is
+       corrupted; an economic-exploitative dimension is ever present. The problem is exacer-
+       bated by the emergence of tools for targeted manipulation. In order to adapt content to
+       meet individual tastes and especially to create personalised advertising, the so-called
+       ‘behavioural surplus’ (Zuboff, 2019: 65) is aggregated and exploited. Zuboff’s analyti-
+       cal description of the horizons of surveillance capitalist practice is of central impor-
+       tance in this context: the operators of social media platforms have long since shifted
+       from measuring and elaborately processing personal data to a logic of ‘behavioural
+       control’. Their goal is neither the aggregation of historical data nor its processing to
+       forecast future behaviour. The actual aim has long been to create specific behavioural
+       patterns.                                             
+        The intellectual framework for this is the guiding principle of data-centred behaviour-
+       ism (Rouvroy, 2013), according to which choices in the digital space should be designed
+       to generate specific behaviour. This is done, for example, through personalised content
+       or through interfaces that limit possible variances in user behaviour. Through their
+       design, social media platforms effectively restrict, control and channel users’ actions.
+       This can be described as behaviourist construction, because – following a socio-physicist
+       understanding of society (Pentland, 2015) – the aim is to generate or prevent a specific
+       human behaviour through the control of environments. In the context of digital publics,
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+      136                             Theory, Culture & Society 39(4)
+                                                             
+      the focus is usually on acts of consumption: advertising is integrated into user interfaces
+      in ways that make users more likely to make purchasing decisions.
+                                                             
+      II.2 Subjectivity: The Principle of Singularisation    
+      Zuboff’s approach is strongly influenced by structural theory and sees users’ actions as
+      ultimately determined by the structures of capitalist domination. The recent theoretical
+      history of sociology usually understands such constructions as theoretical simplifications
+      and insists that the relationship between structure and action is more recursive (Giddens,
+      1984). Following Habermas’s triad of mediality, subjectivity and accumulation, the
+      question immediately arises as to what kind of subject can actually be addressed in the
+      context of data behaviourism – or, underpinned by sociological scepticism towards
+      techno-deterministic constructions: what motivates subjects to participate in processes
+      designed to manipulate them?                           
+        One answer to this question is provided by scholarship that conceptualises social
+      media as part of a digital gift economy (Elder-Vass, 2016; Fourcade and Kluttz, 2020).
+      According to this, large parts of the commercial internet consist of a gift economy, as
+      users do not pay money for many services. Social media could also be seen as free ser-
+      vices in a simplified perspective. If we interpret subjects primarily as marginal utility
+      optimisers, we can conclude that social media is popular primarily because it costs noth-
+      ing. This argument chimes with how internet corporations describe themselves – they
+      present the exchange of certain services (such as a social media network) for personal
+      data as a fair and largely transparent, non-monetary act of exchange: a useful service for
+      some personal information.                             
+        Sociology, of course, usually operates with more complex subject theories, and for
+      good reason. Andreas Reckwitz’s The Society of Singularities (2020) is probably the
+      most ambitious approach to answering the question of the subject in digital behaviour-
+      ism. According to Reckwitz, the present is characterised by a radical individualisation,
+      which he expresses with the concept of singularisation. Whereas Ulrich Beck’s original
+      individualisation thesis still sought to describe the release of individuals into ‘self-
+      responsibility’ and ‘self-optimization’, singularisation means ‘the more complex pursuit
+      of uniqueness and exceptionality, which has not only become a subjective desire but also
+      a paradoxical social expectation’ (Reckwitz, 2020: 3). Regarding social media in particu-
+      lar, Reckwitz recognises the great effort subjects make when staging uniqueness and
+      identifies digital platforms as ‘infrastructure for the fabrication of singularities’
+      (Reckwitz, 2020: 168).                                 
+        According to Reckwitz, the platforms perform a dual singularisation function. On the
+      one hand, they are themselves engines for the production of the unique. For example, the
+      logic of data collection and profiling, which the platforms operate for their advertising
+      customers, amounts to the highly individual measurement of the individuals in question.
+      These are mechanically singularised ‘behind their backs’ (Reckwitz, 2020: 183). Here,
+      his approach is similar to that of Zuboff.             
+        But unlike Zuboff, Reckwitz also has a theory of the demand side of digital publics
+      in the context of social media. The singularised subjects are not primarily produced by
+      the technology that seeks to control their behaviour. Rather, the strength of social media
+                                                             
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+       Staab and Thiel                               137     
+                                                             
+       grows from the fertile soil of the individual’s need to stage their uniqueness. These
+       needs have their origins in a dynamic of singularisation that can be explored in terms
+       of cultural sociology, which no longer rewards conformity with the crowd but rather
+       the presentation of exceptionality. Social media functions as a ‘culture machine’ by
+       ensuring ‘the omnipresence of culture and affectivity’ (Reckwitz, 2020: 169). It is this
+       permanent presence of affective stimuli that makes social media so interesting as a
+       vehicle of singularisation.                           
+        Social media encourages the formation of entities that describe themselves as unique,
+       both on the individual and on a group level. The distinction between commercial and
+       political content in this context is basically irrelevant; the only important thing is that the
+       content facilitates individual profiling. On the individual level, according to Reckwitz,
+       this new form of media transforms the personal and private into something public or at
+       least semi-public. This also applies to ‘neo-communities’ that are grouped around spe-
+       cific, particularist interests (Reckwitz, 2020: 179f.). Consequently, we are dealing with a
+       logic of social fragmentation at the individual and the group level, which has resulted in
+       the formation of increasingly singularised subjects and communities. Since they are pri-
+       marily constituted affectively, their half-life is usually limited. The ‘compulsory social
+       orientation towards the particular can’, therefore, not only ‘lead to an erosion of the
+       general’ but also generates collective entities that are characterised by an ‘affective actu-
+       alism’ and are relatively unstable precisely because of this (Reckwitz, 2020: 193f.).
+       II.3 Accumulation: The Primacy of Proprietary Markets 
+       So how can we understand the emergence and current manifestation of the interplay
+       between digital behaviourism and singularised audiences that characterises social media?
+       In our view, the application of a political economy perspective to changing patterns of
+       accumulation provides the best answer to this question, as it makes long developmental
+       trajectories recognisable and allows a direct connection to aspects of mediality and sub-
+       jectivity to be established.                          
+        If we look first at the historical-political-economic trajectories, we find that social
+       media is the result of the long rise of contemporary information and communication
+       technologies. Their triumphal march began in the 1970s at the very latest, when the first
+       venture capital investors discovered the computer industry as a crucial field of future
+       economic growth (Perez, 2003; Mazzucato, 2013). In the advanced economies of the
+       OECD, the long phase of stable economic growth that had characterised the immediate
+       post-war period was coming to an end. The Fordism of the 1950s and ’60s was, in a
+       historically new sense, a ‘consumption-based economy’ (Crouch, 2009), which was
+       based on the productive combination of standardised mass production and expansive
+       mass consumption (Aglietta, 2015). However, by the end of the 1960s, mass production
+       and mass consumption in the Western world were already becoming decoupled. The
+       markets for standardised, mass-produced goods were showing the first signs of satura-
+       tion, as the population’s basic needs had been satisfied (Streeck, 2012: 30). Aside from
+       attempts to stimulate demand through public (Streeck, 2014) or private (Crouch, 2009)
+       debt, there were responses by capitalist companies to the crisis of mass consumption in
+       the form of various product-individualising strategies. By the early 1980s, this process
+                                                             
+                                                             
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+      138                             Theory, Culture & Society 39(4)
+                                                             
+      had already progressed to such an extent in the automotive industry that at Volkswagen’s
+      main plant in Wolfsburg, for example, the same car never rolled off the production line
+      twice on any given day (Streeck, 2014). This logic also took hold in other industries –
+      for example in the textiles sector. The calculation behind it made use of the basic theo-
+      rems of consumer sociology, which state that in cases of conspicuous consumption
+      (Veblen, 2007 [1899]), a product’s potential for distinction (Bourdieu, 1984) is a central
+      motive for its acquisition. The individualisation of production thus aimed to create a
+      form of consumption that could no longer be realised in the context of standardised
+      mass goods.                                            
+        A parallel development was required in the area of consumption: the new opportuni-
+      ties for product individualisation had to reach the audience of market citizens.
+      Accordingly, there was a massive expansion of marketing and advertising. What is now
+      described as the vanguard of digital capitalism in discussions of leading digital compa-
+      nies is merely the most current iteration of this principle of an individualisation of con-
+      sumption following an individualisation of production (Staab, 2017).
+        Nowhere is this more evident than in the two key sources of profit for the commercial
+      internet: e-commerce, whose advantage over brick-and-mortar retail primarily consists
+      in simplifying access to products and services via personalisation; and online advertis-
+      ing, whose promise is to tap into, or even form (behavioural control), individual con-
+      sumption preferences. As arenas of singularisation, social media platforms are the crucial
+      providers of granular, personalised information and of stimulation of new desires among
+      the audience. Their central source of profit is the personalisation of advertising. The fact
+      that players such as Google (YouTube), Facebook (including Instagram) or Twitter have
+      been able to gradually take market shares from the classic mass media in the TV and
+      print sectors is mainly due to their promise to enable a highly individualised approach to
+      individual consumers through the creation of user profiles.
+        In view of capitalism’s secular crisis of consumption, social media platforms thus
+      manifest as machines of consumption rationalisation: they are supposed to point the way
+      to ever more individualised production and ever more specific consumer preferences. In
+      a materialist reading, the structural function of social media thus seems to be less the
+      ‘curation of sociality’ (Dolata, 2021: 109) – it turns out to be more a means of effectively
+      individualising consumption, whereby data-behaviourist strategies are confronted with
+      singularised demand.                                   
+        What initially looks like a form of specialisation in the context of the broad field of
+      the advertising industry gains the character of criticality against the backdrop of the
+      political economy described above: in times of scarce demand, mediating access to con-
+      sumers becomes an essential task. Only those who can generate attention for products –
+      or in other words, those who are able to address the audience in its granular uniqueness
+      – can hope to sell it. By providing this mediation between supply and demand, social
+      media platforms are increasingly performing a market function in the digital sphere.
+      Their profit model not only centres on selling advertising space but more comprehen-
+      sively on taxing access to the market: what platforms in digital marketplaces (e-com-
+      merce) charge in the form of commission is operationalised in social media simply as the
+      sale of advertising. In both cases, what is sold is access to consumers, that is, to the
+      demand side of markets.                                
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+       Staab and Thiel                               139     
+                                                             
+        The design of social media platforms is consistently and unconditionally oriented
+       towards this programme. They ultimately form ‘proprietary markets’ (Staab, 2022), are-
+       nas of capitalist exchange whose rules are determined by the platform providers. Data
+       behaviourist promises of control are used as bait to sell access to singularised demand.
+       This structure no longer distinguishes between citizens and consumers or between politi-
+       cal public spheres and private worlds of consumption. The public sphere of social media
+       is instead a market privatised by the respective platform providers.
+       III Digital Structural Change: Commercial Politicisation
+       and the Future of Democracy                           
+                                                             
+       What does this mean for an analysis of the digital public sphere that seeks to update
+       Habermas’s approach? Let us first look again at the now expanding panorama of the
+       structural transformation of the public sphere: the original bourgeois public sphere was
+       set in opposition to the unidirectional, ‘monarchical representation’ of ruling interests,
+       which had been rendered outdated by the material conditions of the economy. Bourgeois
+       entrepreneurship provided the basis for a class-specific self-consciousness, which was
+       articulated, for example, in the practice of literary criticism. In monopoly capitalist
+       industrial society, these structures dissolved; in their place came a social polarisation
+       according to subjectivised class position. A plebeian public met the bourgeois public and
+       conflicts found their expression in print-media battles for public opinion. In the context
+       of the Fordist combination of mass production and mass consumption, the political
+       threatened to disappear from the realm of public debate, to be replaced by a combination
+       of consumerist privatism and mass media entertainment. Habermas famously interpreted
+       this last step of structural transformation as the return of monarchical representation
+       under conditions of welfare-state capitalism: as refeudalisation.
+        Our analysis of social media in the context of the current structural transformation
+       shows that the digital constellation represents a distinct fourth phase of this development.
+       The difference is not simply a difference in the form of the media in question, and the
+       digital structural transformation also triggers something other than a continued retreat
+       into the private sphere and consumption. Rather, the change in the accumulation model
+       that took place in reaction to the crises of Fordist capitalism led to an individualisation
+       of production, which in turn demanded the corresponding individualisation of consump-
+       tion, and the identification or production of consumer preferences that are as granular as
+       possible. As aggregators of knowledge about these preferences and – at least according
+       to the data-behaviourist promise – promotable acts of consumption, as well as gatekeep-
+       ers to the audience attention, the platforms have become proprietary markets that trade in
+       access to demand for manufacturers. The need for singularisation makes the audience
+       susceptible to the constant stimulation of interests, which in turn prompts them to further
+       participate in the dynamics of social media. The providers of social media, that is, the
+       large social networks, profit from this engagement because each act of user participation
+       generates data that can be sold in the form of advertising space.
+        As a result of this development, the distinction between the commercial and the politi-
+       cal is becoming increasingly irrelevant for understanding both the platforms and the
+       singularised audience. On the part of the platforms, both commercial and political
+                                                             
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+      140                             Theory, Culture & Society 39(4)
+                                                             
+      articulation serves to build profiles, that is, the mechanical singularisation of subjects
+      that sustains the business model (Reckwitz, 2020). On the part of the subjects, commer-
+      cial and political expression ultimately encourage the declaration of their own unique-
+      ness. Subjects’ political distinction thus becomes a matter of public concern. As a
+      by-product the digital public sphere of social media is thereby to a certain extent politi-
+      cised. In the digital constellation, the monarchical representation of late industrial mass
+      society is replaced by a politicisation under the primacy of the commercial: privatisation
+      without privatism.                                     
+        In his 1990 preface to the new German-language edition of Strukturwandel der
+      Öffentlichkeit (The Structural Transformation of the Public Sphere), Jürgen Habermas
+      notes that the strength of his original work lay in its general historical systematics but
+      that its normative analysis had been overly influenced by the assumption that the public
+      sphere had a determinant effect on democratic self-organisation. This is how Habermas
+      justifies his turn towards discourse ethics and democratic proceduralism and the more
+      differentiated view of recipient behaviour. With our re-framing of the systematic histori-
+      cal contribution, we do not want to claim that it is possible to simply return to the original
+      determinism. Rather, it is a matter of understanding the updated account of structural
+      transformation in its political effects more precisely and reflecting on the dangers and
+      counterforces.                                         
+        One way to do this is to highlight the indirect effects of the digital structural transfor-
+      mation, that is, to draw conclusions from society that can be applied to politics. This line
+      of thinking includes, for example, the fragmentation or polarisation hypothesis already
+      presented above and mentioned by Habermas himself, according to which the structuring
+      forces of social media limit the societal possibilities for democratic will formation.
+      Regardless of the abstract plausibility of these and similar theses, however, they are not
+      suitable for understanding how the specific mechanisms of mediality, subjectivation and
+      accumulation can be updated in relation to the political system or political action. For
+      this purpose, we consider it more useful to chart the land-grabs of the new public spheres
+      directly. This is especially evident in relation to ‘data driven elections’ (Bennett and
+      Lyon, 2019). This term does not merely capture the fact that politics employs means of
+      advertising and targeting (such instrumental appropriation is unsurprising); the develop-
+      ment goes deeper: increasingly, a notion of democracy is being articulated in which the
+      reading of singularised preferences, rather than the civic expression of opinion through
+      active participation, is being interpreted as a democratic principle (Ulbricht, 2020: 431).
+      The idea of representation as an active and reciprocal process that is creative and also
+      stimulates the political public sphere is therefore withdrawn (Berg et al., 2020). In its
+      place comes a conception of democracy that – shaped by the imperatives of the contem-
+      porary public sphere and its development – is little more than a struggle for attention,
+      influence and data sovereignty. The identification of preferences comes to occupy the
+      place once occupied by political contestation and there is an emergence of structural
+      power mechanisms that – geared towards the operations of proprietary markets – seek to
+      monopolise access to social life: representation without the public sphere.1
+      ORCID iD                                               
+      Thorsten Thiel https://orcid.org/0000-0002-4261-118X   
+                                                             
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+       Staab and Thiel                               141     
+                                                             
+       Note                                                  
+       1. In addition to the investigation of direct effects, it would of course also be necessary to con-
+         sider what possibilities arise for the recipients of mediatised democracy and how they appro-
+         priate the capitalist structures. Our narrow focus on social media and the power of platforms
+         has so far excluded this aspect of digital self-organisation from consideration. Of course,
+         digital media, with their reciprocal structure, their great reconfigurability and their potential
+         to make collective action less dependent on resource-rich actors also offer possibilities that
+         allow for a more emancipatory form of development.  
+       References                                            
+       Aglietta, Michel (2015 [1979]) Theory of Capitalist Regulation: The U.S. Experience. London:
+         Verso.                                              
+       Bennett, Colin J. and Lyon, David (2019) Data-driven elections: Implications and challenges for
+         democratic societies. Internet Policy Review 8(4). DOI: 10.14763/2019.4.1433.
+       Bennett, Lance W. and Pfetsch, Barbara (2018) Rethinking political communication in a time of
+         disrupted public spheres. Journal of Communication 68(2): 243–253.
+       Benson, Rodney (2009) Shaping the public sphere: Habermas and beyond. The American
+         Sociologist 40(3): 175–197.                         
+       Berg, Sebastian, Rakowski, Niklas and Thiel, Thorsten (2020) The Digital Constellation. Berlin:
+         Weizenbaum Institute for the Networked Society. http://dx.doi.org/10.34669/wi.ws/14
+       Bourdieu, Pierre (1984) Distinction: A Social Critique of the Judgement of Taste. Cambridge, MA:
+         Harvard University Press.                           
+       Chadwick, Andrew (2013) The Hybrid Media System: Politics and Power. Oxford: Oxford
+         University Press.                                   
+       Crouch, Colin (2009) Privatised Keynesianism: An unacknowledged policy regime. The British
+         Journal of Politics & International Relations 11(3): 382–399.
+       Dolata, Ulrich (2021) Varieties of internet platforms and their transformative capacity. In: Suter,
+         Christian, Cuvi, Jacinto, Balsinger, Philip, and Nedelcu, Mihaela (eds) The Future of Work.
+         Zurich: Seismo.                                     
+       Elder-Vass, Dave (2016) Profit and Gift in the Digital Economy. Cambridge: Cambridge
+         University Press.                                   
+       Elstub, Stephen, Ercan, Seren, and Mendonça, Ricardo Fabrino (2016) The fourth generation of
+         deliberative democracy. Critical Policy Studies 10(2): 139–151.
+       Fourcade, Marion and Kluttz, Daniel N. (2020) A Maussian bargain: Accumulation by gift in the
+         digital economy. Big Data & Society 7(1): 1–16.     
+       Fuchs, Christian (2020) Communication and Capitalism: A Critical Theory. London: University
+         of Westminster Press.                               
+       Giddens, Anthony (1984) The Constitution of Society: Outline of the Theory of Structuration.
+         Cambridge: Polity.                                  
+       Gillespie, Tarleton (2018) Custodians of the Internet: Platforms, Content Moderation, and the
+         Hidden Decisions that Shape Social Media. New Haven: Yale University Press.
+       Habermas, Jürgen (1976) Legitimation Crisis. Cambridge: Polity Press.
+       Habermas, Jürgen (1984) The Theory of Communicative Action. Vol. 1: Reason and the
+         Rationalization of Society. Boston: Beacon Press.   
+       Habermas, Jürgen (1987) The Theory of Communicative Action. Vol. 2: Lifeworld and System.
+         Boston: Beacon Press.                               
+       Habermas, Jürgen (1991) The Structural Transformation of the Public Sphere. Cambridge, MA:
+         MIT Press.                                          
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+      142                             Theory, Culture & Society 39(4)
+                                                             
+      Habermas, Jürgen (1996) Between Facts and Norms: Contributions to a Discourse Theory of Law
+        and Democracy. Cambridge, MA: MIT Press.             
+      Habermas, Jürgen (2006) Political communication in media society: Does democracy still enjoy an
+        epistemic dimension? The impact of normative theory on empirical research. Communication
+        Theory 16(4): 411–426.                               
+      Habermas, Jürgen (2022) Reflections and hypotheses on a further structural transformation of the
+        political public sphere. Theory, Culture & Society 39(4).
+      Hindman, Matthew (2018) The Internet Trap: How the Digital Economy Builds Monopolies and
+        Undermines Democracy. Princeton: Princeton University Press.
+      Hirschman, Albert (1982) Rival interpretations of market society: Civilizing, destructive, or fee-
+        ble? Journal of Economic Literature 20(4): 1463–1484.
+      Hofmann, Jeanette (2019) Mediated democracy: Linking digital technology to political agency.
+        Internet Policy Review 8(2). DOI: 10.14763/2019.2.1416.
+      Landemore, Hélène (2020) Open Democracy. Princeton: Princeton University Press.
+      Mazzucato, Mariana (2013) The Entrepreneurial State: Debunking Public vs. Private Sector
+        Myths. London: Anthem Press.                         
+      Pentland, Alex (2015) Social Physics: How Social Networks Can Make Us Smarter. New York:
+        Penguin.                                             
+      Perez, Carlota (2003) Technological Revolutions and Financial Capital: The Dynamics of Bubbles
+        and Golden Ages. Cheltenham: Edward Elgar.           
+      Reckwitz, Andreas (2020) The Society of Singularities. Cambridge: Polity Press.
+      Rouvroy, Antoinette (2013) The end(s) of critique: Data-behaviourism vs due-process. In:
+        Hilderand, Mireille, and De Vries, Katja (eds) Privacy, Due Process and the Computational
+        Turn. Milton Park: Routledge.                        
+      Shirky, Clay (2008) Here Comes Everybody: The Power of Organizing without Organizations.
+        New York: Penguin.                                   
+      Srnicek, Nick (2016) Platform Capitalism. Cambridge: Polity Press.
+      Staab, Philipp (2017) The consumption dilemma of capitalism. Transfer 23(3): 281–294.
+      Staab, Philipp (2022) Markets and Power in the Digital Age. Manchester: Manchester University
+        Press.                                               
+      Stalder, Felix (2018) The Digital Condition. Cambridge: Polity Press.
+      Streeck, Wolfgang (2012) Citizens as customers: Considerations on the new politics of consump-
+        tion. New Left Review 76: 27–47.                     
+      Streeck, Wolfgang (2014) Buying Time: The Delayed Crisis of Democratic Capitalism. London:
+        Verso.                                               
+      Ulbricht, Lena (2020) Scraping the demos: Digitalization, web scraping and the democratic pro-
+        ject. Democratization 27(3): 426–442.                
+      Veblen, Thorstein (2007 [1899]) The Theory of the Leisure Class. Oxford: Oxford University
+        Press.                                               
+      Zuboff, Shoshana (2019) The Age of Surveillance Capitalism: The Fight for a Human Future at
+        the New Frontier of Power. New York: Public Affairs. 
+      Philipp Staab is Professor of Sociology of the Future of Work at Humboldt University Berlin
+      and at the Einstein Center Digital Future. In his research, he combines topics of work, inequality,
+      technology and political economy with a particular focus on the digital economy. Currently, he
+      is particularly concerned with questions of the political regulation of digital capitalism and the
+      connection between digitalisation and sustainability, as well as theory of adaption.
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+       Staab and Thiel                               143     
+                                                             
+       Thorsten Thiel is the leader of the research group ‘Democracy and Digitalization’ at the
+       Weizenbaum Institute for the Networked Society and a research fellow at the WZB Berlin Social
+       Science Center. In his work he asks how digitalisation reconfigures the interaction between
+       citizens and their representatives and how democracies should intervene in the digital transfor-
+       mation of the public sphere.                          
+       This article is part of the Theory, Culture & Society special issue on ‘A New Structural
+       Transformation of the Public Sphere?’, edited by Martin Seeliger and Sebastian
+       Sevignani.                                            
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             

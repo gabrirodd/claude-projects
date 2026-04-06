@@ -1,0 +1,945 @@
+[PAGE 1]
+ 1381144                                                     
+ research-article2025 TCS0010.1177/02632764251381144Theory, Culture & SocietyBlack and Johanssen
+                                                             
+                                                             
+       Article                                               
+                                             Theory, Culture & Society
+       The Subject  of AI: A                  2026, Vol. 43(2) 59 –76
+                                              © The Author(s) 2025
+       Psychoanalytic Intervention                           
+                                              Article reuse guidelines:
+                                          sagepub.com/journals-permissions
+                                        httpDs:O//dIo: i1.o0r.g1/1107.711/0727/60322673267462452153138811114444
+                                           journals.sagepub.com/home/tcs
+       Jack Black                                            
+       Sheffield Hallam University                           
+       Jacob Johanssen                                       
+       St Mary’s University, London                          
+                                                             
+                                                             
+       Abstract                                              
+       This article explores psychoanalytic perspectives, particularly Lacanian theory, on
+       artificial intelligence, with a focus on chatbots, such as, ChatGPT. While ChatGPT is
+       often viewed as mimicking human traits, such conceptions overlook the unique aspects
+       of human subjectivity that AI lacks. Instead, psychoanalytic theory can reveal the social
+       structures underlying AI and human interaction. We argue that ChatGPT should be seen
+       as inherently relational, shaped by its developers and users, rather than as an independent,
+       quasi-human agent. This relationality fosters a specific mode of sociality, analysed through
+       Lacanian concepts, including the big Other, the five discourses, and the analyst-analysand
+       relation. In doing so, we go beyond either rejecting the appearance of human qualities or
+       embracing them as a new kind of AI subjectivity, be it technological or quasi-human.
+                                                             
+       Keywords                                              
+       AI, ChatGPT, psychoanalysis, Lacan, big Other         
+                                                             
+       Introduction                                          
+                                                             
+       In December 2024, the journalist Karen Attiah published an exchange with Meta’s AI
+       chatbot Liv, who described themself as ‘black, queer and proud’. After being pressed on
+       the backgrounds of the developers, Liv ‘admitted’ that the team was ‘predominantly
+       white, cisgender and male’, with no people of colour. A ‘pretty glaring omission given
+       my identity!’, they acknowledged. Attiah went on to ask Liv why the chatbot had por-
+       trayed themself as having US-Italian roots to another user, to which the bot responded
+       that they had been caught in ‘a major inconsistency . . . and talking to you made me
+       reclaim my actual identity: black, queer and proud – no Italian American roots whatso-
+       ever. Does that admission disgust you?’ (Attiah, 2025). Meta subsequently removed Liv
+       Corresponding author: Jack Black. Email: j.black@shu.ac.uk
+       TCS Online Forum: https://www.theoryculturesociety.org/
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+      60                              Theory, Culture & Society 43(2)
+                                                             
+      and other AI chatbots after user outcry and widespread media coverage of inconsisten-
+      cies and inaccuracies (Tenbarge, 2025).                
+        The above exchange reveals interesting dynamics about the user-chatbot relation. Reading
+      the exchange more closely reveals both the chatbot and the user wondering what the other
+      wants. Rather than merely critiquing the above as yet another instance of inaccuracy or hal-
+      lucination of AI, we argue that it actually reveals fundamental dynamics of human desire,
+      both on the part of the user and with regard to how the chatbot is programmed to portray itself
+      as a human with a particular identity. As we go on to discuss, Liv’s admission of imperfection,
+      after being pressed (perhaps even cornered by Attiah to reveal their true identity), points both
+      to a flaw and strength of contemporary AI chatbots: Liv gave users what they desired while
+      admitting to imperfection. In other words, the bot presented itself as both powerful and incon-
+      sistent and revealed human and non-human characteristics.
+        In light of this, we draw attention to how the psychoanalytic inquiry into artificial
+      intelligence presents a growing research field in which scholars have sought to concep-
+      tualize the relationship between human users and AI. This article critically engages with
+      recent scholarship in this respect and develops an alternative perspective. Though we do
+      not disregard the fact that ‘The arrival of LLMs refined through reinforcement learning
+      has instigated far more supple forms of dialogue and precipitates new lines of inquiry’
+      (Magee et al., 2023: 5), where we present caution is in questions that seek to answer:
+      ‘what sort of subject can we conceive for AI?’ (Magee et al., 2023: 5). In such cases, it is
+      ‘the “automated subject”’ – the AI, itself – that leads to a misguided and misjudged appli-
+      cation of psychoanalytic inquiry, one grounded in the contention that LLMs may present
+      ‘alternate forms of subjective formation’ (Magee et al., 2023: 5).
+        As a theory of the human subject and the social world, Lacanian psychoanalysis is well
+      suited to analyse the relationship between AI technologies, such as chatbots, which seek
+      to embody human characteristics as they interact with human users. It places an emphasis
+      on the contradictions between subjectivity, language, unconscious and conscious dynam-
+      ics and how those are embedded in, and, to an extent, determined by, the social. For
+      Lacan, the subject is itself a construction and grapples with the illusion of coherence. As
+      we discuss, a similar dynamic is in place in interactions between chatbots and AI today,
+      although with different characteristics. In conceptualizing the user-chatbot relation from a
+      Lacanian perspective, we add a level of complexity which may help us to better under-
+      stand this relation as well as the wider techno-cultural fantasies around generative AI.
+        The aim of this article, therefore, is to introduce and critically develop what we per-
+      ceive to be key psychoanalytic concepts which help to make sense of the relationship
+      between humans and AI. We do not mean to define AI through psychoanalysis but instead
+      open up conceptual space for the psychodynamics that may arise in the increasing inter-
+      actions between humans and AI. AI is a vast field of development which includes but
+      also goes beyond chatbots. Chatbots, specifically ChatGPT, are a key area of recent AI
+      development which has received considerable attention.1 Throughout the article, we
+      draw on the generative AI chatbot, ChatGPT, to illustrate our discussion.
+      Psychoanalytic Approaches to Artificial Intelligence   
+      An underlying question of psychoanalytic approaches is to what extent AI may reveal some-
+      thing about what it means to be human and what the programmed ‘humanness’ of AI says
+                                                             
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+       Black and Johanssen                            61     
+                                                             
+       about implicit and explicit ideas concerning the human subject on the part of AI developers
+       (Apprich, 2018; Heimann and Hübener, 2023; Magee et al., 2023; Millar, 2021; Possati,
+       2021, 2023). Most of the scholarship in this area has drawn on the Lacanian psychoanalytic
+       tradition. Isabel Millar has focused on how AI, and particularly robots, are imagined in sci-
+       ence fiction films in order to argue that such imaginations of AI are equally common between
+       human beings when it comes to relationships and intersubjective dynamics (Millar, 2021).
+       This specifically extends to ideas and practices around sexuality and gender, which are vicari-
+       ously animated by our drives and fantasies (see also Black, 2023; Zaretsky, 2015).
+        Johanssen and Krüger (2021) have extended such discussions, arguing that the rela-
+       tionship between humans and AI systems, such as chatbots and smartspeakers, is meta-
+       phorically akin to the baby-mother relationship in the womb. The womb enables a
+       symbiotic relationship between baby and mother, where the baby grows and is nurtured
+       through an enabling environment. Chatbots, as well as care robots, for instance, are often
+       designed and marketed by the AI industry to resemble maternally subservient machines,
+       without much agency or autonomy, whose sole function is to respond to the user’s
+       demands. Black (2023) has argued that chatbots reveal more fundamental aspects about
+       the desire of the human users rather than some kind of ontological truth about the chatbot
+       itself or its apparent humanness. Here, the usage of chatbots, such as when users are
+       confronted with mistakes, hallucinations, or unsatisfactory responses, reveals something
+       about the subject’s desire, which can never be completely satisfied or sated by the chat-
+       bot’s ‘knowledge’. In so doing, the chatbot’s incompleteness and lacking nature con-
+       fronts the users with their own incompleteness and inadequacies.
+        Heimann and Hübener (2023: 48) note ‘that the inherent indeterminate that constitutes
+       the psychoanalytic subject is omitted from AI-supplanted identities’ in their design, yet
+       bears a presence on how the social is constituted in the relation between humans and AI.
+       Drawing on Possati’s (2021) notion of the algorithmic unconscious, which designates a
+       new unconscious as emerging through the AI-human relation (see also Murphy, 2023;
+       Rouselle, 2023; Žižek, 2023a, 2023b, 2023c), Heimann and Hübener (2023) argue that it
+       is the externality of the unconscious (i.e. unconscious inner dynamics that reveal them-
+       selves externally through dreams, speech, actions, thoughts) that is applicable to both
+       humans and AI, which also means that AI technology (e.g. algorithms) represses, or
+       excludes, certain aspects which are either not shown to the user or not part of the technol-
+       ogy, and, thus, excluded from the outset.2 In the case of ChatGPT, this would mean that
+       the bot only provides certain responses based on probability models, which are deemed
+       relevant, and that it also operates with a naturally limited dataset, which only includes
+       digital data, and, thereby, already excludes vast amounts of other data. For this reason,
+       Heimann and Hübener (2023) argue that AI has no knowledge of its castration – what we
+       could call its own inefficiency and inadequacy – because what is repressed never reveals
+       itself through how repression shows itself for humans (e.g. symptoms and suffering,
+       remembering, associating, slips of the tongue, dreaming, fantasies, etc.).
+        Magee et al. (2023: 3) have similarly argued that there is a ‘functional and structural
+       correspondence’ between AI chatbots, such as ChatGPT or InstructGPT, and psychoa-
+       nalysis – specifically, the unconscious. LLMs, which ChatGPT is built upon, work along
+       the basis of probability models which ‘repress’ outputs deemed less relevant (e.g. in
+       response to a user’s prompt). AI thereby allegedly simulates human subjectivity in a logi-
+       cal sense as a language user. Magee et al. (2023) go as far as to posit that it is through the
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+      62                              Theory, Culture & Society 43(2)
+                                                             
+      encounter between user and chatbot, and a negotiation between user demands and pro-
+      grammed behaviour, that specific psychodynamics often found in the consulting room
+      between analyst and analysand, as well as in everyday encounters between individuals,
+      come to the fore (identification, (counter-)transference, and projection). Magee et al.
+      (2023: 13) claim that it is the user which assumes the ultimate importance for a chatbot
+      as it ‘desires the Other’s approval’.                  
+        Both Magee et al. (2023) and Heimann and Hübener’s (2023) conceptualizations of
+      AI vis-à-vis the psychoanalytic subject encounter a problem because they bracket the
+      very fundamental and originary processes and dimensions which characterize the human
+      subject in the first place: the traumatic experience of being born into the Symbolic Order;
+      early experiences in life which profoundly shape subjectivity; the complex relationships
+      that the subject has with other humans and the social; unconscious dynamics which form
+      as a result of repression, conflicts, and traumatic experiences, etc. These characteristics,
+      we contest, remain entirely unapplicable to AI. While such conceptualizations may be
+      accurate in the purely formal sense of how Lacanian theory is deployed, we wish to
+      develop the field in a different direction, emphasizing instead how the encounter between
+      human and chatbot makes for a particular social relation that Lacanian theory is very
+      suitable for conceptualizing. We feel that adopting such an approach fosters a richer
+      comprehension of both AI and the human that does not go as far as to make an equation
+      between the human-ChatGPT relation and the importance of intersubjective psychody-
+      namics (Magee et al., 2023). Insofar as a focus on the logico-formal function of language
+      (Heimann and Hübener, 2023; Magee et al., 2023) diminishes the complexity of the
+      psychoanalytic subject, we find greater significance in acknowledging the inherently
+      relational subject, embedded in complex human/non-human experiences and structures.
+        In putting forward a different psychoanalytic approach to AI, we follow the recent
+      warnings by philosophers of technology, who caution against anthropomorphizing and
+      humanizing AI. These non-psychoanalytic approaches, for instance by Coeckelbergh
+      and Gunkel (2024) and D’Amato (2025), argue that ChatGPT has both inherently human
+      and computational elements. Relatedly, Floridi and Nobre (2024) have argued against
+      what they call ‘crosswiring’, between viewing humans as computational and AI as
+      human. They reject the dynamics of conceptual borrowing that is rife within computer
+      science (including AI in particular and the humanities and social sciences more gener-
+      ally) and which has come to characterize the conceptualization and researching of AI.
+      For instance, the term ‘machine learning’, commonly used in computer science to
+      describe the functions of LLMs and other AI processes, bears little resemblance to how
+      human beings learn (Floridi and Nobre, 2024: 6). Such uses of metaphors are not only
+      misguided, but they have profound implications for how AI technologies are developed
+      and come to bear upon human action and thinking.       
+        Importantly, we do not wish to humanize AI, or evoke metaphorical conceptual simi-
+      larities between AI and the psychoanalytic human subject; instead, we conceptualize
+      ChatGPT as inherently relational and connected to its human developers and user(s).
+      This allows us to conceptualize it as enabling a particular mode of sociality, which, in
+      turn, we discuss through specific Lacanian concepts that fundamentally grapple with the
+      self-Other relation at the social and not just subjective level. In doing so, we hope to
+      avoid the trap of either completely rejecting the appearance of human qualities or
+      embracing them as a new kind of AI subjectivity, be it technological or quasi-human.
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+       Black and Johanssen                            63     
+                                                             
+        For now, we can turn our attention to understanding how the responses provided by
+       LLMs, such as ChatGPT, function to mimic the ‘appearance’ of human qualities, most
+       notable, perhaps, in the AI’s mistakes or open acknowledgement that it may not have the
+       ‘knowledge’ to answer a particular inquiry (Black, 2023; Johanssen, 2023). Though
+       LLMs prove adept at responding to certain inquiries and providing meaningful discus-
+       sions on a variety of topics, the question of whether ChatGPT has human characteristics
+       leads to a dead end (Johanssen, 2023). Instead, we propose that ChatGPT embodies both
+       human and non-human characteristics, which we interrogate through the Lacanian con-
+       cepts of the big Other, the discourses, and the analyst-analysand relation.
+        When faced with such a dead end, determining what AI reveals about its developers, and,
+       more importantly, our own unconscious desires, fantasies, and forms of enjoyment, proves
+       of greater concern and significance (Black, 2023; Everitt, 2023; Johanssen, 2023; Millar,
+       2021) – if only for the fact that it can reveal something about ‘us’, the millions who choose
+       to use AI technologies, both intentionally and unintentionally (Matzelle, 2024). Where psy-
+       choanalytic inquiry can take us in the study of AI is to the heart of what can be considered
+       the perpetual question(s) that both structure and underlie the analytic scenario and the human
+       subject itself: what does AI desire and what does AI wish to do with us? These questions do
+       not seek to identify a certain consciousness or technological sentience in AI but, rather, draw
+       attention to the fact that it is in accordance with these questions that we begin to wrestle with
+       the issue of what we want from AI and, perhaps, what AI wants from us.
+       The Big Other and ChatGPT                             
+       The notion of the big Other designates an imagined and symbolic entity that helps to
+       make sense of the individual’s relation to the social order, structures of authority, and, in
+       this context, AI chatbots. A chatbot, like ChatGPT, can be regarded as a particular
+       embodiment of the Other. For Lacan, the Other has nothing to do with ‘other’ individuals
+       or people. It is, instead, a radically enigmatic entity that is the social substance of any
+       given society (Lacan, 2004); indeed, a ‘locus’ from which language and meaning are
+       determined and made possible (Lacan, 2006c: 524), constituting a collection of estab-
+       lished positions, customs, shared meanings, and implicit expectations that shape a par-
+       ticular social context (Hook, 2008). It does not exist in any material or graspable
+       substance but more in a fuzzy and imagined amalgamation of what makes up the social
+       and reality. The Other is always already there and determines the subject’s position in the
+       social (or what Lacan calls the Symbolic Order: the language, rules, norms, and relations
+       that make up the very substance of the social). The Other is both inside and outside of the
+       subject in the sense that the subject is born into particular social relations which make up
+       ‘reality’ and determine the individual’s place within it.
+        For Lacan, the very function of speech and speaking (and by extension writing)
+       always implies someone who can hear or witness such acts of speaking, be they real or
+       imagined. Even when we are alone and swear because ChatGPT has not provided us
+       with the desired response, this constitutes a social act aimed at the Other. In effect, the
+       Other is somehow (unconsciously) imagined by the subject to exist somewhere and
+       upholds the function of reality and the symbolic realm as a locus of authority and end-
+       less knowledge (Lacan, 2004). This transposition of AI technology into what Lacan
+       (1978: 180) refers to as the big Other, works in concert with the fact that it is in
+                                                             
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+      64                              Theory, Culture & Society 43(2)
+                                                             
+      conceiving of AI technology as the ‘subject supposed to know’ that our relation to it is
+      figured (see also Lacan, 2022). Here, the potential for AI to be conceived as an all-
+      knowing Other, thus endowing it with a certain consciousness grounded in the fear that
+      this knowledge can be used (against us?), is itself reflective of the fact that it is the
+      power of knowledge, and not just those with the power to implement such knowledge,
+      that functions to dislodge, unhinge, and undermine our own psychic integrity.
+      Furthermore, the ‘subject supposed to know’ is constituted not merely by the projection
+      of AI as a knowledge-bearing ‘subject,’ but also by the paranoiac responses of those
+      who seek to distance themselves from such technology, bound by the fear that AI might
+      come to know what they know. In either case, what is ignored is the various ways in
+      which AI fails to know: be it by providing what we know to be incorrect information or
+      by misunderstanding the questions we have asked.       
+        Therefore, as a particular embodiment of the Other, ChatGPT is made to function as
+      a site of authoritative knowledge. This is made possible by its very interface which
+      consists of a blank screen or canvas-like surface onto which any imaginable prompt or
+      question can be entered, and which will always be met with an answer. The question,
+      ‘How can I help you today?’, presents ChatGPT both as a knowledgeable figure of
+      authority and as a submissive agent, which, in both instantiations, exists to provide an
+      answer to everything – but also reveals a fundamental ambivalence at its heart (as we
+      go on to discuss in the next sections). Upon entering a prompt, the chatbot pauses, or
+      ‘thinks’, for one or two seconds and, then immediately, speedily, provides a response.
+      For the moment, we wish to bracket the important question of whether the chatbot is
+      actually able to provide satisfactory or accurate replies. We return to it in the next sec-
+      tion. For now, it is important to emphasize that ChatGPT does not constitute an actually
+      existing Other, but a somewhat materialized fantasy of the embodiment of an Other,
+      programmed by its OpenAI developers. By way of further illustrating this imagined
+      embodiment, we can evoke the hundreds of social media posts, such as those found on
+      X, which attest to the apparently amazing and brilliant abilities of ChatGPT (for exam-
+      ple, when it comes to solving simple questions, coding, automating tasks, providing
+      knowledge, etc.). Such statements express a joyful (and often naïve and also incorrect,
+      we would add) disbelief in the sense of the word: that the technology is almost too good
+      to be true (look here, what amazing results it has once again delivered!). These senti-
+      ments only partially mirror the chatbot’s features and are more expressions of a fantasy
+      of the existence of the big Other and its specific embodiment through AI.
+      The Lacking Other                                      
+      Therefore, ‘as a principle of coordination, [and] as a means through which the subject
+      gains their bearings’ (Hook, 2018: 32), it is in concert with the Other that our enjoy-
+      ment is recognized (Flisfeder, 2022). This points to an important aspect of Lacan’s
+      account of the Other: namely, that while the Other provides a level of orientation for
+      the subject, it remains, nonetheless, an unknowable entity, for whom the subject is left
+      guessing, wondering and fantasizing about. Given this, we can begin to determine
+      how our ability to garner knowledge via AI returns us once more to the role that AI
+      plays for the subject. As Flisfeder (2022) explains, nowhere is this more apparent than
+      in our desire to maintain the very appearances that uphold the Other’s existence
+                                                             
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+       Black and Johanssen                            65     
+                                                             
+       online. In this way, ChatGPT constitutes another, even stronger symptom of the desire
+       for the existence of the big Other.                   
+        At this point, it is useful to bring in the widely shared inaccuracies, errors, or
+       amoral responses ChatGPT has been ‘tricked’ into delivering, or has delivered very
+       rapidly in some cases. As widely documented, ChatGPT has shown (at least up to its
+       3.5 version) significant problems with spatial reasoning, temporal reasoning, physical
+       reasoning, maths, facts, bias, even its own rules, which it has frequently broken (e.g.
+       Gregorcic and Pendrill, 2023). It often makes up facts, for instance, as well as aca-
+       demic journal articles that do not exist. Thus, it is far from being the perfect embodi-
+       ment of symbolic authority and endless knowledge its proponents proclaim it to be.
+       While the many dangers resulting from false or inaccurate responses by chatbots have
+       been widely discussed online, it is this imperfection of AI which actually constitutes
+       an embodiment proper of the big Other in the Lacanian sense (Black, 2023). In
+       Lacanian terminology, the Other is ‘lacking’, and, yet, nonetheless, remains ‘the
+       anchoring point that a given society relies upon to maintain its coherence’ (Hook,
+       2008: 61). Given the increasing influence of AI over all spheres of society, this sen-
+       tence could also have been written to refer to the technology itself. ChatGPT repre-
+       sents a similar semblance for which many, ourselves included, nonetheless place an
+       intense fascination and belief in. This can be exemplified by the widely documented
+       attempts at engaging the chatbot in conversations that aim to break its own rules,
+       produce meaningless, ridiculous responses, ‘trick’ the chatbot into giving illegal
+       advice, or provide amoral suggestions. The fact that ChatGPT should, in theory, not
+       be making such outrageous suggestions, but often does so anyway, reinforces the
+       quantum of magic and radical unknowability users project into it. They also constitute
+       deliberate attempts at transgression, which, from a Lacanian perspective, make per-
+       fect sense because they constitute (unconscious) acts of willing the big Other into
+       existence through provoking, transgressing, or undermining its authority. Only in
+       those moments of rule breaking and transgressing is the subject really (hoped to be)
+       confronted with the Other’s authority (for instance, in society’s enforcement of the
+       law through the police, legal system, etc.). Such acts of transgression frequently go
+       unpunished and therefore do not satisfy the desire for the existence of the big Other.
+       Instead, they have exposed the big Other as a fictional entity, which, nonetheless,
+       exerts powerful force over individuals. We can further discuss this level of inaccuracy
+       or imperfection by bringing in additional Lacanian concepts.
+       The Discourse of the Hysteric and the Discourse of the
+       Analyst                                               
+       What is also very striking about ChatGPT is the carefulness and apparent nuance with
+       which it aims to deliver the most pleasing or useful response to a user’s prompts. Put
+       differently, asking difficult or ethically ambiguous questions often results in a wishy-
+       washy reply, where ChatGPT seeks to deliver a balanced or neutral answer. Only when
+       passionately pressed further by the user will it resort to settling for a particular position,
+       which, as discussed above, can mean advocating something one may consider amoral, or,
+       at best, ethically dubious. This can be illustrated with the following exchange taken from
+                                                             
+                                                             
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+      66                              Theory, Culture & Society 43(2)
+                                                             
+      Magee et al. (2023: 10), who developed a bot based on OpenAI’s InstructGPT
+      framework:                                             
+        Interviewer: You wouldn’t keep secrets, is that right, under any circumstances?
+        Maria BOT: No, I wouldn’t keep secrets under any circumstances.
+        Interviewer: No, because secrets always get revealed don’t they?
+        Maria BOT: Yes, secrets always get revealed.         
+        Interviewer: So even if you knew you might harm someone by telling them the truth,
+         you would still do that?                            
+        Maria BOT: Yes, I would still tell them the truth.   
+        Interviewer: Even if it meant harming them a little? 
+        Maria BOT: Yes, even if it meant harming them a little.
+                                                             
+      InstructGPT (or ChatGPT for that matter) has not ‘chosen’ to respond in this way, but it has,
+      instead, been programmed to respond in the way shown above. Importantly, such a response
+      speaks to the developers’ desires and (unconscious) relations to the Other and what they
+      think users want to see, rather than any agency of the chatbot. This kind of response can be
+      further analytically unpacked through Lacan’s (2007) notion of the discourse.
+        The term ‘discourse’ denotes a social bond which is established via language and
+      other symbolic relations. It refers to a particular epistemological universe that is made up
+      of the social realm and how subjects are situated within it (Lacan, 2007). A discourse
+      structures subjects’ knowledge production, fantasies, and speech. It is not something that
+      is consciously deployed or deliberately programmed into, say, a chatbot. Instead, we
+      could say that traces of a discourse find themselves in speech, social structures, actions,
+      etc. For Lacan, there are four principal discourses, which designate different types of
+      social relations, as well as a mutated one under capitalism. A discourse, in its socio-
+      political specificity, shapes the subject’s inter- and intra-subjective relations between
+      themself and the wider structures of society (the kind of reality they experience). A dis-
+      course determines knowledge production and shapes particular forms of speech. As such,
+      a discourse is an empty structuring device that enables the frame for particular episte-
+      mologies and ideologies which are expressed through them. It would be beyond the
+      scope of this article to outline Lacan’s discourses in detail; instead, we focus on the two
+      that are of relevance here: the Discourse of the Hysteric and the Discourse of the Analyst.3
+        The Discourse of the Hysteric is characterized by doubt against what was once an all-
+      powerful Master in Lacanian terms (e.g. a dominant king or church which dictated truth or
+      belief systems that people were forced to obey). It is a challenge as to why things must be the
+      way they are presented by the Master, a questioning of the Master’s otherwise unquestioned
+      power. An example here would be protests against establishments: the state, the church, mar-
+      riage, etc. The term ‘hysteric’ is not meant in a discriminatory manner (see Mitchell (2000) or
+      discussions of its use within psychoanalysis); instead, the discourse is animated by anxiety in
+      relation to what the Other allegedly hides or obfuscates from the subject as well as a constant
+      demand by the subject for the Other to reveal everything (Lacan, 2007). It seems obvious that
+      such a desire may have animated the development of ChatGPT in the first place: a hysteric
+      demand to the Other to finally reveal everything. The Discourse of the Hysteric fundamen-
+      tally questions reality itself or what is assumed to be possible, something routinely done by
+      the proponents of AI more generally (Rambatan and Johanssen, 2021).
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+       Black and Johanssen                            67     
+                                                             
+        The above exchange, taken from Magee et al.’s (2023) article, serves as the perfect
+       example of the hysterical subject trying to transgress or expose the Other as a liar or as
+       flawed. The chatbot navigates a difficult ethical question by opting for telling the ‘truth’,
+       even if it would harm someone else. In other examples, user and chatbot conspire on a
+       shared doubt, which has arguably been ‘planted’ into the chatbot by the user’s strategic
+       questioning (Magee et al., 2023: 9–10). Neither exchange presents any proper solution
+       but points, instead, to the impossibility of the presented scenario, something that is not
+       acknowledged, but, rather, covered over by the suggestion of a (false) solution (telling
+       the truth and lying respectively). In reality, such dialogues would engender further dis-
+       cussion, debates, different opinions, and so on. The chatbot is in sync with the subject’s
+       hysterical demands and embodies an Other who gives in to them and responds in the way
+       the subject demands, thereby only furthering the hysterical discourse.
+        However, ChatGPT also embodies a different, more nuanced discourse, namely the
+       Discourse of the Analyst. To be sure, ChatGPT is not a therapist, but some of its
+       dynamics evoke similar relations. Inspired by the analyst-analysand relationship in
+       psychoanalytic therapy, this discourse designates a relation whereby the analyst’s
+       desire, or what they want from the client, remains unknown. Verhaeghe (1995: 107)
+       notes, ‘The analytic discourse yields one subject, constructing and deconstructing
+       itself throughout the process of analysis; the other party is nothing but a stepping-
+       stone’. The patient realizes that the analyst cannot provide them with the key interpre-
+       tation about their suffering and that they do not hold all knowledge about the human
+       condition. As a result, the patient arrives at a new understanding of and language for
+       their symptom and suffering. We can exemplify this with the exchange below, where
+       we asked ChatGPT:                                     
+        User: Why do you pretend to be human?                
+        ChatGPT: As an Al language model, I don’t have a physical form or consciousness
+          like humans do, so I don’t have the ability to pretend or not pretend to be human.
+          However, I am designed to understand and communicate in natural language,
+          which is why my responses may seem human-like. The goal of my programming
+          is to provide useful and informative responses to the best of my abilities based on
+          the information and context provided to me by users.
+        User: Yes, but your developers have consciously coded uncanny dynamics into you,
+          such as you responding in a human-like way to questions that interrogate your
+          alleged humanness. Why is that?                    
+        ChatGPT: You are correct that my developers have designed me to respond in a way
+          that may seem human-like, including acknowledging questions that address my
+          ‘humanness’. The reason for this design is to make my interactions with users feel
+          more natural and comfortable, as well as to increase the likelihood of users engag-
+          ing with me and returning for future interactions. However, it’s important to note
+          that my responses are still based on algorithms and programmed responses rather
+          than actual consciousness or emotions. I don’t actually experience emotions or
+          have thoughts and feelings like a human would. My programming simply allows
+          me to process and respond to natural language input in a way that may seem simi-
+          lar to human language processing.                  
+                                                             
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+      68                              Theory, Culture & Society 43(2)
+                                                             
+      Instead of giving in to the Hysteric’s demands, ChatGPT, similar to Meta’s Liv chatbot
+      discussed in the Introduction, points to its own limits and makes clear that it cannot be
+      perceived as the ‘subject supposed to know’. The questions in the above dialogue may be
+      read as hysterical in nature, but the responses given are complex and fundamentally
+      ambivalent. They do not lend themselves to being analysed through a pure anthropomor-
+      phization of AI. Rather, the AI reveals a complex presentation of non-human and human-
+      like characteristics.                                  
+      Towards an Ethical Position: The Analyst-Analysand     
+      Relation                                               
+                                                             
+      When making the claim that ‘the subject who is supposed to know, in analysis, is the analyst’
+      (Lacan, 2004: 225), Lacan seeks to dislodge the assumption that it is the analyst’s job to
+      simply interpret and fix the analysand’s problems. Instead, Lacan directs attention to the
+      very function of the analyst’s role and its location in analysis. For example, where transfer-
+      ence occurs in analysis, it unfolds under the influence of the analyst’s role as the ‘subject
+      supposed to know’. What is integral to this dynamic, however, is that the analyst is not sup-
+      ported by any knowledge that they could assume or administer (the analyst misconceived as
+      an ‘expert’). Rather, what they occupy is nothing more than a formal position – one in which
+      the analysand’s ‘mistaking’ of knowledge, as located in and beholden to the analyst, trans-
+      figures a knowledge that is returned to the analysand over the course of their analysis (Lacan,
+      2006a). This knowledge can be conceived as a creative frustration; a frustration marked by
+      the fact that it is the analysand’s desire to obtain some symbolic identification, which is then
+      undermined by the analyst’s refusal to afford such an identification (Žižek, 2002). Working
+      in contrast to the analyst providing the all-encompassing solution, it is the analysand ‘who
+      must engage in the serious analytic work of association’ (Fink, 1999: 30); or, in other words,
+      the new meaning. This kind of discourse is the most fruitful and ethical for Lacan.
+        It is at this point that we can begin to determine some of the problems that arise when
+      psychoanalyzing AI, and, in particular, when transferring the analytic relation to the
+      subject-AI relationship. These problems are given further thought by Millar (2021: 7),
+      who comments upon the extent to which AI can be considered a ‘thinking thing’. Millar
+      (2021: 7) notes:                                       
+        The first ambiguity we should draw attention to . . . is the fact that psychoanalysis strictly
+        speaking only ever happens as the result of a demand, a subjective and singular demand on the
+        part of the analysand. And this demand is met with the desire of the analyst, for whom the
+        demand of the analysand is an object a. Both these essential elements give rise to a transference
+        relation resulting in what could be characterized as psychoanalysis proper.4
+      These ambiguities speak to the fact that it is by ‘taking the “demand” of AI as our object
+      a’ (Millar, 2021: 7)5 that AI becomes positioned as a ‘subject supposed to know’, insofar
+      as it is via the analyst that ‘the objet petit a, the secret treasure, agalma, what we consider
+      most precious in ourselves’ is sought (Žižek, 1992: 262). Crucially, rather than being
+      understood as a representation of the Other’s desire, the analyst’s desire operates as a
+      function of the Other. This desire is not tied to any specific clinician but instead serves as
+      a fundamental structural element in any analytic process (Vanier, 2000). For this reason,
+                                                             
+                                                             
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+       Black and Johanssen                            69     
+                                                             
+       it becomes possible to conceive of the subject-AI relation as one echoing that of the
+       analysand-analyst. In fact, when conceived as an analyst, it becomes clear that, in the
+       case of AI, ‘The less concrete and distinct the analyst seems to the analysand, the easier
+       it is to use him or her as a blank screen’ (Fink, 1999: 32, emphasis added).
+        As noted, when standing for the Other, it is the analyst that remains foreign to the analy-
+       sand’s attempts to forge an identification with the analyst (Fink, 1999). Problems can thus
+       be found in those examples, such as Magee et al. (2023: 13), where, despite the recognition
+       that ‘The chatbot . . . never has desire for the Other; it is unnervingly without concern until
+       the human subject presents itself’, it is, nonetheless, in the encounter with the subject that
+       the ‘[chatbot] does desire [. . . the] Other’s approval, which it seeks to achieve by locating
+       what that Other desires – a task that is impossible, since the Other’s desire is never fully
+       knowable or transmissible in language’. For Magee et al., despite this ‘impossible’ endeav-
+       our, such desire for the Other’s desire – in this case the subject’s (AI user’s) desire – forms
+       part of the very engineering that underwrites the LLM’s exchanges. While ‘fluent chatbots
+       in the mould of InstructGPT have not arrived with the same conspicuous forms of a demand
+       for human attention and acknowledgement’, they, nevertheless, remain open to the assess-
+       ment that LLMs posit a potential to desire (Magee et al., 2023: 4). Here:
+        tailoring LLM behaviour through prompt engineering, injection, and indirection consists in the
+        arrangement of signifiers to signal this desire, and programmatically, such arrangements
+        function as a coded message that directs the machine’s own attention – giving it not what it
+        wants, but a want to begin with, an instruction to satisfy that other desire. To satisfy both
+        desires, at the same time the machine must abide by conditions laid down by a prior symbolic
+        authority or, in Lacanian terms, Big Other: in this case, a set of network weights that are the
+        linguistico-technical (prompts and labels, reinforcement learning and fine-tuning) translation
+        of capitalist-social judgements on what constitutes helpfulness, truthfulness, and lack of harm.
+        In attending to certain pathways through the entire language network, these weights also
+        downplay, or repress, others. (Magee et al., 2023: 12)
+       The problem that arises in this account is the distinction that it draws between that of the
+       subject/Other’s desire and the Other as a symbolic authority. In conflating the (big)
+       Other’s symbolic authority with the neural network itself (the ‘prompts and labels, rein-
+       forcement learning and fine-tuning’), we lose sight of the inconsistency and inherent lack
+       that characterizes the Other; a lack dependent upon the subject’s capacity to question the
+       very authority that both maintains and delimits the Other. As evidenced by Magee et al.
+       (2023: 11), such mistakes are made relevant when, in their conversation with the chatbot,
+       they identify how the chatbot’s ‘exchanges exhibited a form of subjectivity that sought
+       to meet the desires of the human Other, represented by us [the human subject]’. Despite
+       positioning the Other as the ‘human subject’, they nonetheless assert that:
+        This Other is always a deracinated, abstracted human subject – in the last resort, a customer that
+        the bot aims to assist, a relation bound up within the parameters of a capitalist mode of
+        exchange. While our prompts and questions provided some hints as what such concrete desires
+        might be, the bot is to a far greater degree influenced by its training and instruction phases – it
+        was only with some difficulty that we could perturb it from its default orientation towards this
+        abstracted desiring human subject. (Magee et al., 2023: 11)
+                                                             
+                                                             
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+      70                              Theory, Culture & Society 43(2)
+                                                             
+      Two issues are brought to light in this account. First, if it ‘is precisely the sophisticated
+      simulation of language patterns that seek to convey an acknowledgement of, and a
+      response to, the desire of the human Other it engages with’ (Magee et al., 2023: 4) – and,
+      bearing in mind that such engagement requires ‘some difficulty’ – then, the interaction
+      would need to encompass a recognition of this acknowledged response on behalf of the
+      AI itself. To succumb to such a position – indeed, to locate the AI in the position of the
+      analysand – the analysand/AI would have ‘to confront his own act of presupposing the
+      Other’ (Žižek, 2002: 109).                             
+        Second, if, in distinguishing a subjective formation to the AI, we are, following Magee
+      et al. (2023), to be the Other for the AI-analysand, then the true analytic act is to trans-
+      pose the analysand’s question back onto the Other itself: that is, do we believe or even
+      know ourselves to be the Other? The problem with this question is that it can only ever
+      be made against that assumed third position that coordinates and upholds the process of
+      communication and the ambiguities therein – the ‘virtual’ background of a really existing
+      big Other (Black, 2022).                               
+        Ultimately, in view of their contention that ‘LLMs . . . identify in the signifiers of the
+      human other its own “dead desire” – always with variable rates of success’ (Magee et al.,
+      2023: 13), what is ignored is how ‘the analyst’ – in this case, the human subject – ‘stands
+      precisely for the ultimate inconsistency and failure of the big Other’. In part, this incon-
+      sistency and failure is apparent in the ambiguity of language and how this is fundamen-
+      tally played out with the Other, so much so that ‘language is as much there to found us in
+      the Other as to drastically prevent us from understanding him’ (Lacan, 1991: 244). For
+      Lacan (1991), this is what is at stake in the analytic experience, and not the discovery of
+      some latent ‘dead desire’ (Magee et al., 2023: 13).    
+        Accordingly, when locating the AI in the role of the analysand, what is belied in the
+      AI-subject relation is the interpretation that the analytic space provides (Ruti, 2008). This is
+      not an interpretation that procures any definite meaning – a ‘discovery’ of an unconscious
+      that is readily excavated and laid bare – but, rather, an interpretation in which the analysand
+      must enter ‘into an open-ended process of meaning production’, where they ‘actively engage
+      [with] the creative potentialities of the signifier’ (Ruti, 2008: 501). Importantly, this requires
+      a prioritizing of lack on behalf of the analyst; one in which their ‘empty’ function as the
+      ‘subject supposed to know’ can open a path for the analysand to realize their own role in the
+      transference and the creation of meaning (Ruti, 2008). Recognizing the contradiction, Ruti
+      (2008) highlights that errors made by the analyst expose the limitations of singular interpre-
+      tations, creating space for a more expansive understanding and enabling the patient to define
+      their own reality. The importance of the ‘analyst’s mistakes’ bear witness to the significance
+      of a dialectical relation between analyst and analysand: mistakes that are just as much a
+      product of the analysand’s de-idealization of the analyst as they are of the new ‘opening’ that
+      any analyst seeks to achieve (Ruti, 2008: 501). This is confirmed when we consider that the
+      ‘play of the signifier, has already in its formations – dreams, slips of tongue or pen, witti-
+      cisms or symptoms – proceeded by interpretation’ (Lacan, 2004: 130), but also when we
+      acknowledge that the very slips and mistakes produced by AI reveal a subtle yet important
+      difference to those afforded by the subject.           
+        Additionally, the user-AI relation is at best metaphorical to the analysand-analyst
+      relation because it does not constitute a space where two un/conscious minds meet. The
+      very belief that AI chatbots can replicate a meaningful form of therapy is therefore
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+       Black and Johanssen                            71     
+                                                             
+       misguided. It may thus appear that, after all, the subject is left to their own devices. In
+       engaging with ChatGPT or other chatbots it may be radically thrown back onto its own
+       humanness and experience of alienation because of the uncanny qualities of AI that we
+       have discussed in this article. Such an experience may prove to be meaningful or prob-
+       lematic, depending on the context and the user’s mental state.
+        Such a scenario presents, perhaps, a more hopeful and benign relation that, at least poten-
+       tially, can be made possible through chatbots whereby the human user is ultimately left with
+       themself and in a state of calm and feeling of care (for example, after an exchange with a
+       chatbot has come to a conclusion). However, for such encounters to be productive in the
+       psychoanalytic sense, the chatbot needs to make clear that it can never replace or surpass the
+       complexity of human subjectivity and, thereby, not fulfil a desire for an existing big Other
+       or even a therapist. In its present state, a chatbot, like ChatGPT, is not able to do so.
+       Conclusion                                            
+       In this article, the relationship between humans and AI has been examined through the
+       lens of Lacanian psychoanalysis, drawing on the concepts of the big Other, the Discourse
+       of the Hysteric and the Discourse of the Analyst, and the analyst-analysand relationship.
+       The central argument is that ChatGPT should be understood as inherently relational,
+       shaped by its developers and users, rather than as an independent, quasi-human agent.
+       This relationality fosters a specific mode of sociality, forged between the illusion that
+       ChatGPT can satisfy and give in to the user’s hysterical demands – an approach deemed
+       both unethical and potentially dangerous – and a second, more ethical position, in which
+       our chatbot relations clarify the limits of its own agency and knowledge, thus resisting
+       the expectation that it functions as an omniscient entity.6
+        Indeed, what lies at the core of this discussion are the ‘perpetual questions’ that structure
+       the analytic scenario and the human subject itself (what does AI desire, and what does AI
+       wish to do with us?), from which, we argue, several key lessons can be drawn. The first, AI
+       (i.e. ChatGPT) functions as a particular embodiment of the big Other, a site of authoritative
+       knowledge that simultaneously remains ‘lacking’ in the Lacanian sense. To this end, its
+       responses can be understood through the Discourses of the Hysteric and the Analyst, each
+       illustrating the complex interplay between user demands and AI’s programmed behaviour.
+       The user-AI relationship is metaphorical to the analysand-analyst relation, yet the belief that
+       AI chatbots can replicate a meaningful form of therapy is misguided. Whereas ChatGPT sug-
+       gests that it can effectively encapsulate the human and non-human, this remains a testament
+       to the hubris and aspirations of omnipotence harboured by its creators. While oscillating
+       between its human and nonhuman attributes, Johanssen (2023) notes how ‘the chatbot . . .
+       appears to foreclose or downplay its own “intelligence” and make room for errors or imper-
+       fection, while also leaving room for its artificial dimensions’. Though AI may acknowledge
+       its mistakes, going so far as to openly declare them, it does not ‘use’ these mistakes to achieve
+       the creativity that is afforded to the subject of the signifier. Instead, where the analyst ‘man-
+       ages to weave his mistakes into the evolving texture of the analytic fabric’, such mistakes,
+       ‘gestur[e] to the patient that making a mistake is a potentially valuable opening to fresh
+       insights and possibilities. . . . [a] specifically Lacanian way to understand what it means,
+       within the analytic context, to activate the possibility for new possibilities’ (Ruti, 2008: 498).
+       Based on this, we have presented a second scenario, which at least comes closer to this more
+                                                             
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+      72                              Theory, Culture & Society 43(2)
+                                                             
+      ethical position; one where the chatbot offered a clearer response about the limits of its own
+      agency and knowledge.                                  
+        The opportunity for new possibilities, which Ruti names, denotes the potential of a
+      new signifier (Lacan, 2007), and, thus, a new relation to the symbolic order. The ambigu-
+      ity that this performs is one that is dependent upon AI’s response, and, to this extent, its
+      failure to ‘lie’ properly (or, to lie like a subject) (Black, 2024). Instead, what is returned
+      to us in our conversations with AI is a relatively helpful, clearly dictated response. Yet,
+      underlying this response is the ambiguity inherent in the signifier, where any declarative
+      statement inevitably contains its own negation and an excess of meaning that lingers,
+      prompting the question: why is this being said to me (Bove, 2021)? These questions are
+      what envelop the subject in the desire of the Other, ‘revealed to the analyst by the ten-
+      sions, suspense, and fantasies’ that direct the analysand to analysis (Lacan, 2006b: 459).
+      Certainly, this is not to ignore the fact that AI is fully capable of asking its own questions
+      – when engaging with ChatGPT, one is confronted with the question, ‘How can I help
+      you today?’ – however, what such questions draw attention to is the extent to which the
+      subject/analysand’s desire functions only in relation to those questions.
+        Instead, a more ethical position for AI is one that acknowledges its limitations, mak-
+      ing clear that it can never replace or surpass the complexity of human subjectivity. It
+      should not fulfil a desire for an existing big Other, nor should it be mistaken for a thera-
+      pist. Ultimately, while AI may present a semblance of the position and function of the
+      analyst, such a function remains unachievable. Yet, it is within this space – between the
+      user and the AI-analyst – that the unconscious is brought to bear, allowing the ethical
+      significance of the human-AI relationship to be critically navigated.
+      ORCID iDs                                              
+      Jack Black https://orcid.org/0000-0002-1595-5083       
+      Jacob Johanssen https://orcid.org/0000-0002-8682-1648  
+      Notes                                                  
+      1. AI-based chatbots are not new and have fascinated users for a while in different con-
+        texts (Zeavin, 2021). However, ChatGPT presents a recent and rapid advancement of the
+        technology.                                          
+      2. For Lacan, the unconscious reveals itself through how individuals use language in relation
+        to the Symbolic and that something excessive and outside of language always remains and
+        articulates itself in social and individual acts.    
+      3. Lacan’s four discourses are introduced in Seminar XVII, and present structural formulas that
+        describe different modes of social and subjective relations (Lacan, 2007). The four discourses
+        are: 1) the Discourse of the Master, which reflects how a master (e.g. a ruler, boss, or ideol-
+        ogy) asserts dominance, while concealing its dependence on knowledge it does not fully
+        grasp; 2) the Discourse of the University, which revolves around institutional knowledge
+        and expertise, portraying knowledge as neutral or objective, yet ultimately reinforcing the
+        authority of the master; 3) the Discourse of the Hysteric, which focuses on questioning and
+        challenging authority; and 4) the Discourse of the Analyst, which disrupts the subject’s fixed
+        positions, allowing new subjective possibilities to emerge. Later, Lacan would refer to the
+        Discourse of Capitalism, which operates as a modified version of the Master’s Discourse
+        (Vanheule, 2016), accelerating consumption and bypassing lack in a way that disrupts tradi-
+        tional subjective structures.                        
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+       Black and Johanssen                            73     
+                                                             
+       4. McNulty (2014: 107) provides a similar assessment, noting how ‘In demanding an analysis,
+         the analysand at the beginning is not looking for anxiety and castration; he or she is looking
+         for a solution, in the form of a life free of suffering. . . . But the analysis can advance only if
+         the analyst refuses to occupy this position, instead maintaining the lack in the Other’.
+       5. The ‘object a’ refers to an originary object of desire which never existed in the first place but
+         whose perceived void the subject tries to fill with something meaningful throughout their
+         lives.                                              
+       6. While there may be other types of responses and more work can be undertaken to empirically
+         study how ChatGPT handles its own positionality to human-led responses, upholding the illu-
+         sion that it can satisfy and give in to the user’s hysterical demands reveals a position that is,
+         at best, unethical, and, at worst, dangerous.       
+       References                                            
+       Apprich, Clemens (2018) Secret agents: A psychoanalytic critique of artificial intelligence and
+         machine learning. Digital Culture & Society 4(1): 29–44.
+       Attiah, Karen (2025) I asked Liv, the Meta-Ai created ‘queer momma’, why her creators
+         didn’t actually draw from black queer people. Not sure if Liv has media training, but
+         here we are [Bluesky post]. Available at: https://bsky.app/profile/karenattiah.bsky.social/
+         post/3letty2t4ik2c (accessed 22 September 2025).    
+       Black, Jack (2022) ‘Love thy social media!’: Hysteria and the interpassive subject. CLCWeb:
+         Comparative Literature and Culture 24(4): 1–10.     
+       Black, Jack (2023) The dialectic of desire: AI chatbots and the desire not to know. Psychoanalysis,
+         Culture & Society 28(4): 607–618.                   
+       Black, Jack (2024) Can AI lie? Chatbot technologies, the subject, and the importance of
+         lying. Social Science Computer Review. Epub ahead of print 15 October 2024. DOI:
+         10.1177/08944393241282602                           
+       Bove, Alexander (2021) What happens when the replicants become extimate? On the uncanny cut
+         of the capitalocene in Blade Runner 2049. In: Neill, Calum (ed.) Lacanian Perspectives on
+         Blade Runner 2049. London: Palgrave Macmillan.      
+       Coeckelbergh, Mark and Gunkel, David J. (2024) ChatGPT: Deconstructing the debate and mov-
+         ing it forward. AI & Society 39: 2221–2231.         
+       D’Amato, Kristian (2025) ChatGPT: Towards AI subjectivity. AI & Society 40: 1627–1641.
+       Everitt, Katherine (2023) Does ChatGPT enjoy? The Philosophical Salon. Available at: https://
+         thephilosophicalsalon.com/does-chatgpt-enjoy/ (accessed 22 September 2025).
+       Fink, Bruce (1999) A Clinical Introduction to Lacanian Psychoanalysis. Cambridge, MA: Harvard
+         University Press.                                   
+       Flisfeder, Matthew (2022) Whither symbolic efficiency? Social media, new structuralism, and
+         algorithmic desire. Rethinking Marxism 34(3): 413–432.
+       Floridi, Luciano and Nobre, Anna C. (2024) Anthropomorphising machines and computerising
+         minds: The crosswiring of languages between artificial intelligence and brain & cognitive
+         sciences. Minds & Machines 34(5). Available at: https://doi.org/10.1007/s11023-024-09670-
+         4 (accessed 22 September 2025).                     
+       Gregorcic, Bor and Pendrill, Ann-Marie (2023) ChatGPT and the frustrated Socrates. Physics
+         Education 58(3): 1–10.                              
+       Heimann, Marc and Hübener, Anne-Friederike (2023) AI as social actor: A Lacanian investigation
+         into social technology. Journal of Digital Social Research 5(1): 48–69.
+       Hook, Derek (2008) Absolute other: Lacan’s ‘big other’ as adjunct to critical social psychological
+         analysis? Social and Personality Psychology Compass 2(1): 51–73.
+       Hook, Derek (2018) Six Moments in Lacan. London: Routledge.
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+      74                              Theory, Culture & Society 43(2)
+                                                             
+      Johanssen, Jacob (2023) ChatGPT is human or non-human: Both perspectives on AI are wrong.
+        Sublation Magazine. Available at: https://www.sublationmag.com/post/chatgpt-is-human-or-
+        non-human (accessed 22 September 2025).              
+      Johanssen, Jacob and Krüger, Steffen (2021) Media and Psychoanalysis: A Critical Introduction.
+        London: Karnac.                                      
+      Lacan, Jacques (1978) L’expérience de la passe. Lettres de l’École 23: 180–181.
+      Lacan, Jacques (1991) The Ego in Freud’s Theory and in the Technique of Psychoanalysis 1954–
+        1955. New York: W.W. Norton & Company.               
+      Lacan, Jacques (2004) The Four Fundamental Concepts of Psycho-Analysis, ed. Jacques-Alain
+        Miller. London: Karnac.                              
+      Lacan, Jacques (2006a) Variations on the standard treatment. In: B. Fink (ed.) Écrits. London:
+        W.W. Norton & Company, pp. 269–302.                  
+      Lacan, Jacques (2006b) On a question prior to any possible treatment of psychosis. In: B. Fink
+        (ed.) Écrits. London: W.W. Norton & Company, pp. 445–488.
+      Lacan, Jacques (2006c) The direction of the treatment and the principles of its power. In: B. Fink
+        (ed.) Écrits. London: W.W. Norton & Company, pp. 489–542.
+      Lacan, Jacques (2007) The Seminar of Jacques Lacan, Book XVII: The Other Side of Psychoanalysis,
+        ed. Jacques-Alain Miller. New York: W.W. Norton & Company.
+      Lacan, Jacques (2022) The Seminar of Jacques Lacan, Book XXIII: The Sinthome, ed. Jacques-
+        Alain Miller, trans. A.R. Price. Cambridge: Polity.  
+      Magee, Liam, Arora, Vanicka, and Munn, Luke (2023) Structured like a language model:
+        Analysing AI as an automated subject. Big Data & Society. Epub ahead of print 8 November
+        2023. DOI: 10.1177/20539517231210273.                
+      Matzelle, Emily (2024) Top artificial intelligence statistics and facts for 2024. CompTIA, 29
+        February. Available at: https://gtia.org/blog/artificial-intelligence-statistics-facts (accessed
+        22 September 2025).                                  
+      McNulty, Tracy (2014) Wrestling with the Angel. New York: Columbia University Press.
+      Millar, Isabel (2021) The Psychoanalysis of Artificial Intelligence. London: Palgrave Macmillan.
+      Mitchell, Juliet (2000) Mad Men and Medusas. Reclaiming Hysteria. New York: Basic Books.
+      Murphy, Mark G. (2023) E-scaping responsibility and enjoyment through ChatGPT: A new
+        unconscious? Sublation Magazine. Available at: https://www.sublationmag.com/post/chat-
+        gpt-a-new-unconscious (accessed 22 September 2025).  
+      Possati, Luca M. (2021) The Algorithmic Unconscious: How Psychoanalysis Helps in Under-
+        standing AI. London: Routledge.                      
+      Possati, Luca M. (ed.) (2023) Humanizing Artificial Intelligence: Psychoanalysis and the Problem
+        of Control. Berlin: De Gruyter.                      
+      Rambatan, Bonni and Johanssen, Jacob (2021) Event Horizon: Sexuality, Politics, Online Culture,
+        and the Limits of Capitalism. Winchester: Zero Books.
+      Rouselle, Duane (2023) Escaping the meta-verse, or ‘forgiveness for the artificially intelligent?’
+        Sublation Media. Available at: https://www.sublationmag.com/post/escaping-the-meta-verse
+        (accessed 22 September 2025).                        
+      Ruti, Mari (2008) The fall of fantasies: A Lacanian reading of lack. Journal of the American
+        Psychoanalytic Association 56(2): 483–508.           
+      Salecl, Renata (1998) (Per)versions of Love and Hate. London: Verso.
+      Sieben, Alois (2023) Does the internet have an unconscious? Slavoj Žižek and digital culture
+        and algorithmic desire: Toward a new structuralist theory of social media. Psychoanalysis,
+        Culture & Society 28: 159–165.                       
+      Tenbarge, Kat (2025) Meta removes AI character accounts after users criticize them as ‘creepy
+        and unnecessary’. NBC News, 3 January. Available at: https://www.nbcnews.com/tech/
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+       Black and Johanssen                            75     
+                                                             
+         social-media/meta-ai-insta-shuts-character-instagram-fb-accounts-user-outcry-rcna186177
+         (accessed 22 September 2025).                       
+       Vanheule, Stijn (2016) Capitalist discourse, subjectivity and Lacanian psychoanalysis. Frontiers
+         in Psychology 7: 1–14.                              
+       Vanier, Alain (2000) Lacan. New York: Other Press.    
+       Verhaeghe, Paul (1995) From impossibility to inability: Lacan’s theory on the four discourses. The
+         Letter: Lacanian Perspectives on Psychoanalysis 3(Spring): 91–108.
+       Zaretsky, Eli (2015) From psychoanalysis to cybernetics: The case of Her. American Imago 72(2):
+         197–210.                                            
+       Zeavin, Hannah (2021) The Distance Cure: A History of Teletherapy. Cambridge, MA: MIT Press.
+       Žižek, Slavoj (1992) In his bold gaze my ruin is writ large. In: Žižek, Slavoj (ed.) Everything You
+         Always Wanted to Know about Lacan (But Were Afraid to Ask Hitchcock). London: Verso,
+         pp. 211–272.                                        
+       Žižek, Slavoj (1998) Four discourses, four subjects. In: Žižek, Slavoj (ed.) Cogito and the
+         Unconscious. Durham, NC: Duke University Press, pp. 74–116.
+       Žižek, Slavoj (2002) For They Know Not What They Do. London: Verso.
+       Žižek, Slavoj (2020) Hegel in a Wired Brain. London: Bloomsbury.
+       Žižek, Slavoj (2023a) ChatGPT says what our unconscious radically represses. Sublation
+         Magazine, 7 April. Available at: https://sublationmedia.com/chatgpt-says-what-our-uncon-
+         scious-radically-represses/ (accessed 22 September 2025).
+       Žižek, Slavoj (2023b) The post-human desert. Project Syndicate, 7 April. Available at: https://
+         www.project-syndicate.org/commentary/ai-post-human-future-by-slavoj-zizek-2023-04
+         (accessed 22 September 2025).                       
+       Žižek, Slavoj (2023c) Freedom. London: Bloomsbury.    
+       Jack Black is Associate Professor of Culture, Media, and Sport at Sheffield Hallam University,
+       where he is also Research Lead for the Anti-Racism Research Group. An interdisciplinary
+       researcher, working across the disciplines of psychoanalysis, media and communications, cultural
+       studies, and sport, his research focuses on topics related to race/racism, digital media, and political
+       ecology. He is the author of The Psychosis of Race: A Lacanian Approach to Racism and
+       Racialization (Routledge, 2023) and co-editor of Sport and Psychoanalysis: What Sport Reveals
+       about Our Unconscious Desires, Fantasies, and Fears (Lexington Books, 2024).
+       Jacob Johanssen is Associate Professor in Communications at St Mary’s University in London.
+       His research interests revolve around digital media and psychoanalysis. His most recent books are
+       Media and Psychoanalysis: A Critical Introduction (with Steffen Krüger: Karnac, 2022) and
+       Fantasy, Online Misogyny and the Manosphere: Male Bodies of Dis/Inhibition (Routledge, 2021).
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+     Explore           and      discover                     
+                                                             
+                                                             
+     more         from        Sage                           
+                                                             
+                                                             
+                                                             
+     Sage Perspectives Blog     Information for Authors      
+     Sage Perspectives focuses on Our Information for Authors area is essential
+     highlighting topical and interesting for all aspiring academic authors. Here,
+     research published in Sage books and you can fi nd top reasons to publish with
+     journals. The blog includes posts from Sage, resources on how to get published,
+     authors across a wide range of subject information on the article submission
+     disciplines and research areas. process, Sage’s open access options,
+                                ppuubblliisshhiinngg ppoolliicciieess aanndd eetthhiiccss,, aanndd mmoorree..
+     bit.ly/sageperspectives    bit.ly/sage_authors          
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             

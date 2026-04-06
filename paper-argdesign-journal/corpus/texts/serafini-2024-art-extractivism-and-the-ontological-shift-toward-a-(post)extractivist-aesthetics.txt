@@ -1,0 +1,948 @@
+[PAGE 1]
+ 1238330                                                     
+ research-article2024 TCS0010.1177/02632764241238330Theory, Culture & SocietySerafini
+                                                             
+                                                             
+       Global Public Life                                    
+                                             Theory, Culture & Society
+       Art, Extractivism, and the           2025, Vol. 42(7-8) 105 –121
+                                              © The Author(s) 2024
+       Ontological Shift: Toward  a                          
+                                              Article reuse guidelines:
+       (Post)Extractivist Aesthetics      sagepub.com/journals-permissions
+                                        httpDs:O//dIo: i1.o0r.g1/1107.711/0727/60322673267462442142123388333300
+                                           journals.sagepub.com/home/tcs
+       Paula Serafini                                        
+       Queen Mary University of London                       
+                                                             
+       Abstract                                              
+       This article aims to contribute to a (post)extractivist aesthetics at a time of ontological
+       shifts, meaning an aesthetics that focuses on the role of art in struggles for (post)
+       extractivist worlds. First, it argues for a contextualized approach to the use of the
+       extractivism framework and proposes that this framework is particularly productive
+       for approaching the socio-environmental crisis due to the way it allows us to engage
+       with the ontological basis of this crisis. The article then builds on empirical research
+       conducted in Argentina to develop the concept of prefigurative ontological design, one
+       of the key functions, it is proposed, of artistic practice in anti- and post-extractivist
+       movements. In this way, the article aims to expand our understanding of the potential
+       of extractivism as a framework of analysis and contributes to the theorization of the
+       relationship between art and extractivism through the lens of political ontology, offering
+       new concepts for developing a (post)extractivist aesthetics.
+       Keywords                                              
+       aesthetics, Argentina, art, design, extractivism, Latin America, ontology
+                                                             
+                                                             
+       Introduction                                          
+                                                             
+       In the town of Andalgalá, in the northwest of Argentina, a local assembly has been lead-
+       ing the struggle against open-pit mining for over two decades. The murals of Andalgalá
+       brightly display the history of this resistance through images and slogans, and they put
+       forward understandings of nature, territory and prosperity that challenge the extractivist
+       development paradigm: ‘water is worth more than gold’. At the march against the G20
+       summit in 2018, the collective La Ala Plástica descended upon the streets of Buenos
+       Aires with a meters-tall totem of a plant native to South America. The performance, titled
+       Procesión pagana del Plumero de la Pampa (Pagan procession of the Pampas Grass),
+       placed plants at the centre of a struggle against neocolonialism. By means of a
+                                                             
+       Corresponding author: Paula Serafini. Email: p.serafini@qmul.ac.uk
+       TCS Online Forum: https://www.theoryculturesociety.org/
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+      106                            Theory, Culture & Society 42(7-8)
+                                                             
+      carnivalesque, participatory celebration of a plant species considered invasive in Europe,
+      the artists subverted the human-nature hierarchical dualism as well as the figure of colo-
+      nized-colonizer, challenging in this way the ontological basis of the colonial project and
+      of today’s extractivist model.                         
+        As a phenomenon, extractivism is broadly understood as an economic model based on
+      the intensive and extensive extraction of nature, mainly for export. As an analytical
+      framework developed by activists and scholars in Latin America (e.g. Gudynas, 2009;
+      Machado Aráoz, 2015; Svampa and Viale, 2014), it emerged as a way to make sense of
+      the expansion and consequences of extractive activities beginning in the mid-1990s. In
+      recent years, the term extractivism has gained popularity beyond Latin America and the
+      Global South. Furthermore, while studies of extractivism have traditionally mostly origi-
+      nated from the social sciences, both the phenomenon and framework of extractivism
+      have gained attention in cultural studies and literary studies and criticism: recent special
+      issues on extraction and extractivism in Cultural Studies (Junka-Aikio and Cortes-
+      Severino, 2017) and Textual Practice (Szeman and Wenzel, 2021) are notable examples
+      of this. Additionally, we have begun to see studies on the relationship between art and
+      extractivism (e.g. Gómez-Barris, 2017; Merlinsky and Serafini, 2020; Richards and
+      Davis-Fisch, 2020; Roesch, 2019; Rosauro, 2018; Serafini, 2022). A research avenue
+      that merits further development, I propose, is that of an aesthetics for (post)extractivism;
+      in other words, a project that investigates the kinds of images and sensorial expressions
+      that extractivism is conducive to, and how the field of art and culture puts forward other
+      aesthetics that emerge from spaces of resistance, ontological shifts, and desires for (post)
+      extractivist ways of living. Specifically, my interest is with the theoretical tools we
+      develop to understand the significance of such cultural practices.
+        This article argues for a contextualized understanding of artistic practice in struggles
+      against extractivism and for (post)extractivist futures, and proposes prefigurative onto-
+      logical design as a central category for a (post)extractivist aesthetics, an aesthetics that
+      situates itself in the ontological struggles of our times. To do this, the article begins by
+      arguing for the use of extractivism as a contextualized framework. It then moves to a
+      discussion on ontology as an element of the socio-ecological crisis, and argues that
+      extractivism is a productive framework for approaching such conflicts in a way that
+      considers their ontological dimension. I then discuss the potential of art for ontological
+      design, building on and expanding Arturo Escobar’s proposal of designs for the pluriv-
+      erse (Escobar, 2018), and applying his ideas on ontological design to the analysis of art
+      and cultural practices opposing extractivism. In this way, the article seeks to advance
+      current discussions on the possibilities and limitations of the framework of extractivism
+      and to contribute to an aesthetics of (post)extractivism. I follow Chagnon et al. in their
+      proposal that ‘developing new conceptual paradigms “beyond extractivism” and apply-
+      ing them to practice, is a key social and political task in the years ahead’ (Chagnon et al.,
+      2022: 21), and I argue that art and culture have a crucial role in this endeavour.
+      A Note on Methodology                                  
+      This piece presents a theoretical proposal resulting from several years of qualitative
+      research on art and extractivism in Argentina, including multi-sited ethnographic research
+                                                             
+                                                             
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+       Serafini                                      107     
+                                                             
+       (Marcus, 1995) conducted between 2017 and 2019. This involved over 60 in-depth inter-
+       views and informal conversations and fieldwork across the country, in large cities such
+       as Buenos Aires and Córdoba as well as small towns like Vista Alegre and Andalgalá,
+       located at the frontlines of extraction. Fieldwork included participant observation in
+       demonstrations, cultural events, and meetings, and facilitated spaces for conversation
+       and collective reflection. The research also included the analysis of artwork (perfor-
+       mances, installations, paintings, and murals), social media analysis, and critical discourse
+       analysis of newspaper articles.                       
+        The approach to this research is situated (Haraway, 1988), and the development of
+       theory is contextualized in a way that aims to understand the localized reality of extrac-
+       tivism while engaging with broader questions about the meaning and implementation of
+       the framework of extractivism in other contexts and at different scales. The study there-
+       fore draws from and engages with aesthetics as well as political ontology and theories of
+       extractivism, but proposes an understanding of (post)extractivist aesthetics that is
+       grounded and emerges from the data itself (e.g. Charmaz and Thornberg, 2020).
+        Reconsidering, advancing and refining our understanding of extractivism and the
+       ways it can be employed in different contexts, I suggest, is crucial in allowing us to better
+       grasp a conjuncture characterized by intensive extraction and dynamics of enclosure and
+       dispossession across the globe (Federici, 2018). Within this, looking at the relationship
+       between art, extractivism and ontology is a pressing endeavour because art is one of the
+       realms in which our capacity to let go of boundaries and reimagine the world is activated;
+       understanding and nourishing such practices is particularly crucial at a time of ontologi-
+       cal shifts.                                           
+       Contextualizing Extractivism                          
+       In this study, I engage with extractivism in two ways. First, as an ongoing phenomenon
+       in Latin America that originates with the colonization of the continent. And second, as a
+       framework of analysis.                                
+        As a phenomenon, extractivism is defined by a prioritization of the extractive indus-
+       tries over other sectors of the economy, with the promise that royalties from these activi-
+       ties will fund development and modernization (Svampa and Viale, 2014). The way
+       extractivism has taken shape in each country presents variations: while countries like
+       Colombia and Mexico have in recent decades pursued a more neoliberal approach, the
+       ‘pink tide’ governments of Bolivia, Venezuela, Argentina and Brazil have emphasized
+       the importance of income from the extractive industries for fighting poverty and address-
+       ing inequality.                                       
+        The direct effects of extractivism are many and develop at different scales. They
+       include pollution and irreversible damage to ecosystems, alarming increases in human
+       and other animal diseases resulting from water poisoning and direct contact with toxic
+       substances, the demise of regional economies, displacement, and the trampling of indig-
+       enous rights (Álvarez Mullaly et al., 2017; Aranda, 2015). In addition, the extractivist
+       model is characterized by the erosion of democratic mechanisms (Machado Aráoz,
+       2015), state and corporate violence against land defenders (Gudynas, 2013), institutional
+       negligence and obfuscation of data (OCMAL, 2012), and the use of hegemonic media to
+                                                             
+                                                             
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+      108                            Theory, Culture & Society 42(7-8)
+                                                             
+      perpetuate a narrative of development based on intensive extraction and attack any form
+      of dissent (Gutiérrez et al., 2020; Riofrancos, 2017). 
+        The continuity of extractivist policies despite political changes, as seen in Argentina
+      with changes from centre-left to right-wing and back again in the past two decades,
+      demonstrates that extractivism cannot be adjudicated to one particular political pro-
+      ject (Andermann, 2018) but rather is engrained in the colonial imaginary of the con-
+      tinent and across different understandings of the capitalist state. This reinforces the
+      relevance of the framework of extractivism in the face of changing political
+      landscapes.                                            
+        Although locating the origins of extractivism in colonialism, most studies of extrac-
+      tivism in Latin America refer to the current period commencing in the 1990s, what some
+      have termed neo-extractivism (e.g. Acosta, 2013; Svampa and Viale, 2014). Following
+      decades of intensifying extraction, this model has failed to deliver on its promises of
+      development: while some pink tide governments have successfully directed revenues
+      from the extractive industries towards alleviating poverty, such revenues are seldom
+      translated into significant infrastructural and economic transformation projects (Martín
+      García, 2016).                                         
+        To understand the hegemony of extractivism, we must understand how it is rooted in
+      a particular modern ontology that is defined by hierarchal dualisms such as culture-
+      nature. The subordination of nature to humans allows its commodification as resource
+      and its careless and limitless extraction (Leff, 2004). This ontological basis of extractiv-
+      ism was forcibly imposed in Latin America through colonialism and maintained in the
+      social, economic and political formations that followed (e.g. most recently, the develop-
+      ment paradigm) in a way that differed from other colonial projects.1 As a result, the idea
+      of nature as resource, and of extraction for export as the region’s natural destiny and role
+      in the global economy, became deeply engrained in national and regional imaginaries
+      (e.g. Grappi and Neilson, 2018). Because these ideas surrounding nature, extraction and
+      progress are deeply rooted, it would be restrictive to think about extractivism in Latin
+      America as a purely economic or environmental issue. Instead, the logic of extraction
+      goes beyond the contour of the extractive industries, permeating different aspects of life
+      in the same way as the coloniality of power and knowledge (Quijano, 2000).
+        It is for this reason that I argue that in contexts that have historically been heavily
+      marked by extractivism, it is productive to extend the framework of extractivism to other
+      spheres of the social. If used in a contextualized and situated manner, concepts such as
+      cultural extractivism (Serafini, 2020, 2022) can be valuable for understanding how the
+      logic of extraction is perpetuated in and through other economic, social and cultural
+      spheres with the effect of legitimizing the extractive industries and their expansion, and
+      how different dynamics of extraction and oppression connect (e.g. the urban and the
+      rural, the cultural and the economic). Following this line of thought, and in their effort to
+      understand the contemporary capitalist moment in Latin America and beyond, Gago and
+      Mezzadra (2017) set out to uncover the ‘organic relation’ between extractivism and
+      finance (p. 577), pointing to how finance extracts value from forms of social coopera-
+      tion; Dahlin and Fredriksson (2017) make a related argument in reference to the extrac-
+      tion of the commons in Australia. And in the US context, Purifoy and Seamster (2020)
+                                                             
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+       Serafini                                      109     
+                                                             
+       developed the notion of ‘creative extraction’ in the study of the processes of disposses-
+       sion of Black towns for the expansion of white towns (p. 48).
+        But while extractivism is global, and expanded approaches help us understand it in
+       relation to other sectors of the economy, it does not develop equally everywhere. For
+       instance, the UK is imbricated in neocolonial extractivism across the globe, but the
+       effects of British companies’ extractive activities are intentionally not as present in the
+       UK as they are in countries that remain in the role of ‘suppliers of nature’.2 In places like
+       the US and Canada, former colonies with a different economic and political composition
+       to Latin America, we can see yet a different kind of dynamic: corporations are benefiting
+       from the intensive extraction they carry out abroad – including fracking and mining in
+       Latin America – and at the same time corporations and governments are pushing extrac-
+       tion on the territories of indigenous peoples within their borders, reproducing neocolo-
+       nial extractivist dynamics at home (e.g. Preston, 2013).
+        At a time of intensified extraction and of the expansion of the frontiers of exploitation,
+       identifying the translocation of extractivist dynamics can be useful in studying the neo-
+       colonial and imperialist nature of the global economy. However, it is paramount that in
+       highlighting commonalities we do not erase the differences and singularities (Jazeel,
+       2019) in how extractivism is reproduced, experienced and resisted in different contexts.
+       In its original sense, extractivism serves to describe a system rooted in specific geogra-
+       phies, colonial histories and histories of resistance.
+       Ontological Shifts and the Extractivism Framework3    
+       Many have claimed we are currently in the midst of a ‘crisis of civilization’ (e.g. Svampa
+       and Viale, 2020: 19). For centuries, the hegemony of a modern paradigm that supports a
+       nature-culture divide has allowed the commodification of nature as resource, and the
+       global patriarchal, racist capitalist system continues to sustain and deepen inequalities at
+       both global and local levels.4 Moreover, ‘the ontologies of modernity that have shaped the
+       global present’ have limited ‘our ability to imagine other futures’ (Wilson, 2018: 381), so
+       it is no coincidence that ‘[o]ntology came to the fore precisely at the moment the ontologi-
+       cal foundations of our civilization – and the unquestioned cultural supremacy of the peo-
+       ples who founded it – are seen as starting to crumble’ (Viveiros de Castro, 2015: 8–9).
+        In extractive societies particularly, but not exclusively, we are witnessing an onto-
+       logical shift, by which I mean an enhanced awareness of the profound differences in
+       how worlds are constructed, resulting from the multiplication and intensification of
+       socio-environmental conflicts that clash over the very nature of the issue at hand. In
+       other words, conflicts have become less about settling matters like impact studies, dam-
+       age control and compensation, and more about differences on what it is that is at stake
+       in the first place (Blaser, 2009: 879; de la Cadena, 2015; Ulloa, 2015). This means that
+       beyond disagreements in conceptions and parameters of valorization (Martínez Alier,
+       2002), which are indeed central to extractive conflicts, we see a clash of worlds. For
+       instance, as seen in mining conflicts across the Andes, it is not only that a local com-
+       munity values the water coming from the mountain more than it does the gold that is
+       extracted from that mountain; it is also that the community in question might inhabit a
+                                                             
+                                                             
+                                                             
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+      110                            Theory, Culture & Society 42(7-8)
+                                                             
+      world in which the position and even agency of the mountain differs greatly from its
+      position in the corporation’s world. This existing tension has become more visible as
+      indigenous peoples have become more organized as political actors over the past few
+      decades, and it also applies to a range of actors and communities in both rural and urban
+      areas. In my fieldwork, I have witnessed the articulation of the ontological nature of
+      socio-environmental conflicts across different territories: in places where indigenous
+      ways of inhabiting the territory are disturbed by the violent, racist advance of the extrac-
+      tive frontier, as is the case in the ancestral lands of Mapuche communities, and also in
+      settler communities where the devastating effects of extractivism have led to an
+      increased engagement with local indigenous ontologies and given way to a complete
+      rethinking of notions of nature, development and agency, as in the aforementioned town
+      of Andalgalá fighting open-pit mining.                 
+        Ontological struggles must thus be understood as political (Blaser, 2009, 2010). This,
+      as argues Viveiros de Castro, is because               
+        they imply a situation of war – not a war of words, as per the linguistic turn, but an ongoing war
+        of worlds, [. . .] in a context in which the world (‘as we know it’) is imposed in myriad ways
+        on other peoples’ worlds (as they know them), even as this hegemonic world seems to be on the
+        brink of a slow, painful and ugly ending. (Viveiros de Castro, 2015: 9)
+        Thus, the context of a crisis of civilization urgently calls for engagement with ontol-
+      ogy because ontology is the route to understanding and challenging the dominant para-
+      digms in our world: engaging with ontological issues opens the way for movements that
+      are truly transformational on different levels (Eitel and Meurer, 2021: 4).
+        Considering the above, a question that emerges is how we can engage with ontologi-
+      cal matters in the study of environmental conflicts in a way that does not neglect issues
+      of materiality and the exercise of power. I propose that extractivism is a productive
+      framework for this task precisely because – especially as developed by Latin American
+      scholars – it centres the colonial origin of extractivism and is directly concerned with
+      addressing its ontological underpinnings while also challenging the current manifesta-
+      tions of coloniality in extractive activities at the local and transnational levels, from the
+      most blatantly violent (e.g. the persecution of Mapuche land defenders) to the most
+      insidious reproductions of imaginaries.                
+        The extractivism framework opens pathways for decolonial, political-ontological
+      interrogations that begin by deconstructing modern hierarchical dualisms shaping
+      understandings of race, gender, humanity and nature, and that highlight the existence
+      of other ontologies, bringing to the fore matters of interdependence in a decisively
+      political manner – which is key to avoiding the perils of idealizing relational ontolo-
+      gies, as argued by Swyngedouw and Ernstson (2018). This includes, for instance, the
+      centring of indigenous ontologies that enact non-extractive relations between human
+      beings, non-human beings and other entities in their environments, what de la Cadena
+      (2015) has translated as ‘Earth beings’. Moreover, beyond decolonial pursuits and in
+      adherence to a pluriversal perspective (Escobar, 2018), the framework of extractivism
+      can also give place to ontological projects emerging from other traditions that espouse
+      related goals, such as questioning the limitations of humanism (Deem, 2019; Mignolo,
+                                                             
+                                                             
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+       Serafini                                      111     
+                                                             
+       2007; Povinelli, 2016) and engaging with the affirmative ethics of posthumanism
+       (Braidotti, 2018: 41).5 In such cases, extractivism is a framework that takes into
+       account the multiple effects of extractivist models in a way that de-centres humans but
+       does not neglect issues of oppression and the search for social justice. This is a signifi-
+       cant point to make, returning to the issue of materiality, and I agree with Martín
+       Arboleda in his precautionary clarification: ‘That nonhumans very often display cer-
+       tain forms of agency has now become self-evident [. . .] The challenge, then, is to
+       problematize the forms of violence, exploitation, racial domination, and socioecologi-
+       cal suffering that are mediated by human-nonhuman agencies in modern, capitalist
+       society’ (Arboleda, 2016: 368).                       
+       Extractivism, Aesthetics and Ontology                 
+                                                             
+       In struggles against extractivism, ontological shifts are acted upon and nurtured through
+       the envisioning and creation of worlds otherwise, from grand visions to everyday actions.
+       Art is one of the fields in which our capabilities for envisioning and creating are enhanced,
+       and as such, it is a key vehicle for resisting the advance of extractivism, and for living
+       alternative worlds in the now.                        
+        In recent years, numerous philosophers, artists and art theorists have grappled with
+       the question of what characterizes art at a time of intense environmental destruction and
+       climate crisis (e.g. Lippard, 2014). Some have attempted to define an aesthetics of the
+       Anthropocene (e.g. Ballard, 2021; Davis and Turpin, 2015; Reiss, 2019), pointing for
+       instance to the environmental crisis as an aesthetic event, and to the naturalization of
+       pollution and destruction as part of our daily and creative aesthetic experiences (Davis
+       and Turpin, 2015: 11). Others have rejected the idea of the Anthropocene altogether, and
+       argued for a more explicitly political approach to understanding art in an ecological crisis
+       (e.g. Demos, 2017), in line with the critiques of social scientists (e.g. Yusoff, 2018). In
+       the context of overlapping social, economic and ecological crises, art can allow us to
+       express ‘languages of valorization’ (Martínez Alier, 2002) that challenge the roots of
+       hegemonic discourses and practices, and to activate our capacity to imagine other worlds
+       and other ways of being in the world – what some refer to as worlding practices (Haraway,
+       2016: 83) or world-forming (Holtaway, 2021; Nancy, 2007).
+        While they advance our understanding of global phenomena, many approaches to the
+       relationship between aesthetics, nature and the climate crisis are limited by adopting a
+       universalist approach. But as Braidotti argues, ‘[i]nstead of new generalizations about an
+       engendered pan-humanity, we need sharper focus on the complex singularities that con-
+       stitute our respective locations’ (Braidotti, 2018: 53). It follows that to understand the
+       motivations and workings of art in connection to anti and post-extractivist struggles in
+       Latin America, it is necessary to move away from a universalist position and to think
+       about aesthetics within the multiscale operating of extractivism in particular contexts.6
+       For instance, Gómez-Barris (2017) offers a way of understanding such artistic and activ-
+       ist practices in Latin America by focusing on their positioning with respect to the extrac-
+       tivist hegemony: she speaks of ‘submerged perspectives’, those practices that put forward
+       decolonial understandings of territory and life.      
+                                                             
+                                                             
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+      112                            Theory, Culture & Society 42(7-8)
+                                                             
+        Following and attempting to expand such approaches, I find it necessary in further
+      developing a (post)extractivist aesthetics to look at the ways that counter-hegemonic
+      artistic practices directly respond to the characteristics of extractive societies and the
+      moment of ontological crisis we are currently facing. In previous work I have argued that
+      artists and activists respond by developing specific and localized processes and mecha-
+      nisms, and that their art fulfills context-specific sociopolitical functions in the face of
+      extractivism (Serafini, 2022). In this article, I develop specifically the concept of design
+      as a function of artistic resistance to extractivism and as a defining element of (post)
+      extractivist aesthetics, with the aim of demonstrating how artistic practice engages with
+      the ontological matters outlined earlier. I do this by drawing on empirical data and build-
+      ing on recent work on design, mainly Escobar’s (2018) proposal of designs for the
+      pluriverse, and on political ontology. In this way, I demonstrate how the arts and culture
+      can act as sites and vehicles for resistance and creation under extractive societies (in
+      addition to being a contested realm in which the logic of extraction is often reproduced),
+      and I specifically argue that artistic practices can enact instances of prefigurative, onto-
+      logical design at a time of ontological shifts.        
+      Art and Collective Cultures at the Frontlines of Extraction
+      In November and December 2017, I visited the city of Córdoba, Argentina, and I was
+      hosted by the collective at Revolución CC, one of the most active cultural houses in the
+      city. Cultural houses, also known as collaborative houses, are spaces where artist collec-
+      tives of working and middle-class mostly under-30s come together to create experimen-
+      tal spaces of co-working and/or co-habitation. They function as sites of collective
+      production and social and political activity, and they are self-organized in the form of
+      networks. Situated in central Argentina, the wider province of Córdoba is one of the
+      regions where monoculture agriculture has expanded at full speed, causing alarming
+      rates of deforestation in addition to the environmental and health consequences that arise
+      from the intensive use of agrochemicals for monocrop GMO agriculture (Barri, 2010).
+      Native forests are cut down to make room for soy monocrops and cattle, and near the city
+      of Córdoba, forests are also cut with no planning to give way to new real estate develop-
+      ments, causing severe disruption to local ecosystems and significantly increasing the risk
+      of landslides and floods (Gianre, 2015). At the same time, the city of Córdoba is known
+      for a longstanding tension between a sizeable young and politically active population (it
+      is one of the country’s largest university towns) and a repressive police apparatus that
+      resorts to excessive force and persecution on a regular basis (Roldán, 2020). In this con-
+      text, young artists and activists came together to cohabit and co-create, in a move that
+      addresses urgent material concerns (such as growing inflation and stagnant salaries char-
+      acteristic of the Argentine economy of the last decade) and a desire to build other ways
+      of life in common that are different to what the extractivist logic dictates. These cultural,
+      autonomous spaces ‘are changing the way that we understand and make culture from
+      perspectives and practices that include alternative media, solidary economies [and] the
+      construction of networks and shared knowledges’ (Orosz, 2016, my translation from
+      Spanish).                                              
+                                                             
+                                                             
+                                                             
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+       Serafini                                      113     
+                                                             
+        The cultural houses I got to know were all different, as were the contexts in which I
+       got to know them. In addition to my stay at Revolución CC, I visited another nearby
+       house for a party: cultural houses often organize social events that involve live music,
+       performances and/or exhibitions, which collectives take as opportunities to raise funds
+       for their rent and cultural activities. People from other houses in the circuit make a point
+       of attending those parties as a form of support, knowing that when they organize their
+       own, others in the network will reciprocate.          
+        Another house I visited, Casa 1234, was home to a silk-screen printing studio. At the
+       time of my visit, members of this house were shaken up by a police search they had
+       recently experienced. A series of homes and organizations, including cultural centres,
+       branches of leftist political parties and even community organizations providing food to
+       children, had been searched under the pretense of finding evidence linked to a case of
+       destruction of property during a march against police violence in August that year. Those
+       searched accused the prosecutor of political persecution (El Piquetero, 2017; Razón y
+       Revolución, 2017). In this context of police persecution and violence, the artists and
+       activists I spoke to opened up their practice to those affected by such violence to generate
+       a collective and, as Kester (2004) would term it, dialogical form of aesthetic-political
+       practice that is based on the creation of a bond of care. Visual artists and designers col-
+       laborated with the families of victims of police violence to create prints, often featuring
+       the faces of victims, which were then plastered all over town (Serafini, 2022). In this
+       way, their collaboration was not just a form of solidarity and kin making through art, but
+       it also aimed to make an intervention in the visual landscape of the city, one that engages
+       with passersby, whatever their background, to make them confront and reflect on the
+       reality of institutional violence.                    
+        Similarly, the artists I spoke to also made prints to accompany the camps against
+       Monsanto that had taken place in the nearby locality of Malvinas Argentinas a few years
+       earlier. In 2012, Monsanto announced that this rural town would be the location of the
+       biggest transgenic seed factory in Latin America. The announcement was immediately
+       met with fierce resistance by local communities and activists that came from across the
+       country to support the fight and express their solidarity, and eventually the local assembly
+       of Malvinas Argentinas won the fight against the agribusiness giant (Smink, 2014). Artists
+       from Casa 1234 had joined those camps and brought their printing tools with them to
+       stand against the extractivism of agribusiness. From our conversations, it became evident
+       that all of their artistic work was heavily centred on relationality, be that with their non-
+       human environments or with the communities they worked with. When speaking of their
+       work with families of victims of police violence, Manuel from Casa 1234 explained:
+        We become kin with that family, we are already part of it and that limit is already broken
+        [between them and] the solidary artist or the communicator or the militant. Instead, what
+        emerges is kinship, and we build it with that language, which is not the language of the vertical,
+        traditional political practice of political parties where there is one referent [. . .] but we build
+        instead a horizontal and mutually-affective organization.7
+        Another notable example of art and culture at the frontlines of extractivism is the col-
+       lective mapping of Iconoclasistas, a duo made up of communications specialist Julia
+                                                             
+                                                             
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+      114                            Theory, Culture & Society 42(7-8)
+                                                             
+      Risler and graphic designer Pablo Ares. The duo has been facilitating mapeos colectivos
+      [collective mappings] since 2008, with the aim of providing actors in social and environ-
+      mental movements with cartographic tools (maps and infographics) to help them visual-
+      ize the problems they are facing, the objects and distribution of conflicts, the locations of
+      corporations and state forces, and in some cases also the presence of nodes of resistance
+      (Iconoclasistas, 2020).8 What is perhaps most notable about the work of Iconoclasistas is
+      their process. In conversation with Julia,9 one half of the duo, she told me about how they
+      travel to different cities in response to calls for their skills, and facilitate spaces of collec-
+      tive making where those at the frontlines of conflicts can share experiences and exchange
+      ideas in a democratic space. Communities then work together towards producing an
+      output that denounces the operations of extractive activities, documents their actions and
+      their effects, and deconstructs ideas such as ‘natural resource’, ‘progress’ and ‘moderni-
+      zation’ to instead nurture different concepts and sets of values (e.g. the ecofeminist
+      notion of body-territory that breaks boundaries between human and environment and
+      individual and collective). This collectivized process is not only about designing a pur-
+      poseful, beautiful and effective communicative tool but also about designing forms of
+      collective work and learning spaces, and in them, collectively beginning to design
+      visions, aims, structures and processes for worlds otherwise. In the mapping process, the
+      question of ‘what is at stake’ is put into question, mapped, conceptualized and visualized,
+      to then be mobilized politically by the collective.    
+      Prefigurative Ontological Design for Post-Extractivist Worlds
+      Arturo Escobar draws on both political ontology and design theory to develop his mani-
+      festo on ‘designs for the pluriverse’ (Escobar, 2018). Building on his perspective on the
+      ontological design potential of different practices, I consider here the potential that artis-
+      tic practice has for designing meaning, visions, organizational forms, economies, sociali-
+      ties and structures, and the way that both the discursive and material aspects of such
+      practices facilitate instances of ontological design in a context of violence, environmen-
+      tal destruction and emerging ontological shifts. I understand ontological design to be
+      enacted through everyday practice, in addition to specific moments of planning and envi-
+      sioning. This understanding of design reclaims it as an everyday, non-specialist and
+      democratic practice, as opposed to top-down, exclusionary and oppressive forms of
+      design. In this sense, I adopt the perspective of practical ontology in addition to that of
+      political ontology, understanding practical ontology as a ‘profoundly open-ended orien-
+      tation to exploring how and by whom [. . .] worlds are performed, maintained, chal-
+      lenged, transformed, or destroyed’ (Jensen, 2021: 101, emphasis in the original).
+        Ontological design is, in this view, a political practice that challenges the ontological
+      basis of the hegemony of extractivism by operating at different levels with a view towards
+      ontological, symbolic and material transformation. The ontological design of anti- and
+      post-extractivist movements is linked to an autonomous ethos – in the sense of the Latin
+      American tradition of autonomous politics (Escobar, 2018) – and is also decolonial, as it
+      challenges exclusionary and oppressive universalist principles of mainstream design in
+      order to rethink what and how we can envision and create (Tlostanova, 2017).
+                                                             
+                                                             
+                                                             
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+       Serafini                                      115     
+                                                             
+        Practices of ontological design take place in a wealth of realms, including alternative
+       economies, communication, community organizing and radical pedagogies. However,
+       contemporary, dialogical artistic practices – such as those described earlier – play a dis-
+       tinct role in ontological design, given that, as Kester (2004) would argue, their multidis-
+       ciplinary and open nature allows them to engage with different realms of the social at
+       once and from a creative, constructive lens. In the collective mappings of Iconoclasistas,
+       for instance, we see how a collaborative creative practice generates a space for creating
+       new socialities, rethinking notions of territory and distribution of economic and social
+       activity, reinventing the practice of mapping and capturing redefined understandings of
+       what is at stake in a social or environmental conflict.
+        Ontological design is also activated in projects that construct social and economic
+       relations that resist the encroachment of a logic of extraction on everyday life, as I have
+       observed during my fieldwork in Córdoba. Such material concerns emerge as ontological
+       in projects that design and enact new ways of positioning ourselves in society and within
+       the rest of nature. In Córdoba, the advance of extractivism and institutional violence are
+       understood as two sides of one same coin, and in response, activists and artists come up
+       with their own ways of resisting and overcoming such logics and everyday forms of
+       violence, creating bonds that are based on an understanding and fostering of interdepend-
+       ence, designing and enacting anti-extractivist relational ontologies through their artmak-
+       ing, communal living and community support.           
+        A common characteristic among most of the practices I encountered during fieldwork
+       was the prefigurative ethos underpinning practices that aimed to design other ways of
+       being, understanding prefiguration as the small-scale enactment in the now of the forms
+       of living and worlds we aspire to. I thus refer to this kind of design as prefigurative onto-
+       logical design. In other words, it is not just about envisioning worlds otherwise, or design-
+       ing models, strategies, and processes for a future society, but rather, it is about putting
+       those designs into practice in the now, in a way that enacts and models through practice
+       those other worlds we want to live in. A question that follows is: how does prefigurative
+       ontological design differ from the idea of prefigurative politics which scholars such as
+       Maeckelbergh (2011) and Sitrin (2006) have developed in relation to social movements
+       like the alter-globalization movement, Occupy, and the unemployed workers movement
+       of post-crisis Argentina? The difference, I propose, is found in the particularities of the
+       conjuncture, and how this conditions the aims and effects of such artistic-political prac-
+       tices, as we find ourselves in a moment of ontological shifts that have altered the make-up
+       of socio-environmental conflicts and put into question what is at stake.
+        The category of prefigurative ontological design therefore acts as an analytical cate-
+       gory fitted for this moment and place: by engaging with the ontological dimension of
+       artistic practices, we can more fully understand the different levels at which they operate,
+       and how they connect to wider theories and movements such as decolonization, which
+       seek to challenge and denaturalize the bases of our knowledge creation practices and
+       give place to other forms of knowing and doing outside the hegemonic modern paradigm
+       (Gómez and Mignolo, 2012). Engaging with the potential for prefigurative ontological
+       design of these practices is more important than ever at a time when ontological shifts are
+       being felt, and when it becomes more pressing to rethink and reconstruct the kinds of
+       relationships we hold within communities and with the ecosystems we are part of. The
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+      116                            Theory, Culture & Society 42(7-8)
+                                                             
+      concept of prefigurative ontological design thus contributes to theorizing a (post)extrac-
+      tivist aesthetics for a situated understanding of the motivations, processes and effects of
+      art that positions itself in resistance to extractivism and for the creation of post-extractiv-
+      ist worlds.                                            
+                                                             
+      Conclusion: Toward a (Post)Extractivist Aesthetics     
+      This paper aimed to advance our understanding of extractivism and aesthetics in two
+      ways. In the first place, it argued for the productiveness of contextualized uses of the
+      extractivism framework at a time of ontological shifts. I argued that the extractivism
+      framework puts forward an inherently decolonial and political ontological perspective
+      on socio-environmental conflicts and the wider ecological crisis, thus facilitating engage-
+      ment with the pressing issues of shifting ontologies and the ‘crisis of civilization’.
+        The second contribution concerns the study of cultural and artistic practices of resist-
+      ance in extractive societies and the proposal of concepts that can contribute to a (post)
+      extractivist aesthetics. A (post)extractivist aesthetics is one that intends to understand the
+      aesthetics of extractivism and the processes and functions of art that engage in building
+      worlds otherwise, and it does this in reference to historical, geographical, political and
+      cultural contexts. This contextualized understanding of the role of art and cultural prac-
+      tices is paramount to an in-depth analysis of extractivism as a moment and as a condition,
+      and to fully comprehend the ways that (post)extractivist worlds are envisioned and
+      enacted on a daily basis.                              
+        A (post)extractivist aesthetics needs to centre ontological struggles, but it must also
+      engage with material issues in its analysis of the sociopolitical function of art and cul-
+      tural practices, given the urgency of extractivist violence. With this in mind, in this arti-
+      cle I developed the concept of prefigurative ontological design. Looking at art as a
+      practice of prefigurative ontological design, I argued, allows us to better grasp the ways
+      that artistic practice can be transformational on different levels. In a context of encroach-
+      ing extraction and heightened violence that has laid bare the underpinning ontological
+      assumptions of an extractivist model, art allows the enactment of different ontologies,
+      and it can challenge the coloniality of knowledge at the root of extractivist violence.
+        In this way, the article aimed to make an intervention in how we approach the study
+      of extractive societies and movements for worlds otherwise, highlighting the transforma-
+      tive potential of art at a time of overlapping crises and offering conceptual tools for a
+      situated understanding of the ways that it develops within extractive societies. This is
+      particularly pressing at a time when the most widespread narratives about ecological
+      breakdown centre on climate change but continue to neglect the longstanding forms of
+      violence surrounding extractivism, and when mainstream solutions to the crisis involve
+      further extraction of nature in the Global South (e.g. lithium) to sustain transition pro-
+      grammes based on the assumption of continuing growth. To challenge such narratives, it
+      is paramount to step back from universalist understandings of environmental struggles
+      and bring forward those cultural practices that highlight the differentiated effects of a
+      global extractive economy, and at the same time put forward other ways of being that
+      disrupt the idea of only one possible solution to the ecological crisis.
+                                                             
+                                                             
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+       Serafini                                      117     
+                                                             
+       Funding                                               
+       This research was supported by a British Academy/Leverhulme Trust Small Research Grant.
+                                                             
+       ORCID iD                                              
+       Paula Serafini https://orcid.org/0000-0002-4278-1832  
+                                                             
+       Notes                                                 
+       1. In The Open Veins of Latin America, Galeano (2015) discusses the way that the extractive
+         colonialism of the Spanish colonies differed from the settler model promoted by the British in
+         the US. I note, however, that a distinction between exploitation and settler colonialisms is not
+         always useful in the analysis of coloniality in Latin America, as recently argued for instance
+         by Castellanos (2017).                              
+       2. In the last decade, there have been several conflicts surrounding extraction in the UK, spe-
+         cifically concerning fracking. However, it is telling that British companies like BP have not
+         attempted to frack in the UK because they do not want to ‘attract the wrong kind of attention’
+         (Macalister, 2014), a fact that exposes the different levels of accountability such companies
+         have in different contexts.                         
+       3. I use ontology as a way of referring to questions regarding the nature of being, as I am look-
+         ing at the aspect of conflicts and social transformations concerned with the question of ‘what
+         it is that is at stake’. The concept of ontology itself, which is contested and could be replaced
+         by others, is secondary here to the issue of why and how we can engage with these kinds of
+         questions and to what effects.                      
+       4. It is important to note, when engaging in these kinds of ontological discussions, that ‘[m]
+         odernity is not a single-headed process that now has been surpassed. On the contrary, it is
+         the multi-headed internal struggle.’ (Swyngedouw and Ernstson, 2018: 10). The point here is
+         about the existence of a dominant ideology based on hierarchical dualisms that emerges from
+         modernity (Swyngedouw and Ernstson, 2018: 9). For more on alternative (and insurgent)
+         legacies of modernity see Tomba (2019).             
+       5. For a recent reflection on the commonalities and differences between decolonial theory and
+         other ontologically-focused projects (specifically the ontological shift in anthropology) see
+         Fúnez-Flores (2022).                                
+       6. In considering universalism, I agree with Gopal’s (2019) point on the dialogical nature of
+         universals and the role of anticolonial resistance in their formation. However, my interest here
+         is the contemporary effects of specific universalist understandings and how we can challenge
+         them by engaging with ontology through artistic practice.
+       7. Personal interview with Manuel (a pseudonym), 3 December 2017.
+       8. See https://iconoclasistas.net/                    
+       9. Personal interview with Julia Risler, 4 August 2017.
+       References                                            
+       Acosta, Alberto (2013) Extractivism and neoextractivism: Two sides of the same curse. In: Lang,
+         Miriam, and Mokrani, Dunia (eds) Beyond Development: Alternative Visions from Latin
+         America. Quito: Fundación Rosa Luxemburg/Transnational Institute, pp. 61–86.
+       Álvarez Mullaly, Martín, Arelovich, Lisandro, Cabrera, Fernando, et al. (2017) Megaproyecto
+         Vaca Muerta. Informe de externalidades. Buenos Aires: EJES–Enlace por la Justicia
+         Energética y Socioambiental. Available at: https://ejes.org.ar/megaproyecto-vaca-muerta-el-
+         fracking-y-sus-consecuencias/ (accessed 5 January 2022).
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+      118                            Theory, Culture & Society 42(7-8)
+                                                             
+      Andermann, Jens (2018) Turn of the tide? Cultural critique and the new right. Journal of Latin
+        American Cultural Studies 27(1): 1–3.                
+      Aranda, Darío (2015) Tierra Arrasada: Petróleo, soja, pasteras y megaminería. Radiografía de la
+        Argentina del siglo XXI. Buenos Aires: Sudestada.    
+      Arboleda, Martín (2016) Revitalizing science and technology studies: A Marxian critique of more-
+        than-human geographies. Environment and Planning D: Society and Space 35(2): 360–378.
+      Ballard, Susan (2021) Art and Nature in the Anthropocene. London: Routledge.
+      Barri, Fernando (2010) Pueblos fumigados en Argentina: resistencia epidemiológica comunitaria
+        al modelo económico de los agronegocios. Ecología Política 40: 67–72.
+      Blaser, Mario (2009) Political ontology. Cultural Studies 23(5–6): 873–896.
+      Blaser, Mario (2010) Storytelling: Globalization from the Chaco and Beyond. Durham, NC: Duke
+        University Press.                                    
+      Braidotti, Rosi (2018) A theoretical framework for the critical posthumanities. Theory, Culture &
+        Society 36(6): 31–61.                                
+      Castellanos, M. Bianet (2017) Introduction: Settler colonialism in Latin America. American
+        Quarterly 69(4): 777–781.                            
+      Chagnon, Christopher W., Durante, Francesco, Gills, Barry K., et al. (2022) From extractivism to
+        global extractivism: The evolution of an organizing concept. The Journal of Peasant Studies
+        49(4): 760–792.                                      
+      Charmaz, Kathy and Thornberg, Robert (2020) The pursuit of quality in grounded theory.
+        Qualitative Research in Psychology 18(3): 305–327.   
+      Dahlin, Johanna and Fredriksson, Martin (2017) Extracting the commons. Cultural Studies 31(2–
+        3): 253–276.                                         
+      Davis, Heather and Turpin, Etienne (2015) Art in the Anthropocene: Encounters among Aesthetics,
+        Politics, Environments and Epistemologies. London: Open Humanities Press.
+      de la Cadena, Marisol (2015) Earth Beings: Ecologies of Practice across Andean Worlds. Durham,
+        NC: Duke University Press.                           
+      Deem, Alexandra (2019) Mediated intersections of environmental and decolonial politics in the
+        ‘No Dakota Access Pipeline’ movement. Theory, Culture & Society 36(5): 113–131.
+      Demos, T.J. (2017) Against the Anthropocene: Visual Culture and Environment Today. Berlin:
+        Sternberg Press.                                     
+      Eitel, Kathrin and Meurer, Michaela (2021) Introduction. Exploring multifarious worlds and the
+        political within the ontological turn(s). Berliner Blätter 84: 3–19.
+      El Piquetero (2017) Comunicado del Partido Piquetero de Córdoba, 1 September, Available at:
+        https://elpiquetero.org/2017/09/01/en-cordoba-ayer-vivimos-terrorismo-de-estado/ (accessed
+        24 June 2021).                                       
+      Escobar, Arturo (2018) Designs for the Pluriverse: Radical Interdependence, Autonomy and the
+        Making of Worlds. Durham, NC: Duke University Press. 
+      Federici, Silvia (2018) Re-Enchanting the World: Feminism and the Politics of the Commons.
+        Oakland, CA: PM Press.                               
+      Fúnez-Flores, Jairo I. (2022) Decolonial and ontological challenges in social and anthropological
+        theory. Theory, Culture & Society 39(6) 21–41.       
+      Gago, Verónica and Mezzadra, Sandro (2017) A critique of the extractive operations of capital:
+        Toward an expanded concept of extractivism. Rethinking Marxism: A Journal of Economics,
+        Culture & Society (29)4: 574–591.                    
+      Galeano, Eduardo (2015) Las venas abiertas de América Latina. Buenos Aires: Siglo XXI.
+      Gianre, Lucas (2015) El informe científico de la UNC que explica las inundaciones en las Sierras
+        Chicas de Córdoba. UNCiencia, 18 March, Available at: https://unciencia.unc.edu.ar/medi-
+        oambiente/el-informe-cientifico-de-la-unc-que-explica-las-inundaciones-en-las-sierras-
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+       Serafini                                      119     
+                                                             
+         chicas-de-cordoba/#%E2%80%9Clas-ciudades-estan-inundando-a-los-rios%E2%80%9D
+         (accessed 25 June 2021).                            
+       Gómez, Pedro Pablo and Mignolo, Walter (2012) Estéticas decoloniales. Bogotá: Universidad
+         Distrital Francisco José de Caldas.                 
+       Gómez-Barris, Macarena (2017) The Extractive Zone: Social Ecologies and Decolonial
+         Perspectives. Durham, NC: Duke University Press.    
+       Gopal, Priyamvada (2019) Insurgent Empire: Anticolonial Resistance and British Dissent. New
+         York: Verso.                                        
+       Grappi, Giorgio and Neilson, Brett (2018) Elements of logistics: Along the copper line.
+         Environment and Planning D: Society and Space 37(5): 833–849.
+       Gudynas, Eduardo (2009) Diez tesis urgentes sobre el nuevo extractivismo: Contextos y demandas
+         bajo el progresismo sudamericano actual. In: Schuldt, Jürgen, Acosta, Alberto, Barandiarán,
+         Alberto, et al. (eds) Extractivismo, política y sociedad. Quito, Ecuador: CAAP and CLAES,
+         pp. 187–225.                                        
+       Gudynas, Eduardo (2013) Extracciones, extractivismo y extrahecciones: Un marco conceptual
+         sobre la apropiación de recursos naturales. Observatorio del Desarrollo 18: 1–18.
+       Gutiérrez, Felipe, Riffo, Lorena, and Cabrera, Fernando (2020) Los chanchos y el ambientalismo
+         falopa. Revista Crítica, 28 July. Available at: https://revistacitrica.com/los-chanchos-y-el-
+         ambientalismo-falopa.html (accessed 4 April 2021).  
+       Haraway, Donna (1988) Situated knowledges: The science question in feminism and the privilege
+         of partial perspective. Feminist Studies 14(3): 575–599.
+       Haraway, Donna (2016) Staying with the Trouble: Making Kin in the Chthulucene. Durham, NC:
+         Duke University Press.                              
+       Holtaway, Jessica (2021) World-Forming and Contemporary Art. London: Routledge.
+       Iconoclasistas (2020) Mapeos colectivos sobre extractivismos y resistencias en Latinoamérica. In:
+         Merlinsky, Gabriela and Serafini, Paula (eds) Arte y Ecología Política. Buenos Aires: IIGG-
+         CLACSO, pp. 177–192.                                
+       Jazeel, Tariq (2019) Singularity: A manifesto for incomparable geographies. Singapore Journal of
+         Tropical Geography 40: 5–21.                        
+       Jensen, Casper Bruun (2021) Practical ontologies redux. Berliner Blätter 84: 93–104.
+       Junka-Aikio, Laura and Cortes-Severino, Catalina (2017) Cultural studies of extraction. Cultural
+         Studies 31(2–3): 175–184.                           
+       Kester, Grant (2004) Conversation Pieces: Community and Communication in Modern Art.
+         Berkeley, CA: University of California Press.       
+       Leff, Enrique (2004) Racionalidad ambiental y diálogo de saberes. Significancia y sentido en la
+         construcción de un futuro sustentable. Polis 7. Available at: http://journals.openedition.org/
+         polis/6232 (accessed 22 March 2021).                
+       Lippard, Lucy (2014) Undermining: A Wild Ride Through Land Use, Politics, and Art in the
+         Changing West. New York, NY: The New Press.         
+       Macalister, Terry (2014) BP rules out UK shale gas drilling – for now. The Guardian, 4 February.
+         Available at: https://www.theguardian.com/business/2014/feb/04/bp-shale-gas-drilling
+         (accessed 3 February 2019).                         
+       Machado Aráoz, Horacio (2015) Ecología política de los regímenes extractivistas: De reconfigura-
+         ciones imperiales y re-exsistencias decoloniales en nuestra América. Bajo el Volcán 15(23):
+         11–51.                                              
+       Maeckelbergh, Marianne (2011). Doing is believing: Prefiguration as strategic practice in the
+         alterglobalization movement. Social Movement Studies 10(1): 1–20.
+       Marcus, George E. (1995) Ethnography in/of the world system: The emergence of multi-sited
+         ethnography. Annual Review of Anthropology 24: 95–117.
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+      120                            Theory, Culture & Society 42(7-8)
+                                                             
+      Martín García, Facundo (2016) Postextractivismo y crecimiento en América Latina. Historias,
+        problemas y desafíos hacia una agenda de luchas comunes. In: Rosales, Marcela, Garay
+        Reyna, Zenadia, and Pedrazzani, Carla (eds) La espacialidad crítica en el pensamiento
+        político-social latinoamericano: Nuevas gramáticas de poder, territorialidades en tensión.
+        Buenos Aires: CLACSO, pp. 77–100.                    
+      Martínez Alier, Joan (2002) The Environmentalism of the Poor: A Study of Ecological Conflicts
+        and Valuation. Cheltenham: Edward Elgar.             
+      Merlinsky, Gabriela and Serafini, Paula (2020) Arte y Ecología Política. Buenos Aires: IIGG-
+        CLACSO.                                              
+      Mignolo, Walter (2007) Delinking: The rhetoric of modernity, the logic of coloniality and the
+        grammar of de-coloniality. Cultural Studies 21(2–3): 449–514.
+      Nancy, Jean-Luc (2007) The Creation of the World or Globalization. Albany: State University of
+        New York Press.                                      
+      OCMAL (2012) En Andalgalá se nos está muriendo la población joven, 28 February. Available
+        at: https://www.ocmal.org/en-andalgala-se-nos-esta-muriendo-la-poblacion-joven/ (accessed
+        9 February 2021).                                    
+      Orosz, Demian (2016) Casas de artistas: Revolución para todos. La Voz, 10 October. Available at:
+        https://www.lavoz.com.ar/numero-cero/casas-de-artistas-revolucion-para-todos/ (accessed
+        24 June 2021).                                       
+      Povinelli, Elizabeth (2016) Geontologies: A Requiem to Late Liberalism. Durham, NC: Duke
+        University Press.                                    
+      Preston, Jen (2013) Neoliberal settler colonialism, Canada and the tar sands. Race & Class 55(2):
+        42–59.                                               
+      Purifoy, Danielle M. and Seamster, Louise (2020) Creative extraction: Black towns in white space.
+        Environment and Planning D 39(1): 47–66.             
+      Quijano, Anibal (2000) Coloniality of power, Eurocentrism, and Latin America. Nepantla: Views
+        from South 1(3): 533–580.                            
+      Razón y Revolución (2017) Razzia de allanamientos en Córdoba, 31 August. Available at: https://
+        razonyrevolucion.org/razzia-de-allanamientos-en-cordoba/ (accessed 24 June 2021).
+      Reiss, Julie (ed.) (2019) Art, Theory and Practice in the Anthropocene. Wilmington, DE: Vernon
+        Press.                                               
+      Richards, Kimberly and Davis-Fisch, Heather (2020) Editorial: Extractivism and performance.
+        Canadian Theatre Review 182: 5–8.                    
+      Riofrancos, Thea (2017) Extractivismo unearthed: A genealogy of a radical discourse. Cultural
+        Studies 31(2-3): 277–306.                            
+      Roesch, Anaïs (2019) Propuesta para un régimen estético post etractivista. Index, Revista De Arte
+        contemporáneo 7: 176–184.                            
+      Roldán, Macarena (2020) Juvenicide in Córdoba (Argentina) and bio-resistance. Strategies in col-
+        lective youth action. Relaciones Estudios de Historia y Sociedad 41(160): 47–65.
+      Rosauro, Elena (2018) Ecologías políticas: extractivismo, sojización y deforestación en la cultura
+        visual del siglo XXI. MODOS. Revista de História da Arte 2(2): 33–52.
+      Serafini, Paula (2020) Cultural production beyond extraction? A first approach to extractivism
+        and the cultural and creative industries in Argentina. In: Oakley, Kate, and Banks, Mark
+        (eds) Cultural Industries and the Environmental Crisis: New Approaches for Policy. Cham,
+        Switzerland: Springer. pp. 51–63.                    
+      Serafini, Paula (2022) Creating Worlds Otherwise: Art, Collective Action, and (Post)Extractivism.
+        Nashville, TN: Vanderbilt University Press.          
+      Sitrin, Mariana (ed.) (2006) Horizontalism: Voices of Popular Power in Argentina. Oakland, CA:
+        AK Press.                                            
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+       Serafini                                      121     
+                                                             
+       Smink, Verónica (2014) Malvinas Argentinas, la comunidad que logró frenar a Monsanto, el
+         gigante de los transgénicos. BBC Mundo, 12 December. Available at: https://www.bbc.com/
+         mundo/noticias/2014/12/141128_argentina_transgenicos_monsanto_vs (accessed 1 January
+         2021).                                              
+       Svampa, Maristella and Viale, Enrique (2014) Maldesarrollo: La Argentina del extractivismo y el
+         despojo. Buenos Aires, Argentina: Katz.             
+       Svampa, Maristella and Viale, Enrique (2020) El colapso ecológico ya llegó. Una brújula para
+         salir del (mal)desarrollo. Buenos Aires: Siglo veintiuno.
+       Swyngedouw, Erik and Ernstson, Henrik (2018) Interrupting the Anthropo-obScene: Immuno-
+         biopolitics and depoliticizing ontologies in the Anthropocene. Theory, Culture & Society
+         35(6): 3–30.                                        
+       Szeman, Imre and Wenzel, Jennifer (2021) What do we talk about when we talk about extractiv-
+         ism? Textual Practice 35(3): 505–523.               
+       Tomba, Massimiliano (2019) Insurgent Universality: An Alternative Legacy of Modernity. Oxford:
+         Oxford University Press.                            
+       Tlostanova, Madina (2017) On decolonizing design. Design Philosophy Papers 15(1): 51–61.
+       Ulloa, Astrid (2015) Environment and development: Reflections from Latin America. In: Perreault,
+         Tom, Bridge, Gavin, and McCarthy, James (eds) The Routledge Handbook of Political
+         Ecology. London & New York: Routledge, pp. 320–331. 
+       Viveiros de Castro, Eduardo (2015) Who is afraid of the ontological wolf?: Some comments on
+         an ongoing anthropological debate. The Cambridge Journal of Anthropology 33(1): 2–17.
+       Wilson, Sheena (2018) Energy imaginaries: Feminist and decolonial futures. In: Bellamy, Brent
+         Ryan, and Diamanti, Jeff (eds) Materialism and the Critique of Energy. Chicago: MCMPrime
+         Press, pp. 377–412.                                 
+       Yusoff, Kathryn (2018) A Billion Black Anthropocenes or None. Minneapolis, MN: University of
+         Minnesota Press.                                    
+       Paula Serafini is Lecturer in Creative and Cultural Industries at Queen Mary University of
+       London. Her research is situated in the fields of cultural politics and political ecology, and her
+       interests include extractivism, social movements, art activism and socio-ecological transitions. Her
+       recent works include Arte y Ecología Política (co-edited with Gabriela Merlinsky; IIGG-CLACSO,
+       2020) and Creating Worlds Otherwise: Art, Collective Action, and (Post)Extractivism (Vanderbilt
+       University Press, 2022), which received an Honorable Mention from the Latin American Studies
+       Association.                                          
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+                          Body                     &         
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                        Society                              
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                Editor-in-Chief:
+                                             MMiikkee FFeeaatthheerrssttoonnee
+                                   GGoollddssmmiitthhss,, UUnniivveerrssiittyy ooff LLoonnddoonn,, UUKK
+                                                     Editor: 
+                                               Lisa Blackman 
+                                   GGoollddssmmiitthhss,, UUnniivveerrssiittyy ooff LLoonnddoonn,, UUKK
+                                                             
+                                               Managing Editor:
+                                               Tomoko Tamari 
+                                   GGoollddssmmiitthhss,, UUnniivveerrssiittyy ooff LLoonnddoonn,, UUKK
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+    Body & Society hhaass ffrroomm iittss iinncceeppttiioonn iinn MMaarrcchh 11999955 aass aa ccoommppaanniioonn jjoouurrnnaall ttoo
+    Theory, Culture & Society, ppiioonneeeerreedd aanndd sshhaappeedd tthhee fifi eelldd ooff bbooddyy--ssttuuddiieess.. IItt
+    has been committed to theoretical openness characterized by the publication of
+    a wide range of critical approaches to the body, alongside the encouragement
+                                                             
+    and development of innovative work that contains a transdisciplinary focus.
+                                                             
+                                                             
+                                                             
+                                                             
+    journals.sagepub.com/home/bod                            
+                                                             

@@ -1,0 +1,74 @@
+{
+  "paper_id": "black-johanssen-2025-the-subject-of-ai-a-psychoanalytic-intervention",
+  "title": "The Subject of AI: A Psychoanalytic Intervention",
+  "author": "Black and Johanssen",
+  "year": 2025,
+  "journal": "Theory, Culture & Society",
+
+  "opening_move": {
+    "type": "polemical_intervention",
+    "description": "Existing psychoanalytic approaches to AI (especially Lacanian ones) err by attributing a form of subjective formation to AI itself, treating the chatbot as an 'automated subject'. The paper argues instead that psychoanalysis should illuminate the human-AI relation, not anthropomorphize the machine.",
+    "anchored_in": ["Lacan", "Magee et al.", "Millar"],
+    "stakes_claimed": "A Lacanian analysis of the user-chatbot relation as inherently relational — rather than AI-as-subject — reveals the social structures and fantasies underpinning human engagement with generative AI."
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["Magee et al. (automated subject framework)", "Millar (AI as 'subject supposed to know')"],
+    "engagement_structure": "sustained_critique",
+    "immanent_critique": true,
+    "own_position_type": "internal_reconstruction",
+    "own_position_explicit": true,
+    "description": "The paper works within the Lacanian tradition but corrects what it sees as a misapplication: rather than psychoanalyzing AI as a subject, it uses Lacanian concepts (big Other, five discourses, analyst-analysand relation) to analyze the relational dynamic between human users and chatbots."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_interpretive_case",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "Conceptual analysis using Lacanian theory; illustrative interpretation of chatbot interactions (Meta's Liv chatbot, ChatGPT exchanges) as cases to apply the framework.",
+    "notes": "Chatbot exchanges are used illustratively, not as systematic empirical data. The argument is fundamentally conceptual-theoretical."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "political_event",
+    "case_name": "ChatGPT and Meta's Liv chatbot (specific user-chatbot exchanges)",
+    "case_function": "illustration",
+    "case_relation_to_argument": "illustrative_only",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "medium",
+    "domain": "technology ethics, psychoanalytic theory",
+    "claim_type": "critical_diagnostic",
+    "closure_type": "open_ended_with_burden_on_reader"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "immanent_critique",
+    "framework_proposal",
+    "case_introduction",
+    "case_interpretation",
+    "normative_derivation",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": true,
+
+  "key_concepts": ["big Other", "subject supposed to know", "analyst-analysand relation", "five discourses", "relational AI", "techno-cultural fantasy"],
+
+  "thinkers_deployed": {
+    "central": ["Lacan", "Žižek", "Fink"],
+    "engaged_critically": ["Magee et al.", "Millar"],
+    "referenced_only": ["Apprich", "Johanssen and Krüger", "Black"]
+  },
+
+  "confidence_notes": "The paper is a conceptual intervention within the Lacanian psychoanalytic tradition applied to AI. The chatbot exchanges are illustrative cases rather than empirical research. The normative claim is implicit: anthropomorphizing AI as subject is theoretically mistaken and ethically misleading; a relational model is preferable."
+}

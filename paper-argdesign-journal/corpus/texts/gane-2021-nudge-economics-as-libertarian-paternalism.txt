@@ -1,0 +1,1251 @@
+[PAGE 1]
+                                                             
+                                                             
+                                                             
+                                                             
+        Special Issue: Post-Neoliberalism?                   
+                                            Theory,Culture&Society
+                                             2021,Vol.38(6)119–142
+        Nudge   Economics     as                             
+                                              !TheAuthor(s)2021
+        Libertarian   Paternalism                            
+                                             Articlereuseguidelines:
+                                         sagepub.com/journals-permissions
+                                         DOI:10.1177/0263276421999447
+        Nicholas Gane                                        
+                                           journals.sagepub.com/home/tcs
+        Universityof Warwick                                 
+        Abstract                                             
+        Giventhegrowingprominenceofnudgeeconomicsbothwithinandbeyondtheacad-
+        emy,itisatimelymomenttoreassessthephilosophicalandpoliticalargumentsthatsit
+        at its core, and in particular what Richard Thaler and Cass Sunstein call libertarian
+        paternalism.Thefirsthalfofthispaperprovidesadetailedaccountofthemainfeatures
+        ofthisformofpaternalism,beforemoving,inthesecondhalf,toacriticalevaluationof
+        thenudgeagenda thatquestions,among other things,thegenderedbasis ofpaternal-
+        istic governance; the idea of ‘nudging for good’; and the political values that underpin
+        nudge.ThefinalsectionofthispaperbuildsontheexistingworkofJohnMcMahonby
+        askingwhetherlibertarianpaternalismshouldbeunderstoodasanew,hybridformof
+        neoliberalism,or,rather,asapost-neoliberalformofgovernancethathasemergedout
+        of, and flourished in, the post-crisis situation.    
+        Keywords                                             
+        behavioural economics, libertarian paternalism, neoliberalism, nudge, Sunstein, Thaler
+                                                             
+        In 2008, at the very point at which the global financial crisis unfolded,
+        Richard Thaler and Cass Sunstein published their landmark book
+        Nudge: Improving Decisions About Health, Wealth and Happiness. The
+        successofthisbook,whichhasnowsoldover1.5million copies,wasnot
+        unconnected to the timing of its publication, for as financial markets
+        entered a state of all-out panic, Nudge insisted that we should move
+        away from models of markets made up of fully rational actors and
+        towards an understanding of humans as beings that, by nature, are
+        prone to making mistakes. The arguments of Nudge were not altogether
+        new, as they built on previous attempts by figures such as Daniel
+        KahnemanandAmosTverskytoapplyinsightsfrombehaviouralpsych-
+        ology to thefield of economics (see Thaler, 2015,for adetailed account).
+        What was new, however, was that Nudge presented and applied these
+        insights in ways that could be understood both by policy makers and lay
+        readers, while at the same time advancing an intellectual critique of
+        Correspondingauthor:NicholasGane.Email:n.gane@warwick.ac.uk
+        TCSOnlineForum:https://www.theoryculturesociety.org/ 
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+      120                           Theory, Culture & Society 38(6)
+                                                             
+      neoclassical ideas of market equilibrium and the homo economicus. Not
+      surprisingly, Nudge attracted extensive critical scrutiny from across the
+      socialsciences(see,forexample,Johnetal.,2009;Anderson,2010;Jones
+      et al, 2013; Leggett, 2014) in the immediate years following its publica-
+      tion, but since this early wave of interest the intellectual status and gov-
+      ernmental influence of nudge economics have grown markedly. In 2017,
+      Thaler won the Nobel Prize in Economic Sciences, and in 2018 Sunstein
+      was awarded the prestigious Holberg Prize by the Norwegian govern-
+      ment. Meanwhile, on the ground, the flagship UK Behavioural Insights
+      Team, which was championed at its outset by the then Prime Minister,
+      David Cameron, and advised by Thaler (see Thaler, 2015: 330–45;
+      Halpern, 2015), has expanded from a team of seven people based in
+      the Cabinet Office to a ‘global social purpose company’ that has
+      worked on 750 projects worldwide and has trained 20,000 civil servants
+      and practitioners in ‘behavioural insights’ of different kinds (see https://
+      www.bi.team/about-us/).                                
+        Over the past decade, nudge economics has moved from strength to
+      strength, both within the academy and policy circles, leading David
+      Halpern, Chief Executive of the Behavioural Insights Team, to declare
+      triumphantly: ‘one thing is for sure: nudging – the use of behavioural
+      insights and the experimental methods it has brought in its wake – are
+      here to stay’ (2015: 351). This prediction has thus far proved to be cor-
+      rect, as in the UK a number of prominent behavioural scientists, includ-
+      ing Halpern, have become members of the Scientific Advisory Groupfor
+      Emergencies (SAGE): the body to have provided ‘scientific and technical
+      advice’toaidgovernmentdecision-makingthroughthecurrentCovid-19
+      crisis. Indeed, in the UK ‘behavioural insights’ have been central to the
+      government’s response to this crisis: from the idea of herd immunity
+      advanced by Halpern (which was initially adopted but soon dropped
+      by the government) through to practical nudges designed to encourage
+      mask-wearing and effective hand-washing (see https://www.bi.team/our-
+      work/covid-19/). Nudging, it seems, is not only here to stay, as Halpern
+      predicted, but is becoming increasingly prominent as both a theory and
+      technique of governance.                               
+        Given this, it is a timely moment to reassess the philosophical and
+      political commitments that sit at the core of nudge theory. While, at
+      first sight, the growing prominence of behavioural economics might
+      seemfarremovedfromtheconcernofthisspecialissue–post-neoliberal-
+      ism – this is not the case, as the success of Nudge is underpinned by an
+      argument for a particular type of political-economic governance that
+      works out of but also beyond existing forms of neoliberal reason (see
+      McMahon, 2015): what Thaler and Sunstein call libertarian paternalism.
+      This article will look critically at this form of paternalism, the details of
+      which have been rearticulated and refined by Thaler (2015) and Sunstein
+      (2014,2019a) many times sincethe publication ofNudge;something that
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+        Gane                                         121     
+                                                             
+        has been neglected in existing analyses of nudge economics in favour of
+        assessment of different behavioural policy interventions (notable excep-
+        tionsarePykett,2012;Brown,2012;Curchin,2016;Hansen,2016).With
+        this aim, the first half of this paper provides an outline of Thaler and
+        Sunstein’s conception of libertarian paternalism, before moving, in the
+        second half, to a critical evaluation of the nudge agenda that will ques-
+        tion, among other things, the gendered basis of paternalistic governance;
+        the idea of ‘nudging for good’; and the political values that underpin
+        Nudge. The final section of this paper, in keeping with the broader aims
+        of this special issue, will build on the work of McMahon (2015) by
+        arguing that libertarian paternalism is a new, hybrid form of neoliberal-
+        ism, rather than something that might be termed ‘post-neoliberal’; one
+        that departs, in important respects, from Austrian, German and North
+        American trajectories of neoliberal reason while, at the same time,
+        developing and extending these in new ways by addressing the ‘internal-
+        ities’ of consumer behaviour that cannot be disciplined and corrected by
+        raw market forces.                                   
+                                                             
+        What is Libertarian Paternalism?                     
+        Attheheartofthenudgeagendaisanidealofsoftgovernancethatseems
+        contradictory in basis: libertarian paternalism. This term, which was ori-
+        ginally to be the title of the book Nudge (Thaler, 2015: 324), was first
+        articulatedbyThalerandSunsteininapaperpublishedin2003,inwhich
+        they argue for a form of soft paternalism that operates without coercion
+        and which seeks to influence individuals to make better consumer and
+        lifestyle choices rather than, in the spirit of harder forms of state pater-
+        nalism, restrict the range of choices on offer. The idea is that libertarian-
+        ism and paternalism can be combined in order to correct the deficiencies
+        that, for Thaler and Sunstein, are inherent in both. For, on one hand,
+        hard paternalism is said to impinge on individual freedom of choice,
+        while, on the other, raw libertarianism assumes that individual con-
+        sumers are rational creatures that are able to act in their own best inter-
+        ests. Thaler and Sunstein argue instead that humans are not ‘econs’ (see
+        Thaler, 2015: 348) and do not act like the idealized subject of homo
+        economicus as they are afflicted by behavioural biases of different kinds
+        (overreaction, lack of self-control, over-confidence, guilt, to name but a
+        few; see Thaler, 2015), and so may not be able to make optimal choices
+        from which they will benefit. For this reason, a form of soft paternalism
+        is needed to improve the choices made by individuals without coercing
+        themtoactagainsttheirwill.Tothisend,ThalerandSunsteinarguethat
+        experts with an understanding of behavioural science can gently ‘nudge’
+        people to make choices that will improve their lives in ways that do not
+        restrict the freedoms of those involved. They write: ‘Because people are
+        humans not econs... they make predictable errors. If we can anticipate
+                                                             
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+      122                           Theory, Culture & Society 38(6)
+                                                             
+      those errors, we can devise policies that will reduce the error rate’
+      (Thaler, 2015: 325). And in an earlier paper: ‘Our goal... [is]... to
+      defend libertarian paternalism, an approach that preserves freedom of
+      choice but that authorizes both private and public institutions to steer
+      peopleindirectionsthatwillpromotetheirwelfare’(ThalerandSunstein,
+      2003: 179). On this basis, Thaler and Sunstein argue that libertarianism
+      andpaternalismare‘farmoreattractivetogetherthanalone’(Thalerand
+      Sunstein, 2008: 5). For by improving the architecture of choice (soft
+      paternalism), rather than restricting choice through state-imposed man-
+      dates and bans (hard paternalism), they argue that individuals can be
+      empowered to make better choices for themselves, thereby limiting the
+      extent and reach of government and state-based forms of coercion (in
+      keeping with a libertarian ethos).                     
+        In the introduction to Nudge, Thaler and Sunstein articulate this vision
+      of libertarian paternalism in further detail, and, in particular, attempt to
+      defend their position against libertarian critics who might argue that any
+      form of paternalism, no matter how soft it be, inevitably introduces elem-
+      ents of coercion and control that restrict individual freedoms. Against this
+      charge, they cite Milton Friedman, and argue not only that people should
+      be ‘free to choose’, but also that freedom can be enhanced rather than
+      restricted by altering the structure of choice to benefit the chooser. They
+      are vocal on this point: ‘Libertarian paternalists want to make it easy for
+      peopletogotheirownway;theydonotwanttoburdenthosewhowantto
+      exercise their freedom’ (2008: 5). They argue that ‘choice architects’ can
+      help individuals go their own way by nudging them to make choices that
+      will make their lives ‘longer, happier, and better’, and that the value of
+      these choices, ultimately, is to be judged not by the experts who do the
+      nudging but by individuals who are the recipients of the nudge. They add
+      that nudging tends to involve modest interventions, including setting
+      default options for consumers in order to make choice easier (see, for
+      example, Thaler and Sunstein, 2008: 14), if indeed choice subsequently
+      remains necessary. Thaler and Sunstein anticipate that this could alarm
+      more traditional libertarians who loathe placing trust in government offi-
+      cials,bureaucrats andexperts,on the groundsthat this can empower them
+      toactintheirowninterests.Inresponse,ThalerandSunsteinstatethat‘we
+      share these concerns’, and, because of this, ‘we emphatically agree that for
+      government,therisksofmistake,bias,andoverreachingarerealandsome-
+      timesserious’.Butthisconcern,theysay,bolstersratherthandetractsfrom
+      theirbrandoflibertarianpaternalism:‘Wefavournudgesovercommands,
+      requirements, and prohibitions in part for that reason’ (2008: 11). They
+      argue that nudge economics safeguards against government coercion
+      because it works by preserving individual freedom of choice (Thaler and
+      Sunstein, 2008: 12), and, more than this, it can enhance such freedom by
+      enabling individuals to navigate life-choices in ways that will bring greater
+      benefits to themselves (Sunstein, 2019: 1–10).         
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+        Gane                                         123     
+                                                             
+         While the arguments of Nudge have been celebrated in some circles as
+        being‘groundbreaking’(Brown,2014),ThalerandSunsteinarenotalone
+        in seeking to reinvent paternalism as a form of contemporary govern-
+        ance. Through the 1990s, Lawrence Mead – one of the most prominent
+        neo-conservative commentators on questions of welfare and poverty –
+        laid the grounds of a ‘new’ paternalism that was intended to control the
+        lives of the poor (see Mead, 1997: 6). Mead’s work is important because
+        he was the figure to reintroduce the idea of paternalism into mainstream
+        USandthenUKpoliticsthroughthisperiod(hiswork,forexample,was
+        ofinteresttotheInstituteofEconomicAffairs,whichpublishedanedited
+        collection, From Welfare to Work, which had the subtitle Lessons from
+        America;seeMeadetal.,1997).Itis,asCurchin(2016)suggests,instruct-
+        ive to compare Mead’s work to that of Thaler and Sunstein, as it is
+        against the backdrop of his ‘new’ paternalism that their brand of liber-
+        tarian paternalism can be considered something new. While neither
+        Thaler nor Sunstein reference Mead in their major writings, Mead, for
+        his part, wrote an early review of Nudge, through the course of which he
+        is critical of their ‘libertarian’ commitment to turn welfare ‘obligations’
+        into individual ‘choices’ (see Mead, 2009). It is useful to turn back to
+        Mead’s work to consider the type of paternalism against which Nudge is
+        positioned, even if implicitly, and to address the political values that
+        underpin Thaler and Sunstein’s commitment to a libertarian alternative.
+         The obvious place to start is Mead’s edited collection The New
+        Paternalism, at the outset of which paternalism is defined as ‘the close
+        supervisionofthedependent’(1997:1).Mead’sconcerninthisvolumeis
+        apoliticalone:todevelopnew‘supervisorypolicies’thatcanbe‘directed
+        toward the poor or disadvantaged, or at least members of these groups
+        who become dependent on society’ (1997: 2). The aim of such policies is
+        to move from a conception of welfare as an automatic right for the poor
+        to something that is to be dependent on them meeting ‘certain behav-
+        ioural requirements’ (Mead, 1997: 2; emphasis added). Underlying this
+        shiftisadistinctionbetweenthepoorthataredeserving,orwhoarewell-
+        behaved and exhibit the correct behavioural traits, and the deviant poor
+        who are not. Mead’s blueprint for a ‘new paternalism’ centres explicitly
+        on changing the behaviour and habits of the poor, and in the first eight
+        pages of The New Paternalism, there are four references to ‘behavioural
+        requirements’ and one reference to ‘good behaviour’. For Mead, behav-
+        ioural change is to be achieved through government-led initiatives that
+        actively seek to change and control the lifestyles of the poor, first, by
+        enforcing norms that should be obligatory (for example, ‘policies that
+        make school attendance compulsory for children or require welfare
+        recipients to work as a condition of receiving aid’ (1997: 4); and,
+        second, by granting government agencies the power ‘to judge individual
+        interests’ and, with this, the ‘right to tell its dependents how to live, at
+        least in some respects’ (1997: 4). This is the basis of a new paternalist
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+      124                           Theory, Culture & Society 38(6)
+                                                             
+      social policy that is ‘directive’ in basis, and which emphasizes the obli-
+      gationsofwelfare‘clients’insteadofprioritizingtheirrightsorneeds(see
+      Mead, 1997: 21).                                       
+        Mead’s primary contribution to a social policy that is directive in this
+      way is workfare (see Mead et al., 1997): a government-led initiative that
+      seeks to address ‘low work levels among poor adults’ by enforcing work
+      as a requirement for welfare benefits provided by the state in return.
+      Mead argues that this form of directive social policy is required because
+      the poor cannot be left to seek work on a voluntary basis as their situ-
+      ation results from their ‘passivity’, or, put bluntly, from the fact that
+      ‘they do so little to help themselves’ (1992: 213). Active governance
+      from state agencies is thus needed, for Mead, to discipline the poor in
+      ordertomakesurethatwelfaresupportiswell-deserved.Thismeansthat
+      poverty is treated as something rooted in the behaviour and values of
+      those who are dependent on welfare for their survival, not as a systemic
+      property of a capitalist system that operates to the advantage of a few
+      againstthemany.TherearesimilaritiesherewiththeworkofGiddens,in
+      which the poor are encouraged to change their lifestyles by becoming
+      more entrepreneurial and engaging in ‘active risk taking’ to better them-
+      selves (see Giddens, 1998: 116). But in the work of Mead, more directly,
+      thepoorareseen tobeatblame forbeingpoor,andbecauseofthistheir
+      positioncanbeimprovedthroughstateinterventionandgovernancethat
+      changes their behaviour and conduct.                   
+        This argument has a strong racial dimension. For just as the poor are
+      said to be at blame for their position because of their lack of desire to
+      work, Mead argues that ‘black success’ is prevented, for the most part,
+      not by structural forms of racism and discrimination, but by misplaced
+      beliefs and inadequate family structures (see Mead et al., 1997: 14–15).
+      Mead’s answer is to emphasize and enforce the value of work, which is
+      said to be the cure for ‘family failures’ and the moral ineptitude of the
+      poor. He writes: ‘Those who would be free must first be bound... The
+      source of bondage for today’s seriously poor is no longer social injustice
+      but the disorders of their private lives. For these Americans, the way
+      forward is no longer liberation but obligation’ (p. 15). And this, in
+      sum, is the basis of his new paternalism: a corrective form of governance
+      thatidentifiesthecausesofinequalityaslyingwithintheprivatelivesand
+      associated family structures of individuals, and which sees paid work,
+      rather than welfare, as the solution.                  
+        It would appear, at first sight, that the new paternalism of Mead and
+      the libertarian paternalism of Thaler and Sunstein are far removed from
+      one another. Mead, in a review of Nudge, takes issue with many of the
+      core principles of Thaler and Sunstein’s work. He argues that while, in
+      Nudge, humans are presented as irrational beings, there is one group, in
+      particular, that possesses ‘serious dysfunctions’: the underclass. Because
+      ofthis,hesays,socialpolicyshouldbestronglypaternalistic,andthatfor
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+        Gane                                         125     
+                                                             
+        the benefit of society more widely the behaviour of this group must be
+        governed: ‘Welfare recipients must work to get aid, the homeless must
+        obey rules to get shelter, and students must pass tests to be promoted in
+        school. Those demands are not libertarian. They are presented as obli-
+        gations, not choices’ (Mead, 2009). Mead, furthermore, objects to the
+        underlying economism of Thaler and Sunstein’s position, arguing that
+        while they are critical of homo economicus, nonetheless they remain
+        wedded to a model of economic (ir)rationality, and this, among other
+        things, ignores the moral basis of capitalism. This underlying morality,
+        which is not purely economic in basis, is, he argues, rooted in the ‘ten-
+        dency to care about the views of others’, and is not a violation of ration-
+        ality but a virtue that is a distinguishing feature of the modern Western
+        order, one that is missing elsewhere. Mead writes: ‘A lack of trust and
+        civility is one reason markets fail to make societies rich in the less devel-
+        oped world’ (2009).                                  
+         Such proclamations are far removed from the soft economic paternal-
+        ism advocated by Thaler and Sunstein, and there are at least three other
+        differencesbetweennudgeeconomicsandMead’snewpaternalismthatare
+        worthy of note; differences that in some respects also reveal points of
+        convergence. First, whereas Mead’s work centres on correcting the poor
+        by requiring them to work for benefits, Thaler and Sunstein frame Nudge
+        asbeingofuniversalbenefittohumankind,notjustthepoor,byencoura-
+        gingindividuals to become better,self-benefittingconsumers. Rather than
+        targeting a group explicitly, such as the ‘black’ and ‘poor’ in the work of
+        Mead, which is then directed to improve itself through work, the nudge
+        agenda seeks to empower individuals in general to better their lives by
+        nudging them closer to a fictional model of homo economicus. The ques-
+        tion, however, is whether nudges are indeed to be applied in general or
+        rather to improve the lives of individuals who deviate furthest from an
+        economically ‘rational’ behavioural norm. If the rich, while still prone to
+        making mistakes, come closest to this norm given that at some point they
+        havemadegoodfinancialdecisions,thendoesthismeanthatitisthepoor,
+        in particular, that need nudging to be better decision-makers? And does
+        this imply, by extension, and in line with the work of Mead, that poverty
+        can be explained by the behavioural traits of different individuals and
+        groups? It might be noted that this is not the only point on which the
+        positionsofMead andThalerand Sunstein potentially converge,forboth
+        call for responsibilities to be passed downwards from the state to individ-
+        uals who are then expected to take better care of themselves. In the work
+        ofMeadthepoorshouldtakeresponsibilityfortheirownfatewhilebeing
+        directed and supervised by state agencies, while in Thaler and Sunstein
+        individual consumers are to be nudged to make choices from which they
+        will benefit. What is missing, however, in both cases, is any concern for
+        structural forms of power and privilege that produce and maintain forms
+                                                             
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+      126                           Theory, Culture & Society 38(6)
+                                                             
+      of material inequality and which shape and constrain the very basis of
+      choice-making; a point to which we will return below.  
+        Second, whereas Mead’s directive social policy is to be government-
+      led, the work of Thaler and Sunstein gives increased prominence to
+      ‘experts’ or ‘choice architects’ who not only declare themselves to be
+      politically neutral (see Thaler and Sunstein, 2008: 14–15), but also
+      claim to reduce the cost and increase the effectiveness of government
+      through the application of scientific methods and principles drawn
+      from the field of behavioural science. Will Davies rightly views the emer-
+      gence of such experts as a key feature of neoliberalism: ‘We see
+      new breeds of expert – coach, regulator, risk manager, strategist, guru
+      – offering toolkits and advice on how to navigate and act upon a con-
+      stantly changing and unpredictable environment’ (2014: 29). He adds
+      that these ‘technocrats do not fit tidily into categories of ‘‘science’’ or
+      ‘‘politics’’, as they are neither ‘‘objectively’’ disengaged like the scientist,
+      nor goal oriented like the politician’ (2014: 29). Does this description
+      apply to choice architects such as Thaler and Sunstein? They claim
+      that the nudgeagenda is independent of any particular political ideology
+      because it is underpinned by hard science, and, because of this, can be
+      used to cross ‘partisan divides’ (2008: 15). At the conclusion of his book
+      Misbehaving, Thaler declares that behavioural scientists ‘have a lot of
+      wisdom’, and that we should draw on this ‘by carefully selecting nudges
+      basedonscienceandsubjectingthesetorigoroustests’(2015:345;onthe
+      use of randomized control trials, which Sunstein (2014: 11) terms ‘the
+      goldstandardforempiricalresearch’,seeThaler,2015:338–43).Whether
+      nudgeeconomicsisindeedaformofvalue-freesciencewillbeconsidered
+      below, but, for the moment, it is important to note that the goal of the
+      nudgeisnottointroducenewgovernment-ledinitiatives, suchasMead’s
+      workfare, but to transform the understandings and techniques of gov-
+      ernment itself through the application of principles drawn from behav-
+      ioural science, or what Davies (2014: 167) aptly terms ‘economic
+      psychology’. Throughout Nudge, the gains from such behaviourally-
+      informed government are presented primarily in economic terms: they
+      can help cut through red-tape and avoid waste (on the so-called ‘Red
+      Tape Challenge’ see Halpern, 2015: 57); they can make changes to the
+      underlying architecture of consumer choice at very little cost; and
+      because of this there is ‘no burden on taxpayers at all’ (Thaler and
+      Sunstein, 2008: 14). The aim, then, is to transform the culture and prac-
+      ticeofgovernmentratherthanextendthescopeandreachofstatepower,
+      as with the harder paternalism advocated by Mead. Hence, Thaler and
+      Sunstein declare, in a key opening passage of Nudge, that ‘we are not for
+      bigger government, just for better governance’ (2008: 15, emphasis in
+      original).                                             
+        Third, whereas, for Mead, the family is the key social institution for
+      promoting personal and public welfare, the value and role of this
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+        Gane                                         127     
+                                                             
+        institution within nudge theory is less clear. One complication is that
+        Thaler and Sunstein draw a vision of libertarianism from the work of
+        Milton Friedman, and in particular from his co-authored book with his
+        wife Rose Friedman, Free to Choose (1980). While it might be presumed
+        that a strong libertarian position such as that advanced by Friedman
+        might not see the value of social institutions such as the family, quite
+        the opposite is the case. For in Free to Choose, Milton and Rose
+        Friedman state that: ‘The family, rather than the individual, has
+        always been and remains today the basic building block of our society,
+        thoughitsholdhasclearlybeenweakening–oneofthemostunfortunate
+        consequencesofthegrowthofgovernmentpaternalism’(1980:33).While
+        itmightcomeasasurprisethat,forFriedman,thefamilyratherthanthe
+        marketisthekeysocietalinstitution,asMelindaCooper(2017:42–9)has
+        shown in detail, this position is closely tied to his broader stance on the
+        question of welfare reform. How, then, do Thaler and Sunstein position
+        themselves in relation to these arguments by Friedman and Mead on the
+        status of thefamily? Their answeris to radicalize Friedman’s libertarian-
+        ism byarguing thatif government paternalism has a tendency to weaken
+        the family unit, then the solution is to privatize marriage so that ‘the
+        directive and exclusionary role of the state’ is reduced (Thaler and
+        Sunstein, 2008: 221). Their position is thus quite different to neo-con-
+        servative approaches, including the new paternalism of Mead, that seek
+        to reinstate traditional family values. Their answer instead is to argue
+        that the current institution of marriage ‘is not nearly libertarian enough’
+        (Thaler and Sunstein, 2008: 218) as it ‘creates a monopoly on the legal
+        form of marriage; imposes sharp limits on who may enter and how; and
+        accompanies the legal form with material and symbolic benefits that it
+        aloneconfers’(2008:219).ThalerandSunsteinareinsistentthatthestate
+        should not interfere in such private matters, but with one notable excep-
+        tion: where the interests of children are involved. In such cases, legal
+        ‘mandates’ rather than mere behavioural nudges are said to be ‘perfectly
+        appropriate’ (2008: 218).                            
+         Suchquestionsregardingthelimitsofstatepaternalism,includingwho
+        it should apply to and the form it should take, return us to the concerns
+        of 19th-century political economy and in particular the work of John
+        Stuart Mill, which, at its core, addresses what Claeys terms ‘the nature
+        and limits of the power which can be legitimately exercised by society
+        over the individual’ (Mill, 1991: 5). Mill’s ideas feature prominently in
+        theworkoflibertarianpaternalistssuchasSunstein,andinparticularhis
+        book Why Nudge?, which takes the following passage from Mill’s On
+        Liberty as one of its epigraphs:                     
+         The only purpose for which power can be rightfully exercised over
+         any member of a civilized community, against his will, is to prevent
+         harm to others. His own good, either physical or moral, is not a
+                                                             
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+      128                           Theory, Culture & Society 38(6)
+                                                             
+        sufficient warrant. He cannot rightfully be compelled to do or for-
+        bear because it will be better for him to do so, because it will make
+        him happier, because, in the opinion of others, to do so would be
+        wise, or even right. (Sunstein, 2014; see Mill, 1991: 14)
+                                                             
+      This passage is quoted routinely within libertarian readings of Mill (of
+      which there are many; see Claeys, 2013: 1) that call for freedom of the
+      individual from the powersof the stateexcept ininstances where harm is
+      causedtoothers(theso-called‘harmprinciple’). Insuchreadings,Millis
+      celebrated as a champion of negative liberty and of the private freedoms
+      of the individual, as exemplified by his declaration that ‘Over himself,
+      overhisownbodyandmind,theindividualissovereign’(Mill,1991:14).
+      But caution must be exercised here as, isolated passages aside, Mill is by
+      no means a libertarian in the sense advocated by Thaler and Sunstein.
+      Elsewhere in On Liberty, Mill, while asserting the value of individuality,
+      not only declares that ‘no person is an entirely isolated being’ (1991: 88),
+      with the implication that private choices and harms are likely to impact
+      on the lives of others, but also that the state should be positioned to
+      maintain ‘a vigilant control’ of the power an individual can exercise over
+      others(see1991:116).Moreover,asClaeys(2013:11)rightlyargues,itis
+      a mistake to read Mill’s On Liberty in isolation from his other major
+      works, in particular Principles of Political Economy. A broader reading
+      of Mill reveals that in important respects he favoured state intervention
+      to promote social equality and justice – a commitment that is far
+      removed from the work of Friedman, which, in turn, is the touchstone
+      of libertarianism for Thaler and Sunstein. Claeys (2013: 119) observes
+      that,forMill, suchintervention istotakemany differentforms: thestate
+      shouldtackleinequalitythroughredistributivetaxationandlandreform;
+      it should exclude uneducated people from franchise; and it should coun-
+      ter the excesses of free market capitalism through the introduction of
+      PoorLaws. Andonthisbasis,ClaeysdescribesMill’sapproachaspater-
+      nalist rather than libertarian, for ‘it sought to augment happiness, secur-
+      ity, liberty and equality where these failed to result from individual
+      activity freely themselves’ (2013: 122). Nothing, seemingly, could be fur-
+      ther from the libertarian cause.                       
+        Sunstein does not side either with Mill’s state paternalism (as
+      described by Claeys above, and which is barely recognized in
+      Sunstein’s account) or with his harm principle. Rather, Why Nudge?
+      (2014) opens with the declaration that ‘it is exceedingly important to
+      limit the power of government, and of course individuals often know
+      best. Adults should not be treated like children’. It continues: ‘On
+      those scores, Mill still has a great deal to teach us’ (2014: 5). Sunstein,
+      however, objects to Mill’s harm principle (which is not seen to be pater-
+      nalistic; see Sunstein, 2014: 80) onthe grounds thathumans are prone to
+      behavioural biases of different types and thus make mistakes that can
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+        Gane                                         129     
+                                                             
+        result in serious harm to themselves and to others (see Sunstein, 2014:
+        163). For this reason, he argues, a soft form of paternalism is necessary
+        to tackle the ‘internalities’, or the irrationalities of individual choice-
+        making that lead to ‘problems of self-control and errors in judgement’
+        (Sunstein,2014:37),ratherthantheexternalities,orunforeseenrisksand
+        uncertainties, that have been a key concern of economics from the work
+        of Arthur Pigou onwards.                             
+         Sunsteinrefinesthisargumentbymakingtwoimportantqualifications
+        about the type of paternalism he has in mind. First, he draws a distinc-
+        tion between ‘means’ paternalists, who seek to improve the choices
+        people make to reach their desired ends, and ‘ends’ paternalists, who
+        attempt to narrow freedom of choice with the intention of benefitting
+        the well-being of the chooser. Sunstein firmly advocates the former
+        (means paternalism) and argues that the aim of libertarian paternalism
+        is ‘to create choice architecture that will make it more likely that people
+        willpromotetheirownends,astheythemselvesunderstandthem’(2014:19,
+        emphasis in original). And second, he argues that the nudge agenda is in
+        keeping with ‘soft’ paternalism in so far as it seeks to ‘improve people’s
+        welfare by influencing their choices without imposing material costs on
+        these choices’ (2014: 58, emphasis in original). On both counts,
+        Sunstein argues, this form of paternalism can still be termed libertarian
+        because it seeks neither to direct people towards particular ends nor
+        restrict the range of ends from which they are able to choose.
+         SunsteinreturnstothesequestionsinhisbookOnFreedom(2019a),in
+        which he identifies what he calls ‘navigability’ as the main challenge for
+        people to be free in the modern world. For while individuals should be
+        free to do what they wish without harming or coercing others, the ques-
+        tionsthatfollowas aconsequenceare: whatifthey‘do notknowhowto
+        findtheirway?Whatiftheyhavenoidea?’(2019a:1).Theansweristhat
+        choice architects should help people select the right means to reach their
+        desiredendsordestination,notbyprovidingrulesorguidancebutrather
+        ‘a kind of map’ (2019a: 40) that suggests possible routes to different
+        destinations without prescribingany in particular. Again,it isinstructive
+        tocontrastthisposition tothatofMead,asthequestionofnavigationis
+        a repeated theme in his work on what he calls the ‘passivity’ of the poor.
+        Mead explains that in using the term ‘passive’, ‘I do not mean they lack
+        allenergy–theiractivitymaybefrenetic–buttheiractionslackpurpose
+        and direction’ (Mead, 1992: 213). And because of this, he argues, super-
+        vised programs of workfare, rather than a ‘map’, are necessary: ‘These
+        measures assumethatthepeopleconcernedneed assistance butthatthey
+        also need direction if they are to live constructively’ (Mead, 1994: 2).
+        Whereas, for Mead, workfare is the means not only to welfare but to
+        citizenship and inclusionwithin societymoregenerally, Sunsteinseeksto
+        apply theories and methods of behavioural science in order to identify
+        specific ‘human’ behavioural traits or internalities that can be addressed
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+      130                           Theory, Culture & Society 38(6)
+                                                             
+      through new forms of psychological governance – traits that include
+      ‘limited attention’, ‘self-control problems’, and ‘behavioural biases’
+      such as short-term attention to the present (see Mead, 2019: 15). As a
+      consequence, Sunstein does not move directly from a behavioural ana-
+      lysis of specific groups to a set of disciplinary policy interventions, as in
+      Mead’s new paternalism, but instead insists that nudges can be deployed
+      to help groups of individuals, most notably the poor, to help themselves.
+      He declares, for example, that ‘insufficient navigability’ is a ‘pervasive
+      problem’forpoorpeople,andthatnudgearchitectsshouldmakemodest
+      interventions to structure choice to enable them to find the ‘right track’.
+      The answer, he argues, is not to impose rules or burdens, but to make it
+      easier for individuals to navigate themselves through different life-
+      choices. The idea of a map is again used to illustrate this point: ‘A
+      GPS device respects people’s ends; it does not quarrel with their judge-
+      ment about their preferred destination’ (Sunstein, 2019a: 47). The land-
+      scape of capitalist society is thus not identified as the problem (if
+      anything it is naturalized by representing it in the form of a map), but
+      ratherhowindividualscannavigatethisworldsuccessfully,tothebenefit
+      of themselves. This means that there is little, if any, attention, to the
+      social and political topologies of this map that make travel to certain
+      destinations possible for some but not for others.     
+      The Choice Architect as Father Figure?                 
+                                                             
+      While Thaler and Sunstein’s nudge philosophy is built upon the above
+      commitment to libertarian paternalism, most critical engagement with
+      their work has centred on the former of these two terms and has left
+      their idea of paternalism largely untouched. This is surprising not least
+      because paternalism, as a form of authority, is gendered, as it appeals by
+      definition to the wisdom and power of the father (pater-). Jessica Pykett
+      is one of the few critics to address this aspect of nudge theory, as she
+      argues that Nudge is gendered to its core as, first, its theoretical frame-
+      work is based on ‘insights from sometimes highly gendered accounts of
+      human behaviour’ (2012: 219–20); and, second, its commitment to liber-
+      tarian paternalism reproduces a view of the welfare or ‘nanny’ state as a
+      feminine form from which women are ‘illegitimate beneficiaries’, and in
+      its place asserts a ‘masculine norm of independence and self-reliance’
+      (2012: 231). Pykett rightly calls into question the gendered politics of
+      Thaler and Sunstein’s libertarianism but, in so doing, says little about
+      their accompanying commitment to paternalism, even though this form
+      of authority is said to provide a corrective to the flaws of previous forms
+      of libertarian thinking and politics. In order to consider the values that
+      underpin nudge theory, it is thus necessary to look more closely at the
+      conceptandpoliticsofpaternalismandaskwhythisideaoccupiessucha
+      central place in Thaler and Sunstein’s work.           
+                                                             
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+        Gane                                         131     
+                                                             
+         This, however, is more difficult than it might seem as there are sur-
+        prisingly few existing analyses of paternalism. One exception is a book-
+        length study by John Kleinig, which defines paternalism as a form of
+        ‘enforcedbenevolence’thatisbasedonamodelof‘familialrelationships’
+        within which‘parents actonthepresumptionthattheyknowbetter than
+        the child what is best for the latter’ (1983: 4). Kleinig argues that these
+        relationships are based on a model of the authority of the ‘parent (or
+        father)’, and adds that there is an ‘implicit sexism’ to this term, particu-
+        larly when it is used ‘to characterize circumstances in which women are
+        singled out as the special object of enforced benevolence... (in virtue of
+        their status as ‘‘the weaker sex’’)’ (1983: 4). Kleinig’s bracketing out of
+        the ‘father’ is disappointing as it avoids the question of whether pater-
+        nal forms of authority are gendered by definition, a move confirmed by
+        his declaration that he is interested in enforced benevolence in general
+        ratherthan‘itssexistmanifestations’andthusin‘parentalismratherthan
+        paternalism in a restricted sense’ (1983: 4). This sidesteps the issue: that
+        paternalism is a concept that invokes a patriarchal ideal of the family
+        within which the father carries authority and thus is said to know best –
+        both within and beyond the household. Viewed in this way, paternalism
+        cannotbereadina‘restrictedsense’asitisnotamodelofparenthoodin
+        general or in the abstract, but rather a direct appeal to the power of the
+        father, not only within the family unit but, potentially, within any other
+        social institution.                                  
+         Through the course of Nudge, Thaler and Sunstein assert the norma-
+        tive value of this form of authority by making it central to what they see
+        as good governance and improved choice-making. Given this, Pykett
+        finds it ‘extraordinary’ that ‘so little time is given to considering the
+        question of gender’, especially as the ideas of John Stuart Mill feature
+        so prominently in their work. Mill argued, among other things, ‘that
+        liberty should be extended to women hitherto excluded from self-deter-
+        mination and well-being’ (Pykett, 2012: 232), and his gender politics
+        proved to be divisive within the history of 20th-century libertarian and
+        neoliberal thought. Ludwig von Mises, for example, argued that Mill’s
+        ‘feeble compromises’ were made ‘under the influence of his wife’ (1985:
+        195),andimpliesthatthiswastherootcauseforthedeclineofhisliberal
+        project – a position that was not shared, in turn, by Hayek (1951).
+        However,evenifonecelebratesMill’sprogressiveviewsongenderequal-
+        ity, serious problems remain with his concept of paternalism, which
+        advocates the exercise of power over populations that are said to be
+        unable to govern themselves, usually on the grounds that they lack cul-
+        tural, economic or political development. Against the use of such a con-
+        cept, the answer is not to follow Kleinig, and arguably Thaler and
+        Sunstein, in using paternalism in a ‘less restricted way’, but rather to
+        take issue with the type of authority that is invoked by the use of this
+        term – a form of authority that is not onlyimplicitly gendered but which
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+      132                           Theory, Culture & Society 38(6)
+                                                             
+      has been used, more generally, to legitimate the exercise of absolute
+      power over subjects deemed too unenlightened to be capable of self-
+      determination.                                         
+        Mill’s position in Principles of Political Economy is that liberty should
+      ‘applyonlytohumanbeingsinthematurityoftheirfaculties’,andthatin
+      cases where societies are ‘backward’ there is a case for ‘despotism as a
+      legitimate mode of government’ (see Mill, 1991: 14–15; for a more
+      detailed assessment of such passages in Mill’s work see Claeys, 2013:
+      93–9). Sunstein is aware of this argument by Mill, which he says raises
+      ‘obvious questions about parochialism and condescension’ (2014: 34).
+      But he is seemingly oblivious that such arguments have been deployed
+      historically in order to justify patriarchal and colonial forms of govern-
+      ancethathavesoughttoexcludepopulationsfromdemocraticfreedoms.
+      QuinnSlobodianaddressesthisissueindetailinhisbookGlobalists,and
+      quotes Fritz Machlup, a member of the Mont Pelerin Society and
+      President of the International Economic Association from 1971–4:
+        LetmerecallMill’sdictumthattherecanbenolibertyfor‘savages’.
+        Replace this harsh word by ‘politically and intellectually immature
+        people’ and reflect on the proposition that full democracy may not
+        bethemostsuitablesystemofgovernmentforsuchpeople;that,for
+        example, the unlimited right to vote and elect the men who will
+        govern the country may lead to the destruction of many other free-
+        doms and also of any real chance for economic development.
+        (Machlup cited in Slobodian, 2018: 146)              
+      Slobodian reveals that Machlup was not alone in holding such views.
+      Wilhelm Ro¨ pke, a key figure in the ordoliberal movement and fellow
+      MontPelerinSocietymember, deployedsimilarargumentsinhisdefence
+      ofapartheidinSouthAfrica.TheideaofpaternalismfromMillonwards,
+      then, has had an unpleasant political history, but, nonetheless, Thaler
+      andSunsteinseevalueinpreservingthisconcept,albeititinrevisedform.
+      It is far from clear, however, how their argument for freedom of choice
+      provides a corrective to a model of authority based on the real or sym-
+      bolic power of the father, and which has been closely tied, in some
+      instances, to the legitimation of patriarchal and colonial power. The
+      question begs: if Thaler and Sunstein have no sympathy towards such
+      amodelofauthority,thenwhyplacepaternalism,aconceptthattheysay
+      is ‘reviled’ and ‘which is weighted down by stereotypes from popular
+      culture and politics’ (2008: 5), at the heart of the nudge agenda? Why
+      notsimply advancearangeof behaviouralinsights andassociated policy
+      interventions without tying these to an accompanying political commit-
+      ment to libertarian paternalism?                       
+        The answers to these questions are not immediately apparent, for
+      rather than present themselves as social conservatives who wish to
+                                                             
+                                                             
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+        Gane                                         133     
+                                                             
+        reinforce the value of existing forms of male authority, Thaler and
+        Sunstein see themselves as being progressive on questions of race and
+        gender. To take the example of marriage, they argue that this institution
+        has a ‘highly discriminatory past’ that is enmeshed in ‘sexual and racial
+        inequality’ (Thaler and Sunstein, 2008: 215), largely because it has been
+        controlled by the state through ‘an official licensing scheme’. In place of
+        such arrangement, they argue, marriage should be abolished and civil
+        unions introduced in its place (see 2008: 224) along with nudges ‘to pro-
+        tect those who are most vulnerable’ (2008: 221). Thaler and Sunstein’s
+        primary target here is the state, which in exercising a monopoly over
+        private affairs, has, they say, created and reproduced forms of sexual
+        and racial inequality that would otherwise not exist. Again, the state is
+        positioned as the cause rather than the answer to such problems. Thaler
+        and Sunstein’s solution is for individuals to be free to enter private part-
+        nerships without state interference, and where necessary be nudged by
+        behavioural experts to make such partnerships work effectively. In keep-
+        ing with neoliberalism more generally, there is nothing, it seems, that
+        privatization cannot fix.                            
+         But why does the libertarian devolvement of state power to individual
+        choices and contracts need to be accompanied by a form of authority –
+        paternalism – that invokes the power of a father figure in the form of a
+        choice architect? There are two possible explanations, neither of which
+        aresatisfactory.First,thatThalerandSunsteinbelieve,likeKleinig,that
+        thetermpaternalismcanbeusedinageneralwaytodescribeasoftform
+        of power that works through the benevolence of experts rather than in
+        serviceofanyparticulargroup,genderedorotherwise.Second,thatthere
+        isno suchnaivetyto Thalerand Sunstein’s position, asit isguided byan
+        underlying social conservatism, one that is in keeping with Friedman’s
+        idealization of the family as an alternative to the state that can provide
+        welfare through other means.                         
+         Itisnotclearwhichoftheseexplanationsiscorrect.Itmightbeargued
+        in response that to talk about paternalism, on one hand, and to assign a
+        privileged role to a particular member of a household, on the other, are
+        two different things, for while the prefix ‘pater-’ has gender connotations
+        it does not mean that paternalism as a form of authority is used and
+        invoked by Thaler and Sunstein in ways that are gendered. But if this is
+        the case, then how can a concept that defines a form of male authority,
+        and which makes a direct appeal to the power and wisdom of the father,
+        be used in a normative but gender-neutral way? Indeed, why is it any
+        moreacceptabletospeakinfavouroflibertarianpaternalismratherthan
+        for libertarian patriachalism as a new form of governance. Thaler and
+        Sunstein do more than use paternalism as a purely conceptual or analyt-
+        ical term – they advocate it, politically, as a normative alternative to
+        state-centred power and what they call ‘aggressive government planning’
+        (2008: 15). Moreover, in appealing to libertarian paternalism they
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+      134                           Theory, Culture & Society 38(6)
+                                                             
+      neutralize the structural politics of gender and race by dealing with them
+      as problems created by the ‘directive and exclusionary role of the state’
+      (2008: 221) – problems that can then be remedied by individual or loca-
+      lized behavioural interventions or nudges.             
+        The limits and consequences of such an approach have been revealed
+      starkly by the Covid-19 crisis, which, in the UK, has had a dispropor-
+      tionate impact on BME communities, the old, and those doing caring
+      work. In the face of this crisis, the UK Behavioural Insights Team has
+      acknowledged that ‘structural racism affects the broader life chances of
+      ethnicminoritygroupsintheUK,andthediscriminationtheyexperience
+      in other areas can in turn undermine mental and physical health experi-
+      ences and behaviours’ (see https://www.bi.team/blogs/the-disproportion-
+      ate-impact-of-covid-19-on-ethnic-minorities-in-the-uk-and-what-we-can-
+      do-about-it/). But rather than tackle the root causes of such ‘structural
+      racism’,theiransweristoproducebehaviouralsolutionsfordealingwith
+      its effects. The problem with such an approach is that it bypasses any
+      concernforinstitutionalandstructuralformsofpowerandinequalityby
+      focusing instead on the behavioural deficiencies of particular actors. To
+      give an example: Sunstein, as stated above, declares that ‘insufficient
+      navigability’ is a ‘pervasive problem for the poor’ (2019a: 46). But is
+      poverty really a problem of ‘navigability’, a problem of individuals
+      beingunabletofindtheirownwayandfailingtomaketherightchoices?
+      Or, rather, is poverty a systemic property of capitalist society, and the
+      product of racial, gendered, and classed forms of politics and power, the
+      drivers and dynamics of which nudge economics leaves largely
+      untouched?                                             
+      Nudging for Good?                                      
+      ThisraisesthequestionofwhatThalermeanswhenheaskschoicearchi-
+      tects to ‘nudge for good’ (see Halpern, 2015: xiv). Such questions con-
+      cerningthe‘good’takeusbeyondthelimitsofscienceandintoaworldof
+      political values and judgements that both underpin and follow from
+      Thaler and Sunstein’s commitment to libertarianism paternalism. One
+      of the main presuppositions of Nudge is that freedom of consumer
+      choice is necessarily a good thing, and, because of this, the state
+      should not intervene in the operation of free market processes unless
+      absolutely necessary, although where this threshold lies is not altogether
+      clear. In their view, it is freedom of individual choice rather than the
+      exercise of state power that is the most effective mechanism for limiting
+      the ability of nudge experts and perhaps even big business to coerce or
+      manipulate individual consumers to follow particular ends. Thaler and
+      Sunstein declare that ‘Freedom to choose is the best safeguard against
+      bad choice architecture’ (2008: 12), for if individuals do not like a nudge
+      or a choice, then they are free to opt for something else. But is this likely
+                                                             
+                                                             
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+        Gane                                         135     
+                                                             
+        given that Thaler and Sunstein’s rationale for nudging is that humans
+        lack willpower and are afflicted with problems of ‘self-control’? And if
+        nudges are subtle, and involve changing default options, will individuals
+        even be aware that they have been nudged in the first place?
+        These problems perhaps explain why Thaler and Sunstein’s commitment
+        to individual freedom of choice as a ‘safeguard’ against coercion is
+        accompanied by a plea for choice architects to nudge for good, as their
+        work,bydesign,structurestheverybasisofthisfreedom.Butevenifthe
+        call to nudge for good is well-intentioned, how can choice architects
+        know for sure what is good for those they are nudging (see Brown,
+        2012)? Halpern (2015: 187–97), for example, writes at length about the
+        benefitsofusinge-cigarettes,butthelong-termrisksofusingthemarefar
+        from clear. Elsewhere, Sunstein (2019b: xii) argues that there is good
+        reason for a state ban or mandate to be imposed on trans fats, but
+        what about other instances in which consumer choices are riddled with
+        known unknowns? Who knows, for example, what the long-term effects
+        are of consuming genetically modified foods, chlorinated chicken, or
+        crops treated with new pesticides? And in the face of the latest crisis,
+        can behavioural interventions designed to promote ‘herd immunity’ be
+        surethattheywillprovidealong-termsolutiontoCovid-19,onethatwill
+        justify the deaths of those who are old, weak, and/or poor that will
+        necessarily come as a consequence?                   
+         The answer appears to be that we should place trust in the expertise
+        and judgement of the choice architect, as well as their capacity to nudge
+        for good. In Nudge, it is the humanness of individual actors rather than
+        consumersocietymoregenerallythatisidentifiedastheproblem,andthe
+        solution that follows is to make these actors into subjects that can make
+        better choices from which they will benefit – this is the essence of what
+        Thaler and Sunstein call ‘nudging for good’. But there are at least two
+        problems here. First, how can we know that choice architects will not be
+        afflicted by the same behavioural biases as the subjects they seek to
+        nudge, or does their expert knowledge of behavioural science mean
+        that they are largely immune to the irrationalities of their own human-
+        ness? And second, while Thaler and Sunstein are vocal in their criticism
+        of thecoercive powerofthe state,theysaycomparatively little aboutthe
+        potential forcommercial organizations to use nudgesfor theirownends.
+        This is remarkable given that techniques of nudging have long been used
+        bycommercial agencies to influence consumer behaviourwith the aim of
+        maximizing profits: from the successes of marketing and branding
+        through to product placement and the design of shop-floors to increase
+        consumer spending (see Jones et al., 2013: viii). This ability to nudge
+        consumers is considered in detail by Shoshana Zuboff in her landmark
+        book The Age of Surveillance Capitalism (2019), which brings this issue
+        into the digital age by considering the online ‘nudging’, ‘herding’ and
+        ‘conditioning’ of consumers in order to boost commercial interests by
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+      136                           Theory, Culture & Society 38(6)
+                                                             
+      marrying ‘behaviour modification and the technological means to auto-
+      mate its application’ (Zuboff, 2019). The key point is that while digital
+      architecturesand platforms mightappearto bevalue-neutral, orbemar-
+      ketedasworkingfortheindividualandsocialgood,closeattentionneeds
+      to be paid to values embedded with them, and the ends to which they
+      operate.                                               
+        Skeggs and Yuill make exactly this point about social media technol-
+      ogies such as Facebook, which work through algorithms that are funda-
+      mentally ideological because they create ‘value through capture and
+      connectivity, maximizing their own potential through operations on
+      themselves, as they model users and relationships’ (2016a: 1368). The
+      ability for social media technologies such as Facebook to nudge users
+      towards making particular economic and political choices has been well-
+      documented following the Cambridge Analytica scandal, which received
+      mass public attention following the 2019 film The Great Hack. But
+      Skeggs and Yuill argue, further, that such platforms are ideological in
+      less obvious ways because they ‘lubricate the circuits of capitalism’ by
+      influencing social networks over time, and, with this, how users interact
+      both on and offline: ‘with whom, when, how’ (2016b: 391). In these
+      terms, Facebook is the nudge architecture par excellence because it can
+      influence behaviour not by adopting state-led mechanisms of coercion
+      but by structuring choice itself: its power is effectively in its platform. As
+      Tamsin Shaw (2017) explains, this is no accident as at the outset of the
+      social media revolution figures such as Kahneman and Thaler gave mas-
+      terclasses to key figures in Silicon Valley – masterclasses that led many
+      companies to adopt behavioural-economic principles that aided the
+      design of ‘automated machine-learned ‘‘nudges’’’ that could give them
+      ‘significant business advantage’ (Shaw, 2017). Nudges, then, are not
+      simply neutral devices that enable individual consumers to make better
+      choices for themselves but are psychological techniques that have a his-
+      tory of being used to structure choice according to strong commercial
+      and political imperatives.                             
+      Nudge as Neoliberalism                                 
+      Thaler and Sunstein’s positioning of libertarian paternalism at the heart
+      ofNudgeindicatesthatthisisnotsimplyaworkofeconomicsbutisalso,
+      andperhapsforemost,apoliticalproject.Attheoutsetofthisbook,they
+      claim not to align nudge philosophy with any party-political commit-
+      ment, even though they state that they have little sympathy with
+      Democrats who have ‘enthusiasm for aggressive government planning’
+      (2008: 15). Instead, they declare that the nudge agenda is ‘neither left or
+      right’, and because of this offers the potential of a new, ‘real’ third way:
+      ‘one that can break through some of the least tractable debates in con-
+      temporary democracies’ by working between what they call ‘rigid
+                                                             
+                                                             
+
+[PAGE 19]
+                                                             
+                                                             
+                                                             
+        Gane                                         137     
+                                                             
+        mandates’, on the one hand, and ‘dogmatic laissez faire’, on the other
+        (2008: 254). Nudge offers an alternative because it advocates a politics of
+        a different sort, one that plays out through the ideas and actions of
+        experts and advisory teams that are able to influence decision-making
+        both within and beyond the formal arena of party politics. Sunstein
+        declares, quite openly, that ‘Those who favour nudges do not trust gov-
+        ernment’(2019a:22),and henceaprimaryobjectiveof thenudgeagenda
+        istochangethebasisofpoliticsandthegroundsuponwhichitproceeds.
+        Nowhere is this clearer than in George Osborne and Richard Thaler’s
+        (2010) commitment to ‘embed behavioural thinking throughout govern-
+        ment’ that was put into practice through the early years of the
+        Conservative-led coalition. The Behavioural Insights Team (BIT) was
+        established in the UK at almost exactly the same time that this govern-
+        ment, under the guidance of George Osborne, unveiled an aggressive
+        austerity programme that was designed to roll back the extent and
+        reach of the welfare state. Notably, in David Halpern’s 2015 book
+        Inside the Nudge Unit, there is not a single reference to this programme
+        in spite of the fact that the unit he headed (and which had been advised
+        by Thaler) was at that time located in the Cabinet Office. Instead,
+        Halpern sings the praises of the BIT and the ‘millions of healthy life
+        years’ it helped save, arguing that behavioural solutions are required to
+        tackle ‘entrenched poverty’ because the ‘world and challenges we face
+        have changed’ (Halpern, 2015: 342–50).               
+         It is important to remember, however, how the world, and in particu-
+        lartheUK,changedundertheausteritypoliciesofthisperiod.Itisworth
+        citing the work of Bev Skeggs at length, who, writing in the same year as
+        Halpern, provides a stark account of their impact:   
+         in the UK in the last few years there have been £18 billion cuts to
+         the welfare budget, leading to the establishment of 423 food banks
+         in Britain which feed 913,138 people including 330,205 children.
+         How can the existence of class be denied when the real incomes
+         for the poorest have fallen 40 per cent, and 33 per cent of families
+         lack basic resources, and where the longest depression of wages
+         since 1979 has occurred and the cost of living has risen by 25 per
+         centinthelast5years,and wherethetop10percent ofhouseholds
+         intheUKarenow850timeswealthierthanthebottom10percent?
+         Thisisintheseventhrichestcountryintheworldwheretherichare
+         gettingricher,andwherethetoprateofincometaxhasbeenhalved
+         (itwas83percentin1979)fortherichest.Britain’srichestincreased
+         their wealth by £69 billion in 2014 alone. (Skeggs, 2015: 206–7)
+        Halpern himself presents nudge economics as something that is in keep-
+        ingwithausteretimes,ashewritesthat‘behaviouralinsightshaveproven
+                                                             
+                                                             
+                                                             
+
+[PAGE 20]
+                                                             
+                                                             
+                                                             
+      138                           Theory, Culture & Society 38(6)
+                                                             
+      to bean effective tool to help refine and improve thecost-effectiveness of
+      policies’ (2015: 333), while at the same time insisting that such insights
+      can improve public services and empower those that use them. Such
+      insights, however, were introduced in the UK against a backdrop of a
+      sustained attack on public services and on the welfare state more gener-
+      ally, with the consequence that responsibilities were passed downwards
+      to individuals with the expectation that they look after themselves, only
+      with fewer material resources to do so. Is such an attack on the welfare
+      state in keeping with the libertarian commitments of Thaler and
+      Sunstein’s soft paternalism? Yes, for the very essence of libertarian pol-
+      itics, regardless of how soft they might be, is that the individual and the
+      private are the sources of all things good. Hence, state support is neither
+      desirable nor necessary, and in its place choice architects should guide
+      people to care better for themselves. In this sense, austerity politics and
+      libertarian paternalism are well-matched to each other, with the latter
+      seeking to provide individualized solutions to the social problems gener-
+      ated by the former.                                    
+        What type of politics, then, is at stake in libertarian paternalism? An
+      initial clue can be found in the figures that Thaler and Sunstein draw
+      upon to formulate their brand of paternalism, which include Friedrich
+      Hayek (the ‘greatest critic of socialism’; Sunstein, 2019a: 21) and Milton
+      Friedman (or, as Thaler (2015: 51) calls him, ‘Uncle Miltie’). Nudge
+      theory might appear, at first sight, to work outside of existing neoliberal
+      frameworks as it mixes an argument for individual consumer freedoms
+      with a new form of paternalism based on psychological interventions of
+      different types. But, on closer inspection, libertarian paternalism is neo-
+      liberal to its core, as among other things, it: aims to limit the powers
+      of the state to impose mandates and bans that restrict the extent and
+      reach of corporate power; positions the individual consumer as sover-
+      eign, thereby dispensing with any explicit concern for collective social
+      properties of any type; treats the underlying structure of life-choice as
+      psychological rather than social in basis and thus as something that can
+      be remedied through small behavioural interventions; conceptualizes
+      freedom in economic terms as consumer freedom or freedom of con-
+      sumer choice; empowers a new breed of behavioural experts to work
+      outside of party politics but, nonetheless, retain political influence on
+      the grounds that their insights are grounded in science and therefore
+      politically neutral; passes responsibilities downwards from the state to
+      individuals by helping them to make ‘better’ choices for themselves;
+      advocates new forms of governance that are informed by principles
+      drawnfromconsumerpsychology,andwhicharetoapplytogovernment
+      itself; and operates, in the UK at least, as the partner to an austerity
+      programme designed to roll back the extent and reach of the welfare
+      state. But whereas neoliberalism, as conventionally understood, is a
+      state project (see, for example, Foucault, 2008: 84), the nudge agenda
+
+[PAGE 21]
+                                                             
+                                                             
+                                                             
+        Gane                                         139     
+                                                             
+        shifts attention from the state to the governance of individuals. In so
+        doing, Nudge departs from more traditional forms of libertarianism on
+        the grounds that free markets do not govern themselves. This is not
+        because the state is needed to protect market freedoms and inject a
+        spirit of competition into all aspects of social life, as suggested by
+        Foucault in his lectures on ordoliberalism, but because individual
+        market actors, with all their irrationalities, cannot be governed, or as
+        Sunstein terms it, disciplined by market dynamics and processes. For
+        this, another form of neoliberal governance is needed – the nudge –
+        which, as McMahon succinctly puts it, seeks to ‘fix individuals for the
+        market’ (2015: 149).                                 
+         It is little surprise, then, that the nudge agenda has flourished in the
+        wake of the financial crisis –a crisis which, for neoliberals, resulted not
+        from the failures of markets per se but from the irrationalities of market
+        participants and/or government interventions (George Osborne and
+        Richard Thaler (2010), in particular, pinpoint the failures of Blair-
+        Brown’s Labour government, under which the financial crisis in the
+        UK initially played out). At a deeper level, John McMahon argues
+        that nudge economics combines aspects of the two main trajectories of
+        neoliberal reason documented by Foucault in his biopolitics lectures:
+        German ordoliberalism and Chicago School neoliberalism. In terms of
+        the former, McMahon argues that Nudge seeks to ‘render the entire
+        social field intelligible through economic analysis’ (2015: 149), while at
+        the same time, in terms of the latter, enhancing human capital by produ-
+        cing a more rational homo economicus – one closer to what Foucault
+        (2008) calls an ‘entrepreneurial self’. In practice, however, Thaler and
+        Sunstein’spositionismorecomplexthanthis,for,likeHayek,theyreject
+        the figure of homo economicus as an empirical reality, but, unlike him,
+        retain it in the background as an ideal towards which individual subjec-
+        tivities can becorrected bytheinterventions of behavioural experts. This
+        emphasis on the role of such experts is at odds with Hayek’s view that
+        humanrationalityandknowledgeislimitedbyitsverynature,andhence
+        that we should look to markets rather than to government officials or
+        agencies for guidance. Instead, Thaler and Sunstein edge closer to
+        Chicago School theories of human capital, for if individuals can be
+        nudged to make the right decisions, they can, as a result, increase the
+        value of their own stock.                            
+         Viewedinthisway,thenudgeagendaislessaformof‘post-neoliberal-
+        ism’thananew,hybridformofneoliberalismthatdrawsfrom,butatthe
+        same time transcends, the trajectories of neoliberal reason outlined by
+        Foucault in his biopolitics lectures. It offers something new from previ-
+        ousandexisting formsofneoliberalism asitdoesnotcentreexplicitly on
+        themarketizationofthestate(althoughbehaviouralinsightshaveclearly
+        applied to state activities under the rationale of making them more cost-
+        effective), as in ordoliberalism, or on the building of institutions such as
+
+[PAGE 22]
+                                                             
+                                                             
+                                                             
+      140                           Theory, Culture & Society 38(6)
+                                                             
+      trade organizations (Slobodian, 2018). Rather, the purpose of nudge
+      economics is to address the market deficiencies of individual consumers
+      by developing new forms of behavioural governance. When Wendy
+      Brown speaks of neoliberal ‘techniques of governance’ that operate
+      through forms of ‘soft power’ (2015: 35), Nudge is crucial as it works
+      by addressing the subjective ‘internalities’ that neither state coercion nor
+      market forces, for Thaler and Sunstein, are able to correct. As John
+      McMahon writes: ‘Behavioural economics... seeks not to challenge or
+      defythemarketbuttoprovidetweakssoastobetterassimilatealltothe
+      market; it captures the irrationality of economic actors and disciplines
+      thatirrationalitytothefunctioningofthemarket’(2015:146).Thenudge
+      agenda can be understood as the latest incarnation of the neoliberal
+      project: onethatdraws partly fromlibertarian free-market individualism
+      and partly from a neo-conservative commitment to paternalism, and
+      which, seemingly unbeknownst to itself, both builds upon and rejects
+      ideas from previous Austrian, German and North American trajectories
+      of neoliberalism. This form of neoliberalism is concerned with the fail-
+      ures of human subjects and of governments, and how these can be gov-
+      erned and potentially corrected to be better market actors through the
+      application of behavioural understandings and principles. Nudge eco-
+      nomics, in the form expressed by Thaler and Sunstein, is, then, not just
+      a technical exercise aimed at providing individuals with better means for
+      pursuing goals of their choosing; it is fundamentally a political project.
+      This project is guided by an ideal of libertarian paternalism that treats
+      individual market freedom as the basis of all freedom, and which
+      bypasses concern for the structural inequalities – be these of class,
+      gender, or race – of contemporary capitalist society by shifting attention
+      to what are seen as the irrational and misguided choices of individuals.
+      Thismeans,asaconsequence,thatinanageinwhichnudgeeconomicsis
+      flourishing, such inequalities continue to thrive, not least because,
+      increasingly, these inequalities are individualized and are dealt with in
+      terms of their effects rather than by confronting and addressing their
+      underlying causes.                                     
+      Acknowledgements                                       
+      Early versions of this article were presented at the University of Washington and the
+      University of Helsinki in October 2019. I would like to thank the participants of these
+      eventsandtheanonymousreviewersatTCSfortheirdetailedcommentsandcriticisms,
+      which were helpfulin revising thisarticle forfinalpublication.
+      ORCID iD                                               
+      NicholasGane https://orcid.org/0000-0001-8102-6509     
+      References                                             
+      Anderson,J.(2010)ReviewofNudge.EconomicsandPhilosophy26(3):369–406.
+                                                             
+                                                             
+                                                             
+
+[PAGE 23]
+                                                             
+                                                             
+                                                             
+        Gane                                         141     
+                                                             
+        Brown,D.(2014)ReviewofWhyNudge?FinancialTimes,4May.Available at:
+         https://www.ft.com/content/3421a0be-cece-11e3-8e62-00144feabdc0
+         (accessed 22 February 2021).                        
+        Brown,P.(2012)Anudgeintherightdirection?.SocialPolicyandSociety11(3):
+         305–317.                                            
+        Brown, W. (2015) Undoing the Demos. New York: Demos. 
+        Claeys, G. (2013) Mill and Paternalism. Cambridge: Cambridge University
+         Press.                                              
+        Cooper, M. (2017) Family Values. New York: Zone.     
+        Curchin, K. (2016) Using behavioural insights to argue for a stronger social
+         safety net. Journal of Social Policy 46(2): 231–249.
+        Davies, W. (2014) The Limits of Neoliberalism. London: SAGE.
+        Foucault, M. (2008) The Birth of Biopolitics. Basingstoke: Palgrave.
+        Friedman, M. and Friedman, R. (1980) Free to Choose. New York: Houghton
+         Mifflin Harcourt.                                   
+        Giddens, A. (1998) The Third Way. Cambridge: Polity. 
+        Halpern, D. (2015) Inside the Nudge Unit. London: W.H. Allen.
+        Hansen,P.(2016)Thedefinitionofnudgeandlibertarianpaternalism.European
+         Journal of Risk Regulation 7(1): 155–174.           
+        Hayek, F. (1951) John Stuart Mill and Harriet Taylor. Chicago: University of
+         Chicago Press.                                      
+        John, P., et al. (2009) Nudge nudge, think think. The Political Quarterly 80(3):
+         361–369.                                            
+        Jones, R., Pykett, J. and Whitehead, M. (2013) Changing Behaviours.
+         Cheltenham: Edward Elgar.                           
+        Kleinig, J. (1983) Paternalism. Manchester: Manchester University Press.
+        Leggett, W. (2014) The politics of behaviour change. Policy & Politics 42(1):
+         3–19.                                               
+        McMahon, J. (2015) Behavioral economics as neoliberalism. Contemporary
+         Political Theory 14(2): 137–158.                    
+        Mead, L. (1992) The New Politics of Poverty. New York: Basic.
+        Mead,L.(ed.)(1997)TheNewPaternalism.Washington,DC:BrookingsInstitution.
+        Mead, L. (2009) Econs and humans. Claremont Review of Books, 18 May.
+         Available at: https://www.claremont.org/crb/article/econs-and-humans/
+         (accessed 22 February 2021).                        
+        Mead, L., et al. (1997) From Welfare to Work. London: IEA.
+        Mill, JS. (1991) On Liberty. Oxford: Oxford University Press.
+        Mises von, L. (1985) Liberalism. New York: Cobden.   
+        Osborne, G. and Thaler, R. (2010) Wecan makeyou behave. The Guardian,28
+         January. Available at: https://www.theguardian.com/commentisfree/2010/
+         jan/28/we-can-make-you-behave (accessed 22 February 2021).
+        Pykett, J. (2012) The new maternal state. Antipode 44(1): 217–238.
+        Shaw, T. (2017) Invisible manipulators of your mind. New York Review of
+         Books, 20 April.                                    
+        Skeggs, B. (2015) Introduction: Stratification or exploitation, domination, dis-
+         possession and devaluation?. Sociological Review 63: 205–222.
+        Skeggs, B. and Yuill, S. (2016a) The methodology of a multi-model project
+         examining how Facebook infrastructures social relations. Information,
+         Communication and Society 19(10): 1356–1372.        
+
+[PAGE 24]
+                                                             
+                                                             
+                                                             
+      142                           Theory, Culture & Society 38(6)
+                                                             
+      Skeggs, B. and Yuill, S. (2016b) Capital experimentation with person/a forma-
+        tion. Information, Communication and Society 19(3): 380–396.
+      Slobodian, Q. (2018) Globalists. Cambridge, MA: Harvard University Press.
+      Sunstein, C. (2014) Why Nudge? New Haven: Yale University Press.
+      Sunstein, C. (2019a) On Freedom. Princeton: Princeton University Press.
+      Sunstein, C. (2019b) How Change Happens. Cambridge, MA: MIT Press.
+      Thaler, R. (2015) Misbehaving. New York: Norton.       
+      Thaler,R.andSunstein,C.(2003)Libertarianpaternalism.AmericanEconomic
+        Review 93(2): 175–179.                               
+      Thaler, R. and Sunstein, C. (2008) Nudge. New Haven: Yale University Press.
+      Zuboff, S. (2019) The Age of Surveillance Capitalism. London: Profile.
+      Nicholas Gane is Professor of Sociology at the University of Warwick,
+      UK. His recent publications includearticles oncompetition, debt, usury,
+      and the history of neoliberalism.                      
+                                                             
+      This article is part of the Theory, Culture & Society special issue on ‘Post-
+      Neoliberalism?’, edited by William Davies and Nicholas Gane.
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             

@@ -1,0 +1,73 @@
+{
+  "paper_id": "atkinson-2023-field-theory-and-assemblage-theory-toward-a-constructive-dialogue",
+  "title": "Field Theory and Assemblage Theory: Toward a Constructive Dialogue",
+  "author": "Atkinson",
+  "year": 2023,
+  "journal": "Theory, Culture & Society",
+
+  "opening_move": {
+    "type": "conceptual_gap",
+    "description": "DeLanda's assemblage theory has gained wide currency and explicitly critiques Bourdieu, yet this critique has not been adequately challenged or responded to from within field theory. The paper opens by diagnosing this gap and announcing a double task: exposing assemblage theory's flaws while extracting its productive insights for field theory.",
+    "anchored_in": ["DeLanda", "Bourdieu", "Deleuze"],
+    "stakes_claimed": "A productive dialogue between the two frameworks would allow field theory to better theorise materiality, individual plurality, and multi-field subjectivity."
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["DeLanda (assemblage theory)", "ANT / new materialism"],
+    "engagement_structure": "sustained_critique",
+    "immanent_critique": true,
+    "own_position_type": "friendly_amendment",
+    "own_position_explicit": true,
+    "description": "The paper defends Bourdieu from DeLanda's critique point by point, then selectively appropriates DeLanda's concepts of exteriority and possibility space to extend field theory toward plurality and multi-field subjectivity."
+  },
+
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "Immanent conceptual analysis — close reading of DeLanda's texts and internal critique of their logical consistency; phenomenological reconstruction of habitus.",
+    "notes": "The paper is purely conceptual: argument moves entirely within theoretical space, using philosophical critique and conceptual reconstruction. No empirical material of any kind."
+  },
+
+  "case_type": {
+    "has_case": false,
+    "case_medium": "none",
+    "case_name": null,
+    "case_function": "none",
+    "case_relation_to_argument": "none",
+    "case_selection_justified": false
+  },
+
+  "normative_stake": {
+    "level": "low",
+    "domain": "social theory methodology",
+    "claim_type": "reconstructive",
+    "closure_type": "strong_normative_conclusion"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "immanent_critique",
+    "counter_objection_response",
+    "framework_proposal",
+    "conceptual_distinction",
+    "conclusion_strong"
+  ],
+
+  "reflexive_move": true,
+
+  "key_concepts": ["field theory", "assemblage theory", "exteriority", "possibility space", "habitus", "relational phenomenology", "social surface / meta-habitus"],
+
+  "thinkers_deployed": {
+    "central": ["Bourdieu", "DeLanda"],
+    "engaged_critically": ["DeLanda", "Lahire"],
+    "referenced_only": ["Deleuze", "Husserl", "Bhaskar", "Giddens", "Archer", "Crossley"]
+  },
+
+  "confidence_notes": "Epistemic mode is unambiguously fully_normative — pure conceptual argumentation. The normative stake is about social theory methodology rather than politics or justice, hence 'low' on that dimension. Move sequence is a textbook dialectical contrast: expose rival's flaws, appropriate what works, propose synthesis."
+}

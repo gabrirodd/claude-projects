@@ -1,0 +1,942 @@
+[PAGE 1]
+ 1379790                                                     
+ research-article2025 TCS0010.1177/02632764251379790Theory, Culture & SocietyD’Cruz
+                                                             
+                                                             
+       Article                                               
+                                             Theory, Culture & Society
+       What  Demarcates                        2026, Vol. 43(2) 3 –20
+                                              © The Author(s) 2025
+       Necropolitics from  Biopolitics?                      
+                                              Article reuse guidelines:
+       A Foucauldian  Critique of         sagepub.com/journals-permissions
+                                        httpDs:O//dIo: i1.o0r.g1/1107.711/0727/60322673267462452153137799779900
+       Mbembe                              journals.sagepub.com/home/tcs
+                                                             
+       Leonard D’Cruz                                        
+       University of Melbourne                               
+                                                             
+                                                             
+       Abstract                                              
+       Achille Mbembe presents ‘necropolitics’ as a corrective to Foucault’s conception of
+       biopolitics, which Mbembe argues is insufficient to account for the contemporary
+       politics of death. However, it is not clear that Mbembe succeeds in (a) demonstrating
+       the deficiencies of Foucault’s framework or (b) demarcating necropolitics from
+       biopolitics. In this article, I argue that Mbembe misconstrues Foucault’s understanding
+       of the relationship between biopower and sovereign power, and thus underestimates
+       Foucault’s capacity to account for racialized violence. On this basis, I suggest that the
+       essence of necropolitics is already captured by Foucault’s concepts of State racism and
+       thanatopolitics, and that Mbembe is wrong to suggest that ‘necropower’ constitutes a
+       modality of power in its own right. Nonetheless, I maintain that Mbembe’s work has
+       value in bringing certain effects of power into focus, as evidenced by his insights into the
+       creation of ‘death-worlds’ and the racialized category of ‘the living dead’.
+       Keywords                                              
+       biopolitics, necropolitics, Foucault, Mbembe, State racism, death-worlds, the living
+       dead                                                  
+                                                             
+                                                             
+       Introduction                                          
+       Achille Mbembe presents ‘necropolitics’ as a corrective to Foucault’s conception of
+       biopolitics, which Mbembe argues is insufficient to account for the contemporary poli-
+       tics of death. While Mbembe’s work has certainly been influential, it is not clear that he
+       succeeds in (a) demonstrating the deficiencies of Foucault’s framework or (b) demar-
+       cating necropolitics from biopolitics. In this article, I argue that Mbembe’s articulation
+       of necropolitics lacks conceptual clarity and is predicated on a fundamental misreading
+                                                             
+                                                             
+       Corresponding author: Leonard D’Cruz. Email: leonard.dcruz@unimelb.edu.au
+       TCS Online Forum: https://www.theoryculturesociety.org/
+       Correction (March 2026): Capitalisation of the word “State” in the phrase “state racism”.
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+      4                               Theory, Culture & Society 43(2)
+                                                             
+      of Foucault’s work. More specifically, I show that Mbembe misconstrues Foucault’s
+      understanding of the relationship between biopower and sovereign power, and thus
+      underestimates Foucault’s capacity to account for racialized violence. This leaves
+      Mbembe’s framework in need of conceptual reconstruction, and raises important ques-
+      tions about how his work should be operationalized to analyse contemporary socio-
+      political phenomena. Ultimately, I suggest that ‘necropower’ is best conceptualized as
+      the convergence of biological racism and sovereign power. On this basis, I suggest that
+      the essence of necropolitics is already captured by Foucault’s concepts of State racism
+      and thanatopolitics, and that Mbembe is wrong to suggest that ‘necropower’ constitutes
+      a modality of power in its own right. For these reasons, I argue that Mbembe ultimately
+      fails to demarcate necropolitics from biopolitics. Nonetheless, I maintain that Mbembe’s
+      work has value in bringing certain effects of power into focus, as evidenced by his
+      insights into the creation of ‘death-worlds’ and the racialized category of ‘the living
+      dead’.                                                 
+        This article is divided into three sections. The first section focuses on Mbembe’s cri-
+      tique of Foucault, and shows that it is based on a fundamental misunderstanding of
+      Foucault’s notion of biopower and its relationship to State racism. In the second section,
+      I critically examine Mbembe’s notion of necropower, and argue that it does not constitute
+      a distinct modality of power. Furthermore, I argue that recent attempts to demarcate nec-
+      ropolitics from biopolitics in the secondary literature have been unsuccessful. In the third
+      section, I outline how Mbembe’s concepts of death-worlds and the living dead should be
+      reflexively operationalized within Foucault’s broader framework of biopolitics.
+      Biopower, Sovereign Power, and State Racism: Correcting
+      Mbembe’s Misreading of Foucault                        
+      Mbembe’s work has been challenged for several reasons, with most critics focusing on
+      his seminal essay collection On the Postcolony (Mbembe, 2001 [2000]). This includes
+      charges that Mbembe is excessively pessimistic about the condition of post-colonial
+      Africa and the prospects for effective resistance (Abrahamsen, 2003: 208–9; Karlström,
+      2003; Weate, 2003: 36–9). Additionally, some readers have suggested that his work is
+      theoretically confused, structured by unconscious gender bias, or even underestimates
+      the centrality of anti-black racism and slavery to the historical development of biopoli-
+      tics (Butler, 1992: 70–3; Sexton, 2010: 32–9; Weate, 2003: 27–32, 38–9). However,
+      critics have rarely questioned the distinctiveness of necropolitics as a conceptual frame-
+      work, especially in relation to Foucault’s work. This is precisely the issue this article
+      aims to address.                                       
+        At the outset, it is important to clarify Foucault’s notion of biopower and how it func-
+      tions within his broader framework of biopolitics.1 This is crucial in evaluating whether
+      Mbembe’s critique and subsequent extension of Foucault’s framework are successful. I
+      will argue that many of the supposed deficiencies that Mbembe identifies in Foucault’s
+      work are actually the result of misunderstandings or outright misrepresentations.
+      Mbembe’s misreading of Foucault is based on two distinct but related mistakes. First,
+      Mbembe conflates Foucault’s understanding of biopower with Agamben’s appropriation
+                                                             
+                                                             
+                                                             
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+       D’Cruz                                         5      
+                                                             
+       of the concept. For this reason, Mbembe fails to recognize the key distinction that
+       Foucault draws between sovereign power and biopower. Second, Mbembe mischaracter-
+       izes Foucault’s account of State racism. This mischaracterization stems both from his
+       aforementioned conflation of Foucault and Agamben’s conceptions of biopower, and
+       from a lack of attention to Foucault’s genealogy of State racism in Society Must Be
+       Defended.                                             
+        Mbembe concludes the title essay in Necropolitics by claiming to have shown ‘that
+       the notion of biopower is insufficient to account for contemporary forms of the subjuga-
+       tion of life to the power of death’ (Mbembe, 2019 [2016]: 92). However, there is a seri-
+       ous lack of conceptual clarity surrounding Mbembe’s treatment of biopower itself. He
+       begins the essay with a discussion of sovereignty:    
+        The ultimate expression of sovereignty largely resides in the power and capacity to dictate who
+        is able to live and who must die. To kill or to let live thus constitutes sovereignty’s limits, its
+        principal attributes. To be sovereign is to exert one’s control over mortality and to define life as
+        the deployment and manifestation of power. (Mbembe, 2019 [2016]: 66)
+       This claim is unobjectionable in itself and consistent with Foucault’s own definition of
+       sovereign power. However, Mbembe writes immediately after: ‘This sums up what
+       Michel Foucault meant by biopower: that domain of life over which power has asserted
+       its control’ (Mbembe, 2019 [2016]: 66). This is not an accurate representation of
+       Foucault’s view. Foucault does not define biopower as the domain of life over which
+       sovereignty asserts control. Rather, he describes it as a historically distinct modality of
+       power that conceives of life in sociobiological terms and employs techniques of power
+       that attempt to regulate biological life at the level of the population (Foucault, 1978
+       [1976]: 134–45).2 In this way, Foucauldian biopolitics examines techniques of power
+       that are historically specific and, most importantly, distinct from the techniques of sov-
+       ereign power. Indeed, in The Will to Knowledge, Foucault describes biopower as acting
+       upon life through ‘continuous regulatory and corrective mechanisms’ and explicitly
+       claims that it is not ‘a matter of bringing death into play in the field of sovereignty, but
+       of distributing the living in the domain of value and utility’ (Foucault, 1978 [1976]: 144).
+       In this way, biopower is not simply one more manifestation of sovereign power, but a
+       modality of power in its own right. As we will see shortly, Foucault thinks biopower and
+       sovereign power interact in complex and significant ways, but maintains that they should
+       be conceptualized as distinct modalities of power (Foucault, 1978 [1976]: 144; 2003
+       [1997]: 254–6).                                       
+        Mbembe’s confusion stems from his tendency to conflate Foucault’s understanding of
+       biopower with Agamben’s appropriation of the concept. Whereas Foucault sees biopower
+       as fundamentally distinct from sovereign power, Agamben conceives of biopower as
+       inscribed within the logic of sovereignty itself. Agamben famously positions his Homo
+       Sacer project as an effort to correct or, at least, complete Foucault’s account of biopolitics
+       (Agamben, 1998 [1995]: 9). For Agamben, sovereignty always already exercises power
+       over life. Agamben draws on the Ancient Greek distinction between two different types of
+       life. The first is bios, which refers to ‘the form or way of living proper to an individual or a
+       group’ (Agamben, 1998 [1995]: 1). The second is zoē, which denotes ‘the simple fact of
+                                                             
+                                                             
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+      6                               Theory, Culture & Society 43(2)
+                                                             
+      living common to all living beings’ (Agamben, 1998 [1995]: 1). According to Agamben,
+      sovereignty exercises power over life insofar as it is always capable of reducing forms of
+      life endowed with political rights (bios) to the status of what he calls ‘bare life’ – a condi-
+      tion in which one has been stripped of their rights and the dignity associated with them
+      (Agamben, 1998 [1995]: 8–10). However, bare life is not a total reduction to animal life
+      (zoē) insofar as the exclusion of the individual from the political community paradoxically
+      includes them within the system of sovereign power through the very process of exclusion.
+      This leads Agamben to argue that ‘the production of a biopolitical body is the original
+      activity of sovereign power’ (Agamben, 1998 [1995]: 6). For Agamben, this is because the
+      power to exclude – or to decide on the ‘state of exception’ in which rights and the rule of
+      law are suspended – is inherently a form of power over life (Agamben, 1998 [1995]: 6–9).
+        Therefore, we can see that the term ‘biopower’ denotes at least two distinct forms of
+      power. For Agamben, it refers to the way that power over life is inscribed in the frame-
+      work of sovereignty itself, and, for him, biopower serves as a fundamental category of
+      Western ontology (see Koopman, 2015: 574). On the other hand, Foucault conceives of
+      biopower as a historically limited modality of power that targets life in specifically
+      sociobiological terms. Much has been written about the relative merits of each concept
+      and the extent to which Foucault’s work actually needs the supposed correction offered
+      by Agamben, at least at a conceptual level.3 However, the crucial question for my pur-
+      poses is which of these conceptions of biopower Mbembe is ultimately working with.
+      After all, one might think that Mbembe is principally citing Foucault in his essay, but
+      really basing his work on Agamben’s notion of biopower. Indeed, Sexton charitably
+      characterizes Mbembe’s necropolitics as a ‘rewriting of Agamben’s rewriting of
+      Foucault’s biopolitics’ (Sexton, 2010: 38). According to Sexton, ‘necropolitics is impor-
+      tant for the historicist project of provincializing Agamben’s paradigmatic analysis, espe-
+      cially as it articulates the logic of race as something far more global than a conflict
+      internal to Europe (or even Eurasia)’ (Sexton, 2010: 32). Sexton is certainly right to
+      highlight that Mbembe interprets Foucault’s work through Agamben. However, I argue
+      that Mbembe’s focus on the racialized politics of death makes his work directly account-
+      able to the biopolitical framework developed by Foucault.
+        This is clear in Mbembe’s essay, where he explicitly picks up on the biological and
+      racial dimensions of Foucault’s concept. Later in the text, Mbembe offers a more accu-
+      rate – but still incorrect – definition of Foucauldian biopower that emphasizes the socio-
+      biological theme:                                      
+        Biopower, in Foucault’s work, appears to function by dividing people into those who must live
+        and those who must die. As it proceeds on the basis of a split between the living and the dead,
+        such power defines itself in relation to the biological field – of which it takes control and in
+        which it invests itself. This control presupposes a distribution of human species into groups, a
+        subdivision of the population into subgroups, and the establishment of a biological caesura
+        between these subgroups. Foucault refers to this using the seemingly familiar term ‘racism’.
+        (Mbembe, 2019 [2016]: 71)                            
+      This passage is useful in further correcting Mbembe’s misreading of Foucault. The main
+      problem is that it does not actually match Foucault’s definition of biopower. Strictly
+                                                             
+                                                             
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+       D’Cruz                                         7      
+                                                             
+       speaking, biopower does not divide people into ‘those who must live and those who must
+       die’ – at least, not in the first instance. Indeed, this formulation confuses Foucault’s con-
+       ception of biopower with his more specific concept of State racism. In Foucault’s broader
+       framework of biopolitics, State racism refers to the way sovereign power combines with
+       biopower to maximize the health of one race by eliminating the supposed biological
+       threat posed by another (Foucault, 2003 [1997]: 254–8). For Foucault, sovereign power
+       is defined by ‘the right to take life or let live’ (Foucault, 2003 [1997]: 241). On the other
+       hand, he claims biopower is defined by ‘the right to make live and to let die’ (Foucault,
+       2003 [1997]: 241).                                    
+        In this way, biopower is a modality of power that ‘exerts a positive influence on life’
+       and ‘that endeavors to administer, optimize, and multiply it’ by ‘subjecting it to precise
+       controls and comprehensive regulations’ (Foucault, 1978 [1976]: 137). Biopower, then,
+       does not inherently divide people into those who must live and those who must die, but
+       initially only tries to protect and enhance the health of the population (Foucault, 1978
+       [1976]: 139; Foucault, 2003 [1997]: 239–54). According to Foucault, this process cer-
+       tainly does involve the differential valuation of life (Foucault, 1978 [1976]: 144).
+       However, in the first instance, this merely serves as a motivation ‘to “make” live and
+       “let” die’ or, to use another of Foucault’s formulations, ‘to foster life or disallow it to the
+       point of death’ (Foucault, 2003 [1997]: 241; 1978 [1976]: 138). By contrast, for Foucault,
+       the power to make live and make die simultaneously only emerges through the superim-
+       position of sovereign power and biopower, which manifests in the form of State racism
+       (Foucault, 2003 [1997]: 254–8).                       
+        To fully grasp what Foucault means by ‘State racism’, we first need to clarify his
+       understanding of ‘racism’ more generally. In Society Must Be Defended, Foucault devel-
+       ops a genealogy of racism that makes important distinctions between three different
+       terms: ‘race war’, ‘racism’, and ‘State racism’. For Foucault, the term ‘race war’ or ‘race
+       struggle’ refers to the 16th and 17th-century European discourse that conceives of soci-
+       ety as a conflict between different social groups – a conflict that endures even under
+       conditions of peace and order (Foucault, 2003 [1997]: 43–81). By contrast, Foucault
+       thinks we should reserve the term ‘racism’ for a very specific historical transformation of
+       this earlier discourse of race war (Foucault, 2003 [1997]: 241). According to Foucault,
+       this newer ‘racism’ is ‘far removed from the ordinary racism that takes the traditional
+       form of mutual contempt or hatred between races’ and is only ‘born at the point when the
+       theme of racial purity replaces that of race struggle’ (Foucault, 2003 [1997]: 241). Indeed,
+       Foucault thinks this ‘racism’ is best described as a ‘reworking’ of this earlier discourse in
+       ‘sociobiological terms’ and that it was designed to serve ‘the purposes of social con-
+       servatism and, at least in a certain number of cases, colonial domination’ (Foucault, 2003
+       [1997]: 241). In other words, it is what we would today call ‘scientific racism’ or ‘bio-
+       logical racism’.                                      
+        The transformation of race war into biological racism is the condition of possibility
+       for the third notion, which is the one of greatest relevance to my discussion: State racism.
+       Foucault defines State racism as the centralization of biological racism within the state
+       apparatus (Foucault, 2003 [1997]: 82). For Foucault, State racism is a form of racism that
+       society directs ‘against itself, against its own elements and its own products. This is the
+       internal racism of permanent purification’ (Foucault, 2003 [1997]: 63). In this way,
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+      8                               Theory, Culture & Society 43(2)
+                                                             
+      Foucault suggests that biological racism enacts a significant transformation in the way
+      sovereign power is exercised, insofar as the sovereign right to kill now functions through
+      and is justified by biopolitical considerations around the health of the supposedly domi-
+      nant race (Foucault, 2003 [1997]: 241, 254–8). In other words, Foucault argues that
+      modern sovereign power has increasingly come to function through a racist biopolitical
+      governmentality:4                                      
+        In the biopower system . . . killing or the imperative to kill is acceptable only if it results not in
+        a victory over political adversaries, but in the elimination of the biological threat to and the
+        improvement of the species or race. There is a direct connection between the two. In a
+        normalizing society, race or racism is the precondition that makes killing acceptable. (Foucault,
+        2003 [1997]: 256)                                    
+      Strictly speaking, then, Mbembe is right to say that biopower – in the narrow sense of a
+      specific modality of power – is insufficient to account for the politics of death. However,
+      the same cannot be said for Foucauldian biopolitics as a broader conceptual framework,
+      and thus Mbembe’s critique of Foucault fails at a conceptual level. After all, Foucault
+      does not actually attempt to account for the racialized politics of death through the con-
+      cept of biopower per se, but rather through the concept of State racism – that is to say, the
+      way the sovereign right to kill is exercised within a racist biopolitical governmentality.
+                                                             
+      There Is No Such Thing as ‘Necropower’: The Deficiencies
+      of Necropolitics as a Conceptual Framework             
+                                                             
+      All this casts doubt on the supposed deficiencies of Foucault’s framework for accounting
+      for the racialized politics of death. By the same token, this clarification of Foucault’s
+      work should lead us to question what is distinctive or original about Mbembe’s notion of
+      necropower and his broader framework of necropolitics.5 Indeed, I argue that the basic
+      insights of this framework – at least, at a conceptual level – are already covered by
+      Foucault’s notions of State racism and thanatopolitics. Of course, several critics have
+      defended necropower as a distinctive modality of power. According to Duarte, necropo-
+      wer can be distinguished from biopower insofar as it ‘implies the intensive production of
+      mass-scale deaths through planned and calculated actions and discourses’ (Duarte, 2023:
+      59). Similarly, Rafael suggests that necropower is ‘the other, enabling side of biopower’
+      that serves as ‘the murderous counterpoint to the biopolitical imperative of administering
+      life’ (Rafael, 2022: 65). Both formulations seem to cohere with Mbembe’s own under-
+      standing of the concept (Mbembe, 2019 [2016]: 92). However, as I will demonstrate, this
+      is precisely why they are unsuccessful in showing that necropower is distinct from bio-
+      power. Mbembe’s most cogent presentation of necropolitics comes at the end of his
+      essay:                                                 
+        . . . I have put forward the notion of necropolitics, or necropower, to account for the various
+        ways in which, in our contemporary world, weapons are deployed in the interest of maximally
+        destroying persons and creating death-worlds, that is, new and unique forms of social existence
+        in which vast populations are subjected to living conditions that confer upon them the status of
+        the living dead. (Mbembe, 2019 [2016]: 92)           
+                                                             
+                                                             
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+       D’Cruz                                         9      
+                                                             
+       From this passage, we can see that Mbembe identifies necropower with techniques of
+       sovereign power such as military force and the right to kill. In a different part of the
+       essay, he also emphasizes the sovereign technique of territorialization (Mbembe, 2019
+       [2016]: 79–83). Of course, for Mbembe, the use of these techniques of sovereign power
+       is guided and augmented by biological racism, which is obviously connected to tech-
+       niques of biopower such as population measurement and normalization (Foucault, 1978
+       [1976]: 139–46; Foucault, 2003 [1997]: 243–5). In other words, necropower is really just
+       the superimposition of sovereign power and biopower. At this point, it becomes clear that
+       there is actually no such thing as ‘necropower’ insofar as it lacks any novel techniques of
+       power that are genuinely its own. Indeed, my contention is that necropower is simply the
+       exercise of sovereign power through the prism of a racist biopolitical governmentality. In
+       this way, it is nothing more than a new label for a phenomenon already identified within
+       Foucault’s framework of biopolitics: namely, State racism.
+        Mbembe’s emphasis on the connection between racism and techniques of sovereign
+       power can be seen in his analysis of colonialism. According to Mbembe, early modern
+       colonial occupation ‘consisted in seizing, delimiting, and asserting control over a geo-
+       graphical area – of writing a new set of social and spatial relations on the ground’
+       (Mbembe, 2019 [2016]: 79). Mbembe refers to this process of writing new spatial rela-
+       tions as ‘territorialization’ (Mbembe, 2019 [2016]: 79). According to Mbembe, this pro-
+       cess operates through ‘the exercise of sovereignty’ but in a way that is guided by racism
+       (Mbembe, 2019 [2016]: 79). After all, ‘territory’ is one of the paradigmatic techniques of
+       sovereign power (see Foucault, 2009 [2004]: 64–5). A major highlight of Mbembe’s
+       essay is his discussion of how the ‘late modern colonial occupation’ of Gaza and the
+       West Bank differs from early modern colonial techniques of territorialization. Indeed, he
+       explores how these occupations are characterized by ‘three major characteristics’: verti-
+       cal sovereignty, splintering occupation, and infrastructural warfare (Mbembe, 2019
+       [2016]: 80–3). These empirical insights are profoundly valuable, but all of them operate
+       at the level of historical detail rather than conceptual innovation. Ultimately, all three of
+       these developments can be accounted for as techniques of sovereign power that have
+       been employed within a racist biopolitical governmentality, which now aims at inflicting
+       death and destruction to the advantage of the privileged racial group. This same basic
+       logic can also be seen at play in other death-worlds that Mbembe discusses in the essay,
+       such as the plantation, the concentration camp, and the contemporary warzone.
+        If there is no such thing as necropower, this raises difficult questions about what is left
+       of Mbembe’s broader framework of necropolitics. Setting aside the supposedly distinc-
+       tive techniques of ‘necropower’, there have been several other efforts to demarcate nec-
+       ropolitics from biopolitics among those who have tried to operationalize Mbembe’s
+       framework. Quinan and Thiele argue that necropolitics can be distinguished from biopol-
+       itics insofar as death has, at least in certain contexts, overtaken life as the main target of
+       power. They claim that necropolitics:                 
+        . . . is much more concerned with how life is subjugated to the power of death. Thus, rather
+        than showing how life and death are both structuring instruments of power (as if in a relation of
+        equivalence), necropolitics asks about the asymmetrical conditioning of who gets to live and
+        who must die. While Foucault keeps a certain conceptual distance, Mbembe emphasizes that
+                                                             
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+      10                              Theory, Culture & Society 43(2)
+                                                             
+        they are no longer an even pair. Death, making die, is what structures living. (Quinan and
+        Thiele, 2020: 3)                                     
+      However, this attempt to demarcate necropolitics from biopolitics is inadequate. After
+      all, Foucault does not claim that life and death are always an ‘even pair’ within the
+      broader framework of biopolitics. This is clearest in Part Five of The Will to Knowledge,
+      where Foucault examines how biopower has fundamentally transformed the sovereign
+      right to kill (Foucault, 1978 [1976]: 134–59). Foucault claims that ‘the right of life and
+      death is a dissymmetrical one’ within both ancient and modern forms of sovereign power
+      (Foucault, 1978 [1976]: 136). According to Foucault, the pre-biopolitical sovereign
+      ‘exercised his right to life only by exercising his right to kill’ and therefore this supposed
+      ‘power of life and death’ was nothing more than ‘the right to take life or let live’ (Foucault,
+      1978 [1976]: 136). By contrast, biopower exercises power over life insofar as it attempts
+      to administer, optimize, and multiply it, and thus is also dissymmetrical insofar as it tries
+      to produce and protect life while minimizing death (Foucault, 1978 [1976]: 137).
+      However, Foucault argues that modern sovereign power has been fundamentally altered
+      by the advent of productive forms of power such as biopower (Foucault, 1978 [1976]:
+      136–7; 2003 [1997]: 241, 254–6). This leads him to claim that with these new forms of
+      power, there has also ‘been a parallel shift in the right of death, or at least a tendency to
+      align itself with the exigencies of a life-administering power and to define itself accord-
+      ingly’ (Foucault, 1978 [1976]: 136). This is precisely why, for Foucault, modern sover-
+      eign power should be understood as an especially ‘formidable power of death’ that is the
+      ‘counterpart’ to the productive modality of biopower (Foucault, 1978 [1976]: 137). In a
+      1982 lecture in Vermont, Foucault refers to the deadly counterpart of biopolitics as ‘than-
+      atopolitics’ – that is to say, a politics concerned with the maximization of death within a
+      broadly biopolitical governmentality (Foucault, 2000 [1988]: 416).6
+        Duarte defends a reformulated version of Quinan and Thiele’s argument, suggesting
+      that ‘necropolitical powers operate by reverting the priorities between life and death in
+      order to better favor death’ (Duarte, 2023: 60). According to Duarte, the ‘exercise of
+      necropolitical powers’ reduces the importance of the ‘distinction between life and death’
+      insofar as death is ‘transformed into an end in itself’ (Breu, 2020: 505; Deutscher, 2017:
+      103; Duarte, 2023: 60; Islekel, 2022: 3; cf. Puar, 2007: 33). Similarly, Deutscher sug-
+      gests that necropolitics ‘is not necessarily subordinated to the putative “vital” ends asso-
+      ciated with biopolitical direct and indirect murder’ (Deutscher, 2017: 103).7 For
+      Deutscher, this is what distinguishes necropolitics from Foucault’s notion of thanatopoli-
+      tics (Deutscher, 2017: 103). I argue that these claims are also mistaken. After all, biologi-
+      cal racism – and related forms of biopolitical discrimination based on theories of
+      ‘abnormality’ or ‘degeneracy’ – are critical to understanding the contemporary politics of
+      death, and these forms of discrimination presuppose one population whose life must be
+      preserved and another population that must be subjected to death (Foucault, 2003 [1997]:
+      255). Mbembe himself states that ‘to a large extent, racism is the driver of the necropo-
+      litical principle insofar as it stands for organized destruction’ and ‘a sacrificial economy’
+      that relies on ‘a generalized cheapening of the price of life’ and ‘a habituation to loss’
+      (Mbembe, 2019 [2016]: 38). In this way, the racialized politics of death exercises power
+      over life based on a distinction between lives that are considered valuable and lives that
+                                                             
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+       D’Cruz                                         11     
+                                                             
+       are determined to be worthless. Therefore, the racialized logic of necropolitics would
+       lose all coherence without this emphasis on the preservation of a certain kind of life.
+       Indeed, when it comes to the question of race, neither life nor death can be given absolute
+       priority over the other or, as Duarte claims of death, made into ‘an end in itself’. After
+       all, each concept already presupposes the other through the differential valuation of life.
+       Without this differential valuation of life predicated on preserving one population at the
+       expense of another, it is hard to see any clear motivation for the maximization of death.
+       Therefore, the supposed shift in emphasis made by Mbembe has been greatly overstated
+       and does not indicate anything truly novel in his work at a conceptual level.
+       Mbembe’s Conceptual Innovations: The Analytical Value of
+       Death-Worlds and the Living Dead                      
+                                                             
+       So far, I have argued that Mbembe’s conceptual framework of necropolitics cannot be
+       successfully demarcated from Foucauldian biopolitics. However, Mbembe does make
+       important contributions to the framework of biopolitics, and offers genuine correctives
+       to Foucault’s work at an empirical level. Mbembe rightly highlights Foucault’s relative
+       lack of attention to colonialism and slavery – which are, of course, two extremely impor-
+       tant chapters in the historical development of biological racism (Mbembe, 2019 [2016]:
+       76).8 Furthermore, Mbembe does offer two genuinely original concepts through his
+       notions of death-worlds and the living dead (Mbembe, 2019 [2016]: 92). At a basic level,
+       the idea of death-worlds helps to frame the diverse ways in which racialized violence
+       manifests within different contexts and interacts with sovereign power, while the cate-
+       gory of the living dead helps to conceptualize the specific kinds of political exclusion
+       that derive from biological racism. Admittedly, these concepts are only explicitly named
+       at the very end of Mbembe’s essay, and thus do not receive as much conceptual develop-
+       ment as they require to be made truly distinctive and convincing. Nonetheless, these
+       ideas are useful insofar as they extend or thematize elements already present in Foucault’s
+       analysis. In this way, they allow us to generate and better organize certain empirical
+       insights.                                             
+        Mbembe defines death-worlds as ‘new and unique forms of social existence in which
+       vast populations are subjected to living conditions that confer upon them the status of the
+       living dead’ (Mbembe, 2019 [2016]: 92). Mbembe discusses five specific types of death-
+       worlds: the plantation, the concentration camp, the late modern colony, the system of
+       apartheid, and the contemporary warzone. I argue that this concept is extremely useful in
+       capturing the singularity of each of these contexts. After all, the relationship between
+       sovereign power, biopower, and racialized violence is constituted differently in each
+       case. In particular, the concept of death-worlds helps to frame Mbembe’s insights into
+       the way biological racism shapes political violence that exceeds sovereign power.
+       Furthermore, this notion is useful in conceptualizing the specific forms of violence that
+       characterize (post-)colonial contexts, especially those of post-colonial Africa. Indeed,
+       Mbembe’s work succeeds in bridging the conceptual framework of biopolitics with the
+       traditions of postcolonialism and Afropessimism (Mbembe, 2019 [2016]: 78–83, 161–3;
+       Patterson, 1982: viii–ix; Sexton, 2010; Wilderson, 2010).9 On this front, one instructive
+                                                             
+                                                             
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+      12                              Theory, Culture & Society 43(2)
+                                                             
+      example is his analysis of apartheid in South Africa, which provides a wealth of insight
+      into precisely how sovereign power was exercised both within a specific post-colonial
+      African context and through a racist biopolitical governmentality (Mbembe, 2019
+      [2016]: 79–80). However, perhaps his most original contribution concerns the relation-
+      ship between biological racism and organized non-state violence. As Rouse rightly
+      argues, Mbembe’s work is extremely valuable in theorizing the role of non-state actors
+      in the constitution of specific death-worlds (Rouse, 2021: 362–3). Mbembe offers two
+      main examples of non-state actors in his essay: what he terms ‘war machines’ and suicide
+      bombers (Mbembe, 2019 [2016]: 83–92).                  
+        For Mbembe, war machines ‘are made up of segments of armed men that split up or
+      merge with one another, depending on the tasks to be carried out and the circumstances
+      involved’ (Mbembe, 2019 [2016]: 85). According to Mbembe, this concept is especially
+      useful in understanding the singularity of post-colonialism in Africa (Mbembe, 2019
+      [2016]: 84–7). He rightly argues that in Africa, ‘the political economy of statehood dra-
+      matically changed over the last quarter of the twentieth century’ and that ‘many African
+      states can no longer claim to hold a monopoly on violence or on the means of coercion
+      within their territory’ (Mbembe, 2019 [2016]: 85–7). In terms of examples of war
+      machines, Mbembe cites ‘urban militias, private armies, armies of regional lords, private
+      security firms, and state armies’ which ‘all claim the right to exercise violence or to kill’
+      (Mbembe, 2019 [2016]: 84). Speaking in this broad context of post-colonial Africa,
+      Mbembe writes:                                         
+        Increasingly, war is no longer waged between the armies of two sovereign states but between
+        armed groups that act behind the mask of the state against armed groups that have no state but
+        control very distinct territories, with both sides having as their main targets civilian populations
+        that are unarmed or organized into militias. (Mbembe, 2019 [2016]: 87)
+      Although Mbembe’s essay does not make this point sufficiently clear, it is important to
+      acknowledge that the targeting of civilian populations in such contexts is guided by dis-
+      tinctly biological forms of racism. Mamdani has shown how genocidal violence in places
+      like Rwanda and the Darfur region of Sudan has been shaped by the categories of bio-
+      logical racism introduced by European colonialism (Mamdani, 2001: 9–14, 76–102;
+      2009: 145–70). Indeed, the relevant racial divisions in both conflicts are unintelligible
+      without the colonial ‘master categories’ of ‘race’ and ‘tribe’ that were used to classify,
+      divide, and regulate the colonized population (Mamdani, 2009: 146; 2012: 46–53).
+      Genocidal violence in these contexts was subsequently rationalized on the basis of these
+      racialized categories. For example, Mamdani argues the Rwandan genocide needs to be
+      understood as what he refers to as a ‘natives’ genocide’ – that is to say, a genocide in
+      which one racial group attempts to exterminate another based on the latter’s perceived
+      identity as colonial settlers (Mamdani, 2001: 13–14). As he rightly explains, the militias
+      of Hutu extremists rationalized their genocide against the Tutsi minority by constructing
+      them ‘as a privileged alien settler presence’ (Mamdani, 2001: 14). This construction was
+      made on the basis of the racialized distinction between Hutu and Tutsi originally estab-
+      lished by Belgian colonialism, which ‘constructed Hutu as indigenous Bantu and Tutsi
+      as alien Hamites’ (Mamdani, 2001: 16). In this way, we can see that genocidal practices
+                                                             
+                                                             
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+       D’Cruz                                         13     
+                                                             
+       in such contexts are heavily informed by the racist biopolitical logic of protecting one
+       population by eliminating another, and that this logic is inextricably linked to the biologi-
+       cal racism that was created by the West and developed in the colonies (Foucault, 2003
+       [1997]: 103, 257).                                    
+        Mbembe’s second example of a non-state actor is that of the suicide bomber, which he
+       discusses in the specific context of the colonial occupation of Palestine (Mbembe, 2019
+       [2016]: 88). For Mbembe, the suicide bomber is a figure who raises a series of complex
+       questions about freedom, terror, resistance, sacrifice, and redemption (Mbembe, 2019
+       [2016]: 88–92). However, for my purposes, the most important characteristic of this
+       figure is that it represents a form of political violence that is shaped by biological racism
+       but exceeds the technology of sovereign power. At this point, one might wonder whether
+       Mbembe’s emphasis on racialized non-state violence might be sufficient to demarcate
+       necropolitics from biopolitics at a conceptual level. After all, it might appear that these
+       examples are not covered by Foucault’s notion of State racism.
+        The challenge, then, is to show that these examples of racialized non-state violence
+       can be accounted for within Foucault’s broader framework. Of course, Foucault’s work
+       is empirically limited insofar as it does not provide a detailed historical explanation of
+       how State racism has diffused biological racism throughout the social body. As we have
+       already seen in the case of Rwanda, this is essential to an adequate description of racism
+       in colonial and post-colonial contexts, especially when it comes to racialized forms of
+       violence that are exercised by non-state actors. Nonetheless, Foucault’s existing frame-
+       work is sufficient to account for such violence at a conceptual level. Indeed, we can
+       account for non-state war machines claiming the sovereign right to kill without making
+       any dramatic revisions to Foucault’s framework. At the level of historical detail, this
+       involves extending Foucault’s analysis of biological racism and its relationship to state
+       power. More specifically, it requires complicating our understanding of the relationship
+       between non-state actors, the biological racism that frequently guides them, and their
+       relationship to state power. After all, while militias are non-state actors, they do appropri-
+       ate the sovereign right to kill by claiming territory and declaring themselves the supreme
+       authority – or, at least, representatives of the supreme authority. In this way, non-state
+       war machines are easily classified as actors who deploy sovereign power within a racist
+       biopolitical governmentality, but without necessarily attaining the status or broader func-
+       tions of a state.                                     
+        On the other hand, suicide bombers do not operate through techniques of sovereign
+       power such as military warfare or territorialization. Instead, as Mbembe observes, they
+       transform their bodies into weapons and, in the process, erase the ordinary distinction
+       between suicide and homicide (Mbembe, 2019 [2016]: 88–9). However, insofar as suicide
+       bombings are a form of resistance, they are a form that is deeply structured by their rela-
+       tionship to sovereign power. After all, they are motivated by a logic of martyrdom that
+       assumes they are trapped in an asymmetrical conflict with a sovereign power – and, in the
+       case of the colonial occupation of Palestine, one that is based on a differential and pro-
+       foundly racialized valuation of life. Of course, there is often a religious dimension to this
+       sacrifice as well, epitomized by the promise of eternal life (Mbembe, 2019 [2016]: 89–90).
+       However, the specific motivation for the sacrifice of suicide – rather than death on the bat-
+       tlefield – is only rendered intelligible through an asymmetrical conflict with a sovereign
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+      14                              Theory, Culture & Society 43(2)
+                                                             
+      power that is guided by a racist biopolitical governmentality. Therefore, while the notion of
+      death-worlds is useful for framing the singularity of the contexts in which such actors oper-
+      ate, we simply do not need the conceptual framework of ‘necropolitics’ to cover this
+      ground. In this way, I argue that Mbembe’s work does help to correct for the empirical and
+      historical shortcomings of Foucault’s analysis, but that this amounts to an extension of
+      Foucault’s framework rather than requiring the creation of an entirely new one.
+        Mbembe’s second original concept is his notion of the living dead. This idea is useful
+      in elaborating a distinctly racialized conception of political death, and in a way that
+      exceeds Agamben’s notion of ‘bare life’. As Brennan has rightly argued, this difference
+      is best understood through the theme of ‘sacrifice’ (Brennan, 2024: 5–9). At first glance,
+      Mbembe’s conception of the living dead might appear to be a simple renaming of bare
+      life and one that echoes Agamben’s own use of the term ‘the living dead’ (Agamben,
+      1998 [1995]: 83; 1999 [1998]: 41, 44, 54). In this way, one might think Mbembe’s con-
+      cept merely describes the way vulnerable populations are stripped of their political rights
+      and thus unjustly exposed to insecurity, violence, and death. Agamben identifies his
+      notion of bare life with the Roman figure of homo sacer – the accursed man who has
+      been excluded from the political community and thus can be killed by anyone, but cannot
+      be sacrificed in a religious ritual (Agamben, 1998 [1995]: 83). In other words, it refers to
+      an individual who is exposed to death, but in a way that means the significance of their
+      death partially exists outside the system of sovereignty – although, as previously men-
+      tioned, it is paradoxically reinscribed through this very exclusion.
+        However, as Brennan correctly argues, Agamben’s notion of bare life is unable to
+      adequately account for racialized forms of death and exclusion. Indeed, Brennan rightly
+      claims that because Agamben understands bare life as ‘beyond sacrifice’, he also places
+      this form of exclusion beyond relevant racial divisions that are bound up with the logic
+      of sacrifice (Brennan, 2024: 5–7). This is clear within a racist biopolitical governmental-
+      ity, where the supposedly inferior race is not simply reduced to ‘bare life’ but is desig-
+      nated as a biological threat to the health and survival of the supposedly superior race. In
+      this way, the racialized subject of death is not, in Agamben’s terminology, the ‘absolute
+      biopolitical substance’ of bare life that is apparently excluded from the political com-
+      munity (Agamben, 1999 [1998]: 156–7). Rather, as Foucault’s notion of State racism has
+      shown in the context of modernity, the destruction of a racial group is intended to pre-
+      serve the health and purity of a supposedly superior racial population (Foucault, 2003
+      [1997]: 255–7). Therefore, in some important sense, the supposedly inferior population
+      is ostensibly being sacrificed for the preservation of the supposedly superior one. This
+      makes it a form of life that must not only be excluded from the political community, but
+      must also be positively eliminated within the sacrificial logic of State racism. As Brennan
+      rightly notes, this notion of racialized sacrifice is based on a ‘weak’ sense of ‘sacrifice’
+      in which something is destroyed in the interest of preserving something else (Brennan,
+      2024: 8). This contrasts with the ‘strong’ sense of sacrifice as ‘tragic expenditure and
+      conscious offerings in the production of the sacred’ (Brennan, 2024: 8). Nonetheless, the
+      weaker sense of sacrifice is crucial in understanding the racialized politics of death
+      (Mbembe, 2019 [2016]: 38).                             
+        Yet one might still wonder if this racialized conception of the living dead is already
+      present in Agamben’s work. After all, in Remnants of Auschwitz, he does acknowledge
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+       D’Cruz                                         15     
+                                                             
+       that the Muselmann is a distinctly racialized form of bare life (Agamben, 1999 [1998]:
+       54, 156–7). Of course, Agamben is right to emphasize that the Nazis dehumanized
+       Jewish victims of the Holocaust through the attribution of an undesirable ‘demographic,
+       ethnic, national, and political identity’ (Agamben, 1999 [1998]: 156–7). However, he
+       underplays how this process is motivated by the desire to protect the health and purity of
+       one racial group by sacrificing another. Therefore, Agamben’s approach does not prop-
+       erly account for the racialized sacrifice that is integral to the genocidal logic of State
+       racism (Foucault, 2003 [1997]: 255–7; Foucault, 1978 [1976]: 137). This is precisely the
+       logic that underpins Mbembe’s conception of the living dead and distinguishes it from
+       Agamben’s treatment of the concept.                   
+        This notion of racialized sacrifice also helps to dispel concerns that the concept of
+       death-worlds is already covered by Agamben’s analysis of the concentration camp. For
+       Agamben, the camp is the ‘“nomos” of the modern’ – that is to say, it is the site that
+       embodies the ‘state of exception’ he takes as definitive of the modern juridico-political
+       order (Agamben, 1998 [1995]: 166–9). Mbembe builds on this account by attending to
+       ‘figures of sovereignty’ beyond the camp but that similarly aim at ‘the generalized instru-
+       mentalization of human existence and the material destruction of human bodies and
+       populations’ – that is to say, death-worlds like the plantation and the colony (Mbembe,
+       2019 [2016]: 68). Beyond emphasizing the historical importance of these death-worlds
+       in the constitution of the modern nomos, Mbembe’s concept explains how the state of
+       exception actually results in the maximization of death and destruction (Mbembe, 2019
+       [2016]: 92). Indeed, he rightly argues that biological racism is the primary cause behind
+       this ‘sacrificial economy’ and is precisely what motivates the suspension of the rule of
+       law within such contexts (Mbembe, 2019 [2016]: 38). In this way, Mbembe shows how
+       the state of exception functions through a racist biopolitical governmentality. In other
+       words, he demonstrates that death-worlds are structured by a racialized form of sacrifice
+       that exceeds a mere reduction to bare life.           
+        The preceding discussion helps to clarify the value of Mbembe’s conceptual innova-
+       tions and indicates how they should be reflexively operationalized. While these concepts
+       do offer a genuine extension of Foucault’s framework, they do not exceed the basic logic
+       laid down by Foucault. Therefore, they are best understood as immanent contributions to
+       the framework of biopolitics, which, as I have argued, encompasses concepts like State
+       racism and thanatopolitics. In this way, I suggest that death-worlds and the living dead
+       are genuine conceptual innovations that can be operationalized within a biopolitical anal-
+       ysis while leaving behind Mbembe’s proposed framework of necropolitics and his notion
+       of necropower.                                        
+       Conclusion                                            
+       In this article, I have argued that Mbembe’s critique of Foucauldian biopolitics is predi-
+       cated on a fundamental misreading of Foucault’s work. Relatedly, I have demonstrated
+       that what Mbembe refers to as ‘necropower’ is already covered by Foucault’s concepts
+       of State racism and thanatopolitics. I have also shown that subsequent attempts to demar-
+       cate necropolitics from biopolitics in the secondary literature have been unsuccessful.
+       This is because they overlook how the racialized politics of death is necessarily
+                                                             
+                                                             
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+      16                              Theory, Culture & Society 43(2)
+                                                             
+      conditioned by the differential valuation of life characteristic of biological racism.
+      However, I maintain that Mbembe does offer a genuine extension of Foucault’s frame-
+      work through his notions of death-worlds and the living dead.
+      Acknowledgements                                       
+                                                             
+      I would like to thank the editorial board and three anonymous reviewers at Theory, Culture &
+      Society for their helpful feedback on this article.    
+      ORCID iD                                               
+      Leonard D’Cruz https://orcid.org/0000-0002-1508-1566   
+                                                             
+      Notes                                                  
+      1. While Foucault generally uses the terms ‘biopower’ and ‘biopolitics’ interchangeably, I will
+        use the term ‘biopower’ to refer to the specific modality of power that attempts to regulate
+        life in sociobiological terms. Furthermore, I will use ‘biopolitics’ to denote Foucault’s overall
+        conceptual framework that frames this specific modality of power, and thus encompasses
+        the concepts of biopower, biological racism, State racism, and thanatopolitics. Similarly,
+        Mbembe tends to use the terms ‘necropower’ and ‘necropolitics’ interchangeably. In this
+        article, I repudiate the suggestion that these concepts exceed Foucault’s notions of State
+        racism and biopolitics respectively. Nonetheless, I will treat the term ‘necropower’ as though
+        it were intended to refer to a distinct modality of power, and will use the term ‘necropolitics’
+        to refer to Mbembe’s proposed conceptual framework more broadly.
+      2. Foucault uses several terms related to the Greek word technē to capture the way certain prac-
+        tices allow one to produce, control, or transform something else, including ‘technologies’,
+        ‘techniques’, and ‘arts’ (see Patton, 2014: 503–8). Patton rightly observes that: ‘Insofar as
+        there is a rule governing his use of these distinct terms, it is that he uses “art” and “technol-
+        ogy” to refer to the overall relation to a particular object in pursuit of a given goal, whereas
+        “technique” is reserved for the particular instruments and means employed to produce the
+        desired result’ (Patton, 2014: 504). Therefore, biopower can be conceptualized as a ‘technol-
+        ogy of power’ in this broader sense, while its specific means of regulating the population
+        – various methods of statistical measurement, normalization, and pathologization – should be
+        understood as ‘techniques of power’ (Foucault, 1978 [1976]: 139–46; 2003 [1997]: 243–5).
+      3. For illuminating comparisons of Foucault and Agamben’s approaches, see Whyte (2013:
+        31–2); Koopman (2015: 573–8); and Kelly (2015: 7).   
+      4. Of course, Foucault does not actually use the term ‘governmentality’ in Society Must Be Defended.
+        However, he does explicitly align this idea with the notion of biopolitics in Security, Territory,
+        Population, which is the very next set of lectures he gave at the Collège de France following his
+        one-year sabbatical from 1976 to 1977 (Foucault, 2009 [2004]: 108). Indeed, Foucault uses the
+        term ‘governmentality’ both to denote the specific political rationality associated with biopoli-
+        tics and as a more general model for conceptualizing power as ‘the way in which one conducts
+        the conduct of men’ (Foucault, 2009 [2004]: 108; 2008 [2004]: 186). Therefore, while it might
+        appear slightly anachronistic to use the concept of governmentality in relation to his analysis of
+        biological racism, there is a strong textual and systematic basis for doing so.
+      5. The following discussion is focused on Mbembe’s 2003 essay ‘Necropolitics’ (as reproduced
+        in his book of the same name) rather than surveying his work more generally. The restricted
+        scope of this discussion is justified insofar as the notion of necropolitics does not receive any
+        conceptual development in other parts of his work, even if he does make passing reference
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+       D’Cruz                                         17     
+                                                             
+         to it. Having said that, Brennan is right to note that there is an implicit continuity between
+         Mbembe’s framework of necropolitics and his later notion of ‘brutalism’ – a concept which
+         serves to thematize his recent emphasis on the co-constitution of race and class (Brennan,
+         2024: 10–12; Mbembe, 2017 [2013]: 3, 36, 136–7; 2024 [2020]: 78–90).
+       6. With this in mind, I argue that Foucault’s notion of State racism should be classified as one
+         specific manifestation of thanatopolitics. Indeed, the notion of thanatopolitics can also apply
+         to the way in which sovereign power has functioned within queerphobic, ableist, and clas-
+         sist forms of biopolitical governmentality. In Society Must Be Defended, Foucault subsumes
+         all forms of supposed ‘degeneracy’ or ‘abnormality’ under his idiosyncratic use of the term
+         ‘racism’ (Foucault, 2003 [1997]: 255). While McWhorter gives insightful reasons as to why
+         we should follow Foucault’s usage here, I still maintain it is clearer and more effective sim-
+         ply to specify the kinds of biopolitical discrimination that can manifest as thanatopolitics
+         (McWhorter, 2009: 32–45).                           
+       7. Of course, there are forms of death that are not tied to biopolitics in Foucault’s sense, such
+         as when killing is made into a public spectacle for the sake of demonstrating and reinforcing
+         sovereign power (Foucault, 1995 [1975]: 47–54). However, in Mbembe’s analysis, racialized
+         forms of death are necessarily tied to the differential valuation of life characteristic of biopoli-
+         tics. Therefore, and contrary to Deutscher’s suggestion, his sense of the term ‘necropolitics’ is
+         very much tied to ‘vital’ ends (Deutscher, 2017: 103).
+       8. That said, Mbembe overlooks Foucault’s explicit acknowledgement that colonial practices
+         played an important role in shaping the racist biopolitical governmentality deployed in the
+         West (Foucault, 2003 [1997]: 103, 257; Mbembe, 2019 [2016]: 76). With this in mind, the
+         deficiencies of Foucault’s analysis with respect to colonialism and slavery should be under-
+         stood as empirical rather than conceptual. For productive efforts to address these empirical
+         shortcomings using Foucault’s own methods and concepts, see Stoler (1995); McWhorter
+         (2009); Venn (2009); and Rasmussen (2011).          
+       9. However, as Brennan rightly argues, there are good reasons to doubt claims that Mbembe
+         should be classified as an Afropessimist thinker himself (Brennan, 2024: 12–15; Wilderson,
+         2010: 58).                                          
+       References                                            
+       Abrahamsen, Rita (2003) African studies and the postcolonial challenge. African Affairs 102(1):
+         189–210.                                            
+       Agamben, Giorgio (1998 [1995]) Homo Sacer: Sovereign Power and Bare Life, trans. Daniel
+         Heller-Roazen. Stanford, CA: Stanford University Press.
+       Agamben, Giorgio (1999 [1998]) Remnants of Auschwitz: The Witness and the Archive, trans.
+         Daniel Heller-Roazen. New York, NY: Zero Books.     
+       Brennan, Eugene (2024) Necropolitics and surplus life: Mbembe and beyond. Theory, Culture &
+         Society 41(3): 3–19.                                
+       Breu, Christopher (2020) Necropolitics enfleshed. Review of Necropolitics by Achille Mbmebe.
+         Symplokē 28(1–2): 505–508.                          
+       Butler, Judith (1992) Mbembe’s extravagant power. Public Culture 5(1): 67–74.
+       Deutscher, Penelope (2017) Foucault’s Futures: A Critique of Reproductive Reason. New York,
+         NY: Columbia University Press.                      
+       Duarte, André (2023) Pandemic and Crisis of Democracy: Biopolitics, Neoliberalism, and
+         Necropolitics in Bolsonaro’s Brazil. New York, NY: Routledge.
+       Foucault, Michel (1995 [1975]) Discipline and Punish: The Birth of the Prison, 2nd edn, trans.
+         Alan Sheridan. New York, NY: Vintage Books.         
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+      18                              Theory, Culture & Society 43(2)
+                                                             
+      Foucault, Michel (1978 [1976]) The Will to Knowledge: Vol. 1 of The History of Sexuality, trans.
+        Robert Hurley. New York, NY: Pantheon.               
+      Foucault, Michel (2000 [1988]) The political technology of individuals. In: Faubion, James D.
+        (ed.) Power: Vol. 3 of The Essential Works of Michel Foucault, 1954–1984, trans. Robert
+        Hurley, et al. New York, NY: The New Press, pp. 403–417.
+      Foucault, Michel (2003 [1997]) ‘Society Must Be Defended’: Lectures at the Collège de France,
+        1975–1976, ed. Davidson, Arnold I, Bertani, Mauro, Fontana, Alessandro, et al., trans. David
+        Macey. New York, NY: Picador.                        
+      Foucault, Michel (2008 [2004]) The Birth of Biopolitics: Lectures at the Collège de France,
+        1978–1979, ed. Davidson, Arnold, Senellart, Michel, Ewald, François, et al., trans. Graham
+        Burchell. New York, NY: Palgrave Macmillan.          
+      Foucault, Michel (2009 [2004]) Security, Territory, Population: Lectures at the Collège de France,
+        1977–1978, ed. Davidson, Arnold, Senellart, Michel, Ewald, François, et al., trans. Graham
+        Burchell. New York, NY: Palgrave Macmillan.          
+      Islekel, Ege Selin (2022) Gender in necropolitics: Race, sexuality, and gendered death. Philosophy
+        Compass 17(5): 1–9.                                  
+      Karlström, Mikael (2003) On the aesthetics and dialogics of power in the postcolony. Africa:
+        Journal of the International African Institute 73(1): 57–76.
+      Kelly, Mark G.E. (2015) Biopolitical Imperialism. Winchester: Zero Books.
+      Koopman, Colin (2015) Two uses of Michel Foucault in political theory: Concepts and methods in
+        Giorgio Agamben and Ian Hacking. Constellations 22(4): 571–585.
+      Mamdani, Mahmood (2001) When Victims Become Killers: Colonialism, Nativism, and the
+        Genocide in Rwanda. Princeton, NJ: Princeton University Press.
+      Mamdani, Mahmood (2009) Saviours and Survivors: Darfur, Politics, and the War on Terror.
+        Cape Town: HSRC Press.                               
+      Mamdani, Mahmood (2012) Define and Rule: Native as Political Identity. Cambridge, MA:
+        Harvard University Press.                            
+      Mbembe, Achille (2001 [2000]) On the Postcolony. Los Angeles, CA: University of California
+        Press.                                               
+      Mbembe, Achille (2017 [2013]) Critique of Black Reason, trans. Laurent Dubois. Durham, NC:
+        Duke University Press.                               
+      Mbembe, Achille (2019 [2016]) Necropolitics, trans. Steven Corcoran. Durham, NC: Duke
+        University Press.                                    
+      Mbembe, Achille (2024) Brutalism, trans. Steven Corcoran. Durham, NC: Duke University Press.
+      McWhorter, Ladelle (2009) Racism and Sexual Oppression in Anglo-America: A Genealogy.
+        Bloomington, IN: Indiana University Press.           
+      Patterson, Orlando (1982) Slavery and Social Death: A Comparative Study. Cambridge, MA:
+        Harvard University Press.                            
+      Patton, Paul (2014) Technology (of discipline, governmentality, and ethics). In: Lawlor, Leonard
+        and Nale, John (eds) The Cambridge Foucault Lexicon. Cambridge: Cambridge University
+        Press, pp. 503–508.                                  
+      Puar, Jasbir Kaur (2007) Terrorist Assemblages: Homonationalism in Queer Times. Durham, NC:
+        Duke University Press.                               
+      Quinan, Christine and Thiele, Kathrin (2020) Biopolitics, necropolitics, cosmopolitics – feminist
+        and queer interventions: An introduction. Journal of Gender Studies 29(1): 1–8.
+      Rafael, Vicente L. (2022) The Sovereign Trickster: Death and Laughter in the Age of Duterte.
+        Durham, NC: Duke University Press.                   
+      Rasmussen, Kim Su (2011) Foucault’s genealogy of racism. Theory, Culture & Society 28(5):
+        34–51.                                               
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+       D’Cruz                                         19     
+                                                             
+       Rouse, Carolyn Moxley (2021) Necropolitics vs. biopolitics: Spatialization, white privilege, and
+         visibility during a pandemic. Cultural Anthropology 36(3): 360–367.
+       Sexton, Jared (2010) People-of-color-blindness: Notes on the afterlife of slavery. Social Text
+         28(2): 31–56.                                       
+       Stoler, Ann Laura (1995) Race and the Education of Desire: Foucault’s History of Sexuality and
+         the Colonial Order of Things. Durham, NC: Duke University Press.
+       Venn, Couze (2009) Neoliberal political economy, biopolitics and colonialism: A transcolonial
+         genealogy of inequality. Theory, Culture & Society 26(6): 206–233.
+       Weate, Jeremy (2003) Achille Mbembe and the postcolony: Going beyond the text. Research in
+         African Literatures 34(4): 27–41.                   
+       Whyte, Jessica (2013) Catastrophe and Redemption: The Political Thought of Giorgio Agamben.
+         Albany, NY: SUNY Press.                             
+       Wilderson, Frank Benjamin, III (2010) Red, White & Black: Cinema and the Structure of U.S.
+         Antagonism. Durham, NC: Duke University Press.      
+       Leonard D’Cruz is a Tutor in Sociology at the University of Melbourne, where he completed his
+       PhD in 2023. His research examines the methodological foundations of social and political theory,
+       with a particular focus on the thought of Michel Foucault. His work has appeared in Philosophy &
+       Social Criticism, The Southern Journal of Philosophy, and Angelaki.
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+     Your  gateway  to world-class  research   journals      
+                                                             
+                                                             
+     Sage is a home to over 1,400 Sage Journals off ers:     
+     prestigious and highly cited                            
+                                • 200+ Gold Open Access and 1,100+
+     journals from a wide range                              
+                                 hybrid journals in 50+ disciplines
+     of disciplines, available                               
+                                • A streamlined and accessible
+     electronically on the Sage  reading experience across web,
+     Journals platform. Search and ePub and PDF formats      
+     browse all journals content— • Feature-rich platform including
+                                 article- and journal-level metrics,
+     including journals in business,                         
+                                 email alerts, citation and sharing
+     humanities and social sciences,                         
+                                 tools, permissions requests 
+     and science, technology,    and more                    
+     and medicine.              • Discipline Hubs and curated
+                                 topic-based article collections
+                                 highlighting the latest content
+                                 across our portfolios       
+                                                             
+           Get  started today at journals.sagepub.com        
+                                                             
+                                                             

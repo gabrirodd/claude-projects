@@ -1,0 +1,1412 @@
+[PAGE 1]
+ 1112341                                                     
+ research-article2022 TCS0010.1177/02632764221112341Theory, Culture & SocietyHabermas
+                                                             
+                                                             
+       Special Issue: A New Structural Transformation of the Public Sphere?
+                                             Theory, Culture & Society
+       Reflections and Hypotheses            2022, Vol. 39(4) 145 –171
+                                              © The Author(s) 2022
+                                              Article reuse guidelines:
+       on a Further Structural                               
+                                          sagepub.com/journals-permissions
+                                        httpDs:O//dIo: i1.o0r.g1/1107.711/0727/60322673267462422121111122334411
+       Transformation   of the                               
+                                           journals.sagepub.com/home/tcs
+       Political Public Sphere                               
+       Jürgen Habermas                                       
+       University of Frankfurt                               
+                                                             
+       Abstract                                              
+       This article contains reflections on the further structural transformation of the public
+       sphere, building on the author’s widely-discussed social-historical study, The Structural
+       Transformation of the Public Sphere, which originally appeared in German in 1962 (English
+       translation 1989). The first three sections contain preliminary theoretical reflections
+       on the relationship between normative and empirical theory, the deliberative
+       understanding of democracy, and the demanding preconditions of the stability of
+       democratic societies under conditions of capitalism. The fourth section turns to the
+       implications of digitalisation for the account of the role of the media in the public
+       sphere developed in the original work, specifically to how it is leading to the expansion
+       and fragmentation of the public sphere and is turning all participants into potential
+       authors. The following section presents empirical data from German studies which
+       shows that the rapid expansion of digital media is leading to a marked diminution of the
+       role of the classical print media. The article concludes with observations on the threats
+       that these developments pose for the traditional role of the public sphere in discursive
+       opinion and will formation in democracies.            
+       Keywords                                              
+       capitalism, communicative legitimisation, digitalisation, normative and empirical theory,
+       public sphere, structural transformation              
+                                                             
+       As the author of the book published nearly six decades ago and chosen by the editors of
+       this special issue as the starting point for the current discussion, I would like to make
+       two remarks. Judging by sales, the book, although it was my first, has remained my
+       most successful to date. The second remark concerns the reason, I suspect, for this unu-
+       sual reception: the book contains a social and conceptual history of the ‘public
+       sphere’ that has attracted a great deal of criticism but has also provided new stimuli to
+                                                             
+       Corresponding author: Ciaran Cronin. Email: ciarancronin@textwright.de
+       TCS Online Forum: https://www.theoryculturesociety.org
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+      146                             Theory, Culture & Society 39(4)
+                                                             
+      more wide-ranging historical research. This historical aspect is not our topic. But for the
+      social sciences, it had the effect of embedding the political concept of the ‘public sphere’
+      in a wider socio-structural context. Until then, the term had been used in a rather unspe-
+      cific sense, primarily within the conceptual field of ‘public opinion’ that, since
+      Lazarsfeld, had been conceived in demoscopic terms; but my study assigned the socio-
+      logical concept of the public sphere a place in the functionally differentiated structure
+      of modern societies between civil society and the political system. As a result, it could
+      be studied with a view to its functional contribution to social integration and, in particu-
+      lar, to the political integration of the citizens.1 Although I am well aware that the social
+      significance of the public sphere goes far beyond its contribution to democratic will
+      formation in constitutional states,2 I also discussed it subsequently from the perspective
+      of political theory.3 In the present contribution, too, I take as my starting point the func-
+      tion of the public sphere in ensuring the sustainability of the democratic political com-
+      munity. Martin Seeliger’s and Sebastian Sevignani’s interesting reflections have
+      persuaded me to reflect on the further structural transformation of the public sphere,
+      although I have been dealing with other topics for a long time and have only been able
+      to take very selective note of the relevant publications. However, I have had an oppor-
+      tunity to read most of the interesting contributions in this collection and am grateful to
+      my colleagues for this instructive reading.            
+        I will begin by addressing the relationship between normative and empirical theory
+      (I); then I will go on to explain why and how we should understand the democratic pro-
+      cess, once it is institutionalised under social conditions marked by individualism and
+      pluralism, in the light of deliberative politics (II); I will conclude these preliminary theo-
+      retical reflections by recalling the improbable conditions that must be fulfilled if a crisis-
+      prone capitalist democracy is to remain stable (III). Within this theoretical framework,
+      for which Structural Transformation (1962; English translation 1989) provided a pre-
+      liminary social-historical analysis, I will outline how digitalisation is transforming the
+      structure of the media and the repercussions of this transformation for the political pro-
+      cess. The technological advance of digitalised communication initially fosters trends
+      towards the dissolution of boundaries, but also towards the fragmentation of the public
+      sphere. The platform character of the new media creates a space of communication
+      alongside the editorial public sphere in which readers, listeners and viewers can sponta-
+      neously assume the role of authors (IV). The reach of the new media is shown by the
+      findings of a longitudinal survey on the usage of the expanded media offerings. Whereas
+      both television and radio have been more or less able to hold their ground in the course
+      of the rapid increase in internet usage over the past two decades, consumption of printed
+      newspapers and magazines has plummeted (V). The rise of the new media is taking place
+      in the shadow of a commercial exploitation of the currently almost unregulated internet
+      communication. On the one hand, this is threatening to undermine the economic basis of
+      the traditional newspaper publishers and of journalists as the affected occupational
+      group; on the other hand, a mode of semi-public, fragmented and self-enclosed commu-
+      nication seems to be spreading among exclusive users of social media that is distorting
+      their perception of the political public sphere as such. If this conjecture is correct, an
+      important subjective prerequisite for the formation of public opinion and political will
+      in a more or less deliberative way is jeopardised among an increasing portion of the
+      citizenry (VI).                                        
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+       Habermas                                      147     
+                                                             
+       I                                                     
+       In studies that deal with the role of the political public sphere in constitutional democra-
+       cies, we generally make a distinction between empirical investigations and normative
+       theories. John Rawls, for example, speaks in this connection of ‘ideal theory’. I think that
+       this alternative is oversimplified. In my view, the role of democratic theory is to recon-
+       struct the rational content of the norms and practices that have acquired positive validity
+       since the constitutional revolutions of the late 18th century and, as such, have become
+       part of historical reality. The very fact that empirical studies of the formation of opinions
+       under democratic conditions become pointless if they are not also interpreted in the light
+       of the normative requirements they are supposed to satisfy in constitutional democracies
+       highlights an interesting circumstance. However, understanding this calls for a brief his-
+       torical digression. For the revolutionary acts that endowed fundamental rights with posi-
+       tive validity first made citizens aware of a new normative gradient [normatives Gefälle],
+       which thereby became part of social reality itself.   
+        The historical novelty of this normativity of constitutional orders based on fundamen-
+       tal rights, whose ‘unsaturated’ character pointing beyond the status quo makes it pecu-
+       liarly demanding, can be better understood against the backdrop of the usual form of
+       social normativity. Social phenomena, be they actions, streams of communication or
+       artefacts, values or norms, habits or institutions, contracts or organisations, have a rule-
+       governed character. This is shown by the possibility of deviant behaviour: rules can be
+       followed or broken. There are different kinds of rules: logical, mathematical and gram-
+       matical rules, game rules and rules of action, where the latter comprise instrumental and
+       social rules of action, which can be differentiated in turn according to strategic and nor-
+       matively regulated interactions. It is the latter norms, in particular, that are distinguished
+       by the peculiar mode of validity of the ‘ought’.4 As the nature of the sanctions for deviant
+       behaviour shows, such normative behavioural expectations may make more or less strict
+       demands, with morality imposing the most stringent demands. The universalistic moral
+       conceptions that arose with the Axial Age world views are distinguished by the fact that
+       they call for the equal treatment of all persons in principle. In the course of the European
+       Enlightenment, this moral-cognitive potential became detached from the respective reli-
+       gious or metaphysical background and was differentiated in such a way that – according
+       to the still authoritative Kantian conception – each individual in his or her inalienable
+       individuality ought to be accorded equal respect and receive equal treatment. On this
+       conception, each person’s conduct must be judged in the light of his or her individual
+       situation in accordance with precisely those general norms that are equally good for
+       everyone from the discursively examined point of view of all those possibly affected.
+        A particular sociological implication of this development is especially interesting in
+       the present context. We must recall the unprecedented radicalness of rational morality in
+       order to gauge the demanding character of the oughtness claim raised by this egalitarian-
+       individualistic universalism and, switching perspective from rational morality to the
+       rational law inspired by this morality, to understand the historical import of how, since
+       the first two constitutional revolutions, this steep moral-cognitive potential has formed
+       the core of the basic rights sanctioned by the state, and thus of positive law in general.
+       With the ‘declaration’ of the basic rights and human rights, the substance of rational
+       morality migrated into the medium of binding constitutional law constructed out of
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+      148                             Theory, Culture & Society 39(4)
+                                                             
+      subjective rights! With those historically unprecedented founding acts that give rise to
+      democratic constitutional orders in the late 18th century, the hitherto unknown tension of
+      a normative gradient lodged itself in the political consciousness of legally free and equal
+      citizens. This encouragement to develop a new normative self-understanding went hand
+      in hand with a new historical consciousness turned offensively towards the future (inves-
+      tigated by Reinhard Koselleck). Taken as a whole, this amounted to a complex shift in
+      consciousness that is embedded in the capitalist dynamics of a transformation of social
+      conditions accelerated by technological progress. In the meantime, however, this
+      dynamic has aroused in Western societies a more defensive mindset that instead feels
+      overwhelmed by the growth in social complexity propelled by technology and the econ-
+      omy. But the persisting social movements that continually reawaken the consciousness
+      of the incomplete inclusion of the oppressed, marginalised and degraded, of afflicted,
+      exploited and disadvantaged groups, classes, subcultures, genders, races, nations and
+      continents, remind us of the steep gradient between the positive validity and the still
+      unsaturated content of the human rights which have, in the meantime, been ‘declared’
+      not only at the national level.5 Hence, and this is the point of my digression, among the
+      preconditions of the survival of a democratic polity is that the citizens should regard
+      themselves from the participant perspective as involved in the process of progressive
+      realisation of the basic rights that, although unexhausted, already enjoy positive
+      validity.                                              
+        Quite apart from these long-term processes through which the basic rights are real-
+      ised, what interests me is the normal case in which the status of free and equal citizens
+      in a democratically constituted polity is associated with certain taken-for-granted ideali-
+      sations. For when the citizens participate in their civic practices, they cannot avoid mak-
+      ing the intuitive (and counterfactual) assumption that the civil rights they practise
+      generally deliver on what they promise. Especially with a view to the stability of the
+      political system, the normative core of the democratic constitution must be anchored in
+      civic consciousness, that is, in the citizens’ own implicit beliefs. It is not the philoso-
+      phers, but the large majority of the citizens who must be intuitively convinced of the
+      constitutional principles. On the other hand, citizens must also be able to trust that their
+      votes count equally in democratic elections, that legislation and jurisdiction, the actions
+      of government and the administration, are mostly above board, and that, as a general
+      rule, there is a fair opportunity to revise dubious decisions. Even though these expecta-
+      tions are idealisations that the actual practice sometimes falls short of to a greater or
+      lesser extent, they create social facts insofar as they are reflected in the citizens’ judge-
+      ments and conduct. What is problematic about such practices is not the idealising
+      assumptions they demand of their participants, but the credibility of the institutions,
+      which must not openly and enduringly repudiate these idealisations.
+        Trump’s fatal exhortation would hardly have met with the intended furious response
+      of the citizens who stormed the Capitol on 6 January 2021 if the political elites had not
+      for decades disappointed the legitimate, constitutionally guaranteed expectations of a
+      significant portion of their citizens. Hence, a political theory tailored to this kind of con-
+      stitutional state must be designed in such a way that it does justice both to the peculiar
+      idealising surplus of a morally based system of basic rights which assures the citizens
+                                                             
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+       Habermas                                      149     
+                                                             
+       that they are involved in the exercise of democratically legitimised government, as well
+       as to the social and institutional conditions which lend credibility to the idealisations that
+       the citizens necessarily associate with their practices.
+        A theory of democracy, therefore, does not need to undertake the task of designing,
+       i.e. constructing and justifying, the principles of a just political order on its own in order
+       to instil them in the citizens like a teacher; in other words, it does not have to understand
+       itself as a normatively designed theory. Its task is instead to rationally reconstruct such
+       principles from existing law and from the corresponding intuitive expectations and con-
+       ceptions of legitimacy of the citizens. It must render the fundamental meaning of the
+       historically established and proven, and hence sufficiently stable, constitutional orders
+       explicit and explain the justifying reasons that can invest the de facto exercise of govern-
+       ment with actual legitimising power in the eyes of their citizens and therefore also ensure
+       civic participation (see Gaus, 2013). That political theory, by making explicit the implicit
+       consciousness of the mass of the citizens who participate in political life, can in turn
+       shape their normative self-understanding is no more unusual than the role of academic
+       contemporary historiography, which performatively influences the further course of the
+       historical events it describes. This does not mean that political theory plays an inherently
+       pedagogical role vis-à-vis politics. Therefore, I do not see deliberative politics as a far-
+       fetched ideal against which sordid reality must be measured, but as an existential precon-
+       dition in pluralistic societies of any democracy worthy of the name (see Habermas,
+       2018). The more heterogeneous the conditions of life, the cultural forms of life and
+       individual lifestyles are in a given society, the more the lack of an a fortiori existing
+       background consensus must be counterbalanced by the commonality of the public for-
+       mation of opinion and political will.                 
+        Because the origins of the classical theories predate the constitutional revolutions of
+       the late 18th century, they could present themselves as normative blueprints for estab-
+       lishing democratic constitutions. However, a contemporary political theory can simply
+       note that the exacting democratic constitutional idea introduces a tension between the
+       positive validity of binding constitutional norms and the constitutional reality into the
+       very reality of modern societies and, when extreme dissonances become apparent, this
+       tension can still trigger the mobilising dynamic of mass protests. Hence, such a theory
+       must recognise that its task is reconstructive in nature. The republican and liberal theo-
+       retical traditions, however, already distort this idea by one-sidedly according priority
+       either to popular sovereignty or to the rule of law, and thereby miss the point that the
+       subjective freedoms exercised by individuals and intersubjectively exercised popular
+       sovereignty are equally original. For the idea that underlies those two constitutional
+       revolutions is the foundation of a self-determined association of free consociates under
+       law, whereby the latter, as democratic co-legislators, must ultimately grant themselves
+       their freedom through the equal distribution of subjective rights in accordance with
+       general laws. According to this idea of collective self-determination, which combines
+       the egalitarian universalism of equal rights for all with the individualism of every sub-
+       ject, democracy and the rule of law are on a par. And only a discourse theory that
+       revolves around the idea of deliberative politics can do justice to this idea (see Habermas,
+       1995, 2009).                                          
+                                                             
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+      150                             Theory, Culture & Society 39(4)
+                                                             
+      II                                                     
+      The approach of deliberative politics can be traced back to the early liberal world of
+      ideas of the Vormärz period but, in the meantime, it has unfolded in the context of the
+      welfare state. Its chief merit is that it explains how, in pluralistic societies that lack a
+      shared religion or world view, political compromises can be reached against the back-
+      ground of an intuitive constitutional consensus. The secularisation of state power gave
+      rise to a gap in legitimation. Because the belief that the ruling dynasties were divinely
+      ordained no longer sufficed to legitimise them in modern societies, the democratic sys-
+      tem had to legitimise itself out of its own resources, as it were, through the legitimacy-
+      generating power of the legally institutionalised procedure of democratic will formation.
+      Religious conceptions of legitimacy were not replaced by a different idea, but instead by
+      the procedure of democratic self-empowerment, which is institutionalised in the form of
+      equally distributed subjective rights, so that it can be exercised by free and equal citizens.
+      At first glance, it seems quite mysterious how the legal institutionalisation of a procedure
+      of democratic will formation – in other words, sheer ‘legality’ – could nevertheless give
+      rise to the ‘legitimacy’ of universally convincing results. Essential to explaining this is
+      the analysis of the meaning that this procedure acquires from the perspective of the par-
+      ticipants. It owes its persuasiveness to an improbable combination of two conditions: on
+      the one hand, the procedure calls for the inclusion of all those affected by possible deci-
+      sions as equal participants in the political decision-making process; on the other hand, it
+      makes democratic decisions in which all individuals together are involved, dependent on
+      the more or less pronounced discursive character of the preceding deliberations. As a
+      result, the inclusive formation of will becomes contingent on the force of the reasons
+      mobilised during the preceding process of opinion formation. Inclusion corresponds to
+      the democratic requirement that all those affected should have equal rights to participate
+      in political will formation, while the filter of deliberation takes into account the expecta-
+      tion that solutions to problems should be cognitively correct and viable, and grounds the
+      assumption that the results are rationally acceptable. This assumption can be justified, in
+      turn, by the falsifiable supposition that, in the consultations preceding a majority deci-
+      sion, all relevant topics, requisite information and suitable proposals for solutions are
+      discussed as far as possible with arguments pro and con. And it is this requirement of free
+      deliberation that explains the central role of the political public sphere.6 Incidentally, this
+      abstract consideration is confirmed by the historical fact that something like a ‘bourgeois
+      public sphere’ emerged at the same time as liberal democracy, first in England and then
+      in the United States, France and other European countries.
+        However, those two requirements of the democratic process – namely, deliberation
+      and the inclusion of all citizens – can only be realised, even approximately, at the level
+      of the institutions of the state, and especially in the representative bodies of parliamen-
+      tary law-making. This explains the essential but limited contribution that political com-
+      munication in the public sphere can make to the democratic process. Its contribution is
+      essential because it represents the sole locus where public opinion and political will are
+      formed in a manner that in principle includes in corpore all adult citizens who are eligi-
+      ble to vote. And this can, in turn, motivate the decisions that citizens make collectively,
+      but as individuals and in the isolation of the voting booth – that is, ‘of their own free
+                                                             
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+       Habermas                                      151     
+                                                             
+       will’. These electoral decisions lead to an outcome that is binding on all citizens insofar
+       as they determine the political composition of parliament and, directly or indirectly, of
+       the government. On the other hand, the contribution of the public sphere to the formation
+       of public opinion and political will in a democracy is limited because, as a general rule,
+       no collectively binding individual decisions are taken there (only in rare cases do funda-
+       mental issues have such a clear structure that they can be decided by such plebiscites).
+       The formation of opinion steered by the mass media gives rise to a plurality of public
+       opinions among the dispersed audience of citizens. These public opinions, which are
+       compiled out of topics, contributions and information and thus assume a distinctive pro-
+       file, compete over the relevant issues, the correct policy goals and the best problem-
+       solving strategies. One circumstance is especially relevant in our context: the overall
+       influence that the will of the citizens, hence of the sovereign, acquires over the decisions
+       of the political system depends essentially on the enlightening quality of the contribution
+       of the mass media to this formation of opinion. This is because opinion formation is
+       sustained by the prior processing of the topics and contributions, alternative proposals,
+       information and supporting and opposing positions by journalists. The function of the
+       professional media is to rationally process the input that is fed into the public sphere via
+       the information channels of the political parties, of the interest groups and PR agencies,
+       and of the societal subsystems, among others, as well as by the organisations and intel-
+       lectuals of civil society. This more or less informed pluralism of opinion filtered by the
+       media system gives every citizen the opportunity to form his or her own opinion and to
+       make an election decision that, from his or her point of view, is rationally motivated.
+       However, the result of the competition over opinions and decisions remains open within
+       the public sphere itself; here deliberation is still separate from the decisions of the indi-
+       vidual voters, because the electoral votes are only prepared in the public. It is only
+       beyond the threshold of general elections that the elected members of parliament can
+       consult and decide with each other in accordance with democratic procedures. Only in
+       the representative bodies and the other state institutions, and in an especially formal way
+       in the courts, are procedural rules tailored to the deliberative format of opinion and will
+       formation that justifies the presumption that majority decisions are more or less ration-
+       ally acceptable.                                      
+        In order to correctly assess the limited contribution that the political public can make,
+       we must examine the organisational section of the constitutional text and the structural
+       division of labour within the political system as a whole – and read it like a flow chart.
+       It then becomes apparent how the democratic flow of the citizens’ public opinion and
+       will formation branches out beyond elections and is directed into the channels – besieged
+       by the lobbying of the functional systems – of party politics, legislation, jurisdiction,
+       administration and government. It ultimately flows into the decisions that stem – within
+       the framework of the law – from compromises between functional imperatives, political
+       and social interests and voter preferences. The legitimate political results are in turn
+       evaluated and criticised in the political public sphere and are processed into new voter
+       preferences after the conclusion of legislative terms.
+        The assumption that political discourse is also oriented to the goal of reaching an
+       agreement is often misunderstood. It by no means implies the idealistic conception of the
+       democratic process as something like a convivial university seminar. On the contrary,
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+      152                             Theory, Culture & Society 39(4)
+                                                             
+      one can assume that the orientation of reasonable participants to the truth or correctness
+      of their argued convictions adds even more fuel to the fire of political disputes and lends
+      them a fundamentally agonal character. To argue is to contradict. Only in virtue of the
+      right, and even the encouragement, to say ‘no’ to each other can the epistemic potential
+      of conflicting opinions unfold in discourse; for the latter is geared to the self-correction
+      of participants who, without mutual criticism, could not learn from each other. The point
+      of deliberative politics is, after all, that it enables us to improve our beliefs through politi-
+      cal disputes and get closer to correct solutions to problems. In the cacophony of conflict-
+      ing opinions unleashed in the public sphere only one thing is presupposed – the consensus
+      on the shared constitutional principles that legitimises all other disputes. Against this
+      consensual backdrop, the whole democratic process consists of a tide of dissent that is
+      stirred up over and over again by the citizens’ search for rationally acceptable decisions
+      oriented to the truth.                                 
+        The deliberative character of the formation of public opinion and political will by the
+      voters is measured in the public sphere by the discursive quality of the contributions, not
+      by the goal of a consensus, which is in any case unattainable; rather, here the participants’
+      orientation to the truth is supposed to ignite an open-ended conflict of opinions that gives
+      rise to competing public opinions. This dynamic of enduring dissent in the public sphere
+      likewise shapes the competition between parties and the antagonism between government
+      and opposition, as well as differences of opinion among experts. The arguments mobilised
+      in this way can then inform the binding procedural decisions to be taken in time by the
+      appropriate organs of the political system. All that is required to institutionalise the anar-
+      chic power of saying ‘no’ unleashed in public debates and election campaigns, in disputes
+      between political parties, in the negotiations of parliament and its committees and in the
+      deliberations of the government and the courts, is the prior political integration of all
+      participants in the consensus over the basic intention of their constitution. The latter is
+      simple enough: it merely spells out the plain will of the citizens to obey only the laws they
+      have given themselves. Without such a consensus on the meaning of deliberative demo-
+      cratic self-legislation, the respective minorities would not have any reason to submit to
+      majoritarian decisions, for the time being at least. In making this point, however, we must
+      not lose sight of the main factor on which the fate of a democracy depends: judged from
+      this normative standpoint, the institutionalised formation of political will must also actu-
+      ally function on the whole in such a way that the voters’ constitutional consensus is con-
+      firmed from time to time by experience. In other words, there must be a recognisable
+      connection between the results of government action and the input of the voters’ decisions
+      such that the citizens can recognise it as the confirmation of the rationalising power of
+      their own democratic opinion and will formation.7 The citizens must be able to perceive
+      their conflict of opinions as both consequential and as a dispute over the better reasons.8
+        ‘But this is at odds with reality,’ one might object, even now in the oldest Anglo-
+      Saxon democracies. The approval that the storming of the Capitol found among Trump
+      voters must probably also be understood as the emotive response of voters who for dec-
+      ades have lacked a sense that their ignored interests are taken seriously by the political
+      system in concrete, discernible ways. The dynamic of political regression into which
+      almost all Western democracies have been drawn since the turn of the millennium can be
+      measured by the decline, and in some countries almost the demise, of this rationalising
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+       Habermas                                      153     
+                                                             
+       power of public debates. On the other hand, this dependence of the problem-solving
+       power of a democracy on the flow of deliberative politics highlights the central role of
+       the political public sphere.                          
+        Without a suitable context, however, the essential preconditions of deliberative poli-
+       tics for the democratic legitimisation of government cannot gain traction among a popu-
+       lation from which, after all, ‘all authority’ is supposed to be ‘derived’.9 Government
+       action, landmark decisions of the higher courts, parliamentary legislation, competition
+       between political parties and free political elections call for an active citizenry, because
+       the political public sphere is rooted in a civil society which – as the sounding board for
+       the disruptions of major functional systems in need of repair – establishes the communi-
+       cative connections between politics and its social ‘environments’. Moreover, civil soci-
+       ety can only play the role of a kind of early warning system for policymakers if it brings
+       forth the actors who organise public attention for the relevant issues that are preoccupy-
+       ing citizens. In the large territorial societies of the modern Western democracies, how-
+       ever, there has always been a tension between the functionally required level of civic
+       commitment and the private commitments and interests that citizens both want to and
+       need to fulfil. This structural conflict between the public and private roles of citizens is
+       also reflected in the public sphere itself. In Europe, the bourgeois public sphere in its
+       literary and its political form was only gradually able to free itself from the shadow of
+       older formations – above all the religious public sphere of ecclesiastical government and
+       the representative public sphere of the personal rule of emperors, kings and princes –
+       once the socio-structural prerequisites for a functional separation of state and society, of
+       the public and private economic spheres, had been satisfied. Viewed from the lifeworld
+       perspective of those involved, therefore, the civil society of politically active citizens is
+       inherently situated in this field of tension between the private and public spheres. As we
+       shall see, the digitalisation of public communication is blurring the perception of this
+       boundary between the private and public spheres of life, although the social-structural
+       prerequisites for this distinction, which also has far-reaching implications for the legal
+       system, have not changed. From the perspective of the semi-private, semi-public com-
+       munication spaces in which users of social media are active today, the inclusive character
+       of the public sphere, which was hitherto clearly separate from the private sphere, is dis-
+       appearing. This represents, as I would now like to show, the disturbing phenomenon on
+       the subjective side of the users of the media that at the same time draws attention to the
+       inadequacy of the political regulation of those new media.
+       III                                                   
+       Before addressing specific changes in the structure of the media and hypotheses concern-
+       ing their implications for the political function of the public sphere, I would like to inter-
+       polate some remarks on the economic, social and cultural boundary conditions that must
+       be fulfilled to a sufficient extent as a precondition for deliberative politics. For it is only
+       against the backdrop of the complex causes of the crisis tendencies of capitalist democra-
+       cies in general that we can assess the limited contribution that the digitalisation of public
+       communication may add to the other relevant causes of an impairment of deliberative
+       opinion and will formation.                           
+                                                             
+                                                             
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+      154                             Theory, Culture & Society 39(4)
+                                                             
+        Active citizenship requires, firstly, a largely liberal political culture consisting of a
+      delicate fabric of attitudes and taken-for-granted cultural assumptions. This is because
+      the population’s basic understanding of the democratic constitutional principles, which
+      remains for the most part implicit, is embedded in an extensive network of historical
+      memories and traditional beliefs, practices and value orientations; these are preserved
+      from generation to generation only thanks to customary patterns of political socialisation
+      and institutionalised patterns of political education. The time span of half a century
+      required, for example, for the political resocialisation of the population of the (old)
+      Federal Republic of Germany after the end of the Nazi era – despite the preceding 150
+      years of constitutional development – is an indicator of the obstacles that generally have
+      to be overcome by any acclimatisation to a liberal political culture. For the moral core of
+      such a culture consists in the willingness of citizens to reciprocally recognise others as
+      fellow citizens and democratic co-legislators endowed with equal rights (see Forst,
+      2013). This begins with regarding political adversaries in a spirit open to compromise as
+      opponents and no longer as enemies – and it continues, beyond the limits of different
+      ethnic, linguistic and religious ways of life, with reciprocal inclusion in a shared political
+      culture of strangers who want to remain strangers to one another. Under conditions of
+      cultural pluralism, this political culture must have differentiated itself from the relevant
+      majority culture to such an extent that every citizen can recognise himself or herself as a
+      member. The social bond of a society, however heterogeneous, will remain intact only if
+      political integration generally ensures a form of civic solidarity that, far from demand-
+      ing unconditional altruism, calls for a limited reciprocal readiness to help. This kind of
+      solidarity goes beyond the willingness to make compromises based on one’s interests.
+      Nevertheless, among fellow members of the same political community, it is only
+      bound up with the expectation of reciprocity at some indeterminate time in the future
+      – specifically with the expectation that others will feel obliged to provide similar assis-
+      tance in a similar situation.10 A ‘liberal’ political culture is not a breeding ground for
+      ‘libertarian’ attitudes; it calls for an orientation to the common good, albeit one that
+      makes modest demands on its addressees. If an outvoted minority is to be able to accept
+      majority decisions, then not all citizens may base their electoral decisions exclusively on
+      their short-term self-interest. A sufficient – and, moreover, representative – proportion of
+      citizens must also be willing to engage in the role of democratic co-legislators who adopt
+      an orientation to the common good.                     
+        A second condition that is necessary for an active civil society is a level of social
+      equality that allows the electorate to participate spontaneously and to a sufficient extent
+      in the democratic process through which public opinions and political will are formed,
+      although such participation must not be made compulsory. The architecture of the con-
+      stitutional state’s system of fundamental rights – which guarantees, on the one hand, the
+      freedoms of private citizens through subjective private rights (and welfare state entitle-
+      ments) and, on the other, the political autonomy of citizens through rights of public
+      communication and participation – only becomes fully accessible in the light of the
+      functional meaning of the complementary roles that the private and public autonomy
+      of citizens also play for each other, aside from their respective intrinsic value. The
+      political rights empower, on the one hand, citizens to participate in democratic legisla-
+      tion, which decides, among other things, on the distribution of private rights and
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+       Habermas                                      155     
+                                                             
+       entitlements, and thus on the citizens’ opportunities to acquire an appropriate social
+       status; on the other hand, this social status in turn creates the prerequisites and motiva-
+       tions for the use that public citizens actually make of their civic rights in each case. The
+       close correlation between social status and voter turnout has been widely documented.
+       But this expectation that democratic participation and securing social status should
+       facilitate each other will function only as long as democratic elections actually rectify
+       substantial and structurally entrenched social inequalities. Empirical studies confirm
+       the vicious circle that takes root when, due to resignation over the lack of perceptible
+       improvements in living conditions, abstentionism becomes entrenched among the lower
+       status segments of the population. Then the parties that were once ‘responsible’ for the
+       interests of these disadvantaged strata tend to neglect a clientele from which they cannot
+       currently expect to receive votes; and this tendency in turn strengthens the motivation
+       for abstentionism (see Schäfer, 2015). Today, we are not observing a reversal, but rather
+       an ironic inversion of this vicious circle insofar as populist movements are successfully
+       mobilising the potential of non-voters (Schäfer and Zürn, 2021). Then, of course, these
+       radicalised groups of non-voters no longer participate in elections under the accepted
+       presuppositions of a democratic election, but instead in the spirit of obstructionist
+       ‘opposition to the system’.11 Even if this populism of the ‘disconnected’ cannot be
+       explained solely by increasing social inequality, because other strata that are struggling
+       to adapt to accelerated technological and social change also feel ‘disconnected’, it is at
+       any rate a manifestation of a critical disintegration of society and a lack of successful
+       policies to counteract it.12                          
+        This draws attention, finally, to the precarious relationship between the democratic
+       state and a capitalist economy that tends to reinforce social inequalities. The balancing
+       of the conflicting functional imperatives by the welfare state is (at this level of abstrac-
+       tion) the third precondition for the success of a democratic regime worthy of the name.
+       Political Economy first revealed the systematic connection between the political system
+       and society; this was the perspective from which I traced the structural transformation of
+       the public sphere in the earlier work.13 However, a liberal political culture is more a
+       boundary condition for the state, one which happens to be satisfied to a greater or lesser
+       extent, rather than something that depends in turn on administrative intervention. The
+       situation is different with the social stratification of society and the existing degree of
+       social inequality. In any case, self-perpetuating capitalist modernisation generates a need
+       for state regulation to curb the centrifugal forces of social disintegration. The govern-
+       ments of those national welfare states that emerged in the West during the second half of
+       the 20th century find themselves compelled to undertake such political countermeasures
+       while the conditions for political legitimation are becoming increasingly demanding. To
+       avoid crises of social integration, governments, as Claus Offe has shown, are trying to
+       satisfy two conflicting demands: on the one hand, they must ensure sufficient conditions
+       for the valorisation of capital in order to generate tax revenues; on the other hand, from
+       the point of view of political and social justice, governments must satisfy the interest of
+       the population as a whole in securing the legal and material preconditions of the private
+       and public autonomy of every citizen – otherwise they will be stripped of their democratic
+       legitimacy. However, capitalist democracies will only be able to tread a path of crisis
+       avoidance between these two imperatives if they possess sufficient governance capacity.
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+      156                             Theory, Culture & Society 39(4)
+                                                             
+      In other words, the scope of the interventionist policies must match the extent of the
+      economic cycles relevant for securing national prosperity. Evidently, the Western democ-
+      racies satisfied this condition sufficiently only for a limited period – namely, only until
+      the worldwide deregulation of markets and the globalisation of financial markets that
+      have constrained the fiscal policies of the states.    
+        A historical account of national public spheres based on these roughly outlined sys-
+      tematic viewpoints would reveal how difficult it is to arrive at any tenable generalisa-
+      tions at all about the framework conditions for the functioning of national public spheres
+      in different historical periods. National peculiarities overlay the general trends towards
+      the kind of nationally organised capitalism that shaped the post-war development of
+      democracy in the West until the neoliberal turn. While during this period the develop-
+      ment of the welfare state strengthened popular support for democracy, privatist trends
+      towards depoliticisation already emerged in the course of the development of a con-
+      sumer society (about whose beginnings I was probably too sceptical at the time of writ-
+      ing Structural Transformation – in what was felt to be the authoritarian climate of the
+      Adenauer period). Since the shift towards neoliberal policies, however, the Western
+      democracies have entered a phase of increasing internal destabilisation, which is being
+      aggravated by the challenges of the climate crisis and the growing pressure of immigra-
+      tion. A further aggravating factor is the perceived rise of China and of other ‘emerging
+      countries’ and the resulting transformation of the global economic and political land-
+      scape. Domestically, social inequality has increased as the scope for action of nation-
+      states has been constrained by imperatives of globally deregulated markets. In the
+      affected subcultures, the fear of social decline has grown in tandem with anxiety over
+      the inability of the nation-state to cope with the complexity of the accelerated social
+      changes.                                               
+        Even apart from the new global political situation created by the pandemic, these
+      circumstances suggest that the nation-states united in the European Union must strive for
+      greater integration – in other words, that they should try to recover the competences they
+      have lost at the national level as a result of this development by creating new political
+      capacities for action at the transnational level (see Habermas, 2012). However, a sober
+      description of institutional approaches to global governance, which have consolidated
+      rather than dismantled international asymmetries of power, does not inspire hope (see
+      Zürn, 2021). In particular, the indecisiveness of the EU in the face of its current problems
+      raises the question of how nation-states can unite at the transnational level to form a
+      democratic regime which, without itself taking on the character of an actual state, would
+      nevertheless acquire the power to act globally. This would also presuppose a more pro-
+      nounced opening of the national public spheres to each other. But both the divisions
+      within the EU and the halting but ultimately accomplished Brexit suggest instead that
+      existing democratic regimes are being hollowed out – and that the foreign policy of the
+      great powers might even revert to a new kind of imperialism. For the time being, we do
+      not know how the national and global economic problems facing a world society stricken
+      by a pandemic will be perceived and processed by the political elites in our countries
+      who still have some power to act. At the moment, there are few pointers for the desirable
+      policy shift to a social and ecological agenda leading to greater integration of core Europe
+      at least.                                              
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+       Habermas                                      157     
+                                                             
+       IV                                                    
+       The media system is crucially important if the political public sphere is to fulfil its role
+       in generating competing public opinions that satisfy the standards of deliberative poli-
+       tics. For the deliberative quality of these opinions depends on whether the process from
+       which they emerge satisfies certain functional requirements on both the input side and
+       the throughput and output sides. Public opinions are only relevant if those from the ranks
+       of politics, as well as the lobbyists and PR agencies of the functional subsystems and,
+       finally, the various actors from civil society, are sufficiently responsive to discover the
+       problems in need of regulation and to ensure the correct input. And public opinions are
+       only effective if the corresponding topics and contributions of those who produce the
+       opinions find their way into the public eye and, on the output side, attract the attention of
+       the wider – voting – population. Our primary interest here is in the media system respon-
+       sible for the throughput. Although for civil society actors, face-to-face encounters in
+       everyday life and in public events represent the two local regions of the public sphere in
+       which their own initiatives originate, the public communication steered by mass media is
+       the only domain in which the noise of voices can condense into relevant and effective
+       public opinions. Our topic is how digitalisation has changed the media system that steers
+       this mass communication. The technically and organisationally highly complex media
+       system requires a professionalised staff that plays the gatekeeper role (as it has come to
+       be called) for the communicative currents from which the citizens distil public opinions.
+       This staff comprises journalists who work for the news services, the media and the pub-
+       lishing houses – in other words, specialists who perform authorial, editorial, proofread-
+       ing and managerial functions in the media and publishing business. This staff directs the
+       throughput and, together with the companies that manage production and organise distri-
+       bution, forms the infrastructure of the public sphere that ultimately determines the two
+       decisive parameters of public communication – the scope and the deliberative quality of
+       the offerings. How inclusive the reception of the published opinions actually is – how
+       intensively and with what investment of time they are received on the output side by
+       readers and listeners and are processed further into effective public opinions in the two
+       aforementioned local areas of the political public sphere and, finally, are paid out to the
+       political system in the currency of election results – ultimately depends on media users,
+       specifically on their attention and interest, their time budgets, educational background
+       and so on.                                            
+        The influence of digital media on a further structural transformation of the political
+       public sphere can be seen, for example since the turn of the millennium, from the extent
+       and nature of media use. Whether this change in scope also affects the deliberative qual-
+       ity of public debate is an open question. As the relevant research in the fields of com-
+       munication science, political science and the sociology of elections demonstrates
+       – especially studies on voter turnout and public ignorance – the values for these two
+       dimensions of public communication by democratic standards were already anything but
+       satisfactory prior to digitalisation; however, they pointed to democratic conditions that
+       fell short of stability-endangering crises. Today, the signs of political regression are there
+       for everyone to see. Whether and to what extent the condition of the public sphere is also
+       contributing to this development would have to be shown by examining the inclusiveness
+                                                             
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+      158                             Theory, Culture & Society 39(4)
+                                                             
+      of the formation of public opinions and the rationality of the prominent opinions in the
+      public sphere. Evidently, empirical studies of the latter variable face major obstacles.
+      While data are available for media use, a theoretical quantity such as ‘deliberative qual-
+      ity’ is already difficult to operationalise for the procedurally regulated opinion formation
+      in individual bodies such as committees, parliaments and courts (Steiner et al., 2004), but
+      is even more difficult to operationalise for the unregulated communication processes in
+      extensive national public spheres. However, the data from a long-term comparative study
+      of media use provide a basis to infer from an independent assessment of the quality of the
+      media offerings that are being consumed to the level of reflectiveness of public opinions.
+      Before pursuing this question further, however, we need to get clear about the revolution-
+      ary character of the new media. For this is not just a matter of an expansion of the range
+      of media previously available, but of a caesura in the development of the media in human
+      history comparable to the introduction of printing.    
+        After the first evolutionary advance to recording the spoken word in writing, the
+      introduction of the mechanical printing press in early modernity meant that the alpha-
+      betic characters became detached from handwritten parchment; in recent decades, as a
+      result of electronic digitalisation, binary-coded characters have become detached in a
+      similar way from printed paper. As this further, equally momentous innovation has
+      unfolded, the communication flows of our garrulous species have spread, accelerated
+      and become networked with unprecedented speed across the entire globe and, retrospec-
+      tively, across all epochs of world history. With this global dissolution of boundaries in
+      space and time, these flows have simultaneously become condensed, differentiated and
+      multiplied according to functions and contents, and have been generalised across cul-
+      tural and class-specific divisions. The innovative idea that ushered in this third revolu-
+      tion in communications technologies was the worldwide networking of computers, as a
+      result of which anyone could communicate from any place with anyone anywhere else in
+      the world. Initially the new technology was used by scientists. In 1991, the American
+      National Science Foundation decided to make this invention available for private use,
+      which meant that it was also available for commercial purposes. This was the decisive
+      step towards the establishment of the World Wide Web (WWW) two years later, which
+      created the technical basis for the logical completion of a development in communica-
+      tions technology that, over the course of human history, gradually overcame the original
+      limitation of linguistic communication to face-to-face oral conversations and exchanges
+      within hearing range. For many areas of life and activity, this innovation opens up
+      undoubted advances. But for the democratic public sphere, the centrifugal expansion of
+      simultaneously accelerated communication to an arbitrary number of participants across
+      arbitrary distances generates an ambivalent explosive force; for, with its orientation
+      towards the centre constituted by organisations that have the political power to act, the
+      public sphere is for the time being limited to national territories.14 There can be no doubt
+      that the expansion and acceleration of opportunities for communication and the increase
+      in the range of the publicly thematised events has benefits for political citizens as well.
+      The world has also shrunk on the television screens in our living rooms. The content of
+      press, radio and television programmes does not change when they are received on
+      smartphones. And when films are produced for streaming services like Netflix, this may
+      lead to interesting aesthetic changes; but the changes in reception and the regrettable
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+       Habermas                                      159     
+                                                             
+       hollowing out of the cinema have long been heralded by the competition of television.
+       On the other hand, aside from its evident benefits, the new technology also has highly
+       ambivalent and potentially disruptive repercussions for the political public sphere in the
+       national context. This is a result of how consumers of the new media make use of the
+       availability of limitless possibilities for networking, that is, of ‘platforms’ for possible
+       communications with arbitrary addressees.             
+        For the media structure of the public sphere, this platform character represents what
+       is actually novel about the new media. For, on the one hand, the platforms dispense with
+       the productive role of journalistic mediation and programme design performed by the old
+       media; in this respect, the new media are not ‘media’ in the established sense. They radi-
+       cally alter the previously predominant pattern of communication in the public sphere by
+       empowering all potential users in principle to become independent and equally entitled
+       authors. The ‘new’ media differ from the traditional media in that digital companies
+       make use of this technology to offer potential users the unlimited opportunities for digital
+       networking like blank slates for their own communicative content. Unlike traditional
+       news services and publishers, such as print media, radio and television, these companies
+       are not responsible for their own ‘programmes’, that is, for communicative contents that
+       are professionally produced and passed through editorial filters. They neither produce,
+       nor edit nor select; but by acting in the global network as intermediaries ‘without respon-
+       sibility’ who establish new connections and, with the contingent multiplication and
+       acceleration of unexpected contacts, initiate and intensify discourses with unpredictable
+       contents, they profoundly alter the character of public communication itself.
+        Broadcasts establish a linear and one-way connection between a broadcaster and
+       many potential recipients; the two sides encounter each other in different roles, namely
+       as publicly identifiable or known producers, editors and authors responsible for their
+       publications, on the one side, and an anonymous audience of readers, listeners or view-
+       ers, on the other. In contrast, platforms provide a multifaceted communicative connec-
+       tion open to networking that facilitates the spontaneous exchange of possible contents
+       between potentially many users. The latter are not differentiated as regards their roles by
+       the medium alone; rather, they encounter each other as participants in communicative
+       exchanges on spontaneously chosen topics who are in principle equal and self-responsi-
+       ble. Unlike the asymmetrical relationship between broadcasters and recipients, the
+       decentralised connection between these media users is reciprocal in principle, but its
+       content is unregulated because professional filters are lacking. The egalitarian and
+       unregulated nature of the relationships between participants and the equal authorisation
+       of users to make their own spontaneous contributions constitute the communicative pat-
+       tern that was originally supposed to be the hallmark of the new media. Today, this great
+       emancipatory promise is being drowned out by the desolate cacophony in fragmented,
+       self-enclosed echo chambers.                          
+        The new pattern of communication has given rise to two remarkable effects for the
+       structural transformation of the public sphere. At first, the new media seemed to herald
+       at last the fulfilment of the egalitarian-universalistic claim of the bourgeois public sphere
+       to include all citizens equally. These media promised to lend all citizens their own pub-
+       licly perceptible voice and even to equip it with mobilising power. They would free users
+       from the receptive role of addressees who choose between a limited number of
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+      160                             Theory, Culture & Society 39(4)
+                                                             
+      programmes and would enable every individual to make his or her voice heard in the
+      anarchic exchange of spontaneous opinions. But the lava of this at once anti-authoritar-
+      ian and egalitarian potential, which was still discernible in the Californian founding spirit
+      of the early years, soon solidified in Silicon Valley into the libertarian grimace of world-
+      dominating digital corporations. Moreover, the worldwide organisational potential
+      offered by the new media is at the service of radical right-wing networks as well as the
+      courageous Belarusian women in their sustained protest against Lukashenko. One effect
+      is the self-empowerment of media users; the other is the price the latter pay for being
+      released from the editorial tutelage of the old media as long as they have not yet learned
+      to make good use of the new media. Just as printing made everyone a potential reader,
+      today digitalisation is making everyone into a potential author. But how long did it take
+      until everyone was able to read?                       
+        The platforms do not offer their emancipated users any substitute for the professional
+      selection and discursive examination of contents based on generally accepted cognitive
+      standards. This is why there is currently so much talk of the eroding gatekeeper model of
+      the mass media.15 This model in no way implies the disenfranchisement of media users;
+      it merely describes a form of communication that can enable citizens to acquire the nec-
+      essary knowledge and information so that each of them can form his or her own opinion
+      about problems in need of political regulation. A politically appropriate perception of the
+      author role, which is not the same as the consumer role, tends to increase the awareness
+      of deficits in one’s own level of knowledge. The author role also has to be learned; and
+      as long as this has not been realised in the political exchange in social media, the quality
+      of uninhibited discourse shielded from dissonant opinions and criticism will continue to
+      suffer. This is what first gives rise to the danger of fragmentation for political opinion
+      and will formation in the political community in connection with a simultaneously
+      unbounded public sphere. The boundless communication networks that spontaneously
+      take shape around certain topics or individuals can spread centrifugally while simultane-
+      ously condensing into communication circuits that dogmatically seal themselves off
+      from each other. Then the trends towards fragmentation and the dissolution of bounda-
+      ries reinforce each other to create a dynamic that counteracts the integrating power of the
+      communication context of the nationally centred public spheres established by the press,
+      radio and television. Before going into this dynamic in greater detail, I would first like to
+      review how the share of social media in the overall media offerings has evolved.
+      V                                                      
+      Empirically speaking, the impact of the introduction of the internet, and of social media
+      in particular, on the formation of opinion and will in the public sphere is not easy to cir-
+      cumscribe. However, the findings of the long-term study on media use in Germany con-
+      ducted by the national broadcasters for the period from 1964 to 2020 permit some rough
+      conclusions about changes in the media offerings and how they are used.16 There was a
+      considerable expansion of offerings, first as a result of the introduction of private televi-
+      sion, and then above all as a result of the wide range of online options. This holds not
+      only for the national level, since the internet also makes a large number of ‘foreign’
+      press, radio and television programmes available. Interested people from around the
+                                                             
+                                                             
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+       Habermas                                      161     
+                                                             
+       world were able to watch the storming of the Capitol live on CNN. Correspondingly, the
+       time budget invested in daily media consumption has ballooned. The usage time for all
+       media has risen sharply since 2000, but peaked in 2005; since then, it has levelled off at
+       a saturation level of an astounding eight hours a day. The proportions of the different
+       media have shifted over the decades. Since 1970, the use of the then-new medium of
+       television overtook that of the traditional media of daily newspapers and radio. But even
+       since online competition became clearly felt from the year 2000 onwards, television and
+       radio still claim the greatest reach. Book consumption also remained quite stable, with
+       fluctuations, between 1980 and 2015. What must be emphasised in our context is that, in
+       contrast, the corresponding reach of daily newspapers underwent a steady decline since
+       the introduction of television, from 69 per cent in 1964 to 33 per cent in 2015. The slump
+       since the introduction of new media is reflected in the dramatic decline in the reach of
+       printed newspapers and magazines from 60 per cent in 2005 to 22 per cent in 2020. This
+       trend will continue at an accelerated rate, given that 40 per cent of people in the age
+       group of 14 to 29-year-olds were still reading printed newspapers or magazines in 2005,
+       compared with 6 per cent in the same age group in 2020. At the same time, the reading
+       intensity has decreased: While the average reader spent 38 minutes a day reading daily
+       newspapers in 1980 (and 11 minutes reading magazines), the average daily reading time
+       decreased to 23 minutes in 2015 (or 11 minutes for magazines), and to 15 minutes in
+       2020 (for newspapers and magazines combined). Of course, newspaper consumption has
+       also shifted to the internet; but aside from the fact that reading digitalised texts presum-
+       ably does not demand the same level of intensive attention and analytical processing as
+       does reading printed texts, the apps or podcasts of the corresponding online offerings
+       cannot fully compensate for the offerings of daily newspapers. The daily time spent read-
+       ing digital texts among the population as a whole – 18 minutes in total, 6 minutes of
+       which are spent on newspapers and magazines – is an indicator of this.
+        The most recent representative Eurobarometer of the populations of the then 28 EU
+       countries, which was conducted at the end of 2019, confirms the current scale of the
+       availability and use of the various media: on a daily basis, 81 per cent of respondents use
+       television, 67 per cent the internet in general, 47 per cent social media, 46 per cent radio
+       and 26 per cent the press, compared to the 38 per cent proportion of daily newspaper
+       readers in 2010. The Eurobarometer records daily use of social media separately from
+       that of the internet in general, and this share has risen astonishingly rapidly from 18 per
+       cent of all respondents in 2010 to 48 per cent currently. Interestingly, television and, at a
+       lower level, radio also maintain their leading role in the demand for ‘political informa-
+       tion on national affairs’. In this connection, 77 per cent of those surveyed name televi-
+       sion, 40 per cent radio and 36 per cent the print media as their ‘main sources of
+       information’, while 49 per cent cite the internet in general and 20 per cent social media.
+       The fact that this figure, which is of interest in the present context, has already risen by
+       a further four points compared to the previous year’s survey confirms the increasing
+       trend also documented elsewhere. In any case, the drastic decline in the consumption of
+       daily newspapers and magazines is also an indicator that, since the introduction of the
+       internet, the average amount of attention paid to political news and the analytical pro-
+       cessing of politically relevant issues have declined. Nonetheless, the relative stability of
+       the share of television and radio also in media consumption in general suggests that, for
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+      162                             Theory, Culture & Society 39(4)
+                                                             
+      the time being, these two media are providing reliable and sufficiently diverse political
+      information to at least three-quarters of the electorate in the EU member states.
+        This makes another trend all the more striking. Evidently, the increasing infiltration of
+      the public sphere by fake news, especially the spectacular development towards a ‘post-
+      truth democracy’ that became the alarming normality in the US under the Trump admin-
+      istration, has also reinforced distrust in the media in Europe. Forty-one per cent of
+      respondents doubt that the reporting of the national media is free from political and
+      economic influence; 39 per cent of respondents explicitly affirm this distrust with regard
+      to the public media that today form the backbone of a liberal public sphere; and as many
+      as 79 per cent claim that they have encountered distorted or false news.
+        These data provide information about the changes in the spectrum of available media
+      and their use; however, they only provide indirect indicators of the quality of the public
+      opinions formed on this basis and of the extent of citizens’ involvement in the process of
+      opinion and will formation. Therefore, I must confine myself to educated conjectures.
+      On the one hand, the dramatic loss of relevance of the print media compared to the domi-
+      nant audio-visual media seems to point to a declining level of aspiration of the offerings,
+      and hence also for the fact that the citizens’ receptiveness and intellectual processing of
+      politically relevant news and problems are on the decline. This diagnosis is confirmed,
+      by the way, by how the politically leading daily and weekly newspapers have adapted to
+      the ‘colourful’ format of entertaining Sunday newspapers. On the other hand, the partici-
+      pant observer finds daily evidence that what is left of the more sophisticated national
+      newspapers and magazines still functions as the leading political media from which the
+      other media, especially television, continue to take over the reflected contributions and
+      authoritative positions on the main topics. However, mistrust in the truth, seriousness
+      and completeness of the programmes is increasing among the general population in
+      Germany, even though each of the two leading public television and radio channels con-
+      tinues to ensure a reliable supply of news and political programmes. The growing doubts
+      about the quality of the state-financed media seem to correspond to the increasingly
+      widespread conviction that the political class is either unreliable or corrupt, or is at any
+      rate suspect. This general picture suggests that, on the one hand, the diversity of the
+      media on the supply side, and a corresponding pluralism of opinions, arguments and
+      perspectives on life, fulfil important preconditions for the long-term formation of critical
+      opinions that are immune to prejudice; but that, on the other hand, the increasing disso-
+      nance of a strident diversity of voices and the complexity of the challenging topics and
+      positions is leading a growing minority of media consumers to use digital platforms to
+      retreat into shielded echo chambers of the like-minded. For the digital platforms not only
+      invite their users to spontaneously generate intersubjectively confirmed worlds of their
+      own but seem to lend the stubborn internal logic of these islands of communication, in
+      addition, the epistemic status of competing public spheres. But before we can assess this
+      subjective side of the changes in recipients’ attitudes as a result of the media offerings,
+      we must first examine the economic dynamics, that increasingly distort subjective per-
+      ceptions of the editorial public sphere. For the idiosyncratic character of these modes of
+      reception fostered by social media should not blind us to the economic anchoring of the
+      roughly outlined, and for the time being politically largely unregulated, transformation
+      of the structure of the media.                         
+
+[PAGE 19]
+                                                             
+                                                             
+                                                             
+       Habermas                                      163     
+                                                             
+       VI                                                    
+       The description of platforms as ‘media offerings for networking communicative content
+       across arbitrary distance’ is, in view of the far from neutral performance of algorithm-
+       steered platforms such as Facebook, YouTube, Instagram and Twitter, if not naïve, at
+       least incomplete. For these new media are companies that obey the imperatives govern-
+       ing the valorisation of capital and are among the most highly quoted corporations on the
+       stock exchange. They owe their profits to exploiting data, which they sell for advertising
+       purposes (or otherwise as goods). These data consist of information that accrue as by-
+       products of their user-oriented offerings in the form of the personal data their customers
+       leave behind on the internet (now subject to formal consent). Newspapers are also gener-
+       ally privately owned companies that are financed to a large extent by revenues from
+       advertising. But while the old media are themselves the advertising vehicles, the kind of
+       value creation that has provoked criticism of ‘surveillance capitalism’ (see Zuboff, 2018)
+       feeds on commercially exploitable information that is randomly ‘captured’ by other
+       services and in turn enables individualised advertising strategies (see Fuchs, 2021). On
+       this algorithm-controlled path, social media also foster a further advance towards the
+       commodification of lifeworld contexts.                
+        However, I am interested in a different aspect, namely the pressure to adapt that the
+       exploitation logic of the new media exerts on the old media. The latter were suitable as
+       vehicles for advertising only insofar as their contents were commercially successful;
+       however, these contents themselves inherently obey a completely different logic –
+       namely, the demand for texts and programmes whose form and content must satisfy
+       cognitive, normative or aesthetic standards. That readers and audiences evaluate journal-
+       istic performances according to such epistemic standards (broadly understood) becomes
+       immediately apparent once we grasp – from the philosophical perspective of analysis of
+       the lifeworld – the important function that the media fulfil in providing orientation in the
+       increasingly confusing ‘media society’. In view of the complexity of society, the media
+       are the intermediary which, in the diversity of perspectives of social situations and cul-
+       tural forms of life, whittle out an intersubjectively shared core from among the compet-
+       ing interpretations of the world and validate it as generally rationally accepted. Of
+       course, the press, with its classic threefold division of newspaper contents into politics,
+       business and feature pages, is never the final authority regarding the truth or correctness
+       of individual statements or canonical interpretations of facts, of the plausibility of gen-
+       eral assessments, even of the soundness of standards or procedures of judgement. But
+       with their daily stream of new information and interpretations, the media constantly con-
+       firm, correct and supplement the blurred everyday image of a world that is presumed to
+       be objective, and which virtually all contemporaries assume is also accepted by every-
+       one else as ‘normal’ or valid.                        
+        The informative article by Ottfried Jarren and Renate Fischer (2021) explains why the
+       advance towards the ‘platformisation of the public sphere’ is creating difficulties for the
+       traditional media, both economically and in view of dwindling journalistic influence and
+       the weakening of professional standards. Since there is a correlation between circulation
+       and advertising revenues, the decline in demand for printed newspapers and magazines
+       is jeopardising the economic basis of the press; and thus far the press has not found a
+                                                             
+
+[PAGE 20]
+                                                             
+                                                             
+                                                             
+      164                             Theory, Culture & Society 39(4)
+                                                             
+      really successful business model for commercial sales of digital formats, since on the
+      internet it is in competition with new media that offer their users corresponding informa-
+      tion free of charge. The result is cutbacks and precarious employment conditions with
+      negative effects on the quality and scope of editorial work. But the losses in the advertis-
+      ing and audience stakes are not the only factors that mitigate the relevance and interpre-
+      tive power of the press. Adjusting to the competition on the internet calls for changes in
+      how journalists work. Even if the ‘audience turn’, i.e. the greater involvement of the
+      audience and an increased sensitivity to the reactions of readers, are not necessarily dis-
+      advantages, the trends towards deprofessionalisation and the understanding of journalis-
+      tic work as a neutral, depoliticised service – as a matter of managing data and attention
+      rather than of targeted research and precise interpretation – are intensifying: ‘As a result,
+      newsrooms, previously places of political debate, are being transformed into coordina-
+      tion centres for the sourcing and the management of the production and distribution of
+      content’ (see Jarren and Fischer, 2021: 370). The change in professional standards is a
+      reflection of the adaptation of the press, whose greatest inherent affinity is for the discur-
+      sive formation of public opinions and political will by the citizens, to the commercial
+      services of platforms that are vying for the attention of consumers. With the triumph of
+      the imperatives of the attention economy, however, the new media are also reinforcing
+      the trends long familiar from the tabloid and mass press towards entertainment and the
+      affective charging and personalisation of the issues with which the political public sphere
+      is increasingly concerned.                             
+        With the alignment of political programmes with offers of entertainment and con-
+      sumption addressed to the citizens as consumers, we touch on trends towards depolitici-
+      sation that have been observed in media research since the 1930s, but which are evidently
+      intensifying as a result of the availability of social media. Only when we turn our atten-
+      tion away from the objective side of the expanded structure of the media and its trans-
+      formed economic basis towards the side of the recipients and their changed modes of
+      reception do we touch on the central question of whether social media are changing how
+      their users perceive the political public sphere. Of course, the technical advantages of
+      commercial platforms, and even of a medium like Twitter that compels its users to pro-
+      duce concise messages, offer the users benefits for political, professional and private
+      purposes. But these advances are not our topic. Our question is rather whether, through
+      the changed mode of use, these platforms also prompt a kind of exchange about implic-
+      itly or explicitly political views that could influence the perception of the political public
+      sphere as such. Philipp Staab and Thorsten Thiel (in this special issue) refer with
+      regard to the subjective aspect of the use of the new media to Andreas Reckwitz’s the-
+      ory of the ‘society of singularities’ and, in particular, the incentives that the activating
+      platforms provide their users for narcissistic self-presentation and the ‘staging of singu-
+      larity’ (Reckwitz, 2020). If we make a clear distinction between ‘individualisation’ and
+      ‘singularisation’ – that is, between the distinctiveness that individuals acquire through
+      their life history and the visibility and gain in distinction they can achieve through spon-
+      taneous contributions on the internet – then the ‘promise of singularisation’ may be the
+      correct term for influencers who court the approval of followers for their own pro-
+      gramme and reputation. Be that as it may, when it comes to the contribution that social
+      media make to the formation of opinion and will in the political public sphere, another
+
+[PAGE 21]
+                                                             
+                                                             
+                                                             
+       Habermas                                      165     
+                                                             
+       aspect of reception seems more important to me. As has been frequently observed, the
+       spontaneously self-directed and fragmented public spheres that split off both from the
+       editorial or official public sphere and from each other generate a pull towards self-refer-
+       ential reciprocal confirmation of interpretations and opinions. If, however, the experi-
+       ence and perception of those involved in these milieus of what was hitherto called the
+       public sphere and the political public sphere were to change, and if the hitherto custom-
+       ary conceptual distinction between private and public spheres were to be affected, this
+       would necessarily have far-reaching consequences for the self-understanding of internet
+       consumers as citizens. For the present we lack the data to test this hypothesis; but the
+       indicators that prompt such a hypothesis are troubling enough.
+        The social basis for the legal and political differentiation of the public sphere from the
+       private sphere of economic, civic and family intercourse has not undergone any struc-
+       tural change during the period under consideration, for the capitalist economic form is
+       itself based on this separation. In constitutional democracies, this structure has also been
+       reflected in the consciousness of citizens. And their perception is the crucial issue.
+       Citizens are expected to make their political decisions in the field of tension between
+       self-interest and the orientation towards the common good. As we have seen, this tension
+       is played out in the space of a political public sphere that as a matter of principle includes
+       all citizens as a potential audience. The very fact that public streams of communication
+       flow through editorial sluices sets them apart from all private and business contacts.
+       Different standards apply to the composition of printed matter addressed to an anony-
+       mous reading public than to private correspondence, which for a long time was still writ-
+       ten by hand.17 What is constitutive of the public sphere is not the disparity between active
+       and passive participation in discourse, but rather the topics that deserve shared interest
+       and the respective professionally examined form and rationality of the contributions that
+       promote mutual understanding about common and different interests. The spatial meta-
+       phor of the distinction between private and public ‘spaces’ should not mislead us; the
+       decisive factor is the perception of the threshold (itself politically contested) between
+       private matters and public issues that are discussed in the political public sphere. This
+       perception is also shared by the social movements that create counterpublics to combat
+       the narrowing of vision of the media public. Apart from the reference to the central politi-
+       cal authority that has the power to act, it is the form and relevance of the selected edito-
+       rial contributions that attract the attention of the audience. And this expectation of the
+       reliability, quality and general relevance of public contributions is also constitutive for
+       the perception of the inclusive character of a public sphere that is supposed to direct the
+       attention of all citizens to the same topics in order to both stimulate and enable each of
+       them to make their own judgements in accordance with the recognised standards about
+       the relevant issues for political decision-making.18  
+        It is true that, since the emergence of ‘media societies’, nothing essential has changed
+       in the social basis for such a separation of the public sphere from the private spheres of
+       life. Nonetheless, the more or less exclusive use of social media may have led in parts of
+       the population to a change in the perception of the public sphere that has blurred the
+       distinction between ‘public’ and ‘private’, and thus the inclusive meaning of the public
+       sphere. In the literature in communication studies, one increasingly encounters observa-
+       tions of a trend away from traditional perceptions of the political public sphere and
+
+[PAGE 22]
+                                                             
+                                                             
+                                                             
+      166                             Theory, Culture & Society 39(4)
+                                                             
+      politics itself (see Bennett and Pfetsch, 2018). In certain subcultures, the public sphere is
+      no longer perceived as being inclusive, and the political public sphere is no longer seen
+      as a space of communication for a generalisation of interests that includes all citizens.
+      Therefore, I will try to explain a hypothesis and render it plausible as such.19 As men-
+      tioned, the internet opens up virtual spaces of which users can take immediate possession
+      as authors in a new way. Social media create freely accessible public spaces that invite
+      all users to make interventions that are not checked by anyone – and which, as it happens,
+      have also long enticed politicians to exert direct personalised influence on the voting
+      public. This plebiscitary ‘public sphere’, which has been stripped down to ‘like’ and ‘dis-
+      like’ clicks, rests on a technical and economic infrastructure. But in these freely acces-
+      sible media spaces, all users who are, as it were, released from the need to satisfy the
+      entry requirements to the editorial public sphere and, from their point of view, have been
+      freed from ‘censorship’, can in principle address an anonymous public and solicit its
+      approval. These spaces seem to acquire a peculiar anonymous intimacy: according to
+      previous standards, they can be understood neither as public nor as private, but rather as
+      a sphere of communication that had previously been reserved for private correspondence
+      but is now inflated into a new and intimate kind of public sphere.
+        Users empowered as authors provoke attention with their messages, because the
+      unstructured public sphere is first created by the comments of readers and the likes of
+      followers. Insofar as this leads to the formation of self-supporting echo chambers, these
+      bubbles share with the classical public sphere their porousness to further networking; at
+      the same time, however, they differ from the fundamentally inclusive character of the
+      public sphere – and the contrast to the private sphere – through their rejection of disso-
+      nant and the inclusion of consonant voices into their own limited, identity-preserving
+      horizon of supposed, yet professionally unfiltered, ‘knowledge’. From a point of view
+      fortified by the mutual confirmation of their judgements, claims to universality extend-
+      ing beyond their own horizons become fundamentally suspect of hypocrisy. From the
+      limited perspective of such a semi-public sphere, the political public sphere of constitu-
+      tional democracies can no longer be perceived as an inclusive space for possible discur-
+      sive clarification of competing claims to truth and the generalisation of interests; precisely
+      this public sphere, which hitherto presented itself as inclusive, is then downgraded to one
+      of the semi-public spheres competing on an equal footing.20
+        One symptom of this is the twofold strategy of spreading fake news while simultane-
+      ously combating the ‘lying press’, which in turn unsettles the public and the leading
+      media themselves (Jaster and Lanius, 2020). But when the shared space of ‘the political’
+      degenerates into the battleground of competing publics, the democratically legitimised,
+      state-enforced political programmes provoke conspiracy theories – as in the case of the
+      anti-Corona virus demonstrations, which are staged in a libertarian spirit but are in fact
+      driven by authoritarian motives. These tendencies can already be observed in member
+      states of the European Union; but they can even take hold of and deform the political
+      system as such, if that has been undermined and riven long enough by social-structural
+      conflicts. In the United States, politics has become trapped in the maelstrom of persistent
+      polarisation of the public sphere after the administration and large sections of the ruling
+      party adapted to the self-perception of a president who was successful on social media
+      and sought the plebiscitary approval of his populist following on a daily basis via
+
+[PAGE 23]
+                                                             
+                                                             
+                                                             
+       Habermas                                      167     
+                                                             
+       Twitter.21 The – we can only hope, temporary – disintegration of the political public
+       sphere found expression in the fact that, for almost half the population, communicative
+       contents could no longer be exchanged in the currency of criticisable validity claims. It
+       is not the accumulation of fake news that is significant for a widespread deformation of
+       the perception of the political public sphere, but the fact that fake news can no longer
+       even be identified as such (see Hohlfeld, 2020).      
+        In the communication and social sciences, it is now commonplace to speak of dis-
+       rupted public spheres that have become detached from the journalistically institutional-
+       ised public sphere. But scholarly observers would be mistaken to conclude that the
+       description of these symptomatic phenomena should be separated from questions of
+       democratic theory altogether.22 After all, communication in independent semi-public
+       spheres is itself by no means depoliticised; and even where that is the case, the formative
+       power of this communication for the world view of those involved is not apolitical. A
+       democratic system is damaged as a whole when the infrastructure of the public sphere
+       can no longer direct the citizens’ attention to the relevant issues that need to be decided
+       and, moreover, ensure the formation of competing public opinions – and that means
+       qualitatively filtered opinions. If we recall the complex preconditions of the survival of
+       inherently crisis-prone capitalist democracies, it is indeed clear that there may be deeper
+       reasons for a loss of function of the political public sphere. But that does not exempt us
+       from looking for obvious reasons.                     
+        I see one such reason in the coincidence of the emergence of Silicon Valley, i.e. the
+       commercial use of the digital network, on the one hand, and the global spread of the
+       neoliberal economic programme, on the other. The globally expanded zone of free flows
+       of communication, originally made possible by the invention of the technical structure of
+       the ‘net’, presented itself from the outset as the mirror image of an ideal market. This
+       market did not even need to be deregulated. In the meantime, however, this suggestive
+       image is being disrupted by the algorithmic control of communication flows that is feed-
+       ing the concentration of market power of the large internet corporations. The skimming
+       and digital processing of customers’ personal data, which are more or less inconspicu-
+       ously exchanged for the information provided free of charge by search engines, news
+       portals and other services, explains why the EU Competition Commissioner would like
+       to regulate this market. But competition law is the wrong approach if one’s goal is to
+       correct the basic error that platforms, unlike traditional media, do not want to assume
+       liability for the dissemination of truth-sensitive, and hence deception-prone, communi-
+       cative contents. The fact that the press, radio and television, for example, are obliged to
+       correct false reports draws attention to the fact of interest in the present context. Because
+       of the special nature of their goods, which are not mere commodities, the platforms can-
+       not evade all duties of journalistic care.            
+        They, too, are responsible and should be liable for news that they neither produce nor
+       edit; for this information also has the power to shape opinions and mentalities. First and
+       foremost, it is not subject to the quality standards of commodities, but to the cognitive
+       standards of judgements without which for us there can be neither the objectivity of the
+       world of facts nor the identity and commonality of our intersubjectively shared world.23
+       In a hard-to-imagine ‘world’ of fake news that could no longer be identified as such, i.e.
+       in which it could not be distinguished from true information, no child would be able to
+
+[PAGE 24]
+                                                             
+                                                             
+                                                             
+      168                             Theory, Culture & Society 39(4)
+                                                             
+      grow up without developing clinical symptoms. Therefore, maintaining a media struc-
+      ture that ensures the inclusive character of the public sphere and the deliberative charac-
+      ter of the formation of public opinion and political will is not a matter of political
+      preference but a constitutional imperative.            
+                                      Translated by Ciaran Cronin
+                                                             
+      Notes                                                  
+      1. See Peters (1993, 2008); from this perspective, see also Wessler (2018).
+      2. On the relationship between political and literary public spheres, see the sideways glance in
+        Habermas (2018 [2016]).                              
+      3. The chapter on the role of civil society and the political public sphere in Between Facts
+        and Norms (Habermas, 1996: 329–387) takes up the reflections in the final chapter of The
+        Structural Transformation of the Public Sphere, and especially in the introduction to the
+        new German edition of 1991 (Habermas, 1992). For my most recent reflections on this, see
+        Habermas (2009).                                     
+      4. Usually, however, sociological theories choose a basic conceptual approach that leaves the
+        cognitive meaning of this dimension of validity out of account and attributes the binding
+        effect of ought-validity [Sollgeltung] to the threat of sanctions.
+      5. The text of the French Constitution of September 1791 opens with a catalogue that distin-
+        guishes between droits naturels and droits civils. In this way, it took into account the temporal
+        discrepancy that exists between the current domain of validity of the general civil rights and
+        the as yet unrealised claim to validity, extending far beyond the territorial boundaries of the
+        French state, of the ‘natural’ rights to which all persons have an equal claim in virtue of their
+        humanity. Paradoxically, however, the human and civil rights that have been institutionalised
+        as fundamental rights preserve the meaning of universal rights within national borders as
+        well. In this way, they remind the present and future generations, if not of a self-obligation
+        to actively propagate these rights, then at least of the peculiar character of the context-tran-
+        scending normative content of universal human rights beyond the provisionality of their at
+        present territorially restricted implementation. The moral surplus also leaves traces of an as
+        yet unexhausted normative content in the existing basic rights, which exhibit something of
+        the troubling character of an unsaturated norm. The lack of ‘saturation’ concerns the temporal
+        dimension of the exhaustion – still to be achieved in the political community and still to be
+        specified as regards its content – of the indeterminately context-transcending substance of
+        established fundamental rights, as well as the spatial dimension of a still outstanding world-
+        wide implementation of human rights.                 
+      6. See the contribution of Martin Seeliger and Sebastian Sevignani, ‘The New Structural
+        Transformation of the Public Sphere?’, in this special issue, where they specify this role in
+        terms of the transparency of public issues, the general orientation of citizens and the recipro-
+        cal justification of topics and contributions.       
+      7. Normatively speaking, the so-called output legitimacy of government action that keeps citi-
+        zens happy does not meet the conditions of democratically legitimate action; for although
+        such services of the state coincide with citizens’ interests, they do not satisfy the latter by
+        executing a democratically formed will of the citizens themselves.
+      8. See my review of Cristina Lafont, Democracy without Shortcuts (Habermas, 2020).
+      9. Article 20 para. 2 of the Basic Law, the German federal constitution, declares that ‘All state
+        authority is derived from the people.’ [Trans.]      
+      10. On the political concept of solidarity, see Habermas (2015: 98–100).
+
+[PAGE 25]
+                                                             
+                                                             
+                                                             
+       Habermas                                      169     
+                                                             
+       11. The phenomenon of contemporary right-wing populism illustrates how, in reasonably stable
+         democracies, the steep normative gradient between the idea of deliberative politics, on the
+         one hand, and the sobering reality of opinion and will formation, on the other, is anchored
+         in social reality itself through the intuitions of the citizens. We have long been able to form a
+         realistic picture of how political opinions and will are shaped as a result of empirical studies
+         on voting behaviour, the level of information and political awareness of the population, on
+         the parties’ professional election advertising, public relations, campaign strategies, etc.; but
+         neither these facts themselves nor knowledge of them normally shake the assumption of the
+         active and passive electorate that the ‘will of the voters’, whether one agrees with the outcome
+         or not, is sufficiently respected and sets the course for future policies. As the talk of ‘system
+         parties’ shows, however, even such forbearing normative assumptions can become inverted
+         into their opposite if confidence in them among the population at large is enduringly shaken.
+         Then ‘we’ are the people who know what is true and what is false, while a bridge cannot be
+         constructed to the ‘others’, even with arguments.   
+       12. In contemporary German public discourse, ‘die Abgehängten’ refers to groups of citizens who
+         for various reasons feel disconnected from the political process or abandoned by the main-
+         stream political parties and, in recent years, have tended to identify with or actively support
+         mainly right-wing opposition movements (such as those that rallied against the public meas-
+         ures to combat the COVID-19 pandemic) and political parties (in particular the Alternative
+         for Germany). [Trans.]                              
+       13. See Philipp Staab and Thorsten Thiel, ‘Commercial Politicisation and Social Media: Digital
+         Structural Transformation of the Public Sphere’, in this special issue.
+       14. The global expansion of accelerated and multiplied communication flows leads Claudia Ritzi
+         to suggest that, rather than the image of centre and periphery, ‘the concept of the “universe”
+         should be used as a metaphor to describe contemporary political publics. It generates an
+         awareness of the unboundedness of the contemporary public space’ (Ritzi, 2021: 305).
+       15. See Sebastian Sevignani, ‘Digital Transformations and the Ideological Formation of the
+         Public Spheres: Hegemonic, Populist, or Popular Communication?’, in this special issue.
+       16. In the following, I am relying on my correspondence with – and on the interpretive proposals
+         of – Jürgen Gerhards, who drew my attention to the results of the ARD/ZDF long-term study
+         on mass communication between 1964 and 2020. The autumn 2019 Eurobarometer provides
+         additional data that permit further conclusions.    
+       17. A consistent exception to this is, of course, literary correspondence, which – as the pertinent
+         example of the Romantics demonstrates – satisfies aesthetic standards and thus also a public
+         interest.                                           
+       18. I regret that the set framework did not allow me to address the more far-reaching reflections
+         of Hans-Jörg Trentz (2021).                         
+       19. For an illustrative account, see Barthelmes (2020, esp. ch. 7, pp. 128–155).
+       20. The milieu of this ‘semi-public sphere’ can be described equally well as a semi-privatised
+         public sphere. Philipp Staab and Thorsten Thiel capture this character in this special issue.
+       21. On Trump and fake news, see Oswald (2020).        
+       22. For a plausible statement of the position, see Berg, Rakowski and Thiel (2020).
+       23. Anyone who sees through this connection will recognise the ultimately authoritarian char-
+         acter, aimed at the foundations of a discursive public sphere, of the contemporary rampant
+         criticism of the facilities and programme scope of the public broadcasters. Together with
+         the quality press, whose economic basis can probably soon be secured only with the help of
+         public support, the television and radio broadcasters are for the time being resisting the pull
+         of a ‘platformisation’ of the public sphere and a commodification of public consciousness. On
+         this, see Fuchs (2021).                             
+
+[PAGE 26]
+                                                             
+                                                             
+                                                             
+      170                             Theory, Culture & Society 39(4)
+                                                             
+      References                                             
+      Barthelmes, Andreas (2020) Die große Zerstörung: Was der digitale Bruch mit unserem Leben
+        macht. Berlin: Duden Verlag.                         
+      Bennett, W. Lance and Pfetsch, Barbara (2018) Rethinking political communication in a time of
+        disrupted public spheres. Journal of Communication 68(2): 243–253.
+      Berg, Sebastian, Rakowski, Niklas, and Thiel, Thorsten (2020) Die digitale Konstellation:
+        Eine Positionsbestimmung. Zeitschrift für Politikwissenschaft 30: 171–191. https://doi.
+        org/10.1007/s41358-020-00207-6                       
+      Forst, Rainer (2013) Toleration in Conflict: Past and Present, trans. Ciaran Cronin. Cambridge:
+        Cambridge University Press.                          
+      Fuchs, Christian (2021) Soziale Medien und Öffentlichkeit. In: Das digitale Kapital: Zur Kritik
+        der politischen Ökonomie des 21. Jahrhunderts. Wien: Mandelbaum, pp. 235–272.
+      Gaus, Daniel (2013) Rational reconstruction as a method of political theory between social critique
+        and empirical political science. Constellations 20(4): 553–570.
+      Habermas, Jürgen (1989) The Structural Transformation of the Public Sphere: An Inquiry into a
+        Category of Bourgeois Society, trans. Thomas Burger and Frederick Lawrence. Cambridge,
+        MA: MIT Press.                                       
+      Habermas, Jürgen (1992) Further reflections on the public sphere. In: Calhoun, Craig (ed.)
+        Habermas and the Public Sphere. Cambridge, MA: MIT Press, pp. 421–461.
+      Habermas, Jürgen (1995) On the internal relation between the rule of law and democracy. European
+        Journal of Philosophy 3(1): 12–20.                   
+      Habermas, Jürgen (1996) Between Facts and Norms, trans. William Rehg. Cambridge: Polity.
+      Habermas, Jürgen (2006) Constitutional democracy – a paradoxical union of contradictory prin-
+        ciples? In: Time of Transitions, trans. Ciaran Cronin and Max Pensky. Cambridge: Polity,
+        pp. 113–128.                                         
+      Habermas, Jürgen (2009) Political communication in media society: Does democracy still have
+        an epistemic dimension? The impact of normative theory on empirical research. In: Europe
+        – The Faltering Project, trans. Ciaran Cronin. Cambridge: Polity, pp. 138–183.
+      Habermas, Jürgen (2012) The Crisis of the European Union, trans. Ciaran Cronin. Cambridge:
+        Polity.                                              
+      Habermas, Jürgen (2015) The Lure of Technocracy, trans. Ciaran Cronin. Cambridge: Polity.
+      Habermas, Jürgen (2018 [2016]) Interview. In: Bächtiger, André, Dryzek, John S., Mansbridge,
+        Jane, and Warren, Mark E. (eds) The Oxford Handbook of Deliberative Democracy. Oxford:
+        Oxford University Press, pp. 871–882.                
+      Habermas, Jürgen (2020) Review of Cristina Lafont, Democracy without Shortcuts. Journal of
+        Deliberative Democracy 16(2): 10–14.                 
+      Hohlfeld, Ralf (2020) Die Post-Truth-Ära: Kommunikation im Zeitalter von gefühlten Wahrheiten
+        und Alternativen Fakten. In: Hohlfeld, Ralf, Harnischmacher, Michael, Heinke, Elfi, Lehner,
+        Lea, and Sengl, Michael (eds) Fake News und Desinformation. Baden-Baden: Nomos,
+        pp. 43–60.                                           
+      Jarren, Ottfried and Fischer, Renate (2021) Die Plattformisierung von Öffentlichkeit und die
+        Relevanzstruktur des Journalismus als demokratische Herausforderung. In: Seeliger, Martin,
+        and Sevignany, Sebastian (eds) Ein neuer Strukturwandel der Öffentlichkeit? Baden-Baden:
+        Nomos, pp. 365–384.                                  
+      Jaster, Romy and Lanius, David (2020) Fake News in Politik und Öffentlichkeit. In: Hohlfeld,
+        Ralf, Harnischmacher, Michael, Heinke, Elfi, Lehner, Lea, and Sengl, Michael (eds) Fake
+        News und Desinformation. Baden-Baden: Nomos, pp. 245–269.
+
+[PAGE 27]
+                                                             
+                                                             
+                                                             
+       Habermas                                      171     
+                                                             
+       Oswald, Michael (2020) Der Begriff ‘Fake News’ als rhetorisches Mittel des Framings in der
+         politischen Kommunikation. In: Hohlfeld, Ralf, Harnischmacher, Michael, Heinke, Elfi,
+         Lehner, Lea, and Sengl, Michael (eds) Fake News und Desinformation. Baden-Baden:
+         Nomos, pp. 61–82.                                   
+       Peters, Bernhard (1993) Die Integration moderner Gesellschaften. Frankfurt am Main: Suhrkamp.
+       Peters, Bernhard (2008) On public deliberation and public culture: Reflections on the public
+         sphere. In: Wessler, Hartmut (ed.) Public Deliberation and Public Culture: The Writings of
+         Bernhard Peters, 1993–2005. London: Palgrave Macmillan, pp. 134–159.
+       Reckwitz, Andreas (2020) The Society of Singularities, trans. Valentine A. Pakis. Cambridge:
+         Polity.                                             
+       Ritzi, Claudia (2021) Libration im Öffentlichkeitsuniversum. Anziehung und Kräfteausgleich in
+         der digitalisierten Kommunikationsstruktur. In: Seeliger, Martin, and Sevignany, Sebastian
+         (eds) Ein neuer Strukturwandel der Öffentlichkeit? Baden-Baden: Nomos, pp. 298-319.
+       Schäfer, Armin (2015) Der Verlust politischer Gleichheit. Frankfurt am Main: Campus.
+       Schäfer, Armin and Zürn, Michael (2021) Die demokratische Regression. Frankfurt am Main:
+         Suhrkamp.                                           
+       Steiner, Jürg, Bächtiger, André, Spörndli, Markus, and Steenbergen, Marco R. (2004) Deliberative
+         Politics in Action. Cambridge: Cambridge University Press.
+       Trentz, Hans-Jörg (2021) Öffentlichkeitstheorie als Erkenntnistheorie moderner Gesellschaft. In:
+         Seeliger, Martin, and Sevignany, Sebastian (eds) Ein neuer Strukturwandel der Öffentlichkeit?
+         Baden-Baden: Nomos, pp. 385–405.                    
+       Wessler, Hartmut (2018) Habermas and the Media. Cambridge: Polity.
+       Zuboff, Shoshana (2018) The Age of Surveillance Capitalism: The Fight for a Human Future at
+         the New Frontier of Power. New York: Public Affairs.
+       Zürn, Michael (2021) ‘Öffentlichkeit und Global Governance’. In: Seeliger, Martin, and
+         Sevignany, Sebastian (eds) Ein neuer Strukturwandel der Öffentlichkeit? Baden-Baden:
+         Nomos, pp. 160–187.                                 
+       Jürgen Habermas (b. 1929) is Emeritus Professor of Philosophy at Goethe University Frankfurt
+       and one of the most influential living philosophers and social theorists. In addition to over 60
+       books, many of which have appeared in translations into numerous languages, he recently pub-
+       lished a monumental two-volume survey of the history of western philosophy, Auch eine
+       Geschichte der Philosophie (Berlin: Suhrkamp, 2019).  
+       This article is part of the Theory, Culture & Society special issue on ‘A New Structural
+       Transformation of the Public Sphere?’, edited by Martin Seeliger and Sebastian
+       Sevignani.                                            
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             

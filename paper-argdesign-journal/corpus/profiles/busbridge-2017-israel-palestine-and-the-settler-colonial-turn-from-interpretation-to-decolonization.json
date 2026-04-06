@@ -1,0 +1,73 @@
+{
+  "paper_id": "busbridge-2017-israel-palestine-and-the-settler-colonial-turn-from-interpretation-to-decolonization",
+  "title": "Israel-Palestine and the Settler Colonial 'Turn': From Interpretation to Decolonization",
+  "author": "Busbridge",
+  "year": 2017,
+  "journal": "Theory, Culture & Society",
+
+  "opening_move": {
+    "type": "normative_puzzle",
+    "description": "The settler colonial paradigm has become a powerful interpretive framework for Israel-Palestine, yet its prescription for decolonization is paradoxically its weakest point. The paper asks: can the settler colonial turn, built on Wolfe's structural account, actually deliver a viable politics of decolonization?",
+    "anchored_in": ["Wolfe", "Veracini", "Cavanagh"],
+    "stakes_claimed": "The limits of the settler colonial framework matter because decolonization is the political horizon at stake; a framework that forecloses transformation is self-defeating."
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["Wolfe (structural account)", "Veracini", "settler colonial studies field broadly"],
+    "engagement_structure": "immanent_critique",
+    "immanent_critique": true,
+    "own_position_type": "internal_reconstruction",
+    "own_position_explicit": true,
+    "description": "The paper works from within settler colonial studies, accepting its counter-hegemonic value while identifying the structural fatalism of Wolfe's framework as the key limit — one that becomes most visible when the framework is applied to Israel-Palestine's specific historical and political context."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_interpretive_case",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "Interpretive analysis of the Israel-Palestine conflict as a test case for settler colonial theory; close reading of Wolfe and Veracini's theoretical accounts; immanent critique of the paradigm's internal tensions.",
+    "notes": "Israel-Palestine is used as an interpretive case that reveals limits in the theoretical framework, not as an empirical object studied through fieldwork or archives. The argument is fundamentally about the adequacy of a theoretical paradigm."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "historical_event",
+    "case_name": "Israel-Palestine conflict",
+    "case_function": "test_case_for_framework",
+    "case_relation_to_argument": "evidence_for_claim",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "decolonization theory, political theory of sovereignty",
+    "claim_type": "critical_diagnostic",
+    "closure_type": "open_ended_with_burden_on_reader"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "case_introduction",
+    "immanent_critique",
+    "case_development",
+    "meta_reflexive_qualification",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": true,
+
+  "key_concepts": ["settler colonialism", "logic of elimination", "decolonization", "settler colonial turn", "structural fatalism", "settler/native distinction"],
+
+  "thinkers_deployed": {
+    "central": ["Wolfe", "Veracini"],
+    "engaged_critically": ["Wolfe (structural fatalism)", "Veracini (pessimistic closure)"],
+    "referenced_only": ["Macoun and Strakosch", "Povinelli", "Collins", "Pappe"]
+  },
+
+  "confidence_notes": "The paper is an immanent critique of settler colonial theory using Israel-Palestine as a test case. The case is interpretive-analytical (no fieldwork), but plays a substantive role in the argument, not merely illustrative. The normative stake is high: decolonization as a political horizon. The conclusion is deliberately open-ended, refusing to offer a solution while identifying where the paradigm's prescription falls short."
+}

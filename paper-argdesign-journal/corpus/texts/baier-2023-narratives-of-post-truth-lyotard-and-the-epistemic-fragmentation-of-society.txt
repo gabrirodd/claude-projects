@@ -1,0 +1,843 @@
+[PAGE 1]
+ 1162027                                                     
+ research-article2023 TCS0010.1177/02632764231162027Theory, Culture & SocietyBaier
+                                                             
+                                                             
+       Article                                               
+                                             Theory, Culture & Society
+       Narratives of Post-Truth:              2024, Vol. 41(1) 95 –110
+                                              © The Author(s) 2023
+                                              Article reuse guidelines:
+       Lyotard and  the Epistemic                            
+                                          sagepub.com/journals-permissions
+                                        httpDs:O//dIo: i1.o0r.g1/1107.711/0727/60322673267462432131116622002277
+       Fragmentation   of Society                            
+                                           journals.sagepub.com/home/tcs
+       Christian Baier                                       
+       Seoul National University                             
+                                                             
+       Abstract                                              
+       In recent years, the post-truth phenomenon has dominated public and political
+       discourse. This article offers a functional analysis of its mechanisms based on the
+       category of narrative. After providing a brief definition of post-truth as a conceptual
+       foundation, I trace the meaning of the term ‘narrative’ in the works of Jean-François
+       Lyotard, focusing on the elusive category of small narrative. Utilizing terms and concepts
+       of contemporary narrative theory, I propose a general definition of cultural narrative
+       and reconceptualize Lyotard’s petit récit as a particular case of this superordinate
+       category. Drawing on Lyotard’s phrase linguistics as set out in The Differend, I develop
+       the category of epistemic sphere to analyze Donald Trump’s MAGA movement as an
+       example of post-truth politics, the rise of populism and the epistemic fragmentation
+       of society.                                           
+                                                             
+       Keywords                                              
+       cultural narrative, Jean-François Lyotard, petit récit, populism, post-truth, Donald
+       Trump                                                 
+                                                             
+                                                             
+       Introduction                                          
+       In 2023, post-truth is everywhere: it manifests in the persisting influence of Trumpism in
+       the United States, was brought into sharp focus by the Coronavirus pandemic and is
+       discussed among politicians, journalists and scholars alike (see Baggini, 2017; D’Ancona,
+       2017; McIntyre, 2018). Originally coined by Serbian-American playwright Steve Tesich
+       in 1992, the term gained popularity in the wake of Donald Trump’s presidential cam-
+       paign. The Oxford English Dictionary (OED) famously named ‘post-truth’ its word of
+       the year for 2016, defining it as ‘relating to or denoting circumstances in which objective
+                                                             
+       Corresponding author: Christian Baier. Email: cbaier@snu.ac.kr
+       TCS Online Forum: https://www.theoryculturesociety.org/
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+      96                              Theory, Culture & Society 41(1)
+                                                             
+      facts are less influential in shaping political debate or public opinion than appeals to
+      emotion and personal belief’ (OED, 2017). Since then, the definition has been refined by
+      scholars like Brahms (2020: 17–18) and Bufacchi (2021: 350).
+        Within the context of this article, post-truth is understood to combine the preference
+      for emotional appeal over rational argument with a profound mistrust towards the institu-
+      tions traditionally tasked to generate, evaluate and communicate knowledge, that is, uni-
+      versities, media and experts, creating a state of tribal epistemology (Roberts, 2017): an
+      environment in which the truthfulness of a statement ‘is evaluated based not on conform-
+      ity to common standards of evidence or correspondence to a common understanding of
+      the world, but on whether it supports the tribe’s values and goals and is vouchsafed by
+      tribal leaders’. Far from denying the existence of truth or facts, proponents of post-truth
+      reject only the idea of universal truth in favor of a multiplicity of individual truths. The
+      resulting epistemic fragmentation of society has to be considered a fundamental feature
+      of the post-truth environment. Analyzing its structure and mechanisms is the main goal
+      of this article.                                       
+        The breakdown of the epistemic foundation of society into a number of epistemic
+      spheres is strongly reminiscent of Jean-François Lyotard’s description of the postmod-
+      ern condition: of grand narratives losing their discursive dominance and ability to legiti-
+      mize knowledge while disintegrating into a multitude of smaller counter-narratives.
+      Based on this observation, the article uses Lyotard’s elusive category of petit récit to
+      develop a functional definition of the post-truth phenomenon,1 conceptualizing it in
+      terms of narrative. This approach, however, has to contend with Lyotard’s inconsistent
+      use of the term ‘narrative’: in texts like ‘Apostil on Narratives’ (1984, in Lyotard, 1992),
+      he treats narratives as stories, while in The Differend (1988), he conceptualizes narra-
+      tive both as a ‘phrase regimen’ and a ‘genre of discourse’. Due to these inconsistencies,
+      the concept can hardly be considered a well-defined category, making it difficult to
+      apply to a phenomenon like post-truth. In a first step, I therefore trace the use of the
+      term ‘narrative’ within Lyotard’s work to determine its meaning and specify its
+      limitations.                                           
+        In order to conceptualize Lyotard’s petit récit in a way which will allow me to
+      explore the post-truth phenomenon, I then use contemporary narrative theory to
+      develop a definition of non-textual or cultural narrative. This approach will enable me
+      to define petits récits as a particular type of cultural narrative, simultaneously address-
+      ing the terminological inconsistency within Lyotard’s thought and making the concept
+      more compatible with general scholarship. Since the discipline of narratology almost
+      exclusively focuses on textual narratives, introducing a comprehensive definition of
+      cultural narrative also closes a gap in the center of contemporary narratological theory
+      by specifying one of the most notoriously vague terms in current academic and popular
+      discourse.                                             
+        Combining the redefined petit récit with Lyotard’s model of phrase linguistics as set
+      forth in The Differend allows me to develop the concept of epistemic sphere, which I
+      apply to Donald Trump’s MAGA (Make America Great Again) movement. Situating this
+      prominent case of post-truth politics within the broader context of contemporary pop-
+      ulism, I use it to illustrate the narrative mechanisms of post-truth and the resulting epis-
+      temic fragmentation of society.                        
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+       Baier                                          97     
+                                                             
+       Lyotard on Narrative                                  
+       Outside of specialized scholarship, Jean-François Lyotard is most famous for his concept
+       of grand récit: a term describing overarching narrative structures that ‘legitimat[e] social
+       and political institutions and practices, laws, ethics, ways of thinking’ (Lyotard, 1992:
+       18). In his essay The Postmodern Condition (1979), Lyotard considers ‘incredulity
+       toward metanarratives’ (Lyotard, 1999 [1979]: xxiv) the defining feature of the postmod-
+       ern, since the sweeping stories of enlightenment, progress and the emancipation of
+       humanity have lost much of their credibility. Even in postmodern societies, however,
+       grand narratives continue to exist, exerting a somewhat reduced influence, and their
+       decline does not ‘stop countless other stories [. . .] from continuing to weave the fabric
+       of everyday life’ (Lyotard, 1992: 19). ‘Because they are short, because they are not
+       extracts from some great history, and because they are difficult to fit in any great history’
+       (Lyotard, 1989: 132), Lyotard calls these stories petits récits.
+        Small narratives manifest as ‘networks of uncertain and ephemeral stories [that] can
+       gnaw away at the great institutionalized narrative apparatuses’ (Lyotard, 1989: 132).
+       Where grand narratives aim to establish discursive hegemony, marginalizing minorities
+       and their divergent stories in the process, small narratives resist incorporation into the
+       dominant discourse. Their claim to validity is local and transient rather than universal
+       and enduring, and instead of a fixed long-term identity, they emerge, adapt and dissipate
+       as needed to address a specific injustice: as counter-narratives that challenge the hegem-
+       onic discourse of the grand narrative, petits récits are inherently subversive and therefore
+       unsuitable to assume hegemonic power (see Purvis, 2011; Readings, 1991: 47–51; Sim,
+       2020: 22–6 and 136–46).                               
+        In ‘Apostil on Narratives’, Lyotard (1992) cites the proverbs ‘Like father, like son’
+       and ‘To a miserly father, a prodigal son’ (p. 20) as examples of small narratives.
+       Separately, these adages contribute little to clarify his understanding of the category,
+       since neither exhibits the features attributed to petits récits or even fulfils the most basic
+       requirements of a story. In conjunction, however, Lyotard (1992: 20) uses them to illus-
+       trate a relevant feature of small narratives, here referred to as ‘people’s prose’: the ability
+       to ‘say [. . .] one thing and its opposite’ – a quality instrumental in the description of
+       post-truth. The passage in question even provides further insight into Lyotard’s (1992:
+       19) idea of narrative: while admitting having ‘exaggerated the importance to be given to
+       the narrative genre’ in The Postmodern Condition, he asserts ‘a sort of sovereignty of
+       minor narratives that allows them to escape the crisis of delegitimation’ (Lyotard, 1992:
+       20). Besides adding another feature to the concept of petit récit, the reference to a ‘nar-
+       rative genre’ indicates the necessity to situate Lyotard’s concept of narrative within the
+       context of his phrase linguistics.                    
+        In The Differend (1988), Jean-François Lyotard develops a pragmatic model of phrase
+       linguistics (see Bennington, 1988: 117–41), wherein a phrase is more than a linguistic
+       structure: ‘[a] wink, a shrugging of the shoulder, a tap[p]ing of the foot, a fleeting blush,
+       or an attack of tachycardia can be phrases’ (Lyotard, 1988: 70), as can silence (Lyotard,
+       1988: xii) or a cat raising its tail (Lyotard, 1988: 76–7). Phrases are linked to one another
+       according to specific rules or phrase regimens that may be, among others, descriptive,
+       prescriptive, interrogative, ostensive or narrative. And while phrase regimes are
+                                                             
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+      98                              Theory, Culture & Society 41(1)
+                                                             
+      irreducible in the sense that ‘[p]hrases from heterogeneous regimens cannot be translated
+      from one into the other’ (Lyotard, 1988: xii), they are linked together by genres of dis-
+      course that ‘submit phrases from different regimens to a single finality: the question, the
+      example, the argument, the narration, the exclamation are in forensic rhetoric the hetero-
+      geneous means of persuading’ (Lyotard, 1988: 29). In this example, ‘question,’ ‘narra-
+      tion’ and ‘exclamation’ are phrase regimens, while ‘forensic rhetoric’ constitutes a genre
+      of discourse. Other discursive genres include dialogue, speculative dialectics, science,
+      philosophy, and narrative. Within the works of Lyotard, narrative is therefore categorized
+      both as a phrase regimen (see Lyotard, 1988: 42 and 76) and a genre of discourse (see
+      Lyotard, 1988: 151 and 158, 1989: 314, 1992: 19–20), and occasionally even accorded
+      the power of ‘encompass[ing] the multiplicity of families of sentences and of possible
+      discursive genres’ (Lyotard, 1989: 321).               
+        At first glance, it might seem a mere technicality whether Jean-François Lyotard con-
+      ceives of narrative as a phrase regimen, a discursive genre or something else entirely.
+      However, this terminological imprecision causes a conceptual conflation not without
+      consequence. This is most evident in The Postmodern Condition, where the breakdown
+      of grand narratives does not result in multitudes of small narratives, but rather in ‘flexi-
+      ble networks of language games’ (Lyotard, 1999 [1979]: 43), implying a functional
+      equivalence between these two categories widely accepted within Lyotard scholarship
+      (see Jones, 2014: 140; Schalkwyk, 1997: 129; Smith, 2011: 185). The equivalence is
+      legitimized by Lyotard conceptualizing both narratives and language games as phrase
+      regimens (Lyotard, 1999 [1979]: 46, 1988: xiii), disregarding their structural differences.
+      In order to highlight the problematic nature of this equivalence, I will briefly summarize
+      Ludwig Wittgenstein’s concept of language game.        
+        In his Philosophical Investigations (1953), Ludwig Wittgenstein develops ‘a picture
+      of language as a set of instruments or techniques that are employed by speakers in the
+      course of their everyday lives’ (McGinn, 1997: 49), emphasizing ‘the fact that the speak-
+      ing of language is part of an activity, or of a form of life’ (Wittgenstein, 2009 [1953]:
+      §23; see also Hertzberg, 2014; Sluga, 2011: 57–75).2 In Wittgenstein’s understanding,
+      the meaning of a word is determined not by reference to an object or concept, but by its
+      use in communicative action (see Wittgenstein, 2009 [1953]: §1). The game metaphor
+      has a number of relevant implications: the use of language is governed by a specific set
+      of rules; these rules not only differ between language games, but are also subject to
+      change; and what is considered a permissible ‘move’ or a correct statement is contingent
+      on the particular communicative situation (see Wittgenstein, 2009 [1953]: §133; see also
+      Hertzberg, 2014: 45; McGinn, 1997: 66). The examples of language games enumerated
+      in Investigations §23 include ‘[c]onstructing an object from a description’, ‘[f]orming
+      and testing a hypothesis’, ‘[m]aking up a story; and reading one’, ‘[a]cting in a play’ and
+      ‘[s]olving a problem in applied arithmetic’. Although a detailed definition of narrative
+      will only be provided in the subsequent section, it is obvious that only one of these exam-
+      ples can be considered a narrative.                    
+        While narratives and language games might be functionally equivalent within
+      Lyotard’s phrase linguistics, the two entities are fundamentally different by any external
+      standard. This discrepancy, together with the inconsistent classification as both a phrase
+      regimen and a genre of discourse, make it difficult to consider Lyotard’s concept of
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+       Baier                                          99     
+                                                             
+       narrative a well-defined category that could successfully be applied to the post-truth
+       phenomenon. In order to address this problem, the next section will first establish a
+       definition of textual narrative as a point of reference and, in a second step, propose a
+       general concept of cultural narrative. The newly developed category will then be used
+       to redefine the term petit récit, which will not only make Lyotard’s concept of narrative
+       more compatible with general scholarship, but also address an imbalance within the
+       discipline of narratology and provide the analytical tool for the subsequent exploration
+       of post-truth.                                        
+       From Textual to Cultural Narrative                    
+                                                             
+       Narratology can be defined as the scholarly discipline ‘dedicated to the study of the
+       logic, principles, and practices of narrative representation’ (Meister, 2014: 623) – that is:
+       the study of narrative. In classical narratology the term ‘narrative’ almost exclusively
+       refers to literary or fictional narratives. The narrative turn of the 1990s transformed nar-
+       ratology from a structuralist approach to the analysis of literary texts into a meta-theory
+       of the Humanities (Dawson, 2017; Kreiswirth, 2008), massively expanding the scope of
+       the discipline (Scheffel, 2012; Sommer, 2012): so-called ‘post-classical’ narratology
+       analyzes non-fictional texts like newspaper articles and blog posts (Klein and Martínez,
+       2009), other narrative forms like films and video games (Ryan and Thon, 2014), and
+       even legal, medical and historical narratives (Hühn et al., 2014). Varied as they may be,
+       these narratives are still fundamentally textual, provided that ‘text’ is understood to
+       include ‘not only language-based acts of communication but any deliberate and struc-
+       tured use of signs’ (Ryan, 2017: 518).                
+        The increased popularity of ‘narrative’, not just in academia, but among the general
+       public, is in no small part due to Jean-François Lyotard. After The Postmodern Condition
+       introduced the concept of grand récit, its unexpected success popularized the idea of
+       narrative as a means to describe and explain cultural phenomena. In recent years, the
+       term has become ubiquitous, turning into what Ophir (2018: 63) calls a placeholder: one
+       of those commonly used terms ‘that people don’t bother to explain, and that are used as
+       if they were familiar and well known’, when actually they are only insufficiently defined.
+       Due to this terminological vagueness, narrative is often misconstrued as the opposite of
+       fact or truth. Statements like ‘There is no right answer, only narrative’ (McIntyre, 2018:
+       125) are common in discussions about post-truth.      
+        Considering their enduring cultural impact, it is surprising that Lyotard’s grands
+       récits have largely been ignored by narratological scholarship. Eminent narratologist
+       Marie-Laure Ryan (2007: 30) voices the general consensus when asserting that Lyotard’s
+       grand narratives ‘can only be called narratives in a metaphorical sense’. Illustrating more
+       than just the chasm between Lyotard and narratological scholarship, her statement indi-
+       cates an imbalance within the theoretical foundation of narratology itself: even after the
+       narrative turn, narratologists are predominantly focused on textual narratives in the sense
+       indicated above.3 Not without reason, they caution against ‘the risk of stretching the
+       concept [of narrative] too thin’ (Ryan, 2017: 526) by applying it ‘to phenomena that are
+       not textually embodied’ (Ryan, 2017: 528), and Lyotard’s use of the term is often cited as
+       an example for the shortcomings of this approach (see Ryan, 2008: 344–8; Ryan, 2017:
+                                                             
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+      100                             Theory, Culture & Society 41(1)
+                                                             
+      526–7). As a result of this preference, a commonly accepted definition of non-textual
+      narratives does not yet exist.                         
+        Most narratologists agree that a textual narrative is ‘the representation of an event or
+      a series of events. [. . .] Without an event or an action, you may have a “description,” an
+      “exposition,” an “argument,” a “lyric,” a combination of these or something else alto-
+      gether, but you won’t have a narrative’ (Abbott, 2008: 13; see Ryan, 2007: 23–4).
+      Fundamental terminological distinctions were established half a century ago by French
+      narratologist Genette (1983: 27), who proposes ‘to use the word story for the signified or
+      narrative content [. . .], to use the word narrative for the signifier, statement, discourse
+      or narrative text itself, and to use the word narrating for the producing narrative action’.
+      A story, according to Genette, consists of a sequence of real or fictional events that are
+      actualized into a narrative by process of narration.   
+        Using Genette’s distinctions to refine Porter Abbott’s ‘thumbnail characterization’
+      (Ryan, 2007: 23), the term ‘narrative’ can more precisely be described as a combination
+      of two elements: the narrative discourse, that is, the deliberate and structured use of
+      signs; and the story it conveys, that is, its meaning or content. In a slight modification of
+      Genette, the term ‘story’ no longer indicates a series of events, but a cognitive construct
+      evoked by the narrative discourse: ‘[W]e never see a story directly, but instead always
+      pick it up through the narrative discourse. The story is always mediated [. . .] so that
+      what we call the story is really something that we construct’ (Abbott, 2008: 20).
+      Therefore, the concept of textual narrative can be defined as the combination of (1) a
+      semiotic artifact and (2) the mental representation of a series of real or fictional events
+      it invokes in the mind of its receiver.                
+        Clearly, neither the proverbs cited in ‘Apostil on Narratives’ nor Lyotard’s notion of
+      narrative as a discursive genre correspond to this definition. However, the question
+      arises whether this can even legitimately be expected. While leaving the narrative inde-
+      pendent of ‘any particular medium, and [. . .] of the distinction between fiction and
+      non-fiction’ (Ryan, 2007: 26), this definition still refers to textual narratives only.
+      Lyotard’s narratives, whatever else they may be, are discursive phenomena not embod-
+      ied in individual semiotic artifacts. Furthermore, given his fundamental skepticism
+      towards representation, it seems unlikely that Lyotard would conceive of narratives as
+      representational constructs. Taking these objections into account, I will now develop a
+      concept of non-textual narrative suitable for the description of cultural phenomena like
+      post-truth. In a second step, I will redefine Lyotard’s petit récit within the framework of
+      this new category.                                     
+        Abbott’s (2008: 236) concept of masterplot constitutes a promising attempt to bridge
+      the gap between textual and cultural narratives.4 The term refers to ‘[r]ecurrent skeletal
+      stories, belonging to cultures and individuals that play a powerful role in questions of
+      identity, values, and the understanding of life’ (2008: 236). As an example, Abbott (2008:
+      46–7) refers to the ‘Cinderella masterplot’, ‘a thread of neglect, injustice, rebirth, and
+      reward’ that occurs in many different forms. However, he also describes the 1995 murder
+      trial of former NFL player O.J. Simpson as ‘a contest of narratives in which the contest-
+      ants draw on masterplots’, namely (1) the story of the black man who is unjustly pun-
+      ished for stepping ‘out of his place’; (2) the story of the battered wife and (3) the story of
+      unjust privilege accorded to celebrity and wealth (Abbott, 2008: 48–9).
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+       Baier                                         101     
+                                                             
+        In general terms, Abbott (2008: 47) characterizes masterplots as ‘a kind of cultural
+       glue that holds societies together’. Masterplots are the underlying narrative patterns
+       derived from and simultaneously shaping the perception of real-world events: the O.J.
+       Simpson case can be seen as a concrete manifestation of the masterplot of the black man
+       unjustly punished for stepping ‘out of his place’, just like the Harry Potter novels can
+       be read as modern adaptations of the Cinderella masterplot. Unfortunately, Abbott
+       (2008: 58) does not sufficiently explore the concept: while his examples are convincing,
+       the definition of masterplots as ‘coded narrative formulas that end with closure’ offers
+       little insight. I will therefore combine Porter Abbott’s concept with a term borrowed from
+       Albrecht Koschorke’s Fact and Fiction (2018 [2012]).  
+        Koschorke (2018 [2012]: 17–18) conceives of narration as a selective process that
+       reduces and simplifies the multitudes of narrative discourses circulating in a society.
+       These discourses are transformed and partially codified in the form of narrative patterns
+       that correspond to Porter Abbott’s masterplots. Since they are based on individual tales
+       told within a community, these abstract patterns are easily recognizable to community
+       members, allowing for identification and suggesting a specific perspective on certain
+       events. Seeing a series of events as corresponding to a particular narrative pattern shapes
+       their perception and interpretation. Once again referring to Porter Abbott’s vivid exam-
+       ple: the narrative pattern of the black man unjustly punished for stepping ‘out of his
+       place’ can be conceived as an abstraction based on countless individual experiences of
+       racial discrimination and injustice, told and re-told innumerable times. While this pattern
+       is recognizable to most people, to people of color it also offers the potential for identifi-
+       cation. When perceived as an example of this pattern, the events involving O.J. and
+       Jessica Simpson are understood in a particular way. By contrast, people who see the
+       same events adhering to the narrative pattern of unjust privilege accorded to celebrity
+       and wealth will inevitably reach a different conclusion. Importantly, both sides will feel
+       justified in their position, which will influence their reaction to diverging opinions. In
+       other words: by providing an interpretative structure, cultural narratives establish a cor-
+       relation between events, affecting their perception, interpretation and meaning. While
+       the definition of textual narrative presupposes some form of mediation, cultural narra-
+       tives shape reality – a feature shared with Lyotard’s grand narratives.
+        Using these insights to adapt the concept of textual narrative established above, I
+       propose the following definition: a cultural narrative is a discursive constellation con-
+       necting the multitudes of narrative discourses circulating within a community to a
+       smaller number of abstract narrative patterns or masterplots. By establishing meaning-
+       ful correlations between events, these patterns offer the potential for identification and
+       interpretation to community members, shaping reality in the process.
+        Since a similar perception of reality leads to shared opinions and judgements, which
+       in turn foster the formation of a collective identity based on common values, one could
+       argue that shared cultural narratives significantly contribute to the constitution of
+       communities.5 Even more crucially, once accepted, the narrative provides the criteria for
+       assessing the validity of information: what is considered true or false, right or wrong, real
+       or fake is now contingent on its conformity with a group’s foundational narrative. In this
+       way, each cultural narrative establishes its own epistemic sphere, literally creating truths
+       and shaping reality – which brings me neatly back to the post-truth phenomenon.
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+      102                             Theory, Culture & Society 41(1)
+                                                             
+        Before analyzing the mechanisms of post-truth, however, it is necessary to conclude
+      both the narratological and the philosophical thread of this argument by explicitly rede-
+      fining Jean-François Lyotard’s petit récit. In itself, the definition of cultural narrative is
+      not suitable for this purpose, since it is deliberately couched in general terms to be most
+      widely applicable. To accommodate its particular properties, I conceptualize ‘small nar-
+      rative’ as a type of cultural narrative characterized by the traits and functions delineated
+      above. Combining fundamental concepts of narrative theory with the insights of Lyotard
+      scholarship, I propose the following definition: a small narrative is a locally and tempo-
+      rally limited type of cultural narrative, that is, a discursive constellation connecting the
+      multitudes of narrative discourses circulating within a community to a smaller number of
+      abstract narrative patterns. Such a petit récit arises to address a specific problem and
+      functions as a counter-narrative to challenge the hegemonic discourse. It constitutes
+      independent communities by establishing its own epistemic sphere, legitimizing alterna-
+      tive voices and viewpoints. Being intrinsically unsuited to assume discursive dominance,
+      the small narrative disappears once its task is fulfilled. Couched in narratological terms,
+      this redefinition offers the first structural description of Lyotard’s elusive petit récit,
+      allowing for the category’s subsequent use in the analysis and description of post-truth.
+      Small Narratives and Epistemic Spheres                 
+      How can the redefined petit récit be applied to the post-truth situation? In ‘Lessons in
+      Paganism’, Lyotard (1989: 135) outlines the idea of a society ‘based upon [small] narra-
+      tives’ that would allow previously marginalized groups like ‘women, children, metics,
+      slaves, foreigners and dissidents’ to take part in public discourse without being silenced
+      by the hegemonic power of a grand narrative. The term paganism Lyotard (1989: 136)
+      uses to describe this society etymologically derives from the Latin pagus, which ‘was
+      used to refer to the frontier region on the edge of town’, the fringes of the polis. In
+      Lyotard’s terminology, pagus indicates ‘a region that has not been assimilated by a con-
+      sensual politics’ (Docherty, 2011: 158) and subjected to the dominance of a grand narra-
+      tive. In The Differend, Lyotard famously likens a similar constellation to an archipelago
+      (see Sim, 2011), postulating that ‘[e]ach genre of discourse would be like an island’
+      (Lyotard, 1988: 130), governed by a particular set of rules and distinct from all other
+      islands (see Sim, 2020: 69–70). While communication between different discursive gen-
+      res is possible through the Kantian ‘faculty of judgement’ (Lyotard, 1988: 130), Lyotard
+      is most interested in the moment of communicative failure he calls a differend.
+        Conceptualized within the framework of phrase linguistics, differends arise from
+      those ‘encounters between phrases of heterogeneous regimen’ (Lyotard, 1988: 29) that
+      cannot be mediated. Transposing these incidents of pragmatic incommensurability into a
+      social and political context, Lyotard (1988: xi) defines a differend as ‘a case of conflict
+      between (at least) two parties, that cannot be equitably resolved for lack of a rule of judg-
+      ment applicable to both arguments’. In these situations, one party has wronged another,
+      but ‘the plaintiff is divested of the means to argue and becomes for that reason a victim’
+      (Lyotard, 1988: 9). For the same reason, the wrong done to the victim cannot be recog-
+      nized and redressed by an adjudicating tribunal, since deliberation and judgement would
+      have to be carried out in the language of the dominant party. Lyotard’s most famous dif-
+      ferends relate to a Holocaust denier’s twisted argumentation against the existence of gas
+                                                             
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+       Baier                                         103     
+                                                             
+       chambers (see Lyotard, 1988: 3–4) and the Nazis’ silencing of Jewish voices (see Lyotard,
+       1988: 100–3). In both cases, the victims are prevented from expressing their injury in
+       terms either their opponent or any jury would accept. 
+        The epistemic spheres introduced in the previous section can be conceptualized as
+       adaptations of both paganism and the differend: based on a petit récit, each sphere is
+       ruled by its own epistemic criteria, determining what is considered true or false, right or
+       wrong, real or fake. Despite obvious structural similarities, there are important differ-
+       ences between the resulting constellation and Lyotard’s metaphorical archipelago: while
+       his attention in The Differend is focused on those encounters of heterogeneous phrase
+       regimens that result in differends, successful communication between differend ‘islands’
+       of discursive genres is generally possible, mediated by the faculty of judgement. By
+       contrast, epistemic spheres are fundamentally incommensurable, since inhabitants of dif-
+       ferent epistemic spheres do not even share a common concept of truth or factfulness,
+       creating what I call, with reference to Lyotard, an epistemic differend.
+        Before the concept of epistemic spheres can be applied to the current post-truth situ-
+       ation, the state of postmodern society needs to be considered. Despite having lost much
+       of their former influence, grand narratives are still present within public discourse, beset
+       from all sides by petits récits. Since epistemic spheres originate from these locally lim-
+       ited counter-narratives, the voices and viewpoints they legitimize are by definition both
+       contrarian and subaltern in relation to the hegemonic discourse. And while this structural
+       power imbalance resembles the constellation of victim and oppressor described in The
+       Differend, there is one crucial difference. As indicated by his use of terms like ‘litiga-
+       tion’, ‘tribunal’ or ‘plaintiff’, Lyotard implicitly assumes a juridical setting: a victim
+       looking for arbitration by a third party, which turns out to be linguistically impossible.
+       By contrast, the inhabitants of an epistemic sphere are structurally unable to seek arbitra-
+       tion despite their discursive disadvantage, since even the attempt would require them to
+       accept outside epistemic criteria. For this reason, inhabitants of such a sphere will often
+       perceive themselves as victims, while simultaneously insisting on the exclusive validity
+       of their sphere’s epistemic criteria, their individual truth and facts.
+       Post-Truth and Populism                               
+       In the last step of my argument, I will now use the concepts of epistemic sphere and petit
+       récit to describe and explain the most prominent example of post-truth politics, Donald
+       Trump’s MAGA movement. To demonstrate that neither the scope of analysis nor the
+       implications of its results are limited to this particular the case, I will briefly situate
+       Trumpism within the context of contemporary populism. 
+        Conceptualized as ‘a rhetorical style of communications’ (Norris and Inglehart, 2019:
+       66) rather than a fully developed ideology (see Stanley, 2008), populism is characterized
+       by an irreconcilable dichotomy between two supposedly homogeneous groups, ‘the
+       people’ and ‘the elites’. In this model, political sovereignty is derived solely from the
+       will of the people who are envisioned as fundamentally virtuous, while the elites are
+       conceived of as inherently selfish and dishonest. The notion of a corrupt ruling class leads
+       to a crisis of legitimacy and representation leaving many people to feel disenfranchised,
+       causing fundamental distrust in political institutions and evoking the desire for a
+       charismatic leader to champion the people’s cause against the establishment.
+                                                             
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+      104                             Theory, Culture & Society 41(1)
+                                                             
+        Despite drawing criticism from scholars like Laclau (2005: 3–20) and Traverso (2019:
+      15–19), this approach to populism has proven useful to describe the style of politics
+      embodied by Donald Trump (see Conley, 2020; Sligo, 2018; Wahl-Jorgensen, 2018).
+      Trump’s 2016 victory can be seen as ‘part of a general tendency in which movements
+      emerge to challenge the established powers-that-be and to a certain degree globalization
+      itself (the euro, the EU, the US establishment) from the right’ (Traverso, 2019: 25). These
+      movements include Boris Johnson’s pro-Brexit campaign in the UK, the so-called
+      Alternative für Deutschland (AfD) in Germany, the Front National in France, Law and
+      Justice (PiS) in Poland and Victor Orbán’s Fidesz in Hungary.
+        Donald Trump presents himself as fighting for the interests of supposedly ‘ordinary
+      Americans’ against intellectual elites and the political establishment. Feeling left behind
+      by economic developments like globalization and turned into strangers in their own land
+      by the rise of liberal values, many of his supporters resent and distrust a political system
+      they perceive to be ‘rigged’ against them. Taking advantage of the charisma afforded to
+      him by his status as a TV celebrity, Trump uses slogans like ‘Make America Great Again’
+      to unify this disparate collection of grievances, while his deliberately ‘angry’ rhetoric
+      stokes existing resentments in order to delegitimize democratic institutions. As Hahl
+      et al. (2018: 3) demonstrate, his role as champion of the people turns even his incoherent
+      speaking style and demonstrably false statements to his advantage, since ‘a lying dema-
+      gogue can appear as a distinctively authentic champion’ to those feeling betrayed by the
+      system. By flaunting his disdain for political and social norms, as well as his blatant
+      disregard for the standard of truthfulness, Trump demonstrates his anti-establishment
+      position. This aspect of his rhetoric is particularly effective since the very concept of
+      truth ‘is no longer perceived by many [of his followers] as disinterested or factual but
+      instead may be considered to be corrupted’ (Sligo, 2018: 138) by the very elites Trump
+      belittles and condemns.6                               
+        This description shows how Trump-style politics foster a post-truth environment,
+      which in turn provides the ideal conditions for the flourishing of populism: both phe-
+      nomena appeal to emotions rather than rational argument, creating a constellation of
+      tribal epistemology that challenges the idea of universal truth. After situating Trump in
+      the context of both contemporary populism and post-truth, the stage is set for the final
+      step in the argument: demonstrating the practical usefulness of epistemic spheres for the
+      analysis of the post-truth phenomenon by applying the category to Donald Trump’s
+      MAGA movement. Since epistemic spheres are based on small narratives, which in turn
+      have been conceptualized as a particular type of cultural narrative, this approach raises
+      an obvious question: how does the concept of narrative feature in the description of
+      Trump’s post-truth politics?                           
+        The answer hinges on the slogan giving the whole movement its name, Make America
+      Great Again. While not in itself a narrative, the slogan can be understood as its ‘encap-
+      sulation’ (Weixler, 2021: 127) or, with Koschorke (2018 [2012]: 213), as ‘a microplot,
+      which is to say a motivated sequence between two [or more] states’. Specifically, MAGA
+      invokes a narrative pattern familiar from ancient myths and modern blockbuster movies
+      alike: the triadic sequence of an original state of harmony, its disruption and eventual
+      utopian restitution though the efforts of a hero. Once, so the message goes, America was
+      great. Then globalization destroyed millions of jobs, liberalism eroded traditional con-
+      servative values, threatening the American way of life, and only Donald Trump can
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+       Baier                                         105     
+                                                             
+       reverse this aberration and make America great again. According to this description, the
+       present is inherently flawed compared to the glorious past, a view shared by many Trump
+       supporters who feel disadvantaged, victims of historical and political forces beyond their
+       understanding or control (Weixler, 2021: 145–9).      
+        When arguing that Make America Great Again can be understood as the encapsula-
+       tion of a small narrative, this last aspect is particularly significant. Since it condenses a
+       large number of narrative discourses and individual experiences into one narrative
+       pattern, offering identification and ready-made explanations to many Americans, the
+       MAGA slogan does plausibly function as a stand-in for a cultural narrative. In order
+       also to qualify as a petit récit, however, additional criteria have to be met: while it is
+       possible to regard this particular narrative as locally and temporally limited and having
+       arisen in reaction to a specific problem, can it really be considered a counter-narrative?
+       After all, the slogan encapsulating it provides identification to millions of people,
+       helped to elect a real-estate mogul president and dominates US domestic politics to this
+       day. Yet, as argued above, the followers of a populist movement often feel disadvan-
+       taged by a ‘rigged’ system and corrupt elites. As paradoxical as it might seem for a
+       group considering itself ‘the people’ to be represented by a counter-narrative, this posi-
+       tion is consistent within the populist worldview: in a system ruled by corrupt politi-
+       cians, out-of-touch liberal intellectuals and mainstream media disseminating fake news,
+       Trump’s followers see themselves as a silent majority, fighting for their values against
+       ‘woke culture’ and political correctness.             
+        This self-perception is likely reinforced by recent efforts of the US government to
+       assert the rule of law vis-à-vis Donald Trump and his most radical supporters. On 1 July
+       2021, the US House of Representatives established the ‘United States House Select
+       Committee on the January 6 Attack’ to investigate the storming of the Capitol on 6
+       January 2021 and identify the persons responsible. By July 2022, almost 900 people had
+       been charged for their involvement in the failed insurrection, with some being sentenced
+       to several years in prison (see Cheney and Gerstein, 2022). On 8 August 2022, the
+       Federal Bureau of Investigation (FBI) executed a search warrant for former president
+       Trump’s private residence in Mar-a-Lago, recovering sensitive government documents
+       (see Haberman et al., 2022). This action was met with outrage from conservative circles.
+       Roberts (2022), president of the conservative think tank the Heritage Foundation, con-
+       sidered the search ‘yet another example of the federal government weaponizing law
+       enforcement to punish political enemies, silence critics, and send a message to those
+       whom it views as enemies’.                            
+        Roberts’ rhetoric both reflects and feeds into the populist assumptions underlying the
+       MAGA ideology: the notion of the FBI being used in a politically motivated attack by an
+       illegitimate ‘leftist’ government seemingly confirms the suspicions and fears of many
+       Trump supporters, fueling their distrust towards democratic institutions and deepening
+       the populist divide. Thus, recent developments and their interpretation by conservative
+       pundits and media outlets reinforce the epistemic differend separating the MAGA move-
+       ment and its epistemic sphere from the rest of society.
+        It has been demonstrated that the cultural narrative encapsulated in Make America
+       Great Again can legitimately be considered a petit récit, and analogous arguments can be
+       made for other populist movements like the Brexit leave campaign (see Weixler, 2021:
+       146; cf. Sim, 2020: 60–61), but also for Covid and climate change deniers. Each of these
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+      106                             Theory, Culture & Society 41(1)
+                                                             
+      groups is surrounded by an epistemic sphere based on a small narrative and governed by
+      its own rules to determine what is considered real, true and factual. Each sphere is
+      separate from all others through epistemic differends and, collectively, these spheres and
+      their underlying small narratives constitute the post-truth condition.
+                                                             
+      Conclusion                                             
+      This article develops a functional analysis of the narrative mechanisms of post-truth,
+      addressing three distinct but interrelated topics: Jean-François Lyotard’s inconsistent use of
+      the term ‘narrative’, the lack of a comprehensive definition of cultural narrative in narra-
+      tological theory, and the epistemic fragmentation that characterizes a post-truth environ-
+      ment. Its initial hypothesis is based on the structural similarities between such a constellation
+      and Lyotard’s description of the postmodern condition: the mechanisms of post-truth may
+      be described in narrative terms, with particular reference to the category of petit récit.
+        Considering Lyotard’s inconsistent use of the term ‘narrative’ and the resulting con-
+      ceptual conflation, I utilize contemporary narrative theory to develop a comprehensive
+      definition of cultural narrative, framing Lyotard’s small narrative as a particular case of
+      this superordinate category and providing a viable definition for one of the most notori-
+      ously vague terms of current academic discourse. Combining the newly defined petit
+      récit with Lyotard’s concepts of paganism and the differend, I develop the category of
+      epistemic sphere as a means to describe and explain the epistemic fragmentation of
+      society characteristic for the post-truth situation: by shaping the perception of reality,
+      each foundational petit récit establishes an epistemic sphere governed by its own crite-
+      ria for what is true or false, right or wrong, real or fake. In order to demonstrate its
+      analytical validity, I then apply the concept to Donald Trump’s post-truth politics, after
+      situating his MAGA movement within the broader context of contemporary populism.
+        Conceptualizing the post-truth environment as consisting of numerous epistemic
+      spheres based on small narratives explains central features of the current social and polit-
+      ical landscape, where the existing hegemonial discourse is being challenged by multiple
+      alternative voices and positions. While this constellation corresponds to Jean-François
+      Lyotard’s notion of petits récits as locally limited counter-narratives, their subversive
+      power, originally envisioned to give voice to the oppressed, has been usurped by the
+      political right. Furthermore, since each sphere establishes its own epistemic criteria, their
+      respective concepts of truth are separated by epistemic differends: the inhabitants of dif-
+      ferent epistemic spheres do not just disagree on what is true in a specific situation, but on
+      what truth is on a conceptual level. Thus, post-truth calls into question the principle of a
+      universal epistemic foundation of discourse: the implicit assumption that knowledge is
+      different from belief, and that truthfulness is a viable standard. This epistemic contract
+      allows for the constructive exchange of ideas, constituting the foundation not only of the
+      democratic process but of the social fabric itself: by undermining the epistemic contract,
+      post-truth poses a threat to democratic societies all over the world.
+      Acknowledgements                                       
+      First and foremost, I would like to thank Olga Fedorenko for her encouragement and constructive
+      criticism, as well as Peter W. Milne, who helped me navigate the deep waters of Lyotard
+                                                             
+                                                             
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+       Baier                                         107     
+                                                             
+       scholarship. Additional thanks go to Nicholas James for his thorough copyediting of a previous
+       version of this article, and to the anonymous reviewers for their insightful suggestions.
+       Funding                                               
+       The author disclosed receipt of the following financial support for the research, authorship, and/or
+       publication of this article: The research for this article was supported by the program ‘Basic
+       Research for the Humanities and Social Sciences for Mid-Career Researchers’ of the National
+       Research Foundation of Korea (Project Number 100-20200087).
+                                                             
+       ORCID iD                                              
+       Christian Baier https://orcid.org/0000-0002-7012-1284 
+                                                             
+       Notes                                                 
+       1. Previous attempts to describe the post-truth phenomenon using Lyotard’s concepts have
+         mostly focused on the différend: Hoffman-Schwartz (2022: 261) sets out to demonstrate the
+         category’s relevance ‘in a present marked by neo-fascist insurgency yoked to the pseudoepis-
+         temology of “post-truth”’, and McLennan (2018: 1) argues that ‘a look back at Lyotard’s
+         work on the differend may help us to get our bearings in a socio-political climate that has
+         been dubbed “post-truth”’. When applying the concept of petit récit to the post-truth phenom-
+         enon in Lyotard on Politics, Sim (2020) fails to address the fundamental inconsistencies in
+         Lyotard’s use of the term ‘narrative’ and remains somewhat superficial in engaging with the
+         relevant scholarship on post-truth. In Post-Truth, Scepticism and Power (Sim, 2019), small
+         narratives are barely even mentioned.               
+       2. In accordance with the conventions of Wittgenstein scholarship, the Philosophical
+         Investigations (Wittgenstein, 2009 [1953]) are referenced not by page number but by
+         paragraph.                                          
+       3. Müller-Funk’s (2013) Die Kultur und ihre Narrative (translated into English as The
+         Architecture of Modern Culture [2012]) avoids the usual bias toward textual narratives, but
+         remains of limited use, since the author leaves fundamental narratological categories unde-
+         fined. In his recently published monograph Das narrative Gehirn, Breithaupt (2022) explores
+         narrativity from the perspective of the cognitive sciences. While offering many intriguing
+         insights, his concept of ‘narrative’ (he mostly uses the term ‘narration’) also remains insuf-
+         ficiently defined.                                  
+       4. Porter Abbott considers and rejects a number of similar terms such as Schank’s (1995: 147–
+         88) ‘story skeleton’, Gould’s (2000) ‘canonical story’, C.G. Jung’s ‘archetype’ and, most
+         indicatively, ‘master narrative’, a term often used synonymously with Lyotard’s grand récit:
+         ‘[I]t should be obvious why “master narrative” would not work for this concept. A narrative
+         is a particular rendering of a story. Works like War and Peace or Harry Potter and the Goblet
+         of Fire are narratives. The masterplots that undergird these narratives are much more skeletal
+         and adaptable, and they can recur in narrative after narrative’ (Abbott, 2008: 47).
+       5. Here, the category of cultural narrative intersects with the extensive field of Cultural Memory
+         Studies (see Erll and Nünning, 2010), in particular with Ricœur’s (1991a, 1991b) notion of
+         narrative identity and Gehrke’s (2001) concept of intentional history.
+       6. To describe the worldview of blue-collar white conservative Christians, Hochschild (2016)
+         develops the concept of deep story, an interesting if flawed attempt to establish a localized
+         discourse based on narrative. Norris and Inglehart (2019: 87–131) attribute the rise of right-
+         wing populism to a ‘cultural backlash’ against liberal progress, while Wahl-Jorgensen (2018)
+         analyzes Trump’s deliberate use of angry rhetoric, and Miller (2021) offers an embodied
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+      108                             Theory, Culture & Society 41(1)
+                                                             
+        assemblage approach to the role of spectacle. The brazen disregard for truth characteristic of
+        contemporary populism was anticipated in Frankfurt’s (2005) lucid analysis, On Bullshit.
+      References                                             
+      Abbott, H Porter (2008) The Cambridge Introduction to Narrative, 2nd edn. Cambridge:
+        Cambridge University Press.                          
+      Baggini, Julian (2017) A Short History of Truth. London: Quercus.
+      Bennington, Geoffrey (1988) Lyotard: Writing the Event. New York, NY: Manchester University
+        Press.                                               
+      Brahms, Yael (2020) Philosophy of Post-Truth. Tel Aviv: Institute for National Security Studies.
+        Available at: https://www.jstor.org/stable/resrep23537 (accessed 1 June 2022).
+      Breithaupt, Fritz (2022) Das narrative Gehirn: Was unsere Neuronen erzählen. Berlin: Suhrkamp.
+      Bufacchi, Vittorio (2021) Truth, lies and tweets: A consensus theory of post-truth. Philosophy &
+        Social Criticism 47(3): 347–361.                     
+      Cheney, Kyle and Gerstein, Josh (2022) Where January 6 prosecutions stand, 18 months after
+        the attack. Politico, 7 July. Available at: https://www.politico.com/news/2022/07/07/jan-6-
+        prosecutions-months-later-00044354 (accessed 1 September 2022).
+      Conley, Richard S (2020) Donald Trump and American Populism. Edinburgh: Edinburgh
+        University Press.                                    
+      D’Ancona, Matthew (2017) Post-Truth: The New War on Truth and How to Fight Back. London:
+        Ebury Press.                                         
+      Dawson, Paul (2017) How many ‘turns’ does it take to change a discipline? Narratology and the
+        interdisciplinary rhetoric of the narrative turn. In: Hansen, Per Krogh, Pier, John, Roussin,
+        Philippe, et al. (eds) Emerging Vectors of Narratology. Berlin: Walter de Gruyter, pp.
+        405–434.                                             
+      Docherty, Thomas (2011) Paganism, pagus. In: Sim, Stuart (ed.) The Lyotard Dictionary.
+        Edinburgh: Edinburgh University Press, pp. 158–159.  
+      Erll, Astrid and Nünning, Ansgar (eds) (2010) A Companion to Cultural Memory Studies. Berlin,:
+        Walter de Gruyter.                                   
+      Frankfurt, Harry G (2005) On Bullshit. Princeton, NJ: Princeton University Press.
+      Gehrke, Hans-Joachim (2001) Myth, history, and collective identity: Uses of the past in Ancient
+        Greek and beyond. In: Luraghi, Nino (ed.) The Historian’s Craft in the Age of Herodotus.
+        Oxford: Oxford University Press, pp. 286–313.        
+      Genette, Gérard (1983) Narrative Discourse: An Essay in Method. Ithaca, NY: Cornell University
+        Press.                                               
+      Gould, Stephen Jay (2000) Jim Bowie’s letter and Bill Buckner’s legs. Natural History 109(4):
+        26–40.                                               
+      Haberman, Maggie, Protess, Ben, and Goldman, Adam (2022) F.B.I. searches Trump’s Florida
+        home, signaling escalation of inquiries. New York Times, 8 August, Available at: https://
+        www.nytimes.com/2022/08/08/us/politics/trump-fbi-mar-a-lago.html (accessed 1 September
+        2022).                                               
+      Hahl, Oliver, Kim, Minjae, and Zuckerman Sivan, Ezra W (2018) The authentic appeal of the lying
+        demagogue: Proclaiming the deeper truth about political illegitimacy. American Sociological
+        Review 83(1): 1–33.                                  
+      Hertzberg, Lars (2014) Language-games and private language. In: Jolley, Kelly Dean (ed.)
+        Wittgenstein: Key Concepts. London: Routledge, pp. 41–50.
+      Hochschild, Arlie Russell (2016) Strangers in Their Own Land: Anger and Mourning on the
+        American Right. New York, NY: The New Press.         
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+       Baier                                         109     
+                                                             
+       Hoffman-Schwartz, Daniel (2022) Lyotard and the trolls: The differend, sophistry, and the right.
+         Philosophy Today 66(2): 261–286.                    
+       Hühn, Peter, Meister, Jan Christoph, Pier, John, et al. (eds) (2014) Handbook of Narratology,
+         vol. 2. Berlin: Walter de Gruyter.                  
+       Jones, Graham (2014) Lyotard Reframed: Interpreting Key Thinkers for the Arts. London: I.B.
+         Tauris.                                             
+       Klein, Christian and Martínez, Matías (eds) (2009) Wirklichkeitserzählungen: Felder, Formen und
+         Funktionen nicht-literarischen Erzählens. Stuttgart: J.B. Metzler’sche Verlagsbuchhandlung.
+       Koschorke, Albrecht (2018 [2012]) Fact and Fiction: Elements of a General Theory of Narrative.
+         Berlin: Walter de Gruyter.                          
+       Kreiswirth, Martin (2008) Narrative turn in the humanities. In: Herman, David, Jahn, Manfred, and
+         Ryan, Marie-Laure (eds) Routledge Encyclopedia of Narrative Theory. London: Routledge.
+       Laclau, Ernesto (2005) On Populist Reason. London: Verso.
+       Lyotard, Jean-François (1988) The Differend: Phrases in Dispute. Manchester: Manchester
+         University Press.                                   
+       Lyotard, Jean-François (1989) The Lyotard Reader, ed. Andrew E Benjamin. Oxford: Blackwell.
+       Lyotard, Jean-François (1992) The Postmodern Explained: Correspondence 1982–1985, ed.
+         Julian Pefanis and Morgan Thomas. Minneapolis, MN: University of Minnesota Press.
+       Lyotard, Jean-François (1999 [1979]) The Postmodern Condition: A Report on Knowledge, trans.
+         Geoff Bennington and Brian Massumi. Minneapolis, MN: University of Minnesota Press.
+       McGinn, Marie (1997) Routledge Philosophy Guidebook to Wittgenstein and the Philosophical
+         Investigations. London: Routledge.                  
+       McIntyre, Lee C (2018) Post-Truth. Cambridge, MA: MIT Press.
+       McLennan, Matthew (2018) Differend and ‘post-truth’. French Journal for Media Research 9:
+         1–13.                                               
+       Meister, Jan Christoph (2014) Narratology. In: Hühn, Peter, Meister, Jan Christoph, Pier, John,
+         et al. (eds) Handbook of Narratology, 2nd edn. Berlin: Walter de Gruyter, pp. 623–645.
+       Miller, Jacob C (2021) Spectacle and Trumpism: An Embodied Assemblage Approach. Bristol:
+         Bristol University Press.                           
+       Müller-Funk, Wolfgang (2013) Die Kultur und ihre Narrative, 2nd edn. Vienna: Springer.
+       Norris, Pippa and Inglehart, Ronald (2019) Cultural Backlash: Trump, Brexit, and Authoritarian
+         Populism. Cambridge: Cambridge University Press.    
+       OED (2017) Post-Truth, adj. In: Oxford English Dictionary. Available at: https://www.oed.com/
+         view/Entry/58609044?redirectedFrom=post-truth&amp (accessed 1 June 2022).
+       Ophir, Adi (2018) Concept. In: Bernstein, JM, Ophir, Adi, and Stoler, Ann Laura (eds) Political
+         Concepts: A Critical Lexicon. New York, NY: Fordham University Press.
+       Purvis, Tony (2011) Little narrative. In: Sim, Stuart (ed.) The Lyotard Dictionary. Edinburgh:
+         Edinburgh University Press, pp. 133–135.            
+       Readings, Bill (1991) Introducing Lyotard: Art and Politics. London: Routledge.
+       Ricœur, Paul (1991a) Life in quest of narrative. In: Wood, David (ed.) On Paul Ricœur: Narrative
+         and Interpretation. London: Routledge, pp. 20–33.   
+       Ricœur, Paul (1991b) Narrative identity. Philosophy Today 35(1): 73–81.
+       Roberts, David (2017) Donald Trump and the rise of tribal epistemology: Journalism cannot be
+         neutral toward a threat to the conditions that make it possible. Vox, 19 May. Available at:
+         https://www.vox.com/policy-and-politics/2017/3/22/14762030/donald-trump-tribal-
+         epistemology (accessed 1 June 2022)                 
+       Roberts, Kevin (2022) Heritage president on Mar-a-Lago raid: ‘Imagine what they think they
+         can do to the average American.’ Heritage Foundation, 9 August. Available at: https://www.
+         heritage.Org/press/heritage-president-mar-lago-raid-imagine-what-they-think-they-can-do-
+         the-average-american (accessed 1 September 2022).   
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+      110                             Theory, Culture & Society 41(1)
+                                                             
+      Ryan, Marie-Laure (2007) Towards a definition of narrative. In: Herman, David (ed.) The
+        Cambridge Companion to Narrative. Cambridge: Cambridge University Press, pp. 22–35.
+      Ryan, Marie-Laure (2008) Narrative. In: Herman, David, Jahn, Manfred, and Ryan, Marie-Laure
+        (eds) Routledge Encyclopedia of Narrative Theory. London: Routledge, pp. 344–348.
+      Ryan, Marie-Laure (2017) Narrative. In: Szeman, Imre, Blacker, Sarah, and Sully, Justin (eds) A
+        Companion to Critical and Cultural Theory. Hoboken, NJ: Wiley-Blackwell, pp. 517–530.
+      Ryan, Marie-Laure and Thon, Jan-Noël (eds) (2014) Storyworlds across Media: Toward a Media-
+        Conscious Narratology. Lincoln, NE: University of Nebraska Press.
+      Schalkwyk, David (1997) Why the social bond cannot be a passing fashion: Reading Wittgenstein
+        against Lyotard. Theoria: A Journal of Social and Political Theory 89: 116–131.
+      Schank, Roger C (1995) Tell Me a Story: Narrative and Intelligence. Evanston, IL: Northwestern
+        University Press.                                    
+      Scheffel, Michael (2012) Nach dem ‘narrative turn’: Handbücher und Lexika des 21. Jahrhunderts.
+        DIEGESIS 1(1): 43–55. Available at: https://www.diegesis.uni-wuppertal.de/index.php/
+        diegesis/article/view/84 (accessed 1 June 2022).     
+      Sim, Stuart (2011) Archipelago. In: Sim, Stuart (ed.) The Lyotard Dictionary. Edinburgh:
+        Edinburgh University Press, pp. 21–22.               
+      Sim, Stuart (2019) Post-Truth, Scepticism and Power. New York, NY: Springer.
+      Sim, Stuart (2020) Lyotard and Politics: A Critical Introduction. Edinburgh: Edinburgh University
+        Press.                                               
+      Sligo, Frank (2018) Trump’s populism, la trahison des clercs and embracing dissent. Media
+        International Australia 169(1): 131–143.             
+      Sluga, Hans D (2011) Wittgenstein. Malden, MA: Wiley-Blackwell.
+      Smith, Richard G (2011) Postmodern, postmodernity. In: Sim, Stuart (ed.) The Lyotard Dictionary.
+        Edinburgh: Edinburgh University Press, pp. 184–186.  
+      Sommer, Ron (2012) The merger of classical and postclassical narratologies and the consolidated
+        future of narrative theory. DIEGESIS 1(1): 143–157. Available at: https://www.diegesis.
+        uni-wuppertal.de/index.php/diegesis/article/view/96 (accessed 1 June 2022).
+      Stanley, Ben (2008) The thin ideology of populism. Journal of Political Ideologies 13(1): 95–110.
+      Tesich, Steve (1992) A government of lies. The Nation, 6 January. Available at: https://www.the-
+        freelibrary.com/A+government+of+lies.-a011665982 (accessed 1 June 2022).
+      Traverso, Enzo (2019) The New Faces of Fascism: Populism and the Far Right. London: Verso.
+      Wahl-Jorgensen, Karin (2018) Media coverage of shifting emotional regimes: Donald Trump’s
+        angry populism. Media, Culture & Society 40(5): 766–778.
+      Weixler, Antonius (2021) Make control great again: Die narrative Konstruktion ‘eingeweihten
+        Wissens’ in Verschwörungserzählungen. In: Weixler, Antonius, Chihaia, Matei, Martínez,
+        Matías, et al. (eds) Postfaktisches Erzählen? Post-Truth – Fake News – Narration. Berlin:
+        Walter de Gruyter, pp. 127–156.                      
+      Wittgenstein, Ludwig (2009 [1953]) Philosophische Untersuchungen. Philosophical Investigations.
+        eds. Anscombe, Gertrude Elizabeth Margaret, Hacker, PMS, Schulte, Joachim, et al. Malden,
+        MA: Wiley-Blackwell.                                 
+      Christian Baier is an Associate Professor in the Department of German Language and Literature
+      at Seoul National University in South Korea. His research interests include the theory of fictional-
+      ity and the relation between autobiography and autofiction, as well as the works of Thomas Mann,
+      Franz Kafka and Günter Grass. His current research focuses on the concept of narrative, especially
+      in its non-textual, discursive variations and their epistemic and social implications.

@@ -1,0 +1,74 @@
+{
+  "paper_id": "baier-2023-narratives-of-post-truth-lyotard-and-the-epistemic-fragmentation-of-society",
+  "title": "Narratives of Post-Truth: Lyotard and the Epistemic Fragmentation of Society",
+  "author": "Baier",
+  "year": 2023,
+  "journal": "Theory, Culture & Society",
+
+  "opening_move": {
+    "type": "conceptual_gap",
+    "description": "Post-truth is a dominant contemporary phenomenon, but existing accounts lack a rigorous functional analysis. Lyotard's petit récit offers a promising conceptual resource, but his inconsistent use of 'narrative' makes it analytically unusable without prior reconstruction.",
+    "anchored_in": ["Lyotard", "narratology (Genette, Abbott, Ryan)"],
+    "stakes_claimed": "A functional theory of post-truth as epistemic fragmentation requires a rigorous category of cultural narrative that bridges Lyotard and contemporary narratology."
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["Lyotard (internal inconsistency critique)", "narratology (Ryan, Genette — limited to textual narratives)"],
+    "engagement_structure": "friendly_amendment",
+    "immanent_critique": true,
+    "own_position_type": "internal_reconstruction",
+    "own_position_explicit": true,
+    "description": "The paper critically reconstructs Lyotard's concept of petit récit by resolving its internal inconsistencies via narratological theory, then uses the result to develop a new analytical category (epistemic sphere) for the post-truth phenomenon."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_interpretive_case",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "Conceptual analysis and close reading of Lyotard's texts; application of narratological theory; interpretive analysis of Trump's MAGA movement as a political/rhetorical object.",
+    "notes": "MAGA is used as a case not as empirical data but as an interpretive illustration of the theory. The case is not studied ethnographically; it is interpreted through the framework being constructed. Closest to normative_with_interpretive_case where the 'case' is a political-discursive event rather than a film or literary text."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "political_event",
+    "case_name": "Donald Trump's MAGA movement",
+    "case_function": "illustration",
+    "case_relation_to_argument": "illustrative_only",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "medium",
+    "domain": "democratic theory, epistemology of public discourse",
+    "claim_type": "critical_diagnostic",
+    "closure_type": "open_ended_with_burden_on_reader"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "framework_proposal",
+    "immanent_critique",
+    "conceptual_distinction",
+    "framework_proposal",
+    "case_introduction",
+    "case_interpretation",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["post-truth", "petit récit", "cultural narrative", "epistemic sphere", "epistemic differend", "populism"],
+
+  "thinkers_deployed": {
+    "central": ["Lyotard", "Abbott", "Koschorke"],
+    "engaged_critically": ["Lyotard (internal inconsistency)", "Ryan (narratology limited to textual)"],
+    "referenced_only": ["Wittgenstein", "Genette", "Laclau", "Norris and Inglehart"]
+  },
+
+  "confidence_notes": "The epistemic mode is slightly ambiguous: the paper is primarily a conceptual/theoretical exercise, but the MAGA case plays a significant illustrative role. The case is interpretive (reading rhetoric and political discourse) rather than empirical. I classify it normative_with_interpretive_case with illustrative evidence role. The normative stake is implicit — epistemic fragmentation is implicitly diagnosed as pathological to democracy — but no explicit prescriptive conclusion is drawn."
+}

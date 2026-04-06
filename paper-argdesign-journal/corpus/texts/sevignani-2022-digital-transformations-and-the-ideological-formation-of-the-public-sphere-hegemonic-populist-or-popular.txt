@@ -1,0 +1,995 @@
+[PAGE 1]
+ 1103516                                                     
+ research-article2022 TCS0010.1177/02632764221103516Theory, Culture & SocietySevignani
+                                                             
+                                                             
+       Special Issue: A New Structural Transformation of the Public Sphere?
+                                             Theory, Culture & Society
+       Digital Transformations  and           2022, Vol. 39(4) 91 –109
+                                              © The Author(s) 2022
+       the Ideological Formation                             
+                                              Article reuse guidelines:
+       of the Public Sphere:              sagepub.com/journals-permissions
+                                        httpDs:O//dIo: i1.o0r.g1/1107.711/0727/60322673267462422121110033551166
+       Hegemonic,   Populist, or           journals.sagepub.com/home/tcs
+       Popular Communication?                                
+                                                             
+       Sebastian Sevignani                                   
+       Friedrich Schiller University Jena                    
+                                                             
+                                                             
+                                                             
+       Abstract                                              
+       This paper elaborates on a theory of the ideological public sphere in the age of digital
+       media. It describes the public sphere as an initially ascending and then descending
+       communication process that includes both polarising and integrating publics, which are
+       organised by antagonistic media and compromise-building mass media. This framework
+       allows us to distinguish between hegemonic, populist, and popular-oriented flows of
+       communication, as well as register changes in the interplay of different publics driven
+       by digital media platforms. Digital transformations of the public sphere give rise to
+       antagonistic and networked-individualistic flows of populist communication that put
+       public hegemony under constant pressure. The challenge is to find ways to strengthen
+       popular communications that enable democratic learning processes and the flourishing
+       of communicative competences of all citizens.         
+       Keywords                                              
+       capitalism, communication, experience, Habermas, hegemony, ideology, platforms,
+       populism, public sphere, social media                 
+                                                             
+                                                             
+       The rise of digital media signifies a structural change in the composition of the public
+       sphere. Public communication mediated by mass media is socially selective, one-way,
+       linear, centralised, and non-transparent, but through digital media it diversifies into
+       participatory, interactive, net-like, decentralised, and transparent communication pro-
+       cesses. Digital media enable ‘mass self-communication’ (Castells, 2007), within which
+       mass and interpersonal communication are mixed, and thus many partial publics may
+                                                             
+                                                             
+       Corresponding author: Sebastian Sevignani. Email: sebastian.sevignani@uni-jena.de
+       TCS Online Forum: https://www.theoryculturesociety.org
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+      92                              Theory, Culture & Society 39(4)
+                                                             
+      ‘organically’ link to a public of general interest. Digital media also lower access barriers
+      for different experiences to enter the public sphere. Thus, ‘lay’ communication, PR and
+      (professional) journalism are intermingled in digital media, making it more difficult to
+      judge the ‘quality’ of publications, for example in terms of their truth content or general-
+      isability. Participants of the digital public sphere can no longer rely on the editorial pro-
+      cesses and their compromise-building rules and procedures. ‘Quality’ must prove itself
+      after publication, at best in public discussion. Digital outlets from the classic media com-
+      panies and established organisations share attention with new influencers. Phenomena
+      such as the ‘going viral’ of individual content, but also the critique of mass media cover-
+      age, indicate that the (partial) publics organised by digital media continue to overlap in
+      hybrid media systems (cf. Chadwick, 2017).             
+        This disintermediation is about shattering the ‘gatekeeper paradigm’ that has long
+      dominated the understanding of public-opinion formation. According to this paradigm,
+      professionalised journalism with editorially organised news production, initially on the
+      material basis of commercial financing through levies and advertising, achieved relative
+      autonomy vis-à-vis the state and functioned as a decisive filtering authority in the pro-
+      cess of opinion formation (cf. Herman and Chomsky, 2006). The modern mass media
+      organised in this way possessed exclusive, non-public access to their sources and dis-
+      seminated news to a dispersed audience that itself had hardly any feedback possibilities.
+      With the rise of the internet and the channelling of digital communication through pre-
+      dominantly commercial social media platforms that are based on surveillance and exploi-
+      tation of communicative activity (cf. Zuboff, 2019; Sevignani, 2022), the public sphere
+      is being reorganised along with the platforms that mediate it.
+        While some voices perceive this process of dis- and re-intermediation of the public
+      sphere as problematic because it would create a situation that overstrains the communi-
+      cative competences of normal citizens – resulting in a loss of ‘epistemic editing’ (Bimber
+      and Gil de Zúñiga, 2020: 710) and the dwindling relevance of truth criteria or ‘fake
+      news’ or the disruption of social bonds within a fragmented public sphere where mass
+      media have lost their integrative function (cf. Habermas in Czingon et al., 2020: 32f.) –
+      others see positive aspects within this transformation. The popular chance that may lie in
+      the now ever more relevant retrospective examination of journalistic ‘quality’ and ‘truth’
+      are twofold: First, to link these criteria to one’s own world of experience. Second, a
+      chance to empower oneself in the public sphere, i.e. to acquire and develop surrendered
+      communicative competences and to learn ‘authorship’ instead of only a recipient role (cf.
+      Habermas in Czingon et al., 2020: 32). A more diverse and more easily accessible public
+      sphere may also have revitalising effects for democracies, as theories of a polarising
+      public sphere (e.g. Mouffe, 2005) argue. In this paper, I make a theoretical contribution
+      to disentangle the positive from the more problematic aspects that accompany the dis-
+      and re-intermediation of the public sphere.            
+        To start with this endeavour, the public sphere is best understood as an interplay of
+      publics of different scope and reach. In its singular form it is a ‘network for communicat-
+      ing information and points of view’ that ‘coalesce[s] into bundles of topically specific
+      public opinions’ (Habermas, 1996: 360), where the ‘organisation of social experience’
+      (Negt and Kluge, 1993: 3ff.) takes place in a topically structured communication pro-
+      cess. In basic publics of interpersonal communication and direct encounter, i.e. at the
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+       Sevignani                                      93     
+                                                             
+       ‘encounter level’ (Gerhards and Neidhart, 1990), the functional roles between speakers
+       and listeners are not yet differentiated and are constantly changing. In the middle levels
+       of the ‘topic and assembly publics’ (Gerhards and Neidhart, 1990), the first functional
+       role assignments are formed, there are significant speakers and explicit communication
+       rules emerge. Prototypical middle publics form around associations, citizens’ initiatives,
+       and social movements. In complex publics, such as those created by modern mass media,
+       spokesperson roles are largely professionalised and relationships to certain sub-publics
+       are well-rehearsed, whereby the audience becomes increasingly abstract and limited in
+       its possibilities for action. Connecting to this multi-level model of the public sphere, I
+       sketch out elements of a theory of the ideological public sphere and ask how we can use
+       them to critically evaluate crucial aspects of the current digital transformation.
+        The paper proceeds in three steps: The theory of the ideological public sphere is draw-
+       ing from Habermasian, pragmatist, subject-scientific, and particularly hegemony- and
+       ideology-theoretical perspectives (Section I). While Gramsci’s theory of hegemony con-
+       ceives of publics as sites of struggles for cultural leadership (cf. Eley, 1992; Fraser, 1992)
+       and outlines the necessity of consensus-creating structures, a ‘theory of the ideological’
+       (Haug, 1987; Rehmann, 2013: 241ff.) can make it clear that the organisation of the pub-
+       lic sphere can itself be ideological. It shifts the focus towards a critical-structural concep-
+       tion of ideology. Certain directions of communication flows help to make domination
+       prevail and this makes the public sphere ideological on a structural level rather than
+       focusing on specific ideologies, that is, communicative content and styles processed
+       within it. This structural perspective not only allows us to rethink populism as a com-
+       munication phenomenon but also provides for a critical horizon beyond ideology (Section
+       II). To transcend the ideological public sphere, we need a democratic process of power
+       redistribution in society which depends on democratic learning processes in publics that
+       foster the flourishing of communicative competences. Finally, the developed theoretical
+       framework is applied and scrutinised to understand the current digital transformation of
+       the interplay of publics. This changes the ideological flow of communication towards
+       new forms of populist communication, putting public hegemony under constant pressure
+       (Section III). The challenge is to find ways to strengthen popular communications that
+       enable democratic learning processes and the flourishing of communicative competences
+       of all citizens.                                      
+       I Elements of the Theory of the Ideological Public Sphere
+       The conceptual elements of the theory of the ideological public sphere, which parallel
+       the multi-level model of the public sphere, include, first, the people’s common sense –
+       which provides the frame within which experiences in antagonistic social relations can
+       be made and which structures encounter publics; second, the organisation of topic and
+       assembly publics on behalf of antagonistic media; third, the complex and compromise-
+       building mass media; and, fourth, the cultural horizon of the bourgeois public sphere. Let
+       me elaborate.                                         
+        On the first level, the concept of ‘experience’ is helpful to mediate structural condi-
+       tions and subjective activity which consist of passive elements of experiencing and
+       active elements of processing. The reference to experiences allows for considering the
+                                                             
+                                                             
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+      94                              Theory, Culture & Society 39(4)
+                                                             
+      conditions of social structure in public-sphere theory (cf. Negt and Kluge, 1993). In the
+      process of experience, subjective meaning and justification mediate between natural or
+      social conditions and human action. For Gramsci (1971: 326ff., 422f.), the common
+      sense – as a proven, experience-saturated, and secured stock of forms of knowledge,
+      thought and feeling – organises the ‘primary process of experience’. In keeping with the
+      pragmatist ‘principle of continuity’ (cf. Dewey, 1997: 33ff.), it consists of sedimented
+      experiences and represents the background against which new experiences can be made.
+      The elements of everyday understanding are fed from different sources, such as tradi-
+      tional convictions and experiences gathered in one’s own social career, patterns of life
+      forms and ideas resulting from belonging to certain milieus, social groups, or different
+      role expectations, as well as problems and experiences resulting from concrete contexts
+      of action such as the family or at work. In addition, socially widespread interpretations
+      and perceived ‘public opinion’ have an impact on it. Certain public interpretations thus
+      appear plausible or subjectively agreeable, and it can be assumed that they will find
+      greater public resonance if they can tie in with elements of everyday understanding and
+      are able to bring several elements into a ‘coherent’ order. For example, it is possible to
+      reconcile problems in the workplace with traditional knowledge of how to act and family
+      values. On the other hand, it must be possible to disarticulate non-fitting elements and
+      reduce their interpretability. Public spheres are then formed by those whose private
+      capacity for action is experienced as precarious because they are affected by problematic
+      consequences in a particular social situation (cf. Dewey, 1946: 3ff.) and who then try to
+      regain or increase their agency (cf. Holzkamp, 2013: 19ff.). The public sphere thus
+      becomes a problem-solving mechanism for interdependent social relations, in that it
+      makes possible a reflexive distancing, an understanding of a problem or a collective
+      meaning and justification, and the design of problem-solving strategies. The pragmatist
+      theory of the public sphere starts with a constituent problem but leaves its emergence and
+      the relation between the experience of the problem and social structures underexposed.
+        While Dewey situates conflicts only between old publics representing established
+      problem solutions and new problem publics, he assumes relatively homogeneous inter-
+      ests within publics due to the shared constitutive problem reference. Capitalist societies,
+      however, are characterised by social mechanisms – such as classification, subordination,
+      exclusion, accumulation of opportunities, and exploitation – which link the happiness of
+      the strong with the suffering of the weak (Boltanski and Chiapello, 2007: 360ff.). We are
+      dealing with antagonistic social relations between positions in capitalism’s complex
+      division of labour. As an ‘institutionalized social order’ (Fraser and Jaeggi, 2018: 52ff.),
+      capitalism structures subjects’ concerns and agency along intersecting ‘axes of inequal-
+      ity’ such as ‘class’, ‘race’, ‘gender’ (cf. Winker and Degele, 2011). It can be assumed that
+      in such capitalist-antagonistic social structures, problems arise that are interpreted
+      against the background of a contradictory everyday understanding and basic publics are
+      formed as a result. In these publics, experiences of conflict and related problems can
+      be articulated, shared, shaped, or interpreted, and perhaps organised and mobilised
+      (cf. Thompson, 1978: 149f.).                           
+        In the Prison Notebooks, Antonio Gramsci describes how a class – which we might
+      substitute by a group that makes certain experiences within the antagonistic social
+      structure of capitalism – can ‘work their way up’ to hegemony, which means a cultural,
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+       Sevignani                                      95     
+                                                             
+       consensus-based leadership. This cultural leadership, alongside the occupation of the
+       executive and coercive state apparatuses, becomes necessary for a stable relationship of
+       domination in societies with a pronounced civil society. To succeed in hegemonic strug-
+       gles for consent, social movements must connect to people’s everyday understanding by
+       trying to structure it by re-hierarchising existing elements within their common sense
+       (cf. Hall, 2011). Hegemony, as will be argued below, has a similar structure to the famil-
+       iar multi-level model of the public sphere. ‘What is called “public opinion” is tightly
+       connected to political hegemony; in other words, it is the point of contact between “civil
+       society” and “political society”, between consent and force’ (Gramsci, 2011: 213). In
+       their discussion of Gramsci, which leads them to ‘post-Marxism’, Laclau and Mouffe
+       (cf. 2001: 65ff.) criticise that the theory of hegemony presupposes (class) identities in
+       economistic terms and argue that such identifies can only emerge in discourse. I agree
+       with them because political identities (classes) do not automatically follow from experi-
+       ences – these would have to be organised in publics. Unlike Laclau and Mouffe, how-
+       ever, I would like to mediate the distinction between the situation in the social structure
+       that gives rise to experience and the cultural or ideological structures in which experi-
+       ences from a certain situation are interpreted and articulated (cf. Hall, 1980) – in
+       terms of a critical-pragmatist public sphere theory, but not in terms of a post-Marxist
+       discourse theory.                                     
+        Gramsci argues that at the start of becoming hegemonic, a sense of commonality
+       emerges from the problems that arise from a group’s respective position in the production
+       process. We might extend his understanding of a society’s base to a social structure that
+       is divided by multiple but intersected axes of inequality. Gramsci states that from this
+       sense of commonality a ‘solidarity of interests within the existing fundamental struc-
+       tures’ (Gramsci, 1971: 181) may develop. If these material commonalities are organised
+       successfully, specific institutions emerge which I call ‘antagonistic media’. In terms of
+       content and funding, such media clearly take sides within the society’s antagonistic rela-
+       tions and engage in ‘public relations’ for specific interests and organise publics around
+       them. Antagonistic media certainly form basic gatekeeper hierarchies, but they offer
+       their audiences the chance to develop attitudes in a collective context. Among their
+       audiences, understandings and evaluations of social problems become more coherent
+       and capable of generalisation. Financial resources, and cultural, and social capital are
+       unequally distributed among antagonistic media, because these are still ‘organically’
+       linked to positions of power in the social structure. Antagonistic media strategically try
+       to influence ‘public opinion’ in their favour. According to Gramsci (cf. 1971: 5ff.), the
+       linking to and the organisation of common sense is done by ‘intellectuals’ whose role is
+       taken over by scientists, PR specialists, and individual journalists who produce content
+       for the antagonistic media.                           
+        However, to become hegemonic, a group must transcend such ‘corporate limits’
+       (Gramsci, 1971: 181) to reach ‘cultural leadership’. Here, one’s own interests ‘can and
+       must become the interests of other subordinate groups too’ (Gramsci, 1971: 181).
+       Existing power relations can be challenged in this way by forming a political movement
+       that is ‘bringing about not only a unison of economic and political aims, but also intel-
+       lectual and moral unity, posing all the questions around which the struggle rages not on
+       a corporate but on a “universal” plane, and thus creating the hegemony of a fundamental
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+      96                              Theory, Culture & Society 39(4)
+                                                             
+      social group over a series of subordinate groups’ (Gramsci, 1971: 181f.). In this hegem-
+      onic phase, ‘equilibria’ must be continually established ‘in which the interests of the
+      dominant group prevail, but only up to a certain point, i.e. stopping short of narrowly
+      corporate economic interest’ (Gramsci, 1971: 181). From Gramsci’s model of ‘working
+      one’s way up’ to hegemony, the functional distinction can be drawn between ‘organic
+      publics’, which tend to be exclusive, directed towards identity formation, self-assurance,
+      and unification, and ‘traditional publics’, which are directed towards alliances, generali-
+      sation, and appropriating reinterpretations of experience. The degree of ‘organicity’
+      expresses the attachment to a social group and the experiences that are structurally justi-
+      fied for it.                                           
+        On the way to political-cultural leadership, it is necessary for organic publicists to
+      develop generalisable contents, and traditional intellectuals in mass media must be won
+      over by these contents. In this process, media lose their specific antagonistic character on
+      the threshold of becoming a mass medium. In this ascending process, communicative
+      self-socialisation and problem-solving competences are handed over to ‘socially trans-
+      cendent instances’ (Haug, 1987: 61) – and this is, in my opinion, an important extension
+      of Gramsci by ideology theory.                         
+        On the level of mass media, the problems of living together cannot, due to the antago-
+      nistic structure of capitalist societies, be mediated and solved in life-world terms on the
+      lower levels with their antagonistic media. Complex public spheres are largely produced
+      by mass media and shaped by the mediating structures of journalism. Those affected
+      cede their communicative self-socialisation and problem-solving competences to jour-
+      nalists, who, because they ‘hover over things’ in the social division of labour, can pro-
+      vide mediation for the unsolvable life-world problems. Professional rules and a
+      journalistic habitus distinguish the actors in the ideological apparatuses of the media and
+      communication (cf. Althusser, 2014) from the organic journalists and publicists, activists
+      and PR agents in the issue and assembly publics. Mass media and their editorial offices
+      are not neutral terrains but, to make a concept of critical state theory fruitful for the
+      analysis of the ‘density and resilience’ of institutions of the public sphere, a ‘material
+      condensation of power relations’ (cf. Jessop, 2008: 122ff.). Mass media are then compro-
+      mise-building institutions for the antagonistic positions under the dominance of resource-
+      strong forces. This is particularly evident in the criteria of journalistic ‘quality’ and their
+      practical application. Particularly, some interests are, as ‘significant silences’, regularly
+      not represented in mass media discourse. For example, an international comparative
+      study of news coverage following Thomas Piketty’s much-debated book Capital in the
+      21st Century identified the missing awareness that different interest groups are vying for
+      dominance on distributional issues as a key blank space (cf. Rieder and Theine, 2019).
+      Other voices, such as pro-worker positions, are represented in mass media but subordi-
+      nated to pro-employer positions. Narratives such as, that without economic growth and
+      profits, workers’ interests cannot be satisfied (via fiscal redistribution) justify this con-
+      densation, which has a subordinating effect. Critiques of capitalism appear now and then
+      in newspaper sections dedicated to arts and culture, but rarely or never in the business
+      section or in stock-exchange news.                     
+        Finally, the topography of the ideological public sphere includes not only the levels of
+      experiences, antagonistic media, and the ascending and condensing communication
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+       Sevignani                                      97     
+                                                             
+       processes around mass media, but also compromise-forming values such as impartiality,
+       a discourse free of domination, and press ethics. Such values ‘compensatorily place [. . .]
+       the common over the element of division’ (Haug, 1993: 197 as quoted in Rehmann,
+       2013: 258). It is from these values that mass media and the autonomy of the journalistic
+       field legitimise themselves, but in this process the consensus-creating values are also
+       interpreted in an influential way, i.e. in the sense of the aforementioned condensation of
+       power relations. This is reflected in journalistic self-images or a ‘journalistic ideology’
+       (Deuze, 2005) which is committed to the common good, objectivity in reporting, auton-
+       omy, ideas of topicality and relevance, and an ethical orientation and significance of its
+       own journalistic work. Concrete explanations (based on empirical research) of the fre-
+       quently observed discrepancy between such self-images and their relevance for action
+       within concrete journalistic practice can shed light on how institutional condensation
+       processes take place, e.g. through hierarchical decision-making processes in editorial
+       offices. However, the top level of these consensus-creating values forms a cultural reality
+       of its own. Lower levels of the public sphere can refer to it in order to circumvent and
+       challenge the existing institutional compromise structures through an alternative invoca-
+       tion of the common good. Similar to the previously described process of institutional
+       consolidation and compromise formation, an absorption and hegemonic representation
+       of different demands and articulation of interests through values takes place here in the
+       realm of the cultural. This is the level where the post-Marxist discourse theory has its
+       merits within a public sphere theory that does not lose its references to critical theories
+       of capitalism. A particular demand takes on the role of a universal representation order-
+       ing and integrating many demands, thus ensuring the coherence of a system of meaning.
+       In the process, this demand becomes an ‘empty signifier’ (cf. Laclau, 2007: 36ff.) in that
+       it gradually loses its concrete content and its ‘organic’ reference to its origins within
+       social groups and their specific interpretations. The chain of demands thus ordered and
+       unified by an ideological value gains its always unstable unity through the common
+       demarcation of its elements from an outside that negates them. The negated Other is
+       thereby identified with a generalised state of deficiency. Social forces wage cultural bat-
+       tles over the legitimate occupation of values and the compatibility of demands with these
+       values in the ideological public sphere. With the compromise-forming values, however,
+       a further level of the ideological, a ‘heavenly world’, thus rises above the ‘worldly
+       heaven’ (Haug, 1987: 95) of mass media. In my view, the term ‘bourgeois public sphere’
+       (Habermas, 1989: 89ff.) is, admittedly read in a subversive manner, suitable to concep-
+       tualise this element of the ideological public sphere.
+        According to Habermas, the bourgeois public sphere indeed was an ideology, for its
+       establishment was an exclusive class project of the rising bourgeoisie. At the same time,
+       it also entails an ideal or, in hegemony theory terms, an ‘empty signifier’ capable of
+       organising broader social consent. The public sphere was initially limited to the bour-
+       geoisie, but everyone believed they could attain this status, and the idea of the public
+       sphere appealingly promised ‘the dissolution of domination into that easygoing con-
+       straint that prevailed on no other ground than the compelling insight of public opinion’
+       (Habermas, 1989: 88). However, the bourgeois public sphere is characterised by the fact
+       that, as Negt and Kluge critically note to Habermas, in it, ‘the main struggle must be
+       waged against all particularities’ (1993: 10). In it, all socio-economic differences are
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+      98                              Theory, Culture & Society 39(4)
+                                                             
+      abstracted in such ways that both exploited workers and capitalists appear as free and
+      equal private persons. It is thus suitable as a collective term for the compromise-forming
+      communicative values to which the mass media are oriented. It tends to be universal and
+      balanced and can thus ideologically create cohesion in a community that, however, is
+      (intersectionally) fragmented in capitalism. If one engages with it, one simultaneously
+      recognises the legitimacy and equality of other positions, e.g. a trade-union position is
+      seconded by an employer position. The ‘ability to talk abstractly about all situations’
+      (Negt and Kluge, 1993: 48) which can be, for instance, frequently observed in political
+      mass media talk shows with a ‘balanced’ cast, means that the political impulses and
+      experiences that can still have an organising and mobilising effect at the lower levels of
+      the public sphere are defused.                         
+        As long as a relatively distinct civil society exists, the theory of the ideological
+      sphere is not only sensitive to register digital transformations (cf. Section III) but
+      also cultural differences in media systems, e.g. between more polarised-pluralised,
+      democratic-corporatist, or liberal models (cf. Hallin and Mancini, 2014). Mass media,
+      their editorial offices and individual journalistic actors represent the ‘bourgeois public
+      sphere’ only to varying degrees. Thus, public broadcasting in its main formats claim a
+      more adequate representation than mass media with profiled paper lines. The latter also
+      act like antagonistic media in some places. Contrary to the German media system, for
+      example, from the background of the US media system, which saw a ‘rise of new parti-
+      san media’ (Hallin, 2019: 8), such as Fox News or (even more partisan) Breitbart, the
+      autonomy and thus consensus-creating abilities of mass media may seem overrated.
+      However, the suggested theoretical framework states that consensus creation is only one
+      but a necessary element of the greater picture and does not anticipate its relative signifi-
+      cance; rather, it allows us to register differences within the interplay of publics (shifting
+      the focus on empirical research towards information and communication flows, cf. e.g.
+      Gruszczynski and Wagner, 2017; Ognyanova and Monge, 2013: 84f.) and may thus
+      inform a critical strand of critical media system research that compares public spheres
+      cross-culturally on the mentioned four levels.         
+      II Communication Flows within and beyond the Ideological
+      Public Sphere                                          
+      Such a model of the public sphere has the merit of being capable of identifying different
+      ideal-typical flows of public communication and of using them to evaluate the quality of
+      different media systems that organise the interplay of publics. Distinguishing such direc-
+      tions of communication flows within the four-level structural topography may inform
+      social movements’ general strategies of gaining public influence. We can identify:
+        •• First, there is communication that vertically flows from the bottom to the top, that
+          is from common-sense experiences organised through antagonistic media as a
+          mass-media representation of the bourgeois public sphere, and then again back
+          from there to organise the lower levels.           
+        •• Second, there is communication that also flows vertically but bypasses intermedi-
+          aries, such as antagonistic media or mass media, in order to claim the bourgeois
+                                                             
+                                                             
+                                                             
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+       Sevignani                                      99     
+                                                             
+          public sphere directly. This affects changes ‘from above’ within the consensus-
+          creating mass media intermediaries as well as communication flows back from
+          there to the lower levels of the public sphere.    
+        •• Third, communication can also flow horizontally on the lower levels between the
+          level of common sense and organising antagonistic media. Here, the ideological
+          superstructure is taken back gradually.            
+       The first direction of working ‘from the bottom to the top’ of the public sphere has been
+       illustrated in the previous section, where I described the rise of the ideological public
+       sphere as an ascending process that leaves behind the citizens in relative subalternity.
+       However, as we are interested in understanding the public sphere as a dynamic interplay
+       of different publics, there are at least two more directions of communication flows that
+       challenge hegemony. I propose to further differentiate between populist and popular
+       communication flows. Let me elaborate.                
+        The structural theory of the ideological public sphere contributes to our understanding
+       of populism, which is a heavily contested concept and thus open to interpretation.
+       ‘Populism’ is widely used to refer to the politicisation of various social groups, some-
+       times pejoratively, sometimes benevolently. The existence and perception of a crisis of
+       hegemony and representation seem to be the starting point for populist strategies. Such
+       strategies aim at circumventing existing instances of representation and articulate a cri-
+       tique of the elites in a way that is comprehensible to broad social strata. Recently, some
+       authors proposed a new take on populism, casting it as a communication phenomenon
+       (cf. de Vreese et al., 2018; Aalberg et al., 2018; Waisbord, 2018). For instance, Engesser
+       et al. (2017) situate populism within a model of political communication: populist actors
+       (who?) have a political strategy (why?) to influence citizens and thereby use certain
+       populist ideologies (what?) that are presented in a certain populist communication style
+       (how?). While I think it is useful to understand populism as a communication phenom-
+       enon, the theory of the ideological public sphere can complement such an actor- and
+       style-centred view (e.g. anger and indignation are used for mobilisation and frequently
+       these affects are channelled towards a form of charismatic leadership). It does so by its
+       structural focus on the interplay of publics and communication flows and thereby zooms
+       out from the populist activities within publics to the interplay of levels of the public
+       sphere. The proposed new take on populism, understood as a specific direction of com-
+       munication flows ‘from above’, occurs when hegemony, i.e. existing compromise for-
+       mations, come into crisis and have to be renegotiated.
+        The bourgeois public sphere, which is shaped by compromise-forming values such as
+       impartiality, journalistic diligence, and the search for truth, can be called upon by lower
+       levels of the public sphere, bypassing the current mass media representatives to bring
+       about changes in the editorial offices and the compromise balances. This may start from
+       the dominated but also the ruling social groups and their antagonistic media who think
+       they can increasingly do without the compromise formation condensed in the mass
+       media to assert their own interests more straightforwardly. If this happens on a larger
+       scale, the existing hegemonic public order is in crisis. Populism aims to circumvent
+       the ideological elites with the goal of replacing them because it is, on the one hand,
+       an anti-establishment movement but, on the other, does not challenge the fundamental
+                                                             
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+      100                             Theory, Culture & Society 39(4)
+                                                             
+      consensus with the economic and political structure of a society (cf. Priester, 2017: 50).
+      This is, for instance, apparent when right-wingers accuse the press of circulating ‘fake
+      news’. Thereby they refer and seek to redefine values of the bourgeois public sphere,
+      such as diversity, participation, balanced representation, tolerance, and truth. They intend
+      to put mass media under pressure and to shift the balance of compromise condensed in
+      editorial offices. Such populist narrations, although challenging liberalism, are not exclu-
+      sively confrontational but incorporate liberal elements such as ‘popular sovereignty’ or
+      ‘freedom of the press’ in a metaphorically twisted manner (cf. Gadinger, 2019: 142).
+      Epistemological standards of public discussions may be eroded by strategies like these,
+      which have serious effects to be further investigated, but I would propose that they do not
+      necessarily escape the ideological structure of the public sphere. As populist flows are
+      communication ‘from above’ (leaders who speak in the name of the bourgeois public
+      sphere), it is important to understand that this involves only a feeling of directness for the
+      citizens but no direct, multi-directional, and horizontal communication. Thus, the elitist
+      status of some communicators is not challenged.        
+        Stuart Hall (cf. 1980, 2011) has taken pains to qualitatively distinguish populist from
+      popular social movements. In this respect, Hall’s thinking contrasts with Laclau, who
+      refers positively to populism and makes no such distinction (cf. Colpani, 2021). Laclau
+      tends to equate political struggle with populism and then goes on to make a critical dis-
+      tinction between inclusive, open-ended populism, on the one hand, and exclusive pop-
+      ulism that terminates politics, on the other hand (cf. Panizza and Stavrakakis, 2020).
+      Interestingly, from the perspective of maintaining hegemony, the distinction between
+      popular and populist communication is likewise irrelevant because both communication
+      flows, by mobilising against the compromises condensed in the mass media, threaten the
+      hegemonic structure that has been achieved. However, the challenge is in one case lev-
+      elled ‘from above’ (populist communication) and in the second case ‘from below’ (popu-
+      lar communication). Following Hall’s intuition, how can we differentiate between
+      popular and populist communication? The theory of the ideological public sphere pro-
+      vides orientation in this regard by posing two interconnected questions: is the interplay
+      of publics within a society suitable to bring about more equal social relations, and which
+      communicative learning processes contribute to such equal social relations?
+        Antagonistic social relations give rise to the ideological sphere; thus, more equal
+      social relations – that is, altering social relations in favour of the exploited and the
+      oppressed – mitigate the need to transfer the process of problem-solving and reaching
+      consensus on a specialised, socially transcendent, ideological level. This would also
+      change the form of organising experiences through media on the second level of the
+      public sphere. Antagonistic media may then become more ‘agonistic’ (Mouffe, 2002) in
+      this process and part of horizontal political problem-solving. Losing their antagonistic
+      quality would enable some of them to take on the role of mass media, which then, how-
+      ever, are legitimised not through a counter-factual notion of the public sphere but would
+      represent differences between social equals. However, the quality of the process and the
+      strategies of how to approach this are crucial. Some form of public learning that organ-
+      ises the contradictory common sense is necessary, which makes it impossible for the
+      common sense and meaning-making of the people to remain as they currently are. It
+      rather demands intermediaries that organise the common sense and thereby also
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+       Sevignani                                     101     
+                                                             
+       challenge the meaning-making performed by those involved to some extent. It is the
+       quality of such learning processes that is decisive, especially if we assume that commu-
+       nication and some forms of subjective learning are strongly interconnected. Both the
+       (im)possibility and the quality of communicative learning processes within specific pub-
+       lic settings are a problem that certainly needs extensive reflection (cf. e.g. Biesta, 2014).
+       Here, I hope to sketch out how it can be approached from the perspective of the theory
+       of the ideological public sphere. Thereby I might also contribute to sharpening the
+       problem of populism as a communication-flow phenomenon by asking: which learning
+       processes are involved in distinct interplays of publics?
+        The emergence and permanent reproduction of the ideological, that is, the handing-
+       over of communicative competences to social transcendent instances, such as consen-
+       sus-creating mass media, rests on the fundamental need of subjects to gain agency at
+       any given time and social situation. Agency ‘refers to the human capacity to gain, in
+       cooperation with others, control over each individual’s own life conditions’ (Holzkamp,
+       2013: 20). Having said this, the subject can strive for agency in two fundamentally dif-
+       ferent ways: either acting under the existing conditions by accepting limits given by
+       current power relations or expanding agency in cooperation (cf. also Engeström, 2015).
+       As Holzkamp argues, ‘if I attempt to gain some freedom of action within given power
+       relations, in a certain sense I negate this freedom myself, since it is vouchsafed by the
+       particular authorities and can be rescinded at any time. In such a situation, for the sake
+       of short-term security and satisfaction, I violate my general long-term life interest’
+       (2013: 24).                                           
+        The ideological public sphere and its typical ascending and then descending commu-
+       nication flows establish a ‘competence/incompetence structure’ (Haug, 1987: 73) that
+       grants subjects with agency but at the same time secures the conflict-generating condi-
+       tions of antagonistic social relations in capitalism that restrict agency. By giving up com-
+       municative capabilities and by not engaging in learning opportunities that are suitable to
+       make the former flourish, which is a precondition to expand agency cooperatively, sub-
+       jects acquire ‘abilities for subalternity’ (Haug, 2010: 1390) in communication flows
+       ‘from above’. Such restrictive communicative agency allows subjects to be informed in
+       everyday life and thus to have at least partial control over the social contexts that affect
+       their own concerns. However, this goes along with the loss of communicative abilities
+       and learning qualities such as ‘authorship’ instead of only a recipient role (cf. Habermas
+       in Czingon et al., 2020: 32), to check information for truth and accuracy for example, and
+       to express one’s own opinions and feelings. These withering communicative capabilities
+       are, however, needed to cooperatively reconstruct and gain a picture of how society is
+       structured, to understand one’s own position and situation in the social structure, and to
+       organise experiences coherently in communications ‘from below’.
+        By contrast, public discussion could provide the path to generalised communicative
+       agency. In this case, a picture of the social context could emerge through comparison with
+       the opinions and experiences of others. This is, of course, a complex process because,
+       although social conditions and meanings are objectively given, they only become relevant
+       to the subjects’ actions when they become premises for their own justifications for action.
+       The public sphere therefore does not create direct access to understanding social condi-
+       tions. In public exchange, subjects with different justifications for their own actions meet
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+      102                             Theory, Culture & Society 39(4)
+                                                             
+      under given conditions and, on this base, an understanding in the sense of a meta-subjec-
+      tive standpoint can be achieved through the explication of their premises (i.e. the mean-
+      ings of the conditions that are actualised in each case for their own actions). Such a
+      standpoint is eventually possible because people depend on each other and live under
+      connecting social conditions. Public understanding in this sense does not mean consensus;
+      rather, it can also mean the clarification of real opposing interests, but it presupposes that
+      the subjective justification of every action is taken seriously unconditionally, which must
+      not be cut off by switching to an external perspective (cf. Holzkamp, 2013). The path to
+      generalised agency is dependent on communication flows that come ‘from below’, oscil-
+      late on the lower levels, but never reverse this main direction. In principle, communica-
+      tion flows ‘from below’ set certain learning processes in motion, while communication
+      flows ‘from above’ keep people in subalternity.        
+        The short discussion of the (im)possibility and quality of different forms of commu-
+      nicative learning and agency in publics leads us to a clearer understanding of hegem-
+      onic, popular, and populist communication flows. Hegemonic communication flows
+      provide space for an expanded learning of communicative abilities in and between
+      antagonistic media aiming at the empowerment of one social group or class collaborat-
+      ing with other social groups or classes to the extent of third parties. The still preserved
+      antagonistic social relations, however, lead to restrictions in communicative learning at
+      the latest at the point of a group or class becoming the hegemonic force. If hegemony
+      rests on the exclusive representation of the bourgeois public sphere, it is bound to com-
+      municative subalternity not only of those not included in hegemonic mass media but
+      also of those represented but who transferred their communicative competences to
+      media elites.                                          
+        Popular communication flows enable forms of generalised learning of communica-
+      tive abilities between antagonistic media, which then would gradually lose their antago-
+      nistic character. In the end, communicative subalternity is no longer needed to gain
+      agency and all people would be included in the communicative learning process.
+      Popular publics have an epistemic and a praxeological value: they aim to critically
+      understand relations of domination and exploitation. This includes, first, an awareness
+      of one’s own position in (a fragmented) society and that one shares this position with
+      others. Secondly, in popular publics one’s own entanglement in antagonistic social rela-
+      tions can become evident and, based on such insights, they enable evaluative discussion
+      about practices that expand one’s agency in a sustainable way, that is due to the funda-
+      mental sociality of individual agency necessarily in a less antagonistic manner. Popular
+      movements attempt to change the public sphere from the lower levels between common
+      sense and antagonistic media. For this, experiences must be organised in a self-deter-
+      mined way which includes the creation of alternative intermediaries such as clubs, par-
+      ties, associations, etc. and publics organised around them. Their aim is to change social
+      power relations in favour of the dominated and exploited but not to gain a new repre-
+      sentation of the bourgeois public sphere. This is the case with classical hegemonic strat-
+      egies that erect the ideological instead of levelling it. Popular communication is not
+      primarily about invoking ‘imaginary’ polities but about self-empowerment that advances
+      the formation and refinement of the needs and capacities, including the communicative
+      ones, for self-socialisation.                          
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+       Sevignani                                     103     
+                                                             
+        Hegemonic and popular communication entail communicative learning from others
+       who have different opinions and social positions, which render both of them more demo-
+       cratic in this respect. However, the communicative learning involved differs qualita-
+       tively according to ideological effects. In hegemonic projects ascending within the
+       ideological public sphere, people learn, above all, how to identify their own interests and
+       to make compromises and alliances against this backdrop. Agency can be gained by the
+       disadvantaged and may be expanded. However, there is a danger this will ultimately take
+       on a precarious-restrictive form, namely in such a way that there is a risk that the newly
+       gained agency will be withdrawn again. A hegemonic position that has been achieved
+       can be challenged again. Subjects involved in such projects learn to surrender their own
+       communicative competences to others who are acting in the socially transcendent
+       instances of the ideological public sphere. Or, in the case of a journalistic career, they
+       gradually learn, starting from an ‘organic’ communicator, to play the role of a ‘tradi-
+       tional’ communicator in the Gramscian sense. Thus, they develop a habitus that is ori-
+       ented towards a counterfactually imagined common-good situation.
+        Populist communication flows encourage a restricted learning of communicative abil-
+       ities in antagonistic media. These media aim at the empowerment of one social group or
+       class at the cost of other social groups or classes by bracketing mass media’s consensus
+       creation. The preserved antagonistic social relations that depend on communicative sub-
+       alternity restrict the learning process shortly after interests are organised by antagonistic
+       media. Populist communication foregoes popular communicative learning and compro-
+       mise-building learning processes associated with the rise in the institutions of the ideo-
+       logical public sphere. Opinions and social relations among citizens do not have to
+       transform, or, as Cas Mudde puts it: populists ‘do not want to change their values or their
+       “way of life”’ (2004: 546).                           
+        In sum, any anti-ideological movement would require a social learning process that
+       fosters sustainable self-determinacy within popular communication. ‘Popular’ in this
+       sense is not the strategic exploitation but the practical levelling of power relations that
+       makes the populist distinction between the ‘people’ and the (media) ‘elite’ plausible in
+       the first place; it aims at the ‘redistribution [of] political power downward’ (Colpani,
+       2021: 14). For this, however, purely populist communication faces the problem of chal-
+       lenging those inequal social relations which permanently direct communication flows
+       upward into an ideological arrangement and press popular towards hegemonic or popu-
+       list communication flows.                             
+       III The Digital Transformation of the Public Sphere   
+       Following up on the brief remarks in the introduction of this paper, we are now conceptu-
+       ally prepared to ask how the critical multi-level theory of the ideological public sphere can
+       be applied to understand current transformations driven by digital social media in terms
+       of social integration, organisation of experiences, and flows of communication. The rise
+       of digital media eroded the gatekeeper paradigm of the mass media system. However, it
+       was paralleled by a re-intermediation movement through predominantly commercial
+       social media platforms such as Facebook, Twitter, or Weibo. As ‘meta-media’ they now
+       mediate between an extended range of communicators and recipients and offer a platform
+                                                             
+                                                             
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+      104                             Theory, Culture & Society 39(4)
+                                                             
+      to the multitude of antagonistic digital media and the traditional mass media, but also to
+      non-organised individuals. Although players in the public sphere multiplied and some
+      new players gained in importance at the expense of some of the old, the unequally distrib-
+      uted attention in the now so-called ‘long-tail’ digital public sphere prevailed. How does
+      this dis- and re-intermediation of the public sphere affect its ideological quality?
+        On the level of mass media and social integration, the rise of digital media platforms
+      is first and foremost an economic-horizontal, not an ideological-vertical re-intermedia-
+      tion. This weakens the influence of consensus creation traditionally taking place in mass
+      media by exercising their gatekeeping role. Surely, digital platforms organise selection
+      processes and the production of relevance, but this follows a different logic. Here, selec-
+      tion processes aim at specific-individual rather than general-social relevance and audi-
+      ences are constructed as consumers to be satisfied rather than citizens to be informed. In
+      contrast to mass media, commercial social media (currently) do not compromise and
+      condense as socially transcendent ideological instances (cf. Napoli and Caplan, 2017).
+      They do not have editorial offices and do not carry out quality control in the narrower
+      journalistic sense; this may only be the case when forced to do so by laws, e.g. to prevent
+      hate crime and to ban obviously prosecutable content. However, this is still to be politi-
+      cally negotiated and to be further investigated. Newer cases, e.g. Twitter’s suspension of
+      Donald Trump’s account (after he had lost the presidential election), may point in a dif-
+      ferent direction and lead to ‘media capture’ (cf. Nechushtai, 2018) processes through
+      platforms also in terms of ideological functions traditionally fulfilled by the mass media.
+      This should be carefully observed in the future.       
+        Two equally important transformations take place on the levels of antagonistic media
+      and the organisation of experiences and common sense because non-organised individu-
+      als have entered the public sphere via social media. Explicit and implicit algorithmic
+      recommendation processes, that is filtering, sorting, and personalisation according to the
+      individual’s and the platform’s commercial (and perhaps increasingly political) interests,
+      determine communicative contact opportunities (cf. Stark et al., 2021). Within such filter
+      bubbles, individuals, according to their preferences, may come across antagonistic media
+      and mass media, which then may influence their opinion formation and co-organise
+      experiences. Intersecting filter bubbles may lead to group-dynamical opinion-forming
+      processes in personalised information environments, and such echo chambers that may
+      take shape against alternative, contrasting perspectives or entire rival echo chambers.
+      Those are often seen as hostile and thereby fulfil the function of strengthening one’s own
+      position. New and old antagonistic media (and partisan mass media) grow within echo
+      chambers, often at the expense of balancing mass media influence. In addition to this
+      relative gain in importance of antagonistic media in the transformed interplay of publics,
+      there is a second crucial transformation: the networking of private opinions. Social media
+      make it possible for the contradictory common sense to step into the public sphere
+      directly, which also amounts to a quantitative explosion of communicative offers. As
+      private opinions, they express a common sense that is not organised through some form
+      of antagonistic or balancing communicative learning. Even antagonistic and mass media
+      might be networked in this individualistic way, but then they also appear on the platform
+      as and next to private opinions and not as focus points of their own (echo chamber or
+      balanced) publics.                                     
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+       Sevignani                                     105     
+                                                             
+        In this context, a sole focus on digital communication technology and the tendencies
+       of aggregation, potential polarisation, quantitative explosion, and networked individual-
+       ism may be sufficient to explain disintermediation within media systems but is ulti-
+       mately limited to explain the quality of re-intermediation – and thus the digital
+       transformation of the (ideological) public sphere in hybrid media systems. I would argue
+       it is equally important to understand that the commercial character of social media plat-
+       forms sets the main parameters for their socio-technological structuring or ‘curation’
+       (Dolata, 2019) of communicative activity and opportunities on the platforms. Following
+       this assumption, political-economy analyses (e.g. Fuchs, 2014, 2021) suggest that there
+       are strong interdependencies between profit motives of social media platforms and the
+       acceleration, quantitative explosion, and superficiality of communicative activity. Their
+       surveilance-based business models, aiming at personalised, targeted adverstising (cf.
+       Sevignani, 2022), follow supply logics which prioritise communicative stimuli that fit
+       neatly into the user’s collected preferences. Additionally, attention on social media is a
+       commodity (e.g. ‘sponsored stories’ on Facebook), and this favours those with large
+       financial resources in the battle for attention (e.g. dominant political parties and corpora-
+       tions). Existing mass and antagonistic media invest their unequally distributed resources,
+       e.g. attention and money, to extend their reach by social media strategies to accumulate
+       ‘communication power’ (Castells, 2007). Considering the technological foundations as
+       well as the political-economic organisation of the dis- and re-intermediation of the public
+       sphere, we are challenged to make sense of the connecting tendencies of the commodi-
+       fied logic of accumulating attention, aggregation and potential polarisation, quantitative
+       explosion, acceleration, personalisation, and networked individualism. The conceptual
+       tools of the theory of the ideological public sphere may be useful in this context.
+        The commodified logic of accumulating attention reproduces antagonistic social rela-
+       tions by supporting the powerful and disadvantaging the oppressed and exploited. This
+       results in a potentially more extreme inequality between antagonistic media and thus either
+       more unequally distributed chances to reach hegemony and mass media influence or to put
+       populist pressure on them ‘from above’. This is why social media, in their current predomi-
+       nant capitalist form, are not likely to cause a taking back of the ideological public sphere
+       and to unleash popular communication flows. Lowering barriers to engage in the public
+       sphere and thus allowing for a quantitative explosion of communication paired with
+       personalised content, which is social media’s aggregation logic, supports all forms of
+       hegemonic, popular, and populist communication similarly. If polarisation accompanies
+       aggregation, then populist communication flows are more likely triggered than hegem-
+       onic or popular communication flows, as democratic learning from others with distinct
+       opinions is inhibited at the same time. Social media’s acceleration makes it likewise harder
+       to learn and to more likely remain on a superficial level of communicative exchange.
+        In terms of the much-discussed elective affinity between social media and populism
+       (cf. Gerbaudo, 2018), it is true that not all populists use social media in the same way,
+       and one cannot claim that social media simply fosters populist leaders (cf. Moffitt,
+       2018), but it can be argued that social media are backing populist communication flows.
+       Gerbaudo suggests that ‘social media has favoured the rise of populist movements also
+       because of the aggregation logic embedded in its algorithms and the way it can focus
+       the attention of an otherwise dispersed people. Discussion forums on social media have
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+      106                             Theory, Culture & Society 39(4)
+                                                             
+      provided gathering spaces where the “lonely crowds” spawned by the hyperindividual-
+      ism of neoliberal society could coalesce, where the atoms of the dispersed social net-
+      works could be re-forged into a new political community – into an “online crowd” of
+      partisan supporters’ (2018: 750).                      
+        However, surveillance- and advertising-driven personalisation not only contributes to
+      aggregation but also to the opposite effect of networked individualism, which gives rise
+      to a new and not to be underestimated form of digital populist communication. The
+      restricted learning within an antagonistic media environment is further restricted or even
+      interrupted if private opinions are networked without any organisation of experience and
+      common sense through antagonistic media. Not only partisan antagonistic media, which
+      have found a new self-amplifying space of resonance in the social media environment,
+      can now influence public opinion and the shaping of the bourgeois public sphere more
+      directly by circumventing consensus creation in the mass media. Also below the antago-
+      nistic media, the contradictory common sense becomes more publicly visible. Without
+      the intermediation of antagonistic media and the publics they organise, there is a danger
+      that the examination of journalistic quality and truth, as well as meaning-making in gen-
+      eral, will only take place privately. This corresponds to communication in the mode of
+      restrictive agency and a de facto acceptance of antagonistic social relations because an
+      intersubjective process of understanding, with its potentially emancipatory epistemic
+      and praxeological effects, is dispensed with. In this context, Jodi Dean (cf. 2009: 25ff.)
+      argues that such networked individualistic communication is subjectively motivated by
+      the prospect of participating in a potentially global communication context and the hope
+      that one’s own contribution still makes a difference in the large number of all contribu-
+      tions. In a similar vein, Gustafsson and Weinryb discuss the affinity to authority typical
+      of populism. In digital communication, the charismatic leader slips into his own ego and
+      its digitally mediated connective possibilities: ‘I can judge what is important, I can judge
+      what is true, I can judge who and what is wrong, stupid, and bad. I am the superior judge
+      of the faults of our society, and without the wish to coordinate collective action with
+      respect for bureaucratic organisational processes, I can demand change at any price as
+      long as I am cheering others and being cheered in return’ (Gustafsson and Weinryb,
+      2020: 436).                                            
+        To conclude this discussion and the conceptual probing of the theory of the ideologi-
+      cal public sphere, we can state that the relative gain in importance of antagonistic media
+      and networked individuals’ private opinions means that hegemonic flows of communica-
+      tion are weakened and existing hegemony comes under pressure more easily in the
+      hybrid media system. Hegemonic effects originating from attempts to alter the hegem-
+      onic block, without taking the tedious ascending path of consensus creation and even
+      without the social power relations and resource distribution of antagonistic media having
+      to change accordingly, are much easier to achieve. The digital transformation of the pub-
+      lic sphere gave rise to an ‘immediacy regime’ (Werner, 2018) where hegemonic forces
+      must constantly react to attacks launched by antagonistic and networked-individualistic
+      populist communication. Given that we cannot and, seen from a critical-emancipatory,
+      anti-ideological perspective, should not counteract the participatory dimensions of disin-
+      termediation and digital media, the current challenge is to develop theories, politics, and
+      media infrastructures to strengthen popular communication.
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+       Sevignani                                     107     
+                                                             
+       ORCID iD                                              
+       Sebastian Sevignani https://orcid.org/0000-0002-3638-0952
+                                                             
+       References                                            
+       Aalberg, T, Esser, F, and Reinemann, C, et al. (2018) Populist Political Communication in Europe
+         (reprint edition). London: Routledge.               
+       Althusser, L (2014) Ideology and ideological state apparatuses. In: Althusser L, On the Reproduction
+         of Capitalism: Ideology and Ideological State Apparatuses. London: Verso, pp. 232–272.
+       Biesta, G (2014) Learning in public places: Civic learning for the twenty-first century. In: Biesta,
+         G, De Bie, M, and Wildemeersch, D (eds) Civic Learning, Democratic Citizenship and the
+         Public Sphere. Dordrecht: Springer Netherlands, pp. 1–11. DOI: 10.1007/978-94-007-7259-
+         5_1.                                                
+       Bimber, B and Gil de Zúñiga, H (2020) The unedited public sphere. New Media & Society 22(4):
+         700–715. DOI: 10.1177/1461444819893980.             
+       Boltanski, L and Chiapello, E (2007) The New Spirit of Capitalism. London: Verso.
+       Bourdieu, P (1999) On Television. New York: The New Press.
+       Castells, M (2007) Communication, power and counter-power in the network society. International
+         Journal of Communication 1(1): 238–266.             
+       Chadwick, A (2017) The Hybrid Media System: Politics and Power, 2nd edition. New York:
+         Oxford University Press.                            
+       Colpani, G (2021) Two theories of hegemony: Stuart Hall and Ernesto Laclau in conversation.
+         Political Theory. DOI: 10.1177/00905917211019392.   
+       Czingon, C, Diefenbach, A, and Kempf, V (2020) Moral universalism at a time of political regres-
+         sion: A conversation with Jürgen Habermas about the present and his life’s work. Theory,
+         Culture & Society 37(7–8): 11–36.                   
+       De Vreese, CH, Esser, F, and Aalberg, T, et al. (2018) Populism as an expression of political com-
+         munication content and style: A new perspective. The International Journal of Press/Politics
+         23(4): 423–438. DOI: 10.1177/1940161218790035.      
+       Dean, J (2009) Democracy and Other Neoliberal Fantasies: Communicative Capitalism and Left
+         Politics. Durham: Duke University Press.            
+       Deuze, M (2005) What is journalism?: Professional identity and ideology of journalists reconsid-
+         ered. Journalism 6(4): 442–464.                     
+       Dewey, J (1946) The Public and Its Problems: An Essay in Political Inquiry. Chicago, IL: Gateway
+         Press.                                              
+       Dewey, J (1997) Experience and Education. New York: Free Press.
+       Dolata, U (2019) Privatization, curation, commodification. Österreichische Zeitschrift Für
+         Soziologie 44(1): 181–97. DOI: 10.1007/s11614-019-00353-4.
+       Eley, G (1992) Nations, publics, and political cultures: Placing Habermas in the nineteenth cen-
+         tury. In: Calhoun, C (ed.) Habermas and the Public Sphere. Cambridge, MA: MIT Press,
+         pp. 289–339.                                        
+       Engesser, S, Fawzi, N, and Larsson, AO (2017) Populist online communication: Introduction to
+         the special issue. Information, Communication & Society 20(9): 1279–1292. DOI: 10.1080
+         /1369118X.2017.1328525.                             
+       Engeström, Y (2015) Learning by Expanding. Cambridge: Cambridge University Press.
+       Fraser, N (1992) Rethinking the public sphere: A contribution to the critique of actually existing
+         democracy. In: Calhoun, C (ed.) Habermas and the Public Sphere. Cambridge, MA: MIT
+         Press, pp. 109–142.                                 
+       Fraser, N and Jaeggi, R (2018) Capitalism: A Conversation in Critical Theory. Cambridge: Polity.
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+      108                             Theory, Culture & Society 39(4)
+                                                             
+      Fuchs, C (2014) Social media and the public sphere. tripleC: Communication, Capitalism &
+        Critique. Open Access Journal for a Global Sustainable Information Society 12(1): 57–101.
+      Fuchs, C (2021) Social Media: A Critical Introduction, 3rd ed. Los Angeles: SAGE.
+      Gadinger, F (2019) Lügenpresse, gesunder Volkskörper, tatkräftiger Macher: Erzählformen des
+        Populismus. In: Müller, M, and Precht, J (eds) Narrative des Populismus: Erzählmuster und
+        -strukturen populistischer Politik. Wiesbaden: Springer, pp. 115–146.
+      Gerbaudo, P (2018) Social media and populism: An elective affinity? Media, Culture & Society
+        40(5): 745–53. DOI: 10.1177/0163443718772192.        
+      Gerhards, J and Neidhart, F (1990) Strukturen und Funktionen Moderner Öffentlichkeit.
+        Fragestellungen und Ansätze. Berlin: Wissenschaftszentrum Berlin.
+      Gramsci, A (1971) Selections from the Prison Notebooks. New York: International Publishers Co.
+      Gramsci, A (2011) Prison Notebooks, Volume 3. New York: Columbia University Press.
+      Gruszczynski, M and Wagner, MW (2017) Information flow in the 21st century: The dynamics
+        of agenda-uptake. Mass Communication and Society 20(3): 378–402. DOI: 10.1080/
+        15205436.2016.1255757.                               
+      Gustafsson, N and Weinryb, N (2020) The populist allure of social media activism: Individualized
+        charismatic authority. Organization 27(3): 431–440.  
+      Habermas, J (1989) The Structural Transformation of the Public Sphere: An Inquiry into a
+        Category of Bourgeois Society. Cambridge, MA: MIT Press.
+      Habermas, J (1996) Between Facts and Norms: Contributions to a Discourse Theory of Law and
+        Democracy. Cambridge, MA: MIT Press.                 
+      Habermas, J (2001) Reflections on communicative pathology. In: Habermas J, On the Pragmatics
+        of Social Interaction: Preliminary Studies in the Theory of Communicative Action. Cambridge,
+        MA: MIT Press, pp. 129–170.                          
+      Hall, S (1980) Popular-democratic vs authoritarian populism: Two ways of taking democracy
+        seriously. In: Hunt, A (ed.) Marxism and Democracy. London: Lawrence and Wishart,
+        pp. 157–185.                                         
+      Hall, S (2011) The neo-liberal revolution. Cultural Studies 25(6): 705–728.
+      Hallin, DC (2019) Mediatisation, neoliberalism and populisms: The case of Trump. Contemporary
+        Social Science 14(1): 14–25. DOI: 10.1080/21582041.2018.1426404.
+      Hallin, DC and Mancini, P (2014) Comparing Media Systems: Three Models of Media and Politics.
+        Cambridge: Cambridge University Press.               
+      Haug, WF (1987) Commodity Aesthetics, Ideology and Culture. New York: International General.
+      Haug, WF (1993) Elemente einer Theorie des Ideologischen. Berlin: Argument.
+      Haug, WF (2010) Kompetenz/Inkompetenz. Historisch-Kritisches Wörterbuch des Marxismus
+        (HKWM). Berlin: Argument.                            
+      Herman, ES and Chomsky, N (2006) A propaganda model. In: Durham, MG, and Kellner, DM
+        (eds) Media and Cultural Studies: Keyworks. Malden, MA: Blackwell, pp. 257–294.
+      Holzkamp, K (2013) Psychology from the Standpoint of the Subject: Selected Writings of Klaus
+        Holzkamp. Basingstoke: Palgrave Macmillan.           
+      Jessop, B (2008) State Power: A Strategic-Relational Approach. London: Polity.
+      Laclau, E (2007) Emancipation(s). London: Verso.       
+      Laclau, E and Mouffe, C (2001) Hegemony and Socialist Strategy: Towards A Radical Democratic
+        Politics. London: Verso.                             
+      Moffitt, B (2018) Populism 2.0: Social media and the false allure of ‘unmediated’ representation.
+        In: Fitzi, G, Mackert, J, and Turner, BS (eds) Populism and the Crisis of Democracy. London:
+        Routledge.                                           
+      Mouffe, C (2002) Which public sphere for a democratic society? Theoria: A Journal of Social and
+        Political Theory 99: 55–65.                          
+
+[PAGE 19]
+                                                             
+                                                             
+                                                             
+       Sevignani                                     109     
+                                                             
+       Mouffe, C (2005) On the Political. London: Routledge. 
+       Mudde, C (2004) The populist zeitgeist. Government and Opposition 39(4): 541–563.
+       Napoli, P and Caplan, R (2017) Why media companies insist they’re not media companies, why
+         they’re wrong, and why it matters. First Monday 22(5). DOI: 10.5210/fm.v22i5.7051.
+       Nechushtai, E (2018) Could digital platforms capture the media through infrastructure? Journalism
+         19(8): 1043–1058. DOI: 10.1177/1464884917725163.    
+       Negt, O and Kluge, A (1993) Public Sphere and Experience: Toward an Analysis of the Bourgeois
+         and Proletarian Public Sphere. Minneapolis, MN: University of Minnesota Press.
+       Ognyanova, K and Monge, P (2013) A multitheoretical, multilevel, multidimensional network
+         model of the media system: Production, content, and audiences. Annals of the International
+         Communication Association 37(1): 67–93. DOI: 10.1080/23808985.2013.11679146.
+       Panizza, F and Stavrakakis, Y (2020) Populism, hegemony, and the political construction of ‘the
+         people’: A discursive approach. In: Ostiguy, P, Panizza, F, and Moffitt, B. (eds) Populism in
+         Global Perspective. London: Routledge.              
+       Priester, K (2017) Linkspopulismus – die andere Seite der populistischen Medaille.
+         Forschungsjournal Soziale Bewegungen 30(2): 50–59.  
+       Rehmann, J (2013) Theories of Ideology: The Powers of Alienation and Subjection. Leiden: Brill.
+       Rieder, M and Theine, H (2019) ‘Piketty is a genius, but . . .’: An analysis of journalistic delegiti-
+         mation of Thomas Piketty’s economic policy proposals. Critical Discourse Studies 16(3):
+         248–263.                                            
+       Sevignani, S (2022) Digital labour and prosumption under capitalism. In: Butollo, F, and Nuss, S
+         (eds) Marx and the Robots: Networked Production, AI, and Human Labour. London: Pluto.
+       Stark, B, Magin, M, and Jürgens, P (2021) Maßlos überschätzt. Ein Überblick über theoretische
+         Annahmen und empirische Befunde zu Filterblasen und Echokammern. In: Eisenegger,
+         M, Prinzing, M, and Ettinger, P, et al. (eds) Digitaler Strukturwandel der Öffentlichkeit:
+         Historische Verortung, Modelle und Konsequenzen. Mediensymposium. VS Verlag für
+         Sozialwissenschaften, pp. 303–321. DOI: 10.1007/978-3-658-32133-8.
+       Thompson, EP (1978) Eighteenth-century English society: Class struggle without class? Social
+         History 3(2): 133–165.                              
+       Waisbord, S (2018) Populism as media and communication phenomenon. In: De la Torre, C (ed.)
+         Routledge Handbook of Global Populism. London: Routledge.
+       Werner, A (2018) Im Bann der Unmittelbarkeit. Über Rechtspopulismus, digitale Öffentlichkeiten
+         und Hegemonieeffekte. Das Argument. Zeitschrift für Philosophie und Sozialwissenschaften
+         60(4): 528–543.                                     
+       Winker, G and Degele, N (2011) Intersectionality as multi-level analysis: Dealing with social
+         inequality. European Journal of Women’s Studies 18(1): 51–66.
+       Zuboff, S (2019) The Age of Surveillance Capitalism: The Fight for a Human Future at the New
+         Frontier of Power. New York: Public Affairs.        
+       Sebastian Sevignani works at the Institute of Sociology, Friedrich Schiller University Jena,
+       Germany. His main research areas are: the structural transformation of the public sphere and
+       privacy, cultural and political economy of media and communication, digital capitalism, sociol-
+       ogy of (intellectual) property, materialist media and communication theory, and a critical theory
+       of (informational) needs.                             
+       This article is part of the Theory, Culture & Society special issue on ‘A New
+       Structural Transformation of the Public Sphere?’, edited by Martin Seeliger and
+       Sebastian Sevignani.                                  

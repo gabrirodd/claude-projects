@@ -1,0 +1,1101 @@
+[PAGE 1]
+                                                             
+                                                             
+                                                             
+                                                             
+        SpecialIssue:ThinkingwithAlgorithms:CognitionandComputationintheWorkofN.KatherineHayles
+                                            Theory,Culture&Society
+                                              2019,Vol.36(2)17–37
+        Algorithmic                                          
+                                              !TheAuthor(s)2019
+                                             Articlereuseguidelines:
+        Personalization   as  a                              
+                                         sagepub.com/journals-permissions
+                                         DOI:10.1177/0263276418818888
+        Mode   of Individuation            journals.sagepub.com/home/tcs
+        Celia Lury                                           
+        Warwick University                                   
+        Sophie Day                                           
+        Goldsmiths, Universityof London                      
+                                                             
+        Abstract                                             
+        Recognizing that manyof the modern categories with which we think about people
+        and their activities were put in place through the use of numbers, we ask how
+        numbering practices compose contemporary sociality. Focusing on particular
+        formsofalgorithmicpersonalization,wedescribeapathwayofa-typicalindividuation
+        in which repeated and recursive tracking is used to create partial orders in which
+        individualsarealwaysmoreandlessthanone.Algorithmicpersonalizationdescribes
+        amodeofnumberingthatinvolvesformsofde-andre-aggregating,inwhichavariety
+        ofcontextsarecontinuallyincludedandexcluded.Thispathwayofa-typicalindividu-
+        ation is important, we suggest, to a variety of domains and, more broadly, to an
+        understandingofcontemporaryeconomiesofsharingwherethepoliticsofcollectiv-
+        ities, ownership and use are being reconfigured as a default social.
+        Keywords                                             
+        algorithm, individuation, numbering, optimization, pathway, personalization
+                                                             
+                                                             
+                                                             
+                                                             
+         The less the determinism, the more the possibilities for constraint.
+         (Hacking, 1991: 194)                                
+                                                             
+        This is the age of personalization. Personalizing practices permeate
+        everyday life in the UK – we are invited to participate in personalized
+        medical, health and care services, to benefit from personalized customer
+        experiences, to find our way with personalized maps, acquire a persona-
+        lized education, keep up-to-date with personalized news, get a bargain
+                                                             
+        Correspondingauthor:CeliaLury.Email:c.lury@warwick.ac.uk
+        Extramaterial:http://theoryculturesociety.org/       
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+      18                            Theory, Culture & Society 36(2)
+                                                             
+      with personalized prices and so on.1 To give some more concrete exam-
+      ples: in 2007 the UK government published Putting People First: A
+      Shared Vision and Commitment to Finding New Ways to Improve Social
+      Care in England.2 The pamphlet outlined the government’s intention to
+      transform adult social care so ‘that every person who receives support,
+      whetherprovidedbystatutoryservicesorfundedbythemselves,willhave
+      choice and control over the shape of that support in all care settings’.
+      This ‘vision’ describes itself as a totally different approach to an historic
+      ‘onesizefitsall’system.Withaninitialfocusontransformingsocialcare
+      and support services, the pamphlet proposes that principles of personal-
+      ization be embedded in a range of other service areas such as health and
+      education. An example from the field of health and well-being is
+      PatientsLikeMe,3 a website that combines features of traditional quali-
+      tative online patient communities with quantitative data-collection; the
+      (trade-marked) strap-line is ‘Live better, together!’ This website has
+      300,000members,who‘share’over23,000diseases,andhavecontributed
+      over25milliondatapointsabouttheirdiseases,resultinginover50pub-
+      lished research studies. The website says:             
+        By sharing health data on PatientsLikeMe, people not only help
+        themselves, but help others who can learn from their experiences,
+        and advance research.... Learn from others, connect with people
+        like you, track your health.                         
+      Theplatformisalsodescribedasatoolthathelpspatientsfinda‘just-in-
+      time’,‘someone-like-me’peerwhocanbereliedupontocompareoptions
+      and aid decision-making. A final example of personalization is the rec-
+      ommendation service Stitch Fix,4 a website that describes itself as ‘Your
+      partnerinstyle’andwhichseekstorecommend clothingforwomenona
+      personal basis. The business proposition is that the recommendation
+      service – a composite of algorithmic and human reasoning – knows
+      better than the customer herself what clothes she will like: selected
+      items of clothing are sent directly to her, without a preview, as otherwise
+      her prejudices might prevent her from choosing items that she, unknow-
+      ingly, will really like.                               
+        Thequestionthisarticleseekstoaddressis:whatkindofindividuation
+      (Foucault, 2001; Simondon, 1992) is personalization? We ask this ques-
+      tion in order to explore the implications of personalization for how we
+      livetogether,thatis,forformsofsociality.Westartfromtheassumption
+      that personalization is not only personal: it is never about only one
+      person, just me or just you, but always involves generalization. Indeed,
+      our argument will be that it is a mode of individuation in which entities
+      are precisely specified by way of recursive inclusion in types or classes as
+      partofthemakingofwhatwedescribeasana-typicalpathway.Tomake
+      this argument, we explore the use of recommendation algorithms to sort
+                                                             
+                                                             
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+        Lury and Day                                 19      
+                                                             
+        or classify people, analysing the way in which individuals are addressed
+        as ‘a you’, while their membership of types or classes of person is per-
+        petually revised. Our conclusion is that the familiar recognition that
+        personalizationseemstoprovide–knowingyoubetterthanyouyourself
+        do – should not be considered as merely a more precise form of indi-
+        viduation.Tothecontrary,personalizationalsoconstrainswhoandhow
+        we can be.                                           
+         Recognizing that many of the modern categories with which we think
+        about people and their activities were put in place through the use of
+        numbers (Hacking, 1991), we develop our analysis of algorithmic per-
+        sonalization by drawing on an understanding of number as composition
+        (Day et al., 2014). This approach starts from the assumption that num-
+        bering is everywhere (Hayles, 2014), even though numbers may not
+        always be visible. As such, it seeks to situate contemporary analyses of
+        algorithmswithinthewidercontextofculturesofnumbering.AsBadiou
+        (2008) remarks, ‘A ‘‘cultural fact’’ is a numerical fact. And, conversely,
+        whatever produces number can be culturally located; that which has
+        no number shall have no name either’ (Badiou, 2008: 2–3). In a similar
+        vein, Totaro and Ninno (2014) also comment on the pervasiveness of
+        numbering, but focus specifically on the performativity of the recursive
+        function, which, they argue, provides ‘an interpretive key to modern
+        rationality’:                                        
+         Thenotionthatthe‘logicofnumbers’operatesexclusively onnum-
+         bers is misleading. In the second half of the last century, the theory
+         of recursive functions has made it clear that the concept of calcu-
+         lation is very general and does not necessarily imply the manipula-
+         tion of numerical symbols. (2014: 2; see also Neyland, 2014; Totaro
+         and Ninno, 2016)                                    
+        Morecircumspectly,Heintznotesthat‘theobservationandregulationof
+        performances today has become mutual and reflexive, generalised and
+        anonymous, and it is now increasingly based on observations and com-
+        parisons in terms of numbers’ (Heintz and Vollmer, 2011: 22).
+         Our compositional approach acknowledges the pervasiveness of num-
+        bering in contemporary society by looking at what numbering does,
+        rather than what numbering is. Adopting a felicitous analogy from
+        Verran, we think of numbers in the same way as anthropologists do
+        kin: numbers both are and have relations, just as people are and have
+        relations (Verran, 2010: 171; see also Mackenzie, 2014; Urton, 1997). In
+        other words, we propose that it is as working relations that numbers are
+        abletoperform:totravel, tomakepossiblecomparison, conversion,and
+        exchange, to be stored, to inform, and to make the same or different. By
+        looking at how numbers are composed or formed in relations, and how
+        social and cultural practices are formed (in part) by number, we aim to
+                                                             
+                                                             
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+      20                            Theory, Culture & Society 36(2)
+                                                             
+      showhownumbering isare-presentation –in thiscase,of persons –that
+      always holds more than one presentation.               
+        To understand how it is that we have become habituated to declaring,
+      measuringandsharingourpersonalcharacteristics,behavioursandopin-
+      ions in the UK in order to carry out mundane activities, we begin by
+      situating our analysis in the context of what has been called a ‘like econ-
+      omy’(GerlitzandHelmond,2013).Thiscontextisimportant,wesuggest,
+      insofar as it makes relational value available for computational calcula-
+      tion. Drawing on our compositional approach to numbering, we then
+      develop a set of terms – tracking, bordering, folding and pausing – that
+      lead us to describe forms of personalization that are performed by rec-
+      ommendation algorithms as the making of a pathway of a-typical indi-
+      viduation. Critically, this pathway creates ‘a’ person or individual that is
+      always provisional and corresponds only partially with the type or cat-
+      egory in which it is included, whether this concerns what a person might
+      buy,like,shareorpossess.Theterm‘pathway’isintendedtocapturethis
+      category of person, a category that is never static but always changing
+      and always in motion. While our analytic focus is on the example of
+      algorithmic personalization, and in particular algorithmic personaliza-
+      tionthatinvolves theuseofcollaborative filters,wealso makereferences
+      to other examples which share the same logic.          
+      Liking and Likeness                                    
+                                                             
+      Theriseofa‘likeeconomy’begins,soGerlitzandHelmond(2013)argue,
+      with the arrival of Google in the late 1990s. It is widely known that
+      Google’s early success stemmed from its use of a search engine that
+      shifted the value determination of websites from hits alone to hits and
+      links. The hyperlink analysis algorithm, PageRank, enabled calculation
+      of the relative importance and ranking of a page within a larger set of
+      pages, based on the number of in-links to the page and, recursively, the
+      value of the pages linking to that page and so on. All links do not have
+      equal value in this type of search engine, as links from authoritative
+      sources or links from sources receiving many in-links are weighted in
+      the algorithm.                                         
+        The use of weighted measures of linking was a first step towards
+      inscribing the capacity to identify and intensify ‘relational value’ in
+      search engine algorithms (Gerlitz and Helmond, 2013; see also Feuz
+      et al., 2011). And it is this relational value, we propose, that is central
+      to personalization insofar as it makes relations between people available
+      for computational calculation. Since this first step, the capacity to make
+      relations of linking – or sharing – has been significantly extended as the
+      determination of ‘authority’ has changed in line with the participatory
+      features of Web 2.0. More web users now participate in making
+      connections between websites through the creation and exchange of
+                                                             
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+        Lury and Day                                 21      
+                                                             
+        user-generated content (as well as gaming and the purchase of position).
+        In particular, social buttons allow users to share, recommend, like or
+        bookmark content, posts and pages across various social media plat-
+        forms. In 2006, Facebook launched a share icon as a way for someone
+        to share web content and invite re-sharing and then, in 2009, it intro-
+        duced the Like button. In 2010, the company extended the capacities of
+        the Like button to link by introducing an external Like button, a plugin
+        that could be implemented by any webmaster, potentially rendering all
+        web content like-able. Significantly, the external ‘Like’ button not only
+        captures actual likes, but also aggregates all activities performed on a
+        web object: the number of likes and shares, further likes and comments
+        on stories, and the number of inbox messages containing the object as
+        an attachment. In another important development, Facebook’s Open
+        Graph Protocol opened up their social graph – a representation of
+        people and their connections – for external content, allowing for a con-
+        trolled way of exchanging preformatted data between Facebook and the
+        external web.                                        
+         It is through the use of these and other techniques, so Gerlitz and
+        Helmond argue, that Facebook has been able to build a ‘like economy’,
+        thatis,aneconomythatbuildsonandexploitsrelationalvalue,mediated
+        by participation. They further suggest that this economy produces what,
+        using Mark Zuckerberg’s own phrase, they call ‘the default social’. To
+        this analysis we want to add the observation that the relations between
+        the individual and the population that characterize this new social are
+        both participatory and participative in that users may participate know-
+        ingly (participatory) or unknowingly (participative). Moreover, partici-
+        pation in the default social is mediated by techniques of exclusive
+        inclusion and inclusive exclusion (Agamben, 1998).5 On the one hand,
+        the Open Graph is able to include non-users of Facebook as the external
+        Like button cookie can trace non-users and add any information gained
+        as anonymous data to the Facebook database and, on the other hand, a
+        user’sexplicitlyinvitedactivitiesmaybeexcludedorrenderedinvisibleto
+        otherusersiftheyarenotsufficientlyhighlyrankedinthedimensionsthe
+        graph provides. These oscillating dynamics – of being excluded in ways
+        thatinformtheorderingofthoseincluded,andbeingincludedbutnotin
+        ways that allow you to understand the terms of your membership – were
+        intensified further in 2011 when Facebook expanded the possibilities of
+        ‘invisible’ participation by proliferating custom actions:
+         Whencreatinganapp,developersarepromptedtodefineverbsthat
+         are shown as user actions and to specify the object on which these
+         actions can be performed. Instead of being confined to ‘like’ exter-
+         nal web content, users can now ‘read’, ‘watch’, ‘discuss’ or perform
+         other actions. (Gerlitz and Helmond, 2013: 1353)    
+                                                             
+                                                             
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+      22                            Theory, Culture & Society 36(2)
+                                                             
+      GerlitzandHelmondconcludetheiranalysisoftheemergenceofthelike
+      economy by suggesting that Facebook is being developed as an ‘infra-
+      structure of decentralised data production and recentralised data pro-
+      cessing’ (2013: 1357). While they do not discuss the role of
+      recommendation systems within this infrastructure, these have become
+      increasingly important operators of the de- and re-centralizing practices
+      of the economy Gerlitz and Helmond describe. Structured by the
+      ‘participatory’ practices of inclusive exclusion and exclusive inclusion,
+      recommendation algorithms penetrate all corners of the internet,
+      makingpersonalizedrecommendations–directlyandindirectly–toindi-
+      vidualswithinterestsinavarietyoffields,includingmovies,music,news,
+      books, research publications, restaurants, jokes, financial services, prod-
+      ucts of all sorts and persons (for example, in online dating). It is to these
+      algorithms that we now turn.                           
+                                                             
+      Recommendation Algorithms                              
+      While very many different kinds of algorithms are used in recommenda-
+      tion systems, two main kinds are distinguished: collaborative filtering
+      algorithms and content sharing algorithms. Sometimes, as in Netflix,
+      they are combined. The former group of algorithms is based on large
+      amountsof digital dataonusers’ behaviour,activities orpreferences and
+      leads to predictions of what users will like based on their similarity to
+      others (see further below). An example is Last.fm,6 a music ‘station’ or
+      streaming service that personalizes the music it transmits by observing
+      the music an individual has listened to on a regular basis and comparing
+      those tracks with the listening behaviour of other individuals. The cal-
+      culative process involved in this group of algorithms is sometimes
+      described as ‘leveraging’ the behaviour of users7 since it requires the
+      participation of many users to produce personalized recommendations
+      for one person.8 Content-based filtering methods, in contrast, are based
+      on a description of an item in terms of discrete characteristics; the algo-
+      rithm is then designed to produce recommendations for individual users
+      of items that have similar properties to those that the individual liked in
+      the past (or is examining in the present). Pandora Internet Radio
+      (currently restricted to listeners in the USA, Australia and New
+      Zealand because of licensing restrictions) is an example: it makes use
+      of an algorithm that uses properties of a song or artists (a subset of
+      the 450 attributes provided by the Music Genome Project) in order to
+      seed a station to transmit personalized music (Prey, 2017).
+        We focus on collaborative filtering algorithms, partly because their
+      ability to make successful predictions across fields is held to be stronger
+      than that of content-based algorithms, but also because they require and
+      exploit ‘participatory’ methods to develop novel classificatory tech-
+      niques. As such, they allow us to identify distinctive aspects of
+                                                             
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+        Lury and Day                                 23      
+                                                             
+        personalization as a mode of individuation. Crucially for the use of such
+        algorithms, information relating to ‘pre-existing’ or demographic quali-
+        ties of the person or entity concerned is not required to produce perso-
+        nalized recommendations. Instead the information required is produced
+        through the aggregation of the ongoing participation of both the indi-
+        vidualto whomtherecommendations aremade and other usersof social
+        media. Rather than allocating users to a pre-existing class, group or type
+        (typically a socio-demographic stratum), the properties of which are pre-
+        sumed to be known in advance, the operations of collaborative filtering
+        start from the premise that (individual) customers who share (that is,
+        have in common) some preferences will also share others. This single
+        but powerful assumption is of value for those developing algorithms in
+        that ‘the only information [they need] to work is a set of numerical
+        ratings – specific information about users or items to be recommended
+        is not necessary’ (Seaver, 2012).                    
+         It is worth exploring how these numerical ratings are turned into
+        personalized recommendations in some detail. A helpful analysis is pro-
+        vided by Seaver (2012), who describes the ‘signature action’ of collab-
+        orativefilteringalgorithmsintermsoftheoperationofagrid,withitems
+        along one side, users along the other, and numerical ratings at their
+        intersections (see also Bowker, 2014; http://personalisedcommunica-
+        tion.net/the-project/). Significantly, this grid is a matrix, that is, a
+        grid with the formatted capacity to map (or perform) network
+        transformations:                                     
+         This matrix is mostly empty (or ‘sparse’), since most users will have
+         not rated most items. The work of the collaborative filtering algo-
+         rithm ... is to predict what values will show up in the empty spaces
+         of the matrix. These predictions are then provided in some form to
+         the user as recommendations. (Seaver, 2012)         
+        Seaver continues:                                    
+                                                             
+         At any given time, the matrix is in an anticipatory flux: new ratings
+         from users arrive constantly, displacing their predicted values and
+         shifting the others. The calculative operations involved in this in-
+         filling process is the signature action within the matrix – blank
+         values are replaced by predictions, which are then replaced by
+         actual ratings.9                                    
+        In the next stage described by Seaver, the numbers from the matrix are
+        statisticallyanalysedandtheirvarianceismappedtoanumberofdimen-
+        sions or axes. Users who are ‘near’ each other on this multi-dimensional
+        coordinate system are held to be similar (like each other), and a user will
+        be recommended items from the neighbourhood around them. It is this
+                                                             
+                                                             
+                                                             
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+      24                            Theory, Culture & Society 36(2)
+                                                             
+      calculative activity that leads to the paradigmatic claim of such algo-
+      rithms to specify the individual in the complex conjugated personalized
+      address: ‘People like you like things like this.’      
+        But how, if at all, does this description of the calculative logic in rec-
+      ommendation algorithms help us understand what is distinctive about
+      personalization as a mode of individuation? Seaver concludes that pref-
+      erenceandsimilarityarecollapsedinthiscalculativesystemsince‘liking’
+      and ‘being like’ are equated. We consider that an understanding of the
+      compositionoftheserelationswillhelpusseehownumbersarerendered
+      consequential for the making up of persons (Hacking, 1991). How is this
+      equation accomplished or, in our terms, composed? If we are to address
+      the specificity of personalization as a mode of individuation we need to
+      see the particular ways in which numbers both are and have relations.
+                                                             
+      Pathways of A-typical Individuation                    
+      Seaver’s claim about the equivalence between liking and likeness in
+      recommendation algorithms is less critical to our argument than his
+      observation that this calculative matrix is in a constant state of anticipa-
+      tory flux. Indeed, we propose that the emphasis on perpetual renewal
+      means that the equation of ‘liking’ and ‘being like’ that is accomplished
+      by these recommendation algorithms is not about establishing relations
+      of absolute equivalence. Instead, we suggest, the calculative activity that
+      producestheanticipatoryfluxofthematrixinvolvesanongoingseriesof
+      approximations in which ‘being like’ and ‘liking’ are continually made
+      more and less like each other in a variety of ways. Such approximations,
+      we would emphasize, are designed to be subject to constant testing.
+        As Seaver points out, such approximations vary hugely depending on
+      the calculative space in which they are produced (3 or 9 axes or dimen-
+      sions, for example). Their value – that is, their ability to produce perso-
+      nalized recommendations in terms of criteria of accuracy, diversity
+      (of recommendations), privacy protection and trust – is realized as
+      theyaretestedrepeatedlyinrelationtodatacollectedviaawholevariety
+      of participatory methods and metrics as part of what have been called
+      experiments in participation (Lezaun et al., 2016). In other words, the
+      personalized address to ‘a you’ is not achieved through the collapse of
+      liking and likeness, preference and similarity, but through a carefully
+      calibrated sequencing of their possible inter-relationship. Crucially, this
+      process not only involves the statistical making of proximity or nearness
+      butalsotheturning ofnear-nessintonext-ness, aprocessofbordering or
+      adjoining. We conclude therefore that personalization is not the collapse
+      of liking and likeness but the making of a pathway, a dynamic series of
+      approximations of similarity and preference that makes persons.
+        Indeed,thispathwaycanbedescribedasamodeofa-typicalindividu-
+      ation. What do we mean, though, in our use of a-typical? Certainly it
+                                                             
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+        Lury and Day                                 25      
+                                                             
+        might seem counter-intuitive to use the term at all if it is understood to
+        mean ‘not typical’ or ‘not of a type’, since we have argued throughout
+        that personalization is a mode of individuation that involves generaliza-
+        tionthroughthe(repeatedorrecursive)inclusionofanentityinatypeor
+        class. The term ‘a-typical’ is thus used to describe a mode of recursive
+        inclusion, in which both the individual and the type are repeatedly
+        specified anew. In doing so, it draws on multiple – etymologically
+        unrelated – meanings of ‘a’.                         
+         The first set of meanings is associated with the use of ‘a’ as the indef-
+        initearticle,sincethisusedirectlyindicatesmembershipinatypeorclass
+        of people, things or events (‘this is a cat’, ‘this is a friend of mine’). The
+        indefiniteness of this inclusion, while appearing to indicate a lack of
+        determination, has its own logic: for example, as well as meaning ‘one
+        single’or‘any’,‘a’isalsocommonlyusedtointroducesomeoneorsome-
+        thing for the first time. It allows for a mode of inclusion in a type or
+        categoryonthebasisof criteriathatarenotpre-givenbutrather opento
+        further (indefinite) specification (‘If that is what you think, then you are
+        not a friend of mine because a friend of mine would not think that’). As
+        the indefinite article, ‘a’ is also used to specify both someone or some-
+        thing as being like someone or something else (‘you are a star’) and to
+        express rates or ratios, as in ‘for each’ or ‘per’. These meanings of the ‘a’
+        in the term ‘a-typical’ thus call up the operation of the two analytically
+        distinct, but historically intertwined, understandings of analogy identi-
+        fied by Stafford (2001): participation (similitude, mimesis, likeness) and
+        proportion (ratio).10 Inour use, they are combined to produce principles
+        of inclusion that are subject – recursively – to further revision: their
+        combination is the means by which the you that is ‘a you’ becomes a
+        recursive shifter (Chun, 2011, 2016).                
+         To these meanings of ‘a’ as the indefinite article, however, we
+        add a further meaning, that is, ‘a’ as a variant spelling of ‘ad-’, denoting
+        motion or direction, a reduction or change into, an addition, increase
+        or intensification, as in ‘adjoin’ or ‘adjacent’. The etymology of these
+        terms relates to the Latin adjacentem, adjacens; from adjacere, ‘to
+        lie at, to border upon, to lie near’; from ad-, ‘to’ + jacere, ‘to lie, to
+        rest’; literally, ‘to throw’. Our use of the term a-typical to describe
+        pathways of individuation is thus intended to describe the ways in
+        which collaborative filtering algorithms are designed to allow for the
+        ongoing redefinition of principles of inclusion and exclusion via the
+        recursive activity of adjoining or the work of adjacency: what we
+        describe as the compositional practice of bordering or framing.11 In
+        this practice, the aim is to create, not equivalence, but a topological
+        invariance: that is, the aim is to achieve a continuity of a recursive func-
+        tion12 such that likeness (‘People like you’) is iteratively produced as
+        a pathway through a massively aggregated de- and re-contexting of
+        liking.                                              
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+      26                            Theory, Culture & Society 36(2)
+                                                             
+        Howthisisaccomplishedinthemulti-dimensionalcalculativespaceof
+      recommendation algorithms can be illustrated by way of a consideration
+      of ‘the next adjacentpossible’, aterm developed bythe theoretical biolo-
+      gist Stuart Kauffman (2000).13 Put briefly, Kauffman understands life in
+      terms of autonomous agents,14 by which he means ‘something that can
+      act on its own behalf in an environment’. This living entity is ‘something
+      that can both reproduce itself and do at least one thermodynamic work
+      cycle’ (Kauffman, 2000: 64). He says:                  
+        That bacterium, sculling up the glucose gradient, flagellum flailing
+        in work cycles, is busy as hell doing ‘it’, reproducing and carrying
+        out one or more work cycles. So too are all free-living cells and
+        organisms. We do, in blunt fact, link spontaneous and nonsponta-
+        neous processes in richly webbed pathways of interaction that
+        achieve reproduction and the persistent work cycles by which we
+        act on the world. Beavers do build dams; yet beavers are ‘just’
+        physical systems. (Kauffman, 2000: 64)               
+                                                             
+      In making this argument, Kauffman emphasizes the importance of the
+      role of adjoining or bordering and points to the constitutive role of the
+      particular material constraints (or context) in which any entity individu-
+      ates.Healsoidentifiestheworkofadjacencyastheactivityof‘construct-
+      ing constraints that can manipulate constraints’, thus drawing attention
+      totheroleoftheborderastheoperatoroftherelationoftheinsideofan
+      entity to its outside.                                 
+        Drawing on this analysis, we return to our observation on testing.
+      Personalized recommendations are based on the making of nearness or
+      adjacency in a multi-dimensional space, but the implementation of col-
+      laborative filtering algorithms requires that they be subject to repeated
+      testing in the specific kinds of relations to context that are commonly
+      called participation. The aim of this testing is to identify constraints that
+      can manipulate constraints; for example, in A/B tests or tests of ‘liking’,
+      to identify a changed ordering of likes so that some future preference
+      becomes more likely – or predictable. It is only insofar as a population’s
+      relations to multiple contexts (including data relating to liking, sensing
+      and sharing as well as to time and space) are registered by the algorithm
+      that the mode of individuation we are describing can happen at all. In
+      other words, the (numerical-cultural) process of folding a whole into,
+      across or within itself to make parts, of de- and re-contexting what
+      Zuckerburg describes as the default social, is fundamental to the
+      making of pathways of a-typical individuation. As Seaver (2015)
+      observes, while it is sometimes claimed that big data has no context,
+      ‘context is everything’ for recommendation algorithms.15
+        Ithasbeenwidelyobservedthatalgorithmsdonotoperateinisolation
+      fromcontext-awaretechniquesofdatacaptureandcollection astheyare
+                                                             
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+        Lury and Day                                 27      
+                                                             
+        organized in particular calculative infrastructures (Hayles, 2002; Verran,
+        2011). Dourish, for example, notes:                  
+                                                             
+         If the database is malleable, extensible, or revisable, it is so not
+         simply because it is represented as electrical signals in a computer
+         or magnetic traces on a disk; malleability, extensibility, and revisa-
+         bility depend too on the maintenance of constraints that make this
+         specific collection of electrical signals or magnetic traces work as a
+         database; and within these constraints, new materialities need to be
+         acknowledged. (Dourish, 2014)                       
+                                                             
+        Similarly, Amoore and Piotukh highlight the changing role of indexing
+        practices in data-collection activities:             
+         while structured data is territorially indexable, in the sense that it
+         can be queried on the horizontal and vertical axes of spreadsheets
+         within databases, so-called unstructured data demands new forms
+         ofindexingthatallowforanalysistobedeterritorialized(conducted
+         across jurisdictions, or via distributed or cloud computing, for
+         example) and to be conducted across diverse data forms – images,
+         video, text in chat rooms, audio files and so on. (Amoore and
+         Piotukh, 2015: 345)                                 
+                                                             
+        Astheyalsoobserve,theactivityof‘(ad-)joining’isofparticularimport-
+        ance in the deployment of these new forms of indexing. They give the
+        example of IBM’s predictive policing:                
+                                                             
+         The linking of the data elements is performed through joins across
+         data from different data sets, either on the basis of direct intersec-
+         tions with already indexed data (e.g. via a phone, credit card or
+         social security number ingested from a database), or probabilistic-
+         ally, through correlations among data-points from different sources
+         (e.g. text scraped from a Twitter account correlated with facial
+         biometrically tagged images drawn from Facebook). (Amoore and
+         Piotukh, 2015: 345)                                 
+        It is not just that there is more than one relevant context for recommen-
+        dation algorithms. Different contexts are deliberately made to appear or
+        disappear in different practices of context-ing. Indeed, this emphasis on
+        context – what is sometimes called context-awareness – provides another
+        compelling reason to describe personalization as a pathway of a-typical
+        individuation. A trajectory is not established in advance – as when we
+        travelwiththeaimofmovingfromAtoB,alreadyknowingwhereBis–
+        but in response to contexts that emerge in the making of a path.
+                                                             
+                                                             
+                                                             
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+      28                            Theory, Culture & Society 36(2)
+                                                             
+      Becoming Normal by Being Better than You               
+                                                             
+      We turn now to a discussion of the consequences of personalization for
+      the making of the default social, by considering the practice of normal-
+      ization (Agamben, 1998; Canguilhem, 1991; Foucault, 1991; Hacking,
+      1991).16 In his discussion of modes of governance linked to earlier
+      forms of statistical normalization, Hacking (1991) argues that debates
+      concerning the setting of boundary conditions were fundamental to the
+      way in which a population was governed by statistical laws. Updating
+      this argument, we suggest that the work of adjoining in the personaliza-
+      tion practices described above involves an ongoing reorganization of
+      boundary conditions (operating the relation between inside and outside,
+      inclusion and exclusion through techniques of contexting) that trans-
+      forms conditions of governmentality. This is especially clear in relation
+      to the way in which practices of normalization now require the achieve-
+      ment of transitivity.17 On the one hand, the verbs of the vocabulary of
+      participation – liking, sharing, linking – describe activities in which
+      objectsarerepeatedlyattachedto persons; thatis, theypromote analgo-
+      rithmickindoflinguistictransitivity(asin‘thingslikethislikepeoplelike
+      you’). On the other hand, the data collected through the tracking of
+      participation are then ordered transitively – in a mathematical sense –
+      inann-dimensionalspaceoflikenessorsimilitude.Inthesepractices,the
+      ‘new normal’ of individuation appears as a function of the ideal of
+      transitive closure, an internal limit, in relation to which every possible
+      relation (between verb and object) is partially ordered in such a way that
+      the you that is ‘a you’ is similar to other ‘yous’, that is, nearly but not
+      quitethesameas other‘yous’, andneverquiteableto beconsolidatedas
+      an ‘us’.                                               
+        While this limit can never be reached since it involves a never-ending
+      in-filling in relation to a constantly changing population,18 we are none-
+      theless witnessing a proliferation of models of optimization across the
+      fields of medicine, marketing, project management and operational
+      research (the last of which is sometimes described as ‘the science of
+      better’, the significance of which will be made apparent below). In such
+      models,optimalpathwaysofa-typicalindividuationarecommonlyiden-
+      tified in ‘experiments in participation’ in relation to specific objectives,
+      often through software that merges data with parameters (as in the case
+      of the parametric algorithms discussed by Parisi, 2013) or employs evo-
+      lutionarymodelling.Asdescribedabove,oneofthenovelaspectsofsuch
+      techniquesisthecalculativedeploymentofrecursionsuchthattheaimof
+      theactionofad-joiningisnotsetinrelationtoapredefinedtarget;rather
+      pathway and target emerge together.                    
+        Indeed, the term ‘precision medicine’ is sometimes preferred to the
+      synonyms personalized or stratified medicine because it acknowledges
+      the significance of the necessarily dynamic fit between, for example,
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+        Lury and Day                                 29      
+                                                             
+        a cancer, drug target, resistance and side effects through repeated moni-
+        toring and the operationalization of the feedback loop between evalu-
+        ation and intervention.19 In some cases, the methods of operational
+        research are applied in conjunction with computational biology with
+        the aim of identifying a pathway that has a ‘biologically meaningful
+        objective’: a network is ‘designed (or revised) optimally’ to find ‘the nat-
+        ural circumstances that trigger one particular pathway but not others’.20
+        An example of findings based upon pathways defined in molecular terms
+        ratherthanbyanatomyortraditionaldiseaseclassificationistherecently
+        reported study (Mateo et al., 2015) of the efficacy of the drug Olaparib,
+        approved for treating ovarian cancers with BRCA1/2 mutations. This
+        study built upon the finding that cancers are significantly heterogeneous
+        at the molecular level and discovered that the variation within one, such
+        as ovarian cancer, can be more marked than between cancers, such as
+        ovarian and prostate, when tracked in terms of their differential sensitiv-
+        ity to particular treatments.                        
+         More broadly, we can see the operation of principles of optimization
+        modelling in the now ubiquitous ordinal tropes of ranking, which ensure
+        that what counts as best is not given in advance, but rather emerges in a
+        participative fashion with the (continually changing) requirement to do
+        and be better (Esposito, 2013; Gerlitz and Lury, 2014; Guyer, 2010). In
+        these practices the you that is addressed is both specific and a you ‘that is
+        likeeveryoneelse’(Chun,2011),onlymoreorlessso.Theexhortationto
+        ‘Believe in Better’21 pervades contemporary culture and might be seen as
+        an appropriation of ‘optimism of the will’, recursively calibrating rela-
+        tions between individuals and populations to establish new forms of
+        stratification (Fourcade and Healey, 2013; Ruppert, 2011). In the
+        requirement to be like but better than each other established in relation
+        tosuchoptimizingpractices,youandIarenotjustdifferenttoeachother
+        but different-er: our differences are such that we are always both more
+        and less different to each other. As the Optimizely commercial platform
+        informs us, ‘Being personal is no longer optional’,22 or, as the name of a
+        British financial services comparison website says, GoCompare.23
+        Indeed, it is not just persons thatare invited – or obliged – to participate
+        in bettering themselves in the compositional practices of personalization:
+        universities, hospitals, museums, police forces, hotels, holidays, restaur-
+        ants, brands and schools are also now frequently placed in dynamic
+        relations of competitive comparison with eachother by often mandatory
+        or non-voluntary inclusion in the recursive partial orderings of ranking
+        systems. While normalization techniques sometimes provide a statistical
+        snapshot, a one-off cross-section of a population fixed in relation to a
+        single environment (the nation, for example), personalization is note-
+        worthy for the way that it establishes (constantly shifting) grounds for
+        dynamic stratification in relation to multiple norms in multiple
+        environments.                                        
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+      30                            Theory, Culture & Society 36(2)
+                                                             
+      Signature Pathways                                     
+                                                             
+      We consider one further aspect of the making of a pathway of a-typical
+      individuation by exploring the use of ‘you’ as a shifter. In linguistic
+      terms, shifters such as ‘this’ and ‘that’ as well as ‘I’ and ‘you’ can only
+      be understood by reference to the context in which they are uttered. In
+      other words, a shifter, sometimes also called a place-holder, is an index-
+      ical term whose meaning cannot be determined without referring to the
+      message that is being communicated. The ‘you’ in a pathway of person-
+      alization designates both the person to whom a message is directed and
+      the ‘you’ that is contained in the message that is sent. In relation to our
+      description of algorithmic personalization, it is the suturing of this dou-
+      bling in the shifter that makes a personalized address to the individual
+      possible and also organizes the activity of shifting as adjoining, creating
+      constraints that can manipulate constraints in the making of a pathway.
+        For Jakobson (1971 [1957]), enunciation is encoded in a shifter in the
+      statement itself. While Jakobson defines the shifter as an indexical
+      symbol, Lacan defines it as an indexical signifier in order to problematize
+      the distinction between enunciation and statement. As a signifier, the
+      shifter‘I’isnormallypartofastatement.Asanindex,itisalsonormally
+      partoftheenunciation.ForLacan(1977),thisdivisionordistributionof
+      the ‘I’ or ‘you’ does not merely illustrate the splitting of a subject; it is
+      that split. Drawing on these understandings of shifters, it seems that the
+      indexical signifier is not stopped or ‘arrested’ by (representatives of) the
+      symbolic order (Fenves, 2002) in the anticipatory flux of personalizing
+      practices.24 In the context of (algorithmic) personalization, it seems that
+      theshifterisratherpaused.Temporaryhaltingincitesparticipationorthe
+      folding of a context into the pathway. Indeed, it is this pausing, the
+      marking of an interval, a stopping and starting that repetitively gathers
+      a collectivity. In assembling observers and observed, pausing allows for
+      both observation and the observation of the observing (Kaldrack and
+      Ro¨ hle, 2014).                                        
+        Given thata pathwayis a process of stoppingand starting thatrepeti-
+      tively gathers a collectivity, it is not surprising that the ability to identify
+      somepathwaysbutnotothers–thesignatureactionSeaverdescribes–is
+      currently the source of considerable interest. Frow’s discussion of signa-
+      ture and brand (2002) is illuminating in this respect. He describes the
+      signature as a shifter that sets up ‘a tension between representation and
+      the represented’ and observes that the signature is not only an index of
+      the act of framing (of adjoining or bordering), but also designates a
+      naming right. Specifically, Frow argues that the power of the signature
+      stemsfromtheelision ofthedifferencebetween thesignatureas anindex
+      andthetaxonomicfunctionofthepropername.Thiselisioniseffectedin
+      a particular way by the brand, he asserts, since ‘the ‘‘Name’’, when one
+      abstractsitfromthesignatureitindicates,losesits‘‘index’’characterand
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+        Lury and Day                                 31      
+                                                             
+        becomes a ‘‘trademark’’. Like the trademark, the name is of a symbolic
+        order’ (Gandelman, quoted in Frow, 2002: 63).        
+         As Frow observes, the brand’s economic significance as a ‘nexus
+        between high-speed, continuous flow manufacturing and the reshaping
+        of people’s habits and lives’ (Ohmann, 1996: 61 in Frow, 2002: 64) is
+        growing.Thedetachmentfromindexicalityiswhatprovidesthebasisfor
+        usingthesignatureasaclaimtoownership.Importantly,however,Frow
+        argues that the brand is in principle reducible to neither a product nor a
+        corporation. As a quasi-signature or signature-effect, a brand name is
+        routinelyattachedtoaproductrange,andeventogenerationsofproduct
+        ranges, rather than to singular objects. It is precisely the divisibility of
+        brand from product (in practices of bordering or framing) that makes
+        possiblethetransferofbrandloyaltyfromonegenerationofaproductto
+        another. With Frow’s insights, we propose that recommendation algo-
+        rithmscreatepathwaysofa-typicalindividuationthatarealwaysdistinct
+        (divisible and detachable) from both object and person. In consequence,
+        thewaysinwhichsuchpathwaysacquireautonomyornot,andhowthat
+        autonomy is recognized,25 constitute the heart of current debates on the
+        sharingeconomy.Itisherethatthepoliticsofcollectivity,ownershipand
+        use are being reconfigured.                          
+        Conclusion                                           
+                                                             
+        Wehavearguedthatpersonalizationisamodeofa-typicalindividuation
+        that is produced in techniques of recursive divisibility (the drawing of
+        lines of inclusive exclusion and exclusive inclusion). As such, it provides
+        anentrypointintotheconstitutionofwhat,followingMarkZuckerburg,
+        we have called the ‘default social’. Crucially, as a numbering practice,
+        personalization doesnotinvolvezooming(Dayet al.,2014),aperforma-
+        tivegesturethatoperatesthedynamismofmovingfrombigtosmall,that
+        is,aslidefromonetomanyandbackagain,asiftheonlydifferencetobe
+        registered was that of an increase in a uniform quantity (as in what
+        Badiou calls the count of one). Instead, this is a mode of numbering
+        thatconstitutes adefault socialthrough forms ofde- and re-aggregating,
+        inwhichavarietyofcontextsareincludedandexcluded,suchthatoneis
+        always more and less than one. In a recursive process that involves
+        tracking bordering, folding and pausing, the individual is precisely and
+        momentarily specified as ‘a you’ (Chun, 2016), that is, as a dividual
+        (Raunig, 2015; Strathern, 1998). At the same time, pausing allows for
+        the composition of heterogeneous (numerical-cultural) quantities, in
+        which qualitative differences of mass are recognized at different levels
+        of observation as matters of dimension and scale. Put somewhat differ-
+        ently,thepersonwhoisaddressedasayouisrefractedinmultiplepartial
+        orderings that allow for specific forms of comparison and competition
+        (of better-ing) whilethe folding of contexts into the pathway creates new
+                                                             
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+      32                            Theory, Culture & Society 36(2)
+                                                             
+      ways of configuring relations between participation and proportion,
+      sharing, ownership and use in the identification of signature pathways.
+        Importantly, our argument does not suggest that personalization is
+      replacing other modes of individuation. Rather, it introduces new tech-
+      niques that combine in a variety of ways to transform and intensify
+      contemporary forms of individualism.26 As such, it merely confirms
+      Hacking’s observation in relation to the history of the making up of
+      people: ‘The less the determinism, the more the possibilities for con-
+      straint’ (1991: 194).                                  
+                                                             
+      Notes                                                  
+                                                             
+       1. Celia Lury would like to acknowledge the support of Economic and Social
+         Research Council (ESRC), ES/K010689/1, and Sophie Day would like to
+         acknowledge the support of the National Institute for Health Research
+         (NIHR) Imperial BioMedical Research Centre.         
+       2. See: https://webarchive.nationalarchives.gov.uk/20130104175839/http://
+         www.dh.gov.uk/en/Publicationsandstatistics/Publications/Publications
+         PolicyAndGuidance/DH_081118                         
+       3. See: http://www.patientslikeme.com                 
+       4. See: https://www.stitchfix.com                     
+       5. These are practices that Agamben (1998, 2011) associates with sovereignty:
+         bare life, he argues, has always been the object and the aim of state action,
+         andithasalwaysbeensubjectedtoelaboratemechanismsofbothinclusion
+         and exclusion.                                      
+       6. See: http://www.last.fm                            
+       7. Arvidsson (2016) argues that it is through personalization that platforms
+         suchasFacebookwill–ontheirownandinconjunctionwiththirdparties–
+         benefit from the financialization of everyday life. 
+       8. Oneofthemostfamousexamplesofthisgroupisitem-to-itemcollaborative
+         filtering, an algorithm developed by Amazon.        
+       9. Seaver goes on:                                    
+            Thecollaborativefilteringmatrixintermeshestheidentitiesofusers
+            anditems.Itisbothpossibleandtypicalforacollaborativefilterto
+            take no special account of either, organizing all entities strictly in
+            terms of ratings: users are known as a [ranked] collection of rela-
+            tions to items and items are known as a [ranked] collection of
+            relations to users. Persons and things enjoy no separate modes of
+            existence in the matrix, which is indeed a function for translating
+            one into the other. (Seaver, 2012)               
+         Inotherwords,collaborativefilteringalgorithmsdonotjustdeterminethat
+         ‘Users like you liked items like this’; they also establish that ‘Items like this
+         liked users like you.’ This ‘collaboration’ is very different from that of the
+         taste-bearing individuals explored by Bourdieu (1987) in Distinction, where
+         therelationsarethoseofclassandtheexerciseoftaste,andinvolvesymbolic
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+        Lury and Day                                 33      
+                                                             
+          violence. How pathways of ‘a-typical individuation’ will coincide with,
+          transformorsupersedesuch‘demographic’stratificationremainstobeseen.
+        10. For Stafford, analogy is an associative method, a demonstrative and
+          evidentiarypractice.Shesays:‘Analogycorrelatesoriginalitywithcontinuity,
+          what comes after with what went before.... This transport of predicates
+          involvesa mutualsharing in, or partaking of,certain determinable quantita-
+          tiveandqualitativeattributesthroughamediatingimage’(Stafford,2001:9).
+        11. Bateson describes set theory diagrams as ‘a topological approach to the
+          logic of classification’ (Bateson, 1999: 186). In such diagrams a frame is a
+          mode of referring by ordering. As Tkacz observes in a commentary on
+          Bateson, ‘A frame always sorts things as either belonging or not belonging
+          andthisprocessismediatedbyaxiomsorprinciples–indeed,theaxiomsare
+          what define the frame; they are the conditions of its possibility’ (Tkacz,
+          2014: 71).                                         
+        12. Totaro and Ninno (2014) argue that what is fundamental to the recursive
+          function is that repetition becomes the aim of action.
+        13. Rabinow’s understanding of adjacency provides another, related set of
+          terms (Rabinow, 2009). For Rabinow, the concept of adjacency is both
+          analytic, in that sets of relations must be decomposed and specified, and
+          synthetic,inthattheserelationsmustberecomposedandgivennewform.In
+          this process, a neighbourhood emerges as the figure of what moves in
+          tandem, together, the outcome of the interlinked processes of analysis and
+          synthesis.                                         
+        14. Kauffmanobservesinrelationtoautonomousagentsthat:‘Attheendofthe
+          cycle the system is poised to cycle again’ (Kauffman, 2000: 68).
+        15. The Optimizely (https://www.optimizely.com) platforms says that it can:
+          ‘Connect that browsing behavior, demographic information, contextual
+          clues,and1st-and3rd-partydataintoacomplete pictureofyourcustomer
+          that you can use to power personalized experiences.’
+        16. Hacking(1991)arguesthat‘normalcy’isoneofthemostsociallysignificant
+          statistical meta-concepts. We are pointing to the significance of normaliza-
+          tion without, we hope, imputing any consensus to the very different con-
+          cepts and trajectories implicated in this meta-concept across a range of
+          disciplines.                                       
+        17. Transitivity has a range of meanings in different disciplines. In lin-
+          guistics, for example, transitivity is a property of verbs that relates to
+          whether a verb can take direct objects and how many such objects a verb
+          can take. In mathematics, a binary relation over a set is transitive if, when-
+          ever an element a is related to an element b, and b in turn is related to an
+          element c, a is also related to c. The partial ordering produced by the algo-
+          rithms discussed above organizes liking in relations that are transitive in
+          both senses.                                       
+        18. Parisi(2013)offersanotherviewofthelimitsofreason,specificallyinrelation
+          to computation. She suggests that parametric quantities are discrete entities
+          thatnotonlyselectdata,aspartofthesoftwareintowhichtheyarescripted;
+          they may also be infected by data that they are not able to compute:
+              Instead of being a continuous flow of data, such as a topological
+              binding of many actualities into one stream of ceaseless variation,
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+      34                            Theory, Culture & Society 36(2)
+                                                             
+            the incomputable ... is an infinite series of discrete yet incomplete
+            data that immanently ingresses and becomes uniquely arranged
+            into algorithmic sets, in which these data acquire togetherness
+            and continuity. (Parisi, 2013: 170)              
+      19. Inprecisionmedicine(oritssynonyms),referenceiscommonlymadetothe
+         4Ps, which are predictive, personalized, preventive and participatory.
+         Some of the advocates of this approach describe current developments as
+         a revolution:                                       
+            fueled by several factors: first, an appreciation that medicine is an
+            information science; second, systems or holistic approaches to
+            studying the enormous complexities of disease; third, emerging
+            technologies that will let us explore new dimensions of patient
+            data space; and fourth, powerful new analytical technologies –
+            both mathematical and computational – that will let us decipher
+            the billions of data points associated with each individual. (Hood
+            and Friend, 2011)                                
+      20. See: http://ercim-news.ercim.eu/en82/special/pathway-signatures
+      21. This is the strap-line employed by Skye, Rupert Murdoch’s telecommuni-
+         cations company, which encourages us all, no matter what, to ‘Believe in
+         Better’.ElsewhereintheUKthereisachainofleisurecentresthatarecalled
+         ‘Better’, a national insurance company that is called ‘More Than’ and
+         Eurostar, the company that runs trains through the tunnel connecting the
+         UK to continental Europe, deploys a campaign that employs the hashtag,
+         ‘bettercloser’.ThereisaCanadianpharmaceuticalcompanythathasarange
+         of products called Be.better; Nike’s current range of products includes a
+         T-shirt with the slogan ‘bettering’ written across the front; the shoe and
+         clothing company Timberland uses the advertising strap-line, ‘Best then.
+         Better now’; the TSB (a UK bank) claims ‘Our TSB Classic Plus account,
+         just got plusser’; the Wellcome Museum in London invites us in with the
+         slogan ‘More than ever’; the i-Phone 6 is described as ‘bigger than bigger’;
+         a recent advertisement for an electric car (an Audi) insists, ‘Like a car,
+         but better’.                                        
+      22. See: https://www.optimizely.com                    
+      23. See: http://www.gocompare.com/ps/homepage/2.aspx/?Media¼GG001&P
+         ST¼1&device¼c&PST¼1&gclid¼Cj0KEQjwwYK8BRC0ta6LhOPC0v0BE
+         iQApv6jYX5FTYS1gIsxfMkzlNlsaIMdTDT1Y7KLjtZwIIP8Y0MaAvBY8
+         P8HAQ                                               
+      24. It is hard to avoid drawing a parallel with Althusser’s (1971) discussion of
+         interpellation: the policeman who calls out ‘Hey, you there’. Althusser’s
+         approach draws on Lacan’s various discussions of the mirror stage, a
+         form of pausing in which infants encounter an external sense of coherence,
+         producing a sense of ‘I’ and ‘you’, that comes to represent a permanent
+         structure of alienation for Lacan.                  
+      25. A paradigmatic example is the recent successful filing of a patent by
+         Amazon for a method of speculative or anticipatory shipping. See
+         Coleman (2017).                                     
+
+[PAGE 19]
+                                                             
+                                                             
+                                                             
+        Lury and Day                                 35      
+                                                             
+        26. In marketing and many policy fields, for example, the design of optimal
+          pathwaysisinformedbybehaviouraleconomics,inwhichdoingisdeployed
+          as a measure of being. In the terms of our analysis, ‘nudging’ is the identi-
+          fication and operation of constraints that can manipulate constraints, and
+          the current investment by business and government in a ‘context-aware’
+          computational infrastructure seems designed to support the rise of person-
+          alization as a mode of individuation that will afford the possibility of
+          dynamic stratification.                            
+        References                                           
+        AgambenG(1998)HomerSacer:SovereignPowerandBareLife.Stanford,CA:
+         Stanford University Press.                          
+        Agamben G (2011) The Signature of All Things: On Method. Cambridge: Zone
+         Books, MIT Press.                                   
+        Althusser L (1971) Lenin and Philosophy and other Essays, trans. Brewster B.
+         New York: Monthly Review Press.                     
+        Amoore L and Piotukh V (2015) Life beyond big data: Governing with little
+         analytics. Economy and Society 44(3): 341–366.      
+        ArvidssonA(2016)Facebookandfinance:Onthesociallogicofthederivative.
+         Theory, Culture & Society 33(6): 3–23.              
+        Badiou A (2008) Number and Numbers. Cambridge: Polity Press.
+        Bateson G (1999) Steps to an Ecology of Mind. Chicago: University of Chicago
+         Press.                                              
+        BourdieuP(1987)Distinction:ASocialCritiqueoftheJudgementofTaste,trans.
+         Nice R. Cambridge, MA: Harvard University Press.    
+        BowkerGC(2014)Bigdata,bigquestions:Thetheory/datathing.International
+         Journal of Communication 8(2043): 1795–1799. Available at: https://ijoc.org/
+         index.php/ijoc/article/view/2190 (accessed: 12 December 2018).
+        Canguilhem G (1991) The Normal and the Pathological, trans. Fawcett C.
+         Cambridge: Zone Books, MIT Press.                   
+        Chun WHK (2011) Programmed Visions. Cambridge, MA: MIT Press.
+        ChunWHK(2016)UpdatingtoRemaintheSame.Cambridge,MA:MITPress.
+        Coleman R (2017) Developing speculative methods to explore speculative ship-
+         ping: Mail art, futurity and empiricism. In: Wilkie A, Savransky M and
+         Rosengarten M (eds) Speculative Research: The Lure of Possible Futures.
+         London: Routledge.                                  
+        Day S, Lury C and Wakeford N (2014) Number ecologies: Numbers and num-
+         bering practices. Distinktion 15(2): 123–154.       
+        Dourish P (2014) No SQL: The shifting materialities of database technology.
+         Computational Culture 4.                            
+        Esposito E (2013) Economic circularities and second-order observation: The
+         reality of ratings. Sociologica 2: 1–20.            
+        Fenves P (2002) Arresting Language: From Leibniz to Benjamin. Stanford, CA:
+         Stanford University Press.                          
+        Feuz M, Fuller M and Stalder F (2011) Personal web searching in the age of
+         semantic capitalism: Diagnosing the mechanisms of personalisation. First
+         Monday 16(2, 7 February).                           
+        Foucault M (1991) Discipline and Punish: The Birth of the Prison, trans.
+         Sheridan A. Harmondsworth: Penguin.                 
+
+[PAGE 20]
+                                                             
+                                                             
+                                                             
+      36                            Theory, Culture & Society 36(2)
+                                                             
+      FoucaultM(2001)TheOrderofThings:AnArchaeologyoftheHumanSciences.
+        Abingdon: Routledge.                                 
+      Fourcade M and Healy K (2013) Classification situations: Life-chances in the
+        neoliberal era. Accounting, Organizations and Society 38(8): 559–572.
+      FrowJ(2002)Signatureandbrand.In:CollinsJ(ed.)High-pop:MakingCulture
+        into Popular Entertainment. Malden, MA: Wiley-Blackwell, pp. 56–74.
+      GerlitzCandHelmondA(2013)Thelikeeconomy:Socialbuttonsandthedata-
+        intensive web. New Media & Society 15(8): 1348–1365. 
+      Gerlitz C and Lury C (2014) Social media and self-evaluating assemblages: On
+        numbers, orderings and values. Distinktion 15(2): 174–188.
+      Guyer J (2010) The eruption of tradition: On ordinality and calculation.
+        Anthropological Theory 10(1–2): 123–131.             
+      Hacking I (1991) How should we do the history of statistics? In: Burchell G,
+        Gordon C and Miller P (eds) The Foucault Effect. Chicago: University of
+        Chicago Press.                                       
+      Hayles KN (2002) Writing Machines. Cambridge, MA: MIT Press.
+      HaylesKN(2014)Cognitioneverywhere:Theriseofthecognitivenonconscious
+        and the costs of consciousness. New Literary History 45(2): 199–220.
+      Heintz B and Vollmer H (2011) Globalizing comparisons: Performance meas-
+        urement and the ‘numerical difference’ in global governance. Available at:
+        http://citation.allacademic.com//meta/p_mla_apa_research_citation/5/0/0/4/
+        8/pages500487/p500487-1.php.                         
+      HoodLandFriendSH(2011)Predictive,personalized,preventive,participatory
+        (P4) cancer medicine. Nature Reviews Clinical Oncology 8: 184–187.
+      Jakobson R (1971 [1957]) Shifters, verbal categories, and the Russian verb. In:
+        Selected Writings, vol. II: Word and Language. The Hague: Mouton.
+      KaldrakIandRo¨hleT(2014)Divideandshare:Taxonomies,ordersandmasses
+        in Facebook’s Open Graph. Computational Culture 4.   
+      Kauffman S (2000) Investigations. Oxford: Oxford University Press.
+      Lacan J (1977) E´crits: A Selection, trans. Sheridan A. London: Tavistock.
+      Lezaun J, Marres N and Tironi M (2016) Experiments in participation.
+        In: Miller C, Smitt-Doer E, Felt U and Fouche R (eds) Handbook of
+        Science and Technology Studies. Cambridge, MA: MIT Press, pp. 195–222.
+      Mackenzie A (2014) Multiplying numbers differently: An epidemiology of con-
+        tagious convolution. Distinktion: Journal of Social Theory 15(2): 189–207.
+      MateoJ,CarreiraS,SandhuSetal.(2015)DNA-repairdefectsandOlaparibin
+        metastatic prostate cancer. New England Journal of Medicine online 29
+        October.                                             
+      Neyland D (2014) On organizing algorithms. Theory, Culture & Society 32(1):
+        119–132.                                             
+      Parisi L (2013) Contagious Architecture: Computation, Aesthetics and Space.
+        Cambridge, MA: MIT Press.                            
+      PreyR(2017)Nothingpersonal:Algorithmicindividuationonmusicstreaming
+        platforms. Media, Culture & Society 40(7): 1086–1100.
+      Rabinow P (2009) Marking Time: On the Anthropology of the Contemporary.
+        Princeton, NJ: Princeton University Press.           
+      Raunig G (2015) Dividuum, Machinic Capitalism and Molecular Revolution,
+        trans. Derieg A. Cambridge, MA: MIT Press.           
+
+[PAGE 21]
+                                                             
+                                                             
+                                                             
+        Lury and Day                                 37      
+                                                             
+        Ruppert E (2011) Population objects: Interpassive subjects. Sociology 45(2):
+         218–233.                                            
+        Seaver N (2012) Algorithmic recommendations and synaptic functions. Limn 2,
+         Crowds and Clouds.                                  
+        Seaver N (2015) The nice thing about context is that everyone has it. Media,
+         Culture & Society 37(7): 1101–1109.                 
+        Simondon G (1992) The genesis of the individual. In: Crary J and Kwinter S
+         (eds) Incorporations. Cambridge: Zone Books, MIT Press, pp. 297–319.
+        Stafford BM (2001) Visual Analogy: Consciousness as the Art of Connecting.
+         Cambridge, MA: MIT Press.                           
+        Strathern M (1998) The Gender of the Gift. Berkeley: University of California
+         Press.                                              
+        Tkacz N (2014) Wikipedia and the Politics of Mind. Chicago: University of
+         Chicago Press.                                      
+        TotaroPandNinnoD(2014)Theconceptofalgorithmasaninterpretivekeyof
+         modern rationality. Theory, Culture & Society 31(4): 29–49.
+        Totaro P and Ninno D (2016) Algorithms and the practical world. Theory,
+         Culture & Society 33(1): 139–152.                   
+        Urton G (1997) The Social Life of Numbers: A Quechua Ontology of Numbers
+         and Philosophy of Arithmetic. Austin, TX: University of Texas Press.
+        Verran H (2010) Number as an inventive frontier in knowing and working
+         Australia’s water resources. Anthropological Theory 10(1): 171–178.
+        Verran H (2011) The changing lives of measures and values: From centre stage
+         inthefading‘disciplinary’ societytopervasivebackgroundinstrument inthe
+         emergent ‘control’ society. Sociological Review 59(2): 60–72.
+        Celia Lury is Professor and Director of the Centre for Interdisciplinary
+        Methodologies,WarwickUniversity.ThetopicofherESRCProfessorial
+        Fellowship was ‘Order and Continuity: Methods for Change in a
+        Topological Society’, ES/K010689/1.                  
+        Sophie Day is Professor of Anthropology at Goldsmiths, and Visiting
+        Professor at the School of Public Health, Imperial College London. She
+        is currently working with Celia Lury and Helen Ward in a collaborative
+        project, ‘People Like You’: Contemporary Figures of Personalisation
+        (Wellcome Trust, 205456/Z/16/Z).                     
+        This article is part of the Theory, Culture & Society special issue on
+        ‘Thinking with Algorithms: Cognition and Computation in the Work of
+        N. Katherine Hayles’, edited by Louise Amoore.       
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             

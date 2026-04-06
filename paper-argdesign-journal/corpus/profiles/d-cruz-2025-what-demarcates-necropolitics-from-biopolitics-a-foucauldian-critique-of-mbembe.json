@@ -1,0 +1,72 @@
+{
+  "paper_id": "d-cruz-2025-what-demarcates-necropolitics-from-biopolitics-a-foucauldian-critique-of-mbembe",
+  "title": "What Demarcates Necropolitics from Biopolitics? A Foucauldian Critique of Mbembe",
+  "author": "D'Cruz",
+  "year": 2025,
+  "journal": "Theory, Culture & Society",
+
+  "opening_move": {
+    "type": "normative_puzzle",
+    "description": "Mbembe's 'necropolitics' presents itself as a corrective to Foucault's biopolitics, but it is not clear that it succeeds: neither in demonstrating Foucault's deficiencies nor in demarcating necropolitics as a distinct modality of power. The paper diagnoses a fundamental misreading of Foucault.",
+    "anchored_in": ["Foucault", "Mbembe", "Agamben"],
+    "stakes_claimed": "If necropolitics cannot be demarcated from biopolitics, the question of how to operationalize these frameworks to analyse racialized violence remains unresolved — and the most powerful conceptual tools remain Foucault's own."
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["Mbembe (necropolitics)", "secondary literature attempting to demarcate the two"],
+    "engagement_structure": "sustained_critique",
+    "immanent_critique": true,
+    "own_position_type": "internal_reconstruction",
+    "own_position_explicit": true,
+    "description": "The paper defends Foucault against Mbembe's critique, arguing that Foucault's concepts of State racism and thanatopolitics already capture what necropolitics claims to add, but salvages Mbembe's descriptive concepts (death-worlds, living dead) as supplements within the Foucauldian framework."
+  },
+
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "Immanent philosophical critique: close reading of Foucault's lectures and Mbembe's texts to identify misreadings and assess whether necropolitics constitutes a distinct modality of power.",
+    "notes": "Purely conceptual argument — no empirical material. The paper is a careful textual-philosophical analysis of two theoretical frameworks."
+  },
+
+  "case_type": {
+    "has_case": false,
+    "case_medium": "none",
+    "case_name": null,
+    "case_function": "none",
+    "case_relation_to_argument": "none",
+    "case_selection_justified": false
+  },
+
+  "normative_stake": {
+    "level": "medium",
+    "domain": "political theory, theory of racialized violence",
+    "claim_type": "reconstructive",
+    "closure_type": "strong_normative_conclusion"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "immanent_critique",
+    "counter_objection_response",
+    "framework_proposal",
+    "conclusion_strong"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["necropolitics", "biopolitics", "necropower", "State racism", "thanatopolitics", "death-worlds", "the living dead"],
+
+  "thinkers_deployed": {
+    "central": ["Foucault", "Mbembe"],
+    "engaged_critically": ["Mbembe", "secondary literature on necropolitics"],
+    "referenced_only": ["Agamben", "Butler", "Sexton"]
+  },
+
+  "confidence_notes": "Textbook immanent critique: shows that Mbembe's critique of Foucault rests on a misreading, that necropower is not a distinct modality, but preserves Mbembe's descriptive contributions. Purely conceptual — no case, no empirical material. The conclusion is confident and clear-cut ('Mbembe is wrong'), making the closure_type strong_normative_conclusion."
+}

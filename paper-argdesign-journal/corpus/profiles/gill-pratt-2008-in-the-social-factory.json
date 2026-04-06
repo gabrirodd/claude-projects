@@ -1,0 +1,74 @@
+{
+  "paper_id": "gill-pratt-2008-in-the-social-factory",
+  "title": "In the Social Factory? Immaterial Labour, Precariousness and Cultural Work",
+  "author": "Gill and Pratt",
+  "year": 2008,
+  "journal": "Theory, Culture & Society",
+
+  "opening_move": {
+    "type": "conceptual_gap",
+    "description": "Three bodies of work — autonomous Marxist theory (immaterial labour, social factory), activist precarity politics (the precariat), and empirical scholarship on cultural/creative work — have developed largely in isolation from each other. Gill and Pratt introduce a special section by bringing these into dialogue, revealing their overlaps and tensions.",
+    "anchored_in": ["Hardt and Negri (Empire, Multitude)", "Tronti (social factory)", "Florida (creative class)"],
+    "stakes_claimed": "Understanding the relationship between immaterial labour theories, precarity politics, and the actual conditions of cultural workers reveals both the promise and limits of autonomist concepts (affect, exodus, refusal) for analysing and contesting precarious work in contemporary capitalism."
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["Florida's 'creative class' (celebratory framing)", "autonomous Marxist theories (Hardt/Negri/Tronti) tested against empirical cultural work research", "precarity politics' generalization from cultural workers"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": true,
+    "own_position_type": "synthesis",
+    "own_position_explicit": false,
+    "description": "The paper neither endorses nor dismisses autonomist theory. It uses empirical cultural work literature to test the autonomist framework, finding points of convergence (precarity is real, subjectivity matters, affect is central) and critique (autonomist accounts are too optimistic, under-attend to gender and race, generalize from privileged Western workers)."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_qualitative_empirical",
+    "secondary": null,
+    "empirical_evidence_present": true,
+    "empirical_evidence_role": "constitutive",
+    "quantitative_methods": null,
+    "qualitative_methods": "Literature review and synthesis of empirical studies of cultural workers (designers, artists, new media workers, film workers) alongside theoretical reading of autonomist Marxism and precarity movement texts; secondary analysis of qualitative research on cultural work conditions.",
+    "data_sources": ["empirical cultural work literature", "precarity movement publications and analyses"],
+    "interpretive_methods": "Critical theoretical synthesis: reading empirical cultural work literature through and against autonomist Marxist theory (Tronti, Hardt/Negri, Virno, Lazzarato); feminist critique of gender-blindness in both autonomist theory and precarity politics.",
+    "notes": "This is a special section introduction that performs a substantial theoretical intervention by triangulating three literatures. The empirical evidence (studies of cultural workers) is constitutive: it tests and challenges autonomist theory. The paper is the introduction to a special issue but contains its own argument."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "social_practice",
+    "case_name": "Cultural and creative workers (designers, artists, new media workers)",
+    "case_function": "test_case_for_framework",
+    "case_relation_to_argument": "object_of_interpretation",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "medium",
+    "domain": "labour theory, cultural economy, feminist political economy",
+    "claim_type": "critical_diagnostic",
+    "closure_type": "research_agenda"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "framework_proposal",
+    "case_introduction",
+    "immanent_critique",
+    "case_development",
+    "meta_reflexive_qualification",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": true,
+
+  "key_concepts": ["immaterial labour", "social factory", "precarity", "precariat", "creative labour", "affective labour", "autonomist Marxism", "refusal", "exodus"],
+
+  "thinkers_deployed": {
+    "central": ["Hardt and Negri", "Tronti", "Lazzarato", "Virno"],
+    "engaged_critically": ["Florida (creative class)", "Hardt and Negri (immanent critique of optimism/gender-blindness)"],
+    "referenced_only": ["Bourdieu", "Beck", "Sennett", "Bauman", "Weeks"]
+  },
+
+  "confidence_notes": "This is a special section introduction (TCS 2008 double issue on precarity and cultural work) that performs substantial theoretical work. The epistemic mode is normative-with-qualitative-empirical: empirical cultural work studies are constitutive evidence that tests autonomist theory. The reflexive_move is present: the paper explicitly acknowledges limitations of generalizing from European/Western experience of precarity. The immanent critique of Hardt/Negri for optimism and gender-blindness is a key move."
+}

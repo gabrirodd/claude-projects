@@ -1,0 +1,74 @@
+{
+  "paper_id": "davison-vecchione-seeger-2021-ursula-le-guin-s-speculative-anthropology-thick-description-historicity-and-science",
+  "title": "Ursula Le Guin's Speculative Anthropology: Thick Description, Historicity and Science Fiction",
+  "author": "Davison-Vecchione and Seeger",
+  "year": 2021,
+  "journal": "Theory, Culture & Society",
+
+  "opening_move": {
+    "type": "interpretive_proposition",
+    "description": "Le Guin's science fiction has been insufficiently theorized as 'speculative anthropology'. The paper proposes this concept to capture how her work combines Geertz's thick description with a Jamesonian historicism — overcoming the limitations of each through their synthesis.",
+    "anchored_in": ["Geertz", "Jameson", "Wolf-Meyer"],
+    "stakes_claimed": "Reading Le Guin as speculative anthropology both rehabilitates her work against Jameson's 'world reduction' charge and illuminates science fiction's capacity to disclose utopian possibilities within the present."
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["Jameson's 'world reduction' critique of Le Guin", "Geertz (thick description without historicity)"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": true,
+    "own_position_type": "synthesis",
+    "own_position_explicit": true,
+    "description": "The paper uses Jameson's critique of Le Guin as the foil to motivate a synthesis of thick description (Geertz) and historicity (Jameson) that Le Guin's work is argued to achieve more successfully than either theorist alone."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_interpretive_case",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "Literary close reading and hermeneutic analysis: detailed textual analysis of Le Guin's The Left Hand of Darkness and The Dispossessed, read through Geertz's anthropological method and Jameson's Marxist theory of utopia.",
+    "notes": "Le Guin's novels are the primary object of interpretation. The argument is literary-theoretical: close reading demonstrates the thesis about speculative anthropology as method."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "literary_text",
+    "case_name": "Ursula Le Guin — The Left Hand of Darkness and The Dispossessed",
+    "case_function": "primary_object_of_analysis",
+    "case_relation_to_argument": "object_of_interpretation",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "medium",
+    "domain": "theory of utopia, science fiction studies, anthropological method",
+    "claim_type": "reconstructive",
+    "closure_type": "strong_normative_conclusion"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "case_introduction",
+    "immanent_critique",
+    "framework_proposal",
+    "case_development",
+    "case_interpretation",
+    "conclusion_strong"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["speculative anthropology", "thick description", "historicity", "world reduction", "utopia", "defamiliarization"],
+
+  "thinkers_deployed": {
+    "central": ["Geertz", "Jameson", "Le Guin"],
+    "engaged_critically": ["Jameson (world reduction critique)"],
+    "referenced_only": ["Wolf-Meyer", "Clifford and Marcus", "Kroeber (A.L.)"]
+  },
+
+  "confidence_notes": "The paper's epistemic mode is normative_with_interpretive_case where the 'case' is Le Guin's science fiction novels, read through close literary-theoretical analysis. The argument is about the methodological contribution of Le Guin's work. The case is the primary object of interpretation, not an illustration of a prior theory."
+}

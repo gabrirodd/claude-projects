@@ -1,0 +1,73 @@
+{
+  "paper_id": "kapoor-2024-intersectionality-decoloniality-indigenous-localism-a-critique",
+  "title": "Intersectionality, Decoloniality, Indigenous Localism: A Critique",
+  "author": "Kapoor",
+  "year": 2024,
+  "journal": "Theory, Culture & Society",
+
+  "opening_move": {
+    "type": "normative_puzzle",
+    "description": "Three currently dominant critical-theoretical frameworks — intersectionality (Crenshaw), decoloniality (Mignolo), and Indigenous localism (Coulthard; Tuck and Yang) — claim anti-capitalist or anti-colonial positions but, Kapoor argues via Žižek's Lacanian claim that 'Capital is Real', unconsciously accept global capitalism by culturalizing and/or localizing politics in ways that disavow political economy.",
+    "anchored_in": ["Žižek (Capital is Real)", "Crenshaw", "Mignolo", "Coulthard", "Tuck and Yang"],
+    "stakes_claimed": "Understanding how three influential progressive frameworks inadvertently conform to and fail to threaten capitalist liberal globalization — through identity politics, pluriversal authenticity, and decentralized incommensurability — is essential for a politically effective subaltern anti-capitalist politics."
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["intersectionality (Crenshaw)", "decoloniality (Mignolo)", "Indigenous localism (Coulthard; Tuck and Yang)"],
+    "engagement_structure": "immanent_critique",
+    "immanent_critique": true,
+    "own_position_type": "external_alternative",
+    "own_position_explicit": true,
+    "description": "The paper performs a Žižekian-Lacanian immanent critique of all three frameworks: accepting their critical intentions while showing how each, through culturalization (intersectionality), pluriversal authenticity politics (decoloniality), and localist incommensurability (Indigenous localism), displaces political economy and thereby accommodates rather than challenges capitalism. The alternative implied is a return to political economy and systemic critique."
+  },
+
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "Lacanian/Žižekian ideological critique: immanent reading of key texts by Crenshaw, Mignolo, Coulthard, and Tuck and Yang; application of the concept of 'disavowal' to reveal how each framework unconsciously accepts capitalism's foundational premises.",
+    "notes": "Purely normative ideological critique with no empirical cases. The three frameworks are the objects of immanent critique. The argument draws on Žižek's Lacanian concept of the Real (Capital is Real) to show how progressive identity/cultural politics can function as ideological accommodation of capitalism."
+  },
+
+  "case_type": {
+    "has_case": false,
+    "case_medium": "none",
+    "case_name": null,
+    "case_function": "none",
+    "case_relation_to_argument": "none",
+    "case_selection_justified": false
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "political theory, ideology critique, decolonial studies, feminist theory",
+    "claim_type": "critical_diagnostic",
+    "closure_type": "open_ended_with_burden_on_reader"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "immanent_critique",
+    "immanent_critique",
+    "immanent_critique",
+    "normative_derivation",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["Capital is Real", "disavowal", "culturalization of politics", "pluriversal authenticity", "Indigenous localism", "incommensurability", "political economy", "subaltern anti-capitalism"],
+
+  "thinkers_deployed": {
+    "central": ["Žižek", "Crenshaw", "Mignolo", "Coulthard", "Tuck and Yang"],
+    "engaged_critically": ["Crenshaw (intersectionality)", "Mignolo (decoloniality)", "Coulthard", "Tuck and Yang"],
+    "referenced_only": ["Lacan", "Quijano", "Butler", "Laclau", "Collins and Bilge"]
+  },
+
+  "confidence_notes": "This is a systematic immanent critique of three frameworks — each gets its own section of critique. The move_sequence reflects three sequential immanent critiques. The Žižekian framing (disavowal, Capital is Real) is the methodological anchor. High normative stake: Kapoor is making a controversial claim that intersectionality, decoloniality, and Indigenous localism, despite their critical postures, are ideologically complicit with capitalism."
+}

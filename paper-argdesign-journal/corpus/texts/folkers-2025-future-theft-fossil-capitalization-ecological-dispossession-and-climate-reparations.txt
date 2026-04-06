@@ -1,0 +1,995 @@
+[PAGE 1]
+ 1334367                                                     
+ research-article2025 TCS0010.1177/02632764251334367Theory, Culture & SocietyFolkers
+                                                             
+                                                             
+       Special Issue: Planetary Property                     
+                                             Theory, Culture & Society
+       Future Theft: Fossil                          1 –19   
+                                              © The Author(s) 2025
+       Capitalization, Ecological                            
+                                              Article reuse guidelines:
+       Dispossession, and Climate         sagepub.com/journals-permissions
+                                        httpDs:O//dIo: i1.o0r.g1/1107.711/0727/60322673267462452153133344336677
+       Reparations                         journals.sagepub.com/home/tcs
+                                                             
+       Andreas Folkers                                       
+       Institute for Social Research, Frankfurt              
+                                                             
+       Abstract                                              
+       This article criticizes the way fossil capitalization dispossesses the future. Turning
+       fossil fuel into capital entails the legal enclosure, calculative cheapening, and material
+       extraction/pollution of the future. Fossil investors’ ‘present values’ hinge on the misery
+       of those dispossessed by climate emergencies. Fossil capitalization is premised on ‘future
+       theft’ understood as a temporally inverted form of ‘original accumulation’. The durability
+       of inequality created by asset wealth is compounded by the durability of carbon waste.
+       Climate economics legitimizes and entrenches this pattern by discounting the future
+       and failing to assign responsibilities for climate costs. Tort litigations allow climate
+       victims to sue fossil fuel companies for compensation. However, they remain limited by
+       the strictures of liberal property law. Climate reparations promise to overcome these
+       limits by reclaiming the stolen future without recourse to previously settled property
+       rights. Still, they cannot escape the vicious tempo-material trajectories engendered by
+       fossil assets and their carbon afterlives.            
+       Keywords                                              
+       assets, capitalism, climate class, climate justice, climate law, critical theory, property
+                                                             
+                                                             
+       Introduction                                          
+                                                             
+       The climate movement has changed the political status of the future. The future no longer
+       serves, as it did in postwar Western welfare states, as an inexhaustible resource to tame
+       distributional conflicts between labor and capital by promising workers that they and
+       their children will be better off tomorrow. The future has become a scarce resource. It has
+       changed from a means to resolve into the very source of distributional conflicts. Rival
+       parties stake a claim on it as evidenced by accusations of ‘future theft’ articulated by the
+                                                             
+                                                             
+       Corresponding author: Andreas Folkers. Email: A.folkers@em.uni-frankfurt.de
+       TCS Online Forum: https://www.theoryculturesociety.org/
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+      2                                  Theory, Culture & Society
+                                                             
+      climate movement: ‘You are stealing our future in front of our eyes’, the 15-year-old
+      Greta Thunberg hurled at the politicians at the 24th Conference of the Parties (COP24)
+      in Katowice. The climate movement’s grievance over future theft resonates with cri-
+      tiques of how financial capitalism appropriates time and ‘extracts revenue from the
+      future’ (Mitchell, 2020: 53). Financial capital – whether in the form of a direct invest-
+      ment, equity, or credit – is premised on revenue it generates in the future – dividends,
+      rents, and interest payments. Because of the workings of interest rates and the peculiari-
+      ties of financial valuation (Doganova, 2024), investors and lenders get future revenues at
+      a ‘discount’. The difference between present and future value underpins their profits.
+      Capital is not just premised on cheap labor and cheap nature (Moore, 2015), but also on
+      a cheap future.                                        
+        This article introduces the notion of future theft that brings together and extends eco-
+      nomic and ecological critiques of intertemporal dispossession. It goes where both con-
+      cerns meet: fossil capitalization understood as the way fossil fuels become and operate
+      as capital. Here finance’s exploitative relation to the future finds its most devastating but
+      also most glaring expression. Fossil assets not only discount but dispossess the future
+      because they call forth climate damages occurring long after they have exhausted their
+      lifetime. This undermines the common justification for the devaluation of the future and
+      the virtue of private property and investment more generally, namely that it makes the
+      future richer. It makes the critique of capital’s future extraction more salient. In turn, this
+      focus shifts the attention of climate critique from climate summits to the fossil economy,
+      from international treaties to property law, from the atmospheric climate ‘imperium’ to
+      the subterranean ‘dominium’ over fossil fuels.         
+        I elaborate my notion of future theft against alternative framings that conceptualize
+      climate theft differently or deny its existence altogether. For Thunberg – and large parts
+      of the Euro-American climate movement – the struggle over the future is an intergenera-
+      tional conflict between grown-ups and children, boomers and gen zetters, present and
+      future generations. Climate economists would respond that there is no theft if the costs
+      for climate mitigation and the benefits of averted damages are balanced efficiently. As I
+      will show, this view legitimizes, entrenches and extends future theft. In contrast, the
+      focus on fossil capitalization shifts attention to the exploitative and dispossessive inter-
+      temporal but not simply intergenerational relationship between owners of fossil fuel
+      assets and those affected by climate damages. Inspired by Marxist class analysis that
+      focusses on social asymmetries mediated by property in which the wealth of one party
+      systematically depends on the misery of others, I argue that fossil asset owners claim
+      future revenues in the present that others must pay for – economically and ecologically
+      – in the future. Fossil assets mediate socio-ecological ‘class’ relations, not only as a
+      means of production and ‘durable wealth’ (Beckert, 2022) accumulation but also as a
+      means of climate destruction and durable carbon waste accumulation. I show how this
+      exacerbates inequalities in the neoliberal ‘asset economy’ (Adkins et al., 2020).
+        However, this relationship does not translate easily into the kind of political antago-
+      nism Marxist notions of class struggle suggest. Fossil fuels belong to petro-states – many
+      in the Global South, some rich, some very poor – and have historically enabled the wealth
+      of western industrialized countries. In the age of intense financial intermediation, fossil
+      assets are not just in the hands of a few Rockefellers but also in investment portfolios of
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+       Folkers                                        3      
+                                                             
+       workers’ pension funds. Similarly, victims of future theft seem to be everywhere and
+       nowhere. Everywhere because everyone is potentially affected by climate emergencies.
+       Nowhere, because the stolen future, it seems, has yet to arrive. To counter this delusive
+       elusiveness, and to give a sense of what kind of political tremors might emerge along the
+       faultline between fossil owners and climate victims, I zero in on a climate tort in which a
+       Peruvian farmer sues a German energy company for climate damages. Beyond the cast of
+       actors, the case is highly suggestive because it reveals that climate damages have already
+       arrived in the present. The case addresses future theft in a reparative and not simply pre-
+       ventative mode. It is not just about protecting ‘future generations’ but about compensating
+       climate victims now. This prompts me to ask if and how climate reparations can redeem
+       future theft understood as a historical injustice that has never ended but stretches into the
+       future.                                               
+        By mobilizing and extending approaches from valuation studies (Birch and Muniesa,
+       2020; Doganova, 2024; Muniesa et al., 2017) and critical political economy (Mitchell,
+       2020; Nitzan and Bichler, 2009), the article sets out to illuminate the dispossessive logic
+       of fossil capitalization as a form of a future theft understood as a temporally inverted
+       ‘original accumulation’ (Marx, 2024 [1867]: 650–92). I then show how hegemonic cli-
+       mate economics repeats the appropriative tendencies inscribed in fossil capitalization.
+       Climate economics devalues the future by discounting climate costs and relies on acts of
+       ‘air-appropriation’ (Folkers, 2020), in which appropriation proceeds through pollution
+       (Serres, 2010). I then turn to climate jurisprudence and show how torts mobilize the
+       matrix of responsibility inscribed into liberal notions of property. While climate torts are
+       illuminating because they can stage a confrontation between fossil asset owners and cli-
+       mate victims, their political value remains limited due to the strictures of liberal property
+       law. I will therefore probe if and how climate reparations (Burkett, 2009; Táíwò, 2022) go
+       beyond these limits.                                  
+       Fossil Capitalization: Accumulation by Future         
+       Dispossession                                         
+       This section shows how fossil fuels have become an asset through three operations of capi-
+       talization – legal, calculative, and material – each of which appropriates the future in a par-
+       ticular way. I will go beyond existing capitalization approaches by showing what happens
+       after fossil fuels have exhausted their lifetime as an economic asset and become ecological
+       liabilities. I thus maintain that it matters what matter gets capitalized, because the contingent
+       and contradictory conjuncture between capitalist temporalities and the material temporality
+       of fossil fuels and their residuals (Folkers, 2021) engenders ‘future theft’.
+       Preemption: The Legal Enclosure of the Future         
+                                                             
+       In most countries the national state acts a as ‘property-owning unit’ (Coronil, 1997: 50)
+       of fossil fuels (Asdal and Lahn, 2024; Bridge and Le Billon, 2017: 27). States often
+       exploit their reserves in cooperation with oil and gas companies. There are countless
+       juridical techniques through which companies gain access to gas, coal, and oil reserves.
+       However, there are two basic forms: concessions and contracts (Christophers, 2020: 99).
+                                                             
+                                                             
+                                                             
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+      4                                  Theory, Culture & Society
+                                                             
+      The concession, prevalent in the first part of the 20th century, engendered ‘a colonial
+      extraction regime in which the state grants private companies ownership of the subsoil’
+      (Appel, 2019: 141). Through the concession, the imperium of oil states is literally and
+      symbolically undermined by the dominium of private companies. The juridical perfora-
+      tion of the territory goes along with the physical drilling of wells.
+        The introduction of contractual models in which the state always remains the owner
+      of the resource changes the appropriation regime. In Production Service Agreements, for
+      example, states and companies negotiate how to share the future profits from oil or gas
+      projects (Appel, 2019: 137–71; Radon, 2007). The territorial appropriation of the subsoil
+      gives way to a temporal regime of appropriation (on temporal appropriation see
+      Doganova, 2024: 247–8). The companies no longer own the oil in the ground. Rather, in
+      return for their investments, they can claim their share of the future cash flows it gener-
+      ates. They don’t own fossil fuels but become shareholders of fossil assets. To secure
+      these claims, investors mobilize legal tools to secure ‘the life span of their assets’ (Pistor,
+      2019: 14). In the fossil fuel industry this ranges from ‘stability clauses’ in extraction
+      contracts to international investment treaties that prevent states from adopting stricter
+      social or environmental legislation (Dehm, 2023: 270–1; Radon, 2007). Taken together,
+      these legal tools enclose the future. Like the enclosure of land, this involves not only
+      fencing in a given terrain but making available a future that is ‘open for business’ exclu-
+      sively. This requires draining the swamps of democratic visions, revolutionary hopes,
+      and concerns over coming generations, to bulldoze the ‘deep future’ of planetary time-
+      scales, to clear it from the material entanglements that connect past, present, and future.
+      It creates a capitalist revenue horizon: a flat temporal domain that becomes calculable in
+      terms of abstract monetary units. The temporal landscape created for fossil investors
+      forecloses the democratic promise of collective future making.
+        Property law has always come with the powers of ‘time binding’ (Luhmann, 1993).
+      Already Jeremy Bentham broke with the Lockean notion of property as an effect of past
+      labor to construe it as a legal claim on the future: ‘Law alone is able to create a fixed and
+      durable possession [. . .]. Law alone can accustom men to bow their heads under the
+      yoke of foresight’ (Bentham, 1978: 50). The state-secured durable claim on property
+      both protects and produces the investment horizon. The security of property is the foun-
+      dation of economic expectations, the fundamental act of sovereign ‘de-risking’ that pro-
+      vides the bedrock on which the ever more baroque cathedrals of financial risk and
+      revenue calculations can settle. However, the trajectory from property to expectation can
+      also be reversed. As investment treaties and extraction contracts protect future revenue,
+      they create a quasi-property right of the thin air of future expectations. They legally
+      hedge the appropriation of the monetary future that has already taken place. Investment
+      becomes a form of ‘preemption’1 in which law subsequently protects a claim on a future
+      finance that has already been seized.                  
+      Discounting: The Calculative Cheapening of the Future  
+      For oil and gas companies, knowing the value of assets is crucial to decide which oil and
+      gas fields are worth investing in. The standard calculative format for this is the internal
+      rate of return (Field, 2022) – a calculative device of the discounted cash flow (DCF) fam-
+      ily that allows them to easily compare the viability of different investment opportunities.
+                                                             
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+       Folkers                                        5      
+                                                             
+       The basic assumption in DCF is that the present value of an asset is the sum of the expected
+       future monetary returns (Muniesa et al., 2017). In the fossil fuel industry, the selling of
+       coal, oil, and gas generates this income so that the geological prospection of the subsur-
+       face and the economic prospection of future market prices determine present value.
+        Yet the present value of assets depends on one further factor: the discount rate (Doganova,
+       2024). Expected returns are discounted according to a previously determined ‘rate’.
+       Justifications of discounting usually invoke the idea that investors deserve a reward for the
+       risks they take and for not consuming their wealth in the present. Thanks to their risk and
+       restraint – the reasoning goes – the future becomes investible and more prosperous. Yet the
+       effects of discounting suggest the opposite. Discounting cheapens the future. It makes an
+       asset much cheaper in the present than it promises to be in the future. With a 5% discount
+       rate, a cash flow of 100 euros a year from now is only worth 95.24 euros. The discount rate
+       expresses the rate of return and allows investors to cash in the difference between their
+       present investments and their future revenue. Accordingly, discounting, as Timothy
+       Mitchell (2020: 53) argues, ‘extracts revenue from the future’. Jason Moore (2015: 147)
+       has argued that fossil fuels are ‘cheap energy’ because their extraction ‘appropriates’ unpaid
+       biospheric work/energy. However, for the investor the value of fossil assets does not derive
+       so much from past work as from future expectations. Cheap fossil energy is not only prem-
+       ised on cheap nature but also on a discounted, cheap future. Discounting also limits the
+       temporal horizon relevant to investors. As the value of future cash flows shrinks every year,
+       far-future returns matter little for the present value of an asset. After a ‘forecast period’ of
+       usually 10 years, the ‘terminal value’ just lumps together the residual value of the future in
+       a single number. Discounting carves out a near future horizon of revenue expectation and
+       abstracts from the much longer future that fossil capitalization sets in motion.
+        As Liliana Doganova (2024: 10) observes, the discount rate is an inverse interest rate.
+       However, both investments and debts place a ‘burden of repayment’ (Mitchell, 2024) on
+       the future. Tenants must repay real estate investors’ revenue expectations with rising
+       rents. Patients must repay pharmaceutical companies’ ‘cost of capital’ with high drug
+       prices (Doganova, 2024: 210f.). In the case of the fossil fuel industry this burden initially
+       falls on extractive workers and energy consumers. To meet revenue expectations, wages
+       must comply with estimated production costs and prices need to remain high. Historically,
+       oil companies and petrostates have repeatedly curtailed their output to increase the oil
+       price (Mitchell, 2011: 163). The strategic disruption of fossil fuel supplies in geopolitical
+       conflicts has, for example, caused prices to rise and fossil asset values to appreciate.
+        With Thorstein Veblen one may criticize such practices as ‘sabotage’. For him, the
+       ‘larger meaning of the Security of Property’ is that ‘[o]wnership confers a legal right of
+       sabotage’ (Veblen, 1997: 66f.) by wasting the potential to increase material wealth in
+       favor of pecuniary returns. However, in times of climate emergency, the problem is not
+       so much that fossil fuel companies hold back their resources but that they sell them – not
+       that they waste their resources but that they waste, or pollute, the atmosphere. To avoid
+       their assets from becoming ‘stranded’, thus losing some or all of their value, fossil com-
+       panies must sell amounts of fuel bound to cause disastrous degrees of global heating
+       (Folkers, 2024). Sabotage becomes ecotage. The security of the fossil asset confers a
+       legal right to abuse nature. Such acts of ecotage place a hitherto unimaginable economic
+       and ecological ‘burden of repayment’ on the future.   
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+      6                                  Theory, Culture & Society
+                                                             
+      Extraction/Pollution: The Material Dispossession of the Future
+      The capitalized future is not ‘just’ calculative or ‘fictive’. It has all too real effects. After
+      purging, enclosing, limiting, molding, and cheapening the future through a complex
+      legal-economic apparatus, capitalization requires oil and gas companies to materialize
+      the future they have already claimed. For the calculative future to become ‘true’, capitali-
+      zation must set in motion a trajectory in which revenue expectations hold up. It needs to
+      produce a future that recursively solidifies the material ground for the preceding legal-
+      economic appropriation – it must make up a world in which its calculative formalizations
+      gain traction. In the fossil fuel industry this means funding extractive projects and build-
+      ing infrastructures that materially underpin the revenue claims on the future.
+        Mediated by technology, capital becomes a terraforming force. As the extraction of
+      fossil fuels has become ever more capital intensive, the investors’ return expectations
+      became a crucial factor in disclosing exploitable resources. When investors can expect
+      revenues that make ever bigger capital expenditures worthwhile, they can fund more
+      expensive extractive infrastructures to recover previously unavailable reserves. The
+      financial future decides the extractability of geo-historical reserves. It thus seems as if
+      the resources exist only by virtue of their capitalization. Marx (2024 [1867]: 129) already
+      observed that capital becomes its own recursive cause when the offspring start to pro-
+      duce their own parents. This also goes for the co-production of fuels and capital in fossil
+      capitalization: fossil fuels create the value of capital, but capital creates fossils as extract-
+      able fuels in the first place.                         
+        Expressing the ontology of capital, oil and gas companies construe extraction as
+      ‘production’ of fossil fuels. This echoes the colonial ideology of ‘improvement’ that
+      sought to legitimize the appropriation of indigenous land. In his theory of property, John
+      Locke (1982 [1689]) famously argued that turning ‘common’ land into private property
+      is justified if its owner cultivates and thus improves it through labor. Fossil corpora-
+      tions’ understanding of oil and gas ‘production’ reproduces this trope but, tellingly,
+      removes labor from the equation. For them it is capital’s ‘seed funding’ that allows us
+      to harvest fuels deemed unextractable before. Fossil capitalization seems to increase
+      ‘the common [fossil] stock’ (Locke, 1982 [1689]: 294) of mankind by turning it into an
+      asset and thus enriching the future. While the idea of fossil fuel ‘production’ pretends to
+      salvage underground resources from being ‘wasted’, it in fact engenders two kinds of
+      ‘wasting’: extraction and pollution. Recovering and using fossil fuels irreversibly
+      wastes the stock of available energy on the planet. It does not ‘add’ something to nature
+      but instead subtracts it. More importantly, the fossil industry is wasteful because it pol-
+      lutes the atmosphere with CO emissions. As the energy source of industrialization,
+                       2                                     
+      fossil fuels have become one of the biggest sources of production. However, they are
+      also the biggest source of pollution and destruction. The double waste they engender
+      undermines the logic of productive appropriation, the link between labor/production
+      and property/prosperity that informed the moral economies of proponents and critics of
+      liberal ownership regimes from Locke to Marx.          
+        This constitutes the unique role of fossil capitalization. Like other assets wrought
+      from the earth, it appropriates nature. Like other forms of capitalization, it relies on a
+      cheap discounted future. But fossil assets come with an economic and ecological
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+       Folkers                                        7      
+                                                             
+       surcharge on the planetary future. Fossil values – claimed in the present and ‘extracted’
+       from the future – not only rely on paybacks from extraction workers and energy consum-
+       ers. The carbon waste they produce demands payback in the form of biospheric work of
+       carbon sequestration. The climatic changes they trigger require adaptation work that is
+       mostly unpaid or underpaid (Johnson et al., 2023). Finally, the ecological destruction
+       global heating causes is already responsible for enormous waves of dispossession rang-
+       ing from damaged homes and deteriorating property values to the disappearance of
+       whole islands, coastal regions and the uninhabitability of ever larger parts of the planet.
+       The creation of fossil assets does not improve but rather impoverishes ‘the future’ – or,
+       to be more precise, the future revenues fossil assets generate for investors tacitly rely on
+       the burdens of those affected by climate damages.     
+        Fossil capitalization relies on a temporally inverted form of what Marx (2024 [1867]:
+       650–92) called ‘original accumulation’. Marx famously argued that capitalism is borne
+       out of a violent process of expropriation that created the conditions for exploitation – the
+       separation of workers from the means of production. Critical theorists have extended
+       Marx’s concept, emphasizing that large scale expropriation is not a single event but a
+       recurring feature of capitalism (Harvey, 2014). This characterizes fossil capitalization, as
+       extractive projects are often accompanied by massive forms of dispossession, especially
+       of indigenous lands (Watts, 2012). However, future theft entails a further twist. In fossil
+       capitalization dispossession not just precedes accumulation but also follows it. Since
+       present fossil asset values are premised on future climate emergencies, fossil accumula-
+       tion delays dispossession and defers it into the future and to places often far removed
+       from the sites of extraction and combustion. If, as Marx (2024 [1867]: 651) maintained,
+       the original accumulation is the ‘prehistory’ of capitalism, ecological dispossession is its
+       posthistory. Nevertheless, future theft is no less constitutive than past expropriations
+       because fossil assets are only valuable because they discount and disavow their constitu-
+       tive future violence.                                 
+        Whereas Marx (2024 [1867]: 682) saw expropriative state violence as the ‘hothouse’
+       breeding capital, fossil capitalization delegates dispossession to a seemingly natural
+       agent: the slow violence of fossil residuals (Folkers, 2021) that create a hothouse earth
+       breeding storms and droughts, fires and floods. These delays and delegations allow inves-
+       tors to divest themselves from the destructive effects of their investments, to disown the
+       liabilities of their assets. By limiting the relevant time horizon to the near future, discount-
+       ing makes the deep climate future that fossil capitalization brings forth invisible. By
+       cheapening and limiting the future, fossil capitalization engenders and hides ‘future theft’
+       (Table 1).                                            
+       Climate Economics: Capitalizing the Atmosphere,       
+       Discounting the Future, Legitimizing Theft            
+       Rosa Luxemburg (2015) has argued that capitalism relies on the constant appropriation
+       of non-capitalistic milieus. Fossil capitalization also produces and relies on an outside;
+       but it is not just spatial but also temporal. It introduces a financial asset life outlived by
+       its ecological liabilities. Carbon emissions are the afterlife of past financial near futures
+                                                             
+                                                             
+                                                             
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+      8                                  Theory, Culture & Society
+                                                             
+      Table 1. Operations of fossil capitalizations.         
+      Mode    Legal            Calculative  Material         
+      tools of concession, contract, DCF (discounted cash fossil fuel extraction
+      appropriation investment treaties, arbitration flow) and combustion
+                                                             
+      type of future foreclosing alternative ways of cheapening/devaluing dispossession by
+      theft   future making    the future   climate disaster 
+                                                             
+      and, at the same time, material operators of the planetary far future. With the growing
+      awareness of the climate crisis, attempts to take the destructiveness of carbon emissions
+      into account economically emerged. Climate economics and the political technologies
+      they envision – carbon taxes and markets – seem to address the overshoot of fossil prop-
+      erty as they seek to ‘internalize’ the ‘social cost of carbon’. At first glance this reverses
+      the appropriative gesture of fossil capitalization. It does not exploit an outside but rather
+      folds the outside in by ‘pricing externalities’. Yet, to do so the outside is made economi-
+      cally digestible by turning the slow and fast violence of climate dispossession into a mere
+      matter of ‘social cost’ (Coase, 1960). Like the appropriative acts discussed previously,
+      internalization creates its own terrain by turning the scarred landscape of climate damage
+      into a flat surface of cost.                           
+        The inaugural act of climate economics is the seizure of its domain. It claims the
+      atmosphere as a ‘common property of mankind’ (Edenhofer et al., 2013: 2). Unlike the
+      fossil dominium, which is ruled by its private or state owners, the atmosphere, as a global
+      common, can be brought under the rule of the climate imperium. But what allowed for
+      and made necessary this becoming property of the atmosphere? Edenhofer et al. (2013:
+      10) argue that the atmosphere is an asset whose net present value derives from the ‘cli-
+      mate rent’ generated by selling pollution rights. This reasoning reveals the secret of how
+      the atmosphere became property in the first place. The economic value of the atmos-
+      phere, we learn, does not derive from its ecological capacity to create a balanced tem-
+      perature but from its economic appropriation as a dumb space for carbon emissions.
+        To subvert theories of productive appropriation according to which something
+      becomes property by mixing it with work (Locke, 1982 [1689]: 288), Michel Serres
+      (2010) introduced the concept of ‘appropriation through pollution’, according to which
+      something becomes property by mixing it with waste. This does not only hold true for the
+      curious cases Serres discusses, like spitting on food to claim it for yourself, but also for
+      the way the atmosphere became ‘common property’ in and through its ecological wreck-
+      age. The pollution of the atmosphere with CO emissions appropriated the atmosphere.
+                                2                            
+      In a logic reminiscent of that of preemption discussed above, the material act of pollutive
+      ‘air-appropriation’ (Folkers, 2020) thus preceded the subsequent declaration of the dam-
+      aged atmosphere as a global common. Only because of this pollutive seizure did it
+      become possible for climate scientists to measure and map the atmosphere in terms of
+      carbon molecules. In carbon budgeting the parts per million of carbon in the atmosphere
+      indicate the ‘atmospheric capital’ (WBGU, 2009: 2), the dumb space left to pollute
+                                                             
+                                                             
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+       Folkers                                        9      
+                                                             
+       without exceeding certain temperature thresholds. This provides the calculative bedrock
+       for the economic distribution of limited atmospheric pollution rights.
+        Once established, this logic started to spill over to other earth spheres. The ‘cost of
+       carbon’ is now the most prominent accounting unit to value the biosphere. In ‘natural
+       capital’ accounting, trees, wetlands, even whales (Buller, 2022: 1) become valuable
+       because they sequester carbon. Again, the calculative and legal work of turning nature
+       into a carbon sink and thus a ‘carbon asset’ (Langley et al., 2021) depends on the preced-
+       ing pollutive appropriation through the carbon residuals of fossil fuels. Atmospheric
+       appropriation engenders biospheric appropriation. Pollution breeds property. It turns
+       nature into capital. Pollution achieves what production could never do. It spawns a
+       boundless über-appropriation that, while exceeding the limits of private property, does
+       not end ownership per se. It rather turns the entire planet into property and assigns ‘man-
+       kind’ as its owner.                                   
+        The assigning of a property title to the atmosphere raised the question of how to ab/
+       use it most efficiently. How to pollute it in a way that none of its waste disposal capacity
+       is ‘wasted’, so left unexploited. This led to the search for an ‘optimal climate change’
+       (Randalls, 2011) which the czar of climate economics, William Nordhaus, described as
+       finding the sweet spot ‘between wrecking the economy and wrecking the world’
+       (Nordhaus in Buller, 2022: 18). To identify the atmosphere’s ‘maximum sustainable
+       yield’, climate economists conduct a cost-benefit analysis weighing the costs for decar-
+       bonization against its benefit – the avoided costs of future climate damage. Long before
+       ‘loss and damage’ became a prominent concern in climate politics, this analysis addressed
+       the problem of climate destruction from an economic perspective. Since climate cost-
+       benefit analyses are about an intertemporal distribution, they – like asset valuations – use
+       discounting, which reduces the future costs of climate damages in relation to the current
+       benefits of fossil fuel combustion. Climate economists usually justify this by the assump-
+       tion that since ‘the future’ will be richer, it will be better equipped to deal with climate
+       damages (Dasgupta, 2008). ‘We’ cannot curtail fossil growth too much now, because
+       ‘our children’ will need it to be rich enough to deal with the fallout of this growth.
+       Discounting once again cheapens the future, which lowers the ambition to fight climate
+       change. In addition, discounting – again – limits the future to be taken into account. As
+       Archer (2016) shows, each carbon molecule causes climate perturbations over one hun-
+       dred thousand years on its long journey through the earth system. However, when trans-
+       lating these damages into discounted cost, the future horizon shrinks to a few decades
+       (Archer, 2016: 172). Discounting not only limits the lifetime of a fossil asset but also
+       abstracts from its long carbon afterlife as ecological liability. Discounting underpins the
+       fossil revenue horizon twice: by allowing investors to buy fossil assets cheaper in the
+       present and by reducing the ‘social costs of carbon’, making it less likely that fossil
+       assets are ‘stranded’ due to stricter climate regulation. High discount rates prevent cli-
+       mate economics from preempting further future theft. If the full carbon cost of fossil
+       assets would have to be considered in their valuation, they could have never been borne
+       and fossil fuels never extracted.                     
+        Yet, the logic of climate economics is flawed beyond discounting. It does not consider
+       who will have to bear the actual costs of carbon and who is responsible for them. In fact,
+       Ronald Coase (1960) introduced the concept of ‘social cost’ to dodge the legal
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+      10                                 Theory, Culture & Society
+                                                             
+      problematic of liabilities for property damages caused by other properties – for example,
+      one farmer’s cows trampling on another farmer’s cornfield. Instead of holding one party
+      liable, one should assume a reciprocal relation of costs and benefits to be balanced in a
+      way that increases the welfare of all involved parties. This displacement of legal respon-
+      sibility in favor of economic efficiency casts its long shadow over the contemporary
+      political economy of climate change. In hegemonic climate economics and politics there
+      are no serious considerations to mobilize the revenues from ‘using’ the atmospheric asset
+      to fund compensations for the damages of global heating. The neoliberal strategy to put
+      a price on carbon was never about covering future costs but about sending price signals
+      to steer market behaviour.                             
+        Similarly, economic cost-benefit calculations only account for on an idealized future,
+      not for the way the future will be burdened by the past. They only consider the remaining
+      atmospheric assets in terms of carbon budgets, not the actual ecological liabilities of fos-
+      sil fuels. The focus on the efficient use of atmospheric assets translated into a neat cli-
+      mate goal has created a dangerous illusion: within the temperature limits, everything will
+      be fine. Even though climate goals based on cost-benefit analysis explicitly acknowl-
+      edge, and thus legitimize, damages below the temperature threshold, they do not come
+      with meaningful consideration of how to deal with those damages. This becomes pain-
+      fully obvious today as climate change is no longer just a threatening future but has
+      become a hard felt present reality. We already inhabit the discounted future and must
+      repay the climate debt at a steep interest. It’s payback time! We are doomed to carry the
+      ‘yoke’ of yesterday’s foresight. We will very likely fail to reach our climate goals. But we
+      must also concede that the climate goals have always already failed us. The present cli-
+      mate damages which are still below what economists believed to be an ‘optimal climate
+      change’ are already painful to most, devastating to many, unbearable to more and more.
+      While the atmospheric assets are shrinking rapidly, we are left with fossil liabilities
+      nobody seems to own but everyone must bear – in a common but highly unequal and
+      discriminatory way.                                    
+      Reclaiming the Stolen Future: From Climate Tort to     
+      Reparation                                             
+      Climate economics abstracts from the polarization of climate victims and perpetrators, of
+      winners and losers in the ‘climate casino’ (Nordhaus, 2013). The accusation of future
+      theft by the Euro-American climate movement challenges this framing by pointing out
+      how discounting future ‘costs’ creates an intergenerational rupture. It delays climate
+      action and disproportionally places climate costs on future generations. However, gen-
+      erational framings tend to divert attention from other climate equity issues (Humphreys,
+      2022). For decades climate justice advocates have stressed that high emissions in the
+      North have contributed most to global heating whose effects will disproportionately fall
+      on the South (Agarwal and Narain, 1991). In addition, a recent study by Chancel (2022)
+      showed that the richest 10% of the world’s population emit almost four times more than
+      the poorest 50%. Remarkably, the driving force behind this is the same that, according to
+      Chancel’s long-time collaborator Thomas Piketty (2014), also explains rising economic
+                                                             
+                                                             
+                                                             
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+       Folkers                                        11     
+                                                             
+       inequality: asset wealth accumulation: ‘the bulk (70%) of emission from the global top
+       1% comes from their investments rather than from their consumption. This appears to be
+       due to the rise [. . .] in wealth inequality’ (Chancel, 2022: 934f.). It is, in other words, not
+       so much how the 1% spend their money (e.g. on private jets) but how they make their
+       money (as fossil investors). It’s fossil capital, not just carbon consumption. This under-
+       lines the importance of focusing on the relation between fossil asset owners and climate
+       victims as an intertemporal and not simply intergenerational relation. Therefore, in the
+       next section I explore what socio-political tremors might emerge along this faultline. I
+       analyse a climate tort that shows the potential as well as the limit of the liberal matrix of
+       ownership for holding fossil capitalists accountable and then reflect on the (im)possibil-
+       ity of just climate reparations.                      
+       Climate Torts                                         
+                                                             
+       Hegel (1991: 73) conceptualized property as the ‘external sphere of freedom’ – the realm
+       of possessed things through which the person’s free will receives an objective existence.
+       Marx showed how this sphere tends to operate independently of willed subjects: as com-
+       modity, property assumes a life of its own. Fossil assets extend and explode this ten-
+       dency. They inflate the radius of their owner’s actions qua CO emissions into the deep
+                                         2                   
+       time of the earth system. This has legal ramifications. By extending their selves into
+       possessed objects, the ‘absentee owners’ (Veblen, 1997) of fossil assets become poten-
+       tially liable for the latter’s unruly actions, the spills and leaks of property. Property law
+       provides a matrix to address these liabilities and equips propertied victims of damages
+       with legal standing. That is why climate jurisprudence became a privileged site for cli-
+       mate activists seeking to hold fossil companies responsible. In a current climate tort
+       brought before a regional court in Germany, the Peruvian farmer Saúl Luciano Lliuya
+       has sued the energy company RWE for climate damages (Bertram, 2022; Walker-
+       Crawford, 2023). The case connects fossil asset owners and the ‘owners’ of climate costs
+       across long spatio-temporal distances, crossing existing jurisdictions.
+        Lliuya’s property is threatened by a glacier that is rapidly melting because of global
+       heating. Models show that if part of the glacier should collapse into the glacial lagoon, a
+       giant flood wave could destroy his village (Frey et al., 2018). What prevents the villagers
+       from drowning is a dam and a drainage system. The plaintiffs therefore claim a contribu-
+       tion by RWE for these resilience expenditures. The lawsuit is based on a passage in
+       German property law which prohibits interference with another’s property. The clause
+       usually applies to neighborhood disputes, regulating cases of nuisance between proxi-
+       mate properties. By admitting the action to trial, however, the court recognized that cli-
+       mate change brings about new planetary neighborhoods. The CO -saturated atmosphere
+                                           2                 
+       creates a new juridical topology in which distant places become proximate. Remarkably,
+       the legal commentary to the law from 1899 already states:
+        We live at the bottom of a sea of air. This [. . .] necessarily means that human action extends
+        into the distance. [. . .] [O]ne must not only consider the relationship of neighbor to neighbor
+        [. . .] the scope of the owner’s right can also be made to bear on all people.2
+                                                             
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+      12                                 Theory, Culture & Society
+                                                             
+      The atmosphere becomes a medium for the spatial and temporal extension of fossil asset
+      owners’ dominium. It allows them to ‘act’ on distant times and spaces. This constitutes
+      their threatening power over the destiny of the planet but also explodes their legal
+      liability.                                             
+        The plaintiffs have assembled a cascade of expertise to knit together the casual chain
+      connecting RWE and Lliuya. Hazard modelling shows that Lliuya’s property is threat-
+      ened by the melting glacier (Frey et al., 2018). Climate attribution studies indicate that
+      global heating is responsible for melting glaciers in the Andes (Stuart-Smith et al., 2021).
+      Carbon accounting reveals the extent to which RWE is responsible for climate change.
+      For the latter, the lawsuit draws on information by the Carbon Majors project, which
+      compiles data on the historic CO emissions of the companies which together occupy
+                         2                                   
+      more than two-thirds of the atmospheric carbon dump (Heede, 2014). RWE has contrib-
+      uted roughly 0.5% of carbon emissions, and therefore should, the plaintiffs argue, bear
+      0.5% of the cost for flood protection, or $18,800. This form of carbon accounting turns
+      CO emissions into forensic evidence. By linking historical emissions to present and
+        2                                                    
+      future damages, carbon forensics, unlike climate economics, does not present the atmos-
+      phere as a finite dumping ground to be exploited as efficiently as possible. Rather it treats
+      it as an archive: not as an almost depleted resource, but as a repository of fossil residuals
+      that can be turned into indexes of historical injustice. Not as a ‘budget’ of remaining
+      atmospheric capital but as a legal balance sheet where emissions enter on the liability
+      side as carbon debt.                                   
+        While the court case certainly provides an interesting scenario of how to deal with
+      fossil liabilities, it offers little more than ‘environmental justice “light”’ (Bertram, 2022).
+      Climate compensations based on individual court decisions will likely remain sporadic
+      and require resources that victims often don’t have. German non-governmental organiza-
+      tions funding the case have already invested much more in the court proceedings than the
+      amount in dispute. And even if the case succeeds – which is questionable – it remains
+      trapped by strictures of property law that can only reckon with property owners.
+      Compensations in climate torts necessarily reproduce existing distributions of property
+      and wealth. Climate damages in poorer countries are simply cheaper than those in the
+      rich countries. Given the current distribution of wealth and power, it is not unlikely that
+      wealthy owners of waterfront properties have a better chance to receive climate compen-
+      sations than poor people who would need them most. Nor can torts offer compensations
+      in cases in which clearly assigned property titles don’t exist. They therefore exclude
+      everyone without existing property titles, ranging from the already dispossessed to all
+      communities that don’t conform to Western understandings of property. Historically, this
+      was the reason why slave owners and not the enslaved received compensation after the
+      abolition of slavery. Nowadays, there is the real risk that a similar pattern will ensue.
+      Should governments decide to prohibit further fossil extraction projects, the rules for
+      calculating compensation in international investment treaties often guarantee investors
+      reimbursement for forgone revenues of politically ‘stranded assets’ (Dehm, 2023). They
+      would, in other words, receive compensation for merely expected profits and not only for
+      past costs for extractive infrastructure. In contrast to the super-secured assets of fossil
+      owners, victims of climate damages have no similar claim on the future. They could only
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+       Folkers                                        13     
+                                                             
+       claim compensation for actual costs or, in the absence of a legal claim on property, are
+       excluded from compensation altogether.                
+                                                             
+       Climate Reparations                                   
+       Recent calls for climate reparations (Burkett, 2009; Táíwò, 2022) promise to move the
+       struggle for the repayment of ‘climate debt’ beyond individual compensation for prop-
+       erty owners. Historically, reparations have been a vehicle to circumvent the problem that
+       one can only receive compensation or a repayment of debt in the presence of established
+       property claims, or contractual agreements. Reparations transcend the established legal
+       system towards a more fundamental ‘right to have rights’. In this vein, climate repara-
+       tions could create a legal standing of climate victims in the absence of a previously exist-
+       ing property title. They could address ‘theft’ where that which has been stolen has never
+       been formally owned.3                                 
+        However, the problem of ‘future theft’ provides a significant challenge even for the
+       way reparations have traditionally been conceived: addressing past historical injustices.
+       Global heating clearly represents a historical injustice. But it is by no means a problem
+       of the past but will only be aggravated in the future. Its wounds will not heal but be exac-
+       erbated with time, because the accumulation of fossil capital not only relies on the past
+       but also on future dispossessions. ‘Climate debt’ cannot be settled once and for all
+       because it extends into the future with compound interest. Reparations traditionally
+       entail the obligation of non-repetition and the elimination of the source of harm (Burkett,
+       2009). Climate reparations thus imply fossil fuel abolition. However, since – once
+       released in the atmosphere – CO will stay there for centuries and heat up the planet
+                         2                                   
+       further, climate change is nothing but the repetition of the past in the future. Global heat-
+       ing intensifies and sustains other deep-rooted and similarly unfinished historical injus-
+       tices. As Olúfẹ́miTáíwò (2022: 170f.) writes:         
+        It is not that every aspect of today’s global racial empire is rooted in the impacts of climate
+        change. But every aspect of tomorrow’s global racial empire will be. Climate change is set not
+        just to redistribute social advantages, but to do so in a way that compounds and locks in the
+        distributional injustices we’ve inherited from history.
+        One of the most important contemporary engines for sustained distributional injus-
+       tices, both in terms of race and class, is the neoliberal ‘asset economy’ (Adkins et al.,
+       2020). It has widened the gap between rich and poor by making ownership the major
+       source of wealth generation as returns on capital exceed growth in income from labor
+       (Piketty, 2014). This has also made economic inequality more durable. In addition to the
+       extension of asset lifetimes, a variety of legal, economic, and political techniques make
+       it possible to transfer wealth over time, by either passing it to family members (Beckert,
+       2022) or containing it in the corporation (Davies, 2020).4 With global heating the dura-
+       bility and escalating dynamics of inequalities created by asset wealth accumulation will
+       be compounded by the ecological durability of carbon waste accumulation. Wealthy fos-
+       sil asset owners are in the unique position to make a net economic gain from climate
+       change. Because they can transfer their capital over time at compound interest, they and
+                                                             
+                                                             
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+      14                                 Theory, Culture & Society
+                                                             
+      their heirs will likely be economically richer in a costly catastrophic climate future than
+      in an alternative scenario in which their assets are stranded because of stricter climate
+      regulation. For them it really is advantageous to discount future climate costs because
+      they will likely be richer in the future that discounting engenders. Even though the top
+      10% will – according to estimates by Chancel et al. (2023: 86) – suffer a relative income
+      loss of 3% from climate damages, this will easily be compensated by a return on their
+      investments which ranges between 7% and 9% among the top 1%. The bottom 50%, on
+      the other hand, will have an income loss of 75%, which amounts to complete disposses-
+      sion. The burden of repayment imposed by climate damages will likely resemble a gro-
+      tesquely regressive tax on the future.                 
+        The twin processes engendered by inherited economic wealth and inherited ecologi-
+      cal waste make fossil asset owners the obvious target for climate reparation demands.
+      They are not only disproportionally responsible for global heating. Their wealth is intrin-
+      sically bound up with climate damages. As a ‘zombie form that outlives mortal humans’
+      (Davies, 2020), the fossil corporation seems to be a particularly suitable target for such
+      complex temporal claims, because it represents a non-human legal heir for the legacies
+      of capital and carbon accumulation. However morally and economically justified, the
+      political prospects of targeting fossil capitalists are limited. The ongoing-ness of the
+      climate emergency not only deprives its victims of any sense of closure. Its costs will
+      also likely overwhelm its perpetrators. All existing estimates indicate that the overall
+      costs of future climate damages will exceed accumulated fossil revenues. Just imagine
+      all the destroyed water pumps and infrastructure, lost harvests and drowned cities all
+      over the world that RWE would have to pay 0.5% for – now and in the deep future. In the
+      economy of planetary energy flows, the energetic ‘return’ of fossil fuels will far exceed
+      the return of fossil capital. As Archer explains (2016: 174): ‘The bad global heating
+      energy from burning a gallon of oil ultimately outweighs the good energy by a factor of
+      about 40 million.’ All that which fossil capitalization discounted to secure ‘present val-
+      ues’ is bound to return as unpayable debt with compound interest in the future. This
+      implies that demands for climate reparations addressing fossil companies are doomed to
+      fail. They can either only claim symbolic compensations or will bankrupt the source of
+      compensations with more ambitious demands. While certainly morally satisfying, this
+      would not help politically or economically.            
+        Fossil capitalization inaugurates a tempo-materially mediated ‘class’ relation in which
+      the exploiters/expropriators will probably have already disappeared before the exploited/
+      expropriated have fully emerged – after all, the latter includes the not yet born. Fossil
+      accumulation’s deferral of dispossessions into the future immunizes fossil asset owners
+      against being held fully accountable. As much as climate reparation might strive to
+      reclaim and redeem the stolen future, it comes up against the irreversibility of the mate-
+      rial time of climate change and the contradiction between the finite life of the fossil asset
+      and the virtual infinity of its carbon afterlives. In many ways this situation is extremely
+      frustrating as the final day of reckoning will never arrive. The contemporary moment in
+      which fossil asset owners and climate victims can have their literal and proverbial ‘day
+      in court’ is just a blip in the deep time of the earth system – an important one, to be sure,
+      not to be missed to claim as much payback as possible. 
+                                                             
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+       Folkers                                        15     
+                                                             
+        In the climate long run, however, when even the zombie fossil corporations will be
+       dead, it will no longer be possible to fully reclaim the stolen future from its thieves.
+       Rather, there is reason to fear that climate damages will eventually really become ‘social
+       costs’ – but neither in an efficient Coasian nor in an equitable socialist sense. The best
+       one could hope for would probably be something like a tax funded or subsidized climate
+       insurance mechanism that socializes risks. The experience of the social insurance in the
+       welfare state (Ewald, 2020) suggests that this might be much more effective in providing
+       existential support to climate victims than fighting for compensation in court. Non-
+       governmental organizations have long called for public climate insurance schemes to be
+       partly funded by the revenue from carbon taxes which could – given the wealth-emission
+       and poverty-vulnerability nexus – in fact be redistributive if designed appropriately
+       (Richards and Boom, 2014). Still, the source of such tax revenues will – hopefully – dry
+       out at the time when it would be needed most. In contrast to the welfare state counting on
+       rising tax income due to economic growth, a future climate risk regime would have to
+       cope with a diminishing carbon tax base. But even a just way to socialize climate cost
+       could only offer financial compensation for losses that are often incommensurable. It
+       cannot redeem existential injuries. It can compensate you for belongings but not the
+       world you belong to.                                  
+        These limits indicate the need to go beyond the logic of ‘social cost’ and capitalist
+       ownership. For Marx (2024 [1867]: 791) the revolution was a reversal of the original
+       accumulation, the reappropriation of what was stolen during the dispossessive beginning
+       of capitalism. The ‘expropriators are expropriated’. This reappropriation was not simply
+       restitutive. The revolution would also reappropriate the wealth generated through exploi-
+       tation made possible by the original dispossession. However, the logic of capitalist pre-
+       appropriation – future theft as temporally inverted ‘original accumulation’ – complicates
+       socialist re-appropriation. Dispossession is yet to come. If the value of fossil assets is not
+       simply based on past labor, but on the economic and ecological burdens they impose on
+       the future, one cannot appropriate material wealth without the waste that goes along with
+       it. Capital’s ecological afterlife would extend into post-capitalism. The revolution must
+       therefore be reparative and not just re-appropriative. It needs to redeem past exploita-
+       tions and future dispossessions – not only seize the wealth tied up in the shackles of
+       private property but repair the damage caused by the polluting logic of appropriation.
+       Conclusion                                            
+       The climate emergency makes the negativity of property – destruction and dispossession
+       – a more and more widely shared experience. This calls for an ecological critique of
+       property that emphasizes the pollutive rather than productive character of appropriation.
+       This article provides steps towards such a critique by illuminating the logic of future
+       theft as a temporally and materially mediated class relation between fossil asset owners
+       drawing value from and victims of climate damage becoming dispossessed in the future.
+       Fossil asset ownership creates durable economic wealth for some but ecological waste
+       for everybody. The contradiction of fossil capitalism between individual enrichment and
+       collective impoverishment is glaring. But the temporal schism between the accumulation
+       of fossil capital and the dispossession it depends on prohibits holding fossil companies
+                                                             
+                                                             
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+      16                                 Theory, Culture & Society
+                                                             
+      and their shareholders fully accountable for climate damages. Carbon liabilities will out-
+      live the fossil assets. However, this also prohibits finding refuge in the old apologies of
+      property. Property is not productive but pollutive, it does not secure but endanger the
+      future, it does not improve but ruin the planet and its inhabitants.
+      Acknowledgements                                       
+      I presented different parts and versions of this article at the Institute for Advanced Study in
+      Princeton, Helsinki-University, Sciences Po Paris, Central European University in Vienna,
+      Phillips-University Marburg, and online at the University of Jena and the School of Advanced
+      Study, University of London. I thank the organizers for the invitations, the various prompts that
+      inspired me to explore different facets of the article, and thought-provoking discussions. I would
+      also like to thank the contributors to this Special Issue for an extremely insightful zoom discussion
+      of my article. Last but not least, I thank the four anonymous referees for their enormously percep-
+      tive and productive comments.                          
+      Funding                                                
+      The author disclosed receipt of the following financial support for the research, authorship, and/or
+      publication of this article: The work on this article has been funded by a grant from the German
+      Research Foundation (Grant No. 433336180).             
+                                                             
+      ORCID iD                                               
+      Andreas Folkers https://orcid.org/0000-0002-6721-3663  
+                                                             
+      Notes                                                  
+      1. On preemption in North-American property law that legalized the illicit land appropriations
+        by settlers see Nichols (2020: 39).                  
+      2. See: https://rwe.climatecase.org/en/legal           
+      3. For a brilliant analysis of how this conundrum plays out in attempts to compensate indigenous
+        people for colonial dispossessions see Nichols (2020).
+      4. This hits particularly hard communities that have, historically, been excluded from ownership
+        and/or victims of colonial dispossession. The enduring inequalities in ownership between
+        black and white US-Americans represent a flagrant example (Taylor, 2019).
+      References                                             
+      Adkins, Lisa, Cooper, Melinda and Konings, Martijns (2020) The Asset Economy. Cambridge:
+        Polity.                                              
+      Agarwal, Anil and Narain, Sunita (1991) Global Warming in an Unequal World: A Case of
+        Environmental Colonialism. New Delhi: Centre for Science and Environment.
+      Appel, Hannah (2019) The Licit Life of Capitalism: US Oil in Equatorial Guinea. Durham, NC:
+        Duke University Press.                               
+      Archer, David (2016) The Long Thaw: How Humans are Changing the Next 100,000 Years of
+        Earth’s Climate. Princeton, NJ: Princeton University Press.
+      Asdal, Kristin and Lahn, Bard (2024) Governing as Valuing: Assetization and the Making of the
+        Norwegian Wealth Fund. Environment and Planning A: Economy and Space 56(8): 2089–
+        2104.                                                
+                                                             
+                                                             
+                                                             
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+       Folkers                                        17     
+                                                             
+       Beckert, Jens (2022) Durable wealth: Institutions, mechanisms, and practices of wealth perpetua-
+         tion. Annual Review of Sociology 48(1): 233–255.    
+       Bentham, Jeremy (1978) Security and equality of property. In: Macpherson, Crawford Brough
+         (ed.) Property. Mainstream and Critical Positions. Toronto, ON: University of Toronto
+         Press, pp. 41–58.                                   
+       Bertram, Daniel (2022) Environmental justice ‘light’? Transnational tort litigation in the corporate
+         Anthropocene. German Law Journal 23(5): 738–755.    
+       Birch, Kean and Muniesa, Fabian (2020) Assetization: Turning Things into Assets in Technoscientific
+         Capitalism. Cambridge, MA: MIT Press.               
+       Bridge, Gavin and Le Billon, Philippe (2017) Oil. Cambridge: Polity.
+       Buller, Adrienne (2022) The Value of a Whale: On the Illusions of Green Capitalism. Manchester:
+         Manchester University Press.                        
+       Burkett, Maxine (2009) Climate reparations. Melbourne Journal of International Law 10: 509.
+       Chancel, Lucas (2022) Global carbon inequality over 1990–2019. Nature Sustainability 5(11):
+         931–938.                                            
+       Chancel, Lucas, Bothe, Philipp and Voituriez, Tancrèe (2023) Climate Inequality Report 2023.
+         World Inequality Lab. Study 2023/1. https://agritrop.cirad.fr/611813/1/611813.pdf
+       Christophers, Brett (2020) Rentier Capitalism: Who Owns the Economy, and Who Pays for It?
+         London: Verso Books.                                
+       Coase, Ronald Harry (1960) The problem of social cost. The Journal of Law & Economics 56(4):
+         837–877.                                            
+       Coronil, Fernando (1997) The Magical State: Nature, Money, and Modernity in Venezuela.
+         Chicago, IL: University of Chicago Press.           
+       Dasgupta, Partha (2008) Discounting climate change. Journal of Risk and Uncertainty 37: 141–
+         169.                                                
+       Davies, William (2020) Succession economics: Sustaining prosperity beyond death. CUSP Working
+         Paper Series 24. https://research.gold.ac.uk/id/eprint/28781/1/WP24%E2%80%94Succession-
+         Economics-web.pdf                                   
+       Dehm, Julia (2023) Legally constituting value. The green economy and stranded assets. In:
+         Feichtner, Isabel and Gordon, Geoff (eds) Constitutions of Value: Law, Governance, and
+         Political Ecology. London: Routledge, pp. 255–275.  
+       Doganova, Liliana (2024) Discounting the Future: The Ascendancy of a Political Technology.
+         New York, NY: Zone Books.                           
+       Edenhofer, Ottmar, Flachsland, Christian, Jakob, Michael, et al. (2013) The atmosphere as a global
+         commons: Challenges for international cooperation and governance. The Harvard Project on
+         Climate Agreements, Discussion Paper 13–58. https://www.pik-potsdam.de/members/edenh/
+         publications-1/copy_of_HarvardKennedySchool.pdf     
+       Ewald, François (2020) The Birth of Solidarity: The History of the French Welfare State. Durham,
+         NC: Duke University Press.                          
+       Field, Sean (2022) Carbon capital: The lexicon and allegories of US hydrocarbon finance. Economy
+         and Society 51(2): 235–258.                         
+       Folkers, Andreas (2020) Air-appropriation: The imperial origins and legacies of the Anthropocene.
+         European Journal of Social Theory 23(4): 611–630.   
+       Folkers, Andreas (2021) Fossil modernity: The materiality of acceleration, slow violence, and
+         ecological futures. Time & Society 30(2): 223–246.  
+       Folkers, Andreas (2024) Calculative futures between climate and finance: A tragedy
+         of multiple horizons. The Sociological Review. Epub ahead of print 17 June 2024.
+         DOI:10.1177/00380261241258832.                      
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+      18                                 Theory, Culture & Society
+                                                             
+      Frey, Holger, Huggel, Christian, Chisolm, Rachel E., et al. (2018) Multi-source glacial lake out-
+        burst flood hazard assessment and mapping for Huaraz, Cordillera Blanca, Peru. Frontiers in
+        Earth Science 6: 210.                                
+      Harvey, David (2014) The ‘new’ imperialism: Accumulation by dispossession. Socialist Register
+        40: 63–87.                                           
+      Heede, Richard (2014) Tracing anthropogenic carbon dioxide and methane emissions to fossil fuel
+        and cement producers, 1854–2010. Climatic Change 122(1–2): 229–241.
+      Hegel, Georg Wilhelm Friedrich (1991) Elements of the Philosophy of Right. Cambridge:
+        Cambridge University Press.                          
+      Humphreys, Stephen (2022) Against future generations. European Journal of International Law
+        33(4): 1061–1092.                                    
+      Johnson, Leigh, Mikulewicz, Michael, Bigger, Patrick, et al. (2023) Intervention: The invisible
+        labor of climate change adaptation. Global Environmental Change 83: 102769.
+      Langley, Paul, Bridge, Gavin, Bulkeley, Harriet, et al. (2021) Decarbonizing capital: Investment,
+        divestment and the qualification of carbon assets. Economy and Society 50(3): 494–516.
+      Locke, John (1982 [1689]) Second Treatise of Government: An Essay Concerning the True
+        Original Extent and End of Civil Government. Wheeling: Harlan Davidson.
+      Luhmann, Niklas (1993) Das Recht der Gesellschaft. Frankfurt am Main: Suhrkamp.
+      Luxemburg, Rosa (2015) The Accumulation of Capital. London: Routledge.
+      Marx, Karl (2024 [1867]) Capital: Critique of Political Economy, Volume 1. Princeton, NJ:
+        Princeton University Press.                          
+      Mitchell, Timothy (2011) Carbon Democracy: Political Power in the Age of Oil. London: Verso.
+      Mitchell, Timothy (2020) The body politic that captured the future. In: Latour, Bruno, Schaffer,
+        Simon, and Gagliardi, Pasquale (eds) A Book of the Body Politic: Connecting Biology,
+        Politics and Social Theory. San Giorgio: Fondazione Giorgio Cini, pp. 49–74.
+      Mitchell, Timothy (2024) A better tomorrow, tomorrow? Climate crisis and the alibi of growth.
+        Unpublished manuscript.                              
+      Moore, Jason W. (2015) Capitalism in the Web of Life: Ecology and the Accumulation of Capital.
+        London: Verso.                                       
+      Muniesa, Fabian, Doganova, Liliana, Ortiz, Horacio, et al. (2017) Capitalization: A Cultural
+        Guide. Paris: Presses de Mines.                      
+      Nichols, Robert (2020) Theft Is Property! Dispossession and Critical Theory. Durham, NC: Duke
+        University Press.                                    
+      Nitzan, Jonathan and Bichler, Shimshon (2009) Capital as Power: A Study of Order and Creorder.
+        London: Routledge.                                   
+      Nordhaus, William D. (2013) The Climate Casino: Risk, Uncertainty, and Economics for a
+        Warming World. New Haven, CT: Yale University Press. 
+      Piketty, Thomas (2014) Capital in the Twenty-First Century. Cambridge, MA: Harvard University
+        Press.                                               
+      Pistor, Katharina (2019) The Code of Capital. Princeton, NJ: Princeton University Press.
+      Radon, Jenik (2007) How to negotiate an oil agreement. In: Humphreys, Macartan, Sachs, Jeffrey,
+        and Stiglitz, Joseph E. (eds) Escaping the Resource Curse. New York, NY: Columbia
+        University Press, pp. 89–113.                        
+      Randalls, Samuel (2011) Optimal climate change: Economics and climate science policy histories
+        (from heuristic to normative). Osiris 26(1): 224–242.
+      Richards, Julie-Anne and Boom, Keely (2014) Carbon Majors Funding Loss and Damage. Berlin:
+        Heinrich Böll-Stiftung.                              
+      Serres, Michel (2010) Malfeasance: Appropriation through Pollution? Stanford, CA: Stanford
+        University Press.                                    
+
+[PAGE 19]
+                                                             
+                                                             
+                                                             
+       Folkers                                        19     
+                                                             
+       Stuart-Smith, Rupert F., Roe, Gerhard H., Li, Sihan, et al. (2021) Increased outburst flood haz-
+         ard from Lake Palcacocha due to human-induced glacier retreat. Nature Geoscience 14(2):
+         85–90.                                              
+       Táíwò, Olúfẹ́mi O. (2022) Reconsidering Reparations. Oxford: Oxford University Press.
+       Taylor, Keeanga-Yamahtta (2019) Race for Profit: How Banks and the Real Estate Industry
+         Undermined Black Homeownership. Chapel Hill, NC: UNC Press.
+       Veblen, Thorstein (1997) Absentee Ownership. Business Enterprise in Recent Times: The Case of
+         America. London: Routledge.                         
+       Walker-Crawford, Noah (2023) Climate change in the courtroom: An anthropology of neighborly
+         relations. Anthropological Theory 23(1): 76–99.     
+       Watts, Michael J. (2012) A tale of two gulfs: Life, death, and dispossession along two oil frontiers.
+         American Quarterly 64(3): 437–467.                  
+       WBGU (2009) Kassensturz für den Weltklimavertrag. Der Budgetansatz. Berlin: Wissenschaftlicher
+         Beirat der Bundesregierung Globale Umweltveränderungen.
+       Andreas Folkers is a Fellow at the Max Weber Centre, Erfurt and a Member of the Research
+       Council at the Institute for Social Research, Frankfurt. He is currently finishing his second
+       book: Fossil Modernity: A Natural History of the Present, under contract with Suhrkamp
+       (German) and Zone (English). His work has been published in journals such as Economy and
+       Society, Sociological Review, European Journal of Social Theory and Social Studies of
+       Science.                                              
+       This article is part of the Theory, Culture & Society special issue on ‘Planetary Property’,
+       edited by Andreas Folkers and Alain Pottage.          
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             

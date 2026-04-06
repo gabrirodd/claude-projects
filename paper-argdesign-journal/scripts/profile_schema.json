@@ -1,0 +1,77 @@
+{
+  "_schema_version": "1.0",
+  "_instructions": "This is the schema Claude Code follows when writing a paper profile. Fill every field. Use null for genuinely absent fields, never omit them. String values should be concise (1-2 sentences max) unless noted otherwise.",
+
+  "paper_id": "author_year — e.g. ungureanu_2013",
+  "title": "Full paper title",
+  "author": "Last name(s) only",
+  "year": 2013,
+  "journal": "Journal name",
+
+  "opening_move": {
+    "type": "One of: normative_puzzle | empirical_anomaly | conceptual_gap | polemical_intervention | interpretive_proposition | reconstructive_diagnosis",
+    "description": "1-2 sentences: what problem or question opens the paper and how it is framed",
+    "anchored_in": ["List of thinkers/texts invoked to establish the puzzle"],
+    "stakes_claimed": "Why does this paper say resolving this matters"
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["List of named positions or authors the paper explicitly argues against or with"],
+    "engagement_structure": "One of: dialectical_contrast | sustained_critique | friendly_amendment | absence_critique | no_rivals_engaged",
+    "immanent_critique": true,
+    "own_position_type": "One of: middle_way | internal_reconstruction | external_alternative | synthesis | none",
+    "own_position_explicit": true,
+    "description": "1 sentence: how the paper positions itself relative to existing literature"
+  },
+
+  "epistemic_mode": {
+    "primary": "One of: fully_normative | normative_with_interpretive_case | normative_with_qualitative_empirical | normative_with_quantitative_empirical | mixed_empirical_normative | primarily_empirical_qualitative | primarily_empirical_quantitative | purely_interpretive_hermeneutic",
+    "secondary": "A second mode if clearly present, else null",
+    "empirical_evidence_present": true,
+    "empirical_evidence_role": "One of: constitutive | illustrative | supportive | absent — what function does empirical material serve in the argument?",
+    "quantitative_methods": "Describe if present (regression, survey, content analysis, etc.) else null",
+    "qualitative_methods": "Describe if present (interviews, ethnography, discourse analysis, etc.) else null",
+    "data_sources": ["List any named datasets, archives, or empirical sources used, else empty list"],
+    "interpretive_methods": "Describe if present (hermeneutic, deconstruction, genealogy, etc.) else null",
+    "notes": "Any important nuance about how evidence and argument relate in this paper"
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "One of: film | literary_text | historical_event | legal_case | political_event | ethnographic_field | statistical_dataset | philosophical_text | none",
+    "case_name": "Name of the specific case used, or null",
+    "case_function": "One of: parable_for_theory | test_case_for_framework | counter_example | generative_of_theory | illustration | primary_object_of_analysis | none",
+    "case_relation_to_argument": "One of: illustrative_and_generative | illustrative_only | evidence_for_claim | object_of_interpretation | none",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "One of: high | medium | low | absent — how explicitly normative is the paper's conclusion?",
+    "domain": "e.g. democratic theory | justice | recognition | sovereignty | methodology",
+    "claim_type": "One of: prescriptive | critical_diagnostic | reconstructive | interpretive | descriptive",
+    "closure_type": "One of: strong_normative_conclusion | open_ended_with_burden_on_reader | aporetic_suspension | research_agenda | policy_recommendation | none"
+  },
+
+  "move_sequence": [
+    "Ordered list of rhetorical/argumentative moves. Use functional labels from this vocabulary:",
+    "puzzle_diagnosis | rival_mapping | immanent_critique | framework_proposal | case_introduction |",
+    "case_development | case_interpretation | empirical_presentation | method_justification |",
+    "normative_derivation | meta_reflexive_qualification | conclusion_open | conclusion_strong |",
+    "genealogical_reconstruction | conceptual_distinction | counter_objection_response",
+    "IMPORTANT: this must be a plain list of label strings, not descriptions. E.g.:",
+    "['puzzle_diagnosis', 'rival_mapping', 'immanent_critique', 'framework_proposal', 'case_introduction', 'case_development', 'meta_reflexive_qualification', 'conclusion_open']"
+  ],
+
+  "reflexive_move": true,
+  "_reflexive_note": "true if the paper explicitly qualifies, critiques, or acknowledges limits of its own argument",
+
+  "key_concepts": ["Up to 6 concepts that are central to THIS paper's argument (not the field generally)"],
+
+  "thinkers_deployed": {
+    "central": ["Thinkers whose frameworks are actively used to build the argument"],
+    "engaged_critically": ["Thinkers argued against"],
+    "referenced_only": ["Thinkers cited but not central"]
+  },
+
+  "confidence_notes": "Any uncertainty about the classification — e.g. the paper's epistemic mode is ambiguous because X, or the move sequence is hard to determine because Y"
+}

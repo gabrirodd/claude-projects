@@ -1,0 +1,1149 @@
+[PAGE 1]
+ 1303689                                                     
+ research-article2024 TCS0010.1177/02632764241303689Theory, Culture & SocietyKapoor
+                                                             
+                                                             
+       Global Public Life                                    
+                                             Theory, Culture & Society
+       Intersectionality, Decoloniality,    2025, Vol. 42(7-8) 141 –161
+                                              © The Author(s) 2024
+       Indigenous Localism:  A                               
+                                              Article reuse guidelines:
+       Critique                           sagepub.com/journals-permissions
+                                        httpDs:O//dIo: i1.o0r.g1/1107.711/0727/60322673267462442143130033668899
+                                           journals.sagepub.com/home/tcs
+       Ilan Kapoor                                           
+       York University, Toronto                              
+                                                             
+       Abstract                                              
+       This article claims that, despite their critical-political stances, three current and
+       influential theoretical frameworks – intersectionality, decoloniality, and ‘Indigenous
+       localism’ – unconsciously accept global capitalism. The article focuses on the work
+       of Crenshaw, Mignolo, Coulthard, and Tuck and Yang, respectively, to argue that, by
+       ascribing to identity politics (intersectionality), a pluriversal politics of authenticity
+       (decoloniality), and a decentralized ‘incommensurability’ (Indigenous localism), each
+       engages in the culturalization and/or localization of politics – one that disavows the
+       dimension of political economy, and because of that, one that conforms well with, and
+       poses no threat to, capitalist liberal globalization. The article concludes by reflecting on
+       what such disavowal says about our late capitalist times, as well as the potentialities and
+       perils of a contemporary subaltern anti-capitalist politics.
+       Keywords                                              
+       decoloniality, ideology critique, indigeneity, intersectionality, the political, political
+       economy, psychoanalysis                               
+                                                             
+                                                             
+       Introduction                                          
+                                                             
+       In his well-known debate with Butler et al. (2000: 566), Slavoj Žižek contends that
+       ‘Capital is Real’. The Real in Lacanian psychoanalysis stands for the unconscious, the
+       gap or cut that both enables and disables the material and the symbolic, so Žižek’s import
+       is that, in our present global conjuncture, the capitalist system is unconsciously assumed.
+       He declares that:                                     
+        in so far as we conceive of the politico-ideological resignification in the terms of the struggle
+        for hegemony, today’s Real which sets a limit to resignification is Capital: the smooth
+        functioning of Capital is that which remains the same, that which ‘always returns to its place’,
+                                                             
+       Corresponding author: Ilan Kapoor. Email: ikapoor@yorku.ca
+       TCS Online Forum: https://www.theoryculturesociety.org/
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+      142                            Theory, Culture & Society 42(7-8)
+                                                             
+        in the unconstrained struggle for hegemony. Is this not demonstrated by the fact that Butler, as
+        well as Laclau, in their criticism of the old ‘essentialist’ Marxism, none the less silently accept
+        a set of premisses: they never question the fundamentals of the capitalist market economy and
+        the liberal-democratic political regime; they never envisage the possibility of a completely
+        different economico-political regime . . . all the changes they propose are changes within this
+        economico-political regime. (Butler et al., 2000: 223)
+      So naturalized is capitalism, according to Žižek, that it not only serves as an ‘objective’
+      standard against which we – late capitalist subjects/critics – live our lives, but it also ends
+      up framing our political resistance. Anti-systemic critique thereby emerges from within
+      capitalist dynamics themselves.                        
+        In this article, I would like to make a similar claim with regard to three current criti-
+      cal-theoretical frameworks: intersectionality, decoloniality, and what I term ‘Indigenous
+      localism’. All three have become notably popular in academic circles, dominating criti-
+      cal social theory, especially during the last decade or so. Intersectionality stresses the
+      complexity of identity to bring out the multiple axes of social marginalization under
+      multicultural democracies. It is the oldest of the three frameworks, first elaborated in the
+      late 1980s by Crenshaw (1989) but now undergoing a renaissance after the publication
+      of Crenshaw’s (2014) Essential Writings and Collins and Bilge’s (2016) Intersectionality.1
+      Decoloniality denounces the coloniality and Eurocentrism of global modernity, arguing
+      instead for a pluriversality of cosmologies. Currently, this line of thinking is all the rage
+      at Western universities, sparking initiatives to ‘decolonize’ classrooms, knowledge sys-
+      tems, and pedagogies (Pimblott, 2020; Smith, 2012). For its part, Indigenous localism is
+      a critique of settler colonialism, advocating alternatively for decentralized Indigenous
+      sovereignty. This, too, is a prominent critique on campuses today, particularly in North
+      America and Australia, resulting in conspicuous calls for the indigenization of education
+      and the enforcement of Indigenous treaty rights, including the ‘acknowledgement’ and
+      repatriation of the Indigenous lands on which some campuses are located (McCoy et al.,
+      2017; Turnbull and Pickering, 2010).                   
+        But despite the critical stances of these three frameworks – anti-racist, feminist, anti-
+      colonial, and Indigenous – I will point out their unconscious acceptance of global capi-
+      talism. By ascribing to identity politics (intersectionality), a pluriversal politics of
+      authenticity (decoloniality), and a decentralized ‘incommensurability’ (Indigenous local-
+      ism), each engages in the culturalization and/or localization of politics – one that disa-
+      vows the dimension of political economy, and because of that, one that conforms well
+      with, and poses no threat to, capitalist liberal globalization.
+        I will focus principally, although not exclusively, on the work of Kimberlé Crenshaw
+      and Walter Mignolo, both of whom are widely considered chief proponents, respec-
+      tively, of intersectionality and decoloniality. Indigeneity is a much broader and more
+      heterogeneous field, particularly considering the huge plurality of global indigenisms. I
+      have chosen, therefore, to home in on two recent and particularly influential texts in this
+      field, Glen Coulthard’s (2014) Red Skin, White Masks and Tuck and Yang’s (2012)
+      ‘Decolonization Is Not a Metaphor’, both of which, I argue, end up advocating for a
+      localist Indigenous politics that secretly fetishizes the very economico-political regime
+      they criticize. Hence my grouping of them under the banner of ‘Indigenous localism’.
+                                                             
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+       Kapoor                                        143     
+                                                             
+       The two texts are therefore not necessarily representative of indigeneity as a global
+       field, but only of those strands within it that ascribe to a localist politics.
+        My overall political aim is not to dismiss the claims of these critical bodies of work
+       – I share their anti-racist, feminist, anti-colonial, and pro-Indigenous politics – but to
+       demonstrate the importance of facing up to the antagonisms of capitalist political
+       economy in our times: without meaningfully attending to questions of socioeconomic
+       exploitation and inequality, all the changes they propose, to rehearse Žižek’s argu-
+       ment, are changes that prop up rather than dismantle the capitalist economico-politi-
+       cal regime. I conclude by reflecting on what such disavowal says about our late
+       capitalist times, as well as the potentialities and perils of a contemporary subaltern
+       anti-capitalist politics.                             
+       Intersectionality                                     
+                                                             
+       Multiple Oppressions                                  
+       Crenshaw’s concept of intersectionality is aimed at grasping the complexity of identity
+       to account for social oppression and privilege. In her trailblazing piece, ‘Demarginalizing
+       the Intersection of Race and Sex’ (Crenshaw, 1989), she analyzes three legal rulings in
+       the US which dismissed cases brought by African-American women alleging workplace
+       discrimination (including at General Motors) on the grounds of both gender and race.
+       She is critical of the ‘additive model’ on which such a dismissal is based, because it treats
+       identity as discrete and isolated, conceptualizing gender and race as ‘pure’ and ‘mutually
+       exclusive categories of experience and analysis’ (Crenshaw, 1989: 139). The conse-
+       quence, according to her, is that antidiscrimination laws exclude multiply oppressed peo-
+       ple – in this case, women disadvantaged on the basis of both gender and race. The narrow
+       scope of such laws results in Black women being recognized either as women or Black,
+       but not both simultaneously. In the first case, the identity of Black women is equated
+       with that of (privileged) white women – whom the law takes as the norm – eliding the
+       former’s experience of racial discrimination; and in the latter case, the identity of Black
+       women is equated with that of Black men – whom the law takes as the norm – eliding the
+       former’s experience of gender discrimination. The laws are thus blind to the particularity
+       of the multilayered discrimination encountered by Black women, which is distinct from
+       what either white women or Black men experience, even if Black women may share
+       experiences of discrimination with both.              
+        Famously deploying the metaphor of a two-way crossroads, one road standing for
+       ‘race’, the other ‘gender’, Crenshaw makes the case for intersectionality by claiming that
+       accidents that happen at the crossroads cannot be attributed to either one separately but
+       both together (p. 149). Social justice thereby means taking into account manifold pro-
+       cesses of marginalization, so that, for example, misogyny may privilege white gay men
+       over racialized female and LGBTQ+ people in a given workplace, yet homophobia may
+       still disadvantage said men relative to straight men in the same workplace (Evans and
+       Lépinard, 2019). Intersectionality thus highlights how identity cannot be understood in
+       an additive way. As Collins and Bilge (2016) put it, ‘When it comes to social inequality,
+       people’s lives and the organization of power in a given society are better understood as
+                                                             
+                                                             
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+      144                            Theory, Culture & Society 42(7-8)
+                                                             
+      being shaped not by a single axis of social division . . . but by many axes that work
+      together and influence each other’ (p. 2).             
+                                                             
+      The Surrender to Capitalist Multiculturalism           
+      While undoubtedly significant in highlighting identity-based oppression under capitalist
+      liberal democracies, the problem with intersectionality is precisely its assumption of the
+      capitalist liberal democratic framework for analyzing and countering oppression.
+      Crenshaw (1989) reproaches the narrowness and ‘uncritical and disturbing acceptance of
+      dominant ways of thinking about discrimination’ (p. 150), but elides the insufficient
+      breadth of her own position. In this sense, intersectionality only goes part of the way in
+      recognizing multiple and overlapping modes of ‘thinking about identity and its relation-
+      ship to power’ (p. 18): along the way, it gets locked into liberal-multiculturalist rights
+      discourse, failing to question the very category of identity on offer by the System.2 The
+      result is that it allows the System to determine what political options are available to it.
+        Indeed, identity politics is integral to capitalist liberal multiculturalism, allowing state
+      and market to recognize and protect minority group rights. Yet the latter development is
+      revealing of the very political limitations of liberal rights discourse (Jameson, 1991;
+      McGowan, 2020): while certainly empowering for social groups and focusing public
+      attention on a host of issues created, ignored, or suppressed by liberal democracies, the
+      problem is that identity/multicultural politics, far from effecting structural changes, has
+      been easily mainstreamed – incorporated into the System. The reason is that cultural
+      recognition poses little threat to capitalist multiculturalism: the state’s granting of minor-
+      ity rights or the business sector’s recognition of group identities requires no meaningful
+      systemic changes. On the contrary, the corporate sector, for example, has been only too
+      happy to capitalize on ‘cultural capitalism’, niche marketing products to multicultural
+      groups, while ‘proudly’ sponsoring such events as Earth Day, Women’s Marches, Black
+      History Month, or Gay Pride. The political weakness of identity politics lies, in other
+      words, in its tendency to too narrowly focus on identity issues, at the expense of broader
+      and more collective material and socioeconomic rights (land rights, the protection of the
+      environmental commons, socioeconomic equality, etc.; more on that below).
+        Implied in this ‘culturalization of politics’ is the positivization of identity – essential-
+      izing it, fixing its parameters – which is what allows the liberal state and corporate capi-
+      talism to anesthetize it, domesticate it, commoditize it. And such positivization is
+      reflected in intersectionality, revealing of its compliance with a liberal multicultural
+      framework. Accordingly, Carastathis (2008: 25–6, 2016: 125–62) analyzes Crenshaw’s
+      subjects as always already ‘having’ identities, on the basis of which their marginalization
+      occurs: ‘political marginalization follows . . . the formation of the identity of the hyper-
+      oppressed subject, who by virtue of her identity is politically marginalized. Intersectional
+      subjects come, so to speak, already formed to the space of political contestation’.3 It is
+      not the negative space of the intersection that is upheld, since negativity would be diffi-
+      cult to fix, accommodate, or commodify, thus threatening the mobility of global capital.
+      What is countenanced by intersectionality instead is the positivization of identity, some-
+      thing the System welcomes for its stability, recognizability, and commodifiability. It is
+      because the hyphenated subject (e.g. female-Black-disabled-queer) is identifiable,
+      because multiple subject-positions can be integrated into the System – indeed can help
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+       Kapoor                                        145     
+                                                             
+       advance the System since the more subject-positions, the more opportunities for com-
+       modification and product differentiation – that intersectionality’s critical stance ulti-
+       mately conforms with, and helps reproduce, capitalist multicultural politics.
+        Further evidence of such conformism is that intersectional analysis is now integral to
+       mainstream – including private sector – equity, diversity, and inclusion (EDI) strategies
+       (Ahmed, 2007; Mounk, 2023), most often aimed at enhancing organizational perfor-
+       mance. Intersectional EDI training helps employees acknowledge their implicit biases
+       against the diversity of identities and human experiences so as to improve hiring prac-
+       tices and ensure inclusive workplaces. It tends to be agent-focused, only addressing
+       questions of oppression (misogyny, homophobia, racism, ableism, etc.) at the level of the
+       individual employee or to the extent that they help advance organizational inclusion,
+       effectiveness, and profit-making, as opposed to tackling broader social systems of
+       oppression. In fact, the more intersectional and multidimensional the organization’s EDI
+       strategy, the more it can promote its brand as equitable and diverse (even if it does not
+       necessarily live up to such a claim). This is not to suggest that intersectionality is inher-
+       ently corporate, but to point out that its tendency to culturalize and positivize identity,
+       despite – and because – of its multi-dimensionality, leaves it too easily open to domesti-
+       cation, commodification, corporate branding.          
+        Psychoanalysis adds another significant dimension here: the reason why intersec-
+       tional identity politics appeals in today’s multicultural world is because of the subject’s
+       enjoyment (jouissance) of it – enjoyment in Lacanese denoting the excessive pleasure
+       derived from something to the point of irrationality (Lacan, 1998: 183–4).4 Accordingly,
+       under a multicultural regime, the subject is seduced by the prospect of social and politi-
+       cal recognition and recovery (Thakur, 2020: xx–xxi; Žižek, 2006: 309). Intersectionality’s
+       libidinal reward can be seen in a range of current socio-political occurrences: the (liberal)
+       benevolence of granting rights and rescuing and rehabilitating oppressed voices; the cor-
+       responding thrill of being recognized by claiming identity or minority rights; the self-
+       righteousness of asserting one’s oppression and ‘victimhood’; and/or the narcissism of
+       acknowledging one’s personal guilt and complicity in social injustices. Of particular note
+       is ‘privilege theory’ (Applebaum, 2011; Kimmel and Ferber, 2016), which, while bring-
+       ing attention to privileged subject positions and complicity in homophobia, patriarchy, or
+       racism, can sometimes create an atmosphere of surveillance and disciplining (‘privilege
+       checking’) of both self and other. As Zalloua (2020) notes, there is ‘a kind of illicit satis-
+       faction – an unconscious enjoyment – not only in exposing the blind spots [and] . . .
+       rhetorical disciplining of others, but in your own self-discipline, in your perceived suf-
+       fering. . . . At its base level, privilege theory provides you with the fantasy of interven-
+       tion and action; it offers you criticism (attention to subjective violence) without critique
+       (occluding objective [i.e. systemic] violence)’ (pp. 36, 18). So invested can people
+       become in identity (their own and that of others) that they can get bogged down in battles
+       over recognition and self-policing.                   
+        The libidinal complement to intersectional identity politics thus reinforces the cultur-
+       alization of liberal democratic politics. Real social problems (discrimination, marginali-
+       zation, racialization, inequality) are pressingly raised, but only superficially or partially
+       acted upon. People enjoy and publicize their critical self-awareness, their empathy with
+       the oppressed, and their seemingly progressive and humanitarian politics, but without
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+      146                            Theory, Culture & Society 42(7-8)
+                                                             
+      taking any meaningful action (confronting the systemic barriers to inequalities, or
+      demanding collective and material rights, not simply individual civil and cultural rights).
+      We feel good about naming our complicity in global inequality, or we get off on surveil-
+      ling others’ lack of ‘political correctness’, but this only ends up reinforcing the particu-
+      larity, fragmentation, and depoliticization that capitalist liberal democracies count on.
+        But intersectionality’s most significant blind spot is its disavowal of political econ-
+      omy. Class as socioeconomic category, in particular, is all but absent in Crenshaw’s
+      piece, as evidenced for example by the following statement: ‘theories and strategies pur-
+      porting to reflect the Black community’s needs must include an analysis of sexism and
+      patriarchy. Similarly, feminism must include an analysis of race if it hopes to express the
+      aspirations of non-white women’ (Crenshaw, 1989: 166). Consistent with her identity-
+      focused claims, in the few spots that Crenshaw broaches class, she does so as part of a
+      series of categories – e.g. ‘race, sex, class, sexual preference, age, and/or physical ability’
+      (p. 151),5 thereby taking class as an identity (i.e. the identity of ‘privileged white women’
+      or ‘working-class Black women’). But equating class with identity culturalizes the term,
+      reducing the problem of social oppression once again to questions of diversity and inclu-
+      sion. It flattens socioeconomic inequalities, implying the latter are simply a problem of
+      difference, so that, for instance, by recognizing and including working-class Black
+      women in the social field, they will somehow be on a level playing field with ‘privileged
+      white women’.                                          
+        Marx’s (1847) insistence on class as a socioeconomic category (p. 195) is meant pre-
+      cisely to bring out the socioeconomic inequality on which the capitalist system is
+      founded, and the resulting sociopolitical antagonism that follows (as intimated by his
+      notion of ‘class struggle’). By focusing on social diversity and identity recognition to
+      give voice to the marginalized, intersectionality ends up smoothing over this key antago-
+      nism, thereby covering over capitalism’s ‘dirty secret’ (exploitation, domination, socio-
+      material hierarchies). As Foley (2019) points out, the ‘fact that the black women in
+      question [in Crenshaw’s article] are workers who earn at best modest wages, but make
+      the bosses of GM very rich, is simply taken as a given . . . [Crenshaw’s] model for analy-
+      sis and compensation [is] confined to the limits of the law’ (p. 11). Choosing cultural
+      explanations to oppression over material ones, investing in liberal civil rights discourse
+      to address socioeconomic wrongs, ends up treating the symptom as the cause. Foley
+      perspicaciously points out in this regard that it is not ‘race’ that causes racism, or ‘gen-
+      der’ that results in misogyny (p. 11); rather, race and gender are categories of social dif-
+      ferentiation invented at the dawn of capitalism to justify the exploitation and domination
+      of labour (Lugones, 2016; Quijano, 2000; Robinson, 2019). By omitting this historical-
+      structuralist dimension, intersectionality misses the material roots of marginalization and
+      oppression (Aguilar, 2015; Foley, 2019). In this regard, what Crenshaw’s crossroads
+      metaphor ignores is that the velocity/power of some vehicles (i.e. representing class,
+      revealingly absent in her example) is more impactful than others. So without attending to
+      socioeconomic inequalities, it is difficult to see how patriarchy and racism (or indeed
+      homophobia and ableism) can be meaningfully abated, as indeed they haven’t despite
+      (and dare I say it, because of) decades of liberal rights recognition around the world
+      (Fraser and Honneth, 2003).6                           
+                                                             
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+       Kapoor                                        147     
+                                                             
+        But then why such disavowal by intersectionality? As implied by Žižek’s earlier quoted
+       intervention, it is to be understood as an ideological feature of our times – the bracketing
+       of Capital so as to present capitalist multicultural democracies in a favourable light; and
+       so that, despite critique, they are naturalized. Žižek (1989) zeroes in on a particular type
+       of disavowal – ‘fetishistic disavowal’ (pp. 18, 32–3), wherein we know all too well about
+       the problems of global capitalism (production of socioeconomic and spatial inequalities;
+       dependence on new forms of slavery; environmental crisis; exploitation and domination
+       of racialized, gendered, and migrant people), all the more so in our current ‘information
+       economy’, but still invest in the System. This is to say that, despite critique, we secretly
+       love capitalism (hence our unconscious fetishization of it), accepting it as the de facto
+       politico-economic horizon, much like intersectionality does when it assumes (capitalist
+       multicultural) identity politics, thereby assuming away class as a socioeconomic category.
+       Here, ideology takes critique ‘into account in advance’ (Žižek, 1989: 27) to provide the
+       intersectional subject with a degree of distance. And such distance is not an ideological
+       flaw, but a strength in better helping to psychically invest the subject in the System.
+        Note that what is being disavowed in such an ideological maneuver7 is, as underlined
+       above, the ugly underside of capitalist political economy – inequality, exploitation, etc.
+       – that is, the socioeconomic antagonisms that the System would rather not too readily
+       have exposed. Redistributing wealth, seriously addressing material inequality and social
+       hierarchy, is not an option under capitalism since the System is founded precisely on
+       wealth concentration, inequality, exploitation, domination (of people and nature). Hence
+       the compelling psychoanalytic insight that the disavowal of political economy is sympto-
+       matic of how crucial political economy is to the System. This is why a materialist critique
+       of the System is the one the latter fears the most because threatening to both the powers-
+       that-be and capital accumulation. And this is also why intersectionality’s retreat from
+       class toward culturalist explanations of oppression, its championing of diversity and
+       inclusion, its neglect of capitalism’s systemic violence, ends up producing a toothless
+       feminism/anti-racism, a ‘capitalism with a human face’ perhaps, but one that ultimately
+       leaves the System intact.                             
+       Decoloniality                                         
+       The Coloniality of Power and Pluriversality           
+       Decoloniality tends to approach contemporary politics in stark, black-and-white terms,
+       broadly rejecting Western modernity, while valorizing decolonial (and especially Global
+       South and subaltern) ways of knowing and living. For Mignolo (2007), on whose work I
+       focus here, the geo-political location of knowledge and identity matters (p. 469). This is
+       because, for him, European modernity has been coercively imposed on the rest of the
+       world as universal panacea (Mignolo, 2018: xii). His goal, instead, is to retrieve a ‘pluriv-
+       erse’ of decolonized subaltern epistemologies.        
+        Central to Mignolo’s viewpoint is Quijano’s (2000, 2007) notion of ‘coloniality of
+       power’ – the systematic application of material, epistemic, and aesthetic resources needed
+       to ensure empire. Here coloniality is seen as continuing in the former colonies even after
+       their political independence, manifesting as the pervasiveness of Eurocentric knowledge
+                                                             
+                                                             
+                                                             
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+      148                            Theory, Culture & Society 42(7-8)
+                                                             
+      systems and continuing patterns of racial oppression and socioeconomic exploitation. For
+      Mignolo, coloniality cannot be separated from Western modernity; both are co-constitu-
+      tive: ‘“modernity” is a complex narrative . . . that builds Western civilization by celebrat-
+      ing its achievements while hiding at the same time its darker side, “coloniality”. Coloniality
+      . . . is constitutive of modernity – there is no modernity without coloniality’ (Mignolo,
+      2011: 2–3). The (post)colonial subject is accordingly only peripherally incorporated into
+      the Euro-North American metropole, with subaltern epistemologies either wiped out or
+      classified as ‘underdeveloped’ in relation to European norms (Mignolo, 2012: xxv).
+        In response, Mignolo (2011) advocates for ‘epistemic disobedience and delinking
+      from the colonial matrix in order to open up decolonial options’ (pp. 9, 54). His aim is
+      decolonizing the colonial subject’s imaginary by fracturing ‘the hegemony of knowledge
+      and understanding that have been ruled, since the fifteenth century . . . [by] the theologi-
+      cal and ego-logical politics of knowledge and understanding’ (Mignolo, 2010: 313). For
+      him, this epistemological shift will help transform both the terms and the content of the
+      coloniality/modernity matrix. Mignolo draws on Anzaldúa (1987) to argue for ‘border
+      thinking’, through which suppressed subaltern cosmologies are transformed into
+      resources for constructing ‘alternatives to modernity’ (Mignolo, 2010: 320, 2011: xxviii,
+      2012: 12, 157).                                        
+        It is such epistemological delinking that, according to Mignolo, will help produce
+      decolonial ‘pluriversality’. Here he borrows the well-known Zapatista motto of creating
+      ‘“another world” in which many worlds will co-exist’ to make the case for a planet of
+      multiple co-existing ontologies and temporalities. The idea is to enable, not a single
+      global future dictated by the West, but plural ones in which decoloniality would be one
+      option among others, including what he names as ‘Rewesternization’ (through which
+      Western powers attempt to maintain their declining global political-economic power)
+      and ‘Dewesternization’ (through which ‘emerging powers’ challenge Western hegem-
+      ony) (Mignolo, 2011: 27–35).                           
+      A Politics of Authenticity and Disavowal               
+      There is much to learn from decoloniality – from its multi-dimensional analysis of colo-
+      niality, to its critique of Western modernity and its prescriptions for decolonizing the
+      colonial matrix. But Mignolo’s analysis inclines toward romanticizing decolonial spaces.
+      He has almost nothing critical to say about the subaltern/Global South; it is as though
+      they are somehow immune to contradiction, failure, or disagreement (Kapoor and
+      Zalloua, 2022: 96–9).                                  
+        This is evident in Mignolo’s reliance on simplified and intransigent binaries such as
+      when he pits Western ‘imperial’ universalism against decolonial pluriversality, which for
+      him is invariably ‘convivial, dialogical, or plurilogical . . . decolonial and communal
+      personalities are driven by the search for love, conviviality, and harmony’ (Mignolo,
+      2018: xii, xiv; see also Mignolo, 2011: 313). It is also evident in the work of the
+      Modernity/Coloniality/Decoloniality research programme, a collective Latin America-
+      focused research project of which both Mignolo and Arturo Escobar are part. The project
+      prioritizes ‘non-Eurocentric’ forms of living/knowledge rooted in such communities as
+      the Zapatistas in Mexico, Indigenous groups in Ecuador and Bolivia, and Afro-Latinx
+                                                             
+                                                             
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+       Kapoor                                        149     
+                                                             
+       movements in Colombia (Asher, 2013: 838; see also Escobar, 2020: 84–96, 120–35;
+       Mignolo, 2011: 11, 213–51). Yet when Mignolo applauds, for example, the Zapatistas for
+       their participatory politics and collective consensus-making, he appears to ignore that
+       consensus-based politics can coerce single decisions on communities, often suppressing
+       subaltern voices (Kapoor, 2008: 107–8, 2020: 147–69; see Rancière, 1999). When
+       Mignolo praises Indigenous communities, he ignores, for instance, the cooptation of
+       Indigenous leaders by the Ecuadorean state, the Morales regime’s backtracking on com-
+       mitments to Indigenous self-determination to appease capitalist extraction, ideological
+       divisions between and among Indigenous groups across North, South, and Central
+       America, or the anti-Muslim politics of sections of adivasi (Aboriginal) communities in
+       India in collaboration with right-wing Hindu supremacists: ‘What is absent in Mignolo’s
+       representations of the subaltern are the warnings by the likes of Freire and Fanon about
+       the possibility of internalized subaltern oppression, racism, and co-optation (which is
+       ironic, given that Fanon is one of Mignolo’s key decolonial exemplars)’ (Kapoor and
+       Zalloua, 2022: 96; see also Baviskar, 2007; Merino, 2016).
+        The extent of such an indiscriminate politics of authenticity/romanticization is to be
+       gleaned in Mignolo’s recent endorsement of a book from a right-wing Hindu author
+       (Deepak, 2021) who deploys decolonial arguments to make the case for a return to a
+       Hindu (Brahmanical) epistemology. After a public outcry, Mignolo eventually withdrew
+       his endorsement,8 but his willingness to uncritically embrace a Hindu nationalist politics
+       just because it is disparaging of Western epistemology and aims at retrieving an
+       ‘Indigenous’ Hindu cosmology is revealing of the decolonial tendency to embrace puta-
+       tively ‘authentic’ Global South spaces even if they are elitist or oppressive.
+        What is conspicuously missing in Mignolo’s decolonial position is the dimension of
+       the Real, the imminent blockage that prevents any discursive formation – whether capi-
+       talist, post-capitalist, or pluriversal – from actualizing its identity. As Crenshaw does
+       with intersectional identity, Mignolo appears to so revel in the jouissance of the subal-
+       tern/Global South space that he is blind to – disavows – social contradictions. Hence his
+       resort to an authentic pluriversality devoid of imperfections: a space where, as Michaelsen
+       and Shershow (2007) underline in their analysis of his work (p. 53), there is de facto
+       consensus and agreement, indeed not even the need to criticize, debate, or deliberate.
+       This appears as the textbook definition of ideology – the erasure of the political, the
+       covering over of social antagonism (Žižek, 1989: 25). 
+        The accompanying proclivity is that the production of an authentic Global South sub-
+       altern space ends up militating against the putative political subject of decoloniality – the
+       subaltern. In this regard, echoing Spivak (1988), Asher (2013: 838–9) suggests that
+       Mignolo and his decoloniality peers are ‘turning to subaltern knowledge to fulfill [their]
+       desire to create a just world for humans and non-humans’. Decolonial jouissance of the
+       pluriverse induces the absence of critical self-reflexivity on the part of the decolonial
+       analyst, with the latter portraying himself as transparent relay able to accurately capture
+       the subaltern voice. The search for a subaltern pluriverse thus becomes a self-fulfilling
+       prophecy: you project a pluriversal platform on the subaltern and then rejoice in miracu-
+       lously finding it! But in this mêlée, the subaltern is not heard (which is why my above
+       critique of Zapatista participatory politics says less about the Zapatistas than Mignolo’s
+       construction of them).                                
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+      150                            Theory, Culture & Society 42(7-8)
+                                                             
+        Mignolo’s Manichaean argumentation also tends to be broadly dismissive of Western
+      thought, accusing it of complicity in the colonial matrix of power, thus appealing for it to
+      be superseded (Mignolo, 2002: 80, 2010: 346). He seems to conflate hegemonic European
+      (colonial) thought with European thought writ large. In so doing, he fails to acknowledge
+      the many European intellectual counter-discourses to colonial rationality or binary think-
+      ing (anti-imperialism, non-dualism, communitarianism, etc.) with which, for all intents
+      and purposes, much of decolonial thought is allied. He fails as well to account for his
+      own debt to so-called Eurocentrism, disavowing that his intellectual background, as well
+      as the very language (English) and critical tools he deploys (e.g. geopolitics, difference,
+      epistemology, gnoseology, aesthesis), are unavoidably Eurocentric (Kapoor and Zalloua,
+      2022: 99–100). Worse still, his policing of the boundaries of what is ‘Western’/‘non-
+      Western’ ends up eliding the centuries-old cultural and economic exchange between
+      Europe and its putative others (Africa, the Arab world, Indigenous America, the Indian
+      subcontinent, etc.); or indeed the substantial history of subaltern resistance – in Europe’s
+      colonies, and in Europe itself – that is integral to the emergence of such notions as
+      ‘equality’, ‘freedom’, and ‘social justice’ (see, for example, Anghie, 2005; Buck-Morss,
+      2009; Cusicanqui, 2012).                               
+        Thus, Mignolo’s decolonial disavowal of the unconscious/Real is not only deeply
+      ideological for romanticizing subaltern pluriversality, but also deeply depoliticizing.
+      Rather than seeing internal (community or social movement) differences and contradic-
+      tions as weaknesses/traumas to be suppressed or avoided in order to produce a perfect
+      subaltern ‘hero’, why not try to face them head-on to invent new and creative (although
+      never harmonious) subaltern political spaces? Rather than understanding colonial vio-
+      lence and dispossession as a reason to nostalgically manufacture past or present glory or
+      wallow in victimhood and resentment (against European thinkers), why not struggle to
+      become proficient with, and use, European discourses of emancipation and freedom to
+      fight for subaltern equality and social justice everywhere? The Western colonial legacy
+      is indeed imperialist domination and plunder, but it is also, as Žižek (2009) underlines,
+      ‘that of the self-critical examination of the violence and exploitation the West itself
+      brought to the Third World . . . the West supplied the very standards by which it (and its
+      critics) measures its own criminal past’ (p. 115). The antagonisms of European hegem-
+      ony, in this sense, can be viewed as powerful subaltern political resources. And such is
+      the case not only for the subaltern from the Global South, but also for the subaltern from
+      the Global North: their common predicaments could be the occasion to find cause
+      together in shared trauma (Kapoor, 2020: xv, 66; Kapoor and Zalloua, 2022: 20). This is
+      something that Mignolo’s demonization of the West precludes, failing as it does to dis-
+      tinguish hegemonic from subaltern (counter-) discourses, whether in the West or other-
+      wise, thereby further depoliticizing the subaltern.    
+        Finally, there is the issue of the exclusion of the state and political economy in
+      Mignolo’s gloss. In regard to the state, Mignolo stands firmly against it, predictably see-
+      ing it as the political expression of (Western) coloniality. For him, pluriversal spaces
+      would ‘exist independently of the state and corporations’ by delinking ‘from state forms
+      of governance, from the economy of accumulation’ (Mignolo, 2018: xii, xiv). Thus, ‘the
+      future would be composed of “communal nodes” around the planet cooperating rather
+                                                             
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+       Kapoor                                        151     
+                                                             
+       than competing with each other . . . [through] the entanglement of several cosmologies
+       connected today in power differential’ (Mignolo, 2011: 283, 2018: x).
+        But Mignolo’s position appears politically naive. Without some form of coordinating
+       authority like a state, it remains unclear how the security and well-being of ‘communal
+       nodes’ would be realized; what would ensure cooperation, rather than conflict, among
+       and between nodes, especially given ‘power differential’; and how these nodes would be
+       able to thwart the continuing incursion of global capital, or threats from both the Western
+       and ‘de-Westernized’ powers envisaged by Mignolo. It seems, in fact, that his pluriversal
+       politics unconsciously requires a national, regional, and/or transnational state to ensure
+       the coexistence of ‘many worlds’. He appears to count on such things as peace enforce-
+       ment, cooperation, provision of universal education and health care, regulation of multi-
+       nationals, campaigns against global viral infections, and so forth, for his communal
+       nodes to thrive.                                      
+        As to political economy, it is all but absent in Mignolo’s political viewpoint, given
+       his pluriversal privileging of epistemological, at the expense of material, decoloniza-
+       tion. He does sketchily mention imperial resource extraction in his critique of colonial-
+       ity, but says almost nothing about the material dimensions of pluriversality. This is
+       because (expectedly) he assesses Marxist political economy as integral to a ‘Eurocentered
+       critique’ (Mignolo, 2011: xi, xviii), glossing over the many variants of Third World
+       Marxisms (whether Nepalese, Cuban, Chinese, South African, Peruvian, Indian, etc.,
+       many of which have been actualized as political projects with varying degrees of suc-
+       cess/failure, including democratic communism in Kerala and Bengal, for example).
+       Mignolo (2010) looks instead to ‘delinking from capitalism’ epistemologically (p. 339),
+       as though decolonized knowledge production will undo not just neoliberal ideology but
+       the structures of global capitalism. The overwhelming evidence to date points to just the
+       opposite: as mentioned earlier, the success of corporate capitalism lies in part in its co-
+       optation of the epistemological-cultural claims of social movements – because not only
+       do they not pose a threat to accumulation, but they can also be commodified to advance
+       accumulation. This is all the more the case with a decolonial politics of authenticity
+       which, like intersectionality, fixes and essentializes subaltern culture/identity, thereby
+       enabling its commoditization.                         
+        Consequently, given the disavowal of any state-like authority or meaningful material-
+       ist analysis or strategy, Mignolo’s decolonial pluriversality yields to little more than what
+       decolonial Indigenous scholar Cusicanqui (2012) sees as ‘multiculturalism’ (p. 104).
+       Decoloniality may well mount a critique of the coloniality of power, but in Mignolo’s
+       hands, just as in Crenshaw’s, such critique nonetheless ends up facilitating, not challeng-
+       ing, global capitalism. Localism/particularism nicely suits capitalism as much as coloni-
+       ality, since it can be readily accommodated if not commodified. So as with Crenshaw, my
+       claim is that Mignolo’s disavowal of state/political economy and his accompanying
+       advocacy of the local amounts to an unconscious acceptance of capitalist multicultural-
+       ism. We are thus left with another case of ‘fetishistic disavowal’ – a secret love for the
+       System in spite of an outwardly biting critique of it. The global capitalist order sets (and
+       is allowed to set) the boundary for decolonial counterhegemonic critique.
+                                                             
+                                                             
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+      152                            Theory, Culture & Society 42(7-8)
+                                                             
+      Indigenous Localism                                    
+      Anti-Capitalist ‘Self-Conscious Traditionalism’?       
+                                                             
+      At first glance, my psychoanalytic-Marxist position aligns well politically with Dene
+      scholar Glen Coulthard’s (2014) argument in Red Skin, White Masks: he carries out a
+      blistering Fanonian critique of the Canadian settler-colonial state, focusing on the contra-
+      diction between recognition of Indigenous rights and the simultaneous dispossession of
+      Indigenous lands and neglect of Indigenous nations’ socioeconomic and cultural rights.
+      Not only does the Canadian state attempt to ‘reconcile’ Indigenous claims by simply
+      ‘including’ Indigenous identity in the country’s multicultural landscape, but at the same
+      time, as Coulthard demonstrates, it maintains in novel ways the long tradition of colonial-
+      capitalist domination of Indigenous communities through their socioeconomic and cul-
+      tural marginalization (e.g. residential schools, land grabs, deforestation, and resource
+      extraction on Indigenous territories). Liberal rights recognition, then, is a way of repro-
+      ducing colonial oppression, wherein the terms of recognition, instead of being dialogical,
+      are determined by the dominant partner – the capitalist settler-colonial state (Coulthard,
+      2014: 17–18, 31–42). Coulthard explicates, accordingly, how what we have been calling
+      the ‘culturalization of politics’ plays out with Indigenous nations in Canada, with the
+      deployment of identity recognition as a way of covering over domination and exploitation
+      in the realm of political and cultural economy. He concludes that for ‘Indigenous nations
+      to live, capitalism must die. And for capitalism to die, we must actively participate in the
+      construction of Indigenous alternatives to it’ (p. 173).
+        But it is precisely à propos his gloss on Indigenous alternatives that problems
+      arise. There appears to be a contradiction between his desire for a ‘non-dialectical’
+      Indigenous resurgence and one that is ‘self-consciously traditional’. Indeed, drawing
+      on the work of Taiaiake Alfred (2005, 2009) and Leanne Simpson (2011, 2014), he
+      insists that such a resurgence ‘does not require us to dialectically transcend
+      Indigenous practices of the past’ (Coulthard, 2014: 154). Instead, he endorses a ‘self-
+      conscious traditionalism’ (p. 155) aimed at rehabilitating and strengthening
+      Indigenous cultural identity to opt out of the coercive and assimilative liberal poli-
+      tics of recognition. The idea is to draw on Indigenous traditions to ‘re-creat[e] the
+      cultural and political flourishment of the past’ (Simpson, quoted in Coulthard, 2014:
+      156). Coulthard sees such cultural reclamation as critical and socially progressive,
+      aiming for example at a pro-feminist and LGBTQ+ politics (pp. 157–8).
+        Yet, in the absence of a dialectic, such progressivism appears as wishful thinking. For
+      Hegel, who Coulthard (2014) specifically references in this regard (pp. 26–9), the dialec-
+      tic is decidedly the site of self-division and alienation, moving the subject toward self-
+      consciousness and critique (Hegel, 1977: 138, 2010: 360; McGowan, 2019: 12). Here, it
+      is subjectivity’s immanent (not transcendent) self-contradiction that both structures iden-
+      tity and propels it forward (i.e. outside itself, toward that which it is not). Without a
+      dialectic, then, it is difficult to understand how, in Coulthard’s vision, Indigenous tradi-
+      tionalism would become ‘self-conscious’. What would enable or mediate such autocri-
+      tique? Why would traditionalism be socially critical and progressive rather than
+      regressive? Missing in ‘Indigenous traditionalism’, in other words, is the domain of the
+                                                             
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+       Kapoor                                        153     
+                                                             
+       political (Rancière, 1999), which is what responds to ever-present social antagonisms
+       (the Real), thus making for a landscape of contestation and debate. And the lack of the
+       political in Coulthard’s case means that Indigenous traditionalism, despite attempts to
+       recover and renew it, still nostalgically aspires to a ‘flourishment of the past’. Not so
+       different from Crenshaw’s intersectional identity or Mignolo’s decolonial politics of
+       authenticity, Indigenous culture thereby becomes a positive and depoliticized cultural
+       resource/archive, once again risking fetishization, essentialization, commodification.
+       Coulthard gestures toward the Real of culture by favouring Indigenous social progressiv-
+       ism in the midst of traditionalism, but ends up settling for what Zalloua (2023) aptly calls
+       a ‘self-enclosed decolonial revival project’ (p. 186, n173). His critical cultural politics is
+       undercut by his jouissance of ‘traditional’ identity. 
+        This is all the more perplexing given that his exemplar, Fanon (1963), is notably criti-
+       cal of a politics of identity and authenticity, seeing the négritude movement, for example,
+       as a ‘blind alley’ – a narrow ‘racism of defense’ that is nothing but the ‘logical antithesis’
+       of White European prejudice against Blacks (pp. 163–4, 214, 212). Despite the tendency
+       toward cultural recovery after the trauma of colonial rule (racism, exploitation, dispos-
+       session, domination), Fanon writes that ‘the past can in no way be my guide in the actual
+       state of things’ (Fanon, 1967: 199–200), advocating instead for a dialectical and politi-
+       cized vision of culture – a ‘fighting’ culture, one that ‘takes its place at the very heart of
+       the struggle for freedom’ (Fanon, 1963: 222, 233). It is such political dynamism that
+       secures against the positivization of culture or the enjoyment of tradition, impeding
+       either from encrusting borders or identity.           
+        Coulthard’s advocacy of Indigenous localism provides further evidence of this depo-
+       liticized – albeit outwardly critical – stance. As just mentioned, he is rightly condemna-
+       tory of the settler state for its continuing coloniality of power. But like Mignolo, he
+       appears thereby to do away with it, advocating instead for Indigenous self-determina-
+       tion ‘by cultivating self-sufficiency through . . . localized and sustainable production’
+       (p. 172). And just like Mignolo, he provides no clues as to how such a decentralized
+       politics would fend off ‘settler colonial capitalism’ in the absence of a state-like coordi-
+       nating authority. Coulthard’s self-critical Indigenous traditionalism appears, once again,
+       to unconsciously require a (local, national, and/or transnational) state to resist both
+       coloniality and the reach of corporate capitalism. In this regard, Zalloua (2023) asks:
+       ‘can Indigenous nations truly live if capitalism thrives everywhere else in the world
+       (assuming one can even manage to kill it at home via sustainable and self-sufficient
+       Indigenous economies)? Doesn’t global capitalism benefit if Indigenous communities
+       keep their anti-capitalism, their nonexploitative alternatives, local?’ (p. 31). An anti-
+       capitalist ‘self-conscious traditionalism’ thus appears a contradiction in terms, since the
+       demise of global capitalism would require a transnational, and precisely not a decentral-
+       ized/localist, riposte.                               
+        It is important to note that those who advocate for localism and decentralization –
+       Mignolo and Coulthard in this case (and Tuck and Yang as outlined below) – may well
+       be right to argue that the socialization (and greening) of the economy cannot be coerced
+       by the (capitalist-settler-colonial) state; it must happen through grassroots subaltern
+       organization. But this does not mean we should get rid of the state. I have suggested
+       elsewhere (Kapoor, 2020: 46–7; Kapoor et al., 2023: 18–20, 163–4) the need for a
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+      154                            Theory, Culture & Society 42(7-8)
+                                                             
+      reconfigured state (at local, national, and transnational levels) that puts the subaltern first
+      in the service of égaliberté (equality-freedom) (Balibar, 2014) and that ensures a modi-
+      cum of socioeconomic and environmental infrastructure and regulation – e.g. universal
+      health, education, housing; regulation of multinationals; protection of the environmental
+      and knowledge commons, etc. – in order that local communities can function, coexist,
+      and/or cooperate, rather than dominate or compete with one another.
+      Decolonization IS a Metaphor! (And Political Economy Is What Can Help
+                                                             
+      Materialize It)                                        
+      A like problem occurs in another well-known Indigenous-focused text – Tuck and Yang’s
+      (2012) ‘Decolonization Is Not a Metaphor’. They, too, argue against a decolonization
+      that attends to the cultural-epistemological dimensions of decolonization (decolonizing
+      methodologies, pedagogies), thereby denying its material dimensions – in this case, the
+      ‘repatriation of Indigenous land and life’ (Tuck and Yang, 2012: 1). For them, cultural
+      reconciliation, in obviating land restitution, is a ‘settler move to innocence’ only serving
+      to ‘reconcile settler guilt and complicity, and rescue settler futurity’ (pp. 9, 1, 3).
+      Decolonization thus only aims at recentring settler whiteness and entitlement by appeas-
+      ing the latter’s liberal guilt.                        
+        Yet, like Mignolo and Coulthard, Tuck and Yang (2012), too, in their search for
+      ‘accountability to Indigenous sovereignty and futurity’ end up calling for an ‘ethic of
+      incommensurability’ (pp. 35, 28), thus gesturing toward a decolonial pluriversality.
+      What’s missing, again, are the political-economy mechanisms that would allow
+      Indigenous communities to withstand the onslaught of global capitalism or the colonial-
+      ity of other powerful states. Tuck and Yang insist on the material dimensions of decolo-
+      nization, yet the question of materiality is all but absent in their ‘ethic of
+      incommensurability’, leaving us wondering how their version of decolonization is not in
+      fact a metaphor. They advocate for a kind of pluriversality, yet have no universalizing
+      political authority (like a state) to recognize and protect Indigenous difference and
+      uniqueness. Like Mignolo and Coulthard, their desire for incommensurability conveni-
+      ently sidelines the significant Hegelian point (Hegel, 1977: 114–15) that pluriversal par-
+      ticularism/incommensurability actually needs a universality to be understood and
+      recognized as particular, distinct, different. Autonomous spaces such as Chiapas in
+      Mexico or self-determining Indigenous communities in Canada, Peru, Ecuador, and
+      Australia necessitate a universalizing political authority like a trans/national state to
+      respect their alterity and guarantee their coexistence (Kapoor and Zalloua, 2022: 102).
+        It is not insignificant as well that, despite their critique of settler beneficence toward
+      indigeneity (a critique I readily endorse), Tuck and Yang’s own prescriptions tend toward
+      an abstract sermonizing. This is evident in the very title of their piece – ‘Decolonization
+      Is Not a Metaphor’ – which reads as moralizing. And it is evident in other spots (e.g. pp.
+      31, 35–6), notably in the article’s very last claim: ‘To fully enact an ethic of incommen-
+      surability means . . . abandoning the hope that settlers may one day be commensurable
+      to Native peoples. It means removing the asterisks, periods, commas, apostrophes, the
+      whereas’s, buts, and conditional clauses that punctuate decolonization and underwrite
+                                                             
+                                                             
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+       Kapoor                                        155     
+                                                             
+       settler innocence . . . Decolonization is not an “and”. It is an elsewhere’ (Tuck and Yang,
+       2012: 36). Lacking any specifics (particularly the political economy/land mediations
+       initially called for in the article), such prescriptions come across precisely as allegorical
+       if not sententious.9                                  
+        My implication is that Tuck and Yang too quickly jump to (jouissance-filled?) ser-
+       monizing conclusions because they do not come to terms with the fact that decoloniza-
+       tion is a metaphor: the latter is the consequence of the unavoidable mismatch between
+       the symbolic-imaginary order and reality, which makes ambiguity, miscommunication,
+       abstraction, metaphoricity inherent to communication (Lacan, 1993: 184). So one impor-
+       tant way to minimize the violence of language or the signifier (by definition, there is no
+       way to eliminate it), to prevent the too-easy reduction of decolonization to metaphor or
+       epistemology, is to actualize it in the form of the material. This is all the more politically
+       necessary when the liberal settler state culturalizes politics, thus disavowing, as we have
+       previously noted, the key political economy mechanisms affecting those who are multi-
+       ply marginalized – the subaltern (Indigenous peoples, lumpenproletariat, precariat, poor
+       racialized and gendered people, migrants, etc.). And it is because Tuck and Yang miss
+       this key step in their concluding alternative – recognizing decolonization’s inherent met-
+       aphoricity and so struggling to find ways of actualizing it – that they end up resorting to
+       moralizing and/or abstract prescriptions. In so doing they reproduce the very liberal disa-
+       vowal of capital that they rail against, in the same way that Crenshaw and Mignolo,
+       especially, do. In this regard, it is no accident that they advocate for an ‘ethic’ of incom-
+       mensurability, ethics tending toward consensus (on the moral truth of capitalism or
+       indeed on what Indigenous communities themselves find morally acceptable) as opposed
+       to (ethico-) politics, which as Rancière (2010) argues (pp. 192–210), would tend toward
+       dissensus, disagreement, debate (on capitalism as much as indigeneity). Not dissimilar to
+       Mignolo and Coulthard, the dimension of the political is notably absent in Tuck and
+       Yang’s viewpoint, preventing their prescriptions from moving from righteous abstraction
+       to mediated materiality.                              
+       Conclusion                                            
+       Intersectionality, decoloniality, and Indigenous localism, each in their own way, mount
+       an undoubtedly significant critique of oppression, global modernity, and settler colonial-
+       ism/capitalism, respectively, denouncing cultural, epistemological, material, and institu-
+       tional domination. But I have claimed that, in spite of such critique – increasingly popular
+       today on university campuses and beyond – they each secretly end up accepting if not
+       reproducing the status quo: by failing to question the very category of identity defended
+       by liberal multiculturalism, in the case of intersectionality; by advocating for a too-easy
+       epistemological delinking from coloniality, in the case of decoloniality; and by resorting
+       to a localized authenticity, in the case of Indigenous localism (also shared with decoloni-
+       ality). In so doing, each disavows capitalist political economy, especially in their pre-
+       scriptions, which wind up conforming to the margins tolerated by the System.
+       Antisystemic critique thus gets reduced to anti-sexist or anti-racist oppression, ethico-
+       cultural and epistemological revival, and/or decentralized isolationism, which, because
+       of a reluctance to confront the Real of global Capital, yields to its hegemony.
+                                                             
+                                                             
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+      156                            Theory, Culture & Society 42(7-8)
+                                                             
+        But it is important, psychoanalytically speaking, to ask why the four analysts under
+      consideration do finish up disavowing political economy in favour of identity recogni-
+      tion and/or decentralized cultural-epistemological decolonization. Could it be, as I stated
+      earlier in relation to Crenshaw and Mignolo, that in the face of the onslaught of global
+      capitalism, the offer of only essentialized identity and localized politics is but a form of
+      fetishistic disavowal on the part of all four analysts? I am suggesting not merely that their
+      seemingly critical responses are an unconscious surrender to global capitalism, but also
+      that the championing of authenticity and localized resistance, rather than radical politi-
+      cal-economic transformation, is a tribute to this surrender (Kapoor, 2017: 2677). Each
+      seeks to raise awareness about multiple social injustices, recognize muted voices, reha-
+      bilitate buried knowledges, affirm localized well-being, endorse incommensurability,
+      but without taking any meaningful (i.e. material) action for reconstituting the System
+      itself. Such a view aligns with Jameson’s (1991) argument that postmodernism is but the
+      cultural logic of late capitalism and hence critical but unthreatening. In this sense, the
+      so-called progressivism of intersectionality, decoloniality, and Indigenous localism – at
+      least of the type advocated by Crenshaw, Mignolo, Coulthard, and Tuck and Yang – is
+      integral to the arc of capitalist postmodernity, with their pseudo-radicalism remaining
+      within the bounds of the System, and capitalist development tolerating critique as long
+      as it does not Real-ly upset the System.               
+        My broader reflection, in fact, is the Žižekian one also briefly touched on earlier – that
+      such fetishistic disavowal is symptomatic of our late capitalist times (Žižek, 1999), not
+      just of intersectionality, decoloniality, or Indigenous localism (or Crenshaw, Mignolo,
+      Coulthard, and Tuck and Yang). We, late capitalist subjects, are aware of the socioenvi-
+      ronmental inequalities and injustices of the System but act as if we don’t know. We criti-
+      cize corrupt political elites and the environmental harms of corporations, sign online
+      protest petitions, engage in social media diatribes against the System, yet continue to live
+      our lives as though none of that really matters. So inured have we become to cultural
+      activism – all the more so in our ‘information age’ – that we seem to have become
+      deskilled on how to dismantle the realm of the material (i.e. capitalist political economy).
+      Like the above critical theorists, we thus appear to disavow the Real traumas of our age,
+      manifesting an unconscious acceptance, if not fetishistic love, for the System – a secret
+      desire that nothing too much should change.            
+        As others and I have detailed elsewhere (Kapoor, 2020; Kapoor et al., 2023; McGowan,
+      2013; Žižek, 1999, 2002), a psychoanalytic politics points, firstly, to the pressing need to
+      face up to our libidinal investments in the System if we are to (begin to) dismantle it.
+      While much more work and thought remains to be done here, this would involve defet-
+      ishizing capitalism, by focusing on political economy not only at the level of knowledge/
+      critique, but also and especially at the level of the libidinal – e.g. working through our
+      fetishistic disavowal, how capitalist multiculturalist fantasies structure our desires, and
+      the ways social institutions seduce us through enjoyment – of capitalism, identity, even
+      perverse racial and misogynist exploitation and domination. The point of such defetishi-
+      zation is not merely to reform the System to improve the lives of the subaltern, but to
+      reconstitute the System in order to prevent subalternization in the first place. And sec-
+      ondly, a psychoanalytic politics underlines the importance of the political – the Real/
+      unconscious standing for the ever-present gap or excess that besets us as subjects, thereby
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+       Kapoor                                        157     
+                                                             
+       dooming attempts at unity, harmony, or authenticity. This makes the task of subaltern
+       struggles challenging but at the same time potentially all the more subversive: it requires
+       addressing inevitable internal division and contestation, while at the same time relying
+       on them organically (but never harmoniously) to enable a multipronged attack on sys-
+       temic oppression, exploiting the System’s own multiple antagonisms. The Real, in this
+       sense, is not to be seen as a necessary weakness, but only as a recurring deadlock with
+       perils and opportunities, yet never any guarantees. Which is what necessitates – and
+       defines – the political.10                            
+       Acknowledgements                                      
+       For their invaluable comments on this piece, I would to thank the four anonymous reviewers and
+       the TCS editorial board, as well as Leesa Fawcett, Michael Bach, Clint Burnham, and Kent
+       Murnaghan. My gratitude, too, to Radhika Mongia and Kajri Jain for entertaining my provocations
+       on intersectionality.                                 
+                                                             
+       ORCID iD                                              
+       Ilan Kapoor https://orcid.org/0000-0001-5495-5038     
+                                                             
+       Notes                                                 
+       1. Notable among the growing recent literature in this field are the works of the following inter-
+         sectional feminist, queer, Indigenous, anti-racism, and disability analysts: Evans and Lépinard
+         (2019), Chaddock and Hinderliter (2019), Haritaworn et al. (2014), Williams (2021), Padilla
+         (2021).                                             
+       2. I use the term ‘System’ in this article as a short form for ‘Capitalist Liberal-Multicultural
+         Democracy’, aimed at underlining how liberal democracy and multiculturalism go hand-
+         in-hand with late market capitalism: the former are the political and cultural arrangements,
+         respectively, of the latter.                        
+       3. Collins and Bilge (2016) take a more materialist approach to intersectionality than Crenshaw,
+         but as Carasthatis (2008) suggests (pp. 25–6), their ‘intersectionality of oppression’ still pro-
+         duces a congealed intersectional identity, rather than a more desubstantialized and hence
+         more resistant subject.                             
+       4. Note that Lacan would question the very category of ‘identity’ assumed by intersectionality,
+         since for him the process of self-identification is an imaginary process based on misrecogni-
+         tion (this is what he calls the ‘mirror stage’), heightened in this case by intersectionality’s
+         proclivities toward the enjoyment of identity.      
+       5. Crenshaw’s other use of the term ‘class’ is in reference to the legal category, synonymous with
+         ‘group’ as in ‘class action lawsuit’ (e.g. Crenshaw, 1989: 6, 10–13).
+       6. My critique is a dialectical materialist one (Kapoor et al., 2023: 15–20; Tomšič, 2015; Žižek,
+         2012), taking racism, patriarchy, homophobia, ableism deadly seriously, but impossible to
+         meaningfully comprehend or address in the absence of political economy.
+       7. Psychoanalytic ideology critique stands against the Marxist notion of ideology as manipula-
+         tion and misperception (‘false consciousness’), which makes a distinction between ‘truth’
+         and ‘lies’/‘falsity’, and hence between the ‘duped’ and the ‘vanguards’, the latter assumed
+         to somehow miraculously escape ideological interpellation. The psychoanalytic view avoids
+         this significant blind spot by seeing all subjects as ideologically embedded, so that the only
+         way to do ideology critique is from within ideology itself, investigating its slip-ups, gaps,
+         excesses, contradictions (Žižek, 1989), which is what I am attempting in this article.
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+      158                            Theory, Culture & Society 42(7-8)
+                                                             
+      8. See https://twitter.com/dibyeshanand/status/1431169087023947776 and https://twitter.com/
+        Icazarosalba/status/1431354928451100672.             
+      9. My subtitle for this section – ‘Decolonization IS a metaphor!’ – is of course also a species
+        of sermonizing, excepting that it is qualified by my supplementary section subtitle, ‘And
+        Political Economy Can Help Materialize It’.          
+      10. Unlike certain variants of (especially) classical Marxism, psychoanalytic Marxism is ada-
+        mant that even if a pro-subaltern post-capitalism were possible (a big if), there would be
+        no getting rid of disaffection/alienation (i.e. the Real) – a more egalitarian society would
+        still suffer the risks of new forms of inequality, hierarchy, and resentment (new exclu-
+        sions, privileges, elites, ‘insiders’ and ‘outsiders’) (Kapoor et al., 2023: 11; Kapoor, 2013;
+        McGowan, 2013: 9; Žižek, 2006: 266–7). The psychoanalytic point of view, in this sense,
+        provides no respite from challenge or political struggle.
+      References                                             
+      Aguilar, Delia (2015) Intersectionality. In: Mojab, Shahrzad (ed.) Marxism and Feminism. London:
+        Zed Books, pp. 203–220.                              
+      Ahmed, Sara (2007) The language of diversity. Ethnic and Racial Studies 30(2): 235–256.
+      Alfred, Taiaiake (2005) Wasáse: Indigenous Pathways of Action and Freedom. Peterborough:
+        University of Toronto Press.                         
+      Alfred, Taiaiake (2009) Peace, Power, Righteousness: An Indigenous Manifesto. Oxford: Oxford
+        University Press.                                    
+      Anghie, Antony (2005) Imperialism, Sovereignty and the Making of International Law. Cambridge:
+        Cambridge University Press.                          
+      Anzaldúa, Gloria (1987) Borderlands: The New Mestiza = La Frontera. San Francisco, CA:
+        Spinsters/Aunt Lute.                                 
+      Applebaum, Barbara (2011) Being White, Being Good: White Complicity, White Moral
+        Responsibility, and Social Justice Pedagogy. Lanham, MD: Lexington Books.
+      Asher, Kiran (2013) Latin American decolonial thought, or making the subaltern speak. Geography
+        Compass 7(12): 832–842.                              
+      Balibar, Etienne (2014) Equaliberty: Political Essays. Durham, NC: Duke University Press.
+      Baviskar, Amita (2007) Indian indigeneities: Adivasi engagements with Hindu nationalism in
+        India. In: de la Cadena, Marisol, and Starn, Orin (eds) Indigenous Experience Today. Oxford:
+        Berg, pp. 275–304.                                   
+      Buck-Morss, Susan (2009) Hegel, Haiti, and Universal History. Pittsburgh, PA: University of
+        Pittsburgh Press.                                    
+      Butler, Judith, Laclau, Ernesto, and Žižek, Slavoj (2000) Contingency, Hegemony, Universality:
+        Contemporary Dialogues on the Left. London: Verso.   
+      Carastathis, Anna (2008) The invisibility of privilege: A critique of intersectional models of iden-
+        tity. Les Ateliers de l’éthique / The Ethics Forum 3(2): 23–38.
+      Carastathis, Anna (2016) Intersectionality: Origins, Contestations, Horizons. Lincoln, NB:
+        University of Nebraska Press.                        
+      Chaddock, Noelle and Hinderliter, Beth (eds) (2019) Antagonizing White Feminism:
+        Intersectionality’s Critique of Women’s Studies and the Academy. Lanham, MD: Rowman
+        & Littlefield.                                       
+      Collins, Patricia Hill and Bilge, Sirma (2016) Intersectionality. Malden, MA: Polity.
+      Coulthard, Glen Sean (2014) Red Skin, White Masks: Rejecting the Colonial Politics of Recognition.
+        Minneapolis, MN: University of Minnesota Press.      
+
+[PAGE 19]
+                                                             
+                                                             
+                                                             
+       Kapoor                                        159     
+                                                             
+       Crenshaw, Kimberlé (1989) Demarginalizing the intersection of race and sex: A black feminist
+         critique of antidiscrimination doctrine, feminist theory and antiracist politics. University of
+         Chicago Legal Forum 1: 139–167.                     
+       Crenshaw, Kimberlé (2014) On Intersectionality: The Essential Writings of Kimberlé Crenshaw.
+         New York, NY: New Press.                            
+       Cusicanqui, Silvia Rivera (2012) Ch’ixinakax Utxiwa: A reflection on the practices and discourses
+         of decolonization. South Atlantic Quarterly 111(1): 95–109.
+       Deepak, J. Sai (2021) India, That is Bharat: Coloniality, Civilisation, Constitution. New Delhi:
+         Bloomsbury Publishing.                              
+       Escobar, Arturo (2020) Pluriversal Politics: The Real and the Possible. Durham, NC: Duke
+         University Press.                                   
+       Evans, Elizabeth and Lépinard, Eléonore (eds) (2019) Intersectionality in Feminist and Queer
+         Movements: Confronting Privileges. Oxon: Routledge. 
+       Fanon, Frantz (1963) The Wretched of the Earth, trans. Richard Philcox. New York, NY: Grove
+         Press.                                              
+       Fanon, Frantz (1967) Black Skin, White Masks, trans. Charles Lam Markmann. New York, NY:
+         Grove Press.                                        
+       Foley, Barbara (2019) Intersectionality: A Marxist critique. New Labor Forum 28(3): 10–13.
+       Fraser, Nancy and Honneth, Axel (2003) Redistribution or Recognition?: A Political-Philosophical
+         Exchange. London: Verso.                            
+       Haritaworn, Jin, Kuntsman, Adi, and Posocco, Silvia (eds) (2014) Queer Necropolitics. Oxon:
+         Routledge.                                          
+       Hegel, Georg Wilhelm Friedrich (1977) Phenomenology of Spirit, trans. John Niemeyer Findlay.
+         Oxford: Clarendon Press.                            
+       Hegel, Georg Wilhelm Friedrich (2010) The Science of Logic, trans. George Di Giovanni.
+         Cambridge: Cambridge University Press.              
+       Jameson, Fredric (1991) Postmodernism or the Cultural Logic of Late Capitalism. London: Verso.
+       Kapoor, Ilan (2008) The Postcolonial Politics of Development. London: Routledge.
+       Kapoor, Ilan (2013) Humanitarian heroes? In: Fridell, Gavin and Konings, Martin (eds.) Age of
+         Icons: Exploring Philanthrocapitalism in the Contemporary World. Toronto: University of
+         Toronto Press, pp. 26–49.                           
+       Kapoor, Ilan (2017) Cold critique, faint passion, bleak future: Post-development’s surrender to
+         global capitalism. Third World Quarterly 38(12): 2664–2683.
+       Kapoor, Ilan (2020) Confronting Desire: Psychoanalysis and International Development. Ithaca,
+         NY: Cornell University Press.                       
+       Kapoor, Ilan and Fridell, Gavin (2024) Rethinking Development Politics. Cheltenham: Edward
+         Elgar.                                              
+       Kapoor, Ilan, Fridell, Gavin, Sioh, Maureen, et al. (2023) Global Libidinal Economy. Albany, NY:
+         SUNY Press.                                         
+       Kapoor, Ilan and Zalloua, Zahi (2022) Universal Politics. Oxford: Oxford University Press.
+       Kimmel, Michael S. and Ferber, Abby L. (2016) Privilege: A Reader, 4th edn. Boulder, CO:
+         Westview Press.                                     
+       Lacan, Jacques (1993) The Psychoses: The Seminar of Jacques Lacan, Book III, ed. Jacques-Alain
+         Miller, Reprint edition. New York, NY: W.W. Norton. 
+       Lacan, Jacques (1998) The Four Fundamental Concepts of Psychoanalysis: The Seminar of
+         Jacques Lacan, Book XI, ed. Jacques-Alain Miller. New York, NY: W.W. Norton.
+       Lugones, Maria (2016) The coloniality of gender. In: Harcourt, Wendy (ed.) The Palgrave
+         Handbook of Gender and Development. Basingstoke: Palgrave Macmillan, pp. 13–33.
+
+[PAGE 20]
+                                                             
+                                                             
+                                                             
+      160                            Theory, Culture & Society 42(7-8)
+                                                             
+      McCoy, Kate, Tuck, Eve, and McKenzie, Marcia (eds) (2017) Land Education: Rethinking
+        Pedagogies of Place from Indigenous, Postcolonial, and Decolonizing Perspectives. New
+        York, NY: Routledge.                                 
+      McGowan, Todd (2013) Enjoying What We Don’t Have: The Political Project of Psychoanalysis.
+        Lincoln, NB: University of Nebraska Press.           
+      McGowan, Todd (2019) Emancipation After Hegel: Achieving a Contradictory Revolution. New
+        York, NY: Columbia University Press.                 
+      McGowan, Todd (2020) Universality and Identity Politics. New York, NY: Columbia University
+        Press.                                               
+      Marx, Karl (1847) The Poverty of Philosophy. Moscow: Progress Publishing.
+      Merino, Roger (2016) An alternative to ‘alternative development’?: Buen vivir and human devel-
+        opment in Andean countries. Oxford Development Studies 44(3): 271–286.
+      Michaelsen, Scott and Shershow, Scott Cutler (2007) Rethinking border thinking. South Atlantic
+        Quarterly 106(1): 39–60.                             
+      Mignolo, Walter D. (2002) The geopolitics of knowledge and the colonial difference. South
+        Atlantic Quarterly 101(1): 57–96.                    
+      Mignolo, Walter D. (2007) Delinking. Cultural Studies 21(2–3): 449–514.
+      Mignolo, Walter D. (2010) Delinking: The rhetoric of modernity, the logic of coloniality and the
+        grammar of de-coloniality. In: Mignolo, Walter D., and Escobar, Arturo (eds) Globalization
+        and the Decolonial Option. London: Routledge, pp. 303–368.
+      Mignolo, Walter D. (2011) The Darker Side of Western Modernity: Global Futures, Decolonial
+        Options. Durham, NC: Duke University Press.          
+      Mignolo, Walter D. (2012) Local Histories/Global Designs: Coloniality, Subaltern Knowledges,
+        and Border Thinking. Princeton, NJ: Princeton University Press.
+      Mignolo, Walter D. (2018) Foreword: On pluriversality and multipolarity. In: Reiter, Bernd (ed.)
+        Constructing the Pluriverse: The Geopolitics of Knowledge. Durham, NC: Duke University
+        Press Books, pp. ix–xvi.                             
+      Mounk, Yascha (2023) The Identity Trap: A Story of Ideas and Power in Our Time. New York,
+        NY: Penguin.                                         
+      Padilla, Alexis (2021) Disability, Intersectional Agency, and Latinx Identity: Theorizing LatDisCrit
+        Counterstories. New York, NY: Routledge.             
+      Pimblott, Kerry (2020) Decolonising the university: The origins and meaning of a movement. The
+        Political Quarterly 91(1): 210–216.                  
+      Quijano, Aníbal (2000) Coloniality of power and Eurocentrism in Latin America. International
+        Sociology 15(2): 215–232.                            
+      Quijano, Aníbal (2007) Coloniality and modernity/rationality. Cultural Studies 21(2–3): 168–178.
+      Rancière, Jacques (1999) Disagreement: Politics and Philosophy. Minneapolis, MN: University
+        of Minnesota Press.                                  
+      Rancière, Jacques (2010) Dissensus: On Politics and Aesthetics, trans. Steve Corcoran. London:
+        Continuum.                                           
+      Robinson, Cedric J. (2019) On Racial Capitalism, Black Internationalism, and Cultures of
+        Resistance. London: Pluto Press.                     
+      Simpson, Leanne Betasamosake (2011) Dancing on Our Turtle’s Back: Stories of Nishnaabeg
+        Re-Creation, Resurgence, and a New Emergence. Winnipeg, Canada: Arbeiter Ring Publishing.
+      Simpson, Leanne Betasamosake (2014) Land as pedagogy: Nishnaabeg intelligence and rebellious
+        transformation. Decolonization: Indigeneity, Education & Society 3(3): 1–25.
+
+[PAGE 21]
+                                                             
+                                                             
+                                                             
+       Kapoor                                        161     
+                                                             
+       Smith, Linda Tuhiwai (2012) Decolonizing Methodologies: Research and Indigenous Peoples,
+         2nd edn. London: Zed Books.                         
+       Spivak, Gayatri Chakravorty (1988) Can the subaltern speak? In: Nelson, Cary, and Grossberg,
+         Lawrence (eds) Marxism and Interpretation of Culture. Chicago, IL: University of Illinois
+         Press, pp. 271–313.                                 
+       Thakur, Gautam Basu (2020) Postcolonial Lack: Identity, Culture, Surplus. Albany, NY: SUNY
+         Press.                                              
+       Tomšič, Samo (2015) The Capitalist Unconscious: Marx and Lacan. London: Verso.
+       Tuck, Eve and Yang, K. Wayne (2012) Decolonization is not a metaphor. Decolonization:
+         Indigeneity, Education & Society 1(1): 1–40.        
+       Turnbull, Paul and Pickering, Michael (eds) (2010) The Long Way Home: The Meaning and
+         Values of Repatriation. New York, NY: Berghahn Books.
+       Williams, Wendi S. (ed.) (2021) WE Matter!: Intersectional Anti-Racist Feminist Interventions
+         with Black Girls and Women. New York, NY: Routledge.
+       Zalloua, Zahi (2020) Žižek on Race: Towards an Anti-Racist Future. London: Bloomsbury.
+       Zalloua, Zahi (2023) Solidarity and the Palestinian Cause: Indigeneity, Blackness, and the
+         Promise of Universality. London: Bloomsbury.        
+       Žižek, Slavoj (1989) The Sublime Object of Ideology. London: Verso.
+       Žižek, Slavoj (1999) The Ticklish Subject: The Absent Centre of Political Ontology. London:
+         Verso.                                              
+       Žižek, Slavoj (2002) For They Know Not What They Do: Enjoyment as a Political Factor. London:
+         Verso.                                              
+       Žižek, Slavoj (2006) The Parallax View. Cambridge, MA: MIT Press.
+       Žižek, Slavoj (2009) First as Tragedy, Then as Farce. London: Verso.
+       Žižek, Slavoj (2012) Less than Nothing: Hegel and the Shadow of Dialectical Materialism.
+         London: Verso.                                      
+       Ilan Kapoor is Professor of Critical Development Studies at the Faculty of Environmental and
+       Urban Change, York University, Toronto. His research focuses on psychoanalytic and postcolonial
+       theory and politics, and ideology critique. He is the author of The Postcolonial Politics of
+       Development (Routledge, 2008), Celebrity Humanitarianism: The Ideology of Global Charity
+       (Routledge, 2013), and Confronting Desire: Psychoanalysis and International Development
+       (Cornell University Press, 2020); editor of the collected volume, Psychoanalysis and the Global
+       (University of Nebraska Press, 2018); and co-author, with Zahi Zalloua, of Universal Politics
+       (Oxford University Press, 2022); with Gavin Fridell, Maureen Sioh and Pieter de Vries, of Global
+       Libidinal Economy (SUNY Press, 2023); and with Gavin Fridell of Rethinking Development
+       Politics (Edward Elgar, 2024).                        
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 22]
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+     Explore           and      discover                     
+                                                             
+                                                             
+     more         from        Sage                           
+                                                             
+                                                             
+                                                             
+     Sage Perspectives Blog     Information for Authors      
+     Sage Perspectives focuses on Our Information for Authors area is essential
+     highlighting topical and interesting for all aspiring academic authors. Here,
+     research published in Sage books and you can fi nd top reasons to publish with
+     journals. The blog includes posts from Sage, resources on how to get published,
+     authors across a wide range of subject information on the article submission
+     disciplines and research areas. process, Sage’s open access options,
+                                ppuubblliisshhiinngg ppoolliicciieess aanndd eetthhiiccss,, aanndd mmoorree..
+     bit.ly/sageperspectives    bit.ly/sage_authors          
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             

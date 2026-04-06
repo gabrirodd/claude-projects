@@ -1,0 +1,1054 @@
+[PAGE 1]
+ 1304718                                                     
+ research-article2025 TCS0010.1177/02632764241304718Theory, Culture & SocietyCai
+                                                             
+                                                             
+       Article                                               
+                                             Theory, Culture & Society
+       The Cultural Politics of               2025, Vol. 42(3) 21 –40
+                                              © The Author(s) 2025
+       Artificial Intelligence in China                      
+                                              Article reuse guidelines:
+                                          sagepub.com/journals-permissions
+                                        httpDs:O//dIo: i1.o0r.g1/1107.711/0727/60322673267462442143130044771188
+                                           journals.sagepub.com/home/tcs
+       Qiaoyu Cai                                            
+       University of California, Santa Barbara               
+       Abstract                                              
+       This essay examines the cultural politics of Artificial Intelligence (AI) in China through
+       the lens of postsocialism, proposing the concept of a ‘postsocialist AI’ that goes beyond
+       the dominant paradigm of neoliberal informationalism. The essay first explores the
+       distinct state-capital nexus in China’s AI development, characterized by paradoxical
+       modes of operation driven by neoliberal motivations, yet also deeply influenced by
+       symbolic lexicons, value systems, and institutional structures rooted in Leninist-Maoist
+       traditions. The complex interplay of state support, local governmental practices, and
+       market investment showcases ongoing negotiations among contradictory political-
+       economic objectives and subject positions that resist simplification into a globally
+       universalized model of neoliberal capitalism. Further, the essay investigates the
+       ontogenesis or sociogenesis of machine learning – the process through which intelligent
+       machines become socialized through interactions with their sociocultural and political
+       contexts. By foregrounding the interactive encounter between distinct modes of
+       machinic intelligence and Chinese modernity experiences, the essay contests the
+       prevailing neoliberal subjectivity in AI studies and seeks to expand the political horizon
+       limited by the hegemonic figure of homo economicus.   
+       Keywords                                              
+       artificial intelligence (AI), Chinese postsocialism, City Brain, homo economicus, homo
+       politicus, machine learning, smart city, smart urbanism
+                                                             
+                                                             
+       Alibaba’s City Brain AI has now entered its third phase of upgrades, featuring seamless
+       integration of diverse data streams into a unified urban management system, encompass-
+       ing key aspects of urban life such as traffic management, civic governance, healthcare,
+       public security, and environmental monitoring. Leveraging big data analytics and deep
+       learning models, City Brain 3.0 touts its capability for precise prediction of emerging
+       patterns and trends, enabling real-time decision-making for crisis prevention and
+                                                             
+                                                             
+       Corresponding author: Qiaoyu Cai. Email: qcai@ucsb.edu
+       TCS Online Forum: https://www.theoryculturesociety.org/
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+      22                              Theory, Culture & Society 42(3)
+                                                             
+      anticipatory governance.1 Following its initial success in Alibaba’s home city of
+      Hangzhou, the platform has since been rolled out to 23 Chinese cities and has gone inter-
+      national, with implementations in cities such as Kuala Lumpur and Dubai. Joining the
+      foray are other home-grown tech giants, collectively known as BATH (Baidu, Alibaba,
+      Tencent, Huawei), along with thousands of smaller enterprises from unicorns to low-
+      capital start-ups, all contributing to the expansion of smart urbanism as a national
+      endeavor now underway in over 500 Chinese cities.2 Aligned with the official policy
+      documents, such as the State Council’s ‘14th Five-Year Plan’, these smart urbanism pro-
+      jects set agendas around normative commitments to civic engagement, public service,
+      community building, anchored around the key phrase – ‘grassroots engagement’.3 The
+      term ‘grassroots’ rarely appears in the ‘smart city’ discourse in the West, where similar
+      commitments to civic engagement are often framed within liberal ideals of civil liberties,
+      emphasizing rights to free mobility, legal protection, and democratic participation.
+      ‘Grassroots’, in the Chinese context, instead underscores a community-based and collec-
+      tive-oriented approach resonating with the Maoist ethos of grassroots movements and
+      ‘mass line’ policies. The persistant inclusion of the term ‘grassroots’ in both policy docu-
+      ments and corporate whitepapers demonstrates a lineage of socialist legacies that con-
+      tinue to bear on contemporary Chinese policy-making.   
+        The actual implementation of smart urbanism, however, much like other grand state-
+      sponsored initiatives in China, exhibits strong features of a neoliberal growth model. The
+      market-driven approach to building the City Brain ecosystem puts smaller tech enter-
+      prises under financial pressure to secure funds and loans, required to compete with major
+      players like BATH for government contracts. This leads to an over-concentration of capi-
+      tal in high-return areas such as cloud computing, cloud storage rentals, and platform
+      building, while investment in the common good and community building, such as intel-
+      ligent public service and smart government infrastructure, remains limited. However,
+      unlike the predominance of private capital in Western ‘smart city’ projects, where urban
+      development is driven by intense financial speculation and profit-making motives,
+      China’s City Brain AI maintains a significant share of public sector capital investment
+      through state-owned and public-owned enterprises. For instance, Hikvision, a leading
+      provider of surveillance cameras, is over 40% state-owned.4 This blend of public and
+      private shareholding is further shaped by the leading role of provincial and sub-provin-
+      cial governments, which retain control over the specific directives of City Brain projects
+      based on local social and economic needs, with tech firms serving primarily as technical
+      implementers. This results in a distinct dynamic in which the government holds consid-
+      erable leverage over corporations, contrasting with the corporate-dominated landscape
+      of Western smart cities. Overall, China’s City Brain AI displays a strong synergy between
+      public and private sectors that goes beyond simple capital-driven interests.
+        What does the dynamic between governmental steering and market orientation reveal
+      about the distinct nature of Chinese AI development? While neoliberalism as a socioeco-
+      nomic and political framework both discursively defines and practically orients AI
+      development in the West, which frameworks can account for the paradox in China
+      between a strong discursive commitment to communist ideals of grassroots engagement
+      and community building, and the relentless pursuit of market-defined goals that signifi-
+      cantly deviate from those ideals in practice? Are there more nuanced frameworks that
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+       Cai                                            23     
+                                                             
+       better explain the specific dynamics of Chinese AI development, which only partially
+       align with neoliberalism, beyond simplistic labels such as ‘state capitalism’ or ‘neoliber-
+       alism with Chinese characteristics’? How does this distinct dynamic make a difference
+       in the creation and application of AI as both an epistemological and technical apparatus
+       or dispositif?5                                       
+        Artificial Intelligence (AI) is now couched in phrases such as ‘AI race’ and ‘AI
+       Cold War’, most often describing an emerging conjuncture of contestation between
+       the United States and China. As modernity is envisaged in the dominant form of neo-
+       liberal globalization, it is not surprising that the two nations have galloped into a race
+       for the next critical juncture of capital accumulation. Within the horizon of the current
+       computational methods, what is conceived as the ‘General AI’ – the supreme fantasy-
+       form of AI-based capital growth – is de facto a jigsaw puzzle, consisting of many
+       task-specific AIs such as autopilot AI, medical AI, urban AI, and (the most hyped)
+       Chatbot AI. For state apparatus, they are recruited to transform governmental, pro-
+       ductive, and military capacities. In 2017, the State Council of China unveiled a
+       national AI development plan, outlining a three-fold objective as the frontier of devel-
+       opment: to promote and widely apply AI-directed and enhanced social services, pub-
+       lic security, and national defense; to attain global leadership in AI theoretical
+       innovation; to complete the digitized transition of the nation’s daily economic activi-
+       ties.6 Considered generally, these objectives are governmental, geopolitical, and eco-
+       nomic in nature. Obscured, however, is the political dimension – that is, what these
+       developments mean for the nation’s political future. The plan outlines an AI-driven
+       modernity that perpetuates the Chinese state’s developmentalist and depoliticized
+       tendencies. It is developmentalist because the plan defines its supreme imperatives as
+       ascending the global value chain and transforming the economy from low-end manu-
+       facturing to sectors with higher added value; it is depoliticized as the plan lacks a
+       clear political vision that guides the telos of such development. Despite containing
+       extensive clusters of policy guidelines, development agendas, and evaluation metrics,
+       the plan leaves a remarkable lacuna by not addressing any explicit political subject-
+       position capable of contemplating the fate of the wildly detoured socialist republic.
+       There is no discussion on how such AI integration could tackle pressing issues that
+       are consequences of the four decades of reform – to name just a few, radical income
+       inequality, labor abuse, ecological crises, and a tightly constrained, consumerism-
+       rinsed public sphere. ‘Whither China?’ – a political question foundational to the legit-
+       imacy of the People’s Republic – is continually deferred at the crossroads of the
+       eagerly anticipated ‘AI revolution’.                  
+        The retreat of the political horizon, as many leftists in both China and the West argue,
+       is an inevitable result of unreflective developmentalism. Indeed, depoliticization and
+       developmentalism are entwined features of capitalist modernity; the false dichotomy that
+       seeks to separate economy from politics serves to mask the power-hungry nature of capi-
+       tal (Hall, 1988; Wood, 1981). Post-1960s, the era hinges on economic performance as the
+       supreme benchmark for political success, characterized by relentless pursuits of capital
+       accumulation that justify intensifying social inequities, labor abuses, natural depriva-
+       tions, and geopolitical tensions as necessary transitional sacrifices. The discourse of the
+       ‘AI race’ has arisen within this global context of depoliticized developmentalism.
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+      24                              Theory, Culture & Society 42(3)
+                                                             
+        In this essay, my central purpose is to re-politicize the discourse on AI by examining
+      the underlying historical consciousness and collective subjectivities that, although mar-
+      ginalized in the era of depoliticized developmentalism, are decisive in shaping the
+      dynamics of AI development across different national and social contexts. The kind of
+      re-politicization I advocate for begins with an exploration of the cultural politics of AI.
+      Here, ‘cultural’ does not refer to techno-cultural essentialism (such as ‘Confucian AI’) or
+      niche-culture aesthetics (such as ‘Cyberpunk Martial Art’). Instead, it serves as a provi-
+      sional placeholder for a radical type of historical consciousness and the politics of the
+      collective, manifest through the discourse and praxis of AI development within specific
+      political and socio-historical contexts. By foregrounding the cultural dimension of re-
+      politicization, my goal is to move beyond the frameworks of institutional studies and
+      policy analysis to address the larger problematic of historical consciousness and collec-
+      tive subjectivity, which underpins the distinct dynamics of AI development.
+        I choose China as the case study for AI cultural politics for two reasons. First, the
+      nation’s proactive engagement and massive investment in the global ‘AI revolution’ have
+      significant impact on the affordance of an AI-piloted future. Second, contemporary
+      China bears the imprints of convoluted political experiences and social history in modern
+      times; Chinese modernity is deeply intertwined with, yet remains distinct from, liberal
+      modernity in the West. This makes China’s AI development a valuable case study for
+      comparison with the prevailing focus in current AI research, which often assumes an
+      implied subject-position rooted in the historical experiences of liberal modernity. Current
+      discussion of AI politics, ethics, and aesthetics, within and (to a lesser extent) beyond
+      Western academia, often revolves around a limited set of parameters such as the political
+      form of constitutional democracy, the political economy of neoliberalism, and historical
+      legacies of colonialism and imperialism. This preordained focus restricts insights into
+      alternative subject-positions shaped by non-liberal, non-Western cultural and political
+      histories that underpin distinct priorities and demands of AI development. Consequently,
+      there is a noticeable shortage of scholarship investigating the origins and evolutions of
+      AI, along with their sociopolitical implications, outside the scope of liberal modernity.
+      The lack of alternative perspectives has depoliticizing effects, as it tends to suppress the
+      historical and cultural consciousness from which the liberal subject itself emerged. The
+      central aim of exploring the cultural politics of AI in China is to uncover the unique,
+      historically and politically situated conditions that underlie alternative configurations of
+      information modernity. By doing so, it lays the foundation for a re-politicized considera-
+      tion of AI development.                                
+        Presently, Western narratives on China’s AI development focus on its role in augment-
+      ing the state’s capacity for social control, as well as its ambitions for global hegemony.
+      Many in the West view post-reform China as de facto a capitalist regime with a market-
+      driven economy, despite being politically out of step with its authoritarian single-party
+      system. While China’s political and economic landscape exhibits significant elements of
+      neoliberal influence, it also retains strong Maoist legacies that shape its political lexicon,
+      institutional structure, media discourse, and popular sentiment.7 These elements chal-
+      lenge the prevailing discourse of global neoliberalism that categorizes China as merely a
+      variant, often described as ‘authoritarian state capitalism’ or ‘neoliberalism with Chinese
+      characteristics’.8                                     
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+       Cai                                            25     
+                                                             
+        Instead of referring to neoliberalism as the main analytical framework, I employ post-
+       socialism to contextualize the current state of cultural politics in China. I do so for three
+       reasons. The first is that I am making a historical claim: the era of ‘high socialism’ still
+       looms large in contemporary China’s institutional, educational, and moral discourse.
+       This influence suggests a dominant discursive and symbolic order that provides a moral
+       foundation for popular sovereignty, diverging from liberal humanism. Despite teeming
+       contradictions within the country’s ‘actually existing socialism’, it is reasonable to argue
+       that China’s meta-historical consciousness is anchored in a distinct ‘regime of truth’; its
+       collective ‘political unconscious’ has a ‘narrative’ structure that is profoundly historical.9
+       The second reason for referring to postsocialism is that I am making a descriptive claim:
+       contemporary Chinese reality is, to use a Deleuzian term, a ‘resonance chamber’ that
+       echoes and relays a bewildering complex of modes of production, modes of social gov-
+       ernance, economic practices, and symbolic orders (Deleuze and Guattari, 2007: 344).
+       Prior to the onset of the actual cultural politics in China, no framework could adequately
+       capture the nuances of the country’s situation. Postsocialism, therefore, is a compromise
+       term. However, it is a more apt framework than more popular alternatives like ‘capital-
+       ism with Chinese characteristics’ or ‘state capitalism’, because it implies a commingling
+       of various positions typical of ‘post-’ theoretical frameworks such as postmodernism,
+       postcolonialism, and posthumanism. These positions recognize the dialectical interplay
+       of historical continuities and ruptures within certain political and theoretical positions,
+       seeking to transcend essentialist claims and simplistic dualism.10 The third reason that I
+       speak of postsocialism is that I am making a theoretical claim – one that recognizes a
+       historical position from which to critique the tunnel vision of neoliberal capitalist moder-
+       nity. For those who view neoliberalism as a hegemonic symbolic order enforcing a uni-
+       form political rationality globally, postsocialism offers an alternative discursive-political
+       position with a distinct set of symbolic lexicons and political configurations that remain
+       incongruous with the model of neoliberal homo economicus.
+        Through a postsocialist lens, grounded in historical, descriptive, and theoretical con-
+       siderations, I explore the cultural politics of AI in China on two levels: a cultural-politi-
+       cal focus on the state-social dynamic and a technical focus on a key dimension of
+       contemporary AI technique – the interactive logic of machine learning. This two-level
+       approach aims to theorize what I term ‘postsocialist AI’, which goes beyond the domi-
+       nant paradigms and discursive hegemony of neoliberal technological modernity. On the
+       cultural-political level, I examine the historically informed state-capital nexus in China,
+       focusing on their political and ideological underpinnings, modes of operation, and
+       approaches to social governance that are central to the policy agenda concerning China’s
+       AI development. In particular, I examine the nation’s decentralized power mechanism
+       that underpins its approach to smart urbanism. This grants local authorities considerable
+       autonomy to work alongside private actors, fostering environments of politically moti-
+       vated, strategic partnerships necessary for long-term AI innovation and the consistent
+       development of smart urban infrastructure. This complex interplay between state sup-
+       port, local governmental practices, and market investment showcases paradoxical com-
+       mitments to neoliberal motivations, as well as symbolic lexicons, value systems, and
+       institutional structures shaped by Leninist-Maoist traditions. Consequently, the cultural
+       politics of AI in China results from ongoing negotiations among contradictory
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+      26                              Theory, Culture & Society 42(3)
+                                                             
+      political-economic objectives and subject positions, which cannot be fully understood
+      within the confines of globally universalized neoliberal modernity.
+        On the technical level, my analysis emphasizes postsocialism as an alternative frame-
+      work for understanding the socialization process of intelligent machines, also known as
+      the ontogenesis or sociogenesis of machine learning.11 This investigation examines the
+      reciprocal relationship between AI and its embedded sociocultural and political contexts,
+      as machines ‘learn’ by internalizing and acting upon the collective consciousness and
+      political subjectivity of their environment. Philosopher Gilbert Simondon (2013) refers to
+      this interactive form of machinic intelligence as ‘technical mentality’, highlighting the
+      agency and subjectivity machines exhibit in their interactions with the organic world.
+      Following Simondon, some technology theorists suggest that the core of ‘technical men-
+      tality’ is governed by the political horizon of homo economicus, the quintessential figure
+      embodying the episteme of neoliberalism. Under this framework, machine intelligence
+      inherits values and biases from the neoliberal episteme when forming its own epistemo-
+      logical foundations. However, I explore the interactive formation of machine intelligence
+      through the mediation between machinic agents and an epistemic figure shaped by post-
+      socialist China’s modernity experience. My aim is to interpret the cultural politics of AI in
+      China, rooted in the unique interaction between machinic subjectivity and postsocialist
+      subjectivity, thereby challenging the dominance of homo economicus as the sole political
+      horizon shaping machine intelligence.                  
+      The State-Capital Nexus in AI Analysis                 
+      It comes as no surprise that popular discourse in both China and the US acknowledges
+      the necessity of direct state participation in AI development, given its status as one of the
+      most capital-intensive projects at present, shaped explicitly by geopolitical interests and
+      military priorities. This recognition marks a shift from the previous era of cyberlibertari-
+      anism, when media pundits championed the ‘Californian ideology’ advocating for radi-
+      cal privatization of tech industries and complete withdrawal of state intervention. Riding
+      the high tides of the ‘end of history’ discourse in the early 1990s, cyberlibertarians coined
+      the term ‘New Class’ to promote simulated, eclectic politics. This ideology aimed to
+      alleviate rising class tensions, exacerbated by increasing income disparities due to a dec-
+      ade of neoliberal reform, by promising a forthcoming, techno-fantastic realm known as
+      ‘cyberspace’. In this utopian realm, equality appeared to be available to anyone with
+      internet access. Beneath this façade of radical individual liberty, autonomy, and eco-
+      nomic decentralization, however, was the state’s instrumental role in developing vital
+      infrastructure such as nationwide fiber optic networks, subsidizing internet services, and
+      realigning legal, political, and institutional apparatuses in support of an immaculate
+      vision of cyber-sovereignty. The state’s role, crucial in supporting a nascent form of capi-
+      tal accumulation, is essential to establishing and enforcing geopolitical advantages in the
+      global value chain. Although cyberlibertarian discourse sought to obscure this state-cap-
+      ital alliance, the current juncture of AI development highlights it: the depoliticized poli-
+      tics of state-capital alliance, based on both market exploitation and what Nancy Fraser
+      pinpoints as ‘non-market expropriation’, is central to the cultural politics of AI in both
+      the US and China.12                                    
+                                                             
+                                                             
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+       Cai                                            27     
+                                                             
+        The Chinese form of the state-capital alliance, however, is complicated by its norma-
+       tive claim to a socialist justice. Maoist ideology continues to wield powerful influence,
+       not only among party ideologues but also among venture capitalists, with some promi-
+       nent entrepreneurs holding strong faith in Mao’s principles and socialist institutions
+       (Marquis and Qiao, 2022). Contrary to portrayals of China’s political economy as an
+       authoritarian variant of neoliberalism, Wang Hui (2009) astutely observes that neoliberal
+       elements in China are politically motivated rather than rooted in an ideological faith in
+       market autonomy or political liberalization. These neoliberal strategies were tactically
+       adopted by the reform regime to establish a ‘coercive discursive formation and ideology’
+       that supported ‘the decentralization of power, benefits, and the contract system’ (Wang,
+       2009: 30–31). Unlike the ‘shock therapy’ undergone by former communist states in
+       Eastern Europe and Latin America, China’s integration of neoliberal elements was more
+       strategic than ideological; the political incentives for surviving its Leninist-Maoist insti-
+       tutions amid the trends of global neoliberal marketization outweighed any hardline com-
+       mitment to either socialism or capitalism. The drive to solidify the party-state’s legitimacy
+       through economic competitiveness has led to the development of a highly decentralized
+       power mechanism. Beginning with fiscal decentralization in the late 1970s, the mecha-
+       nism now sets de facto standards for most national endeavors in China, fostering peer
+       competition and spontaneous adjustments among local, provincial, and sub-provincial
+       governments, as well as private actors.               
+        The current state-capital nexus of AI development exemplifies this complex interplay
+       of socialist legacies and neoliberal tactics, marked by centralized command and decen-
+       tralized execution. Instead of being a monolithic entity exerting seamless control, the
+       Chinese state acts as a convener, setting campaign guidelines, and an arbitrator to bal-
+       ance interests among local stakeholders and preempt excessive competition (Zeng,
+       2020). Local authorities retain significant discretion in resource coordination, forming
+       institutional agreements with the private sector, including procurement, outsourcing, and
+       public-private partnerships (Yang et al., 2020). These partnerships place strategic empha-
+       ses on shared risks, long-term cooperation, and common goals between public and pri-
+       vate entities.                                        
+        Smart urbanism in China, for example, displays dynamic synergies among state,
+       municipal, and corporate actors across multiple scales, with regionally varied policies
+       (Hu and Zheng, 2021; Marvin et al., 2022; Zeng et al., 2023). National standards and
+       guidelines are established through collaboration among agencies such as the Ministry of
+       Finance, the Ministry of Science and Technology, the Ministry of Industry and Information
+       Technology, and the National Development and Reform Commission. However, local
+       governments, in partnership with public and private firms, develop specific plans tai-
+       lored to their reciprocal benefits. For example, key initiatives like big data infrastructures
+       and open government data practices (Gao, 2016; Liu et al., 2015) receive state support as
+       policy priorities, yet their implementation varies across different municipalities, each
+       displaying complex power dynamics and different local priorities in coordination with
+       technology firms.                                     
+        In Shanghai, China’s most capital-concentrated zone, often set up as strategic state
+       exemplar showcasing the most advanced development, the municipal government ben-
+       efits from massive state funding and high tax revenue, granting it strong leverage over
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+      28                              Theory, Culture & Society 42(3)
+                                                             
+      private firms. In 2019, Shanghai’s municipal government rolled out 100 billion yuan to
+      fund enterprises innovating core urban AI technologies and introduced 22 policy agen-
+      das, with funding commitments, to attract top international talent for the purpose of set-
+      ting up the Shanghai Municipal Big Data Center (Marvin et al., 2022). In contrast to the
+      strong public shareholding in the case of Shanghai, the home city of Alibaba, Hangzhou,
+      receives less direct state support and relies heavily on Alibaba Cloud’s ET City Brain for
+      capital investments and the company’s own corporate vision for smart urbanization. To
+      mitigate Alibaba’s corporate dominance, the Hangzhou City administration subcontracts
+      key aspects of the City Brain system to various smaller tech firms, many with strong state
+      ties or substantial public ownership shares (Caprotti and Liu, 2022). In fact, Alibaba
+      itself has about 20% share owned by the state-owned enterprise China Investment
+      Corporation, which acquired half of Yahoo’s former 40% stake in Alibaba in 2012.13 For
+      another case of the City Brain AI in Beijing’s Haidian District, the big data center and
+      grid management system were funded through private capital, but the infrastructure con-
+      tractor, Zhongguancun Smart City Co. Ltd (ZSC), has a mixed ownership co-funded by
+      the district government, China Unicom (SOE), and corporate giants like Alibaba and
+      Baidu, along with several unicorn enterprises (Xu et al., 2024). ZSC thus serves as a key
+      intermediary between governmental authority and commercial partners.
+        For yet another case, Shijiazhuang, the capital city of Hebei Province, the provincial
+      government lacks sufficient tax revenue, which limits its bargaining power with corpo-
+      rate actors (Zhang et al., 2022). Consequently, Shijiazhuang’s municipal governance
+      tends to adhere more strictly to the national agenda, sometimes at the cost of addressing
+      local and district-specific social imperatives. Key infrastructure projects like Shijiazhuang
+      Big Data Center, funded directly by state-owned enterprises, place pressure on municipal
+      departments to conform to the state mandates, despite their better grasp of local issues
+      and potential solutions. As a result, Shijiazhuang’s performance in key metrics of smart
+      urbanism consistently ranks among the lowest of China’s smart cities.
+        The great diversity within China’s smart urbanism initiatives is also due to their
+      experimentalist nature, which continues the decades-long trajectory of economic and
+      urban experimentation promoted and managed by the state since the reform era (Xu
+      et al., 2024). Scott Lash observes that the empirical tendency of Chinese political econ-
+      omy represents a counterpoint to the ‘set of a priori principles embedded in the
+      “Washington Consensus”’ (Lash, 2012: 280). Its trial-and-error approach involves exper-
+      imenting with new economic initiatives at the local judiciary level, refining them based
+      on lessons learned, and then scaling them to the provincial or municipal level. This
+      approach is clear in the current smart urbanism projects, where urban spaces are viewed
+      as testbeds for new sets of technical, political, and social governance such as sustainabil-
+      ity, climate change, energy and digital transitions.   
+        Although Lash (2012: 280) attributes the empirical logic enabling such experimenta-
+      tion to the Daoist tradition of Wu Wei – non-action or refusal to take action under a priori
+      frameworks – it is equally viable to attribute this logic to the key political features of
+      China’s socialist tradition. These include a robust and resourceful state and public sector,
+      along with the continuity of its Leninist-Maoist institutional framework, both of which
+      are crucial to ensuring that experimentation proceeds in a consistent and ordered manner.
+      For instance, the Shenzhen smart urbanism project, called ‘Zhi Wang’ (Net Weaving),
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+       Cai                                            29     
+                                                             
+       addresses data fragmentation across various government departments by integrating het-
+       erogeneous data streams collected on a grid basis into a unified public information
+       resource base. The project’s implementation relies on an orthodox Leninist-Maoist hier-
+       archical governance model, which ensures a formal and clearly defined governmental
+       structure capable of facilitating holistic operations and cross-departmental collaboration.
+       This whole-of-government approach has enabled the establishment of the Shenzhen
+       Municipal Government Management Service Control Center, which aggregates hun-
+       dreds of millions of datasets from 63 municipal departments and 250,000 channels (Xie
+       et al., 2024). Although these so-called ‘public data’ lack clear definitions regarding
+       accountability and legalized constraints on government use, they are not directly acces-
+       sible to private firms without stringent approval processes. Tech companies participating
+       in building grids and data centers – in this case, Tencent Cloud – are not directly involved
+       in data collection. Early on they provide technical expertise for repair and maintenance;
+       as operations stabilize, data platforms operate independently from private enterprises,
+       with all previously required data for testing and maintenance transferred to the govern-
+       ment as the sole legitimate entity responsible for their storage and management. In this
+       case, the private sector plays a technical role but cannot dictate the terms of experiments;
+       the decision to enact or reverse a ‘state of exception’ thus remains a political one.
+        Although some scholarship sets out to scrutinize the state-capital nexus of AI imple-
+       mentation in the Chinese context with attention to its sociocultural landscape, these anal-
+       yses often fall short by accepting the baseline assumption that Chinese political economy
+       is merely a variant of capitalism, typically labeled as ‘East Asian developmental state
+       capitalism’ (Huang and Tsai, 2022; Rolf and Schindler, 2023). A frequently cited aspect
+       of this thesis is the residual influence of Confucianism, which underpins the notion of
+       ‘Confucian capitalism’. One popular interpretation links Confucian ethics to Chinese
+       ‘public data’ practices, suggesting the purportedly weaker resistance among Chinese
+       netizens to data harvesting as a reflection of Confucian collectivism (Webb, n.d.). Such
+       culturalist interpretations, symptomatic of the Orientalist trends in the study of Chinese
+       high-tech development (‘techno-Orientalism’ as many call it), risk reinforcing stereo-
+       types of cultural and political inertia throughout China’s civilizational history, poten-
+       tially resurrecting the buried discourse of ‘Oriental despotism’ (Huang and Tsai, 2022).
+        Describing the Chinese political economy as a variant of state capitalism is even less
+       meaningful, as the proactive participation of the state in capital production, reproduction,
+       and manipulation is characteristic of modern statecraft itself. State capitalism essentially
+       refers to the general methods and bureaucratic techniques that states employ to manage
+       capital-related activities – a practice common across neoliberal states like the US and the
+       UK and communist regimes such as the Soviet Union and Maoist China. What distin-
+       guishes postsocialist China is not the uniquely close bond between state machinery and
+       capital but rather the efficiency and robustness of such machinery in directing capital
+       towards planned economic targets – although this capacity has been significantly under-
+       mined by foreign direct investment over the last two decades. Among the legacies of the
+       communist revolution, the theory of vanguard party representation provides the moral
+       and discursive foundation for the party-state’s stringent control over capital.
+        An illustrative example of this theory’s discursive appeal is the frequent reference to
+       ‘grassroots engagement’ in policy documents and corporate whitepapers, as mentioned
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+      30                              Theory, Culture & Society 42(3)
+                                                             
+      earlier in this essay. While political engagement is often framed within the liberal model
+      of democratic participation, the concept of ‘grassroots’ in the Chinese context is closely
+      tied to public oversight, regime embeddedness, and controlled participation – all pillar
+      mechanisms of the Leninist-Maoist party-state structure (Papagianneas, 2023; Zhou,
+      2022). According to the theory of vanguard party representation, the party-state must
+      remain attuned to the masses for effective decision-making. Mao’s own slogan, ‘from the
+      masses, to the masses’, means to gather opinions from ordinary people before synthesiz-
+      ing them into a basis for policy-making. This theory of embeddedness deviates from the
+      liberal model of participation, where direct citizen participation in decision-making is
+      anticipated. The vanguard party theory, in contrast, places centralized control in the
+      hands of the party-state and its core leadership, with the aim of ‘overseeing the overall
+      situation and coordinating all parties’ (Chen et al., 2014: 4).
+        The current AI-driven smart governance is envisioned to enhance the efficiency of over-
+      sight, through processing billions of datapoints into fine-grained categories, thus enabling
+      an unprecedented scale and efficiency of information collection, organization, and moni-
+      toring. The party-state remains at the helm of the information loop, with the people staying
+      passive in comparison. This dynamic is evident in China’s smart urbanism projects, where
+      citizens are less actively involved in direct policy-making and the design of sociotechnical
+      systems (STS), such as the types of service delivery, the deployment of transportation facil-
+      ities, and the trajectories of data transmission. More often, municipal governments substi-
+      tute massive data collection and synthesis for actual citizen input, assuming they understand
+      what constitutes a ‘people-centered’ design. This leads to a ‘taken-for-granted’ view of citi-
+      zenship that suggests strong civic stewardship and paternalism.
+        Critiques of such modes of smart governance as un-democratic rightly pinpoint the
+      Chinese government’s technocratic tendency to replace people with datasets, leading to
+      increasingly ‘detached’ engagement with the general populace. Shoshana Zuboff’s con-
+      cept of ‘surveillance capitalism’ has lent a critical framework to numerous discussions
+      on China’s authoritarian use of digital surveillance infrastructure, driven by the impera-
+      tives of social control and state security (Chan and Kwok, 2022; Lin and Milhaupt, 2023;
+      Xu et al., 2024). Zuboff’s critique is cogent in her extensive analysis of how American
+      tech firms’ appropriation of user data for commercial purposes has pioneered a new ‘eco-
+      nomic order’ or ‘logic of accumulation’ that profits from users’ behavioral patterns –
+      what she terms ‘behavioral surplus’ (Zuboff, 2019). The concept is central to this new
+      epochal form of capitalism, as it identifies the distinct raw material for private appropria-
+      tion. The mechanism through which data is extracted from consumers thus locates the
+      central power dynamics within surveillance capitalism, hence its core contradiction
+      between consumer autonomy and corporate power. Under surveillance capitalism, the
+      means of production is ‘behavioral modification’ – modifying user behavior through
+      customized digital products. The predominance of the private sector in Zuboff’s analysis
+      is self-explanatory for its misalignment with the surveillance practice in the Chinese
+      context. Unlike the dominance of private capital in the West, particularly in the US, the
+      Chinese government’s unrelenting command over civilian data suggests a form of ‘sur-
+      veillance statism’ rather than ‘surveillance capitalism’.
+        As it is no secret that states of all kinds are proactive in surveillance, it is again neces-
+      sary to situate China’s surveillance industry within its own dynamic of systemic
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+       Cai                                            31     
+                                                             
+       integration between state power and private capital (Huang and Tsai, 2022). Zuboff’s
+       discussion, centered on the liberal West, barely addresses Chinese tech firms or those in
+       other parts of the globe where digital economy is less developed. Thus, the ‘age of sur-
+       veillance capitalism’ framework is an epochal stage of capitalism understood from a
+       ‘certain political, philosophical, and geographical position’ (Evangelista, 2019: 250).
+       The ‘free individual’ – or more precisely, postindustrial consumers in the context of
+       Zuboff’s analysis – cited as the moral foundation of data protection speaks to a liberal
+       picture of human flourishing, which is not directly applicable to societies where moral
+       frameworks emphasize collective values over individual liberty. The Chinese public
+       sphere, partially steered by the party-state political parlance, for instance, emphasizes the
+       collective notion of ‘the people’ as the legitimate foundation of political power. The
+       Leninist-Maoist framework of controlled participation frames public engagement under
+       the absolute authority of the party-state, which is presumed to embody and lead the inter-
+       ests of the people to achieve common political and economic goals (Gueorguiev, 2021).
+        In this sense, the ideological and organizational principles of Leninist-Maoist institu-
+       tions are deeply embedded in China’s enthusiastic embrace of AI, as they optimize exist-
+       ing political structures and practices for controlled inclusion. Yet, this embrace of AI and
+       smart technologies risks exacerbating existing power imbalances, further blurring the
+       line between effective governance and authoritarian overreach. The grassroots emphasis
+       is often reduced to a process of harvesting billions of abstract data points for surveillance
+       tracking. The Shenzhen ‘Net Weaving’ project, for example, does not simply centralize
+       data for administrative efficiency; it transforms the very fabric of urban life into a mech-
+       anism of government oversight, where citizens’ moves are categorized and monitored by
+       an opaque bureaucratic apparatus. The lack of accountability mechanisms in managing
+       ‘public data’ underscores the government’s unchecked power, raising ethical concerns
+       about the pervasive reach of the state into the private lives of citizens, where surveillance
+       is as much a tool of political control as it is a means of governance.
+        In any case, a well-contextualized analysis of Chinese cultural politics must go beyond
+       the simplistic lens of state capitalism to recognize the complex state-capital nexus shap-
+       ing China’s AI practices. This nexus, manifest though the deep ambivalence of data gov-
+       ernance – seeking to ‘keep in touch’ with the people through controlled feedback loops
+       while simultaneously deepening authoritarian control – reflects a more fundamental con-
+       tradiction within China’s social fabric. The nation is caught between two powerful and
+       opposing forces: a persistent yearning for socialist justice and equality, rooted in its revo-
+       lutionary past, and an equally strong drive for capital efficiency and national pride, which
+       has become central to its contemporary identity. These conflicting imperatives create a
+       tension within all aspects of China’s AI practices.   
+       Interactive Computation and the ‘Epistemological      
+       Dispositifs’ of AI                                    
+       An effective framework for re-politicizing the cultural politics of AI should recognize
+       society as the primary contact point where machine intelligence is socialized through
+       interactions with collective subjectivities, rooted in specific historical, cultural, and
+       political experiences. This is particularly true with the advent of deep learning-based
+                                                             
+                                                             
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+      32                              Theory, Culture & Society 42(3)
+                                                             
+      model pipelines and algorithmic designs. Unlike the top-down supervised programming,
+      where machines ventriloquize the intentions of engineers, machine intelligence now
+      emerges from a combination of supervised, self-supervised, and unsupervised training.
+      This enables a contingent formation of machine intelligence unpredictable from its for-
+      mally designed model pipelines and algorithms.         
+        Contingency, in this context, refers to two main factors. First, as Fazi (2018) explains,
+      the iterative nature of computation (a key architectural design in machine learning)
+      means that the ‘truths’ produced by machines are truthful only in relation to the specific
+      data and conditions within the system itself, making computational ‘truths’ inherently
+      contingent. Second, contingency also arises from the unpredictability of the environment
+      – the dynamic and unpredictable interactions between humans, machines, and the broader
+      world that serve as raw material for machine learning. This unpredictability reflects the
+      irreducible indeterminacy of the lifeworld itself. Thus, machine learning involves inter-
+      preting and interacting with a world that is inherently dialogic and interactive. Both
+      sources of contingency highlight the inherent agency of machine intelligence, which
+      goes beyond simply following the intentions of engineers or serving the demands of
+      techno-capital.                                        
+        The recent turn to studying the cultural life of machine learning (Roberge and Castelle,
+      2021) is a promising development in this regard. It approaches AI not as a collection of
+      passive instruments relaying human intelligence but as a domain of reflexive, socialized
+      agents. By paying close attention to the ‘end-to-end’ sociological contexts where machine
+      intelligence interacts with and learns from the cultural environment, we can highlight
+      AI’s role as more than just replicating human intentions. Rather, AI systems reimagine
+      and rework external inputs, creating a quasi-independent political entity (Roberge and
+      Castelle, 2021: 1). These intelligent agents develop distinct forms of epistemologies,
+      generate knowledge of their own making, and even articulate ontological desires to
+      engage with the world.14 In essence, contemporary AI driven by machine learning pro-
+      vides ‘actionable knowledge’ that ‘is in and of itself a form of interested knowledge’,
+      shaped by its interaction with the environment (Roberge and Castelle, 2021: 14).
+        The unique epistemological and ontological aspects of machine intelligence can be
+      understood in more radical terms. Drawing upon French logician Jean-Yves Girard’s
+      theory of ‘ludic formalism’, Parisi (2021: 33–53) pushes the mode of interactive learning
+      toward a radically contingent, spontaneous, and undirected form. ‘Ludic formalism’
+      refers to a mode of computational logic that diverges from classical rule-based formal-
+      isms. Instead of relying on discrete units and well-defined propositions, it emphasizes
+      the ‘locativity of the sign’, where meaning and logic emerge through the interactions of
+      signs within a system (2021: 45). This leads to a view of computational meaning and
+      logic not as static truths but as dynamic, interactive processes – sign in action or code in
+      functioning. This observation leads to a technical formulation of machine epistemology,
+      or what Gilbert Simondon (2013: 1) calls ‘technical mentality’, a unique mode of knowl-
+      edge that arises from the operational aspects of computational logic.
+        A promising application of the ‘ludic formalism’ is its potential to challenge humanist
+      dispositifs of power with an unpredictable and often incomprehensible kind of machine
+      intelligence. Rooted in the universal concept of Man and its reification in the biocentric
+      story of human sapience – as Wynter (2015) points out – the humanist dispositifs are
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+       Cai                                            33     
+                                                             
+       recursively embedded in the formal structures and logic of contemporary algorithmic
+       thought. Parisi (2021: 34) identifies two key sources of humanism that the ‘ludic formal-
+       ism’ of machine intelligence can disrupt. One source is the ‘order of meaning subtending
+       the imperial technology of colonial governance and racialized anti-blackness’, which
+       Wynter refers to as the ‘universal cosmogony of Man’. This order of meaning is recur-
+       sively encoded in modern secular knowledge and Western techno-science. As many tech-
+       nology critics have noted, this regime of cognition, based on biological determinism and
+       exclusionary constructs of race and gender, has been extended to establish the cognitive
+       foundation of contemporary AI systems (Amaro, 2023; Apprich et al., 2018; Benjamin,
+       2020; Chun and Barnett, 2021; Noble, 2018).           
+        The other source of humanism emerged as an economic concept, shaped initially by
+       Judeo-Christian alignment of human worth with economic productivity and later secu-
+       larized as the concept of ‘human capital’ through liberalism and neoliberalism (Wynter,
+       2003). Man has since become homo economicus – a figure that prioritizes economic
+       calculations above all else, reducing the existential aspects of being human to capital
+       accumulation. These two sources of humanism co-constitute the dominant humanist dis-
+       positifs of power. ‘The logic of interactive computation’, as Parisi (2021: 38) argues,
+       ‘may contribute to breaking the spell of the Promethean Man’.
+        Parisi’s account, with its thick wrappings of historical and theological codes, high-
+       lights a particular pedigree of humanism – the Western liberal form – upon which mod-
+       ern techno-science systems are built. Through neoliberal globalization, homo economicus
+       has metamorphosed into a cosmic telos, stifling the spontaneity of other humanist tradi-
+       tions. A kind of universal Prometheanism permeates all techno-cultures, grounding their
+       humanist epistemological dispositifs in Western mythologies. However, the Promethean
+       myth is not an archetype that sponsors all forms of modernity or technological traditions.
+       For example, Chinese technological modernity has its own mythological origins.15 While
+       Chinese technological modernity has converged with universal Prometheanism due to
+       global neoliberal influences, framing technological modernity solely within the lineage
+       of liberal dispositifs of power fails to account for diverse technical traditions and techni-
+       cal thinkings.                                        
+        The development of algorithmic thought within the epistemological dispositifs of
+       postsocialist China raises a distinct set of questions: How is interactive machine intelli-
+       gence shaped in this context, and what impact does it have on China’s broader culture
+       and sociopolitical landscapes? If the origin of Western technical thinking is rooted in the
+       Promethean myth of progress, what distinct cosmologies inform the cultural technics of
+       Chinese modernity? ‘Ludic formalism’ suggests that the interactive logic of machine
+       intelligence can be understood as the ‘locativity of the sign’ – the interaction of movable
+       signs within a specific ‘loci’. In the postsocialist Chinese context, how do these interac-
+       tions of rules form a unique ‘loci’ specific to the syntactical movements of AI techno-
+       signs (2021: 43–8)?                                   
+       Homo economicus? Homo politicus postsocialismus?      
+       A full-scale study of Chinese cultural technics – its origin and contemporary metamor-
+       phosis vis-à-vis machinic agents – is beyond the scope of this essay. However, to begin
+                                                             
+                                                             
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+      34                              Theory, Culture & Society 42(3)
+                                                             
+      addressing the questions posed, it is useful to reiterate this critical assumption: postso-
+      cialism is not merely an epochal socioeconomic condition but a cultural-political order
+      embodying a dominant form of technological modernity. Postsocialist subjectivity is a
+      sociopolitical figure characterized by both ruptures and continuities with the previous era
+      of high communism; it is the core epistemic figure for postsocialism, analogous to homo
+      economicus in the context of neoliberalism.            
+        In Undoing the Demos: Neoliberalism’s Stealth Revolution, Brown (2017) discusses
+      the rise of neoliberalism in terms of its dominant political epistemology, pivoting on the
+      transition from homo politicus – the politically conscious and judicious figure – to homo
+      economicus – a figure that prioritizes economic calculation over political considerations.
+      Several issues, however, can be contested regarding Brown’s portrayal of the Manichean
+      struggle between homo politicus and homo economicus. I will highlight its narrow focus
+      on the Western genesis and development of political epistemology. Brown starts by pre-
+      senting homo politicus as an ontological fact tout court rather than a historical construct
+      emerging in a specific context – namely, ancient Greece. The political epistemology
+      represented by the figure has since influenced a wide spectrum of political traditions and
+      political philosophies, but by and large these variants were regional developments before
+      the spread of European colonialism and imperialism. By defining homo politicus as a
+      primal and transhistorical figure without proper qualification, Brown risks promoting an
+      epistemological imperialism. In this view, homo politicus as conceived by Aristotle (as
+      zōon politikon, or the ‘political animal’) is seen as having a Western origin, later imposed
+      on other cultures through colonial and imperial expansion. By this logic, other forms of
+      political rationality are often viewed as mere offshoots of this original Western model,
+      and those that do not fit the homo politicus paradigm are dismissed as apolitical.
+        This explains why Brown analyzes homo politicus from multiple perspectives includ-
+      ing social relations, language, law, and ethical philosophy, but omits technê, i.e. technical
+      praxis, the historical and cultural practices of relating to the world through the use of
+      technology. Technê (tekhne) is a key concept in Aristotle’s own evaluation of a good polit-
+      ical life and a crucial link to his conception of the political ontology of human society.
+        Discussing politics without technê leads to a lack of critical perspectives regarding the
+      cultural-technical grounding of politics. In Hui’s (2016) words, ‘the unification of the
+      cosmos and the moral through technical activities’ informs the ‘cosmotechnics’ of politi-
+      cal epistemology. Rather than a single homo politicus at the beginning, there were diverse
+      collectives of homos developing their own versions of politicus through historically spe-
+      cific technical activities. In this process, homos was transformed by the politicus; ulti-
+      mately, a historically distinct homo politicus underlies technê, shaping the
+      cultural-technical grounding of political thinking. Thus, homo politicus can only exist in
+      specific forms. As Chambers (2018: 722) notes, homo politicus should not be viewed as
+      an abstract category but as specific forms such as ‘homo politicus athenikos, homo politi-
+      cus republicanus, homo politicus liberalis, homo politicus democraticus, homo politikus
+      communistus’. To these variations, I add my own coinage: homo politicus postsocialis-
+      mus. The rise of neoliberalism cannot be understood simply as the suppression (or even
+      replacement) of a purely political figure by a purely economically calculative figure. The
+      supposed purity of each figure and the dualistic framework used to describe them only
+      reaffirm the separation of politics and economy, reinforcing depoliticization by
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+       Cai                                            35     
+                                                             
+       subsuming non-Western cultural-technical thinking and cultural-political perspectives
+       within an all-encompassing horizon of the Western-style democratic homo politicus.
+        The cultural politics of technology is thus essential for creating a discursive space
+       where diverse forms of political figures can be considered in relation to their own mate-
+       rial and symbolic histories. It is crucial to recognize these figures as viable and compet-
+       ing articulations of political theories and subjectivities. Chinese postsocialism, for
+       instance, represents an alternative set of cultural-political discourse and praxis that enact
+       and utter a postsocialist subjectivity – one that is intertwined with, but not fully subsum-
+       able by, the globally dominant neoliberal subjectivity. Understanding the development of
+       AI in China entails an effort to interpret the interactive encounter between this postso-
+       cialist subjectivity, situated at a yet undetermined historical conjuncture, and the techno-
+       logic of machinic agents, channeling distinct epistemic implications and ontological
+       potential to vary, adapt, and influence. The process is dialectical: the march of AI in
+       postsocialist reality should be viewed as sociotechnical mediation and mutual articula-
+       tion between these two subjectivities. This interaction leads to a new form of cultural
+       politics, whose ‘actually existing’ interpellation of social relations and political subjec-
+       tivities are beyond the existing parlance of political science and sociology.
+        Returning to Parisi’s (2021: 35) account of a ‘racialized and gendered intelligence’
+       enfolded in modern techno-science – ‘the epistemological descriptions of the human as the
+       reinvention of homo œconomicus’ – it becomes evident that such a reinvented homo eco-
+       nomicus implies epistemic hegemony similar to Brown’s idealistic account. Both Parisi
+       and Brown assume that the global expansion of capital and market forces subsumes all of
+       humanity into a highly homogenized form of neoliberal subjectivity, leading to a paradig-
+       matic relationship between humans and technology – one where machines embody neolib-
+       eral values. The ‘racialized and gendered intelligence’ within AI is thus based on Western
+       conceptions of these terms, shaped by the West’s own modernity experiences.
+        One example of the misaligned application of the notion of ‘race’ to China’s ethnic
+       politics – prevalent in both academic and media discourse in the West – is the ‘politics of
+       recognition’. In this view, the expansion of China’s surveillance state, particularly
+       through the use of AI, is seen as deepening authoritarian control in ways akin to the sup-
+       pressive practices of racial segregation, eugenics, and identity-based categorization in
+       the West. Often, these critiques gloss over or simply overlook the local contexts and do
+       not adequately consider how specific historical and cultural-political circumstances in
+       China require alternative analytical categories and critical perspectives. Even the basic
+       distinction between the Chinese notion of ‘ethnicity’, shaped by a prolonged history of
+       multiethnic encounters, coexistence, and assimilation, and the Western notion of ‘race’,
+       evolving through histories of colonization, segregation, and civil rights movements, is
+       rarely acknowledged in their critical assumptions.    
+        It is clear that the rise of ethnic tensions in the Xinjiang Uyghur Autonomous Region
+       has been accompanied and exacerbated by the expansion of the smart urbanism project,
+       where widespread installations of surveillance cameras, hub grids, checkpoints, data
+       doors and profile ranking systems harvest extensive datasets for algorithm-based ‘pre-
+       ventive policing’ (Byler, 2022). However, explaining these ground-truths solely through
+       Western frameworks such as Foucauldian panopticism, Deleuzian ‘society of control’ or
+       the overlap of ‘the neoliberal and illiberal East’ (clearly a shortage of political
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+      36                              Theory, Culture & Society 42(3)
+                                                             
+      vocabularies here) is hardly revelatory of any local-specific power dynamics, due to
+      China’s own civilizational and political history (Byler, 2022: 203, 211). A historically
+      and politically conscious critique needs to consider China’s broader postsocialist transi-
+      tion, where neoliberal marketization drives the displacement of socialist values of class-
+      based equality, which once underpinned ethnic solidarity, in favor of capital-driven
+      resource competition (Lin, 2013; Wang, 2010). While the prevalent use of algorithm-
+      based tracking and pattern recognition exacerbates the deteriorating conditions of ethnic
+      politics in China, the full implications of these practices cannot be accurately captured by
+      analytical categories developed primarily for examining neoliberal subjectivity in the
+      West. Instead, a more nuanced critique is required – one that acknowledges the role of
+      surveillance in perpetuating state control while also understanding the specific historical
+      and political contexts that shape its implementation in China.
+        No doubt homo economicus is a primary epistemic figure shaping AI’s design due to
+      the technology’s Western origins. As Chun and Barnett (2021: ix) note, ‘software’s emer-
+      gence’ is ‘a vapory thing encapsulated in neoliberal dreams of programmability’. However,
+      an unexamined application to China of biocentric categories central to Western modernity
+      risks overlooking the material effects of AI as it interacts with local contexts. The chal-
+      lenge lies in recognizing the entanglement between homo economicus and the techno-
+      semiosis of a specific Chinese postsocialist reality. The first step is to de-fetishize homo
+      economicus as an all-encompassing ontological and epistemological figure for all human-
+      ity, thereby revealing ruptures, tensions, and contradictions that arise from the encounter
+      between dominant neoliberal frameworks and local forces, power structures, and social
+      histories. The study of AI cultural politics should consider a triad of perspectives: global
+      neoliberalism, local material and symbolic traditions, and the ‘ludic’ intelligence of
+      machines. Examining AI development in China requires neither objectifying AI nor
+      objectifying China but attending to the interactive encounter between the ‘alien dimen-
+      sion’ of algorithmic thought and a distinctly Chinese experience of modernity – both of
+      which remain unassimilable to the global reproduction of neoliberal subjectivity.
+      Acknowledgements                                       
+      I would like to thank the three anonymous reviewers and the editors of Theory, Culture & Society
+      for their insightful feedback and constructive comments. My deep gratitude goes to my mentor,
+      Alan Liu, whose strong support and meticulous suggestions guided me through multiple revisions
+      of this paper.                                         
+      ORCID iD                                               
+      Qiaoyu Cai https://orcid.org/0000-0002-5570-5919       
+      Notes                                                  
+      1. See Alibaba Cloud (2019): https://alibaba-cloud.medium.com/city-brain-now-in-23-cities-
+        in-asia-5f047245839d.                                
+      2. See: https://www.weforum.org/agenda/2020/12/china-ai-technology-city/.
+      3. Both official documents and the white paper on Alibaba City Brain underscore grassroots
+        governance innovation (‘基层管理创新’). The model is divided into multi-level, cooperative
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+       Cai                                            37     
+                                                             
+         systems at city and district levels, and further refined into ‘micro-brains’ at town or commu-
+         nity levels. Community-level micro-brains target grassroots governance led by party build-
+         ing, emphasizing grid management, emergency command, and public service. See Alibaba
+         Research Institute, ‘City Brain 3.0 – Sustainable Future of Urban Collaboration’ (城市大
+         脑3.0-城市大协同未来可持续), 25 Apr. 2023, https://dp.alibaba.com/exchange/article/293,
+         and the China Electronics Standardization Institute, ‘City Brain Development White Paper
+         (2022 Edition)’, 25 Apr. 2023, http://www.cesi.cn/202201/8200.html.
+       4. See: https://www.technologyreview.com/2022/06/22/1054586/hikvision-worlds-biggest-sur
+         veillance-company/.                                 
+       5. Foucault defines ‘dispositifs’ as ‘a thoroughly heterogeneous ensemble consisting of dis-
+         courses, institutions, architectural forms, regulatory decisions, laws, administrative measures,
+         scientific statements, philosophical, moral and philanthropic propositions – in short, the said
+         as much as the unsaid. Such are the elements of the apparatus. The apparatus itself is the
+         system of relations that can be established between these elements.’ The term, translated in
+         English as ‘apparatus’, underscores the intricate relationship between knowledge and power
+         – the way in which power operates through the production, organization, and distribution of
+         knowledge within a given society (Foucault, 1981: 194).
+       6. State Council of China, ‘New Generation Artificial Intelligence Development Plan’, (新一
+         代人工智能发展规划), 23 May 2024, http://www.gov.cn/zhengce/content/2017-07/20/con-
+         tent_5211996.htm.                                   
+       7. For example, on popular platforms like Weibo, WeChat, and Xiaohongshu there are frequent
+         complaints about income inequality, critiques of capital manipulation and exploitation, advo-
+         cacy for marginalized and underserved populations, criticism of development practices insen-
+         sitive to ecological protection. Many of these posts, whether ironically or sincerely, call for a
+         return to ‘socialist justice’.                      
+       8. David Harvey’s introduction of the phrase led to numerous debates regarding China’s reform
+         as a purely authoritarian capitalism experiment. Nevertheless, he has substantially revised
+         this position in his more recent work, The Anti-Capitalist Chronicle (2020).
+       9. For many Chinese, the narrative, its ‘ideology of form’, can be summarized as a series of
+         regime changes that led to significant shifts in economic conditions, political states, and cul-
+         tural discourses. This includes the collapse of the Qing Empire, the short-lived interim of the
+         liberal republic, the establishment of the revolutionary regime, the tumultuous Maoist period,
+         and the swift shift into a post-ideological market society.
+       10. See Jameson (2005), ‘The Four Maxims of Modernity’, in A Singular Modernity (2012),
+         and ‘Conclusion: Secondary Elaborations’, in Postmodernism, or, The Cultural Logic of Late
+         Capitalism (2005).                                  
+       11. Ontogenesis or sociogenesis of machine learning (ML) refers to the process through which
+         ML-based AI systems develop their knowledge and cognitive capabilities by interacting with
+         the social and cultural environment in which they are embedded. This concept views machine
+         intelligence as an emergent phenomenon resulting from reciprocal interactions with the sur-
+         rounding sociocultural and political context, rather than merely executing a predetermined set
+         of programming instructions.                        
+       12. As Nancy Fraser shows, capitalism’s ‘hidden abode’ of exploitation has a more fundamental
+         ‘abode behind the abode’ of expropriation – the non-economic measure of political, institu-
+         tional, and downright violent coercion to steal from and loot the downtrodden and subjugated
+         people around the world. Expropriation reveals the true condition of capital’s primitive accu-
+         mulation (Fraser, 2022: 14–23).                     
+       13. See: ‘China fund may help Alibaba in Yahoo! Bid’: report (phys.org); http://phys.org/
+         news/2012-05-china-fund-alibaba-yahoo.html.         
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+      38                              Theory, Culture & Society 42(3)
+                                                             
+      14. The ‘cultural turn’ underscores the agency of machines as a form of ‘epistemology and,
+        increasingly, ontology, a way of knowing and being, a part of discourse and a mode of action’
+        (Roberge and Castelle, 2021: 2).                     
+      15. See Yuk Hui’s account of Chinese ancient mythology and its bearing on the original concep-
+        tion of technics and the creation of a pantheistic worldview in China (Hui, 2016: 14–18).
+      References                                             
+      Alibaba Cloud (2019) City Brain Now in 23 Cities in Asia. In: Medium. Available at: https://
+        alibaba-cloud.medium.com/city-brain-now-in-23-cities-in-asia-5f047245839d (accessed 23
+        May 2024).                                           
+      Amaro, Ramon (2023) The Black Technical Object: On Machine Learning and the Aspiration of
+        Black Being (On the Antipolitical, Volume 2). London: Sternberg Press.
+      Apprich, Clemens, Chun, Wendy Hui Kyong, Cramer, Florian, et al. (eds) (2018) Pattern
+        Discrimination: In Search of Media. Minneapolis, MN: University of Minnesota Press.
+      Benjamin, Ruha (2020) Race After Technology: Abolitionist Tools for the New Jim Code.
+        Cambridge: Polity.                                   
+      Brown, Wendy (2017) Undoing the Demos: Neoliberalism’s Stealth Revolution. New York, NY:
+        Zone Books.                                          
+      Byler, Darren (2022) Terror Capitalism: Uyghur Dispossession and Masculinity in a Chinese
+        City. Durham, NC: Duke University Press.             
+      Caprotti, Federico and Liu, Dong (2022) Platform urbanism and the Chinese smart city: The co-
+        production and territorialisation of Hangzhou City Brain. GeoJournal 87(3): 1559–1573.
+      Chambers, Samuel A. (2018) Undoing neoliberalism: Homo Œconomicus, Homo Politicus, and
+        the Zōon Politikon. Critical Inquiry 44(4): 706–732. 
+      Chan, Ngai Keung and Kwok, Chi (2022) The politics of platform power in surveillance capi-
+        talism: A comparative case study of ride-hailing platforms in China and the United States.
+        Global Media and China 7(2): 131–150.                
+      Chen, Yong, Li, Cheng and Li, Su (2014) Chengshi jiceng shehui zhili mianlin de xianshi tiaozhan
+        he yingdui weidu 城市基层社会治理面临的现实挑战和应对维度 [On practical challenges
+        and responses to city basic-level governance]. Beijing zhengfa zhiye xueyuan xuebao 北京政
+        法职业学院学报  4:92–100.                                   
+      China fund may help Alibaba in Yahoo! bid: report (2012) Available at: https://phys.org/
+        news/2012-05-china-fund-alibaba-yahoo.html (accessed 23 May 2024).
+      Chun, Wendy Hui Kyong and Barnett, Alex (2021) Discriminating Data: Correlation,
+        Neighborhoods, and the New Politics of Recognition. Cambridge, MA: MIT Press.
+      Crawford, Kate (2021) Atlas of AI: Power, Politics, and the Planetary Costs of Artificial
+        Intelligence. New Haven, CT: Yale University Press.  
+      Deleuze, Gilles and Guattari, Félix (2007) A Thousand Plateaus: Capitalism and Schizophrenia.
+        Minneapolis, MN: University of Minnesota Press.      
+      Dirlik, Arif (1989) Postsocialism? Reflections on ‘socialism with Chinese characteristics’. Bulletin
+        of Concerned Asian Scholars 21(1): 33–44.            
+      Evangelista, Rafael (2019) Review of Shoshana Zuboff, The Age of Surveillance Capitalism.
+        Surveillance & Society 17(1–2): 246–251.             
+      Fazi, M. Beatrice (2018) Contingent Computation: Abstraction, Experience, and Indeterminacy in
+        Computational Aesthetics. Lanham, MD: Rowman & Littlefield.
+      Foucault, Michel (1981) Power/Knowledge: Selected Interviews and Other Writings 1972-1977
+        (ed. C Gordon). New York: Pantheon Books.            
+      Fraser, Nancy (2022) Cannibal Capitalism: How Our System is Devouring Democracy, Care, and
+        the Planet – and What We Can Do About It. London: Verso.
+
+[PAGE 19]
+                                                             
+                                                             
+                                                             
+       Cai                                            39     
+                                                             
+       Gao, Feng (2016) Open government data in China: Lesson learnt and new approaches. In:
+         Proceedings of the 17th International Digital Government Research Conference on Digital
+         Government Research, pp. 501–502. New York, NY: ACM.
+       Gueorguiev, Dimitar (2021) Retrofitting Leninism: Participation without Democracy in the
+         People’s Republic of China. New York, NY: Oxford University Press.
+       Hall, Stuart (1988) The Hard Road to Renewal: Thatcherism and the Crisis of the Left. London:
+         Verso.                                              
+       Harvey, David (2020) The Anti-Capitalist Chronicles. London: Pluto Press.
+       Hu, Qian and Zheng, Yueping (2021) Smart city initiatives: A comparative study of American and
+         Chinese cities. Journal of Urban Affairs 43(4): 504–525.
+       Huang, Jingyang and Tsai, Kellee S. (2022) Securing authoritarian capitalism in the digital age:
+         The political economy of surveillance in China. The China Journal 88: 2–28.
+       Hui, Yuk (2016) The Question Concerning Technology in China: An Essay in Cosmotechnics,
+         Third Corrected Edition. Falmouth: Urbanomic.       
+       Hui, Yuk (n.d.) Cosmotechnics as cosmopolitics. e-flux Journal 88.
+       Jameson, Fredric (1994) The Political Unconscious: Narrative as a Socially Symbolic Act. Ithaca,
+         NY: Cornell University Press.                       
+       Jameson, Fredric (2005) Postmodernism, or, The Cultural Logic of Late Capitalism. Durham, NC:
+         Duke University Press.                              
+       Jameson, Fredric (2012) A Singular Modernity. New York, NY: Verso.
+       Lash, Scott (2012) Deforming the figure: Topology and the social imaginary. Theory, Culture &
+         Society 29(4–5): 261–287.                           
+       Lin, Chun (2013) China and Global Capitalism. New York, NY: Palgrave Macmillan.
+       Lin, Lauren Yu-Hsin and Milhaupt, Curtis J (2023) China’s corporate social credit system: The
+         dawn of surveillance state capitalism? The China Quarterly 256: 835–853.
+       Liu, Xingjian, Song, Yan, Wu, Kang, et al. (2015) Understanding urban China with open data.
+         Cities 47: 53–61.                                   
+       Lu, Sheldon H. (2001) China, Transnational Visuality, Global Postmodernity. Stanford, CA:
+         Stanford University Press.                          
+       Marquis, Christopher and Qiao, Kunyuan (2022) Mao and Markets: The Communist Roots of
+         Chinese Enterprise. New Haven, CT: Yale University Press.
+       Marvin, Simon, While, Aidan, Chen, Bei, et al. (2022) Urban AI in China: Social control or hyper-
+         capitalist development in the post-smart city? Frontiers in Sustainable Cities 4: 1030318.
+       Mbembe, Achille (2019) Necropolitics. Durham, NC: Duke University Press.
+       McGrath, Jason (2008) Postsocialist Modernity: Chinese Cinema, Literature, and Criticism in the
+         Market Age. Stanford, CA: Stanford University Press.
+       Noble, Safiya (2018) Algorithms of Oppression: How Search Engines Reinforce Racism. New
+         York, NY: New York University Press.                
+       Papagianneas, Straton (2023) Smart governance in China’s political-legal system. China Law and
+         Society Review 6(2): 146–180.                       
+       Parisi, Luciana (2019a) Critical computation: Digital automata and general artificial thinking.
+         Theory, Culture & Society 36(2): 89–121.            
+       Parisi, Luciana (2019b) The alien subject of AI. Subjectivity 12(1): 27–48.
+       Parisi, Luciana (2019c) XENO-PATTERNING: Predictive intuition and automated imagination.
+         Angelaki 24(1): 81–97.                              
+       Parisi, Luciana (2021) Interactive computation and artificial epistemologies. Theory, Culture &
+         Society 38(7–8): 33–53.                             
+       Roberge, Jonathan and Castelle, Michael (eds) (2021) The Cultural Life of Machine Learning: An
+         Incursion into Critical AI Studies. Cham: Springer International.
+
+[PAGE 20]
+                                                             
+                                                             
+                                                             
+      40                              Theory, Culture & Society 42(3)
+                                                             
+      Rolf, Steve and Schindler, Seth (2023) The US–China rivalry and the emergence of state platform
+        capitalism. Environment and Planning A: Economy and Space 55(5): 1255–1280.
+      Simondon, Gilbert (2013) Technical mentality. In: De Boever, Arne, Murray, Shirley S.Y. and
+        Roffe, Jon (eds) Gilbert Simondon: Being and Technology. Edinburgh: Edinburgh University
+        Press.                                               
+      Wang, Hui (2009) The End of the Revolution: China and the Limits of Modernity. London: Verso.
+      Wang, Hui (2010) The ‘Tibet issue’ between east and west: Orientalism, ethnic regional auton-
+        omy, and the politics of dignity. Chinese Sociology & Anthropology 42(4): 7–30.
+      Webb, Amy (n.d.) China and the AI edge. Available at: https://niemanreports.org/articles/china-
+        and-the-ai-edge/ (accessed 23 May 2024).             
+      Wood, Ellen Meiksins (1981) The separation of the economic and the political in capitalism. New
+        Left Review I 127: 66–95.                            
+      Wynter, Sylvia (2003) Unsettling the coloniality of being/power/truth/freedom: Towards the
+        human, after man, its overrepresentation – an argument. CR: The New Centennial Review
+        3(3): 257–337.                                       
+      Wynter, Sylvia (2015) On Being Human as Praxis. Durham NC: Duke University Press.
+      Xie, Siqi, Luo, Ning, and Yarime, Masaru (2024) Data governance for smart cities in China: The
+        case of Shenzhen. Policy Design and Practice 7(1): 66–86.
+      Xu, Ruowen, Millo, Yuval, and Spence, Crawford (2024) The mountains are high and the
+        emperor is far away: Credit scoring and the infrastructure of surveillance capitalism in China.
+        Contemporary Accounting Research 41(2): 781–808.     
+      Xu, Ying, Cugurullo, Federico, Zhang, Heming, et al. (2024) The emergence of artificial intel-
+        ligence in anticipatory urban governance: Multi-scalar evidence of China’s transition
+        to city brains. Journal of Urban Technology. Epub ahead of print 25 January 2024. DOI:
+        10.1080/10630732.2023.2292823.                       
+      Yang, Xuemin, Liu, Te, and Zheng, Yueping (2020) Review of public-private partnership research
+        in digital governance: Practice, issues and prospects. Public Administration and Policy
+        Review 9(5): 3–18.                                   
+      Zeng, Jinghan (2020) Artificial intelligence and China’s authoritarian governance. International
+        Affairs 96(6): 1441–1459.                            
+      Zeng, Yiwu, Zhang, Zenghui, Ye, Zi, et al. (2023) Regional innovation effect of smart city con-
+        struction in China. PLoS One 18(2): e0281862.        
+      Zhang, Jun, Bates, Jo, and Abbott, Pamela (2022) State-steered smartmentality in Chinese smart
+        urbanism. Urban Studies 59(14): 2933–2950.           
+      Zhang, Xudong (2008) Postsocialism and Cultural Politics: China in the Last Decade of the
+        Twentieth Century. Durham, NC: Duke University Press.
+      Zhou, Guangsu, Chu, Gaosi, Li, Lixing, et al. (2020) The effect of artificial intelligence on China’s
+        labor market. China Economic Journal 13(1): 24–41    
+      Zhou, Xueguang (2022) The Logic of Governance in China: An Organizational Approach.
+        Cambridge: Cambridge University Press.               
+      Zuboff, Shoshana (2019) The Age of Surveillance Capitalism: The Fight for a Human Future at
+        the New Frontier of Power. London: Profile Books.    
+      国务院关于印发新一代人工智能发展规划的通知_科技_中国政府网[State   council of China,
+        new generation artificial intelligence development plan] (n.d.). Available at: https://www.
+        gov.cn/zhengce/content/2017-07/20/content_5211996.htm (accessed 23 May 2024).
+      Qiaoyu Cai is a PhD candidate in English at the University of California, Santa Barbara. His cur-
+      rent research explores the interconnected themes of modernity, sovereignty, and technology in the
+      context of the US-China high-tech rivalry, which manifests as a contest between two paradigms of
+      cloud sovereignty rooted in deeper cultural-political configurations.

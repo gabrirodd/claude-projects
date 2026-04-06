@@ -1,0 +1,1266 @@
+[PAGE 1]
+                                                             
+                                                             
+                                                             
+                                                             
+        Special Issue: Post-Neoliberalism?                   
+                                            Theory,Culture&Society
+                                             2021,Vol.38(6)143–166
+        Software,   Sovereignty                              
+                                              !TheAuthor(s)2021
+        and  the Post-Neoliberal                             
+                                             Articlereuseguidelines:
+        Politics of Exit                 sagepub.com/journals-permissions
+                                         DOI:10.1177/0263276421999439
+                                           journals.sagepub.com/home/tcs
+        Harrison Smith                                       
+        Universityof Sheffield                               
+        Roger Burrows                                        
+        Newcastle University                                 
+                                                             
+        Abstract                                             
+        This paper examines the impact of neoreactionary (NRx) thinking – that of Curtis
+        Yarvin, Nick Land, Peter Thiel and Patri Friedman in particular – on contemporary
+        politicaldebatesmanifestin‘architecturesofexit’.WespecificallyfocusonUrbit,as
+        an NRx digital architecture that captures how post-neoliberal politics imagines
+        notions of freedom and sovereignty through a micro-fracturing of nation-states
+        into ‘gov-corps’. We trace the development of NRx philosophy – and situate this
+        withincontemporarypoliticalandtechnologicalchangetotheorizethesignificanceof
+        exit manifest within the notion of ‘dynamic geographies’. While technological pro-
+        grammessuchasUrbitmayneverultimatelysucceed,wearguethatthese,andother
+        speculative investments such as ‘seasteading’, reflect broader post-neoliberal NRx
+        imaginariesthatwere,perhaps,prefiguredaquarterofacenturyagoinTheSovereign
+        Individual.                                          
+        Keywords                                             
+        Dark Enlightenment, neoreaction (NRx), post-neoliberalism, seasteading, sovereign
+        individual, Urbit                                    
+                                                             
+                                                             
+        Introduction                                         
+        Itwouldnowbeimpossibletocountenanceanydiscussionoftheconcept
+        of post-neoliberalism without considering the mediating influence of the
+        depressingme´langeofdiscoursesthat–especiallypost-2008–havecome
+        to besummarized under themoniker ofthe alt-right.As Gilroy (2019:3)
+        explains, this term is clearly not just adescriptive one; rather, it has been
+        chosen strategically in order to ‘accomplish new political goals’. It refers
+        to an ‘informal coalition that is well-funded and enjoys access to the
+                                                             
+        Correspondingauthor:RogerBurrows.Email:roger.burrows@ncl.ac.uk
+        TCSOnlineForum:https://www.theoryculturesociety.org/ 
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+      144                           Theory, Culture & Society 38(6)
+                                                             
+      highest levels of power’. It is also ‘technologically sophisticated and has
+      assembled an elusive command of political and psychological communi-
+      cationviathelibidinalandaffectiveaspectsofnewtechnologyingeneral,
+      andsocialmediainparticular’.AsAmbedkar(2017)hasshown,itisalsoa
+      coalitionthat,althoughitsharessomecommonalities–apredilectionfor
+      authoritarianism over democracy, commitments to various forms of lib-
+      ertarianism, antipathy towards the supposed cultural hegemony of ‘pro-
+      gressive’discourses,andaninclinationtowardsracismandmisogyny–is
+      otherwise riven by highly divergent perspectives concerning economics,
+      nationalism, cultural values and more besides. In this paper we want to
+      offer a critical exploration of the activities of one particular fragment
+      within this coalition – bloggers, computer programmers, entrepreneurs
+      and others who coalesce around neoreactionary (or NRx) philosophies
+      – which, in recent years, has been getting ever closer to a (rightward
+      shifting) political mainstream (Gilroy, 2019; Duesterberg, 2017;
+      Hermansson et al., 2020; Mulhall, 2020; O’Brien, 2020; Topinka, 2019).
+        We are interested in connecting particular theoretical positions with
+      material investments and flows of capital that are fundamental to NRx
+      future imaginaries, specifically those that purport to offer a ‘return to
+      first principles’. In order to do this, we focus, in particular, on the devel-
+      opmentofanewdigitalplatform–Urbit–fundedandlargelywrittenby
+      NRx ‘luminaries’. Briefly, Urbit proposes to reinvent the internet
+      through a clean-slate data architecture complete with its own operating
+      system, kernel, network protocols, programming language, and digital
+      identity.Withinthecontextofbroaderdiscussionsaboutpost-neoliberal-
+      ism, we see a critical discussion of Urbit as contributing to several over-
+      lapping debates concerning the future cultural politics of software and
+      cloud-computing for: epistemological transformations invoked by artifi-
+      cial intelligence (Parisi, 2019; Amoore, 2019); the use of decentralized
+      technologies, such as blockchain, for governance and self-determination
+      (Atzori, 2017; Campbell-Verduyn, 2018); and, crucially, sovereignty
+      (Bratton, 2016; Amoore, 2020). Hitherto, these literatures have had
+      little engagement with the radical politics of what we will term redecen-
+      tralization,ortheunderlyingpost-neoliberal–andprimarilylibertarian–
+      theories of exit that have become inscribed into a wider ideology of data
+      power thought capable of enacting new forms of jurisdictional sover-
+      eignty. This paper offers a critical examination of this lacuna.
+      A Strange Brew: Based Deleuzians, Techno-Fogies and    
+      Billionaire Libertarians                               
+      ApproachingNRxthinkingjustafewyearsagomighthavebeenamildly
+      divertingexercise;achanceto‘connectsomephilosophicalideas...using
+      some very silly right-wing nutjobs who were nevertheless...interesting’
+      (Sandifer, 2017: 1). As MacDougald (2015) describes, NRx writing often
+                                                             
+                                                             
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+        Smith and Burrows                            145     
+                                                             
+        appears as ‘little more than a fever swamp of feudal misogynists, racist
+        programmers and ‘‘fascist teenage dungeon masters,’’ gathering on sub-
+        redditstoawaitthecollapseofWesterncivilization’.Assuch,itreadslike
+        ‘alltheawfulthingsyoualwayssuspectedaboutlibertarianismwithodds
+        and ends from PUA culture, Victorian Social Darwinism, and an only
+        semi-ironic attachment to absolutism’. However, post-2016, as Sandifer
+        (2017:1)expressesitinherowninimitablestyle,‘everythingwenttoshit’
+        and suddenly these otherwise ‘batshit crazy’ ideas, associated software
+        projects and social prototyping experiments began to manifest across a
+        whole range of global cultural, political and technological imaginaries.
+        As hard as it is to fathom, NRx thinking now forms a significant part of
+        the theoretical universe that contemporary political figures and ‘proto-
+        theorists’ such as Dominic Cummings (in the UK) (Cummings, 2020;
+        Lewis et al., 2002; Mulhall, 2020; Volpicelli, 2020; Wolf, 2020) and
+        Steve Bannon (in the US) (Goldhill, 2017; Gray, 2017) draw upon and
+        are attempting to promulgate into mainstream political discourse. As
+        Nagle (2017: 53) explains it, supporters of NRx ideas seem to have
+        been more adept at ‘heeding the ideas...of...Gramsci’s theory of
+        hegemony’, especially via social media (Daniels, 2018), than have those
+        on the left more usually associated with them (Mouffe, 2019).
+         It is difficult to know how best to approach this material analytically.
+        AsGilroy(2019:3)suggests,whendiscussingfascistideas‘thereisalways
+        adangerthatcritics enduptakingthem moreseriouslythantheiradher-
+        ents do’. It is also the case that much of the material with which we need
+        to engage is located online and often in a form outwith the usual proto-
+        colsandstylisticsoftheacademy.TheNRxpoliticalprojectisessentially
+        ‘anti-egalitarian’, ‘anti-progressive’, and argues that ‘democracy is bust;
+        rule by the people doesn’t work, and doesn’t lead to good governance’
+        (Gray, 2017). The aim of NRx seems to be to dissolve existing nation-
+        statesinto‘competingauthoritarianseasteadsonthemodelofSingapore’
+        (MacDougald, 2015). It is a philosophy that argues that ‘society should
+        break into tiny states, each effectively governed by a CEO’ (Goldhill,
+        2017). At its heart is the proposal that we should reorganize ourselves
+        into a patchwork of privately-owned states (‘Gov-Corps’) and use vari-
+        ous mechanisms of ‘exit’ to develop a dynamic market for governance;
+        people are called upon ‘to ‘‘vote with their feet’’ by opting-in to the
+        jurisdiction that best fits their needs and beliefs’ (Lynch, 2017: 82).1 As
+        we will discuss, for the advocates of NRx, such an imagined future does
+        not just require the development of a radical new ideology; it also
+        requires the early construction of new socio-technical architectures
+        within which this ideology can be instantiated.      
+         There are numerous individuals associated with NRx ideas, but four
+        are perhaps key: two – Curtis Yarvin and Nick Land – might be con-
+        sideredtheoriginal‘builders’(aswewillsee,thisisnotaninnocentterm)
+        of the position; and two – Peter Thiel and Patri Friedman – are major
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+      146                           Theory, Culture & Society 38(6)
+                                                             
+      Silicon Valley ideological and financial supporters who have, on occa-
+      sion, contributed additional theoretical and practical ballast to the pro-
+      ject (Gilroy, 2019; Goldhill, 2017; Haider, 2017; MacDougald, 2015,
+      2016).                                                 
+        Curtis Yarvin is a Silicon Valley computer scientist who until recently
+      ran a business start-up indirectly funded by Thiel, responsible for Urbit,
+      who produced a series of long blog posts between 2007 and 2014 (with a
+      brief coda in 2016) entitled Unqualified Reservations (UR),2 writing in
+      the persona of Mencius Moldbug.3 Central to these writings is a thor-
+      oughgoing critique of ‘progressivism’ in all its forms which:
+        hasbecomeaveritablereligionofquackgovernment.Itspoliciesare
+        always counterintuitive: it preaches leniency as the cure for crime,
+        timidity as military genius, profligacy as the acme of economics,
+        ‘specialeducation’astheheartofpedagogy,indulgenceasoversight,
+        appeasementasdiplomacy.Asitgoesfromonedisastertothenext,
+        progressivismneverconsidersthepossibilitythattheobvious,rather
+        than its opposite, could be the case. (Moldbug, 2009)
+                                                             
+        Nick Land will be more familiar to readers of this journal.4 He was
+      once the enfant terrible of what came to be called ‘Deleuzian
+      Thatcherism’ (Galloway and Noys, 2014)5 at the University of
+      Warwick in the UK in the 1990s (Blincoe, 2017; Reynolds, 2009), but
+      since the early 2000s he has been based in Shanghai, rearticulating the
+      outpourings of Moldbug and others, in the Deleuzian-inflected language
+      of right-accelerationism (Beckett, 2017; Burrows, 2019; Land, 2017;
+      MacDougald, 2015, 2016) in a long series of blog posts and tweets and
+      one longer-form piece (almost 30,000 words), entitled The Dark
+      Enlightenment (Land, 2012). He has also become a central figure in alt-
+      right meme culture (Topinka, 2019). His position might now more easily
+      be characterized as a bizarre form of ‘Based Deleuzianism’ (Murphy,
+      2019). Gilroy (2019: 4) brilliantly characterizes the relationship between
+      this odd couple (Yarvin and Land):                     
+        This...[alt-right]substratedrawsuponthedubiouslegaciesofthin-
+        kers like Georges Bataille and Carl Schmitt as well as a techno-
+        orientalist sublime discovered in the exciting possibility that states
+        will be shrunk down to minimal proportions and run as corpor-
+        ations. ...This...dream is larded with a gleeful anti-humanism
+        and a fervent racism now routinely and blandly re-described as
+        ‘human biodiversity’ and ‘ethno-nationalism.’ The would-be Magi
+        of the movement are led online by the failed academic philosopher
+        Nick Land and others who have, in turn, been influenced by
+        ‘Mencius Moldbug,’ a prominent techno-fogey who draws
+                                                             
+                                                             
+                                                             
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+        Smith and Burrows                            147     
+                                                             
+         inspiration from some of the more obscure works penned by
+         Victorian...theorists of imperial domination.       
+                                                             
+         Peter Thiel, likely the most infamous of the quartet, is a libertarian
+        billionaire Silicon Valley investor – founder of both PayPal and Palantir
+        and a major investor in Facebook – and occasional author, who indir-
+        ectly bankrolls the ideological and techno-business activities of Yarvin,
+        Friedmanandmanyothers.Itisnotdifficulttounderstandwhythework
+        of Yarvin, in particular, appeals to Thiel. As we will go on to discuss, in
+        many ways NRx reads as a radical updating of the ideas and sentiments
+        contained in a book that Thiel claims has most influenced him – The
+        SovereignIndividual byDavidson andRees-Mogg(1997).6Thiel’sinvest-
+        mentphilosophyemphasizesthepursuitofinnovationby‘thinkingabout
+        business from first principles instead of formulas’ (Thiel, 2014: 3) and
+        formsacorepillartounderstandinghisinterestinprojectssuchasUrbit.
+        Patri Friedman is part of the neoliberal Friedman dynasty – David was
+        hisfather,andMiltonandRosehisgrandparents(Ruger,2011)–andhe
+        hasbeenasoftwareengineerat Google,anauthorandtheco-founderof
+        The Seasteading Institute,7 a start-up, again originally funded by Thiel,
+        where many NRx ideas are supposedly prototyped (Quirk with
+        Friedman, 2017).                                     
+         Between them, these four characters – along with others – have pro-
+        duced what amounts to a form of ‘alt-social theory’ or, in their terms,
+        social theory in the service of ‘red pilling’ (Sandifer, 2017: 36–41;
+        Wendling, 2018: 29–30); a notion widely used within alt-right discourses,
+        deriving, of course, from the 1999 film The Matrix,8 in which the central
+        characterNeoisofferedthechoicebetweena‘bluepill’–easytoswallow
+        and providing continuity and blissful ignorance – or a ‘red pill’ which,
+        although hard to get down, leads to liberation and some new clear-eyed
+        ‘truth’. It will come as no surprise that, from a NRx perspective, the
+        primary function of the traditional academy – those working in the
+        arts, the humanities and the social sciences in particular – is to produce
+        ‘bluepills’.InNRxargot,mostacademicsare‘culturalMarxists’,aloose
+        term which refers to virtually anything on the left of the political spec-
+        trumthatconstitutes‘anall-encompassingconspiracybeingdrivenbyan
+        uncertain...number or combination of groups or sub-groups that come
+        under the vast umbrella of the Cathedral’ (Wendling, 2018: 81). This
+        means that the domain assumptions that mainstream academics make
+        about the social world, as well as their routine practices, are conceptua-
+        lizedinNRxdiscoursesaskeyfettersto‘redpill’thinking.TheCathedral
+        – with a genealogy, ironically, leading back to the Puritan church –
+        encompasses not just the universities, but also the civil service, the
+        media and any other organizations that foreground what Yarvin calls
+        Universalism – egalitarianism, democracy, constructivism and so on –
+        that forms, for Yarvin, the ‘faith of our ruling caste, the Brahmins’
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+      148                           Theory, Culture & Society 38(6)
+                                                             
+      (Moldbug, 2007a). It is a conceptualization that reads like a crazily
+      inverted version of the old Althusserian notion of the ‘ideological state
+      apparatus’ (ISAs) (Althusser, 1971); but rather than dampening down
+      proletarian revolutionary dissent, in the NRx version the ideological
+      function seems to do quite the opposite – to inculcate a false belief in
+      the efficacy of democratic systems of government and the associated
+      stymying of new forms of uncompensated capitalism. Not surprisingly,
+      NRx discourse frequently works through such ironic inversions to nat-
+      uralize social hierarchies and inequalities. Public figures such as Elon
+      Musk and Ivanka Trump have both claimed to be ‘red-pilled’ (Rao,
+      2020).                                                 
+        Yarvin takes ‘red-pilling’ one step further, hoping his works will serve
+      to ‘cure your brain’ of the Orwellian mind-control state induced by
+      Anglo-American progressive democracy.9 Yarvin is probably the most
+      importantfigureinNRx,asitwouldbefairtoregardhisURblogasthe
+      foundational text of the movement. Writing as Mencius Moldbug,
+      Yarvin offered up idiosyncratic, ironic and voluminous prose that mean-
+      ders through the work of Thomas Carlyle, Ludwig von Mises and vari-
+      ous strains of individualist libertarianism and which, in the end,
+      concludes that Prussian cameralism, in which a state is a business that
+      owns a country, offers the most viable model for a future 21st-century
+      politics. Originally called ‘neocameralism’, his position soon became
+      known as ‘neoreactionary’ philosophy (NRx) and then, once passed
+      through Land’s nihilist Deleuzian filter, as The Dark Enlightenment.
+      According to Tait (2019: 189), Yarvin’s vision is deeply grounded in
+      his mathematical precociousness and his long-term immersion in
+      Silicon Valley techno-libertarian culture. Indeed, Sandifer (2017: 129)
+      considers that because he is ‘an accomplished software engineer’, he
+      has ‘visibly concluded that because software engineering is hard and
+      history/philosophyareeasyifhecandotheformerwellhecanobviously
+      do the latter well, and indeed better’. He seems to accept this reading of
+      himself as someone committed to what is essentially a computationalist
+      ontology – describing himself in a recent interview as a ‘computer pro-
+      grammer’ who enjoys applying the logics of first principles to historical
+      systems, always asking ‘what would this look like if you could build it
+      from scratch?’10                                       
+        Inthisspirit,hebeganURwithhisFormalistManifesto,whichstarts:
+      ‘The other day I was tinkering around in my garage and I decided to
+      build a new ideology’ (Moldbug, 2007b). Formalism is a ‘do-it-yourself’
+      ideological project – an engineering challenge, even – to remove one’s
+      existingideologyand‘install’anewonethatrejectsprogressivedoctrines
+      transmitted by the Cathedral. Moldbug’s techno-fogeyism is generative
+      of a computational worldview that is ‘rational, rule-bound, and solv-
+      able...[and where]...software and hardware are the dominant meta-
+      phors for society’ (Tait, 2019: 189). In their writings both Yarvin and
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+        Smith and Burrows                            149     
+                                                             
+        Land point towards a key essay by Thiel (2009) published in Cato
+        Unbound – the house journal of the Cato Institute in Washington, DC,
+        foundedbylibertarianbillionaireCharlesKoch–inwhichheinfamously
+        declares that: ‘I no longer believe that freedom and democracy are com-
+        patible’. Land (2012) of course goes further, suggesting that ‘democracy
+        is not merely doomed, it is doom itself’. For him, democratic political
+        forms involve:                                       
+         cropping out all high-frequency feedback mechanisms (such as
+         market signals), and replacing them with sluggish, infra-red loops
+         that pass through a centralized forum of ‘general will’, a radically
+                                                             
+         democratized society insulates parasitism from what it does, trans-
+         forming local, painfully dysfunctional, intolerable, and thus
+         urgently corrected behavior patterns into global, numbed, and
+         chronic socio-political pathologies. (Land, 2012)   
+         The NRx alternative is to, first, ‘Retire All Government Employees’
+        (RAGE) in order to ‘reboot’ the economy,11 and, second, replace demo-
+        cratic institutions with a CEO (or even a Monarch). The resulting ‘gov-
+        corp’ – a society run as a business – can then be regulated not via the
+        ‘voice’ of its citizenry – there will be no democracy – but via their ability
+        to ‘exit’ as consumers in a free market for governance. Land has become
+        obsessed with the ideas contained in the classic treatise of Albert
+        Hirschman (1970) on the distinction between Exit, Voice, and
+        Loyalty.12 For Land, democratic voice and the ‘warm’ solidarities of
+        loyalty must be opposed, as they will, as we saw above, cut ‘out all
+        high-frequency feedback mechanisms’. For Yarvin (2019a), any attempt
+        to engage politically through voice would be ineffective – even futile –
+        because of ‘the pervasive error’ that monopolizes civic and political dis-
+        course. Designing new architectures of exit becomes of paramount
+        importance; indeed, for Land (2012), quoting Patri Friedman, ‘free exit
+        is so important that...it [is] the only Universal Human Right’. Exit
+        informs Yarvin’s theory of Patchwork (Moldbug, 2008) – again drawing
+        on computer engineering as a proxy for social ontology – which would
+        constitute a ‘new operating system for the world’:   
+         The basic idea...is that, as the crappy governments we inherited
+         from history are smashed, they should be replaced by a global
+         spiderweb of tens, even hundreds, of thousands of sovereign and
+         independent mini-countries, each governed by its own joint-stock
+         corporation without regard to the residents’ opinions. If residents
+         don’t like their government, they can and should move. The design
+         is all ‘exit,’ no ‘voice.’                          
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+      150                           Theory, Culture & Society 38(6)
+                                                             
+        While Yarvin thinks this operating system would borrow political
+      designs ‘across time and space...it is only natural that a reactionary
+      design for future government will have a somewhat feudal feel’ while
+      also being something ‘new’ that would ‘not feel like the past. It will
+      feel like the future’ (Moldbug, 2008). Patchwork’s feudal futurism will
+      be held together by a complex of cryptographic hierarchies of sovereign
+      corporate power and reinforced with durable surveillance infrastructures
+      in order to maintain order, security and profit. How it is imagined this
+      might be built is discussed in what follows.           
+                                                             
+      Urbit, Hyperstition and Redecentralization             
+                                                             
+      As we have already noted, Friedman is another NRx entrepreneur-cum-
+      philosopher backed by Thiel’s dollars, and the co-founder of The
+      Seasteading Institute, an organization supposedly busy designing per-
+      manent (almost Lovecraftian) cities at sea – seasteads – prefigurative
+      gov-corps outside the territory claimed by democratic governments.
+      They are just one example of an NRx envisioning of the emergence of
+      a complex patchwork of small, and competing, gov-corps – autonomous
+      gated communities, city-states, even ‘off-world’ communities (think Elon
+      Musk). Friedman offers up the imagined possibility of a ‘dynamic geog-
+      raphy’–amaterialarchitectureofexit–informedbytheneoliberalideas
+      of his father and his grandfather.                     
+        David Friedman described a machinery of freedom. Milton
+        Friedman advocated the freedom to choose. Patri identified a
+        machinery of freedom to choose...he proposed an idea that
+        became contagious: imagine ten thousand homesteads on the sea
+        – ‘seasteads’ – where ocean pioneers will be free to experiment with
+        new societies. Aquatic citizens could live in modular pods that can
+        detach at any time and sail to join another floating city, compelling
+        ocean governments to compete for mobile citizens. A market of
+        competing governments...would allow the best ideas for govern-
+        ancetoemergepeacefully,unleashingunimaginableprogress....By
+        such means, an economic and moral argument could become a
+        technological experiment. (Quirk with Friedman, 2017: 8–9)
+                                                             
+        Not surprisingly, this imagined future has turned out to be almost
+      entirely impracticable. A recent documentary – The Seasteaders
+      (2018)13 – about the ‘progress’ made so far, demonstrates that things
+      remain much as they were when Steinberg et al. (2012) explored the
+      phenomenon over a decade ago. He and his colleagues reported that at
+      a conference hosted by Thiel in 2009:                  
+                                                             
+                                                             
+                                                             
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+        Smith and Burrows                            151     
+                                                             
+         The tenor ... ranged from that of a science fiction convention
+         (potential seasteaders in attendance, who were overwhelmingly
+         men, wondered what they could do to attract women to live on
+         seasteads), to a seminar in libertarian economics (references to
+         Milton Friedman, Friedrich Hayek, Mancur Olson, and Ayn
+         Rand abounded), to a scientific meeting on ocean engineering
+         (architecturalrenderingsweredisplayedandcritiqued),toapsyche-
+         delic conclave of free-thinking anarchists. ... Indeed, the entire
+         seasteading venture might easily be written off as an impractical
+         fantasy of social misfits and political dreamers who would like to
+         make their own states. (Steinberg et al., 2012: 1533)
+                                                             
+         What has changed, however, is that those dreaming of creating their
+        own states are now greater in number and have more political and insti-
+        tutional support for the aspiration. Enclave libertarian ideas – including
+        theworkoftheStartupCitiesInstitute(2014)–arenowsupportedbythe
+        likes of the Cato Institute, the Mises Institute, the Foundation for
+        Economic Education and the Mont Pelerin Society (Lynch, 2017), as
+        well as Silicon Valley (and other) billionaires and political strategists
+        who have been ‘red-pilled’ (Majer, 2016). However, and this is our cen-
+        tral point, NRx is all about dreaming of a certain kind. This process is
+        central to the NRx hegemonic strategy. Steinberg et al. (2012: 1533–4)
+        intuited that seasteads would not be established anytime in the near
+        future. Their purpose was to reflect on ostensible limits of freedom
+        imposed by the state, so that others ‘will dream up and implement
+        more practical alternatives’. This is a cultural and political strategy of
+        what hascome to beknownashyperstition – anotion thathaslongbeen
+        central to Land’s thinking. For Land, time, like much else, is non-linear
+        andthusrelationsbetweencauseandeffectarealwayscomplex.Futurity
+        is in the here and now in the sense that it is not something that just
+        unfolds; it is something we create. On occasion portended social imagin-
+        aries – designs, diagrams, fictions, maps, movies, plans, philosophies,
+        prototypes, theories, dreams and more – become generative of the
+        future; it is as if the tentacles of future entities reach back through
+        time in order to bring into being the very elements necessary for their
+        own materialization. As Haider (2017) explains, there does not exist a
+        simple ‘word for this cause-and-effect relationship in ordinary English,
+        but Land coined one: hyperstition, that which is ‘‘equipoised between
+        fiction and technology.’’’ For Land (Carstens, 2009):
+         Hyperstition is a positive feedback circuit including culture as a
+         component. It can be defined as the experimental (techno-) science
+         of self-fulfilling prophecies. Superstitions are merely false beliefs,
+         but hyperstitions – by their very existence as ideas – function
+                                                             
+                                                             
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+      152                           Theory, Culture & Society 38(6)
+                                                             
+        causally to bring about their own reality. Capitalist economics is
+        extremely sensitive to hyperstition, where confidence acts as an
+        effective tonic, and inversely. The (fictional) idea of Cyberspace
+        contributed to the influx of investment that rapidly converted it
+        into a technosocial reality.14                       
+                                                             
+        The fictional social imaginaries offered up by movies such as
+      Metropolis or Blade Runner and by novels such as Ayn Rand’s Atlas
+      Shrugged, William Gibson’s Neuromancer (where the notion of cyber-
+      space originates of course; Featherstone and Burrows, 1995) or, espe-
+      cially in the case of NRx, Neil Stephenson’s Snow Crash (Stephenson,
+      1992), are all examples of hyperstition; but so too are broader discursive
+      assemblages that come to function as ideologies. As we have discussed
+      above, Friedman’s seasteading adventures could also be thought of in
+      this way, and The Dark Enlightenment is perhaps Land’s own hyper-
+      reflexive attempt15at constructing ahyperstitional object –fictional enti-
+      ties that will themselves into existence. However, we need to return to
+      Yarvin if we really want to come to terms with what might be at stake
+      here. Although, as we have noted, his UR blog is clearly foundational to
+      NRx thinking, it is his work on Urbit that perhaps possesses greater
+      hyperstitious qualities. At the same time as he was writing his blog, he
+      wasalsowritingcode.YarvinhasbeenworkingonUrbitsince2002,and
+      in2013,ashewasrunningdownhisblog,helaunchedtheSanFrancisco-
+      based company Tlo¨n Corp, which oversees Urbit with funding from
+      Thiel’s venture capital arm, the Founders Fund (Lecher, 2017). Yarvin
+      partedcompanywithTlo¨ninJanuary2019,markingtheoccasionwitha
+      highly discursive post (Yarvin, 2019b). However, he retains some
+      involvement – intellectual and financial – in the development of Urbit
+      (Tseng, 2019).                                         
+        It could be that the development of NRx ideas and Yarvin’s ability to
+      write code are totally separate practices, but this seems unlikely (Lecher,
+      2017; Tseng, 2019). As Haider (2017) argues, there is already good evi-
+      dence to suggest that NRx ideas are being instantiated within other
+      pieces of software, and in this regard, it is not clear why Urbit should
+      beanydifferent.Anyway,Yarvinhas‘occasionallyhintedattiesbetween
+      his ideology and professional pursuit’ (Lecher, 2017), even producing a
+      very brief 2010 Moldbug post called ‘Urbit: functional programming
+      from scratch’, pointing towards another post written by his ‘good
+      friend, C. GuyYarvin’. But there are also other, stronger, hintsconcern-
+      ingthehyperstitiousaspirationofthesoftware,asTseng(2019)observes:
+        ‘Tlo¨n, Uqbar, Orbis Tertius,’ the Borges story where Yarvin’s com-
+        pany gets its name, describes a secret society, Orbis Tertius, that
+        architects an entirely new world, Tlo¨ n, by publishing an encyclo-
+        paedia describing it. Over time, bits of this fictional world begin to
+                                                             
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+        Smith and Burrows                            153     
+                                                             
+         emergeintherealworld,consumingit,suchthat‘[t]heworldwillbe
+         Tlo¨ n.’                                            
+                                                             
+         Urbit is a ‘secure peer-to-peer network of personal servers, built on a
+        clean-slate system software stack’ that ‘replaces multiple developer-
+        hosted web services on multiple foreign servers, with multiple self-
+        hosted applications on one personal server’ (Yarvin et al., 2016: 3).
+        The goal, it seems, is to ‘redecentralize’ the web for the 21st century
+        because ‘the internet has lost its way’, and it needs to be built ‘right
+        this time’ (Fosdem, 2018). Already we see allusions between Urbit and
+        Formalism’s DIY ideological ‘re-installation’ via first principles, re-ima-
+        gining new architectural relations between service providers, users, and
+        data bypositioning Urbit as a clean-slate operating system and network.
+        Urbit’s CEO, Galen Wolfe-Pauly, whose background is in architecture,
+        describes it as a ‘global computing platform’ complete with protocols,
+        programminglanguages,databases,operatingsystem,andadigitaliden-
+        tity. Urbit reconfigures the user/cloud experience by inverting the net-
+        work; instead of running applications on developer machines, users will
+        run them on their own virtual computer, allowing Urbit users to ‘own
+        andcontrol’their‘owndata,codeandidentity’(Urbit,2016).Thismeans
+        that ‘[i]n an Urbit world, your data is no longer trapped in a jumble of
+        proprietary servers. Your Urbit is a permanent, versioned, typed archive
+        the size of your digital life’ (Wolfe-Pauley, 2016). This is, in effect, the
+        ‘Western answer to WeChat’ – a seamless extensible social network ‘but
+        without the surveillance’ (Urbit, n.d.).             
+         Reactions to Urbit have been, at best, mixed. Tseng (2019) considers
+        the software to be hopelessly contaminated by NRx ideology. Others,
+        from the coding community, who are perhaps more sympathetic to NRx
+        (Bianco,2013),althoughinitiallycriticalandbewildered,have,overtime,
+        claimed to beable to see someworth in the project. Sandifer(2017:130),
+        although willing to accept that Urbit might be ‘an ambitious reinvention
+        of the internet according to first principles’, concludes that in the end:
+         it’s nearly useless. The problems it solves are so bound up in its
+         principles of what security and freedom mean in the context of
+         software design that only a handful of people in the world care
+         about...And perhaps more importantly, it’s arguably even more
+         batshit crazy than [UR]...Yarvin is not the sort of software engin-
+         eerwhospendsalotoftimethinkingabouttheuser,whichistosay,
+         not the sort of software engineer with much empathy.
+         At the time she was writing a few years ago, Sandifer may well have
+        been correct in her assertion that only a handful of people cared about
+        the issues that Urbit claimed to be foregrounding. Today, however, the
+        social implications of incumbent ad-tech driven platforms and
+                                                             
+                                                             
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+      154                           Theory, Culture & Society 38(6)
+                                                             
+      monolithicserviceproviderslikeGoogleandFacebook(‘MEGACORP’,
+      to borrow from Urbit) are now mainstream concerns. For that matter,
+      we surmise that indeed Yarvin does think about users, but via the NRx
+      filterofreclaiming specificnotions,derivedfromcomputationalist ontol-
+      ogies, of data sovereignty as individual liberty. The importance of
+      owning and managing one’s own personal server and the need to re-
+      invent networked protocols to correspond with emerging socio-technical
+      needs are now also apparent elsewhere. Platforms such as Blockstack,
+      Sandstorm, and Solid, a de-centralized platform under development by
+      SirTimBerners-Lee’scompanyInrupt,allrepresentdifferentapproaches
+      to the reinvention of various systems of redecentralization to correspond
+      withemergentdatacontrolprerogativesfor,whatsomespeculate,willbe
+      the next generation of web applications and services (Corbyn, 2018).
+      While Urbit could be dismissed as just one amongst a number of
+      recent re-imaginings of decentralized internet architectures, Yarvin argu-
+      ably infuses NRx thinking into the very protocols and data architectures
+      of Urbit by completely rebuilding its computational kernel while advo-
+      cating for a new constitution for internet governance rooted in NRx
+      philosophies. Urbit’s developers argue that existing protocols such as
+      TCP/IP and HTTP are based on ‘ancient’ UNIX language that was
+      never designed for the kinds of decentralized networking emerging
+      through blockchain and related technologies (Dodd, 2018). The mutual
+      beliefthattheinternethas‘lostitsway’viahyper-commercialization,and
+      that it is not sustainable for future web applications and economies, is
+      precisely the nexus that binds together its ideological and computational
+      kernels into a hyperstitious analytic.                 
+        Aswehavealreadynoted,theUrbitprojectbeganin2002,itsfirstlive
+      tests were conducted in 2013, and the first public sale of Urbit address
+      space was held in 2016. The technical development of Urbit’s kernel is
+      measuredon‘Kelvinversioning’:descendinginreleasestowardsabsolute
+      zerowhenthetechnicalprotocolshavecongealedacrossthenetworkand
+      never need to be updated. As of 2019, Urbit was composed of three
+      layers: Arvo, the operating system and kernel; Azimuth, the identity
+      layer; and Aegean, an abstract ‘pattern of independent, decentralized
+      societies on top of the Arvo network’ (Urbit, n.d.). Urbit runs on just
+      50,000linesofcode.Therearenopatentsorintellectualpropertybecause
+      Urbit sees itself as the next open-source superstructure for the internet.
+        The Urbit project imagines itself as leading a movement towards
+      ‘calm’ and ‘clean’ computing that provides a frictionless, clean-slate,
+      user experience, in part because of how Urbit consolidates digital iden-
+      tity,property,andauthorityintoAzimuth.Theaddresssystemresembles
+      a cosmological ordering of Urbit identities, known as ships, an Azimuth
+      ‘point’onEthereum.ShipsusephoneticIPaddresses–a‘pronounceable’
+      phone number – such as ‘(cid:2)firbyr-napbes’, that denotes both the bit
+      length (in this case 32-bits) and their relationship to the Urbit network.
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+        Smith and Burrows                            155     
+                                                             
+        A 32-bit planet is a member of a 16-bit star, which belongs to an 8-bit
+        galaxy, the most valuable of Urbit assets.16 There are roughly 4 billion
+        planets, 65,280 stars, and only 256 galaxies possible on Urbit. Because
+        ships are finite assets, Urbit argues they will gradually accrue reputation
+        and value as cryptographic property. Ships therefore operate as the
+        necessary cryptographic identity by which sovereignty is coded into
+        Urbit space – a multipass serving as both an identity and as a wallet,
+        ‘both a driver’s license and a credit card. Identity and money. Think
+        about it as a ‘‘civilizational key’’ for the new society’ (Wolfe-Pauley,
+        2019).                                               
+         The finite hierarchical design of Urbit ships aligns with Yarvin’s
+        notion of Patchwork sovereignty, whereby the nature of authority is
+        proportional to the kinds of digital property owned: ‘If Bitcoin is
+        money, and Ethereum is law, Urbit is land’ (Klein, 2019). Urbit’s
+        CEO, Galen Wolfe-Pauley, frequently compares Urbit to a city because
+        they are both seen as decentralized ‘platforms’ by which a complex of
+        social processes (or ‘systems’) take place within a physical infrastructure
+        subject to specific rules and logics of a system.17 This comparison
+        assumes a deeper set of political beliefs concerning the nature of space
+        asfundamentallyinstrumentalinnature:ahouseis‘atoolforliving’,and
+        in this way, your Urbit is a tool for being.18 The Aegean network is the
+        necessary spatial capital ‘for building cities’ by grouping individuals
+        running similar programs on their Arvo servers. These cities exist as
+        particular combinations of applications and tools that operate together
+        in a self-governing manner and offer users both the right to self-
+        determination in their own city but also the right to exit, or move
+        freely from one Urbit city to another. The end result will be a virtual
+        concomitanttotheimagineddynamicgeographiesofseasteading:‘avast
+        archipelagoofhypercultures.Acentrelessnetworkofnetworksontopof
+        the neutral Arvo and Azimuth infrastructure’ (Urbit, n.d.).
+         As a ‘virtual city’ or cryptographic ‘land’, Urbit sees digital code as
+        law that offers sufficient governance structures. Under these conditions,
+        Urbit can follow a teleological path from a ‘corporate gated community’
+        towards a ‘true city-state: a self-governing digital republic that offers the
+        chance for digital freedom’.19                       
+         Urbit, as virtual city, is a platform that brings together all our
+         datastreams–fromemailstoheartbeats–inawaythatweourselves
+         control. Can we work together to match faces in photos, without
+         submitting to some panopticon in Mountain View? While the first
+         step in freedom is the right to be left alone, the second is the power
+         to form new intentional communities, to create and evolve a volun-
+         tary definition of public space. We have no idea at all what people
+         will do with this power. (Wolfe-Pauley, 2016)       
+                                                             
+                                                             
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+      156                           Theory, Culture & Society 38(6)
+                                                             
+        This really feels like retrofuturism. As we have noted, as far back as
+      1992 Neal Stephenson’s science-fiction novel Snow Crash featured a
+      ‘metaverse’ or shared collective virtual space that appeared to users, or
+      more specifically their virtual avatars, as self-contained urban environ-
+      ments complete with virtual real estate governed by the Global
+      MultimediaProtocolGroup.Thesephilosophiesechoanearlierideology
+      of internet culture defined by a belief in transcendence from existing
+      social,political,andeconomichierarchiesthroughdecentralizedcommu-
+      nication systems (Ludlow, 2001). However, for Urbit, even the internet
+      itself must shed its socio-technical history, its archaic programming lan-
+      guage, monopolized media ecosystems dominated by a winner-takes-all
+      logic, and the ‘high-velocity trash economy’ built by ‘Statist
+      Keynesians’.20                                         
+        Urbit is a clean-slate reimagining of networks as Patchwork govern-
+      ance. Indeed, governance is at the heart of the Urbit philosophy. Urbit’s
+      ‘constitution’, borrowed ‘from valid historical structures, mainly Roman
+      and Anglo-American’, declares itself a digital republic complete with its
+      own parliamentary structures including a consulate, senate, congress,
+      andassembly.Thishierarchyofstructuresreflectsitscosmologicalorder-
+      ing. The assembly is the setof all active planets, the congress is theset of
+      all active stars, and the senate is the set of galaxies. Urbit’s CEO, and
+      developer Raymond Pasco, currently both serve as Urbit’s two consuls
+      and function as the executive authority. Specific branches of government
+      arelikewisetaskedwithparticularresponsibilitiesofadministeringeither
+      technical or nontechnical issues (Tlo¨n, 2016). Not surprisingly, this puts
+      Urbit’s founders and its venture capital partners in excellent positions to
+      govern through network ownership. Indeed, the ownership of Urbit
+      galaxies has already been decided. Of Urbit’s 256 galaxies, Tlo¨n owns
+      about 37 per cent; Urbit.org: 19 per cent; Tlo¨ n employees: 15 per cent
+      (Yarvin owns 24 galaxies, everyone else 16); outside Tlo¨ n investors: 13
+      per cent; and Urbit donors and contributors: 14 per cent. Tseng’s (2019)
+      analysis of the distribution of galaxies and stars shows a clear concen-
+      tration towards Tlo¨ n and its employees. Put differently, despite Urbit’s
+      insistence on ‘redecentralization’ it is nonetheless prefigurative of con-
+      centrated property ownership and a rigid hierarchy of the address space.
+      Yet, Urbit’s creators do not concern themselves with this critique, even
+      claimingintheUrbitconstitutionthat:‘Urbitshouldneverfallunderany
+      kindofcentralcontrol.Alltransitionsingalaxyownershipshoulddivide
+      positions, not unite them,’ and that, ‘property rights are contingent and
+      accidental,notmoralormeritorious.Apropertyregisterdoesnotrecord
+      whyanownerdeservessomeproperty.Ownershipisneitherarewardnor
+      a right; it is a fact.’ Exit is the only constitutional right. There is no
+      democratic voice as Urbit is necessarily governed by a technocratic
+      elite of stars and galaxies. Planets dissatisfied with their parent star are
+      free to detach and move elsewhere but they must belong somewhere.
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+        Smith and Burrows                            157     
+                                                             
+        Galaxies exercise infrastructural governance only on stars that freely
+        participate. In Urbit, computationalist ontologies trump any notion of
+        social governance, and the only liberty is exit.     
+                                                             
+                                                             
+        Conclusions                                          
+        As we have already noted, writing almost a quarter of a century ago,
+        James Dale Davidson and Lord William Rees-Mogg (father of arch-
+        Brexiteer UK MP Jacob Rees-Mogg) published The Sovereign
+        Individual, a book that Thiel claims to have heavily influenced his world-
+        view (O’Connell, 2018). In it, they predict the eventual collapse of the
+        nation-state and the eclipse of politics by corporatist initiatives
+        (seasteading and Urbit easily fit this bill). Their prediction hinges on
+        the acceleration of information processing by decentralized telecommu-
+        nication networks. Through them, nation-states will be unable to ‘catch
+        up’ with the speed of encrypted transactions, rendering existing institu-
+        tions of tax-collection impossible. Commerce will migrate online, and
+        ‘cyberspace’ will become ‘the ultimate offshore jurisdiction’ (Davidson
+        and Rees-Mogg, 1997: 24). This ‘triumph of efficiency over power’, as
+        they describe it, is interesting not only because they theorize the nation-
+        state as paralyzed by ‘micro-processing’, but also because these proto-
+        neoreactionaries draw specifically on hyperstitional notions such as the
+        metaverse of Snow Crash (Davidson and Rees-Mogg, 1997: 179) as a
+        post-neoliberalimaginary.Thistriumphispredictedtoresultintheeven-
+        tual rise in violent and organized crime following the decline of nation-
+        states, but also the emergence of new information assets. The virtual
+        corporations and sovereign individuals envisioned by Yarvin, Land,
+        Thiel, Friedman, Davidson, and the late Rees-Mogg are geographically
+        dynamicentitiescapableofrapidmobilizationfromjurisdictionalauthor-
+        ity. As we see it, these views are not simply speculative predictions of a
+        post-neoliberal future but have played a materially key role in guiding
+        capitalinvestmentpatternsinplacessuchasSiliconValley.Davidsonand
+        thelateRees-MoggbotheditedStrategicInvestment,andDavidsonhim-
+        self is a venture capitalist with a panache for the apocalyptic. In any
+        event,theseeconomiesofpredictionallhingeonassumptionsthatcapital
+        will be drawn to chaos because it can easily exit should circumstances
+        change.                                              
+         It is important for us to keep attending to the manner in which the
+        politicalprojectsthatunderpinNRxareworkingintothesocio-technical
+        infrastructures of everyday life. Projects like Urbit, and other NRx exit
+        strategies such as seasteading, offer vivid imaginary resources for those
+        already possessing a predilection towards social withdrawal from the
+        manifestcrisesandfailuresofcontemporaryglobalcapitalism.Thefunc-
+        tioning of the democratic urban form – American cities in particular –
+        has been a particular target for denigration (Land, 2012).21 Instead, exit
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+      158                           Theory, Culture & Society 38(6)
+                                                             
+      to prosperous, technologically-advanced, supposedly well-functioning
+      but antidemocratic city-states – Singapore, Hong Kong (before the cur-
+      rent unrest at least), Dubai and the like – is set up as a model for the
+      future.Suchinterpretationshaveasymbolicandapoliticalforce.Wesee
+      similar processes occurring within Urbit’s critique of existing network
+      architectures and power structures. True or not, these critiques work to
+      advance a hyperstitious imaginary of a uniquely different network archi-
+      tecturebasedonparticularbeliefsofhowdata-subjectsandcommunities
+      shouldinteractthroughdecentralizedsecessionistlogics,andthepolitical
+      rights or obligations (if any) that follow from them.  
+        NRx architectures of exit, as Steorts (2017) observes, are powerful
+      precisely because they oversimplify. Incentives are aligned with their effi-
+      cientpursuit:‘Acomputerscientistwouldthinkthisway:Youjustsetup
+      the rules and your mechanism follows them.’ Any notion of political
+      sovereignty is, in other words, in the hands of the technologists working
+      through a ‘cryptographic chain of command’. We suggest that platforms
+      such as Urbit represent attempts to concretize such mechanistic compu-
+      tational ‘social’ theories of a hyper-efficient neoreactionary state. The
+      power to govern the conditions of exit, while likely futile in realizing
+      any fantasy of fracturing the political status quo to restore a myth of
+      sovereignty,nonethelesshasacertaintractionforneoreactionariesclaim-
+      ing to have access to some privileged, almost mythical, understanding of
+      the contemporary social order ascertained only through red-pilling.
+      Here, the question of how seriously we should take the writings of
+      people like Yarvin and Land on exit becomes significant. As we have
+      already noted, the ease with which otherwise ‘batshit crazy’ ideas have
+      becomemainstreamed inrecentyearsisperhapsamarkofthe‘newdark
+      age’ in which we live (Bridle, 2018). On any definition, we are dealing
+      herewithfascism(Gilroy,2019;Goldhill,2017;Hermanssonetal.,2020)
+      but at the same time we would be foolish to dismiss the memetic, almost
+      infectious quality that NRx and The Dark Enlightenment possess
+      (O’Sullivan, 2017: 30). The so-called ‘Overton Window’ is being moved
+      rightwards, and as Gilroy (2019: 5) argues, political conduct has been
+      redefined; fractions of the alt-right now consider themselves Gramscians
+      and Leninists, and they intend ‘to play a long game’.  
+        We speculate that these fractures reinforce an emergent political order
+      illustrated by projects such as Urbit and seasteading in order to provide
+      material instances of exit architectures. These represent a particular kind
+      of state that gestures towards imagined post-neoliberal orders character-
+      ized by the fracturing of the bureaucratic administrative state and its
+      replacement by ‘gov-corps’. It is worth considering what powers, if
+      any, those who do not own Urbit land might have, what choices one
+      would really have to exit the network, and what moral or ethical con-
+      structs would govern this imagined space. Indeed, discussions of exit
+      touch upon key ethical debates facing Silicon Valley concerning the
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+        Smith and Burrows                            159     
+                                                             
+        extent to which tech companies should participate in such matters. Alex
+        Karp, the CEO and co-founder (with Peter Thiel) of the artificial intel-
+        ligence firm Palantir, argued in the Washington Post (Karp, 2019) that
+        techcompanieshaveabsolutelynomoralobligationtoinfluencepolicyin
+        a broadside critique of the progressive agenda: ‘when a small group of
+        executives at the largest Internet companies in Silicon Valley try to
+        imposetheirmoralframeworkonAmerica,somethinghasgoneseriously
+        and dangerously awry.’ Putting aside for a moment the extent to which
+        such moral frameworks are indeed a minority position (likely, they are
+        not), or whether Karp subscribes to the principles of NRx, his view
+        highlights an underlying truth behind the ‘techno-utopian right-libertar-
+        ianism’ that pervades both the ethics and aesthetics of Silicon Valley
+        (Armistead, 2016). Namely, that post-neoliberalism, as dominated by
+        the political and cultural frameworks of tech start-ups, should be decisi-
+        vely anti-political and indifferent to existing moral dilemmas precisely
+        because exit will offer the transcendental mechanism for decentralized
+        political change. Exit apologist Balaji Srinivasan (2013) sees the future
+        as a techno-utopia because subjects can choose the ‘level of exit’ they
+        desire: ‘there is this entire digital world up here which we can jack our
+        brainsintoandwecanoptout.’Theobjectiveistoreducethebarriersof
+        exit by fracturing the civil service and marketplace of progressive social
+        theory through start-ups hyper-stimulated on billionaire finance.
+        Departing from Thatcher’s infamous neoliberal rhetoric, the Dark
+        Enlightenment will have such things as societies, but opt-in ones only.
+        ORCID iD                                             
+        RogerBurrows https://orcid.org/0000-0001-6837-1586   
+                                                             
+                                                             
+        Notes                                                
+        1. One is immediately reminded of Micronations: The Lonely Planet Guide to
+          Home-Made Nations (Ryan et al., 2006).             
+        2. They are available at https://www.unqualified-reservations.org/ in their ori-
+          ginal form, but parts have also been revised and (self-)published in book
+          format with titles such as: An Open Letter to Open-Minded Progressives; A
+          Gentle Introduction to Unqualified Reservations; How Dawkins Got Pwned;
+          Moldbug on Carlyle; and, of particular interest here, Patchwork: A Political
+          System for the 21st Century.                       
+        3. See Ratcliffe (2020) for a periodization of the output of Yarvin/Moldbug.
+        4. Indeed, at one point he published articles in both this journal and Body &
+          Society (Land, 1995a, 1995b).                      
+        5. DescribedbyMacDougald(2015)as‘aheadycocktailofnihilism,cybernetic
+          Marxism, complexity theory, numerology, jungle music, and the dystopian
+          sci-fi of William Gibson and Blade Runner’. Although not foregrounded at
+          the time, the cocktail also included foundational neoliberal thinkers.
+                                                             
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+      160                           Theory, Culture & Society 38(6)
+                                                             
+       6. See, in particular, the brilliant account offered by O’Connell (2018) on the
+         relationshipbetweenthisparticulartext,Thiel,Yarvinandpost-apocalyptic
+         NRx imaginaries.                                    
+       7. See https://www.seasteading.org/.                  
+       8. AsSandiferhaspointedout,giventhesexualpoliticsandinherentmisogyny
+         ofsomuchalt-rightthinking,itisdeeplyironicthatthismovie–thesource
+         of so many celebratory alt-right metaphors – should have been directed by
+         two transgender women.                              
+       9. More recently, Yarvin has been writing a series of posts for The American
+         Mind entitled ‘The Clear Pill’, where he develops his theory of ‘The
+         Pervasive Error’: an epistemic crisis of ‘truth markets’ that has culminated
+         in a paradox of ‘distributed despotism’. This ‘theory of wokeness’ specific-
+         ally highlights the acceleration of progressivism with a ‘microhistory of
+         mediaevolution’(i.e.socialmediaand‘new-mediasitesthatconnectedana-
+         lytics directly to their editorial process’). This microhistory has vastly
+         increased the ‘evolutionary efficiency of the market’ for the hegemony of
+         progressive discourse and the emergence of an accelerated epistemic elite:
+         ‘Theevolutionofideas,oncealazyrippleofviewsandreviews,hadbecome
+         an instant viral loop. Darwin started grinding up his Adderall’ (Yarvin,
+         2019a).                                             
+      10. Seethefirst10minutesof‘CurtisYarvinLiveattheBasedDeleuzeRelease
+         Party in LA (Mencius Moldbug)’ available at: https://www.youtube.com/
+         watch?v¼RRQO3VbJsMw.                                
+      11. See Moldbug/Yarvin here: https://www.youtube.com/watch?v¼
+         ZluMysK2B1E.                                        
+      12. See ‘Nick Land’s Response to Tech Secessionism’ talk here, organized in
+         relation to Hirschman’s distinctions: https://www.youtube.com/watch?
+         v¼yJMlaupGHTM.                                      
+      13. See the film by Jacob Hurwitz-Goodman and Daniel Keller made for
+         DIS.ART here: https://www.youtube.com/watch?v¼ZmESxdvegao.
+      14. See also the movie Hyperstition by Christopher Roth, in which Nick Land
+         andothersassociatedwith(left-)accelerationism(Gardiner,2017)appear.It
+         can be viewed here: https://vimeo.com/ondemand/hyperstition.
+      15. Others have invoked Thomas Pynchon-esque conspiracy theories to make
+         sense ofthecontemporary re-emergence ofLand’s weirdoeuvre, describing
+         him as ‘the sort of strange, half-forgotten figure that might turn up in an
+         Adam Curtis documentary ten years from now’ (MacDougald, 2015).
+      16. It is interesting to note that in earlier iterations of Urbit, Yarvin based the
+         platform’saddresshierarchyonamonarchialsystem–‘Lords’,‘Dukes’and
+         ‘Earls’ – derived from, as he put it, ‘standard Lockean libertarian home-
+         steading theory’ (Lecher, 2017).                    
+      17. See IDEO CoLab ‘Blueprint 2017 Talks: Galen Wolfe-Pauly on the
+         Distributed Web’: https://www.youtube.com/watch?v¼9cXTGW9J9a0.
+      18. Yarvin and Wolfe-Pauly in conversation on Blockchannel in 2018: ‘Virtual
+         Land in the Clouds, with Urbit’: https://medium.com/blockchannel/epi-
+         sode-19-virtual-land-in-the-clouds-with-urbit-1428ba98243a.
+      19. Yarvin and Wolfe-Pauly in discussion on The Ether Review #46 in 2016:
+         https://urbit.org/media/the-ether-review-46-curtis-yarvin-and-galen-wolfe-
+         pauly-on-urbit/.                                    
+
+[PAGE 19]
+                                                             
+                                                             
+                                                             
+        Smith and Burrows                            161     
+                                                             
+        20. The‘high-velocitytrasheconomy’circulatesinbitcoincommunitiesandhas
+          been popularized by bitcoin evangelist Pierre Rochard, exemplifying a
+          decentralized accelerationist critique. See: https://twitter.com/pierre_
+          rochard/status/1196828128607387648.                
+        21. See, by way of example, the disturbing NRx-inspired ‘Crush the Urbanite’
+          blog: https://crushtheurbanite.wordpress.com/.     
+        References                                           
+        Althusser, Louis (1971) Ideology and ideological state apparatuses. In:
+         Althusser, Louis, Lenin and Philosophy and other Essays (trans. Ben
+         Brewster). New York: Monthly Review Press, pp. 121–176.
+        Ambedkar,M.(2017)Theaestheticsofthealt-right.Post-OfficeArtsJournal,11
+         February. Available at: http://baltimore-art.com/2017/02/11/the-aesthetics-
+         of-the-alt-right/ (accessed 5 August 2020).         
+        Amoore, Louise (2019) Thinking with algorithms: Cognition and computation
+         in the work of N. Katherine Hayles. Theory, Culture & Society 36(2): 3–16.
+        Amoore,Louise (2020)CloudEthics:AlgorithmsandtheAttributes ofOurselves
+         and Others. Durham: Duke University Press.          
+        Armistead, Josephine (2016) The Silicon ideology. Available at: https://archive.
+         org/details/the-silicon-ideology (accessed 5 August 2020).
+        Atzori,Marcella(2017)Blockchaintechnologyanddecentralizedgovernance:Is
+         the state still necessary? Journal of Governance and Regulation 6(1): 45–62.
+        Beckett, Andy (2017) Accelerationism: How a fringe philosophy predicted the
+         future we live in. The Guardian, 11 May. Available at: https://www.theguar-
+         dian.com/world/2017/may/11/accelerationism-how-a-fringe-philosophy-pre-
+         dicted-the-future-we-live-in (accessed 5 August 2020).
+        Bianco, Clark (2013) Nock, Hoon, etc. for non-Vulcans (why Urbit matters).
+         Popehat. Available at: https://www.popehat.com/2013/12/06/nock-hoon-etc-
+         for-non-vulcans-why-urbit-matters/ (accessed 5 August 2020).
+        Blincoe, Nick (2017) Nick Land: Alt-writer. Prospect Magazine, 18 May.
+         Available at: https://www.prospectmagazine.co.uk/philosophy/nick-land-
+         the-alt-writer (accessed 5 August 2020).            
+        Bratton, Benjamin (2016) The Stack: On Software and Sovereignty. Cambridge,
+         MA: MIT Press.                                      
+        Bridle, James (2018) New Dark Age: Technology and the End of the Future.
+         London: Verso.                                      
+        Burrows,Roger(2019)UrbanfuturesandtheDarkEnlightenment:Aguidefor
+         theperplexed.In:Jacobs,KeithandMalpass,Jeff(eds)TowardsaPhilosophy
+         oftheCity:InterdisciplinaryandTransculturalPerspectivesLondon:Rowman
+         and Littlefield, pp. 245–258.                       
+        Campbell-Verduyn,Malcolm(ed.)(2018)BitcoinandBeyond:Cryptocurrencies,
+         Blockchains, and Global Governance. Abingdon: Routledge.
+        Carstens, Delphi (2009) Hyperstition – an interview with Nick Land. Available
+         at: http://xenopraxis.net/readings/carstens_hyperstition.pdf (accessed 5
+         August 2020).                                       
+        Corbyn,Zoe¨ (2018)Decentralisation:ThenextbigstepfortheWorldWideWeb.
+         TheObserver,8September.Availableat:https://www.theguardian.com/tech-
+         nology/2018/sep/08/decentralisation-next-big-step-for-the-world-wide-web-
+         dweb-data-internet-censorship-brewster-kahle (accessed 5August 2020).
+
+[PAGE 20]
+                                                             
+                                                             
+                                                             
+      162                           Theory, Culture & Society 38(6)
+                                                             
+      Cummings, Dominic (2020) Two hands are a lot – we’re hiring data scientists,
+        project managers, policy experts, assorted weirdos. Available at: https://
+        dominiccummings.com/2020/01/02/two-hands-are-a-lot-were-hiring-data-
+        scientists-project-managers-policy-experts-assorted-weirdos/ (accessed 5
+        August 2020).                                        
+      Daniels, Jessie (2018) The algorithmic rise of the ‘alt-right’. Contexts 17(1):
+        60–65.                                               
+      Davidson,JamesDaleandRees-Mogg,William(1997)TheSovereignIndividual:
+        Mastering the Transition to the Information Age. London: Touchstone.
+      Dodd, Nigel (2018) The social life of bitcoin. Theory, Culture & Society 35(3):
+        35–56.                                               
+      Duesterberg,James(2017)Finalfantasy:Neoreactionarypoliticsandtheliberal
+        imagination. The Point Magazine. Available at: https://thepointmag.com/
+        2017/politics/final-fantasy-neoreactionary-politics-liberal-imagination
+        (accessed 5 August 2020).                            
+      Featherstone, Mike and Burrows, Roger (eds) (1995) Cyberspace/Cyberbodies/
+        Cyberpunk: Cultures of Technological Embodiment. London: SAGE.
+      Fosdem(2018)Urbit:Thepersonalserver.Fosdem.Availableat:https://archive.
+        fosdem.org/2018/schedule/event/urbit/ (accessed 5 August 2020).
+      Galloway, Alexander and Noys, Benjamin (2014) Crash and burn: Debating
+        accelerationism. 3:am magazine. Available at: https://www.3ammagazine.
+        com/3am/crash-and-burn-debating-accelerationism/ (accessed 5 August
+        2020).                                               
+      Gardiner,Michael(2017)Critiqueofaccelerationism.Theory,Culture&Society
+        34(1): 29–52.                                        
+      Gilroy,Paul(2019)Agonisticbelonging:Thebanalityofgood,the‘altright’and
+        the need for sympathy. Open Cultural Studies 3(1): 1–14.
+      Goldhill, Olivia (2017) The neo-fascist philosophy that underpins both the alt-
+        right and Silicon Valley technophiles. Quartz. Available at: https://qz.com/
+        1007144/the-neo-fascist-philosophy-that-underpins-both-the-alt-right-and-
+        silicon-valley-technophiles/ (accessed 5 August 2020).
+      Gray, Rosie (2017) Behind the internet’s anti-democracy movement. The
+        Atlantic. Available at: https://www.theatlantic.com/politics/archive/2017/02/
+        behind-the-internets-dark-anti-democracy-movement/516243/ (accessed 5
+        August 2020).                                        
+      Haider,Shuja(2017)Thedarknessattheendofthetunnel:Artificialintelligence
+        and neoreaction. Viewpoint Magazine. Available at: https://www.viewpoint-
+        mag.com/2017/03/28/the-darkness-at-the-end-of-the-tunnel-artificial-intelli-
+        gence-and-neoreaction/ (accessed 5 August 2020).     
+      Hermansson,Patrik,Lawrence,David,Mulhall,JoeandMurdoch,Simon(eds)
+        (2020) The International Alt-Right: Fascism for the 21st Century? London:
+        Routledge.                                           
+      Hirschman,Albert(1970)Exit,VoiceandLoyalty:ResponsestoDeclineinForms,
+        Organizations and States. Cambridge, MA: Harvard University Press.
+      Karp, Alex (2019) I’m a tech CEO, and I don’t think tech CEOs should be
+        making policy. The Washington Post, 5 September. Available at: https://
+        www.washingtonpost.com/opinions/policy-decisions-should-be-made-by-
+        elected-representatives-not-silicon-valley/2019/09/05/e02a38dc-cf61-11e9-
+        87fa-8501a456c003_story.html (accessed 5 August 2020).
+
+[PAGE 21]
+                                                             
+                                                             
+                                                             
+        Smith and Burrows                            163     
+                                                             
+        Klein, Jessica (2019) Here’s the Dark Enlightenment explainer you never
+         wanted. BreakerMag. Available at: https://breakermag.com/heres-the-dark-
+         enlightenment-explainer-you-never-wanted/ (accessed 5 August 2020).
+        Land, Nick (1995a) Machines and technocultural complexity: The challenge of
+         the Deleuze-Guattari conjunction. Theory, Culture & Society 12(2): 131–140.
+        Land,Nick(1995b)Meat(orhowtokillOedipusincyberspace).Body&Society
+         1(3–4): 191–204.                                    
+        Land, Nick (2012) The Dark Enlightenment. Available at: http://www.thedar-
+         kenlightenment.com/thedark-enlightenment-by-nick-land/ (accessed 5
+         August 2020).                                       
+        Land, Nick (2017) A quick-and-dirty introduction to accelerationism. Jacobite.
+         Available at: https://jacobitemag.com/2017/05/25/a-quick-and-dirty-intro-
+         duction-to-accelerationism/ (accessed 5 August 2020).
+        Lecher, Colin (2017) Alt-right darling Mencius Moldbug wanted to destroy
+         democracy. Now he wants to sell you web services. The Verge. Available
+         at: https://www.theverge.com/2017/2/21/14671978/alt-right-mencius-mold-
+         bug-urbit-curtis-yarvin-tlon (accessed 5 August 2020).
+        Lewis, Paul, Conn, David and Pegg, David (2020) UK government using confi-
+         dentialpatientdataincoronavirusresponse.TheGuardian,12April.Available
+         at: https://www.theguardian.com/world/2020/apr/12/uk-government-using-
+         confidential-patient-data-in-coronavirus-response (accessed 5 August 2020).
+        Ludlow, Peter (ed.) (2001) Crypto Anarchy, Cyberstates, and Pirate Utopias.
+         Cambridge, MA: MIT Press.                           
+        Lynch, Casey R. (2017) ‘Vote with your feet’: Neoliberalism, the democratic
+         nation-state,andutopianenclavelibertarianism.PoliticalGeography59:82–91.
+        MacDougald,Park(2015)Thedarknessbeforetheright.TheAwl.Availableat:
+         https://www.theawl.com/2015/09/the-darkness-before-the-right/ (accessed 5
+         August 2020).                                       
+        MacDougald, Park (2016) Accelerationism, left and right. Available at: https://
+         pmacdougald.wordpress.com/2016/04/14/accelerationism-left-and-right/
+         (accessed 5 August 2020).                           
+        Majer, Jane (2016) Dark Money: The Hidden History of the Billionaires Behind
+         the Rise of the Radical Right. London: Penguin.     
+        Moldbug, Mencius (2007a) Universalism: Postwar Progressivism as Christian
+         Sect.Availableat:https://www.unqualified-reservations.org/2007/07/univers-
+         alism-postwar-progressivism-as/ (accessed 5 August 2020).
+        Moldbug, Mencius (2007b) A Formalist Manifesto. Available at: https://www.
+         unqualified-reservations.org/2007/04/formalist-manifesto-originally-posted/
+         (accessed 5 August 2020).                           
+        Moldbug, Mencius (2008) Patchwork: A Political System for the 21st Century.
+         Available at: https://www.unqualified-reservations.org/2008/11/patchwork-
+         positive-vision-part-1/ (accessed 5 August 2020).   
+        Moldbug, Mencius (2009) Moldbug on Carlyle. Available at: https://www.
+         unqualified-reservations.org/2009/07/carlyle-in-20th-century-fascism-and/
+         (accessed 5 August 2020).                           
+        Mouffe, Chantal (2019) For a Left Populism. London: Verso.
+        Mulhall, Joe (2020) Andrew Sabisky’s job at No 10 shows how mainstream the
+         alt-right has become. The Guardian, 18 February. Available at: https://www.
+
+[PAGE 22]
+                                                             
+                                                             
+                                                             
+      164                           Theory, Culture & Society 38(6)
+                                                             
+        theguardian.com/commentisfree/2020/feb/18/andrew-sabisky-job-no-10-alt-
+        right-adviser (accessed 5 August 2020).              
+      Murphy,Justin(2019)BasedDeleuze:TheReactionaryLeftismofGillesDeleuze.
+        London: Other Life.                                  
+      Nagle, Angela (2017) Kill All Normies: Online Culture Wars from 4Chan and
+        Tumblr to Trump and the Alt-Right. Winchester: Zero Books.
+      O’Brien,Luke(202)Thefar-righthelpedcreatetheworld’smostpowerfulfacial
+        recognition technology. The Huffington Post, 7 April. Available at: https://
+        www.huffingtonpost.co.uk/entry/clearview-ai-facial-recognition-alt-right_n_
+        5e7d028bc5b6cb08a92a5c48?ri18n¼true (accessed 5 August 2020).
+      O’Connell, Mark (2018) Why Silicon Valley billionaires are prepping for the
+        Apocalypse in New Zealand. The Guardian, 15 February. Available at:
+        https://www.theguardian.com/news/2018/feb/15/why-silicon-valley-billio-
+        naires-are-prepping-for-the-apocalypse-in-new-zealand (accessed 5 August
+        2020).                                               
+      O’Sullivan, Simon (2017) Accelerationism and hyperstition. Cyclops Journal 2:
+        11–45.                                               
+      Parisi, Luciana (2019) Critical computation: Digital automata and general arti-
+        ficial thinking. Theory, Culture & Society 36(2): 89–121.
+      Quirk, JoewithFriedman, Patri (2017)Seasteading:HowFloating NationsWill
+        Restore the Environment, Enrich the Poor, Cure the Sick, and Liberate
+        Humanity from Politicians. New York: Free Press.     
+      Rao, Sonia (2020) How the red pill got to Elon Musk, The Washington Post, 18
+        May. Available at: https://www.washingtonpost.com/arts-entertainment/2020/
+        05/18/elon-musk-ivanka-trump-matrix-red-pill/ (accessed 5 August 2020).
+      Ratcliffe,Peter(2020)RebootingtheLeviathan:NRxandthemillennium. b2o:
+        an online journal (Special Issue: The New Extremism) 4(2). Available at:
+        http://www.boundary2.org/2020/04/jonathan-ratcliffe-rebooting-the-
+        leviathan-nrx-and-the-millennium/ (accessed 5 August 2020).
+      Reynolds, Simon (2009) Renegade academia: The Cybernetic Culture Research
+        Unit. Available at: http://energyflashbysimonreynolds.blogspot.co.uk/2009/
+        11/renegade-academia-cybernetic-culture.html (accessed 5 August 2020).
+      Ruger, William (2011) Milton Friedman. London: Bloomsbury.
+      Ryan, John, Dunford, George and Sellars, Simon (2006) Micronations: Lonely
+        Planet Guide to Home-Made Nations. Melbourne: Lonely Planet.
+      Sandifer,Elizabeth(2017)Neoreaction:ABasilisk:EssaysonandAroundtheAlt
+        Right. Eruditorum Press.                             
+      Srinivasan, Balaji (2013) Silicon Valley’s ultimate exit. Available at: https://
+        genius.com/Balaji-srinivasan-silicon-valleys-ultimate-exit-annotated
+        (accessed 5 August 2020).                            
+      Startup Cities Institute (2014) Startup Cities: A New Approach to Reform.
+        Guatemala City: Universidad Francisco Marroquin.     
+      Steinberg, Philip E., Nyman, Elizabeth and Caraccioli, Mauro J. (2012) Atlas
+        swam: Freedom, capital, and floating sovereignties in the seasteading vision.
+        Antipode 44(4): 1532–1550.                           
+      Steorts, Jason L. (2017) Against Mencius Moldbug’s neoreaction. National
+        Review. Available at: https://www.nationalreview.com/2017/06/problems-
+        mencius-moldbug-neoreaction/ (accessed 5 August 2020).
+      Stephenson, Neal (1992) Snow Crash. New York: Bantam Books.
+
+[PAGE 23]
+                                                             
+                                                             
+                                                             
+        Smith and Burrows                            165     
+                                                             
+        Tait,Joshua(2019)MenciusMolbugandneoreaction.In:Sedgwick,Mark(ed.)
+         Key Thinkers of the Radical Right: Behind the New Threat to Liberal
+         Democracy. Oxford: Oxford University Press.         
+        Thiel,Peter(2009)Theeducationofalibertarian.Availableat:http://www.cato-
+         unbound.org/2009/04/13/peter-thiel/education-libertarian (accessed 5 August
+         2020).                                              
+        Thiel, Peter (2014) Zero to One: Notes on Startups, or How to Build the Future.
+         London: Virgin Books.                               
+        Tlo¨n (2016) Interim Constitution. Urbit. Available at: https://urbit.org/blog/
+         interim-constitution/ (accessed 5 August 2020).     
+        Topinka,Robert(2019)‘Backtoapastthatwasfuturistic’:Thealt-rightandthe
+         uncanny form of racism. b2o: an online journal (Special Issue: The New
+         Extremism) 4(2). Available at: https://www.boundary2.org/2019/10/robert-
+         topinka-back-to-a-past-that-was-futuristic-the-alt-right-and-the-uncanny-
+         form-of-racism/ (accessed 5 August 2020).           
+        Tseng, Francis (2019) Who owns the stars?: The trouble with Urbit. Available
+         at: http://distributedweb.care/posts/who-owns-the-stars/ (accessed 5 August
+         2020).                                              
+        Urbit (2016) Welcome to Urbit. Available at: https://www.youtube.com/watch?
+         v¼g1qroWiZF90&feature¼youtu.be (accessed 5 August 2020).
+        Urbit(n.d.)UnderstandingUrbit.Availableat:https://urbit.org/understanding-
+         urbit/ (accessed 5 August 2020).                    
+        Volpicelli,Gian(2020)CanDominicCummingsreallyrunBritainlikeastartup?
+         Probably not. Wired, 14 January. Available at: https://www.wired.co.uk/art-
+         icle/dominic-cummings-blog-civil-service (accessed 5 August 2020).
+        Wendling, Mike (2018) Alt-Right: From 4Chan to the White House. London:
+         Pluto Press.                                        
+        Wolf, Rachel (2020) Whitehall is woefully unprepared for Dominic Cummings’
+         trueplantoreformthestate.TheTelegraph,1January.Availableat:https://
+         www.telegraph.co.uk/politics/2020/01/01/whitehall-woefully-unprepared-
+         dominic-cummings-true-plan-reform/?WT.mc_id¼tmg_share_tw (accessed 5
+         August 2020).                                       
+        Wolfe-Pauley, Galen (2016) An Urbit overview. Available at: https://urbit.org/
+         blog/an-urbit-overview/ (accessed 5 August 2020).   
+        Wolfe-Pauley, Galen (2019) Azimuth as multipass. Available at: https://urbit.
+         org/blog/azimuth-as-multipass/ (accessed 5 August 2020).
+        Yarvin, Curtis (2019a) The clear pill, Part 2 of 5: A theory of pervasive error.
+         TheAmericanMind.Availableat:https://americanmind.org/essays/the-clear-
+         pill-part-2-of-5-a-theory-of-pervasive-error/ (accessed 5 August 2020).
+        Yarvin, Curtis (2019b) A founder’s farewell. Urbit Blog. Available at: https://
+         urbit.org/posts/a-founders-farewell/ (accessed 5 August 2020).
+        Yarvin, Curtis, Monk, Philip, Dyudin, Anton and Pasco, Raymond (2016)
+         Urbit: A solid-state interpreter. Available at: https://media.urbit.org/white-
+         paper.pdf (accessed 5 August 2020).                 
+        Harrison Smith is a Lecturer in Digital Media and Society in the
+        Department of Sociological Studies at the University of Sheffield, UK.
+
+[PAGE 24]
+                                                             
+                                                             
+                                                             
+      166                           Theory, Culture & Society 38(6)
+                                                             
+      Roger Burrows is Professor of Cities in the School of Architecture,
+      Planning and Landscape at Newcastle University, UK.    
+                                                             
+                                                             
+      This article is part of the Theory, Culture & Society special issue on ‘Post-
+      Neoliberalism?’, edited by William Davies and Nicholas Gane.
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             

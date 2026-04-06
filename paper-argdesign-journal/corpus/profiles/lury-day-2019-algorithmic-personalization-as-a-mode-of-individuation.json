@@ -1,0 +1,73 @@
+{
+  "paper_id": "lury-day-2019-algorithmic-personalization-as-a-mode-of-individuation",
+  "title": "Algorithmic Personalization as a Mode of Individuation",
+  "author": "Lury and Day",
+  "year": 2019,
+  "journal": "Theory, Culture & Society",
+
+  "opening_move": {
+    "type": "conceptual_gap",
+    "description": "Personalization practices now pervade everyday life — health, care, education, news, commerce — yet their social logic remains poorly theorized. Lury and Day ask what kind of individuation algorithmic personalization is, arguing it constitutes an 'a-typical' pathway in which entities are recursively included and excluded from types and classes in ways that are always 'more and less than one'.",
+    "anchored_in": ["Foucault (individuation)", "Simondon (individuation)", "Hacking (statistics)"],
+    "stakes_claimed": "Understanding algorithmic personalization as a novel mode of individuation — producing 'a-typical' pathways through de- and re-aggregating — reveals how it reconfigures the politics of collectivities, ownership and use in contemporary 'sharing economies', with implications for how sociality and the 'default social' are being transformed."
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["purely instrumental accounts of personalization (as service improvement)", "accounts that see personalization as straightforward surveillance or commodification"],
+    "engagement_structure": "absence_critique",
+    "immanent_critique": false,
+    "own_position_type": "external_alternative",
+    "own_position_explicit": true,
+    "description": "Lury and Day propose a sociological theory of algorithmic personalization as a mode of individuation (drawing on Simondon and Foucault) that operates through recursive inclusion/exclusion — creating a-typical pathways that are neither individual nor collective but always partial. This is deployed to theorize what they call 'the default social' in economies of sharing."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_interpretive_case",
+    "secondary": null,
+    "empirical_evidence_present": true,
+    "empirical_evidence_role": "illustrative",
+    "quantitative_methods": null,
+    "qualitative_methods": "Analysis of specific recommendation algorithm platforms (Last.fm, Pandora, Netflix, Stitch Fix, PatientsLikeMe, Facebook); analysis of collaborative filtering vs. content-based filtering; analysis of the 'like economy'.",
+    "data_sources": ["Last.fm", "Pandora", "Netflix", "Stitch Fix", "PatientsLikeMe", "Facebook (Gerlitz and Helmond like economy study)"],
+    "interpretive_methods": "Social theory of individuation (Simondon, Foucault); platform/algorithm analysis; sociological theory of numbering practices (Hacking); analysis of participatory logics of inclusion/exclusion.",
+    "notes": "The platform examples (Last.fm, Stitch Fix, etc.) are illustrative: they concretize the a-typical individuation concept. The argument is theoretical throughout: what kind of individuation is personalization? The concept of 'a-typical pathway' is the core contribution."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "media_object",
+    "case_name": "Recommendation algorithms (Last.fm, Netflix, Stitch Fix, PatientsLikeMe, Facebook)",
+    "case_function": "illustrative",
+    "case_relation_to_argument": "illustration_of_argument",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "medium",
+    "domain": "digital sociology, STS, social theory of individuation",
+    "claim_type": "reconstructive",
+    "closure_type": "open_ended_with_burden_on_reader"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "framework_proposal",
+    "case_introduction",
+    "case_development",
+    "conceptual_distinction",
+    "normative_derivation",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["algorithmic personalization", "individuation", "a-typical pathway", "collaborative filtering", "de-aggregation/re-aggregation", "default social", "like economy", "inclusive exclusion"],
+
+  "thinkers_deployed": {
+    "central": ["Simondon", "Foucault", "Hacking"],
+    "engaged_critically": [],
+    "referenced_only": ["Gerlitz and Helmond", "Hayles", "Prey"]
+  },
+
+  "confidence_notes": "This paper contributes a theoretical framework (a-typical individuation) supported by illustrative platform examples. The normative_stake is medium: the argument has implications for understanding social inequality and the politics of collectivity in sharing economies (ownership, use, the 'default social'), but the paper primarily develops the conceptual apparatus and leaves normative implications relatively open."
+}
