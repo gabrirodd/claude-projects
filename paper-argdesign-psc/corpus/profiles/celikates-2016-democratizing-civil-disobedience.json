@@ -1,0 +1,63 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "celikates_2016",
+  "title": "Democratizing Civil Disobedience",
+  "author": "Celikates",
+  "year": 2016,
+  "journal": "Philosophy and Social Criticism",
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "The mainstream liberal view of civil disobedience (Rawls, Habermas) — non-violent, public, accepting of punishment, constrained by fidelity to rule of law — fails to capture civil disobedience as a genuinely political and democratic practice. It domesticates and sanitizes what is in fact an irreducibly political practice of contestation.",
+    "anchored_in": ["Rawls", "Habermas"],
+    "stakes_claimed": "Civil disobedience's democratizing and politicizing potential resides precisely in the irreducible tension between its symbolic and directly confrontational dimensions — a tension that liberal theory effaces."
+  },
+  "theoretical_positioning": {
+    "rivals_engaged": ["Rawls's liberal account", "Habermas's communicative account"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": true,
+    "own_position_type": "framework_proposal",
+    "own_position_explicit": true,
+    "description": "The paper performs immanent critique of the Rawls-Habermas tradition (non-violence criterion is politically instrumentalized; acceptance of punishment is not a precondition; the appeal to majority's sense of justice is empirically questionable in Thoreau/Gandhi/King paradigm cases). It then argues for a 'radically democratic' understanding where civil disobedience sits between symbolic politics and real confrontation, and its politicizing potential is tied to this tension."
+  },
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": null,
+    "notes": "Fully normative political philosophy. Historical examples (Thoreau, Gandhi, King, Wikileaks, Anonymous) are illustrative reference points used to test the adequacy of theoretical definitions, not empirical cases."
+  },
+  "case_type": {
+    "has_case": false,
+    "case_medium": "none",
+    "case_name": null,
+    "case_function": null,
+    "case_relation_to_argument": null,
+    "case_selection_justified": false
+  },
+  "normative_stake": {
+    "level": "high",
+    "domain": "democratic theory / political action / civil disobedience",
+    "claim_type": "reconstructive_prescriptive",
+    "closure_type": "conclusion_open"
+  },
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "immanent_critique",
+    "framework_proposal",
+    "counter_objection_response",
+    "conclusion_open"
+  ],
+  "reflexive_move": false,
+  "key_concepts": ["civil disobedience", "democratizing potential", "symbolic vs confrontational politics", "fidelity to law", "non-violence", "politicization", "digital disobedience"],
+  "thinkers_deployed": {
+    "central": ["Rawls", "Habermas"],
+    "engaged_critically": ["Rawls", "Habermas"],
+    "referenced_only": ["Thoreau", "Gandhi", "King", "Marcuse", "Mouffe"]
+  },
+  "confidence_notes": "Type 2 (polemical reconstruction): immanent critique of liberal account, positive radically-democratic framework proposed, counter-objections addressed. The conclusion is open because the paper is a special section article — shorter, more programmatic, ends by flagging remaining challenges rather than fully resolving them."
+}

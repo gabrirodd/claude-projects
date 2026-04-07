@@ -1,0 +1,63 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "fischer_jarren_2023",
+  "title": "The Platformization of the Public Sphere and its Challenge to Democracy",
+  "author": "Fischer and Jarren",
+  "year": 2023,
+  "journal": "Philosophy and Social Criticism",
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "Digital transformation has disrupted the public sphere's social mediation function: journalistic news values relevant to democracy are being replaced by platform attention-seeking business logic, fragmenting the public sphere and undermining democratic orientation.",
+    "anchored_in": ["Habermas (Structural Transformation)", "Jarren and Neuberger"],
+    "stakes_claimed": "A broad public debate about platformization and possible policies is urgently needed to ensure a media system that serves and strengthens democracy."
+  },
+  "theoretical_positioning": {
+    "rivals_engaged": ["optimistic early internet accounts (everyone can participate)", "platform self-regulation"],
+    "engagement_structure": "friendly_amendment",
+    "immanent_critique": false,
+    "own_position_type": "framework_proposal",
+    "own_position_explicit": true,
+    "description": "The paper extends Habermasian public sphere theory to the digital platform era. It diagnoses platformization as a continuation of the structural transformation of the public sphere — journalism's social mediation function is being replaced by platform algorithmic logic — and calls for regulatory response."
+  },
+  "epistemic_mode": {
+    "primary": "normative_with_qualitative_empirical",
+    "secondary": null,
+    "empirical_evidence_present": true,
+    "empirical_evidence_role": "illustrative",
+    "quantitative_methods": null,
+    "qualitative_methods": "Analysis of media industry trends, platform business models, journalism crisis indicators (illustrative).",
+    "data_sources": ["Media industry reports", "platform regulatory documents"],
+    "interpretive_methods": "Habermasian public sphere analysis applied to digital platforms; political economy of platforms.",
+    "notes": "The paper references empirical trends in journalism decline and platformization but does not conduct original empirical research. Evidence is illustrative of the theoretical argument. Classified as normative_with_qualitative_empirical (illustrative) — the call for regulation is normatively derived, not empirically grounded."
+  },
+  "case_type": {
+    "has_case": true,
+    "case_medium": "institutional_process",
+    "case_name": "Platformization of journalism and the public sphere",
+    "case_function": "test_case_for_framework",
+    "case_relation_to_argument": "illustrative_and_generative",
+    "case_selection_justified": true
+  },
+  "normative_stake": {
+    "level": "medium",
+    "domain": "public sphere / journalism / platform regulation / democracy",
+    "claim_type": "critical_diagnostic",
+    "closure_type": "open_ended_with_burden_on_reader"
+  },
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "framework_proposal",
+    "case_introduction",
+    "case_development",
+    "normative_derivation",
+    "conclusion_open"
+  ],
+  "reflexive_move": false,
+  "key_concepts": ["platformization", "social mediation", "news values", "attention economy", "public sphere fragmentation", "journalistic crisis", "platform regulation"],
+  "thinkers_deployed": {
+    "central": ["Habermas", "Jarren"],
+    "engaged_critically": [],
+    "referenced_only": ["Zuboff", "Krotz", "Imhof"]
+  },
+  "confidence_notes": "Type 5c (illustrative diagnosis): the Habermasian framework drives the argument; platformization evidence illustrates rather than constitutes. This paper reads like a policy-oriented contribution to a special issue — less philosophically dense than most PSC papers, closer to media studies."
+}

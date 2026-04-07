@@ -1,0 +1,1299 @@
+[PAGE 1]
+                                                             
+                                                             
+                                                             
+                                                             
+      Article                                                
+                                                             
+                                         PhilosophyandSocialCriticism
+                                         2026,Vol.52(1)34–58 
+      Racism,  epistemic injustice, and                      
+                                         ©TheAuthor(s)2024   
+      ideology  critique                                     
+                                         Articlereuseguidelines:
+                                         sagepub.com/journals-permissions
+                                         DOI:10.1177/01914537241244824
+                                         journals.sagepub.com/home/psc
+      Sarah Bufkin                                          
+      UniversityofBirmingham,UK                              
+      Abstract                                               
+      Since its 2007 publication, Miranda Fricker’s Epistemic Injustice has sparked a vigorous
+      conversation in analytic philosophy about how social power corrodes individual’s epi-
+      stemic capacities and distorts collective meaning-making in unjust ways. Yet for all its
+      normative insights into social silencing, I argue that Fricker’s theorization of epistemic
+      dysfunction remains too individualized, cognitivist, and dematerialized to account for
+      racialized imaginaries. Rather than view racisms as normal and normative in racist
+      cultures,Frickerframesidentity-drivenprejudiceasatroublingaberrationfromotherwise
+      unblemished epistemic and moral norms. This leads her into adopting an overly vol-
+      untaristandidealisttheory ofsocialchangethatcentres trainingbetterknowersrather
+      than unmaking racialized worlds. Ultimately, I contend that we should return to a
+      materialisttheory of ideology, followingthe work of Stuart Hall. Doing so jettisons the
+      narrowfocusonindividualepistemicfailuresandinsteadproblematizeshowcertainsocial
+      ideas consolidate and reproduce racial hierarchies.    
+      Keywords                                               
+      epistemic injustice, hermeneutical injustice, ideology, knowledge production, racism,
+      race, silencing, Stuart Hall, testimonial injustice    
+                                                             
+                                                             
+                                                             
+      Introduction                                           
+      Social epistemologists and Anglo-American political philosophers have recently given
+      more sustained attention to the problem of how social hierarchies, including racialized
+      ones,cancorrodetheproductionandtransferofknowledge.Followingonfromthework
+      of feminist standpoint theorists, analytic philosophers like Miranda Fricker and Jose´
+                                                             
+      Correspondingauthor:                                   
+      SarahBufkin,DepartmentofPoliticalScienceandInternationalStudies,MuirheadTower,Edgbaston,
+      BirminghamB152TT,UK.                                   
+      Email:s.m.bufkin@bham.ac.uk                            
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+      Bufkin                                         35      
+                                                             
+                                                             
+                                                             
+      Medinahavearguedthatsystemicracismandotherformsofidentity-drivenprejudicecan
+      producedeficientknowersanddefectivehermeneuticalresources.1Muchofthisscholarly
+      discussion takes as its starting point Fricker’s 2007 book, Epistemic Injustice, in which
+      shearguesthatthesesociallyproducedepistemicdysfunctionsinflictadistinctiveformof
+      injustice. Fricker differentiates between those epistemic obstacles that interfere at the
+      interactional,micro-levelofindividualknowledgeexchangeandthosethatoperateonthe
+      structural, macro-level of differentiated group knowledges. She characterizes these two
+      distinctcategoriesofepistemicharmastestimonialinjusticeandhermeneuticalinjustice,
+      respectively.Theformerencapsulatesthewaysthatindividualscanbeharmedasknowers
+      when interlocutors unfairly devalue their epistemic authority in testimonial exchanges.
+      The latter focuses on the asymmetrical hermeneutic resources available to epistemic
+      subjects for making their lived experiences intelligible.
+        The idea that social power conditions what people are predisposed to know or find
+      intelligibleis,ofcourse,notnew,2butithasfoundarigorousphilosophicalarticulationin
+      Fricker’s work. The epistemic injustice approach makes two key contributions to these
+      broader debates about how powerconditions and shapes the workings ofsocial reason.
+      First,itavoidstreatingindividualknowersaspassivedupeswhoblindlyacceptdeficient
+      or otherwise ideological resources. Instead, Fricker tries to show how these (mis)
+      judgementscanbebothepistemicallyandethicallyflawedwhilestillreasonableincertain
+      circumstances.Hervirtue-ethicsapproach,inturn,createsspacefortheorizingindividual
+      epistemic agency (and responsibility) in the face of these systemic patterns of social
+      silencing. And second, Fricker and other analytic philosophers introduce an explicitly
+      normative framework into what was previously a more structuralist approach to social
+      knowledge, whether in the Marxist tradition or within feminist standpoint theory. By
+      adopting thelanguageofinjustice, they givevoice tothelivedexperienceofdisrespect
+      that many individuals face when they are silenced, devalued as knowers, or otherwise
+      renderedlesscapableofcontributingtocollectivemeaning-making,simplybyvirtueof
+      their marginalized positionality within a social hierarchy.
+        Yetevenwiththeseanalyticaladvantages,Iworrythattheepistemicinjusticeliterature
+      runs into theoretical and political obstacles when it comes to the critique of what Paul
+      Gilroycalls‘raciology,[or]thelorethatbringsthevirtualrealitiesof“race”todismaland
+      destructive life’.3In particular, Icontendthat socialepistemologists tend toanalyze the
+      social production of knowledge as an epistemic problem for individual knowers. This
+      leads them to overemphasis the ‘falsity’ of such racist beliefs and to presume that
+      ‘unmasking’ or revealing their epistemic flaws will necessarily eliminate or undo ra-
+      cialized forms of practical consciousness. In this article, I explore this claim primarily
+      throughananalysisofFricker’swork.Thisisprimarilyfortworeasons.First,Fricker’s
+      theorizationremainsattheheartoftheepistemicinjusticedebates.4Sinceitspublication,
+      EpistemicInjusticehassparkedaveritablecottageindustryasscholarshaveappliedher
+      frameworktodiverseaspectsofsociallife.Testimonialinjusticeshavebeenidentifiedin
+      healthcare settings and psychiatric diagnosis,5 in education,6 in governmental crisis
+      response,7inthecriminaljusticesystem,8andinthe#MeTooMovement,9forexample.In
+      turn, hermeneutical marginalization in medical research,10 in academic disciplines like
+      philosophy and anthropology,11 in scientific research,12 and in comedy13 have created
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+      36                           Philosophy and Social Criticism 52(1)
+                                                             
+                                                             
+      unjustgapsincollectiveknowledgeproduction.Andsecond,asIwillargueinthisarticle,
+      Fricker’s project encapsulates and exemplifies how many social epistemologists frame,
+      diagnose, and think about remedying the epistemic distortions and harms that racism
+      produces. While thinkers like Jose´ Medina, Rebecca Mason, Gaile Pohlhaus Jr., and
+      Kristie Dotson have critically revised and expanded on Fricker’s analyses, especially
+      whenitcomestotheorizingtheepistemicagencyofmarginalizedgroups,14muchofthe
+      broader epistemic injustice literature remains tethered to an individualist and overly
+      cognitivistapproachtosocialreason.15Inthisrespect,engagingwithFrickerprovidesan
+      effective demonstrative of both the strengths and limitations of the epistemic injustice
+      approach.                                              
+        This article argues that Fricker’s account of epistemic dysfunction remains too in-
+      dividualized,cognitivist,anddematerializedtoaccountforracializeddiscoursesandtheir
+      politicalconsequences.Ratherthanviewracismasasetofregulativesocialpracticesin
+      racist cultures, Fricker frames identity-driven prejudice as a troubling aberration from
+      otherwise unblemished epistemic and moral norms. At the level of testimonial inter-
+      actions,sheadoptsadisembodiedandoverlyrationalistmodeloftheindividualknower,
+      whichmissesthepsychosocialdynamicsthatcanleadindividualstoadoptflawedbeliefs
+      ortoactinwaysotherwiseinconsistentwiththeirrationalcommitments.Atthestructural
+      levelofsharedhermeneuticalresources,inturn,sheforegroundsanarrowlypropositional
+      accountofsocialknowledge,whichfocuseson“raciallymotivatedconceptsuppression”
+      rather than on racialized imaginaries that remain ethically suspect but have become
+      socially hegemonic. In this respect, the epistemic injustice approach tends to under-
+      theorize, if not outright ignore, the objective conditions under which racialized ideas
+      becomeapartofthesocial“commonsense”andthepracticalknowhowembeddedwithin
+      certaininstitutionalspaces,suchaspolicingorthehousingmarket.Suchadematerialized
+      approach to the problematic of social reason, I’ll argue, means that Fricker places too
+      muchfaithinthesocialefficacyofepistemicnorms.Ultimately,adoptingavirtue-driven
+      approach to remedying epistemic injustices privileges an overly voluntarist and idealist
+      theoryofsocialchange,onethatcentresontrainingbetterknowersratherthanunmaking
+      racialized worlds.                                     
+        ThisiswhyIcontendthattheproblemof‘race’andracializedknowledgeproductionis
+      better tackled by returning to a Marxist-inspired conception of ideology and ideology
+      critique.WithintheMarxisttradition,thenegativistconceptof‘ideology’hasgenerally
+      been used to theorize modes of social knowledge that (a) are epistemically flawed or
+      distorting in some way, (b) emerge out of and become socially hegemonic in largepart
+      because of an unjust arrangement of power relations, and (c) continue to functionally
+      stabilize or reproduce those hierarchies.I contend that a critical conceptionof ideology
+      canbegenerativeforprovidingadeeperlinkbetweeninstitutionalizedpowerhierarchies
+      andsocialgroups’differentiatedperspectivesonthesocialformationinwhichtheylive.16
+      Indoingso,IdrawonStuartHall’scrucialtheorizationoftheideologicalasa‘terrainof
+      struggle’ratherthanasacrudeformoffalseconsciousness.17Whatmakeshismaterialist
+      approach to ideology critique productive, I will argue, is that it moves away from the
+      narrow question of racist beliefs and towards the problem of how certain kinds of ra-
+      cialized knowledge function in order to consolidate and reproduce White hegemony.18
+
+[PAGE 4]
+                                                             
+                                                             
+      Bufkin                                         37      
+                                                             
+                                                             
+                                                             
+        This article proceeds in three parts. I begin by reconstructing Fricker’s account of
+      testimonial injustice(I)andhermeneuticalinjustice(II)toexamineboththeiranalytical
+      potentialandlimitswhenitcomestodiagnosingracializedcognitionunderconditionsof
+      Whitesupremacy.Inthefinalsection(III),Iexplorewhatthetraditionofideologycritique
+      offers antiracist theorizing instead and close by gesturing towards what a materialist
+      conception of racial ideology might look like.         
+                                                             
+      Testimonial silencing and racist devaluation           
+      Fricker develops the concept of ‘testimonial injustice’ to theorize the unfair and prej-
+      udicial forms of social silencing that individual knowers can experience in interactions
+      with other knowers. In listening to another person’s testimony, she points out, hearers
+      mustfirstevaluatewhetherthespeakerisworthyofbelief.19Suchevaluativejudgements
+      often rely upon stereotypes and other cognitive ‘short cuts’ that enable us to quickly
+      ascertain how much epistemic credibility to award to another. But this is where invalid
+      modesofprejudicialthinking–whichassociatecertain‘kindsofpeople’withknowledge
+      or ignorance, trustworthiness or deceit, rationality or irrationality – can distort our
+      judgement. Speakers who are racialized as Black or Brown are therefore likely to be
+      undercutanddevaluedinracistsocieties,giventhecenturiesofideologicalworkthathave
+      framed Black and Brown people as epistemically inferior to White people.20 These
+      distorted credibility judgements, in turn, mean that hearers can give a testimonial ut-
+      terance less authority than it ought to have or that they fail to register the utterance
+      entirely – effectively silencing the speaker and preventing the transmission of
+      knowledge.21                                           
+        Fricker argues that these prejudicial credibility deficits – when systematic – can
+      constituteaspecialkindofepistemicinjustice‘inwhichsomeoneiswrongedspecifically
+      inhercapacityasaknower’(italicsinoriginal).22Tobedevaluedanddisrespectedinthis
+      way, she argues, strikes at the heart of what it means to be a person by denying equal
+      standing as a contributor to collectively produced knowledge.23 When sustained, these
+      experiences of diminishment can drive socially marginalized knowers to silence them-
+      selvesinhostilediscursivespacesandeventodoubttheepistemicvalidityoftheirown
+      perspective.24Fricker,ofcourse,isnotthefirsttoidentifytheoppressiveimpactthatracist
+      stereotypescanhaveonBlacksubjectsasknowers.Blackfeministshavelongcriticized
+      howWhiteunderstandings ofBlack women haveoppressedthem andconstrainedtheir
+      capacitiesforself-expression,andattimes,self-understanding.25Theypointoutthatthese
+      unfair forms of social silencing can have devastating consequences. Black and Brown
+      knowerswhosetestimonialclaimsareinvalidatedordeniedcanbewrongfullyaccused,
+      sentenced,andimprisoned;theycanhavetheirapplicationsforemploymentorhousing
+      denied;theyaremorelikelytobeunderminedandtoexperienceracistdiscriminationat
+      work;theycanbeviolentlysearched,harassed,andkilledbythepolice;andtheycanbe
+      ignoredbytheirdoctorswhentheyreportseriouspainandlife-threateningconditions.26
+      In turn, even small instances of epistemic diminishment – what are often today called
+      ‘microaggressions’27 – can add up, exhausting Black and Brown knowers and making
+      them less motivated to speak openly to White Others.28 In this respect, Fricker’s work
+                                                             
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+      38                           Philosophy and Social Criticism 52(1)
+                                                             
+                                                             
+      doesnotdiscloseanythingthatoppressedknowersdidnotalreadyunderstandaboutthe
+      disempoweringeffectsofsocialstigma.Butitdoesprovideanormativeframeworkwithin
+      social epistemology to acknowledge these instances of silencing as moral wrongs and
+      foregrounds the epistemic dimensions of oppression.    
+        The other advantage of Fricker’s approach is that she explains how an individual’s
+      social positionality matters for who they are predisposed to believe without making
+      recourse to a conspiratorial view of false consciousness.29 As Fricker notes, these
+      prejudicialcredibilitydeficitscanappeartotakeplace‘behindtheknower’sback’,asit
+      were.30Wecanbecomehabituatedtoandinternalizesocialprejudiceinwaysthatcorrode
+      our practical judgement below the level of conscious reflection. Such a vision of how
+      otherwise rational actors can wrongly misperceive and misjudge speakers from stig-
+      matized groups, of course, resonates with contemporary social psychology research on
+      how implicit bias and unconscious prejudice function.31 Other scholars have since ex-
+      pandedonFricker’smodeloftestimonialinjusticetolookatotherwaysinwhichsocial
+      power conditions individual subjects’ judgement in reasonable, if not defensible, ways.
+      Epistemic vices like closed-mindedness,32 centring certain group’s experiences as an
+      unstated norm,33 inculcated practices of inattention and insensitivity,34 affective in-
+      vestments in failing to know,35 controlling narratives that make certain claims unintel-
+      ligibleorunimaginable,36materialandsocialhierarchiesthatawarddifferentdegreesof
+      epistemicpower37–allofthesefactorscaninfluencehowknowledgeisproducedandto
+      whosebenefititoperates.Inthisrespect,socialepistemologistslikeFrickerprovideaway
+      to analyze how individual knowers’ epistemic practices are shaped by social power
+      without sacrificing their critical faculties. Fricker’s project, therefore, brings the action-
+      theoretical level back into view, which enables us to talk meaningfully about epistemic
+      responsibility and ethics.                             
+        AndyetIworrythattheepistemicinjusticeframeworkistoonarrowinitsdiagnostic
+      scopeandtoooptimisticinitspoliticalvisiontobeofmuchuseforantiracistcritiqueand
+      praxis.Ihavetwoprimaryconcerns.First,Fricker’saccountremainsweddedtoanoverly
+      rationalistanddisembodiedmodeloftheindividualsubjectquaknower.Thisbetraysan
+      unsupportable optimism about the guiding force of epistemic norms on individual
+      perception, judgement, belief formation, and action. As social psychologists have
+      documented,individualsoftenactinirrationalways.Theymistakenlyacceptunfounded
+      claims as true because they better align with their existing beliefs.38 They can become
+      materially and libidinally invested in the ‘veracity’ of a particular worldview, either
+      becauseitlegitimatestheirsocialadvantagesoritprotectstheiregoideal.39Perhapsno
+      one has done more to explain the phantasmorgic life of raciological reason than Frantz
+      Fanon, who analyzes how both White and Black subjects can become irrationally and
+      ‘neurotically’attachedtotheontologicalfallacyofthe‘race’idea.Withinracistcultures,
+      ‘the white man is locked in his whiteness’, Fanon argues. ‘The black man in his
+      blackness’.40 By contrast, Fricker’s framework targets only those epistemic mistakes
+      which are socially produced, which ‘track’ existing power hierarchies, and which in-
+      dividuals accept for epistemic reasons, rather than ‘non-epistemic’ reasons like ego
+      protection, material interest, or self-delusion.41     
+                                                             
+
+[PAGE 6]
+                                                             
+                                                             
+      Bufkin                                         39      
+                                                             
+                                                             
+                                                             
+        The second worry that I have with the testimonial injustice approach that Fricker
+      develops is that it offers a largely dematerialized account of social cognition. In her
+      phenomenological account, she treats these testimonial credibility deficits as epistemic
+      mistakes or aberrations.42 Such a narrowly epistemic reckoning with the distorting in-
+      fluence of racialized cognition overlooks the ways in which racisms have become
+      embeddedininstitutionalapparatuses,ineconomicrelationsofproduction,inhegemonic
+      social imaginaries, in the technologies and architectures that arrange and make visible
+      certainkindsofracializedbodiesandlandscapes.Thematerialconditionsthatstructure
+      societiesinracialdominancegenerallyproducea‘racistcommon-sense’43–certainforms
+      ofracializedpracticalknowhowthatrationalindividualsadopttointerpretandnavigate
+      theirworlds,regardlessoftheircognitivecommitmentstotheideaofracialhierarchyor
+      moral investments in White supremacy. This means that it can be both irrational and
+      rationaltomakeracializedjudgements.Suchjudgementsareepistemicallyunreliablein
+      thesensethattheyarebasedonontologicallyfallaciousclaimsaboutdifferent‘kinds’of
+      human beings and their essential (in)capacities. And yet they can be instrumentally
+      reasonableinthatindividualknowersmustnavigateworldswhereracializeddivisionsin
+      the human have become social facts that act with material force. As sociologist Imani
+      Perry points out, the problem is not that many knowers continue to make racist eval-
+      uations of Others at a pre-reflective, non-cognitive level, but more that they make ra-
+      cialized judgements at a reflective level in ways that they don’t see as morally or
+      epistemically problematic.44 For example, police departments deploy more officers per
+      capita in majority-minority urban neighbourhoods because that is ostensibly where the
+      most crime takes place,45 and lenders target Black and other racially minoritized
+      homeowners for subprime mortgage loans to maximize their profits.46
+        By focussing her attention on the narrow set of cases in which individual knowers
+      adopt epistemically flawed beliefs for rational reasons, Fricker’s account ignores the
+      psychosocialandprudentialincentivesthatindividualsmayhaveforinternalizingracial
+      stereotypes and racialized imaginaries. This, in turn, leads Fricker to offer an overly
+      optimisticaccountofhowindividualsmightavoidorfixtheseunjustcredibilitydeficits.
+      Inher2007book,Frickeradoptsavirtue-ethicsapproachtoarguethatindividualknowers
+      must first train themselves out of epistemic ‘vices’ by adjusting their credibility as-
+      sessments‘upwards’toaccountforthesesedimentedanti-Blackbiases.47Overtime,she
+      claims,thesenewcredibility-inflatedjudgementsofBlackspeakerswillbecomehabitual,
+      almostasifagoodknowerhasdevelopedabetter‘epistemicnorm’forthemselves.But
+      therearereasonstodoubtthatevenknowerswhohaveundergonesuchethicalre-training
+      couldapproximatethevirtueoftestimonialjusticewhilethebroadersocialimaginaryis
+      rivenbyracistnarrativesandpresuppositions.48AWhiteknowermayhavebeenableto
+      staveofftheirusualcredibilitydeflationincertaincases,butthoseanti-Blackexpectations
+      lay dormant in the background. It only takes a minor slip-up on the part of the Black
+      speaker(ortheintrojectionofaperceivedthreattotheWhiteknower’sego)fortheentire
+      forceofthenegativestereotypeorimaginarytoreturn.49Theseformsofracialcommon-
+      sense, we might say, remain sedimented into the popular consciousness, and they can
+      easily be reactivated into new forms and interpretative responses.
+                                                             
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+      40                           Philosophy and Social Criticism 52(1)
+                                                             
+                                                             
+        Fricker’s political response to widespread testimonial injustice is largely limited to
+      ethical questions about what it means to become a ‘better’ knower in an unjust world.
+      Suchanarrowlyindividualistapproach,however,locatestheproblemsfirmlyatthelevel
+      of the individual knower and their ‘flawed beliefs’, rather than at the level of socially
+      hegemonicideasandthematerialrelationswhichunderwritethem.Indoingso,itleaves
+      intact–andlargelyunchallenged–theracializedrecognitionalorderthatisalltooreadyto
+      read Blackness as inferiority, laziness, stupidity, and deviance. As Linda Martin Alcoff
+      has pointed out, it is difficult to envision how such an individualist project of self-
+      improvement could ever bring about a wholesale transformation in our shared herme-
+      neutichorizons.50Thatwouldrequireacollectivepoliticsthatcontestsandre-articulates
+      thedominantsetof‘socialideas’andthepracticalcommon-sensethattheyinform.Inthis
+      respect, the epistemic virtue approach foregrounds an idealist account of knowledge
+      productionanda‘voluntarist’modelofsocialchange,wherebywhatisprimarilyrequired
+      to create better worlds are more virtuous knowers – especially White knowers. But as
+      Fanon reminds us, ‘it is... not as a result of the evolution of people’s minds that racism
+      loses its virulence’.51                                
+        To be fair to Fricker, she has since acknowledged the limits of solely focussing on
+      individual virtue as a mechanism for broader social change.52 And she does propose a
+      secondconceptionofepistemicinjusticethatisdesignedtoaddressthisstructuralplaneof
+      socialintelligibility–thatofhermeneuticalinjustice.YetasI’llexploreinthenextsection,
+      her work on hermeneutical marginalization focuses too narrowly on problems of con-
+      ceptual ‘lack’ and not enough on the racialization of existing social imaginaries.
+      Hermeneutical lacunae and concept suppression          
+      Frickerdevelopstheconceptofhermeneuticalinjusticetotheorizehowpowerhierarchies
+      candistortthe‘sharedpool’ofcollectivemeaningswhichindividualknowersusetomake
+      sense of themselves and their worlds.53 Individuals from oppressed social groups, she
+      pointsout,arelikelytobehermeneuticallymarginalized,eitherbecausetheyaresubjected
+      tosystemictestimonialinjusticeorbecausetheydonothavethesameaccesstothekey
+      institutionalsiteslikemediaoutlets,universitiesandschools,thecourts,andtheculture
+      industry that shape the production and dissemination of collective knowledge. Fricker
+      contendsthatpersistenthermeneuticalmarginalizationcanproduceconceptual‘lacunae’,
+      orzonesofunintelligibilityinthesharedsetofsocialmeanings.54Thesehermeneutical
+      gaps,inturn,canproduceadistinctivetypeofinjusticewhentheypreventamarginalized
+      knowerfrommakingsenseofasignificantexperience,eithertothemselvesortoothers.
+      FrickergivestheexampleofCarmitaWood,awomanwhostruggledtobothunderstand
+      andverbalizetootherswhyaworkcolleague’spersistentsexualizedoverturesmadeher
+      souncomfortablebecausetheconceptofsexualharassmenthadnotyetbecomesocially
+      available.55 The epistemic dysfunction here, then, is not one of mistaken credibility
+      judgements in testimonial interactions, but of failures in shared intelligibility driven by
+      differential access to social power.                   
+        Social epistemologists like Medina, Dotson, and Pohlhaus have since critiqued
+      Fricker’s 2007 formulation of hermeneutical injustice for minimizing or eliding the
+                                                             
+                                                             
+
+[PAGE 8]
+                                                             
+                                                             
+      Bufkin                                         41      
+                                                             
+                                                             
+                                                             
+      epistemicagencyofsociallyoppressedgroups.56Thefactthatadominantknowerdoesn’t
+      haveaccesstoaparticularconceptdoesnotmeanthat oppressedknowers alsolack the
+      hermeneutical resources to render their experiences intelligible amongst themselves.
+      More often than not, the oppressed are aware of the shared and social nature of their
+      suffering,andthey’vedevelopedtheirownepistemictoolkittounderstandandtalkabout
+      theirdomination.57Ina2016essay,Frickertakesonboardthisinterventionandclarifies
+      thatinstancesofhermeneuticalinjusticetakeplaceonaspectrumbetweenmaximaland
+      minimalcases.Intheminimalcase,sheargues,anindividualmaybeabletomakesense
+      ofasignificantexperiencewiththeirhermeneutical‘in-group’,butthenecessaryconcepts
+      may not be available to members of the ‘out-group’ – who are more likely to stand in
+      proximity to material resources, social capital, and political power. Minimal herme-
+      neuticalinjustices,then,takeplaceprimarilyatthelevelofknowledgetransmission.By
+      contrast, in the maximal case, an individual does not have access to the hermeneutical
+      resourcesthatcanappropriatelyframetheirexperience.Thiscreatesproblemsnotjustfor
+      social knowledge production, but also for self-knowledge.58 Such maximal cases,
+      however, are few and far between, Fricker says. In making this allowance in her later
+      work,Frickershiftsherstructuralcritiqueofepistemicdysfunctionfromthosegroupsthat
+      arehermeneuticallymarginalizedtowardsthehermeneuticallyprivilegedandtheirfailure
+      toknow.59Suchamoveisawelcomeone,asitmakesspaceforalternativedecodingsof
+      the social world and acknowledges the vital work of subaltern knowledge production.
+        And yetFrickerwants todistinguishheraccount from thekindofsociallyproduced
+      WhiteignorancethatCharlesMillstheorizedinwhichWhiteknowersinracialhierarchies
+      activelycultivateformsof‘unknowing’topursueorprotecttheirownmaterialinterests.
+      Assheputsitina2016essay,‘inthecaseofthestraightforwardracistcognizer’swhite
+      ignorance, there is no hermeneutical gap, indeed no poverty of concepts at all, for the
+      racist cognizer’s ignorance is not caused by any lack of conceptual-interpretative re-
+      sources…Itisanindependentphenomenon,playedoutatthelevelofbeliefand(culpable)
+      epistemicconduct’.60WhileMills’‘racistcognizer’acceptsflawedknowledgeorfailsto
+      know for epistemically suspect reasons, Fricker stresses that cases of hermeneutical
+      injusticegenerallyinvolvegoodknowerswhoaresimplyworkingwithinadequatetools.
+      For example, she argues that hermeneutical injustice perhaps only captures the phe-
+      nomenaof‘raciallymotivatedconceptsuppression’inwhichBlackandBrownknowers
+      are hermeneutically marginalized in racist cultures, thereby ‘kettling’ their concept de-
+      velopment and preventing it from shaping the broader collective hermeneutical re-
+      source.61Inthisrespect,Fricker’sprojectseemsdesignedtoexplaintosomeprivileged
+      knowershowtheycanmeanwellandstillmakebadjudgementsorfailtointerpretthings
+      correctly. This narrow focus, however, invites the question of whether Fricker’s con-
+      ceptualization of hermeneutical injustice actually has all that much to say about racio-
+      logicalunreason,giventhatitonlyaccountsforasmallsetoftheepistemicdysfunctions
+      that emerge out of racial hierarchies.62               
+        PartoftheproblemisthatFricker’saccountisgroundedinanoverlycognitivistand
+      eliteviewofhermeneutical agency–onethatfocusesexclusivelyonthemechanismof
+      ‘conceptuallack’.Inher2007book,shecomparestheseintelligibilitygapstoholesinthe
+      ozonelayerthathappentomakecertainpeoplemorevulnerabletoepistemicobstacles.63
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+      42                           Philosophy and Social Criticism 52(1)
+                                                             
+                                                             
+      ButformsofWhite‘ignorance’orracistcommon-sensedon’tseemtobeprimarilydriven
+      bytheabsenceof‘goodconcepts’butinsteadbythedominanceofracializedimaginaries
+      that legitimate White hegemony and naturalize racial oppression.64 In White settler
+      contexts like that of the U.S., the hermeneutical problems confronting White knowers
+      tendtoderivefromsociallyhegemonicyetfallaciousideasabout‘merit’inemployment
+      or‘rightful’propertyownership,ratherthanfromthelackofconceptslike‘institutional
+      discrimination’ or ‘land expropriation’. (In a similar vein, the postimperial U.K. is
+      structured around an imperial ‘forgetting’ that turns Black and Asian populations into
+      ‘migrants’and‘foreigners’ratherthanBritishcitizens.)ItisnotthatWhiteknowerslack
+      the right cue cards; they are working from a set of ideological scripts that consistently
+      misinterpret or selectively understand social reality.65
+        But perhaps more problematically, Fricker’s theorization of hermeneutical injustice
+      alsoreliesonanidealistaccountofsocialrationality.Byidealist,Imeantwothings.First,
+      thatsheleavesundertheorizedtherelationshipbetweenpowerhierarchiesandthesocial
+      ideas which become practically (rather than merely abstractly) available to specific
+      knowers. And second, she gives the epistemic undue primacy over the socio-structural
+      whenitcomestoamelioratingoppression.Frickeracknowledgesthatdifferentknowersor
+      hermeneutical communities are empowered or disempowered to determine the plane of
+      collective meaning-making, but she does little to analyze ‘the ideological terrains of
+      struggle’crosscutbyasymmetricalpowerrelations.Leftunexaminedarethemassmedia
+      technologies,institutionalapparatuses,architectures,andsystemicrelationsofcapitalthat
+      fuelthecultureindustryandthathelptoconsolidatethesocialcommonsense.Nordoes
+      shemakespaceforthepossibilitythatcertainknowers’perspectivesarenotjust‘partial’
+      or ‘incomplete’ without input from marginalized social groups, but that they stand in
+      contradictionoroppositiontooneanother.Frickertendstoframetheprocessofcollective
+      knowledgeproductionincooperativeterms,wherebypeopleworktogetheringoodfaith
+      to arrive at the ‘best’ meanings or concepts.66 But such a vision of epistemic mutuality
+      ignoresthefactthatsomeknowersarepositionedinrelationsofstructuraloppositionor
+      antagonism, whether by the capitalist mode of production or White supremacist settler
+      colonialism. It is not merely that these social groups’ material interests are at cross
+      purposes–thatis,thattheyarenotmotivatedtocometoanagreementwithoneanother–
+      butthattheirperspectivesonthesocialworldconflict.67OneWhiteknower’sjusticelooks
+      like a Black knower’s injustice; a White community’s ideal of freedom looks to an
+      Indigenous knower like dominion.68                     
+        Bydistancingthesocialproductionofknowledgefromthestructuringfieldofmaterial
+      relations,then,Frickeronceagainendsupplacingtoomuchfaithintheforceofepistemic
+      norms.Inherdiscussionofhowindividualsmightameliorateorrepairforhermeneutical
+      marginalizationandthe‘lacunae’theyproduce,shestressestheimportanceofmakingthe
+      public sphere more dialogic and inclusive.69 If members of marginalized communities
+      wereabletovoicetheirperspectivesonmoreequalterms,thenthequalityofthecollective
+      ‘pool’ of hermeneutical resources will be improved, or so the logic goes. While a
+      laudatoryaim,suchmeasuresarenecessarybutnotsufficienttochallengeorunmakean
+      entire racializedapparatusofseeing,judging,and reasoning about theworld. The mere
+      introduction of subaltern voices into public discourse does not mean that the most
+
+[PAGE 10]
+                                                             
+                                                             
+      Bufkin                                         43      
+                                                             
+                                                             
+                                                             
+      epistemically reliable ideas will ‘win’ the ideological struggle over the nature of social
+      reality. As Emmalon Davis and Medina caution, many marginalized speakers may find
+      thattheirepistemiccontributions–whensharedinthesehegemonicspaces–aresimply
+      ‘appropriated’ and neutralized by dominant knowers, rather than taken up seriously.70
+      Racisms – and the epistemic failures they proliferate – are more material, dynamic and
+      systemicthanthesocialepistemologyliteraturemakesthemouttobe.Theyareembedded
+      inacomplexmatrixofinstitutions,systemicpractices,anddiscoursesthatconnecttheir
+      racializing images of the Other to power hierarchies.  
+        In this respect, Fricker’s ‘dematerialized’ approach to epistemic injustice remains
+      worrying limited, both in its diagnostic scope and its political vision. Social episte-
+      mologistslikeFrickerendupeitherindividualizingepistemicdysfunctionstotheproblem
+      ofthepersonalconsciousnessorofferinganidealizedandabstractaccountofcollective
+      hermeneutical improvement through the ‘addition’ of alternative viewpoints and the
+      concepts they bring. But racial hierarchies cannot be overcome simply by encouraging
+      White knowers to think twice about their credibility evaluations of Black and Brown
+      knowersorthroughthe‘engineering’ofbetterconcepts.Thisisbecauseracisms–forall
+      thattheyareepistemicallyflawedandmorallyrepugnant–arenotanaberrationfromaset
+      of‘better’normsandjudgements,butinsteadhavebecomebothnormalandnormativein
+      racistcultures.Bytreatingracismaslittlemorethanaproblemofbadepistemichabits,
+      Fricker and the broader epistemic injustice project tend to overlook the ways in which
+      racialized cognition operates through and is grounded in routine social praxis, institu-
+      tional apparatuses, and material architectures that delimit proximity to capital.71 The
+      connections between White supremacy as a political project, racialized hierarchies of
+      wealth and status, and the flawed social cognition that they generate go ‘deeper’ than
+      Fricker’sdiscussionsoftestimonialdevaluationandhermeneuticallackwouldindicate,as
+      CharlesMillsputit.72Racializedhierarchiesarefirstandforemostapoliticalproblem,not
+      a moral or even an epistemic one.                      
+        Inthisrespect,whiletheconceptsofhermeneuticalinjusticeandideologymightatfirst
+      glanceseemtoberespondingtoasimilarproblematic,IcontendthatFricker’saccountis
+      addressedtoadifferentsetofquestionsthantheoneswhichmotivateaMarxist-inspired
+      ideology critique. She is primarily concerned with the normative question of when an
+      individual knower can rightly be blamed for failing to know or to understand the ex-
+      perienceofanotherperson.Bycontrast,ideologycritiqueisgenerallyconcernedwith(a)
+      understandinghowcertainsocialideasbecomehegemonic,evenastheyreflectapartial,
+      mythologized,orotherwisesuspectviewoftheworld,andwith(b)disclosingthepower
+      relations that produce and naturalize that epistemically suspect yet socially functional
+      perspective. This iswhy I contend, in the next section, that antiracist critique would be
+      better served by returning to a critical conception of ideology and to the practice of
+      ideologycritique,ifitistoadequatelydisclose,interrogate,andovercomethe‘inverted’
+      and reified worlds produced through raciological reason.
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+      44                           Philosophy and Social Criticism 52(1)
+                                                             
+                                                             
+      Racism and ideology critique                           
+      Marxhimselfdidn’tofferafullyworkedouttheoryofideologyinhiswritings,whichhas
+      ledtoheatedscholarlydebateoverwhattheconceptoughttomeanandtowhatuse,ifany,
+      ideology critique might be put.73 What is clear is that Marx remained committed,
+      throughouthiscareer,tothematerialismpremise,bywhichImeanhisclaimthattheplane
+      of social ideas precipitates out of and is conditioned by the material conditions of in-
+      dividuals’ practical existence.74 At times, he seems too to advance a more critical (and
+      polemical) stance – one that indicts certain forms of social knowledge for both being
+      partial, distorted, or otherwise epistemically suspect and for serving to naturalize cap-
+      italismandlegitimatebourgeoisclasshegemony.WithintheMarxist-inspiredtraditionof
+      ideology critique, this negativist or pejorative approach to ideology tends to combine
+      three key characteristics, according to Raymond Geuss.75 First, an ideological form of
+      knowledgeis,atoneandthesametime,bothtrueandfalse.Second,ideologiesariseoutof
+      oppressive social contexts – not as coincidence, but as a form of knowledge that cor-
+      respondstoandhelpstoconsolidatethosepracticesofdomination.Andthird,ideologies
+      remainfunctionallyentangledwithdominationinthesensethattheysomehowcontribute
+      to or help to stabilize existing power hierarchies.    
+        It ismyclaim thatracismshould beunderstood asanideologicalassemblageinthis
+      negativesense.‘Race’isanobviousexampleofanideologicalphenomenonthatisboth
+      trueandfalseinthewaythatGeuss(followingAdorno)described.76Racialcategoriesare
+      epistemicallysuspectinthesensetheyarebasedonunsoundanddemonstrablyfalseideas
+      aboutessentialhumandifference.Andyettheyareoftenmadetruetotheextentthatthey
+      continuetoactasaregulativesocialnormthatdeterminestheconductofindividualsand
+      institutionsalikeinracialorders.AsHallnotes,‘raceisindeedasociohistoricalconcept,
+      not a transhistorical discourse grounded in biology…the biological trace still functions
+      even when it’s silent, but now, not as truth, but as the guarantor of the truth’.77 Ra-
+      ciological (un)reason takes what is a socially produced and overdetermined
+      phenomenon–thatofracialdifferentiation–andreifiesitintothenaturalandinertorder
+      ofthings.Suchaproject,ofcourse,emergedoutofandlegitimatedearlymodernEurope’s
+      projects of conquest, colonization, enslavement, dispossession, and the industrial
+      management of enslaved and indentured labour in its colonial holdings.78 As an idea,
+      then, ‘race’, isn’t just epistemically untenable. It marks thesite of a profound historical
+      wrong.                                                 
+        This is not to say that the kinds of racist thinking that were hegemonic in the past
+      remainsotoday,northatracismsfunctioninthesamewayunderlatecapitalismthanthey
+      did in the hey-day of European high imperialism. At a representational level, the ‘sci-
+      entific’basesfortheseracialdistinctionshaveshiftedsinceDarwinian-inspiredaccounts
+      of racial determinism. Today, social scientists and cultural commentators have largely
+      abandoned the old anatomical narratives of racial type in favour of newer explanatory
+      modesthatfocuson‘culture’or‘civilization’.79Yetraciologicalreasonremainsasalient
+      part of the collective hermeneutic resource in postcolonial contexts, from the African,
+      Asian,andLatinAmericanpostcoloniestoWhitesettlerstatestotheEuropeanmetropole.
+      To simply note that many scientific discourses have rejected the biological or cultural
+                                                             
+
+[PAGE 12]
+                                                             
+                                                             
+      Bufkin                                         45      
+                                                             
+                                                             
+                                                             
+      basisof racial divisions –which today isnotguaranteed,as thegenomics literature has
+      shown – does not mean that such racial ideas and racialized forms of seeing the world
+      havebeendisinterredfromthelevelofindividuals’practicalconsciousness.Withinthese
+      racial orders, these sedimented forms of common-sense continue to naturalize ‘race’,
+      givingwhatisapoliticalartifactproducedthroughpracticesofsubordinationatleastthe
+      appearance of ‘objective’ facticity.                   
+        Racisms, of course, have historically been and remain intimately related to the sta-
+      bilization ofracialhierarchiesintwoobviousways.First,they providevisiblepractical
+      distinctionsthatbothindividualsandinstitutionsusetodifferentiateamongwhichkinds
+      ofsubjectscanbeconsideredequalandworthyofconcernandwhichcanbeexploited,
+      dispossessed,intimidated,violated,orkilled.80Partofwhatmakes‘race’suchadifficult
+      phenomenontoexposeandcontestisthatitsideologicalworkishiddenbehindthevisual.
+      Asknowers,wearepredisposedtogiveprimacytowhatwecanseewithourowneyes;
+      the power of the visible is such that it appears to be obvious, essential, natural, and
+      immediate – even though an entire social architecture goes into the production of that
+      visibility. ‘The human sensorium has had to be educated to the appreciation of racial
+      differences’, Gilroy notes.81 Identities that are marked on the body prove particularly
+      difficulttodislodgefromthesocialgaze.82Simplydeclaringthatracialdistinctionshave
+      nometaphysicalgroundingdoeslittletocontestthewaysthat‘race’isaregulativesocial
+      factinracializedsocialformationslikethatoftheUnitedStatesorpostimperialBritain.To
+      fail to see racial distinctions, in these conjunctures, is to be a dysfunctional knower. In
+      turn,thoseindividualswhodoadvocateforaninterpretivepostureof‘race-blindness’or
+      pretendto‘notseerace’areperformingapoliticalsleight-of-handthatdeniesthefacticity
+      ofracial perceptiontoavoidthereparativeburdens thatsuchasituationwouldplace in
+      particular on White communities and the state.         
+        Andsecond,racializedideologiesreifyandnaturalizepracticesofracialinequalityby
+      portraying them as somehow natural, rational, or otherwise deserved. Given the natu-
+      ralizingfallacyattheheartofthe‘race’ideaitself,itbecomesalltooeasytoreadthekinds
+      ofdisadvantagethatafflictBlackcommunitiesasproblemsendemictoBlacknessitself.
+      Emirbayer and Desmond note how even sympathetic social scientists can fall into this
+      reification trap when they treat ‘race’ as an independent variable in their analyses, as if
+      belongingtoaminoritygrouphadsomeindependentcausalforceofitsownratherthan
+      simply marking out a complex site through which power operated.83 The problem then
+      doesn’tliewithanti-Blackracisms,racialcapitalismoraWhite-controlledstateapparatus
+      that today manages racialized populations through strategies of organized neglect. In-
+      stead, this picture of racialized inequality is explained through a series of racist and
+      racialized tropes – it’s the Black subject’s ‘inferior nature’, the ‘dysfunctional’ Black
+      family, the ‘violent excesses’ of Black street culture that are to blame. In this respect,
+      raciologicalthinkingcandelimitwhatsortsofsufferingsarevisibleandseenasworthyof
+      redressaswellasconditionthepoliticalimaginariesandstrategiccoalitionsthatappear
+      possible.                                              
+        Iamofcoursenotthefirsttoarguethatracismsandracialthinkingshouldbethought
+      of in ideological terms. Radical Black political thought has long analyzed how White
+      supremacyproducesitsownformsofraciologicalunreason,evenifthesethinkersdidnot
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+      46                           Philosophy and Social Criticism 52(1)
+                                                             
+                                                             
+      embrace the language of ‘ideology’ or ‘ideology critique’.84 More recently, political
+      theoristslikeCharlesMills,TommieShelby,andSallyHaslangerhavemadeadirectcall
+      forareturntothinkingaboutracismsthroughthelensofanegativistideologycritique.85
+      As Shelby puts it, ‘It is the task of the specifically epistemic dimension of ideology-
+      critiquetounmaskorrevealtheillusorycharacterofracistandotherideologies’.86Ihave
+      learnedmuchfromtheirwork,andyetthis‘newideologycritique’,asKirunSankaranhas
+      describedit,87hasgenerallypaidmoreattentiontotheepistemicandmoraldimensionsof
+      racial thinking than to its socio-theoretical function in the reproduction of racial hier-
+      archies. Such a narrow preoccupation with the epistemic or moral sufficiency of social
+      ideas, however, tends to offer an overly rationalist account of social change – one that
+      presumes that individuals will be motivated to change their practices if their con-
+      sciousnesscanberaised.ButasKeunchangOhnotes,‘Knowingepistemicormoraltruth
+      does not by itself overcome ideology’.88               
+        ThisiswhyIcontendthatantiracistideologycritiqueneedstopaymoreattentiontothe
+      socio-functional dimensions of raciological (un)reason if it is to fully grasp the ‘deep
+      connection’ between racial hierarchies and racialized praxis.89 It is vital to theorize the
+      subjectivedimensionsofepistemicpraxisinrelationtotheobjectiveconditionsofsocial
+      lifethatmakeparticularwaysofseeing,knowing,andevaluatingintocontrollingnorms.
+      A materialist and pragmatic conception of ideology critique, in my view, would move
+      beyond this narrow methodological focus on individual knowers and their epistemic
+      deficiencies and instead adopt a socio-theoretical concern with, as Stuart Hall puts it,
+      giving‘anaccount,withinamaterialisttheory,ofhowsocialideasarise’.90Suchatask,
+      therefore, requires analyzing how mass technologies, institutional apparatuses, material
+      relations of production and capital accumulation, and existing hegemonic discourses
+      conditionthepracticesofculturalmeaning-makingwithindiscreteconjunctures–withan
+      eye to diagnosing how specific ideas become articulated to relations of domination or
+      practicesofinequality.91Thisnecessarilyreturnstheproblemofknowledgeproductionto
+      theplaneofhistoricalconcreteness.Anditoffersamorecomplexaccountofhowideas,
+      both elite and popular, intersect with the relations of force that stabilize particular
+      governingcoalitions–withoutrelyingonmechanisticorelitistnarrativesoftheoppressed
+      as ‘dupes’.92 As Hall points out, what is interesting about ideologies is not necessarily
+      what is false or falsifiable about them, but what about them appears to be true or pro-
+      ductive for helping certain individuals make sense of their world.93
+        A materialist commitment to ideology critique, then, provides three key advantages
+      over the epistemic injustice literature when it comes to interrogating and contesting
+      racializedimaginariesinWhitesettlerstatesandpostcolonialcontexts.First,itreplacesan
+      individualistandcognitivistemphasisonracistbeliefsasakindofepistemicmistakeand
+      moral aberration with an account that acknowledges how racisms have become normal
+      andnormativeinthewakeofcolonialcapitalismandEuropeanimperialrule.AsFrantz
+      Fanonpointedout,‘Theracistinaculturewithracismisthereforenormal’.94Secondand
+      relatedly, ideology critique can account for the way in which raciological reason is not
+      merely ‘true’or‘false’butfunctions asa‘regime oftruth’95ingivensocialorders.For
+      whileracialdistinctionsmightnothaveanontologicalgrounding,theyoftenhavebeen
+      made ‘true’ by an entire architecture of racialized world-making whose ‘epistemic
+
+[PAGE 14]
+                                                             
+                                                             
+      Bufkin                                         47      
+                                                             
+                                                             
+                                                             
+      grounding’isseentobeasobviousandnaturalasthevisualsignoftheracedbody.The
+      epistemic injustice literature tends to under-describe the kind of ontological fallacy at
+      workinracializationbycharacterizingitmerelyasaproblemofbadbelief.Andthird,a
+      materialist version of ideology critique jettisons a virtue-ethics approach to creating
+      ‘better’ (i.e. antiracist) knowers as overly voluntarist and individualized, preferring in-
+      steadtofocusonthecollectivepoliticalworkneededtochangetheracializedworldsand
+      racist cultures that make prejudice appear to be both instrumentally rational and inter-
+      subjectivelyreasonable.Thesolutionhereisnotlinkedtotheproliferationofunconscious
+      biastrainingorantiracistself-helptechniques,butinsteadtothedifficultworkofsocial
+      transformationandpoliticalcontestation.AsHallnotes,racismcannotbe‘overcome,asa
+      general virus in the social body, by a heavy dose of liberal inoculation’.96
+        Antiraciststruggle,inthissense,canandoughttotakeplaceonmanydifferentfronts,
+      in keeping with the Gramscian ‘war of position’ waged across industrial relations, the
+      stateandcivilsociety.97Ultimately,suchapoliticsmustbegearedtowardsthematerial
+      dismantlingofsocialformationsstructuredinracialdominance–whichwillrequireboth
+      antiracist challenges to state power and policing, for example, as well as a broader
+      campaigntoseizecontrolbackfromcapitalanditsracializedlogicsofdispossessionand
+      exploitation. But when it comes to challenging the discursive production of racist
+      commonsense and its political mobilization for oppressive and exploitative ends,
+      however, there are two obvious sites of intervention. First, critical social theorists and
+      activists alike can get involved directly in the demystifying critique of the racialized
+      narratives,affects,andimaginariesthatreactionarypopulismsareweaponizingtodayto
+      winpopularsupportforauthoritarianpolicies,especiallyinthewakeofneoliberalefforts
+      toselloffthewelfarestateforscrap.Andsecond,wecanworktodemocratizeandreshape
+      theinstitutionalapparatusesthatconsolidatethemainstream‘common-sense’–including
+      schools, corporate-funded mass media, the culture industry, and social media networks
+      that monetize violent spectacle, racialized and engendered affects, and conspiratorial
+      thinking.Noneofthiscollectivework,ofcourse,willbeeasy.Butitshowsthatmerely
+      revealingtheepistemicandmoralfailuresinherenttoallracistthinkingcannotbetheend
+      goalofantiracistorganizing.Insteadoffocussingonquestionsoftruthorfalsity,antiracist
+      critique should instead seek to understand what political work racisms accomplish in
+      concrete historical formations.98 Only then can we understand how best to target and
+      dismantlethesocialforcesthatcontinuetomakeracistideologiesmateriallyeffectivein
+      the aftermath of empire.                               
+      Conclusion                                             
+      The epistemic injustice literature provides a promising look at how individual knowers
+      can be, so to speak, ‘taken in’ by racist imaginaries – and how Black knowers can be
+      denied the opportunities to challenge those hegemonic hermeneutical resources. But as
+      I’vearguedinthisarticle,Fricker’sprojectremainsworryinglylimitedwhenitcomesto
+      conceptualizingandamelioratingtheformsofraciologicalreasonoperativewithinWhite
+      settlerandpostimperialsocialformations.Hertheorizationsoftestimonialinjusticeand
+      hermeneuticalincapacityconstrueracismprimarilyasanepistemicproblem–asaseries
+                                                             
+                                                             
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+      48                           Philosophy and Social Criticism 52(1)
+                                                             
+                                                             
+      of mistaken judgements with immoral consequences. Yet within racial hierarchies like
+      thatoftheUnitedStates,thereisnoregularepistemicnormagainstwhichwecanmeasure
+      oraccountforthe‘devaluation’thatanti-Blackimaginariesinjectintoepistemicsubjects’
+      interiorreasoningprocesses.Racializedstereotypes,images,andaffectscathectandshape
+      ourinterpretativejudgementsincomplicatedways.Itismisguidedtothinkthatloneand
+      ‘virtuous’individuals could fully eliminate these racist pre-judgements and habits from
+      their practical way of being-in-the-world while the social institutions, modes of gov-
+      ernance,andnormativepracticesthatmakeraceapartofthe‘real’relationsoftheirsocial
+      livesareleftuntouched.Inthisrespect,hervirtue-ethicsapproachtotheameliorationof
+      these epistemic injustices fails to offer the correct political teeth when it comes to re-
+      pairing the deleterious effects of these racialized imaginaries.
+        Insteadoftheorizingracistsocialcognitionthroughanoptimisticaccountofepistemic
+      norms, then, Iargue that politicaltheorists ought toreturn toa negativist conception of
+      ideologyandideologycritique.Indoingso,Iamnotadvocatingforacrudeaccountof
+      falseconsciousnesswherebytheoppressedhavebeendupedorotherwiseincapacitated
+      by the ideas and concepts of the ruling class (or a racialized class segment). Instead, I
+      followtheworkofStuartHallinarguingforamorepragmaticandmaterialistconception
+      of ideology that sees raciological imaginaries as part of a broader field of ideological
+      contestationbetweendifferentlysituatedpublics.Thismaterialistapproachtoraciological
+      unreason,inturn,providesawayofdisclosingandcontestingthe‘deeper’connections
+      between racial capitalism and White supremacy, on the one hand, and the forms of
+      racialized ‘common-sense’, on the other. Namely, it treats racisms first and foremost as
+      political artifacts, rather than as mere epistemic mistakes or moral errors. After all, ra-
+      cialized narratives, images, and concepts, therefore, can on one level be indicted for
+      corroding individuals’ capacities as epistemic subjects and yet, on the other, seem to
+      respondtothesystemicimperativesofaracialorderthatfiercelyconditionswhatcanbe
+      saidoractedupon.Byreclaimingideologycritiqueforantiracisttheorizingandpolitics,
+      scholars and activists alike can move beyond narrowly individualist projects geared
+      towards making White people ‘better knowers’ and instead towards challenging the
+      institutional apparatuses, mainstream discourses, and hegemonic political coalitions
+      whichcontinuetomakeracismsintopoliticallysalientandeconomicallyrationalmodes
+      of reasoning and practice.                             
+      Acknowledgements                                       
+      ThankyoutoLoisMcNay,JohnMcGowan,PatrickWheatley,andthePoliticalTheoryResearch
+      GroupattheUniversityofBirminghamforprovidingthoughtfulfeedbackonearlierdrafts.Iwould
+      alsoliketothanktheDepartmentofPoliticalScienceandInternationalStudiesattheUniversityof
+      Birmingham forits researchsupport.                     
+      ORCID iD                                               
+      SarahBufkinhttps://orcid.org/0000-0002-3088-2951      
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 16]
+                                                             
+                                                             
+      Bufkin                                         49      
+                                                             
+                                                             
+                                                             
+      Notes                                                  
+       1. SeeFricker,EpistemicInjustice;Medina,TheEpistemologyofResistance;Fricker,‘Epistemic
+         Injustice andthePreservation of Ignorance’.         
+       2. LongbeforeFricker’sbookwaspublished,theentanglementofsocialpowerandknowledge
+         production had surfaced as a distinctive problematic within different scholarly milieus, in-
+         cludinginBlackfeminism,feministstandpointepistemology,theMarxist-inspiredtraditionof
+         ideologycritique,andpostcolonialanddecolonialtheory’scritiquesofthecolonialityofthe
+         Westernepisteme.Thesepredecessorsandpointsoftheoreticaloverlapoftengounrecognized
+         in theepistemic injusticedebates.                   
+       3. Gilroy,Against Race,11–12.                         
+       4. Forexample,RachelMcKinnon’s2016reviewarticleontheepistemicinjusticedebatescentres
+         Fricker’s work.McKinnon,‘Epistemic Injustice’.      
+       5. Carel and Kidd, ‘Epistemic Injustice in Healthcare’; Kidd, Spencer, and Carel, ‘Epistemic
+         Injustice inPsychiatric Research andPractice’.      
+       6. Kotzee, ‘Education and Epistemic Injustice’; Omodan, ‘Unveiling Epistemic Injustice in
+         Education’.                                         
+       7. Doan,‘Epistemic Injustice andEpistemic Redlining’. 
+       8. Sullivan,‘Epistemic Injustice andthe Law’; Lackey,Criminal Testimonial Injustice.
+       9. Ha¨nel, ‘#MeToo and Testimonial Injustice: An Investigation of Moral and Conceptual
+         Knowledge’.                                         
+      10. Michaels, ‘Potential for Epistemic Injustice in Evidence-Based Healthcare Policy and
+         Guidance’.                                          
+      11. Alcoff, ‘Philosophy and Philosophical Practice: Eurocentrism as an Epistemology of Igno-
+         rance’;Tsosie,‘IndigenousPeoples, Anthropology,andthe Legacy of Epistemic Injustice’.
+      12. Grasswick, ‘Epistemic Injustice in Science’; Herzog and Lepenies, ‘Citizen Science in De-
+         liberative Systems’.                                
+      13. Butterfield,‘ComedicHermeneutical Injustice’.      
+      14. See,forexample,Davis,‘Typecasts,Tokens,andSpokespersons’;Dotson,‘TrackingEpistemic
+         Violence, Tracking Practices of Silencing’; Dotson, ‘A Cautionary Tale’; Medina, The
+         Epistemology of Resistance; Mason, ‘Two Kinds of Unknowing’; Medina, ‘Ignorance and
+         RacialInsensitivity’;Pohlhaus Jr,‘Relational KnowingandEpistemic Injustice’.
+      15. Thereare,ofcourse,exceptionstothiswithintheepistemicinjusticeliterature.Forexample,
+         KristieDotsontakesastructuralandsystemicviewtotheproblemsofknowledgeproduction
+         anddissemination,especiallyinherlaterworkonconceptualizingepistemicoppression.My
+         critiqueinthisarticleisdirectedattheindividualistapproachtakenbyFrickerandMedina.Iam
+         generally in agreement with Dotson’s discussion of the difficulties of resolving epistemic
+         exclusionsproducedby‘features’internaltoepistemologicalsystemsthemselvesratherthan
+         socialandpoliticalrelations.ThecritiquethatImobilize,however,isoperatingatadifferent
+         level of abstraction and sociological scale. Rather than target the limits of a hegemonic
+         epistemologicalsystemassuch,Iammoreconcernedwiththeprocessesbywhichcertainideas
+         becomemateriallyeffectiveinconcretesocialformations–bywhichImeanthattheyworkto
+         naturalizeorotherwiselegitimateexistingracialhierarchiesandcontributetothepracticesof
+         racialinequalityanddominationthatreproducethosehierarchies.ForDotson’sincisiveaccount
+                                                             
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+      50                           Philosophy and Social Criticism 52(1)
+                                                             
+                                                             
+         of epistemic oppression, see Dotson, ‘Conceptualizing Epistemic Oppression’; Dotson,
+         ‘Accumulating Epistemic Power’; Berenstain et al., ‘Epistemic Oppression, Resistance, and
+         Resurgence’.                                        
+      16. In recent years, there has been a renewed interest in ideology critique, including among
+         analytical political philosophers, self-described ‘political realists’, and Critical Theorists
+         workingintheFrankfurtSchooltradition.Partofthatsurgeinscholarlyengagementcanbe
+         explainedbythechangingobjectiveconditionswhichhaveposedanewproblemsthatbreak
+         withliberalmodesofpoliticalreason–fromdisinformationandpropagandacampaignstothe
+         consolidationofnewauthoritarian-popularformationsunderthebannerofethno-nationalism.
+         See, for example, Celikates, ‘From Critical Social Theory to a Social Theory of Critique’;
+         Jaeggi, ‘Rethinking Ideology’; Ng, ‘Ideology Critique from Hegel and Marx to Critical
+         Theory’;Stanley,HowPropagandaWorks;Haslanger,‘TakingaStand:Second-OrderSocial
+         PathologiesorFirst-OrderCritique’;AytacandRossi,‘IdeologyCritiquewithoutMorality’.
+      17. Hall, ‘TheProblem of Ideology: Marxism without Guarantees’,151.
+      18. Inthisrespect,myapproachtoideologycritiquediffersinemphasisfromtheepistemological
+         approachadvocatedrecently bypolitical realists likeUgurAytacandEnzoRossias wellas
+         from the moralist approach taken by Haslanger and Shelby. While both approaches hit on
+         importantaspectsofideologicalphenomena,Ithinkthattheyeachoveremphasize–intheir
+         ownways–theproblematicoriginsof‘badbeliefs’andundertheorizethesociologicalrelation
+         between these ideas andthereproduction of powerasymmetries.
+      19. Fricker,Epistemic Injustice,60.                    
+      20. SeeHannaford,Race;McCarthy,Race,Empire,andtheIdeaofHumanDevelopment,73–78;
+         Staub, TheMismeasureofMinds.                        
+      21. Fricker,Epistemic Injustice,28.                    
+      22. Fricker,20.                                        
+      23. Fricker,145.                                       
+      24. ScholarslikePaulGiladiandNicolaMcMillanhavenotedthetheoreticalsimilaritiesbetween
+         Fricker’s concept of epistemic injustice and Axel Honneth’s use of a Hegelian account of
+         intersubjectiverecognition.SeeGiladiandMcMillan,EpistemicInjusticeandthePhilosophy
+         of Recognition.                                     
+      25. Forexample,PatriciaHillCollinsexaminedhowBlackwomenareregularlysubjectedtoracist
+         andsexist‘controllingstereotypes’,includingthatofthemammy,thematriarch,thewelfare
+         queen, and the jezebel. Patricia Hill Collins, Black Feminist Thought: Knowledge, Con-
+         sciousness,andthePoliticsofEmpowerment,seconded.(NewYork;Routledge,2000),72–84.
+      26. For an overview of ongoing practices of racial inequality in diverse areas of social life, see
+         Perry,MoreBeautiful andMoreTerrible,35–37.          
+      27. Sue, Microaggressions inEveryday Life.             
+      28. Dotson, ‘TrackingEpistemic Violence, TrackingPractices of Silencing’,247.
+      29. CriticshavepointedoutthatMarxistideologycritiquehastendedtotreatindividualsubjectsas
+         littlemorethanpassivevesselsfortheimprintsofstructuralandsymbolicforces.Rehmann,
+         TheoriesofIdeology,6;Hall,‘TheProblemofIdeology:MarxismwithoutGuarantees’,141.
+      30. Fricker,Epistemic Injustice,37.                    
+      31. Brownstein and Saul, Implicit Bias and Philosophy; Holroyd and Puddifoot, ‘Epistemic In-
+         justice andImplicit Bias’.                          
+
+[PAGE 18]
+                                                             
+                                                             
+      Bufkin                                         51      
+                                                             
+                                                             
+                                                             
+      32. Medina, TheEpistemology ofResistance,35–39.        
+      33. Mills, ‘White Ignorance’,25.                       
+      34. Medina, ‘IgnoranceandRacial Insensitivity’,182.    
+      35. Spelman, ‘ManagingIgnorance’,122.                  
+      36. Medina, TheEpistemology ofResistance,67–69.        
+      37. Dotson, ‘ConceptualizingEpistemic Oppression’, 125–26.
+      38. See, for example, Joel Cooper, Cognitive Dissonance; Prasad et al., ‘“There Must Be a
+         Reason”’;Naurothetal.,‘TheEffectsofSocialIdentityThreatandSocialIdentityAffirmation
+         onLaypersons’ Perceptionof Scientists’.             
+      39. ForaviewpredicatedonWhiteknowers’materialinterestsinnotknowing,seeMills,‘White
+         Ignorance’.                                         
+      40. Fanon,BlackSkin, White Masks,xiv.                  
+      41. Fricker,‘Epistemic Injustice andthePreservation of Ignorance’,170–72.
+      42. While there is no ‘precise science’ of appropriately attributing credibility to other knowers,
+         Fricker notes, ‘clearly there can be error in the direction of excess or deficit…’ Fricker,
+         Epistemic Injustice,18.                             
+      43. Hall, ‘TheWhites of TheirEyes: Racist Ideologies andtheMedia’,101.
+      44. Perry,MoreBeautiful andMoreTerrible,21, 31.        
+      45. For a discussion of policing and ‘crises’ over Black men and other racialized deviants, see
+         Felker-Kantor,PolicingLosAngeles..ForasimilaranalysisofBritain,seeGilroy,‘ThereAin’t
+         NoBlack inthe UnionJack’.                           
+      46. Nguyen andPontell,‘Fraud andInequalityin the Subprime Mortgage Crisis’.
+      47. Fricker,Epistemic Injustice,91.                    
+      48. Sherman, ‘There’s No (Testimonial) Justice’, 244–45; Dotson, ‘Conceptualizing Epistemic
+         Oppression’,129.ForadefenceofFricker’sturntovirtueepistemology,seeMcWilliams,‘Can
+         Epistemic Virtues HelpCombat Epistemologies ofIgnorance?’
+      49. FanondiscussesthereactivationofracialstereotypesinthecaseofaBlackdoctor.Fanon,Black
+         Skin,White Masks, 97.                               
+      50. Alcoff,‘Epistemic Identities’, 131.                
+      51. Fanon,Towardthe AfricanRevolution,35.              
+      52. Fricker,‘Epistemic Injustice andthePreservation of Ignorance’,175–76.
+      53. Fricker,163.                                       
+      54. Fricker,Epistemic Injustice,155–59.                
+      55. Fricker,149–51.                                    
+      56. SeeMedina,TheEpistemologyofResistance;Mason,‘TwoKindsofUnknowing’;PohlhausJr,
+         ‘Relational KnowingandEpistemic Injustice’; Dotson, ‘ACautionary Tale’.
+      57. Hill Collins, Black FeministThought,8.             
+      58. Fricker,‘Epistemic Injustice andthePreservation of Ignorance’,165–67.
+      59. GailePohlhausdevelopsheraccountofprivilegedknowers’‘willfulhermeneuticalignorance’
+         partly in response to Fricker’s focus on the marginalized knower in her account of herme-
+         neutical injustice. PohlhausJr,‘Relational KnowingandEpistemic Injustice’,724–25.
+      60. Fricker,‘Epistemic Injustice andthePreservation of Ignorance’,172.
+      61. Fricker,175.                                       
+                                                             
+
+[PAGE 19]
+                                                             
+                                                             
+                                                             
+      52                           Philosophy and Social Criticism 52(1)
+                                                             
+                                                             
+      62. DotsonandPohlhausraisesimilarconcernsabouthowFricker’snarrowconceptualizationof
+         testimonial and hermeneutical injustice overlooks other kinds of culpable epistemic dys-
+         function,includingwilfulformsofsituatedignorancethatharmmarginalizedknowers.Dotson
+         describes these ‘contributory injustices’ as pervasive. Dotson, ‘A Cautionary Tale’, 41;
+         PohlhausJr, ‘Relational KnowingandEpistemic Injustice’,734.
+      63. Inherrevisedreflectionsonhermeneuticalinjusticeinthe2016chapter,shestressesyetagain
+         that the defining feature of hermeneutical injustice is ‘some impoverishment in shared con-
+         ceptual resources’Fricker,‘EpistemicInjustice andthe Preservation of Ignorance’,173.
+      64. AudreLorde’sanalysisofthe‘mythicalnorm’oftheWhite,male,cisgender,heterosexual,and
+         middle-class subjectis illustrative here. SeeLorde,Sister Outsider, 116.
+      65. Fricker, notably, describes motivated forms of White ignorance as a ‘racialised form of
+         ideologicalthinking’,lendingfurthercredencetomyclaimthatatheoryofideologyprovidesa
+         moreusefultoolkitfordemystifyingandcritiquingraciological(un)reason.Fricker,‘Epistemic
+         Injustice andthePreservation of Ignorance’,170.     
+      66. Charles Mills raises a similar point when he worries that Fricker’s account of knowledge
+         production istoo liberal. Mills, ‘Ideology’,106.    
+      67. AsStuartHallandhisCCCScolleaguespointedoutintheirdiscussionoftheconflictbetween
+         theWhiteandBlackworkingclassesin1970sBritain,itwasn’tthatworkersfrombothgroups
+         were operating under some sort of ‘false consciousness’, but that ‘race’ had become the
+         phenomenalformthroughwhichtheirspecificclasspositionwasbeinglivedout.Halletal.,
+         Policing the Crisis,394–5.                          
+      68. See,forexample,CristinaBeltra´n’sbookonhowU.S.democracyispredicatedonthefreedom
+         of White movement, at the expense of Indigenous peoples and their claims to their land.
+         Beltra´n, Cruelty as Citizenship.                   
+      69. Frickerdoesn’tprovidemuchonwhatsortsofpoliticalsolutionsmightbewarranted,butshe
+         notesthat‘structuralremedies’totheproblemofhermeneuticalmarginalizationare‘nodoubt
+         called for’.Fricker,‘Epistemic Injustice andthe Preservation of Ignorance’,175–76.
+      70. Davis, ‘OnEpistemic Appropriation’; Medina,‘Group Agential Epistemic Injustice’.
+      71. Bufkin, ‘ThePolitics of WhiteMisrecognition andPractices ofRacial Inequality’.
+      72. Mills, ‘Ideology’,110.                             
+      73. The Marxist tradition of ideology critique, of course, has not been without its detractors.
+         Scholars have criticized its practitioners for offering a crude account of the ‘false con-
+         sciousness’oftheoppressed;foroverinflatingandnaturalizingthecritic’spresumedepistemic
+         authority and greater insight into the nature of oppression; and for blaming the absence of
+         organizedresistancetocapitalon‘falsebeliefs’amongtheworkersinsteadofattributingitto
+         theirlackofpower.See,forexample,Rosen,OnVoluntaryServitude;Celikates,‘FromCritical
+         SocialTheorytoaSocialTheoryofCritique’;Sankaran,‘What’sNewintheNewIdeology
+         Critique?’                                          
+      74. Marx, ‘Prefaceto AContribution to the Critique ofPolitical Economy’,159–60.
+      75. Geuss, TheIdeaof a CriticalTheory,13.              
+      76. Adornowritesthat‘truthanduntrutharealwaysintertwined’inideologies.QuotedinJaeggi,
+         ‘Rethinking Ideology’,66.                           
+      77. Hall, ‘Subjects inHistory’,330.                    
+      78. Goldberg, TheThreat of Race,329.                   
+
+[PAGE 20]
+                                                             
+                                                             
+      Bufkin                                         53      
+                                                             
+                                                             
+                                                             
+      79. Gilroy,Against Race,25.                            
+      80. Mbembe, ‘Necropolitics’, 16–25; Gilroy,After Empire,46–49.
+      81. Gilroy,Against Race,42.                            
+      82. Fanon,BlackSkin, White Masks,89.                   
+      83. Emirbayer andDesmond, TheRacialOrder,3–5.          
+      84. Forexample,W.E.B.DuBoisclaimedthatWhiteworkerschoseanalliancewithWhitecapital
+         becausetheyhadbecomemoreaffectivelyinvestedinthesymbolicstatusaffordedbyashared
+         whitenessthantheywereintheprospectofbuildingclasspowerwithBlackworkers.SeeDu
+         Bois, Black Reconstruction in America. For an in-depth discussion of racist discourses that
+         foregroundstheir ‘ideological’ elements, seeGoldberg,Racist Culture.
+      85. See,forexample,Shelby,‘IsRacisminthe“Heart”?’;Shelby,‘Ideology,Racism,andCritical
+         SocialTheory’;Shelby,‘Racism,Moralism,andSocialCriticism’;Mills,TheRacialContract;
+         Mills,‘Ideology’;Haslanger,‘Racism,Ideology,andSocialMovements’;Haslanger,Ideology
+         in Practice.                                        
+      86. Shelby,‘Ideology, Racism,andCritical Social Theory’, 169.
+      87. Sankaran,‘What’sNewin the NewIdeologyCritique?’    
+      88. Oh,‘Critiquing Racist Ideologyas HarmfulSocial Norms’,11.
+      89. Idonothavethespaceinthisarticletogiveafullaccountofwhatthemorematerialistapproach
+         toideologycritiqueentailsandhowitoperates,butIamworkingonanarticlethatreconstructs
+         thisalternative approach basedonthe workof Stuart Hall.
+      90. Hall, ‘TheProblem of Ideology: Marxism without Guarantees’,136.
+      91. Inthisrespect,myprojectsharessomekeyaimswiththepoliticalrealistapproachtoideology
+         critique.AytacandRossistressthatthecriticaltest,instead,shouldbewhetherabelieforsetof
+         ideaswereproducedbyformsof‘self-justifyingpower’–thatis,bysociallydominantgroups
+         who are free to circulate their own motivated beliefs without sufficient accountability or
+         epistemic contestation from subordinate knowers. In doing so, they return to the etiological
+         premisecentraltoaMarxistaccountofideology,namely,thatpowerrelationsconditionwhich
+         modes of knowledge are taken up as authoritative. But I worry that their epistemological
+         analysesfocustoomuchonoriginsandnotenoughonthesocialandpoliticalworkthatcertain
+         rationalitiesandmodesofknowingdo,regardlessofwhocomesupwiththem.Thisislikely
+         moreofadifferenceindiagnosticemphasisthanitisofconceptualkind.SeeAytacandRossi,
+         ‘IdeologyCritique without Morality’.                
+      92. Gramsci, The Modern Prince, and Other Writings, 157; Hall, ‘Gramsci’s Relevance for the
+         Studyof Race andEthnicity’,317–21.                  
+      93. Hall, ‘TheProblem of Ideology: Marxism without Guarantees’,149.
+      94. Fanon,Towardthe AfricanRevolution,40.              
+      95. Foucault, ‘ThePolitical Functionof the Intellectual’,13.
+      96. Hall, ‘Race,Articulation, andSocieties Structured in Dominance’,240.
+      97. Hall, ‘Gramsci’s Relevance for the Studyof RaceandEthnicity’, 311–14.
+      98. Hall, ‘Race,Articulation, andSocieties Structured in Dominance’,234–36.
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 21]
+                                                             
+                                                             
+                                                             
+      54                           Philosophy and Social Criticism 52(1)
+                                                             
+                                                             
+      References                                             
+      Alcoff,LindaMart´ın.2010.“EpistemicIdentities.”Episteme7.no.2:128–137.DOI:10.3366/epi.
+         2010.0003.                                          
+      Alcoff,Linda Mart´ın.2017. “Philosophy andPhilosophical Practice: Eurocentrism as anEpiste-
+         mologyofIgnorance.”InTheRoutledgeHandbookofEpistemicInjustice,editedbyIanJames
+         Kidd,Jose´ Medina,andGailePohlhausJr,397–408.Milton,U.K:Taylor&FrancisGroup.
+      Aytac, Ugur, and Enzo Rossi. 2023. “Ideology Critique without Morality: A Radical Realist
+         Approach.” The American Political Science Review 117. no. 4: 1215–1227. DOI: 10.1017/
+         S0003055422001216.                                  
+      Beltra´n,Cristina.2020.CrueltyasCitizenship:HowMigrantSufferingSustainsWhiteDemocracy.
+         Minneapolis, MN:U of MinnesotaPress.                
+      Berenstain, Nora, Kristie Dotson, Julieta Paredes, Elena Ru´ız, andNoenoe K.Silva. 2022. “Ep-
+         istemicOppression,Resistance,andResurgence.”ContemporaryPoliticalTheory21.no.2:
+         283–314. DOI:10.1057/s41296-021-00483-z.            
+      Brownstein, Michael, and Jennifer Saul. 2016. Implicit Bias and Philosophy: Metaphysics and
+         Epistemology.Volume 1.Oxford, UK:Oxford University Press.
+      Bufkin,Sarah.2021.“ThePoliticsofWhiteMisrecognitionandPracticesofRacialInequality.”In
+         ParadigmsofJustice:Redistribution,Recognition,andBeyond,editedbyDeniseCelentano,
+         andLuigiCaranti, 184–209.London; NewYork: Routledge.
+      Butterfield, Paul.2022. “ComedicHermeneutical Injustice.”Hypatia 37.no.4: 688–704.
+      Carel, Havi, and Ian James Kidd. 2014. “Epistemic Injustice in Healthcare: A Philosophical
+         Analysis.”Medicine,HealthCare,andPhilosophy17.no.4:529–540.DOI:10.1007/s11019-
+         014-9560-2.                                         
+      Celikates,Robin.2006.“FromCriticalSocialTheorytoaSocialTheoryofCritique:OntheCritique
+         of Ideologyafter the Pragmatic Turn.”Constellations 13.no.1: 21–40.
+      Cooper, Joel. 2007. Cognitive Dissonance: 50 Years of a Classic Theory. Los Angeles: Sage
+         Publications Ltd.                                   
+      Davis,Emmalon.2018.“OnEpistemicAppropriation.”Ethics128.no.4:702–727.DOI:10.1086/
+         697490.                                             
+      Davis,Emmalon.2016.“Typecasts,Tokens,andSpokespersons:ACaseforCredibilityExcessas
+         Testimonial Injustice.”Hypatia 31.no.3: 485–501.    
+      Doan,MichaelD.2017.“EpistemicInjusticeandEpistemicRedlining.”EthicsandSocialWelfare
+         11.no. 2:177–190. DOI: 10.1080/17496535.2017.1293120.
+      Dotson,Kristie.2011.“TrackingEpistemicViolence,TrackingPracticesofSilencing.”Hypatia26.
+         no.2: 236–257. DOI:10.1111/j.1527-2001.2011.01177.x.
+      Dotson, Kristie. 2012. “A Cautionary Tale: On Limiting Epistemic Oppression.” Frontiers
+         (Boulder)33. no.1: 24–47.DOI: 10.5250/fronjwomestud.33.1.0024.
+      Dotson, Kristie. 2014. “Conceptualizing Epistemic Oppression.” Social Epistemology 28. no. 2:
+         115–138. DOI:10.1080/02691728.2013.782585.          
+      Dotson, Kristie. 2018. “Accumulating Epistemic Power: A Problem with Epistemology.” Philo-
+         sophical Topics46. no.1: 129–154. DOI:10.5840/philtopics20184618.
+      DuBois,WilliamE.B.1998.BlackReconstructioninAmerica:1860-1880.NewYork,NY:The
+         FreePress.                                          
+                                                             
+
+[PAGE 22]
+                                                             
+                                                             
+      Bufkin                                         55      
+                                                             
+                                                             
+                                                             
+      Emirbayer,Mustafa,andMatthewDesmond.2015.TheRacialOrder.Chicago:TheUniversityof
+         ChicagoPress.                                       
+      Fanon,Frantz. 1964. Toward the AfricanRevolution: PoliticalEssays.NewYork: Grove Press.
+      Fanon,Frantz.2008.BlackSkin,WhiteMasks.TranslatedbyRichardPhilcox.NewYork:Grove
+         Press.                                              
+      Felker-Kantor, Max. 2018. Policing Los Angeles: Race, Resistance, and the Rise of the LAPD.
+         ChapelHill: TheUniversity ofNorth Carolina Press.   
+      Foucault,Michel.1977.“ThePoliticalFunctionoftheIntellectual’.TranslatedbyColinGordon.”
+         RadicalPhilosophy.no.017: 12–14.                    
+      Fricker,Miranda.2007.EpistemicInjustice:PowerandtheEthicsofKnowing.Oxford:University
+         Press.                                              
+      Fricker,Miranda.2016.“EpistemicInjusticeandthePreservationofIgnorance.”InTheEpistemic
+         Dimensions of Ignorance, edited by Rik Peels, and Martijn Blaauw, 160–177. Cambridge:
+         CambridgeUniversity Press.                          
+      Geuss, Raymond. 1981. The Idea of a Critical Theory: Habermas and the Frankfurt School.
+         Cambridge: University Press.                        
+      Giladi,Paul,andNicolaMcMillan.2022.EpistemicInjusticeandthePhilosophyofRecognition.
+         London:Routledge. DOI: 10.4324/9780429435133.       
+      Gilroy, Paul. 1992. There Ain’t No Black in the Union Jack’: The Cultural Politics of Race and
+         Nation.London: Routledge.                           
+      Gilroy,Paul.2001.AgainstRace:ImaginingPoliticalCulturebeyondtheColorLine.Cambridge,
+         MA:Belknap Pressof HarvardUniversity Press.         
+      Gilroy,Paul. 2004.After Empire: Melancholia orConvivial Culture?London:Routledge.
+      Goldberg, David Theo. 1993. Racist Culture: Philosophy and the Politics of Meaning. Oxford:
+         Blackwell.                                          
+      Goldberg,DavidTheo.2009.TheThreatofRace:ReflectionsonRacialNeoliberalism.Malden,
+         MA:Wiley-Blackwell.                                 
+      Gramsci, Antonio. 1957. The Modern Prince, and Other Writings. Translated by Louis Marks.
+         London:Lawrence andWishart.                         
+      Grasswick,Heidi.2017.“EpistemicInjusticeinScience.”InTheRoutledgeHandbookofEpistemic
+         Injustice,editedbyIanJamesKidd,Jose´ Medina,andGailePohlhausJr,313–323.Milton,
+         U.K:Taylor &Francis Group.                          
+      Hall,Stuart.,andStuartHall.2021.“Gramsci’sRelevancefortheStudyofRaceandEthnicity.”In
+         SelectedWritingsonRaceandDifference,editedbyRuthWilsonGilmore,andGilroyPaul,
+         295–328. Durham;London:Duke University Press. https://doi.org/10.2307/j.ctv1hhj1b9.
+      Hall, Stuart. 2021a. “Race, Articulation, and Societies Structured in Dominance.” In Selected
+         WritingsonRaceandDifference,editedbyRuthWilsonGilmore,andPaulGilroy,195-245.
+         1980Reprint.Durham; London:Duke University Press.   
+      Hall,Stuart.2021b.“SubjectsinHistory.”InSelectedWritingsonRaceandDifference,editedby
+         Stuart Hall, Ruth Wilson Gilmore, and Paul Gilroy, 329–338. Durham; London: Duke
+         University Press.                                   
+      Hall,Stuart.2021c.“TheProblemofIdeology:MarxismwithoutGuarantees.”InSelectedWritings
+         ontheQuestionofMarxism,byStuartHall,editedbyGregorMcLennan,134–157.Durham:
+         Duke University Press.                              
+
+[PAGE 23]
+                                                             
+                                                             
+                                                             
+      56                           Philosophy and Social Criticism 52(1)
+                                                             
+                                                             
+      Hall, Stuart. 2021d. “The Whites of Their Eyes: Racist Ideologies and the Media.” In Selected
+         WritingsonRaceandDifference,byStuartHall,editedbyRuthWilsonGilmore,andGilroy
+         Paul,97–120.Durham; London:Duke University Press.   
+      Hall, Stuart, Chas Critcher, Tony Jefferson, John Clarke, and Brian Roberts. 1978. Policing the
+         Crisis:Mugging,theStateandLawandOrder.CriticalSocialStudies.London:Macmillan.
+      Ha¨nel, Hilkje C. 2022. “#MeToo and Testimonial Injustice: An Investigation of Moral and
+         ConceptualKnowledge.”Philosophy& SocialCriticism 48. no.6: 833–859.
+      Hannaford, Ivan. 1996. Race: The History of an Idea in the West. Washington, DC; Baltimore;
+         London:Woodrow WilsonCenter Press; Johns HopkinsUniversity Press.
+      Haslanger,Sally.2017.“Racism,Ideology,andSocialMovements.”ResPhilosophica94.no.1:
+         1–22.                                               
+      Haslanger,Sally.2020.“TakingaStand:Second-OrderSocialPathologiesorFirst-OrderCritique.”
+         InDebatingCriticalTheory:EngagementswithAxelHonneth,editedbyJuliaChrist,Kristina
+         Lepold, Daniel Loick, and Titus Stahl, 35–50. Lanham: Rowman & Littlefield Publishers.
+         EssexStudies in ContemporaryCritical Theory.        
+      Haslanger,SallyAnne.2021.IdeologyinPractice:WhatDoesIdeologyDo?theAquinasLecture
+         84.Milwaukee, Wisconsin:Marquette University Press. 
+      Herzog,Lisa,andRobertLepenies.2022.“CitizenScienceinDeliberativeSystems:Participation,
+         EpistemicInjustice,andCivicEmpowerment.”Minerva60.no.4:489–508.DOI:10.1007/
+         s11024-022-09467-8.                                 
+      HillCollins,Patricia.2000.BlackFeministThought:Knowledge,Consciousness,andthePoliticsof
+         Empowerment. 2nded.NewYork: Routledge.              
+      Holroyd, Jules, and Katherine Puddifoot. 2020. “Epistemic Injustice and Implicit Bias.” In An
+         IntroductiontoImplicitBias:Knowledge,Justice,andtheSocialMind,editedbyAlexMadva,
+         andErinBeeghly,116–133.NewYork: Routledge. DOI: 10.4324/9781315107615.
+      Jaeggi, Rahel. 2008. “Rethinking Ideology.” In New Waves in Political Philosophy, edited by
+         Boudewijn deBruin,andChristopher Zurn,63–86.UnitedKingdom: PalgraveMacmillan.
+      Kidd, Ian James, Lucienne Spencer, and Havi Carel. 2022. “Epistemic Injustice in Psychiatric
+         Research and Practice.” Philosophical Psychology: 1–29. DOI: 10.1080/09515089.2022.
+         2156333.                                            
+      Kotzee,Ben.2017.“EducationandEpistemicInjustice.”InTheRoutledgeHandbookofEpistemic
+         Injustice,editedbyIanJamesKidd,Jose´ Medina,andGailePohlhausJr,324–335.Milton,
+         U.K:Taylor &Francis Group.                          
+      Lackey,Jennifer.2023. Criminal Testimonial Injustice. Oxford:Oxford University Press.
+      Lorde,Audre.2013.Sister Outsider: Essays andSpeeches. Berkeley:TenSpeedPress.
+      Marx,Karl.1996.“PrefacetoAContributiontotheCritiqueofPoliticalEconomy.”InMarx:Later
+         PoliticalWritings,byKarlMarx,editedbyCarverTerrell,158–162.Cambridge:Cambridge
+         University Press.                                   
+      Mason,Rebecca. 2011.“TwoKinds of Unknowing.”Hypatia 26.no. 2:294–307.
+      Mbembe, Achille. 2003. “Necropolitics.” Public Culture 15. no. 1: 11–40. DOI: 10.1215/
+         08992363-15-1-11.                                   
+      McCarthy,Thomas.2009.Race,Empire,andtheIdeaofHumanDevelopment.Cambridge;New
+         York:Cambridge University Press.                    
+                                                             
+
+[PAGE 24]
+                                                             
+                                                             
+      Bufkin                                         57      
+                                                             
+                                                             
+                                                             
+      McKinnon,Rachel.2016.“EpistemicInjustice.”PhilosophyCompass11.no.8:437–446.DOI:10.
+         1111/phc3.12336.                                    
+      McWilliams,Emily.2019.“CanEpistemicVirtuesHelpCombatEpistemologiesofIgnorance?”In
+         Overcoming Epistemic Injustice: Social and Psychological Perspectives, edited by
+         Benjamin R. Sherman, and StaceyGoguen, 101–118. London; NewYork: Rowman & Lit-
+         tlefield International, Ltd.                        
+      Medina,Jose´.2022.“GroupAgentialEpistemicInjustice:EpistemicDisempowermentandCritical
+         DefangingofGroupEpistemicAgency.”PhilosophicalIssues32.no.1:320–334.DOI:10.
+         1111/phis.12221.                                    
+      Medina, Jose´. 2016. “Ignorance and Racial Insensitivity.” In The Epistemic Dimensions of Ig-
+         norance, edited by Rik Peels, and Blaauw Martijn, 178–201. Cambridge: Cambridge Uni-
+         versity Press.DOI: 10.1017/9780511820076.           
+      Medina,Jose´.2013.TheEpistemologyofResistance:GenderandRacialOppression,Epistemic
+         Injustice, and Resistant Imaginations. Studies in Feminist Philosophy. Oxford: Oxford
+         University Press.                                   
+      Michaels, Jonathan Anthony. 2021. “Potential for Epistemic Injustice in Evidence-Based
+         Healthcare Policy and Guidance.” Journal of Medical Ethics 47. no. 6: 417–422. DOI: 10.
+         1136/medethics-2020-106171.                         
+      Mills,Charles W.1997.The RacialContract.Ithaca; London: Cornell University Press.
+      Mills,CharlesW.2007.“WhiteIgnorance.”InRaceandEpistemologiesofIgnorance,editedby
+         ShannonSullivan,andNancyTuana,13–38.Albany,NY:StateUniversityofNewYorkPress.
+      Mills,CharlesW.2017.“Ideology.”InTheRoutledgeHandbookofEpistemicInjustice,editedby
+         IanJamesKidd,Jose´Medina,andGailePohlhausJr,100–111.Milton,UK:Taylor&Francis
+         Group.                                              
+      Nauroth,Peter,MarioGollwitzer,HenrikKozuchowski,JensBender,andTobiasRothmund.2017.
+         “The Effects of Social Identity Threat and Social Identity Affirmation on Laypersons’ Per-
+         ceptionof Scientists.”PublicUnderstanding ofScience26.no.7:754–770.DOI: 10.1177/
+         0963662516631289.                                   
+      Ng,Karen.2015.“IdeologyCritiquefromHegelandMarxtoCriticalTheory.”Constellations22.
+         no.3: 393–404.                                      
+      Nguyen,TomsonH.,andHenryN.Pontell.2011.“FraudandInequalityintheSubprimeMortgage
+         Crisis.” In Economic Crisis and Crime, by Mathieu Deflem, 3–24. Bingley, UK: Emerald
+         Publishing Limited.                                 
+      Oh,Keunchang.2022.“CritiquingRacistIdeologyasHarmfulSocialNorms.”Philosophy&Social
+         Criticism: 1–24.                                    
+      Omodan,BunmiIsaiah.2023.“UnveilingEpistemicInjusticeinEducation:ACriticalAnalysisof
+         AlternativeApproaches.”SocialSciences&HumanitiesOpen8.no.1:100699.DOI:10.1016/
+         j.ssaho.2023.100699.                                
+      Perry,Imani.2011.MoreBeautifulandMoreTerrible:TheEmbraceandTranscendenceofRacial
+         Inequality inthe UnitedStates. NewYork:NewYork University Press.
+      Pohlhaus,GaileJr.2012.“RelationalKnowingandEpistemicInjustice:TowardaTheoryofWillful
+         Hermeneutical Ignorance.” Hypatia 27. no. 4: 715–735. DOI: 10.1111/j.1527-2001.2011.
+         01222.x.                                            
+                                                             
+
+[PAGE 25]
+                                                             
+                                                             
+                                                             
+      58                           Philosophy and Social Criticism 52(1)
+                                                             
+                                                             
+      Prasad,Monica,AndrewJ.Perrin,KieranBezila,SteveG.Hoffman,KateKindleberger,Manturuk
+         Kim,andSmithPowersAshleigh.2009.““ThereMustBeaReason”:Osama,Saddam,and
+         InferredJustification.”SociologicalInquiry79.no.2:142–162.DOI:10.1111/j.1475-682X.
+         2009.00280.x.                                       
+      Rehmann,Jan.2013.TheoriesofIdeology:ThePowersofAlienationandSubjection.Boston:Brill.
+      Rosen,Michael.1996.OnVoluntaryServitude:FalseConsciousnessandtheTheoryofIdeology.
+         Newark, UK: PolityPress.                            
+      Sankaran,Kirun.2020.“What’sNewintheNewIdeologyCritique?”PhilosophicalStudies177.
+         no.5: 1441–1462. DOI: 10.1007/s11098-019-01261-9.   
+      Shelby, Tommie. 2014. “Racism, Moralism, and Social Criticism.” Du Bois Review 11. no. 1:
+         57–74.DOI: 10.1017/S1742058X14000010.               
+      Shelby, Tommie. 2002. “Is Racism in the “Heart”.” Journal of Social Philosophy 33. no. 3:
+         411–420. DOI:10.1111/0047-2786.00150.               
+      Shelby,Tommie.2003.“Ideology,Racism,andCriticalSocialTheory.”ThePhilosophicalForum
+         34.no. 2:153–188. DOI: 10.1111/1467-9191.00132.     
+      Sherman,BenjaminR.2016.“There’sNo(Testimonial)Justice:WhyPursuitofaVirtueIsNotthe
+         Solution to Epistemic Injustice.” Social Epistemology 30. no. 3: 229–250. DOI: 10.1080/
+         02691728.2015.1031852.                              
+      Spelman, Elizabeth V. 2007. “Managing Ignorance.” In Race and Epistemologies of Ignorance,
+         editedbyShannonSullivan,andNancyTuana,119–131.Albany,NY:StateUniversityofNew
+         York Press.SUNY Series, Philosophy andRace.         
+      Stanley,Jason. 2015.How PropagandaWorks.Princeton: University Press.
+      Staub,MichaelE.2019.TheMismeasureofMinds:DebatingRaceandIntelligencebetweenBrown
+         andthe Bell Curve. ChapelHill: TheUniversity of North Carolina Press.
+      Sue, Derald Wing. 2010. Microaggressions in Everyday Life: Race, Gender, and Sexual Orien-
+         tation.Hoboken,NewJersey: JohnWiley & Sons.         
+      Sullivan, Michael. 2017. “Epistemic Injustice and the Law.” In The Routledge Handbook of
+         EpistemicInjustice,editedbyIanJamesKidd,Jose´Medina,andGailePohlhausJr,293–302.
+         Milton, U.K:Taylor &FrancisGroup.                   
+      Tsosie,Rebecca.2017.“IndigenousPeoples,Anthropology,andtheLegacyofEpistemicInjustice.”
+         InTheRoutledgeHandbookofEpistemicInjustice,editedbyIanJamesKidd,Jose´ Medina,
+         andGailePohlhausJr,356–369.Milton, UK: Taylor &Francis Group.
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             

@@ -1,0 +1,62 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "heath_2023",
+  "title": "The Violence Inherent in the System",
+  "author": "Heath",
+  "year": 2023,
+  "journal": "Philosophy and Social Criticism",
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "Monty Python's satire of 'the violence inherent in the system' has led left-wing theorists to abandon the underlying social critique. But the theory being satirized — that all social practices necessarily rely on symbolic violence — has continued to exercise influence on protest culture despite never receiving explicit philosophical articulation.",
+    "anchored_in": ["Monty Python (Holy Grail)", "Bourdieu (symbolic violence)", "anarchist tradition"],
+    "stakes_claimed": "Explicitly articulating the theory shows that it falls short of providing a meaningful critique of any aspect of social practices — it proves too much and explains too little."
+  },
+  "theoretical_positioning": {
+    "rivals_engaged": ["Bourdieu's symbolic violence", "Sorel's theory of violence", "anarchist critique of state violence", "Zizek on systemic violence"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": true,
+    "own_position_type": "framework_proposal",
+    "own_position_explicit": true,
+    "description": "The paper reconstructs the implicit theory of systemic violence in left protest culture, shows it derives from a confused generalization of Weber's monopoly on violence, and argues the theory fails because (a) it proves too much (all social norms involve coercion), (b) it has implausible implications for protest (all deviation is justified), and (c) it generates a performative contradiction."
+  },
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": null,
+    "notes": "Fully normative analytical critique. The Monty Python reference and protest examples are rhetorical/illustrative, not empirical."
+  },
+  "case_type": {
+    "has_case": false,
+    "case_medium": "none",
+    "case_name": null,
+    "case_function": null,
+    "case_relation_to_argument": null,
+    "case_selection_justified": false
+  },
+  "normative_stake": {
+    "level": "medium",
+    "domain": "political philosophy / protest / violence / collective action",
+    "claim_type": "critical_diagnostic",
+    "closure_type": "conclusion_strong"
+  },
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "genealogical_reconstruction",
+    "rival_mapping",
+    "immanent_critique",
+    "conclusion_strong"
+  ],
+  "reflexive_move": false,
+  "key_concepts": ["systemic violence", "symbolic violence", "state monopoly on violence", "protest legitimacy", "performative contradiction", "coercion"],
+  "thinkers_deployed": {
+    "central": ["Weber", "Bourdieu"],
+    "engaged_critically": ["Sorel", "anarchist theory", "Zizek"],
+    "referenced_only": ["Rawls", "Habermas", "Marcuse"]
+  },
+  "confidence_notes": "Type 2 (polemical reconstruction): explicit articulation of an implicit theory followed by thorough immanent critique showing it collapses. Strong conclusion. Unusual opening (Monty Python) but standard Type 2 argument structure. The paper has a contrarian tone aimed at left intellectual culture — consistent with analytic political philosophy style within PSC."
+}

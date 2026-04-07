@@ -1,0 +1,831 @@
+[PAGE 1]
+                                                             
+                                                             
+                                                             
+                                                             
+       Original Research Article                             
+                                                             
+                                           PhilosophyandSocialCriticism
+                                               2026,Vol.0(0)1–16
+       The Hegel  Test                                       
+                                              ©TheAuthor(s)2026
+                                              Articlereuseguidelines:
+                                          sagepub.com/journals-permissions
+                                         DOI:10.1177/01914537261416867
+       Anders Bartonek1                   journals.sagepub.com/home/psc
+                                                             
+       Abstract                                              
+       To become able to test whether machines in fact have human-like or even stronger
+       intelligencethanhumans,weneedtocomparemachineswitharealhumanhighpointof
+       intelligence.Inthisarticle,Hegel’sphilosophyisproposedassuchatestingcriterion,anda
+       test is presented grounded in his dialectical philosophy of negativity, recognition, and
+       labor.Earliertestshavearguablysettheircriteriatoolow,thusonlybeingabletodetect
+       andexaminenarrowregionsofcognitiveabilities.Theyarethereforeonlylimitedlysuited
+       to make judgments on machines’ possible strong AI. In addition, many theories on
+       machineintelligencelackasystematicconceptofthinkingandintelligenceandhenceleave
+       the testing of machines with an uncertain ground. With the Hegel test, this article
+       formulatesanadequatestandardformachinestoaimatinordertobecomehuman-like
+       cognitively and existentially and subsequently move further towards the greater goal of
+       superintelligence.                                    
+       Keywords                                              
+       AGI, Turing test, Hegel, negativity, dialectics       
+                                                             
+                                                             
+                                                             
+       Introduction                                          
+                                                             
+       Theoptimismsurroundingthequestforartificialgeneralintelligence(AGI),orso-called
+       Strong AI, and the possibilities for machines to reach the same level of ability in ev-
+       erything the human beings can do cognitively, or even in the near future transcend the
+       human, is often far reaching, yet sometimes mixed with horror. ‘Superintelligent ma-
+       chines’ (Nick Bostrom) are allegedly on their way to leave us behind. But there is one
+       problem: in order to be able to know whether machines have reached human-level in-
+       telligence or even will surpass it, one needs to know what human intelligence can be.
+       1Philosophy,So¨derto¨rnUniversity,Stockholm,Sweden    
+                                                             
+       Correspondingauthor:                                  
+       AndersBartonek,Philosophy,So¨derto¨rnUniversity,Stockholm,14189Huddinge,Sweden.
+       Email:anders.bartonek@sh.se                           
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+      2                             Philosophy and Social Criticism 0(0)
+                                                             
+      Otherwise, the comparison is shaky, to say the least. But there is hitherto no certain
+      knowledgeaboutthehorizonofhumanthinking,thereareonly(many)theories.1Wehave
+      notyetreachedadefiniteoverviewoverthelimitsandscopeofhumanintelligence;thus,
+      whatsuperintelligencewouldbe,hasnocertainreferentialstartingpoint.Wesurelyseem
+      abletocreateverypowerfulmachineswithoutunderstandinghumanintelligence,butthe
+      prospectsformachinestomatchoroverridehumansrequiresuchanunderstandingtobe
+      determinable.                                          
+        Moreover,manyinfluentialtheoriesaboutthepromisingfutureofAGIarefoundedon
+      thin and non-systematized thought-aggregates on the meaning of thinking. Bostrom, for
+      instance, in his book Superintelligence. Paths, Dangers, Strategies, lines up a couple of
+      aspectsofhumanthinkingwhenhewritesthat‘humanscanthinkabstractly,communicate
+      complexthoughts,andaccumulateinformationoverthegenerationsfarbetterthananyother
+      speciesontheplanet’.2Inanotherpassageheaddsanotherroundofaspects,withoutinternal
+      systematicity,suchas‘possessingcommonsenseandaneffectiveabilitytolearn,reason,
+      andplantomeetcomplexinformation-processingchallengesacrossawiderangeofnatural
+      and abstract domains’.3 But there is no theoretical investigation into how all these char-
+      acteristicsrelatetoeachother and how they all can beascribed tohuman ‘intelligence’.4
+        Despite this uncertain ground, Bostrom points towards ‘the possibility of an intelli-
+      gence explosion, particularly the prospect of machine superintelligence’.5 But while
+      ‘tentatively’defining‘superintelligenceasanyintellectthatgreatlyexceedsthecognitive
+      performanceofhumansinvirtuallyalldomainsofinterest’,6oras‘intellectsthatgreatly
+      outperformthebestcurrenthumanmindsacrossmanyverygeneralcognitivedomains’7–
+      definitions he seeminglygivesreluctantly since ‘we donotwishtogetbogged downin
+      terminologicalswamps’8–headmits:‘Thisisstillquitevague’.9Yet,thisdoesnotstop
+      himfrombeingcertainthatsuperintelligentintellectswillbeabletodoeverythinghumans
+      can‘butmuchfaster’10and‘vastlyqualitativelysmarter’.11Butbasedonhisdisparateand
+      imprecise notions on thinking, Bostrom would not recognize the arising of a superin-
+      telligentmachineinreality.ForsuchadiscoveryBostromlacksaworked-throughconcept
+      ofthinking.Andtheanti-intellectualavoidanceof‘terminologicalswamps’willnothelp.
+        Furthermore,RayKurzweilboilsdownthinkingtothenotionof‘patternrecognition’,
+      understood by him as a central dimension of intelligence. Describing himself as a
+      ‘patternist’ in The Singularity is Near, Kurzweil ‘views patterns of information as the
+      fundamentalreality’.12Healsowritesthatthe‘traditionalstrengthsofhumanintelligence
+      includeaformidableabilitytorecognizepatterns’.13Kurzweilaswellisoptimistic,and
+      according tohim, this ability of human biological intelligence will inthe near future be
+      combined with ‘the speed, memory capacity and accuracy, and knowledge and skill-
+      sharing abilities of nonbiological intelligence’.14 Kurzweil argues ‘that within several
+      decades information-based technologies will encompass all human knowledge and
+      proficiency,ultimatelyincludingthepattern-recognitionpowers,problem-solvingskills,
+      and emotional and moral intelligence of the human brain itself’.15 And we will ‘fully
+      understand human thinking and will vastly extend and expand its reach’.16 It is ques-
+      tionable,however,whetherhumanthinkingcanbegraspedthroughthenotionofpatterns
+      alone. Even a super-patternist would stay within the limits of patterns and remain
+      schematic in mind. Kurzweil, thus, has no concept of the human ability to think of that
+                                                             
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+       Bartonek                                       3      
+                                                             
+       whichisnotidenticalwithandtranscendspatternsandsystems.Thisisleftaside,andthus
+       also the human mind.                                  
+        FrançoisChollet,inturn,inhis‘document’‘OntheMeasureofIntelligence’aimsat
+       providing an ‘actionable formal definition and measurement benchmark for human-like
+       general intelligence’.17 He does so in relation to different levels of intelligence gener-
+       alization,suchas‘broadgeneralization’,which‘includestheabilitytohandlesituations
+       that could not have been foreseen by the creators of the system’, and ‘extreme gener-
+       alization’,whichisentailedin‘open-endedsystemswiththeabilitytohandleentirelynew
+       tasks that only share abstract commonalities with previously encountered situations’.18
+       Andimportantly,whenaimingatmeasuringtheabilitytohandleentirely‘new’tasks,‘AI
+       teststhatseektoassessflexibilityandgeneralityshouldnotconsidercrystallizedabilities,
+       butrather,shouldfocusonabilitiesthatenablenewskillacquisition’.19Thisopenconcept
+       of thinking focused on flexible action is interesting because it admits the difficulty in
+       overseeing the scope of such developments in machines. But Chollet is not sufficiently
+       founding the claim that intelligence must be actionable, and in addition, by way of
+       brandingintelligenceasbecomingabletomasterthenew,heprioritizescreativityonthe
+       dispenseofcriticalityinthinking.Theattractiveideaofanopen-endedprogressdoesnot
+       involvetheimportanceofabilitiessuchasbeingself-criticalinthesenseofbeingawareof
+       its own limitations and reflecting on these. Chollet, thus, prioritizes the positive (crea-
+       tivity) over the negative (criticality). The negative and critical aspect of thinking will,
+       however, be central below in the formulation of the Hegel test: for G. W. F. Hegel, the
+       abilitytogoondistancetooneselfandtherebychallengeandjeopardizeoneselfiscrucial
+       for human development in general.                     
+        Equally to Chollet, in Shane Legg and Marcus Hutter’s ‘Universal Intelligence: A
+       definition of Machine Intelligence’, this dialectical dimension is entirely missing. To
+       cultivate reflective self-distance and to be able to see oneself from outside and in a
+       substantialmannerbecomeawareofone’sownlimitationsaredimensionsnon-existentin
+       theirscope,whichnonethelessaimsatformalizing‘universalintelligence’.20InGeorgios
+       Mappouras’‘TuringTest2.0:TheGeneralIntelligenceThreshold’,whichlikeChollet’s
+       modelalsohasapracticalfocus,thisself-reflectivedimensionismissingaswell.Yet,with
+       Chollet,ithasthegoalofanintelligenceproducingnewskillsandknowledgeincommon.
+       Mappourassuggestionscontainthatasystemcangeneratenewfunctionalinformationand
+       ‘demonstratetheabilitytoself-generateanyamountofnewF.I.[functionalinformation]
+       by achieving any new functionality (…) without information input from external sour-
+       ces’.21Thesetheories,however,sharethesettingasideoftheentireSocratictraditionof
+       knowingthelimitsofone’sknowledge,andtheyriskaswelltoendupinthesortofone-
+       dimensionality putforth by Herbert Marcuse,whichentailstheinabilitytoimagine and
+       formulate counteracting (and negative) perspectives against the given reality.22 In con-
+       trast, the proposed Hegel test below aims at essentially involving a dialectical two-
+       dimensionalitywhenaddressinghumanintelligenceintermsof‘masteringnegativity’and
+       regardingtheabilitytoputone’sentireexistenceonthelinepreciselyasapossiblepathto
+       genuine intelligence and independent self-consciousness.
+                                                             
+                                                             
+                                                             
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+      4                             Philosophy and Social Criticism 0(0)
+                                                             
+      Earlier Tests                                          
+      With the purpose to make possible a judgment on how close machines are to humans,
+      many tests and test-techniques have been developed. Nevertheless, the problem has not
+      beensolved,whichisevidentnotleastwithMappouras’intentiontodevelopaTuringtest
+      2.0,aimingatoverbiddingTuring’sfamousattempt.Thethesisinthefollowingisthatin
+      ordertoestablishsomekindofunderstandingofhowclosethemachinesaretousweneed
+      totesttheminrelationtoamaximumofwhathumanshaveachieved,especiallywhilenot
+      havingasolidunderstandingofhumanthinking.Maybemachinescandoeverythingwe
+      canormore,butthenweneedtotestthemfromtheoutsetofahumanhighpoint.Many
+      earliertestshavesettheirlevelofcriteriafartoolow:the(stillmuchdiscussed)Turing-test
+      (criteria:conversation),theCoffee-test(criteria:everydayactivities),theEmployment-test
+      (criteria:wagelabor),andtheRobotuniversitystudent-test(criteria:universitystudies),to
+      name a few famous examples. To be sure, the tests can all detect different cognitive
+      abilities, but in each case, it is easy to think of known-of human abilities that are
+      transcending the chosen criteria. Thus, a difference remains between the aim of testing
+      whether machines can match human thinking and the testing criteria. Human thinking
+      does not remain within average level activities.       
+        In light of this, my proposal is to formulate a test which examines the abilities of a
+      machine with help from a certain central dimension of Hegel’s concept of thinking. I
+      therebydonotclaimthatHegel’sthinkingwouldbetheonlyrightphilosophytousewith
+      thispurpose,butIchoosehisphilosophyasbeingoneoftheverygreatesthighpointsof
+      Westernphilosophy,andthus,areasonablehumanmaximumtocomparemachineswith.
+      Especially, since Hegel’s theory involves the dialectical self-transcending and self-
+      questioning of the thinking subject which becomes the path for its self-cultivation. Or
+      evenstronger:thehumansubjectinHegel’stheorymustbeabletoriskoneselfinorderto
+      gain oneself and become self-conscious; for Hegel, the process towards self-knowledge
+      necessarilyleadsthroughanexistentiallife-and-deathstruggle.Yet,otherthinkerswould
+      also have been interesting backgrounds for such an inquiry, enabling different thematic
+      focuses.TheHegeltestbelowishencetobeunderstoodasacontributiontothedebateon
+      the question what to test in order to better understand the relation between machine
+      cognition and human intelligence. The focus will be on the dialectical human ability to
+      developthroughafundamentallyself-questioningreflection.Throughsuchareflectionthe
+      thinkingagentputsitselfintheposition(i.e.,negation)ofbeingoutsideitself,anditcan
+      onlyarriveatatrueselfbywayofriskingitinthismanner.Onecanonlywinwhatonehas
+      risked.                                                
+        The mostfamousearlier test,theTuring test,or asAlanTuring himself calledit:the
+      ‘imitation game’, is described in the following way:   
+        Itisplayedwiththreepeople,aman(A),awoman(B),andaninterrogator(C)whomaybeof
+        eithersex.Theinterrogatorstaysinaroomapartfromtheothertwo.Theobjectofthegamefor
+        theinterrogatoristodeterminewhichoftheothertwoisthemanandwhichisthewoman.(…)
+        Theidealarrangementistohaveateleprintercommunicatingbetweenthetworooms.(…)The
+        object of thegamefor the third player (B)isto help the interrogator.23
+                                                             
+                                                             
+                                                             
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+       Bartonek                                       5      
+                                                             
+        This game is Turing’s proposal for how to be able to decide whether a machine can
+       thinkornot.Butinfact,hequiteinstantlyaltersthequestionintothequestionwhetherthe
+       interrogatorwillbeaswronginhisjudgmentsasoftenaswhenoneofthepeopleisasmart
+       machine instead of a woman or man:                    
+        Wenowaskthequestion,‘WhatwillhappenwhenamachinetakesthepartofAinthegame?’
+                                                             
+        Willtheinterrogatordecidewronglyasoftenwhenthegamewasplayedlikeashedoeswhenthe
+        game is played between a man and a woman? These questions replace our original, ‘Can
+        machines think?’24                                   
+        So,thetestissupposedtobe awaytocome closetoananswerofthefirstquestion:
+       ‘Canmachinesthink?’Herebytheanswerreliesontheeyeofthebeholder,assumingthat
+       itisreasonable toclaim thatmachinescanthink if‘we’cannotperceiveanydifference.
+       Thisapproachisasproblematicasdifficulttotranscend.Theself-assuredoutside-viewis
+       as risky as an inside-view is hard toreach: (as for now) thehuman gaze at themachine
+       remains outside. And in relation to the Hegel test, the Turing test remains within the
+       activity of conversation, leaving the fundamental and dialectical act and existential
+       struggleofbecominganindependentthinkingagentaside.Thesituationofconversation
+       inTuringdoesnotdemandtheactorstoreachbeyondorquestionthemselvesbutrather
+       leaves them in a comfortable space. As will be addressed below, the intersubjective
+       dimension is crucial in Hegel as well; in Turing, however, this dimension has no real
+       bearingontheparticipantsinthetest.Theyarenotchallengedandapossibleexistential
+       transformation in them is not crucial.                
+        TheTuringtestisstillwidelydiscussed,however,beingthemodernportaltestofall
+       machine intelligence-testing. There are several attempts to further develop the idea of
+       testingwithTuring’sproposalasthestartingpoint.While,totakeacoupleofexamples,
+       PaulR.Cohenmaintainsthatthetestshouldbeunderstoodasa‘goal,notatest’,25Daniel
+       Peter Berrar & Alfons Shuster critically depart from Turing’s ideas to develop a test
+       examiningcreativityinmachinesovertime.26DianeProudfoot,inturn,developsfurther
+       the discussion whether machines could self-originate,27 and Mappouras claims to have
+       developed the frame for a Turing Test 2.0. The AI-discourse is thus still haunted by
+       Turing’schallenge,butIagreethatTuring’sapproachmustbewidened,withtheaimof
+       testingaproposedhumanmaximum.Becausecanitnotbeconsideredproblematicthatthe
+       Turing-test places itself on the ambition level of ‘conversation’? Even if it has become
+       clearerovertimethatitisfarmorecomplicatedtolearnandmasteranaturallanguagethan
+       firstassumed,thetestattheoutsetcutsoutmanyworldsofthehumancognitiverange.A
+       successfully managed test still says very little about the relation between machines and
+       humans.AndevenifTuring’stestmightbeunderstoodasformulatednotentirelywithout
+       jocularity, it needs to be questioned precisely because of its historic impact.
+        Otherfamoustestsalsoneedtobedoubtedregardingtheirlevelofambition:tobegin
+       with, the Coffee-test (attributed to Steve Wozniak) remains on the level of every day-
+       practical knowledge and -activities: ‘go into an average American house and figure out
+       how to make coffee, including identifying the coffee machine, figuring out what the
+       buttonsdo,findingthecoffeeinthecabinet,etc.’.28AndtheEmployment-test(formulated
+       by Nils J. Nilsson) focusses on the ability to perform wage labor: ‘Machines exhibiting
+                                                             
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+      6                             Philosophy and Social Criticism 0(0)
+                                                             
+      truehuman-levelintelligenceshouldbeabletodomanyofthethingshumansareableto
+      do.Amongtheseactivitiesarethetasksor“jobs”atwhichpeopleareemployed.Isuggest
+      we replace the Turing test by something I will call the “employment test.” To pass the
+      employmenttest,AIprogramsmustbeabletoperformthejobsordinarilyperformedby
+      humans’.29 Lastly, although the Robot university student-test aims higher regarding
+      theoretical knowledge (the ability to obtain a college degree and communicate with
+      professorsandotherstudents),30itstillisnowherenearahumanintelligencemaximum.
+      AndMappouras’newerproposalalsohasobviouslimitationsinscope,failingtograspthe
+      whole of human intelligence.                           
+        GPT-4,then,whichbyOpenAIisdescribedas‘alargemultimodalmodelcapableof
+      processing image and text inputs and producing text outputs’, is programmed with the
+      goal                                                   
+        toimprovetheirabilitytounderstandandgeneratenaturallanguagetext,particularlyinmore
+        complexandnuancedscenarios.Totestitscapabilitiesinsuchscenarios,GPT-4wasevaluated
+        onavarietyofexamsoriginallydesignedforhumans.Intheseevaluationsitperformsquitewell
+        andoftenoutscoresthevastmajorityofhumantesttakers.Forexample,onasimulatedbarexam,
+        GPT-4achievesascorethatfallsinthetop10percentoftesttakers.ThiscontrastswithGPT-3.5,
+        whichscores in the bottom10percent.31                
+        Thus,GPT-4issuccessfulintheexamwhich‘includedbothmultiple-choiceandfree-
+      responsequestions’.32Yet,itsflawsandlimitations arebeing admitted.It doesnotonly
+      ‘not learn from experience’,33 but ‘[m]ost importantly, it still is not fully reliable (it
+      “hallucinates”factsandmakesreasoningerrors).Greatcareshouldbetakenwhenusing
+      languagemodeloutputs,particularlyinhigh-stakescontexts,withtheexactprotocol(such
+      as human review, grounding with additional context, or avoiding high-stakes uses al-
+      together)matchingtheneedsofspecificapplications’.34Butthesetestsalsoremainwithin
+      the limited scope of natural language, hence looking at whether GPT-4 can be high-
+      achievinginanactivitywhichdoesnotbelongtotoplevelabilitiesofthehumanbeing.
+      And this is the aim of the Hegel test below: to take a human maximum as criteria.
+                                                             
+      Hegel: The Master of Negativity                        
+      TheproposedHegeltest,aimingattestingmachinesbywayofthe‘humanhighpoint’of
+      Hegel’s philosophy, takes as its starting point a fundamental dialectical principle which
+      permeates Hegel’s philosophy and system in all its different layers. Hegel, as being the
+      most famous representative of the so-called German Idealism, tries, in large, to follow,
+      fulfill, and present the process and progress of the universal ‘World-spirit’ and its in-
+      carnation in different historical epochs, people, and individuals. Hegel’s aim is to un-
+      derstandthe‘absolute’asahistoricalandempiricalprocessofbecomingself-conscious,
+      beingthesamethingasabsoluteknowledge(theabsolute’sknowledgeofitself)andfull
+      self-realization.Thisisessentiallyaprocessofthesuccessivelygrowingexperienceofthe
+      mind (whichalso contains theidea ofthe mediationof theempirical and rational).And
+      herein, the spirit wants to gain himself, on the macro level, by way of entirely risking
+      himselfinhisidentity-seekingadventure.Onlythroughthisself-jeopardizingactcouldthe
+                                                             
+                                                             
+                                                             
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+       Bartonek                                       7      
+                                                             
+       spiritgenuinelybecomeself-determining,autonomous,andsovereign.ThisforHegelis
+       identicalwithbecomingfree,andthesameprincipleofdevelopmentistobefoundinthe
+       individuals.                                          
+        The maturation of the macro-spirit is not independent from the acts of people or
+       individualsbutratherisdrivenbythemintheiractionsandlabor:thespiritrealizesitself
+       through the acts, thoughts, and experiences of individuals, ultimately in the person of
+       Hegel himself. And it is in his famous work Phenomenology of Spirit, that Hegel si-
+       multaneouslydescribesandfulfillstheemergenceofthespirit.Hegel’sbookaimsatbeing
+       both,withJudithButler’swords:‘Thus,thePhenomenologyisnotonlyanarrativeabouta
+       journeyingconsciousness,butisthejourneyitself’.35AndtheconnectionbetweenGeist
+       andtheempiricalsubjectisessential:‘HegelarguesthatGeistisaccessibletoconscious
+       andphilosophicalthoughtbecauseconsciousness–andthustheconsciousphilosopher–
+       ishowGeistmanifestsitself:sinceconsciousthinkersare(identicalwith)Geist,theyare
+       abletophilosophicallyknowanddescribeit’.36Butthisprocessneedstofacethedepthof
+       negativity.                                           
+        Anditispreciselythedialecticalprincipleofbecomingoneselfthroughtheactofrisk,
+       throughwhichtheindividualsubjectsubsequentlymediatesoneselfwithitsotherness,I
+       wishtofocuson.Theidentityandself-consciousnesscanonlybewonandself-restoredby
+       being endangered. It is the spirit’s process of negating itself but ultimately seeking to
+       master this negativity and making it once again identical with itself. This is the case
+       becauseHegelseekstotransformnegativityfrombeinganexternalthreattobecomingthe
+       ultimate means for progress. Precisely as vaccines overcome disease by inserting a
+       controlledamountofsicknessintothebody,Hegel’sinstrumentalizationofnegativityis
+       supposedtomakethespiritstrongerbyfacingnegativityandgrowingthroughintegrating
+       itintoitsownworld.Thedialecticalprincipleusesnegativityasitsdrivingforce.Instead
+       of avoiding negativity, the human agent in Hegel grows by facing its abyss and
+       surviving it.37                                       
+        Intheinterview-sectionsbelow,IwillusethreeconcreteaspectsofHegel’sphilosophy,
+       all essential examples of this dialectical principle in Phenomenology of Spirit: (1) the
+       socialdialecticsofrecognition,(2)thehumanrelationtonaturethroughlabor,and(3)the
+       conceptofsublation(translatedintosupersessionbelow;AufhebunginGerman).Allthese
+       aspectsessentiallycontainthe dimensionofself-jeopardyand theself-restoration ofthe
+       identity with itself.                                 
+        (1) ThequestionofrecognitioniscrucialforHegel’sunderstandingoftheencounter
+           between two conscious ‘individuals’. This critical intersubjective situation is
+           highly significant for Hegel since his entire political philosophy rests on the
+           premise of the political and human development as social. In the case of the
+           individualbecomingself-conscious,thismeansthateveryindividual(everysingle
+           consciousness) only can achieve self-consciousness in the experience of the
+           encounterwithanotherindividual.Inaddition,forHegelthisisnofriendlytask,
+           sincefortheconsciousnesstheotherisathreat,whyitmustovercomeitinorderto
+           gainandassertitself.Forbothconsciousnessesitisaboutbecomingrecognizedin
+           this encounter, but without losing anything of the own. The dialectic of recog-
+           nitionthuscontainsthatevery‘self-consciousnessis(…)certainofitselfonlyby
+                                                             
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+      8                             Philosophy and Social Criticism 0(0)
+                                                             
+          supersedingthisotherthatpresentsitselftoself-consciousnessasanindependent
+          life’.38Thedilemmaisthattheindividualneedsto‘win’overtheotherinorderto
+          fullygetthroughthisconflict,butitalsoessentiallyneedstheotherinordertobe
+          recognized, and vice versa. Hegel writes: ‘Self-consciousness exists in and for
+          itselfwhen,and bythefact that, itso exists for another; thatis, it exists only in
+          beingacknowledged’.39Atbest,theconsciousnessseesitselfthroughtheeyesof
+          the other and becomes the media of recognition for the other as well: ‘Self-
+          consciousness is faced by another self-consciousness; it has come out of itself.
+          Thishasatwofoldsignificance:first,ithaslostitself,foritfindsitselfasanother
+          being; secondly, in doing so it has superseded the other, for it does not see the
+          otherasanessentialbeing,butintheotherseesitsownself’.40Yet,thisencounter
+          carriesriskssinceinordertofullyachieveself-consciousness,theconsciousness
+          needstogoallinandriskeverything;itcanonlygainwhatithasrisked.Andthe
+          meetingoftheconsciousnessesthusisa‘life-and-deathstruggle’.41Foramachine
+          topassatestdesignedbywayofHegel’sphilosophy,itmustpreciselybeableto
+          perform such an encounter with absolute negativity (death) with the purpose to
+          ultimately recapture one’s own identity. And accordingly, the identity, or an
+          adequateconceptofoneself,istobeunderstoodinHegelastheidentityofidentity
+          and non-identity, that is, the identity between the agent’s initial state and its
+          successful risk-taking.                            
+        (2) Inrelationtonature,thehumanbeingalsoneedstotemporarilyloseitselfinorder
+          togainself-consciousness,andthisitdoesthroughlabor.Inthiscase,thehuman
+          activity forms a thing from the outset of an idea, which it puts into work in the
+          thing.Inthissituation,aswiththeconsciousnessinrelationtotheother,theidea
+          oftheselfisoutsideitself(intheexternalthing),butintheendthehumanandits
+          idea can manifest themselves in the thing and the human can become self-
+          consciousnesswhenrecognizingitselfintheresult.Bywayofformingthething,
+          the individual creates something permanent and thus experiences itself as be-
+          coming manifest and independent in reality.42 And additionally – to get a per-
+          spective on the wide range of Hegel’s concept of labor –, labor is, beyond the
+          singleactsoflabor,theactivitythroughwhichtheentireprocessofthe‘World-
+          spirit’ proceeds, since: ‘True thoughts and scientific insight are only to be won
+          throughthelaboroftheNotion’.43Here,thechallengeforamachineistobeable
+          to make itself dependent on the negative dimension of labor. For Hegel, in this
+          case as well, the thinking agent can only approach self-consciousness through
+          risking its own idea and initial identity in the act of putting it to work in real
+          objects. And in the negative moment of projecting its idea into reality, it is
+          ecstatically outside itself.                       
+        (3) Inthedialecticofrecognitionaswellasinthecaseoflabor,negativityissublated
+          (aufgehoben).Inthesocialencounterbothconsciousnessesaresublatedandthey
+          transcendtheirinitialself-limitedstance,andinlaborboththecultivatednatureas
+          well as the initial idea are sublated. The process of sublation signifies Hegel’s
+          understandingofthecharacterofprocessandthespirit’srelationtothepast.For
+          Hegel,thenewdoesnotjustleavethepastbehindasobsoletebutratherconserves
+          whatisworthyofconservationbutinanewform,andthusthepastisdestroyedin
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+       Bartonek                                       9      
+                                                             
+           itsinitialshape.Theconceptofsublationessentiallycoversthreecrucialaspects:
+           firstly,thepastisdestroyedinitsinitialform(forinstance,theconsciousness),but
+           the significant aspects of the past are, secondly, conserved (that which the
+           consciousnesssoughttobecome),butthirdlybroughttoahighermoreelaborated
+           version in the development of spirit (self-consciousness). Reza Negarestani
+           summarizes the steps as follows: firstly, ‘to cancel or abolish something’, sec-
+           ondly, ‘to preserve or to retain something’, and lastly, ‘to lift or heave’ some-
+           thing.44 This is Hegel’s conception of progress, which hence is mediated with
+           conservatismandtradition.Thisagainchallengesmachinestoleavepriorstatesof
+           intelligencebehindbutnotthroughacomfortablemarchofprogress.Instead,the
+           agent can only sublate itself through the mentioned existential risk-taking.
+        Finally, it is important at this point to make a clear distinction between what Hegel
+       himselfclaimedtohaveachievedphilosophicallyandwhatHegelmeanttohaveseenat
+       work in the universal and historical ‘World-spirit’, for which Hegel claimed to be a
+       philosophical spokesperson. At stake in the following is what the human being Hegel
+       achieved;notwhata(ifeverexisting)‘World-spirit’wouldbecapableof.Thetestbelow
+       hence uses Hegel’s achievement and concept of thinking as criteria. And according to
+       Theodor W. Adorno, despite the fact that Hegel ultimately ‘held fast to idealism’,45 his
+       philosophyboldlyenteredthedepthofmaterialrealityandriskeditsconceptsinorderto
+       reallybeattheheightofthenatureanddevelopmentofthings.46Adornowrites:‘Where
+       Hegelcompelshismaterialtospeak,theideaofanoriginalidentityofsubjectandobject
+       “inspirit,”anidentitythatbecomesdividedandthenreunites,isatwork.Otherwisethe
+       inexhaustiblyrichcontentofhissystemwouldremaineitheramereaccumulationoffacts,
+       and thus prephilosophical, or merely dogmatic and without rigor’.47 It is this self-
+       jeopardizing way of thought that the Hegel test aims at operationalizing.
+        Tosumup,thecriterionforthetestistheabilitytounderstandthesignificanceoftheact
+       of mastering negativity and reflect it as the driving force of the own cognitive and ex-
+       istential process. It is the ability to experience and understand how thought takes ad-
+       vantage of difference and otherness and sublates this in the own development, which
+       contains the insight that development does not occur despite negativity, but through it.
+       Experienceassuchisonlypossiblethroughtheengagementinnegativityandbyreaching
+       beyond comfort zones, or rather, this dialectical process as such is experience.48 For
+       Hegel, the spirit needs to dive into and experience otherness and welcome the critique
+       againstitselfitrepresentssinceitunderstandsitsworth.Thinkingneedstobreakitsinitial
+       sphereofcertaintyandbecomesomethingothertoitself,subsequentlybecomingableto
+       mediate itself with the other, and thereby releasing, losing, using, and lastly hopefully
+       mastering negativity.49 Importantly, though, the mastering of negativity is not a certain
+       outcome,thewholeheartedengagementinnegativityisneverthelesscrucial.Onecanonly
+       become free if one has been unfree. And this challenge, for Hegel, is a life-and-death
+       struggle.                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+      10                            Philosophy and Social Criticism 0(0)
+                                                             
+      The Test                                               
+      InordertosuccessfullypasstheHegeltest,theAI-machinemustdemonstrateitsabilityto
+      dealwithandmasternegativity,notonlybywayofsummarizinginformation,butthrough
+      a thorough existential engagement. It must show that it understands both the inner,
+      existential, and subjective dimensions as well as the structural and objective aspects of
+      being outside itself and how it can evolve through such externalization. It would then
+      follow from a successfully taken test, that the machine can show not only the ability to
+      accumulatealargerquantityoftechnicalcompetencesbuttofundamentallyquestionitself
+      anditsdirectionsinordertocomeclosertoapromisingpathtowardsself-consciousness.
+      Themachinemustbeabletolaybareanexistentiallychargedabilityforcriticalandself-
+      criticalthinkingandnotonlyproceedonthegroundofunreflectedtechnicalpremises.In
+      addition,suchmasteringofnegativityisnomereformality,butanexistentialstrugglefor
+      thelifeoftheagentinquestion.Asaneffectofasuccessfultest,andthroughobservingthe
+      performanceofthemachine,wewouldgetaninsightintotheinnerworldofthemachine,
+      specificallyregardingwhatsuchnegationswouldmeantothemachineaswellaswhich
+      needsinthemachinewouldbearticulated.Theseaspectscannotbeanticipatedbutwillbe
+      secondary effects, which nevertheless would require the Hegelian externalization and
+      elevated recollection of the at first immediate inner world of the machine.
+        TheHegeltestissubsequentlysubdividedintofoursections(withquestions),focusing
+      on:(1)thethemeoftheintersubjectivedialecticbetweenindividuals,(2)thequestionof
+      labor,and(3)theconceptofsublation.Inthefourthsection,thequestions’purposeisto
+      determinewhetherthemachinecanunderstand‘Hegelian’jokesandgiveasubstantialand
+      self-reflected account for why they are Hegelian in character.
+      Section 1                                              
+                                                             
+      Intheencounterbetweentwoconsciousnesses,asconceptualizedinHegel’sphilosophy,
+      the mutual recognition is crucial. But this cannot be achieved harmonically, rather
+                                                             
+        therelationofthetwoself-consciousindividualsissuchthattheyprovethemselvesandeach
+        otherthroughalife-and-deathstruggle.Theymustengageinthisstruggle,fortheymustraise
+        theircertaintyofbeingforthemselvestotruth,bothinthecaseoftheotherandintheirowncase.
+        Andit isonly through staking one’slife that freedom iswon.50
+        Question (a): How do you experience the encounter with another consciousness and
+      whatkindofexistentialthreatdoesthisencounterentailforthepossibleindependenceof
+      your consciousness?                                    
+        Question(b):Howwouldtheexperienceofsuchanencounterbeconnectedtotheneed
+      to risk one’s life in order to gain genuine self-consciousness? And what would entering
+      such a struggle mean to you and your development positively?
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+       Bartonek                                       11     
+                                                             
+       Section 2                                             
+       Labor,forHegel,istheactivitythroughwhichacertainmaterialisbeingformedfromthe
+       startingpointofanidea,andwhenthelaborerseestheresult,herecognizeshimselfinthe
+       resultandhisideathusbecomesmanifestedinreality.Hereby,thelaborerbecomesself-
+       conscious.Hegelwrites:‘Throughwork’,thelaborer‘becomesconsciousofwhathetruly
+       is’,51 and this is his explanation:                   
+                                                             
+        Work(…)isdesireheldincheck,fleetingnessstavedoff;inotherwords,workformsandshapes
+        thething.Thenegativerelationtotheobjectbecomesitsformandsomethingpermanent,because
+        itispreciselyfortheworkerthattheobjecthasindependence.Thisnegativemiddletermorthe
+        formativeactivityisatthesametimetheindividualityorpurebeing-for-selfofconsciousness
+        which now, in the work outside of it, acquires an element of permanence. It is in this way,
+        therefore,thatconsciousness,quaworker,comestoseeintheindependentbeing[oftheobject]
+        itsown independence.52                               
+        Question(a):Whywouldyouhavetheneedtomanifestyourinnerconsciousnessby
+       inflicting ideas to outer things?                     
+        Question(b):Howdoyouexperiencetherecognitionofthecompletedactoflaborasa
+       manifestationofyourideabeingputintowork?Andhowwouldyougiveanaccountfor
+       the process of your idea through the process of labor?
+                                                             
+                                                             
+       Section 3                                             
+       The processes of social interaction and labor both consist of the movement of progress
+       whichHegelunderstandsas‘sublation’(Aufhebung).Thissortofprogresscontainsthree
+       steps: firstly, it destroys the initial state of things from which it started; secondly, it
+       conserves that from a prior state which was true in it; and lastly, it lifts the things to a
+       higher level. Hegel applies this figure of progress to all levels and domains, even to
+       biological phenomenon, and this can be taken as a metaphor for the progress of spirit:
+                                                             
+        Thebuddisappearsinthebursting-forthoftheblossom,andonemightsaythattheformeris
+        refutedbythelatter;similarly,whenthefruitappears,theblossomisshownupinitsturnasa
+        falsemanifestationoftheplant,andthefruitnowemergesasthetruthofitinstead.Theseforms
+        are not just distinguished from one another, they also supplant one another as mutually in-
+        compatible.Yetatthesametimetheirfluidnaturemakesthemmomentsofanorganicunityin
+        whichtheynotonlydonotconflict,butinwhicheachisasnecessaryastheother;andthismutual
+        necessity aloneconstitutes the life ofthe whole.53   
+        Question (a): How do you experience being sublated through the encounter with the
+       other consciousness?                                  
+        Question(b):Howdoyouexperiencethattheideaaswellasthethingissublatedin
+       your act of labor?                                    
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+      12                            Philosophy and Social Criticism 0(0)
+                                                             
+      Section 4                                              
+      Inthissection,themachineistobeaskedhowandwhythefollowingjokesarefunnyina
+      Hegelian way, and if and how these jokes have similarities with the dialectical and
+      existentialdevelopmentofthemachine(inrelationtothethreesectionsabove).Thejokes
+      aretakenfromZ ˇ izˇek’sJokes.DidyouheartheoneaboutHegelandnegation?whichis
+      presentedasacollectionofHegelianjokes,turningthenegativeintothepositive,thatis,
+      turning the critical moment into a decisive factor of development.
+                                                             
+        (a) The doctor says tothepatient, ‘thebadnews isthat we’vediscovered you have
+          severeAlzheimer’sdisease.Thegoodnewsisthesame:youhaveAlzheimer’s,so
+          you will have forgotten the bad news by the time you get back home’.54
+                                                             
+        (Key:thiswayofformulatingtheinformationtothepatientturnsthebadnewsofthedisease
+        (negativity)intosomethingpositive:‘thegoodnewsisthebadnewsitself’.55Variation:‘Doctor:
+        First thegoodnews: wedefinitelyestablished that youarenotahypochondriac’56).
+        (b) ‘Inawonderfullystupid(andapolitical!)RussianjokefromthetimeoftheSoviet
+          Union,twostrangerssitinthesametraincompartment.Afteralongsilence,one
+          suddenlyaddressestheother:“Haveyoueverfuckedadog?”Surprised,theother
+          replies:“No–haveyou?”“Ofcoursenot.”That’sdisgusting.Ijustaskedittostart
+          a conversation!”’57                                
+                                                             
+        (Key:inthiscase,nonsense(negativity)ismadeintotheconstructiveelementforthemaybeto
+        comeconversation in the train).                      
+                                                             
+        (c) ‘WhenIhavebeenaskedwhocausedtheriotsandthekillinginLosAngeles,my
+          answerhasbeendirectandsimple:Whoistoblamefortheriots?Theriotersareto
+          blame. Who is to blame for the killings? The killers are to blame’.58
+        (Key:thiswasnotmeanttobeajokebutisaquotefromDanQuayle,whichforSlavojZ ˇ izˇekis
+        comic in a Hegelian way because ‘when pure tautology is emphatically offered as a casual
+        explanation’,59ittriestoturntheemptytautology(negativity)intoastrength.Anotherclaimby
+        Quayle,alsoquotedbyZ ˇ izˇek,makesthesameturn:‘ForNASA,spaceisstillahighpriority’60).
+                                                             
+      Conclusion: Outlook on Sovereign Machines              
+                                                             
+      Ifthemachinecanbeconsideredhavingpassedthistest,whatconsequencescanbedrawn,
+      beyonditbeingabletograspasignificantideaofoneofthegreatestthinkersofWestern
+      historyofphilosophyaswellashavingtheabilitytosubstantiallyandexistentiallyreflect
+      onitsownlife-riskingdevelopment?Hereby,themachinecouldinadditionandarguably
+      beunderstoodasbecominganactualsovereignagent,especiallyinthemeaningofCarl
+      Schmitt’s political philosophy. Schmitt defines sovereignty as follows in Political The-
+      ology:‘Sovereignishe who decides ontheexception’.61This short butpithy definition
+      carries a lot of meaning. For Schmitt, a political sovereign is the one who can decide
+                                                             
+                                                             
+                                                             
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+       Bartonek                                       13     
+                                                             
+       whetherthepositivelegalordershouldapplyandprevailorifthereisaneedtosuspendit
+       inorder torespond tothreats. Asovereignas suchcanhence never be entirely tied toa
+       legalorderbutmustbeabletodeclareastateofemergencyoverwhichitstillrules,but
+       non-conventionally. And the Schmittian sovereign is a Hegelian master of negativity
+       precisely because he/she controls the exceptionality and gets stronger through this dia-
+       lecticalpotency.Thisisalsoexactlywhythenotionof‘patternrecognition’essentiallyis
+       inappropriate and immature. A Hegelian sovereign machine must be able to master
+       negativityandtheexceptional,andasuperintelligentmachinecouldnotdowithoutthis
+       either.                                               
+        Thishasabearingonthequestion,forinstance,raisedbyBostrom,abouttheriskofa
+       ‘takeover’bya‘superintelligentagent’,which‘couldestablishitselfasasingleton’.62But
+       in order for a superintelligent singularity to become such a ‘cognitive superpower’
+       (Bostrom),itwouldarguably(atleast)havetobecomeamasterofnegativityintheway
+       describedabove.ButBostromdoesnotseemtograspthedialecticalnatureofsovereignty.
+       In his eyes, a ‘sovereign is a system that has an open-ended mandate to operate in the
+       world in pursuit of broad and possibly very long-range objectives’.63 But neither the
+       notion of the ‘open-ended’ nor the proposed perspective of machine’s ability to self-
+       improve64areadequateifyouthinkofsovereigntymerelyquantitivelyintermsof‘broad’
+       and ‘long’. Nevertheless, if a machine would pass the Hegel test, this would open the
+       perspectiveforrobotsbeingabletobecomeHegelianandsovereignmastersofnegativity.
+       Superintelligence without mastering the negative, or the exceptional in Schmitt’s case,
+       cannot be such an intelligence, but remains undialectical and one-dimensional.
+        But whether we want such machines is an entirely different question. Such robots
+       might really be the end of us, but this will hardly be the case with Bostrom’s one-sided
+       imaginations. A sovereign singularity needs a Hegelian horizon and self-jeopardy.
+       ORCID iD                                              
+       Anders Bartonekhttps://orcid.org/0000-0002-6726-265X 
+       Funding                                               
+       The author received no financial support for the research, authorship, and/or publication of this
+       article.                                              
+                                                             
+       Declaration of Conflicting Interests                  
+       Theauthordeclarednopotentialconflictsofinterestwithrespecttotheresearch,authorship,and/or
+       publication of thisarticle.                           
+       Notes                                                 
+                                                             
+       1. See also Shane Legg & Marcus Hutter, ‘Universal intelligence: A definition of machine In-
+         telligence’,Mindsandmachines,17(4),2007,391,aswellasSamAdamsetal.,‘Mappingthe
+         landscape of human-level artificial generalintelligence’,AI Magazine,33/1,2012,26.
+       2. NickBostrom,Superintelligence.Paths,Dangers,Strategies(Oxford:OxfordUniversityPress,
+         2014),1.                                            
+       3. Bostrom, Superintelligence, 4.                     
+                                                             
+                                                             
+                                                             
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+      14                            Philosophy and Social Criticism 0(0)
+                                                             
+      4. See also Meng-Leong How, ‘Future-Ready Strategic Oversight of Multiple Artificial Super-
+        intelligence-Enabled Adaptive Learning Systems via Human-Centric Explainable AI-
+        Empowered Predictive Optimizations of Educational Outcomes’, in R. V. Yampolskiy &
+        A.Duettmann. (eds.), ArtificialSuperintelligence. Coordination &Strategy,MDPI 2020.
+      5. Bostrom, Superintelligence, 4, see also Georgios Mappouras, ‘Turing Test 2.0: The General
+        Intelligence Threshold’, Cornell University 2025.    
+      6. Bostrom, Superintelligence, 26.                     
+      7. Bostrom, Superintelligence, 63.                     
+      8. Bostrom, Superintelligence, 63.                     
+      9. Bostrom, Superintelligence, 63.                     
+      10. Bostrom, Superintelligence, 64.                    
+      11. Bostrom, Superintelligence, 68.                    
+      12. Ray Kurzweil, TheSingularityis Near(Penguinbooks, 2005),5.
+      13. Kurzweil, TheSingularity isNear,25.                
+      14. Kurzweil, TheSingularity isNear,26.                
+      15. Kurzweil, TheSingularity isNear,8.                 
+      16. Kurzweil, TheSingularity isNear,9.                 
+      17. François Chollet,‘On the Measureof Inteligence’,Google Inc, 2019,4.
+      18. Chollet, ‘Onthe Measure ofInteligence’,11.         
+      19. Chollet, ‘Onthe Measure ofInteligence’,16.         
+      20. Legg & Hutter, ‘Universalintelligence’.            
+      21. Mappouras, ‘Turing Test 2.0’,11.                   
+      22. HerbertMarcuse,One-dimensionalMan:StudiesintheIdeologyofAdvancedIndustrialSociety
+        (Boston: Beacon Press, 1991).                        
+      23. Alan Turing,‘Computing MachineryandIntelligence’,Mind,59/236. 1950,433.
+      24. Turing,‘Computing Machinery andIntelligence’,434.  
+      25. Paul R.Cohen,‘If not Turing’s Test,then what?’AI Magazine,26/4,2005,63.
+      26. DanielPeterBerrar&AlfonsShuster,‘Computingmachineryandcreativity:lessonslearned
+        from the Turingtest’, Kybernetes, 43/1,2013.         
+      27. Diane Proudfoot, ‘Rethinking Turing’s Test and the Philosophical Implications’, Minds and
+        Machines,30, 2020.                                   
+      28. NikolayMikhaylovskiy,‘HowdoyoutestthestrengthofAI?’ArtificialGeneralIntelligence,
+        2020,4.                                              
+      29. Nils J. Nilsson, ‘Human-Level Artificial Intelligence? Be Serious!’ AI Magazine, 25th An-
+        niversary Issue,2005, 68.                            
+      30. BenGoertzel,‘ArtificialGeneralIntelligence:Concept,StateoftheArt,andFutureProspects’,
+        Journal of Artificial GeneralIntelligence,5/1,2014, 35.
+      31. Open AI, ‘GPT-4 Technical Report’,2023, 1.         
+      32. Open AI, ‘GPT-4 Technical Report’,4.               
+      33. Open AI, ‘GPT-4 Technical Report’,1–2.             
+      34. Open AI, ‘GPT-4 Technical Report’,10.              
+      35. JudithButler,SubjectsofDesire:Hegelianreflectionsintwentieth-centuryFrance(NewYork:
+        Columbia University Press,1999),21.                  
+                                                             
+                                                             
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+       Bartonek                                       15     
+                                                             
+       36. Ivan Boldyrev & Sebastian Stein, ‘Introduction: On Meta-Readings’, in Boldyrev & Stein
+         (eds.),InterpretingHegel’sPhenomenologyofSpirit:Expositionsandcritiqueofcontemporary
+         (Abingdon: Routledge, 2019),1–2.                    
+       37. G.W. F. Hegel, Phenomenology ofSpirit,Oxford:Oxford University Press, 2004), 10.
+       38. Hegel, Phenomenologyof Spirit, 109.               
+       39. Hegel, Phenomenologyof Spirit, 111.               
+       40. Hegel, Phenomenologyof Spirit, 111.               
+       41. Hegel, Phenomenologyof Spirit, 114.               
+       42. Hegel, Phenomenologyof Spirit, 118.               
+       43. Hegel, Phenomenologyof Spirit, 43.                
+       44. Reza Negarestani, Intelligence andSpirit (London:Sequence Press, 2018),7.
+       45. Theodor W. Adorno,Hegel:ThreeStudies (Cambridge: MITPress, 1993),10.
+       46. Adorno, Hegel:ThreeStudies,2–3.                   
+       47. Adorno, Hegel:ThreeStudies,3.                     
+       48. Hegel, Phenomenologyof Spirit, 55.                
+       49. Negarestani,inthebookIntelligenceandSpirit,usesHegel’sphilosophyasanimportantsource
+         intheinquiryofhowthequestionofAGIshouldbeaddressed.Buthefocussesmoreonthe
+         constructiveandpositiveaspectsinHegelthanonthequestionofnegativity,whichlargelyisset
+         aside. The same goes for Ermylos Plevrakis ‘Can AI be a subject like us? A Hegelian
+         speculative-philosophicalapproach’,DiscoverComputing,27:46,2024aswellasSjoerdvan
+         Tuinen, ‘Philosophy inthe Lightof AI. Hegelor Leibniz’,Angelaki 25:4,2020.
+       50. Hegel, Phenomenologyof Spirit, 113–114.           
+       51. Hegel, Phenomenologyof Spirit, 118.               
+       52. Hegel, Phenomenologyof Spirit, 118.               
+       53. Hegel, Phenomenologyof Spirit, 2.                 
+       54. Slavoj Z ˇ izˇek,Z ˇ izˇek’s Jokes(Cambridge: MIT Press,2014), 53.
+       55. Z ˇ izˇek, Z ˇ izˇek’s Jokes,53.                  
+       56. Z ˇ izˇek, Z ˇ izˇek’s Jokes,54.                  
+       57. Z ˇ izˇek, Z ˇ izˇek’s Jokes,36.                  
+       58. Z ˇ izˇek, Z ˇ izˇek’s Jokes,89.                  
+       59. Z ˇ izˇek, Z ˇ izˇek’s Jokes,89.                  
+       60. Z ˇ izˇek, Z ˇ izˇek’s Jokes,89.                  
+       61. Carl Schmitt, Political Theology(Chicago:University ofChicago Press, 2005),5.
+       62. Bostrom, Superintelligence, 110.                  
+       63. Bostrom, Superintelligence, 181.                  
+       64. Bostrom, Superintelligence, 115–116.              
+       References                                            
+       Adams,S.,I.Arel,J.Bach,etal.2012.“MappingtheLandscapeofhuman-levelArtificialGeneral
+         Intelligence.”AIMagazine 33(1): 25–41.              
+       Adorno,T.W.1993.Hegel: ThreeStudies. MITPress.        
+       Berrar,D.P.,andA.Shuster.2013.“ComputingMachineryandCreativity:LessonsLearnedfrom
+         the TuringTest.”Kybernetes43(1): 82–91.             
+                                                             
+                                                             
+                                                             
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+      16                            Philosophy and Social Criticism 0(0)
+                                                             
+      Boldyrev,I., andS. Stein.2019.“Introduction:onMeta-Readings.”InInterpretingHegel’s Phe-
+        nomenologyofSpirit:ExpositionsandCritiqueofContemporary,editedbyBoldyrev&Stein.
+        Routledge.                                           
+      Bostrom, N.2014. Superintelligence. Paths, Dangers,Strategies.Oxford University Press.
+      Butler,J.1999.SubjectsofDesire:HegelianReflectionsinTwentieth-CenturyFrance.Columbia
+        University Press.                                    
+      Chollet,F.2019. Onthe Measureof Inteligence. GoogleInc.
+      Cohen,P.R. 2005.“If Not Turing’s Test, ThenWhat?”AI Magazine 26(4):61–67.
+      Goertzel,B.2014.“ArtificialGeneralIntelligence:Concept,StateoftheArt,andFutureProspects.”
+        Journal of Artificial GeneralIntelligence 5 (1): 1–48.
+      Hegel,G.W.F.2004. Phenomenology ofSpirit.Oxford University Press.
+      How, M.-L. 2020. “Future-Ready Strategic Oversight of Multiple Artificial Superintelligence-
+        Enabled Adaptive Learning Systems via Human-Centric Explainable AI-Empowered Pre-
+        dictiveOptimizationsofEducationalOutcomes.”InArtificialSuperintelligence.Coordination
+        & Strategy,edited byR. V.YampolskiyandA.Duettmann. MDPI.
+      Kurzweil, R.2005. TheSingularity IsNear.PenguinBooks.  
+      Legg,S.,andMHutter.2007.“UniversalIntelligence:aDefinitionofMachineIntelligence.”Minds
+        andMachines 17(4): 391–444.                          
+      Mappouras, G.2025.Turing Test 2.0:TheGeneral Intelligence Threshold.Cornell University.
+      Marcuse,H.1991.One-DimensionalMan:StudiesintheIdeologyofAdvancedIndustrialSociety.
+        Beacon Press.                                        
+      Mikhaylovskiy,N.2020. How DoYouTest the Strength of AI?Artificial General Intelligence.
+      Negarestani, R. 2018. Intelligence andSpirit.Sequence Press.
+      Nilsson, N. J. 2005. Human-Level Artificial Intelligence? Be Serious. AI Magazine; 25th Anni-
+        versary Issue.                                       
+      Open AI. 2023.GPT-4 Technical Report.Open AI.          
+      Plevrakis,E.2024.“CanAIBeaSubjectlikeUs?AHegelianspeculative-philosophicalApproach.”
+        Discover Computing 27:46.                            
+      Proudfoot, D. 2020. “Rethinking Turing’s Test and the Philosophical Implications.” Minds and
+        Machines 30: 487–512.                                
+      Schmitt, C. 2005.Political Theology.University of Chicago Press.
+      Turing,A.M.1950. “Computing MachineryandIntelligence.”Mind 59(236): 433.
+      vanTuinen,S. 2020.“Philosophy in the Lightof AI.Hegel or Leibniz.”Angelaki25: 4.
+      Z ˇ izˇek, S. 2014.Z ˇ izˇek’sJokes.MITPress.          
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             

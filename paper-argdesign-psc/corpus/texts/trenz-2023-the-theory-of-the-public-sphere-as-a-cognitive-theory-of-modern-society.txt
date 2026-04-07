@@ -1,0 +1,831 @@
+[PAGE 1]
+                                                             
+                                                             
+                                                             
+                                                             
+      Article                                                
+                                                             
+                                         PhilosophyandSocialCriticism
+                                         2024,Vol.50(1)125–140
+      The  theory of the public sphere                       
+                                         ©TheAuthor(s)2023   
+                                         Articlereuseguidelines:
+      as a cognitive theory of modern    sagepub.com/journals-permissions
+                                         DOI:10.1177/01914537231203905
+      society                            journals.sagepub.com/home/psc
+      Hans-Jo¨rg Trenz                                      
+      ScuolaNormaleSuperiore,Italy                           
+                                                             
+                                                             
+      Abstract                                               
+      The Structural Transformation of the Public Sphere is a key contribution to political
+      philosophy,mediahistory,democratictheoryandpoliticaleconomy–publishedalmost
+      60yearsago–thatleftadeepimprintontheprocessofdemocraticconsolidationofthe
+      Federal Republic of Germany. At the same time, the Habermasian model of the public
+      spherewasusedtotestoutthepossibilitiesofdemocratisationbeyondthenation-state.
+      The theory of the public sphere was, however, mainly discussed as a contribution to
+      normative political theory and, as such, the applicability of its normative standards re-
+      mained contested. In this article, I focus instead on a second sociological reading of
+      Habermas’theoryofthepublicsphereasanexplorationofthecognitivefoundationsof
+      modern society. The relevance of this approach can be shown in an exemplary way by
+      discussing the functioning of publicity, which, by creating social visibility and facilitating
+      publicopinionformation,ontheonehand,providestheknowledgebaseofasharedsocial
+      worldand,ontheotherhand,becomesthemaindriverofsocialchangethroughcritical
+      self-reflection.Thearticlegoesontotakealookatrecentpublicspheretransformations
+      inthecontextofdigitalisationandglobalisation,andarguesthatpublicsphereprinciples
+      arebothunderminedandgainnewrelevancewhenfacingthechallengesofnewanddigital
+      media.                                                 
+      Keywords                                               
+      communication, public sphere, publicity, democracy, Habermas
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+      Correspondingauthor:                                   
+      Hans-Jo¨rgTrenz,FacultyofPoliticalandSocialSciences,ScuolaNormaleSuperiore,PalazzoStrozzi,Piazza
+      degliStrozzi50123FirenzeItaly.                         
+      Email:Hansjorg.trenz@sns.it                            
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+      126                          Philosophy and Social Criticism 50(1)
+                                                             
+                                                             
+      Cognition and publiccriticism:Thehistory ofthe concept ofthe
+      public sphere                                          
+      ThenotionofthepublicsphereisdeeplyrootedinGermanideologicalthought.Looking
+      backat60yearsofHabermas’StructuralTransformationofthePublicSphere,onecannot
+      help but notice how the critical reading of the public sphere by scholars from different
+      disciplineshasalwaysbeencloselyrelatedtothehistoryofdemocratisationoftheFederal
+      Republic of Germany, its critical distance to the past and its future orientation as a
+      democratic nation-state within a united Europe.1 Still in the spirit of ‘critical theory’,
+      Habermas’ starting assumption in his habilitation thesis was the colonisation of the
+      bourgeois public sphere, which he saw as growing into the realm of consumption, thus
+      becomingapolitical,inordertosimultaneouslydisseminateideologyandsuppresspublic
+      reasoning.2SuchaMarxistcritiqueofmediacapitalismandconsumptionwasenvoguein
+      the sixties and seventies. It explained how the media and its products took commodity
+      form, which in turn had an ideological impact on ‘false consciousness’, and how such
+      processes were controlled by the culture industries in close cooperation with the ruling
+      classes. Accordingly, the culture-consuming public sphere was described no longer as
+      opinion-forming but as consciousness-altering. It aimed not at the formation of the in-
+      dividualasaself-determiningpoliticalsubject,butatmassconsumption.3Modernmass
+      media publicity, the critique argues, ischaracterised by the monopoly of producers, the
+      passivityofaudiencesandthecommodificationofcontentforprivateprofit.Inthisearly
+      work, as Habermas himself acknowledges in a new preface to the 1990 reissue, the
+      influenceofAdornoandHorkheimer’stheoryofmassculturewasstillevident.4Asearly
+      as 1962, however, Habermas also recognised the potential for emancipation of the
+      democratic public sphere.5 In a thoroughly forward-looking way, Habermas directs his
+      attentiontothetransformationoftheliberalconstitutionalstateintoasocialconstitutional
+      state, and thus to the need for broader social involvement of organised actors and as-
+      sociations, that is, to the expansion of civil society structures.6 Here, the possibility of
+      redemocratising the public sphere of domination (‘vermachtete O¨ffentlichkeit’) was
+      indicated,whichwasactuallytriggeredbythesocialmobilisationsofcivilsocietyinthe
+      late sixties and seventies.                            
+        In the reading of this epoch-making work, both system-critical and emancipatory
+      strands of interpretation remain closely interwoven: a critical-Marxist tradition of ana-
+      lysingtheideologyandpoliticaleconomyofthepublicsphereofmarkets,7aswellasan
+      institutionalist tradition of assessing the performance of plural, representative, partici-
+      patoryordiscursivepublicspheres,theirinfrastructures,institutionsandproceduresinthe
+      contextofdemocraticopinion-formation.8Inhislaterwork,JürgenHabermascontributed
+      in particular to the further development of the emancipatory model of the democratic
+      public sphere. Exemplary for this are his considerations of the conditions of discourse
+      drivensociallearningprocessesthroughwhichtherationalpotentialoftheEnlightenment
+      unfolds and democratisation continues.9 The counter-model of a commodified mass-
+      media public sphere, in turn, underwent an important correction in the way alternative
+      market structures were taken into account and, above all, the role of the audience was
+      revalued.10Inrecentmediaandcommunicationresearch,audienceresponseisnolonger
+                                                             
+
+[PAGE 3]
+                                                             
+                                                             
+      Trenz                                          127     
+                                                             
+                                                             
+                                                             
+      operationalisedasadependentvariable;instead,theaudienceisonceagainassignedthe
+      active role it has played since the Enlightenment.11 Political economy approaches of a
+      commodified public sphere and institutional or cultural-theoretical approaches to a
+      critically reflexive public sphere should, therefore, not be seen as mutually exclusive.
+      Mutually dependent, they inspire each other and thrive off critical exchange.
+        Finally,themodelofHabermas’publicspherehasbeenappliedtotheexplanationof
+      thepotentialofdemocratisationbeyondthenational.12Here,again, Habermas provides
+      major intellectual input. In his contribution to sociology of law ‘Between Facts and
+      Norms’publishedin1992,Habermaspointstothepossibledetachmentoftheconceptsof
+      publicsphereandcivilsocietyfromtheirfixationonthestate.Suchanembeddingofthe
+      publicsphereinthestatewasstilltacitlyassumedinanencyclopediaarticlepublishedin
+      1964:“Wespeakofapoliticalpublicsphere,incontrast,forinstance,totheliteraryone,
+      whenpublicdiscussionsdealwithobjectsconnectedtotheactivityofthestate.Although
+      stateauthorityis,sotospeak,theexecutorofthepublicsphere,itisnotpartofit(…)”.13
+        Inthisearlyformulation,thepublicspherewasconceptualisedasamediatorbetween
+      ‘society and the state’. Its democratic control function applies to state activities. Ac-
+      cordingly,opinion-formationprocesseswereseenasbeingboundbythestate,sothatthe
+      ‘public of the citizens of the state’ can represent the nation and exercise its task of
+      controlling ‘state-organised rule’.14                  
+        By contrast, in ‘Between Facts and Norms’, the public sphere is more generally
+      describedasasoundingboardforproblemsthatneedtobedealtwithpolitically.15Such
+      political signalling effects that speak to shared problems in need of collective solutions
+      canthenalsounfoldinacontextinwhichthepublicauthoritytoresolvesuchproblemsis
+      still insufficiently established, or must first be constituted. Civil society, in particular,
+      becomes active where the state is ineffective or state intervention is undesirable. This
+      opens up possibilities for reconstituting statehood or governing beyond the state, wit-
+      nessed by its increasing relevance in theEuropean unification process.16 Consequently,
+      thepublicsphereisnolongerbasedonstatestructures,butappearsfirstandforemostasa
+      looseandnon-binding‘networkforthecommunicationofcontentandopinions’.Itisa
+      ‘shared social space of communicative actions’ that is constituted through its own op-
+      erationsthusnotpre-established.17Theaudience,too,isnolongerastateaudience,ora
+      legally defined electorate, but rather the generalised addressee to put to the test the
+      persuasive power of communicative actions.18           
+        This nation-state detached definition of the public sphere is all the more interesting
+      because it is receptive to a procedural understanding of the generation of political le-
+      gitimacy that is applicable to international relations, traditionally conceived of as the
+      realmofanarchy.19ItcanbesurmisedthatHabermaswasalreadyconcernedatthispoint
+      with the problem of the democratic deficit in the European Union and the con-
+      stitutionalisationofanewcosmopolitanworldorder;alltopicsthatappearedprominentin
+      hispoliticalwritingsintheNinetiesandearly2000s.20Sharedworldsofunderstanding
+      mayoftenbecondensedintonation-states,buttherelationsofmutualobservationreach
+      beyondsuchstate-boundandculturallyconfinedspaces,andrelatetoaworldaudienceas
+      the principal addressee of public reason and claims of generalised validity. Precisely
+      becausephysicalpresenceisbecominglessandlessnecessaryinamass-mediatedpublic
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+      128                          Philosophy and Social Criticism 50(1)
+                                                             
+                                                             
+      sphere, audiences, readers or viewers can detach themselves from existing social or
+      political spacesandareevenencouragedtodosobytheglobalculture industry.Topic-
+      specific opinion formation, in particular, is increasingly taking place in a complex
+      network ‘that branches out spatially into a multitude of overlapping international, na-
+      tional, regional, communal, subcultural arenas’.21 Such multi-level public spheres are
+      oftenfunctionallydifferentiatedandorganisearound thematic orpolicyareas, thusalso
+      offering themselves as control instances of governance beyond the nation-state.22
+        Finally, Habermas points out that political public spheres (like civil society) have
+      empirical reference points and are not merely normative postulates.23 These factual
+      relations facilitated by national and global communications, and the opinions that
+      crystallise through these communicative exchanges as well as their effects on political
+      legitimacyaretobeuncoveredbypoliticalscienceandmediastudies,buttheyalsoposea
+      macrosociological challenge in the assumption of an interrelation between the public
+      sphereandsocialchange.Theprocessoflegitimationandthepermanentdemocratisation
+      facilitatedbythecommunicativeinfrastructuresofthepublicspheredonotonlyimpact
+      on decision-making procedures, but also account for the integration of complex and
+      anonymous societies. Therefore, public sphere theory cannot be reduced to democratic
+      theory,butmustultimatelybeformulatedastheoryofsociety.Inthisway,thelong-term
+      institutionalised processes of democratic legitimation can be related to the evolution of
+      modernsociety.Thenormativevalidityofthepublicspherebecomes‘factual’intheway
+      it shapes institutions, law and last but not least the attitudes and practices of demo-
+      cratically minded citizens.                            
+        In summary, public sphere theoryhas been interpretedprimarilyas acontribution to
+      normative political theory and tested for its validity in changing political constellations
+      (Fraser2007).Thenormativequestionofhowthepublicspherecontributestodemocracy
+      wasthushighlightedoverthesociologicalquestionofhowthepublicsphereconstitutes
+      modernsociety.Thislatteraspectofasociologyofthepublicsphereasacognitivetheory
+      of modern society will be elaborated and evaluated in the following section.
+      Public sphere as a building block of a theory of modern society
+      Public sphere theory should not only be understood as a contribution to the normative
+      theoryofdemocracy,butalwaysremainstiedbacktosocialtheory.Thislinkagebetween
+      public sphere theory and sociological theory was already at the core of Habermas’
+      ‘StructuralTransformation’.Inordertobeabletospeakofastructuraltransformationof
+      the public sphere, we must acknowledge the structuring effects of communication in
+      relationtosocialchange.Thisisnotsimplyamatterofredeemingdemocraticlegitimacy
+      throughthestructuresofthepoliticalpublicsphere,thatis,thepublicsphereasatemplate
+      fordemocraticpractice.Itisalsoaboutelaboratinganunderstandingoftheconstitutive
+      dynamics of public discourse, which at the same time establish social order and drive
+      socialchange.Democratisationandsocietalrationalisationcannotbereducedtothewill
+      of political actors; they are also evolutionary, institutionally and sociostructurally em-
+      bedded, and thus need to be understood as the ‘laws of the social’ that account for the
+      dynamic unfolding of modern society.24                 
+                                                             
+                                                             
+
+[PAGE 5]
+                                                             
+                                                             
+      Trenz                                          129     
+                                                             
+                                                             
+                                                             
+        ThemostelaboratechapterinHabermas’StructuralTransformationonthetopicofthe
+      social-constitutive dynamics of the public sphere are his remarks in paragraph 13 on
+      Immanuel Kant.25 Historically, the public sphere comes into play as a context for jus-
+      tifyingsocialorder.AccordingtoKant,however,thesearenotsolelymoral-philosophical
+      justifications,suchasthosecitedinHobbes’Leviathan.Rather,publicityunfoldsinthe
+      individual and social practices of the public use of reason. This is the ‘method of en-
+      lightenment’understoodnotonlyastheyardstickforthelegitimacyofstateorder,butalso
+      as the regulator of interpersonal relations. Kant is sociologically reinterpreted here in
+      terms of a theory of the rationalisation of social order and its moral foundations. The
+      public use of reason is no longer the province of scholars alone, but becomes a social
+      mandate: “The public sphere within which philosophers practice their critical craft is,
+      however, notwithstanding its academic centre, not a merely academic one. Just as
+      philosophers’ discussions take place in the face of government, (…) so, too, do they
+      beforetheaudienceof‘thepeople,’toinstructthemtomakeuseoftheirownreason.”26
+        AsHabermasfurtherelaborates,thepositionofthisaudienceisambiguous;ontheone
+      hand,itisimmature,sinceitisnotyetenlightened,whileontheotherhand,itconstitutes
+      itself in the public use of reason to claim its maturity. The public sphere thus simulta-
+      neously enables the emancipation of society and creates social order by enabling indi-
+      viduals,intheKantiansense,torelatetotherulesofmorality.Publicspheretheoryhere
+      becomesthetheoryofintegrationofmodernsociety:‘Thedeliberatingaudienceof“men”
+      constitutesitselfintothatof“citizens,”wherebyitcomestoanunderstandingaboutthe
+      affairs of the “common being.”’27 For Kant/Habermas, civic society unfolds through
+      discourse that makes public use of reason, and can legitimise itself on its own terms to
+      provideforthecommongoodwithouthavingtobuildontranscendentalpremisesorpre-
+      politicalfoundations.Societycanexistbecauseitcanrationallyjustifyitself,relyingon
+      noauthoritiesoutsidethesocial.Apoliticallyfunctioningpublicspheregeneratessocial
+      order, more specifically, a democratically constituted order.
+        In order to pursue this programme further, a theory of society based on the use of
+      languageisneeded.Thistheorymustsatisfythedemandsofbeingabletoexplainasocial-
+      integrative dynamic inherent in public communication, and to derive its structuration
+      effect. It is, therefore, no coincidence that Jürgen Habermas turned to an action- and
+      communication-theoreticalfoundationofsociologyinhisnextmajorproject.Habermas’
+      theory of communicative action can be understood as a translation of Kant’s socio-
+      evolutionary reflections on the unfolding of public reason into a neo-Kantian commu-
+      nicationtheoryofsociety.28Anticipatingthelaterdevelopmentofasociologyofpractice,
+      thetheoryofcommunicativeactionisexplicitlybasedonashiftfromthetranscendenceof
+      social order, often presupposed in classical sociological theories, to the communicative
+      practicesofeverydaylife.Byfollowingthispragmaticunderstanding,theparticipantsin
+      societal communications do not only constantly (re)produce the meaning structures of
+      modern society; they also critically validate them and reflect on the desirability or un-
+      desirabilityoftheirobservedeffects.Theoperationsofacriticalanalysisofsocietyare,so
+      tospeak,takenupandcontinuedbytheparticipantsinsociety.Thiscapacitytoengagein
+      public discourse develops over the course of societal rationalisation, which at the same
+      timepromotesreflexivity,thatis,theabilitytocriticallyself-observeinordertomakethe
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+      130                          Philosophy and Social Criticism 50(1)
+                                                             
+                                                             
+      initiallyopaquestructuresofmeaningofthelifeworldtransparentfortheparticipants,to
+      enablethemtojustifytheirchoicesandpreferencesand,atthesametime,totranslatethem
+      into collective reasoning that guides future action.   
+        To be able to reconstruct the evolution of modern society as a collectively practiced
+      critiqueofreason,HabermasdrawsonthesymbolicinteractionismofMeadandSchützto
+      demonstrate how the collective understandings that crystallise in the public flow of
+      communication also constitute meaningfully structured life contexts, or shared life-
+      worlds.29Thelifeworldthengenerallybecomesthe‘spaceofreason’30andoverlapsina
+      peculiar way with the public sphere, which is often described as the ‘universe of dis-
+      course’ or the ‘universe of public reason’.31 Communicative action takes place in the
+      exchangeofreasons,andthushasastructuringeffect.Theactorsandinstitutionsinvolved
+      in everyday exchanges of reasons move in the public sphere and make use of its in-
+      frastructures. The public reasoning, however, also goes beyond the coordination of
+      everyday action, enabling the coupling of the lifeworld and the system world, where
+      power-andmarket-driven relations meet the demandsfor societal rationalisation. Here,
+      too, the coupling of the different system levels presupposes the infrastructures of the
+      publicsphere,whichallowsformarket-andpower-regulatinginterventions.Thepublic
+      sphere, however, cannot be confined, as is sometimes erroneously argued, as a special
+      case of consensus-building through the mechanism of public deliberation.32 If the de-
+      liberativeexchangeofargumentsismerelyunderstoodasamechanismforthefabrication
+      of consensus, such a technocratic reading of the public sphere would miss the binding
+      forces of public discourse that do not derive from its achieved outcomes, but from the
+      sharedcommitmenttoreasoninanopenandprincipallyinconclusivedebatethatconnects
+      participants,ifnecessaryalsoacrossculturesandlanguages.Thisisalsowhythepublic
+      sphere, as well as modern society on which it is built, cannot be reduced to existing
+      language communities, for instance, in the emphatic sense of an ethnic or cultural na-
+      tion.33 In classical sociology, the social bonds that distinguished modern anonymous
+      society from community were identified early, for instance, in the discussion of the
+      establishment of solidarity relations among strangers. Solidarity in modern societies
+      differspreciselyinthewaymutualobligationsandresponsibilitiesarediscussedandcan
+      claim validity between individuals who have no kinship relations and often face each
+      other only as abstract subjects.34                     
+        To develop a sociological understanding of the binding force of public discourse in
+      relation to the socio-integrative dynamics of modern society, it is further necessary to
+      reconsiderthespatialdimensionofthepublicsphere.Asiswellknown,thepublicsphere
+      is‘sphere’or‘network’,notspace,whichiswhytranslationscommonlyusedinEnglish
+      and French, such as public space or espace publique, are misleading.35 Nevertheless,
+      publicsphere unfoldsinsocial space throughtheexercise ofcentrifugalandcentripetal
+      forces. Both are closely related to the functional performances of the public sphere and
+      mass media. Public sphere disperses communication and attentions while transcending
+      boundaries. It creates a Babylon of languages through the multiplication of content in
+      termsofwhatcanbesaidinpublicandhowitcanbeinterpreted.Thepublicspherecan
+      oftenbeverynoisyanddiffuse.Atthesametime,italsocondensescommunication,filters
+      opinions and crystallises the noise it generates into language and understanding. The
+
+[PAGE 7]
+                                                             
+                                                             
+      Trenz                                          131     
+                                                             
+                                                             
+                                                             
+      excitingthingisthatthepublicspherealwaysdoesboth,andthusexpandstheuniverseof
+      understandingaccessiblethroughlanguage,puttingwhatcanbesaidintonewformsand
+      making it accessible to ever-wider audiences.          
+        Thesociety-shapingforceofthepublicsphereisalsooftendiscussedintermsofthe
+      ‘impact of public opinion’, whereby ‘impact’ in empirical media studies is generally
+      studiedincausalterms.Habermashimselfratherspeaksofa‘mentality-shapingimpact’
+      ofpublicopinion.36Butwhatexactlyconstitutespublicopinionisnotsoeasytograsp;the
+      ‘publishedopinion’inthemediaandthe‘surveyedopinion’ofpollsarerarelycongruent,
+      andareoftensubjecttotension.Whatissaidandwhatisthoughtcanbefarapart;andin
+      particular, in our times, it has become popular to diagnose a discrepancy between the
+      published opinion in newspapers and public opinion.37 However, the precise measure-
+      mentofpublicopinionisnotwhatmattersatall;rather,publicopinionresearchshouldbe
+      concerned with processes of opinion formation and not with the possible ‘correct’ in-
+      terpretationofanartifactthatcanalwaysbeobservedfromdifferentangles.Moreover,the
+      public sphere is not simply the mirror of public opinion. Its performance stretches well
+      beyondtheprocessesofopinionformationtoincludethepossibilityofreflexivityinthe
+      modeofsecond-orderobservation,wherebytheavailableoptionsfortheconstitutionof
+      ‘legitimate’ social and political order themselves become the meta-theme of public
+      debatesandexchange.38Themediainfrastructuresprovidedviathepublicspheremakeit
+      possibletocriticallyassessandquestionthe‘glimpses’ofopinionthatcrystalliseinthe
+      mirrorofthepublicsphere:‘Peoplecancommentagainonwhattheyperceiveaspublic
+      opinion’.Reflexivitythusmeans:onecanalsoargueaboutandagainstpublicopinionand
+      does so with regularity.39 These reflexive performances, then, create a second-order
+      observationofpublicopinion.Societynotonlyseesitselfinthemirrorofthepublic,but
+      also describes what it sees andputs it into anarrative form ofself-description,with the
+      underlyingnormsofenlightenmentprovidingguidance.Inthissense,valueconflictsare
+      typicalmanifestationsofthenarrationsofsocietymadepossibleviathepublicsphere.40
+        In Habermas’ latest writings, the public sphere refers to the special case of political
+      communication for the purpose of opinion-forming and collective decision-making.41
+      Thisimpliesnotsimplytheexchangeofreasonsinfreeandopendebate,butalsosome
+      sortofpoliticalefficacythatrelatestothecollectiveofpoliticaldecision-making(Fraser
+      2007).Thepublicsphereisbasedonargumentativeexchanges,butitisnot‘cheaptalk’,
+      aspublicopinionneedstobetranslatedintoacollectivewillthatallowsdemocraticself-
+      government.Accordingly,thepublicspherereferstotheproceduresofapplying,critically
+      reviewingandselectingreasons.Inotherwords,thepublicsphereexistsinthedemocratic
+      process.                                               
+        However, it is precisely this performance, that is, a procedural narrowing of ‘good
+      reasons’,thatisatstake,notonlyinprocessesofpoliticaldecision-making,butalsointhe
+      processoftheself-constitutionofsociety.Theself-constitutingsocietyisalsoapolitical
+      society,preciselybecauseitconfrontsthedemandstojustifythevalidityofitscollective
+      decisions,and,moreover,needspublicityforitsoperationsinordertoensurethevisibility
+      of its collective decisions and also of the ‘collective’ that underlies such decisions.42
+        ThepointofHabermas’democraticand,consequently,alsoofhissocialtheoryisnow
+      thedissolutionofthecollectiveofthosewhoareaffectedbycollectivedecisions.Since
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+      132                          Philosophy and Social Criticism 50(1)
+                                                             
+                                                             
+      such a collective can hardly materialise, it can only become a subject of public com-
+      munication.Thecollectiveonlyexistsintherestrictedsensethatitistalkedaboutinthe
+      public exchange of reasons. It is a reflection of public discourse, and, as such, is also
+      facilitatedbythe‘reflexivity’ofsecond-orderobservationthatinvolvestheparticipantsof
+      discourseandalltheiractualandpotentialaudiences.Preciselybecausesocietycannotbe
+      foundedontheauthenticwillofanation(popularsovereigntyinthenarrowersense),and
+      isneverthelessalwaysmorethanamerelyrandomgatheringofindividuals,itisformed
+      throughtheidentification,discussionandresolutionofsharedproblems.Thisisprecisely
+      whatdemocracymeans,whichthusprovidesthemechanismsandproceduresforsocietal
+      self-constitution in the form self-government of matters of shared concern.
+        Kantian-Habermasian social theory thus points to a political society, but not in the
+      narrowsenseofapoliticallyorstate-preconstitutedsociety,butrathertoanopenhorizon
+      that is approached by individuals who engage in a discourse about their shared un-
+      derstandingofthepublicgood,constantlyinthefaceofnewproblemsthatareinneedof
+      commonresolution.Inthisprocessoftheself-constitutionofapoliticalsociety,thepublic
+      spherehasavisibility-generatingfunction,inthesenseofgeneratingattentionforshared
+      problems and their possible solutions, but also in making the collective that engages in
+      such a conversation visible. This adds to the classical definition of the principle of
+      publicity in important ways: Society publicises itself, so to speak; it not only creates
+      transparencyofitsownoperations,butalsomakesitselfvisibleforself-recognitionbyits
+      own members (searching for an ethical self-understanding or the formulation of a col-
+      lectiveidentity),andforrecognitionbyothers.Inpublicsphereparlance,wecouldalso
+      concludethatsocietybecomesaddressable,bothbyitsownmembersandbyothers,asa
+      collectivewithascribedpropertiesandresponsibilities.Yet,thereneverisafixedmeaning
+      ofsocietyascollectiveethosoraggregatedinterestsofacollectionofindividuals(which
+      could be described by cultural ‘thick description’ or statistically calculated). Society is
+      realised only in the collective search for solutions to problems, precisely because the
+      recognition of a ‘shared problem’ includes the naming of those affected and the dis-
+      tributionofresponsibilities.InthepragmaticsenseofJohnDewey,societyismadeupof
+      people affected by a common reference to a problem, but a public sphere is needed to
+      create such a reference to a problem, to make it transparent (visible) and to initiate a
+      process of problem-solving.43 In modern societies, all these processes run through
+      democratic procedures and the institutions and collective actors (such as ‘electorates’)
+      assignedtothem.Inthissense,thedemocraticprocessisascribednotonlyalegitimacy-
+      generating force, but also a constituting force for the social. The democratic process of
+      opinionandwillformationisthennotsolelyaboutlegitimatestateandgovernment,but
+      about the visibility of society as a formula for the inclusion of those affected.
+        Habermas speaks at one point of the ‘self-referential reproduction of the public
+      sphere’.44 Legimitation is also a form of reflexivity by allowing for the critical self-
+      observationofthepoliticalsocietythroughthepublicsphere,tokeepitsownnormsand
+      objectivesconstantlypresentandapplythemtonewthematicareas.Popularsovereignty
+      becomesapermanentprocedurebecausetheplaceofthebodyofthepeople,likethatof
+      thebodyofthekingbefore,isvacated.Thereremainsonlythepermanent‘publictalk’to
+      takeitsplace,whichis,atthesametime,morethanjust‘talk’sinceitistiedbacktothe
+
+[PAGE 9]
+                                                             
+                                                             
+      Trenz                                          133     
+                                                             
+                                                             
+                                                             
+      validity ofreasonsembedded inthelifeworld and theinstitutionsandlegal procedures
+      that sustain them.                                     
+        Accordingtothisreading,thediscoursetheoryofdemocracy,orpublicspheretheory,
+      contributestogeneralsociologyor,morespecifically,thesociologyofthecognitiveorder
+      ofmodernsociety.45Thisclosesacircleofargumentationthatishintedatinthechapteron
+      ImmanuelKantin‘StructuralTransformation’asthepossibilityofapragmatictheoryof
+      society, then systematically elaborated in the theory of Communicative Action into a
+      theoryoflanguage,andfinallyanchoredinaproceduraltheoryofdemocracypresentedin
+      ‘Between Facts and Norms’.                             
+        Public sphere theory as a social theory, however, is capable of more than merely
+      explaining the effects of publicity on the imagination of the collective of democracy; it
+      also provides an understanding of social change as rationalisation. This, too, is already
+      inherentinKant’ssocioevolutionaryreflectionsontheunfoldingofpublicreasons,andis
+      translatedbyHabermasintoatheoryofcollectivelearning.Learninginthepublicsphere
+      isanunfinishedprocessofcritiquewherebythepoliticallyconstitutedsocietyreflectson
+      its own problem-solving insufficiencies and the inadequacies of the legitimate use of
+      power, which is confronted with ever new challenges and reasons. Problems are never
+      sufficiently described and solutions only insufficiently established, which is why the
+      processofjustificationmustbekeptgoing,aprocessthroughwhichsocietynonetheless
+      acts on itself, filters out patterns of justification, and thus forms structures of con-
+      sciousness that can have a stabilising effect on the social order.
+        Accordingly, the public sphere facilitates knowledge of the social world, and at the
+      sametimegeneratesappliedknowledgeabouttheselfanditspositioningwithinsociety.
+      Ascanbe seenfromtheeffectsofpublicityonthecreationofsocietal visibility andits
+      translationintoopinion-andwill-formationprocesses,thepublicspheresimultaneously
+      constitutes social order, and triggers social change that is driven by the normative
+      criticism of that ‘existing order’. In the political public sphere, society legitimises and
+      constitutesitself,notonlyas‘civilsociety’inthenarrowsense,butalsoasthesocietyof
+      all the participants who can legitimately claim to be involved in shared problem for-
+      mulationandsolution.Therationalisingpowerofthepublicspherecanneverbelimited
+      tothenationalcommunityofbelonging;assuchalimitationwouldalwaysbetheobjectof
+      criticismforbeingirrational,arbitraryornon-democratic.Thespacefortheexchangeof
+      meaningthatisopenbythepublicspherecannotbeterritoriallyandculturallydelimited,
+      even if there are some groups within the public sphere who try to establish such limi-
+      tations.Itisconstitutedinsteadasanopen,andinthissense,‘public’sphere.Society,in
+      turn,denotesthisspaceofmeaningfulexchangeofreasonwhereby‘meaningreferstoall
+      content that can be discursively interconnected’. Habermas points out that such a uni-
+      versalspace for theexchangeofreason isbynomeansutopian,butactually trivial and
+      routine,perhapsjustastrivialasLuhmann’sworldsociety,which,afterall,derivesfrom
+      similar considerations of the scope and connectivity of communication (in Habermas,
+      however,conceivedintermsof‘communicativeunderstanding’).Forsociology,society,
+      therefore,doesnotneedanysocialandculturalprerequisites,andactuallyonlyrelatesto
+      theassumptionofongoingargumentativeexchangesthatallowparticipantstoconstruct
+                                                             
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+      134                          Philosophy and Social Criticism 50(1)
+                                                             
+                                                             
+      shared meaning, socialise as individuals and collectives, and become visible for them-
+      selves and for others in the mirror of the public sphere.
+                                                             
+      Public sphere in crisis? Disruptions and resilience of democratic
+      communication processes                                
+      Finally,thequestionarisesastohowsuchaninterrelationofthemodernpublicsphereand
+      democracy can be upheld in the context of digitalisation and globalisation. The con-
+      temporarydigitaltransformationofthepublicsphereposesachallengetopublicopinion
+      and will formation as filtered through the mass media. However, the evidence of dys-
+      functions of media communications in no way implies that the digital society is in-
+      compatiblewiththestructuresandfunctionsofthepublicsphere.46Onthecontrary,the
+      concept of the public sphere seems to have gained in relevance for the sociological
+      analysisofthedigitaltransformationsofsociety,andtheenhancedsocialandnormative
+      struggles that accompany technological change.         
+        Public spheres, according to Habermas, are a ‘demanding and therefore improbable
+      evolutionary achievement of modern Western societies’.47 I would add to this that the
+      dissolution of public spheres is also an unlikely event. Once the interplay between the
+      modern public sphere,media andsocietyhas beenestablished, theactors involved init
+      cannotsimplydecidetolimitpublicityortosuspendreasonThiscanbewellillustratedby
+      thedilemma thatpopulistparties, ornewauthoritariangovernments,confrontwhen,on
+      the one hand, they can run targeted campaigns, for example, via social media, to ma-
+      nipulatereasons,but,ontheotherhand,theycannotescapethecriticaleyeofthepublic
+      whichdemandsjustificationandholdsthemaccountable.Itis,therefore,nocoincidence
+      that populists are often masters of media language. Their statements are meant to
+      contribute to public reasons and justification, for instance, in the form of criticism of
+      elites,orofthedominantinterpretationofscientificfacts.Theextenttowhichtheseforms
+      ofpopulistcriticismaremanipulativeinterventions,orevenviolationsofproceduresfor
+      the fair exchange of arguments can, in turn, be diagnosed and, if necessary, sanctioned
+      throughtheengagementofcriticalpublicsandthemonitoringbymediaandjournalists.
+        Similarly, we lack the imagination to think of a society without a public sphere.
+      Modern society stands and falls with the public sphere, and even though securing its
+      existence is a perpetual challenge and its performance is always deficient, there are no
+      alternatives to this fragile constellation. Nevertheless, the complexity and thus also the
+      fragility of the public sphere has increased to an alarming degree, which has created
+      considerable uncertainties and tensions under current conditions of digitalisation and
+      transnationalisation of the media.48 Habermas himself seems rather distrustful of the
+      digital public sphere. Already in his 2009 statement, he joined the chorus of cy-
+      berpessimistsandemphasisedtherisksofadispersionofattentionandfragmentationof
+      the ‘mass public’, where debates were still centred around the same questions of rele-
+      vance.49TheInternet,heargues,hasaprimarilycentrifugaleffect,andfailstosynthesise
+      public opinion. This skepticism was expressed still at pre-social media times before
+      Facebook,Twitterandothersshatteredpoliticalcommunicationanddemocracy.Looking
+      atthedramaticchangesinonlinecommunicationoverthelastdecade,thelasthopesthat
+                                                             
+
+[PAGE 11]
+                                                             
+                                                             
+      Trenz                                          135     
+                                                             
+                                                             
+                                                             
+      so-calledinteractivemediacouldalsosupportdemocraticdeliberationhaveevaporated.50
+      Habermas’ early intuition is confirmed in empirical analyses of online political com-
+      munication.Personalopinionsareexchangedatbreakneckspeedindigitalnewsspaces,
+      butoftenwithoutbundlingandcondensingintopublicopinion.Muchisspoken,evenless
+      is understood. In addition to this centrifugalisation of the public sphere via communi-
+      cation in spatially unbounded networks,51 the development of social media into the
+      primary mass medium of our time has also unfolded a potential for the focalisation of
+      attentionandmassmobilisationthatHabermasdidnotforesee.Socialmediacanindeed
+      beoccupiedbypoliticalforcesfortargetedcampaignswithhighlytransformativeimpact
+      on the direction of democratic politics, as illustrated by the Brexit referendum.52
+        Inthewakeofthetransformationofdigitalandglobalisedmediaworlds,thediscourse
+      ofthepublicsphereisregisteringashiftfrom‘critique’to‘crisis’,whichradicallycalls
+      into question the functional conditions of the democratic public sphere, and heralds a
+      socialupheavalinthedirectionofpost-democraticorders.Oftenoverlooked,however,is
+      the fact that the ‘crisis’ itself can only be meaningfully interpreted and experienced
+      throughthepublicdebatesandmobilisationsittriggered.Suchdebatesarealwaystobe
+      understood as a search for collective responses, to test out the possibilities of reform,
+      correctionorrenewal.Thepublicsphereanditsnormativeclaimsofvaliditycouldthus
+      proveresilient,preciselyintimesofcrisis.Notonlydoespublicsphereresearchoperatein
+      themodeofdiagnosisandcritiqueoftheunfulfilledpromiseofdemocracy,equalityand
+      freedomfromdomination.53Mythesis,derivedfromtheprecedingconsiderationsonthe
+      society-constitutive dynamicsofthepoliticalpublicsphere,isthat theseconflictsabout
+      theconditionsofdemocracyinthedigitalandglobalagecanonlybeunderstoodunderthe
+      assumptionthatthenormativetemplateofthemodernpublicsphereisstillheldvalidand
+      applicable. Modern society in this sense persists in our ‘crisis-ridden’ present, and is
+      perpetuated in the way it confronts the digital in a way to critically reflect its inherent
+      contradictionsandinadequacies.Accordingtotheseconsiderations,thediagnosisofthe
+      crisis of the public sphere always remains tied back to criticism and is experienced as
+      such, not only by experts in public sphere research, but also by those involved in the
+      communication process themselves. Such experiences of the crisis of the public sphere
+      cancertainlybesurveyedempirically,forexample,instudiesofmediause,oroftheloss
+      of trust in the media and democratic institutions and procedures.54 Crucial to my ar-
+      gument, however, is that these experiences again become a driver of public criticism
+      continually raising new claims to normative validity, for example, in the agenda of the
+      reform of media infrastructures, in the debate about the truth content of news, or in
+      measurestoimprovethediscursivequalityofsocialmediadebates.Bytransformingthe
+      diagnosis of the crisis of the public sphere into critique, the normative template of the
+      modernpublicsphereis,atthesametime,renewed,translatedintopoliticalprogrammes
+      and applied to the challenges of the digital transformation of society.
+        Inthiscontext,aprogrammeforsociologicalpublicsphereresearchwouldconsistof
+      observing how societies change from a routine into a crisis mode, critically facing the
+      challengesoftransnationalisationanddigitalisation,andhowthediscourseofa‘crisisof
+      the public sphere’ in turn triggers public resonance and translates into social mobi-
+      lisations. The diagnosis of a dystopian disruption of the media only gains relevance by
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+      136                          Philosophy and Social Criticism 50(1)
+                                                             
+                                                             
+      linking it back to the utopia of the democratic public sphere that continues to inform
+      criticaldiscourse.ThisisnotmeantastherehabilitationoftheHabermasianmodelofthe
+      publicsphere,butsimplyasanindicationthatitsnormativetemplatestillappliesforthe
+      critical self-assessment of the transnational and digital society with regard to its own
+      shortcomingsandpotential.Dystopia(thediagnosisofthedeficientpresence)andutopia
+      (the prognosis of possible futures) remain strongly interrelated in the emerging trans-
+      nationalanddigitalsocietythattestsoutitsownhorizonofpossibilitiesandlimitsforthe
+      constitution of legitimate order.                      
+      ORCID iD                                               
+      Hans-Jorg Trenzhttps://orcid.org/0000-0002-3479-7498  
+                                                             
+      Notes                                                  
+                                                             
+       1. Habermas1990[1962].Forthepurposeofthisarticle,wherenoEnglishtranslationisquoted,I
+         provide my owntranslations fromoriginal Habermas publications inGerman.
+       2. Ebd.,248f.                                         
+       3. Habermas 1990[1962],252.                           
+       4. Ebd.,29.                                           
+       5. Müller-Doohm 2014,151–154.                         
+       6. Habermas 1990[1962],338.                           
+       7. Negt and Kluge 1972; Steinert 1998 See also Hans Magnus Enzensberger’s essays on the
+         consciousness industry (Enzensberger 1962), published at the same time as Habermas’
+         structural transformation.                          
+       8. Gerhards andNeidhardt 1991;Peters 1994.            
+       9. A theory of discourse-driven social learning processes is elaborated in the Theory of Com-
+         municative Action, Habermas 1981;Eder 1985; Jasso2015.
+      10. Onthispoint,seethethreerevisionstothestructuraltransformationofthepublicspherethat
+         Habermas(1990[1962],21–33)elaboratesinhisnewpreface:theovercomingoftheseparation
+         ofstateandsociety,thevalorisationofprivateautonomyandthusofthepublic’scapacityfor
+         self-determination, andthe pluralisation ofpolitical culture andmedia.
+      11. Neidhardt1994;Splichal2012;Warner2002.Inthiscontext,theinterpretivecapacitiesofthe
+         audience have been highlighted in cultural studies, such as Stuart Hall’s (1973) encoding/
+         decodingmodel of the reception of communication.    
+      12. Eder 2013;Fraser 2007; Salvatore,Schmidtke, andTrenz2013.
+      13. Habermas 1974,49.                                  
+      14. ibid., 220f.                                       
+      15. Habermas 1992,S. 435.                              
+      16. Eder,Hellmann, andTrenz1998.                       
+      17. Habermas 1992,436, emphasis inthe original.        
+      18. Ebd.,S. 440.                                       
+      19. Worldaudienceisbynomeansonlyaprojectionsurfaceofphilosophicaldiscourse.Ferdinand
+         To¨nniesalreadyelaboratedthefundamentalworldorientationofjournalism,whichprocesses
+         ‘world events’ for a ‘world audience’ (To¨nnies 2013 [1922], p. 85). Through its intrinsic
+                                                             
+
+[PAGE 13]
+                                                             
+                                                             
+      Trenz                                          137     
+                                                             
+                                                             
+                                                             
+         reference to globality, journalism is therefore never fully integrated in the nation-state, but
+         alwaysreachesbeyondthestateinitsoperationsandinterpretations(Habermas1992,p.504ff.).
+         ForHabermas,thisreferencetotheworldisredeemedbytheefficacyofuniversalclaimsto
+         validityas apoint of referencefor critical publicity.
+      20. Habermas 1995; Habermas 2004;Habermas 2011.        
+      21. Habermas 1992,452.                                 
+      22. Eder,Hellmann, andTrenz1998.                       
+      23. Habermas 1992,S. 451.                              
+      24. Seealso Gaus 2009,140–148.                         
+      25. According to Habermas’ introductory remarks in the 1962 edition of the Structural Trans-
+         formation (Habermas 1990[1962],53).                 
+      26. Habermas 1990[1962],181.                           
+      27. Ibid.183.                                          
+      28. Habermas 2009,27.                                  
+      29. Habermas 1981,volume 1,126–140,174–188.            
+      30. Habermas 2012,19.                                  
+      31. Grosse-Kracht 2009;Volkmer 2014.                   
+      32. Peters 2002.                                       
+      33. Siehebspw.Gerhards 1997.                           
+      34. Bohman1998;2007.                                   
+      35. Calhoun1992.                                       
+      36. Habermas 2009a, 118.                               
+      37. Manow 2020.                                        
+      38. Trenz2005,91.                                      
+      39. Habermas 2009,119, emphasis inthe original.        
+      40. Eigmüller andTrenz2020.                            
+      41. Habermas 2009.                                     
+      42. Nassehi 2002.                                      
+      43. Dewey1927.                                         
+      44. Habermas 1992,626.                                 
+      45. Gaus 2009;O’Mahony2013.                            
+      46. BennettandPfetsch 2018.                            
+      47. Habermas 2009a, 135.                               
+      48. BennettandPfetsch 2018.                            
+      49. Habermas 2009a, 110f.                              
+      50. Dahlgren 2013.                                     
+      51. vanDijk 2005; McNair 2006.                         
+      52. Bossetta,Segesten,andTrenz2017;Bra¨ndle,Galpin,andTrenz2021;GalpinandTrenz2019.
+      53. Aytac 2022.                                        
+      54. Trenz2021.                                         
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+      138                          Philosophy and Social Criticism 50(1)
+                                                             
+                                                             
+      References                                             
+      Aytac,U.2022.“DigitalDomination:SocialMediaandContestatoryDemocracy.”PoliticalStudies0.
+         doi:10.1177/00323217221096564.                      
+      Bennett,W.Lance,andPfetsch,Barbara.2018.“RethinkingPoliticalCommunicationinaTimeof
+         DisruptedPublic Spheres.”Journal of Communication68, no.2: 243-253.
+      Bohman,James.1998.“TheGlobalizationofthePublicSphere.”PhilosophyandSocialCriticism
+         24: 199-216.                                        
+      Bohman,James.2007.DemocracyAcrossBorders:FromDeˆmostoDeˆmoi.Cambridge:MITPress.
+      Bossetta, Michael, Segesten, Anamaria Dutceac, and Trenz, Hans-Jo¨rg. 2017. “Political partici-
+         pation on Facebook during Brexit. Does user engagement on media pages stimulate en-
+         gagement with campaigns?”Journalof Language &Politics 17,no. 2:173-194.
+      Brunkhorst, Hauke. 2002. Solidarita¨t: von der Bürgerfreundschaft zur globalen Re-
+         chtsgenossenschaft. Frankfurtam Main:Suhrkamp.      
+      Bra¨ndle,VerenaK.,Galpin,Charlotte,andTrenz,Hans-Jo¨rg.2021.“Brexitas‘PoliticsofDivision’:
+         Social Media Campaigning in the Aftermath of the Referendum”. Forthcoming in Social
+         Movement Studies.                                   
+      Calhoun,Craig, ed. 1992.Habermasandthe public sphere. Cambridge, MA:MITPress.
+      Dahlgren, Peter. 2013. The Political Web: Media, Participation and Alternative Democracy.
+         Basingstoke: Palgrave Macmillan.                    
+      Dewey, John.1927.The PublicanditsProblems. Chicago:GatewayBooks.
+      Eder, Klaus. 1985. Geschichte als Lernprozess. Zur Pathogenese politischer Modernita¨t in
+         Deutschland.Frankfurtam Main: Suhrkamp.             
+      Eder,Klaus.2003.“O¨ffentlichkeitundDemokratie.”InEuropeanIntegration,editedbyMarkus
+         Jachtenfuchs, andBeateKohler-Koch,85-120.Opladen: Leske andBudrich.
+      Eder,Klaus.2013.“StrugglingWiththeConceptofthePublicSphere.”InRethinkingthePublic
+         Sphere Through Transnationalizing Processes. Europe and Beyond, edited by Armando
+         Salvatore,OliverSchmidtke,andHans-Jo¨rgTrenz,25-55.Basingstoke:PalgraveMacmillan.
+      Eder, Klaus, Hellmann, Kai-Uwe, and Trenz, Hans-Jo¨rg. 1998. “Regieren in Europa jenseits
+         o¨ffentlicher Legitimation? Einer Untersuchung zur Rolle von politischer O¨ffentlichkeit in
+         Europa.”Politische Vierteljahresschrift 29: 321-343.
+      Eigmüller,Monika,andTrenz,Hans-Jo¨rg.2020.“ValueConflictsinaDifferentiatedEurope:The
+         Impact of Digital Media on Value Polarization in Europe.” In Shared Values and Global
+         Challenges, edited byLaura Leonardi.Bologna: IlMulino.
+      Enzensberger, Hans-Magnus. 1962. Einzelheiten I, Bewussteins-Industrie. Frankfurt am Main:
+         Suhrkamp.                                           
+      Fraser, Nancy. 2007. “Transnationalizing the Public Sphere: On the Legitimacy and Efficacy of
+         Public Opinionin aPost-Westphalian World.”Theory,Culture& Society 24,no. 4:7-30.
+      Galpin,Chalotte,andTrenz,Hans-Jo¨rg.2019.“ParticipatoryPopulism:OnlineDiscussionForums
+         on Mainstream News Sites During the 2014 European Parliament Election.” Journalism
+         Practice13, no.7: 1-18.                             
+      Gaus,Daniel.2009.DerSinnvonDemokratie.DieDiskurstheoriederDemokratieunddieDebatte
+         überdie Legitimita¨t derEU.Frankfurt: CampusVerlag. 
+                                                             
+                                                             
+
+[PAGE 15]
+                                                             
+                                                             
+      Trenz                                          139     
+                                                             
+                                                             
+                                                             
+      Gerhards, Jürgen. 1997. “Diskursive versus Liberal O¨ffentlichkeit. Eine empirische Ausei-
+         nandersetzungmitJürgenHabermas.”Ko¨lnerZeitschriftfürSoziologieundSozialpsychologie
+         49,no. 1:1-34.                                      
+      Gerhards, J., and Neidhardt, F. 1991. “Strukturen und Funktionen moderner O¨ffentlichkeit. Fra-
+         gestellungen und Ansa¨tze.” In O¨ffentlichkeit, Kultur, Massenkommunikationn, edited by S.
+         Müller-Doohm, andK.Neumann-Braun Munich:Oldenbourg. 
+      Grosse-Kracht, Herrmann. 2009. “Offene Fragen im Universum o¨ffentlicher Gründe: Jürgen
+         Habermas und die O¨ffentlichkeitsansprüche der Religionen.” In Moderne Religion? : theo-
+         logische und religionsphilosophische Reaktionen auf Jürgen Habermas, edited by Knut
+         Wenzel,andThomas M.Schmidt.Freiburg:Herder.         
+      Habermas,Jürgen.1974.“ThePublicSphere.AnEncyclopediaArticle.”NewGermanCritique3:
+         49-55.                                              
+      Habermas, Jürgen. 1981. Theorie des Kommunikative Handelns, Vol. 2. Frankfurt am Main:
+         Suhrkamp.                                           
+      Habermas, Jürgen. 1990 [1962]. Strukturwandel der O¨ffentlichkeit. Untersuchungen zu einer
+         Kategorieder bürgerlichen Gesellschaft.Frankfurtam Main: Suhrkamp.
+      Habermas,Jürgen.1992.Faktizita¨tundGeltung.Beitra¨gezurDiskurstheoriedesRechtsunddes
+         DemokratischenRecthsstaats.Frankfurtam Main: Suhrkamp.
+      Habermas, Jürgen. 1995. “Remarks on Dieter Grimm’s ‘Does Europe Need a Constitution?”
+         European LawJournal 1,no. 3:303-306.                
+      Habermas, Jürgen. 2004. “Ist die Herausbildung einer europa¨ischen Identita¨t no¨tig, und ist sie
+         mo¨glich?”In Dergespaltene Westen. Frankfurtam Main:Suhrkamp.
+      Habermas, Jürgen. 2009a. “Hat die Demokratie noch eine epistemische Dimension? Empirische
+         ForschungundnormativeTheorie.”InJPhilosophischeTexteVol.4.PolitischeTheorie,edited
+         byJürgenv. Habermas.Frankfurtam Main: Suhrkamp.     
+      Habermas, Jürgen. 2009b. Philosophische Texte Vol. 3. Sprachtheoretische Grundlegung der
+         Soziologie.Frankfurtam Main: Suhrkamp.              
+      Habermas, Jürgen. 2009c. Philosophische Texte Vol. 4. Politische Theorie. Frankfurt am Main:
+         Suhrkamp.                                           
+      Habermas,Jürgen.2009d.PhilosophischeTexteVol.2.Rationalita¨ts-undSprachtheorie.Frankfurt
+         am Main:Suhrkamp.                                   
+      Habermas,Jürgen. 2011.ZurVerfassungEuropas.Frankfurt amMain: Suhrkamp.
+      Habermas,Jürgen.2012.NachmetaphysischesDenkenII:Aufsa¨tzeundRepliken.Berlin:Suhrkamp
+         Verlag.                                             
+      Habermas,Jürgen,andLuhmann,Niklas.1971.TheoriederGesellschaftoderSozialtechnologie:
+         wasleistet die Systemforschung? Frankfurtam Main: Suhrkamp.
+      Hall,Stuart.1973.EncodingandDecodingintheTelevisionDiscourse.CentreforCulturalStudies,
+         University of Birmingham.                           
+      Jasso, Julius. 2015. Intellektuelle Bürgerschaft: Modelle kritischer Lernprozesse bei Jürgen
+         HabermasundPierreBourdieu.Marburg:Tectum Wissenschaftsverlag.
+      Manow,Philip.2020.(Ent)demokratisierung der Demokratie.Berlin: Suhrkamp.
+      McNair, Brian. 2006. Cultural Chaos. Journalism, News and Power in a Globalised World.
+         London:Routledge.                                   
+      Müller-Doohm, Stefan. 2014.JürgenHabermas. A Biography. Berlin: Suhrkamp.
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+      140                          Philosophy and Social Criticism 50(1)
+                                                             
+                                                             
+      Nassehi, Armin. 2002. “Politik der Staates oder Politik der Gesellschaft. Kollektivita¨t als Prob-
+         lemformel der Politischen.” In Niklas Luhmanns politische Soziologie, edited by Kai-Uwe
+         Hellmann, andRainerSchmalz-Bruns, 38-59.Frankfurt amMain: Suhrkamp.
+      Negt,Otto,andKluge,Alexander.1972.O¨ffentlichkeitundErfahrung.ZurOrganisationsanalyse
+         bürgerlicher undproletarischer O¨ffentlichkeit.Frankfurt amMain: Suhrkamp.
+      Neidhardt,Friedhelm.1994.“DieRollederPublikums.AnmerkungenzurSoziologiepolitischer
+         O¨ffentlichkeit.” In Systemrationalita¨t und Partialinteresse. Festschrfit fü Renate Mayntz,
+         edited byHans UlrichDerlien, UteGerhard,andFritz W.Scharpf,315-328. Baden-Baden:
+         Nomos.                                              
+      O’Mahony,Patrick. 2013.TheContemporary Theoryof thePublic Sphere.Peter Lang:Bern.
+      Peters,B.1994.“DerSinnvonO¨ffentlichkeit.”InF.Neidhardt(Hrsg.),O¨ffentlichkeit,o¨ffentliche
+         Meinung,soziale Bewegungen.Opladen: Westdeutcher Verlag.
+      Peters, Bernhard. 2002. “Die Leistungsfa¨higkeit heutiger O¨ffentlichkeiten — einige theoretische
+         Kontroversen.” In Imhof Kurt, and Jarren Otto (Hrsg), Integration und Medien. Medi-
+         ensymposiumLuzern,vol.7,187-202. Wiesbaden: VS Verlag für Sozialwissenschaften.
+      Salvatore, Armando,Schmidtke, Oliver, andTrenz,Hans-Jo¨rg,eds. 2013.Rethinking the Public
+         Sphere Through Transnationalizing Processes. Europe and Beyond. Basingstoke: Palgrave
+         Macmillan.                                          
+      Splichal,Slavko.2012.TransnationalizationofthePublicSphereandtheFateofthePublic.New
+         York:Hampton Press.                                 
+      Steinert,Heinz.1998. Kulturindustrie.Münster:Westfa¨lisches Dampfboot.
+      Trenz,Hans-Jo¨rg.2005.EuropaindenMedien.Dieeuropa¨ischeIntegrationimSpiegelnationaler
+         O¨ffentlichkeit.Frankfurt/New York: CampusVerlag.   
+      Trenz, Hans-Jo¨rg. 2021. “Trust Through Media and Trust in Media: How is the Topic of Trust
+         ApproachedinMediaandCommunicationResearch?”InTrustandDistrustinGovernance.A
+         MultidisciplinaryAccount,editedbyChristianLahusen,InPreparation.London:Routledge.
+      To¨nnies,Ferdinand. 2013[1922]. Kritik der O¨ffentlichen Meinung. Berlin:Springer.
+      vanDijk,Jan. 2005.TheNetwork Society: Social Aspectsof New Media.London:Sage.
+      Volkmer,Ingrid.2014.TheGlobalPublicSphere:PublicCommunicationintheAgeofReflective
+         Interdependence.Cambridge: Polity.                  
+      Warner,Michael. 2002.PublicandCounterpublics.NewYork: ZoneBooks.
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             

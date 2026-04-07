@@ -1,0 +1,64 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "firinci_orman_2025",
+  "title": "Rethinking Utopias through Hannah Arendt: Youth Climate Activism and the Politics of Possibility",
+  "author": "Firinci Orman",
+  "year": 2025,
+  "journal": "Philosophy and Social Criticism",
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "Youth climate activism (Fridays for Future, Greta Thunberg) exhibits an open-ended, relational quality that static utopian frameworks cannot capture. The paper proposes rethinking utopias as spaces of ongoing political engagement rather than fixed visions of a perfect society, using Arendt's political theory.",
+    "anchored_in": ["Bloch (concrete utopian thinking)", "Arendt"],
+    "stakes_claimed": "Viewing youth climate activism through Arendt's concepts (natality, freedom, plurality, action) reveals it as a form of politics of possibility — cultivating conditions for freedom in the present rather than pursuing a distant utopia."
+  },
+  "theoretical_positioning": {
+    "rivals_engaged": ["static/blueprint utopian frameworks", "Bloch's concrete utopian thinking"],
+    "engagement_structure": "friendly_amendment",
+    "immanent_critique": false,
+    "own_position_type": "framework_proposal",
+    "own_position_explicit": true,
+    "description": "The paper applies Arendt's political concepts (natality, plurality, public realm, action) to youth climate activism to reframe utopian politics as prefigurative and processual rather than teleological. It extends Arendt by bringing her into dialogue with climate activism scholarship and the literature on prefigurative politics."
+  },
+  "epistemic_mode": {
+    "primary": "normative_with_interpretive_case",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "Arendtian conceptual reading applied to youth climate activism as contemporary political phenomenon; secondary literature on climate activism and prefigurative politics.",
+    "notes": "Youth climate activism functions as a contemporary political case used to test and extend Arendt's framework. The case is contemporary political event/movement (Type 4 family) rather than a canonical text. But the paper's normative argument (utopias as ongoing political engagement) is derived from the Arendtian reading applied to the case. Borderline Type 3/Type 4 — classified as Type 4 because Arendt's framework precedes the case application."
+  },
+  "case_type": {
+    "has_case": true,
+    "case_medium": "political_event",
+    "case_name": "Youth climate activism (Fridays for Future, Greta Thunberg movement)",
+    "case_function": "test_case_for_framework",
+    "case_relation_to_argument": "illustrative_and_generative",
+    "case_selection_justified": true
+  },
+  "normative_stake": {
+    "level": "medium",
+    "domain": "political theory / environmentalism / utopia / youth politics",
+    "claim_type": "prescriptive",
+    "closure_type": "conclusion_open"
+  },
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "framework_proposal",
+    "case_introduction",
+    "case_development",
+    "case_interpretation",
+    "normative_derivation",
+    "conclusion_open"
+  ],
+  "reflexive_move": false,
+  "key_concepts": ["natality", "plurality", "prefigurative politics", "politics of possibility", "utopia as process", "collective action", "public realm"],
+  "thinkers_deployed": {
+    "central": ["Arendt"],
+    "engaged_critically": [],
+    "referenced_only": ["Bloch", "Mouffe", "Butler", "Thunberg"]
+  },
+  "confidence_notes": "Type 4 (diagnostic via contemporary case): Arendtian framework applied to youth climate movement, generating a reconceptualization of utopia. The case does not generate a new framework in the Type 3 sense — Arendt's concepts are imported from outside and applied. Framework precedes case; case complicates framework."
+}

@@ -1,0 +1,63 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "kempf_2023",
+  "title": "The Public Sphere in the Mode of Systematically Distorted Communication",
+  "author": "Kempf",
+  "year": 2023,
+  "journal": "Philosophy and Social Criticism",
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "Contemporary proliferation of filter bubbles and echo chambers seems to render obsolete the concept of a public sphere in the singular. Habermas himself interprets fragmentation as colonization of the lifeworld. But this colonization reading misses an internal dialectic of communication refusal/overcoming already present in Habermas's earlier concept of 'systematically distorted communication'.",
+    "anchored_in": ["Habermas (Theory of Communicative Action)", "Habermas (early work on distorted communication)"],
+    "stakes_claimed": "The fragmentation of the public sphere can be theorized and politically addressed as a precarious standstill in a dialectic between communication refusal and its overcoming — a more internally coherent Habermasian position than the colonization model."
+  },
+  "theoretical_positioning": {
+    "rivals_engaged": ["Habermas's colonization model (later work)", "fragmentation-as-dissolution accounts"],
+    "engagement_structure": "friendly_amendment",
+    "immanent_critique": true,
+    "own_position_type": "internal_reconstruction",
+    "own_position_explicit": true,
+    "description": "The paper performs a partial immanent critique of later Habermas (colonization model) by recovering his earlier concept of systematically distorted communication. It argues the public sphere emerges from the lifeworld as the concomitant horizon of communicative action — and fragmentation is an internal dialectical moment (refusal of discourse) rather than external colonization."
+  },
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "Internal reconstruction of Habermas's different theoretical phases; conceptual analysis of systematically distorted communication vs. colonization.",
+    "notes": "Fully normative: internal Habermas reconstruction. Part of the public sphere special issue."
+  },
+  "case_type": {
+    "has_case": false,
+    "case_medium": "none",
+    "case_name": null,
+    "case_function": null,
+    "case_relation_to_argument": null,
+    "case_selection_justified": false
+  },
+  "normative_stake": {
+    "level": "medium",
+    "domain": "public sphere / democratic theory / communicative action",
+    "claim_type": "reconstructive",
+    "closure_type": "conclusion_open"
+  },
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "immanent_critique",
+    "genealogical_reconstruction",
+    "framework_proposal",
+    "conclusion_open"
+  ],
+  "reflexive_move": false,
+  "key_concepts": ["systematically distorted communication", "public sphere fragmentation", "colonization of lifeworld", "communicative action", "filter bubbles", "dialectic of refusal/overcoming"],
+  "thinkers_deployed": {
+    "central": ["Habermas"],
+    "engaged_critically": ["later Habermas (colonization model)"],
+    "referenced_only": ["Honneth", "Forst", "Wellmer"]
+  },
+  "confidence_notes": "Type 2 (internal reconstruction via immanent critique of later Habermas): the paper diagnoses an inconsistency between early and later Habermas and recovers the earlier concept. Open conclusion."
+}

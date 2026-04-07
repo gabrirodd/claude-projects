@@ -1,0 +1,62 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "feenberg_2023",
+  "title": "Marcuse's Critique of Technology Today",
+  "author": "Feenberg",
+  "year": 2023,
+  "journal": "Philosophy and Social Criticism",
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "Marcuse's critique of science and technology was eclipsed with the collapse of the New Left whose theoretician he was. Yet it is newly relevant in the context of impending environmental catastrophe due to climate change. The puzzle: why has Marcuse been neglected, and what does his work actually offer for today's ecological crisis?",
+    "anchored_in": ["One-Dimensional Man", "Eros and Civilization"],
+    "stakes_claimed": "Marcuse's experiential ontology — derived from his phenomenological background and Marxist critique of instrumental reason — contains valuable resources for contemporary environmental struggles unavailable in other Frankfurt School thinkers."
+  },
+  "theoretical_positioning": {
+    "rivals_engaged": ["Horkheimer and Adorno's early critique of instrumental reason (Dialectic of Enlightenment)", "standard neo-Marxist accounts of technology"],
+    "engagement_structure": "friendly_amendment",
+    "immanent_critique": false,
+    "own_position_type": "internal_reconstruction",
+    "own_position_explicit": true,
+    "description": "The paper reconstructs Marcuse's development from early phenomenological reading of Marx's 1844 Manuscripts through Eros and Civilization to One-Dimensional Man, arguing his unique contribution was a phenomenological critique of technology as reification of nature. It argues Marcuse extended Horkheimer-Adorno's critique most fully and that this extension is newly politically relevant."
+  },
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "Reconstruction of Marcuse's intellectual development; close reading of One-Dimensional Man and early Marxist writings; comparison with Horkheimer-Adorno.",
+    "notes": "Reconstruction of Marcuse's thought as resource for contemporary ecological politics. Fully normative — the climate change references are background motivation, not evidential material."
+  },
+  "case_type": {
+    "has_case": false,
+    "case_medium": "none",
+    "case_name": null,
+    "case_function": null,
+    "case_relation_to_argument": null,
+    "case_selection_justified": false
+  },
+  "normative_stake": {
+    "level": "medium",
+    "domain": "critical theory / technology critique / environmentalism",
+    "claim_type": "reconstructive",
+    "closure_type": "conclusion_open"
+  },
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "genealogical_reconstruction",
+    "framework_proposal",
+    "normative_derivation",
+    "conclusion_open"
+  ],
+  "reflexive_move": false,
+  "key_concepts": ["instrumental reason", "experiential ontology", "one-dimensionality", "nature as second nature", "technological reification", "New Left"],
+  "thinkers_deployed": {
+    "central": ["Marcuse"],
+    "engaged_critically": [],
+    "referenced_only": ["Horkheimer and Adorno", "Heidegger", "Marx", "Hegel"]
+  },
+  "confidence_notes": "Type 2b (genealogical deepening): the paper's primary function is recovery/reconstruction of Marcuse's neglected work rather than critique of rivals or proposal of a new framework. The normative derivation (Marcuse is valuable for environmental politics today) is the conclusion of the reconstruction rather than an independently argued claim. Open conclusion."
+}

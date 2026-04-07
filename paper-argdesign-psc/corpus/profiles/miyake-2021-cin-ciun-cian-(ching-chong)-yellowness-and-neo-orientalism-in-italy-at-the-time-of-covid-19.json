@@ -1,0 +1,76 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "miyake_2021",
+  "title": "Cin ciun cian (ching chong): Yellowness and Neo-Orientalism in Italy at the Time of COVID-19",
+  "author": "Miyake",
+  "year": 2021,
+  "journal": "Philosophy and Social Criticism",
+
+  "opening_move": {
+    "type": "empirical_presentation",
+    "description": "Opens with the UN Secretary General's description of COVID-19 as an 'x-ray' revealing social fractures, then presents empirical data on the rise of anti-Asian racism in Italy in early 2020: police reports, Pew Research Center data, Stop AAPI Hate statistics, media documentation of 'cin ciun cian' mockery and slit-eye poses. The paper positions the Italian case as a paradigm for theorizing 'yellowness' as a form of bio-cultural racialization.",
+    "anchored_in": ["Guterres", "Pew Research Center", "Stop AAPI Hate", "Bonilla-Silva"],
+    "stakes_claimed": "The Italian case reveals how global and local trajectories overlap to reproduce neo-orientalism via 'yellowness' — a racialized category intersecting somatic, cultural, and civilizational markers — and how this process has been both enacted and contested in a contemporary national context."
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["methodological nationalism in racism studies", "post-racial discourse", "culturalist rather than structural approaches to racism"],
+    "engagement_structure": "conceptual_construction",
+    "immanent_critique": false,
+    "own_position_type": "framework_construction",
+    "own_position_explicit": true,
+    "description": "The paper introduces 'yellowness' as an original analytical concept: a bio-cultural racialization process constructing 'yellow/Oriental/Chinese' otherness, intersecting with whiteness and blackness in a hierarchical racialization order. Drawing on critical race theory (Bonilla-Silva), postcolonial studies (Said, Hall), and neo-orientalism literature, the paper constructs a conceptual framework for understanding how contemporary Italian anti-Asian racism reproduces orientalist tropes under pandemic conditions."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_qualitative_empirical",
+    "secondary": null,
+    "empirical_evidence_present": true,
+    "empirical_evidence_role": "constitutive",
+    "quantitative_methods": null,
+    "qualitative_methods": "Media discourse analysis: examination of Italian newspaper coverage, social media posts, political statements, the 'cin ciun cian' mock-language and slit-eye gesture as discourse units. Historical contextualization of Italian colonial relations with East Asia and legacy of Orientalism. Reference to interview/testimony evidence from anti-racist organizations.",
+    "data_sources": ["Italian newspaper discourse (early 2020)", "social media documentation of racist incidents", "Stop AAPI Hate reports", "Pew Research Center 2020 data", "UN Secretary General statement", "historical colonial archives on Italian Orientalism"],
+    "interpretive_methods": "Critical discourse analysis: reading media texts as ideological sites for reproducing neo-orientalist constructions of 'yellowness'. Intersectional analysis: how yellowness articulates with whiteness, class, and gender in Italian context. Historical genealogy of Yellow Peril trope.",
+    "notes": "The empirical evidence is constitutive: the paper cannot make its argument about 'yellowness' in contemporary Italy without the media discourse analysis of Italian COVID-era racism. This is normative_with_qualitative_empirical (constitutive role) rather than purely empirical because the paper draws normative conclusions about what the case reveals about ongoing colonialist assumptions and the need for decolonial anti-racist politics."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "historical_event",
+    "case_name": "Italian COVID-19 anti-Asian racism (early 2020) — media discourse and racist incidents",
+    "case_function": "constitutive",
+    "case_relation_to_argument": "evidential_basis",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "race / Orientalism / colonialism / contemporary Italy / pandemic politics",
+    "claim_type": "critical_diagnostic",
+    "closure_type": "conclusion_open"
+  },
+
+  "move_sequence": [
+    "empirical_presentation",
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "framework_proposal",
+    "case_introduction",
+    "case_development",
+    "conceptual_distinction",
+    "normative_derivation",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["yellowness", "neo-orientalism", "bio-cultural racialization", "cin ciun cian", "Yellow Peril", "hegemonic whiteness", "intersectionality", "glo-calization"],
+
+  "thinkers_deployed": {
+    "central": ["Bonilla-Silva", "Said", "Hall", "Beck"],
+    "engaged_critically": ["post-racial discourse", "methodological nationalism"],
+    "referenced_only": ["Huntington", "Butler", "Spivak", "Crenshaw", "Razack", "Espiritu"]
+  },
+
+  "confidence_notes": "This paper is normative_with_qualitative_empirical with constitutive evidence role. The Italian case is central and cannot be removed without destroying the argument. The concept of 'yellowness' is developed through and from the case analysis. The move_sequence begins empirically (evidence presentation) before moving to normative framework construction — similar to fourie_2022's pattern. Closure is open: the paper ends with analysis of contestation and solidarity practices, without a programmatic prescription. The conceptual contribution ('yellowness' as a distinct racialization form) distinguishes it from purely descriptive case studies."
+}

@@ -1,0 +1,1351 @@
+[PAGE 1]
+                                                             
+                                                             
+                                                             
+                                                             
+      Regular Article                                        
+                                                             
+                                         PhilosophyandSocialCriticism
+               ‘                   ’     2024,Vol.50(6)971–996
+      Against  institutional racism                          
+                                         ©TheAuthor(s)2022   
+                                         Articlereuseguidelines:
+                                         sagepub.com/journals-permissions
+                                         DOI:10.1177/01914537221114910
+                                         journals.sagepub.com/home/psc
+      D. C. Matthew                                         
+      YorkUniversity,Canada                                  
+      Abstract                                               
+      This paper argues that the concept and role of ‘institutional racism’ in contemporary
+      discussionsofraceshouldbereconsidered. Itstartsbydistinguishingbetween‘intrinsic
+      institutionalracism’,whichholdsthatinstitutionsareracistinvirtueoftheirconstitutive
+      features, and ‘extrinsic institutional racism’, which holds that institutions are racist in
+      virtue of theirnegative effects. Itaccepts intrinsic institutional racism,butarguesthata
+      ‘disparate impact’conception of extrinsic conceptionfaces anumber of objections,the
+      mostserious beingthatithasnoplausibleaccountofwhat itisthatmakes extrinsically
+      racistinstitutionsracist.Italsoarguesthatclaimsabouttheexplanatoryindispensabilityof
+      institutional racism are overstated (individual racism is at least as important), critiques
+      structural approaches to racial inequality, and suggests that there is reason to doubt
+      whetherinstitutionalreformcanprovideuswithallthatmoralitymayrequireintheracial
+      domain.                                                
+      Keywords                                               
+      institutional racism, individual racism, disparate impact, structural racism, structural
+      inequality, Sally Haslanger                            
+                                                             
+                                                             
+      In recent years, as police killings of unarmed black people have ignited large protests
+      demandingchange,issuesofraceandracismhavebeencatapultedbackontocentrestage.
+      Inthiscontext,claimsthatcontemporarysocietiesaremiredin‘institutionalracism’have
+      again become common. Sometimes, other terms (e.g. ‘structural racism’) are used, but
+      whatevertheterm,whatunitestheiruseisthethoughtthatcontemporaryracismisnow
+      notmainlyan‘individual’phenomenon.WhensociologistCrystalMarieFlemingtellsus
+      that much ‘stupidity’ about race comes from the fact that people ‘think of racism as
+      individual prejudice rather than a broader system and structure of power’, she is very
+      much in line with recent trends.1 Focussing on ‘institutional racism’, this paper rejects
+                                                             
+      Correspondingauthor:                                   
+      DaleC.Matthew,YorkUniversity,4700KeeleSt,Toronto,ONM3J1P3,Canada.
+      Email:dmatt@yorku.ca                                   
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+      972                          Philosophy and Social Criticism 50(6)
+                                                             
+                                                             
+      these trends. The extra-individual focus of much of today’s discussions of racism is, I
+      believe, a mistake. Much so-called institutional racism is not racism at all. Moreover,
+      individualracismremainsaverypowerfulforce,thecontinuingimportanceofwhichis
+      obscuredbytheubiquityofextra-individuallanguage.Forthesereasons,Iwillarguethat
+      contemporary discussions of race would do well to return, to a significant extent, to a
+      focus on individuals.                                  
+        Thepaperproceedsasfollows.Sec.Isetsoutavarietyofconceptionsofinstitutional
+      racism, focussing on the distinction between intrinsic institutional racism and extrinsic
+      institutionalracism.Thissectionalsoexplainshowanindividualistconceptionofracism
+      can explain (intrinsic) racism at the institutional level. In sec. II, I consider and reject
+      extrinsic institutional racism understood as adverse disparate impact. The following
+      section, sec. III, challenges the claimed explanatory indispensability of institutional
+      racism. Focussing on the work of Sally Haslanger, this section also critiques structural
+      approachestoracialinequality.Sec.IVexplainswhyeventhemostcompleteinstitutional
+      andstructuralreformmaynotprovideuswithallthatweshouldwantintheracialdomain.
+      The paper ends with a brief conclusion in sec. V.      
+      Varieties of institutional racism                      
+      Whenpeoplethinkof‘institutionalracism’,theyoftenhavedifferentthingsinmind.To
+      get us thinking, consider some of the possible scenarios. So consider, first:
+                                                             
+        S1: Race-conscious rules govern the operation of an institution, and the rules
+           directitsemployees,Es,toimpartiallycarryouttheirduties.Escarryouttheir
+           dutiesasdirected,butsincetherulesthemselvesarerace-consciousinaway
+           that isdisadvantageous,andintendedtobedisadvantageous,toracialgroup
+           R2s,andarenotintendedtocorrectforthedisadvantagesofanyracialgroup,
+           there results racial inequality between R1s and R2s.
+        Ithinkeveryone,oralmosteveryone,wouldjudgeS1tobecaseofinstitutionalracism.
+      But though perhaps the least controversial example, these days when people talk about
+      ‘institutionalracism’theyareusuallythinkingofothersituations.Soconsiderthreeother
+      scenarios:                                             
+                                                             
+        S2: Race-silent rules govern the operation of an institution, but there is nothing
+           stopping its employees, Es, from exercising in a discriminatory manner the
+           power entrusted tothem – it isdifficult, butnot impossible, to monitor how
+           theycarryouttheirduties.SomeEsdiscriminateagainstR2s,andthisleadsto
+           an inequality between R1s and R2s.                
+                                                             
+        And:                                                 
+        S3: Race-silent rules govern the operation of an interlocking set of institutions,
+           andtheiremployeescarryouttheirdutiesinastrictlyrace-blindmanner.But
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+      Matthew                                        973     
+                                                             
+                                                             
+           because R2s is an historically oppressed group, the operation of the rules
+           serves to disadvantage R2s.                       
+                                                             
+        Finally:                                             
+        S4: Race-silent rules govern the operation of an institution, and its employees
+           carryouttheirdutiesinastrictlyrace-blindmanner.Despitethis,theoperation
+           oftherulesservestodisadvantageR2s,anhistoricallydisadvantagedgroup.
+                                                             
+        Some,perhapsmany,willjudgeS2tobeacaseofinstitutionalracismbecauseofthe
+      actionsofitsemployees–despitethefactthatitsrulesarerace-neutral.Thiscaseraises
+      someinterestingquestionsaboutwhentheracismthatmanywouldallowexistswithinan
+      institutioncanproperlybeattributedtotheinstitutionitself.Forexample,howwidespread
+      itwouldhavetobetheretoinstantiateinstitutionalracism?Wemayormaynotagreewith
+      Lawrence Blum when he claims that ‘No precise line can be drawn as to the extent or
+      pervasiveness of racist attitudes and behaviors within an institution in order for it to be
+      appropriatelycalleda“racistinstitution”’.2Butgivenspaceconstraints,considerationof
+      thiswillhavetowaitforanotherday.OfmoreinteresthereisS3.Formany,thestateof
+      affairsrepresentedinS3isexactlywhatinvocationsof‘institutionalracism’calltomind.3
+      Andsomewillconsideritunnecessaryfortheretobeasetofinstitutionstodisadvantagea
+      historically disadvantaged group; a single institution whose rules disadvantage a his-
+      torically disadvantaged group is sufficient. These individuals will therefore accept that
+      S4 is also a case of institutional racism.             
+        I’llcomebacktoS3andS4later.Fornow,IwanttofocusonS1.Thisisprobablythe
+      leastcontroversialconceptionofinstitutionalracism,butitwouldnotbeacceptedbyall.
+      Someseemtorejecttheideaofinstitutionalracismcompletely.Forexample,conservative
+      author Dinesh D’Souza argues that the term, in extending far beyond the traditional
+      definitionofracismasanideologyofracialsuperiority,isa‘nonsensephrase’.4Butsucha
+      position is untenable, for reasons that have been well set out by J. L. A. Garcia. To
+      understandhisargument,itisusefultofirstsaysomethingaboutGarcia’sgeneralviewof
+      racism,whichwewillreturntolater.Hedefendsanaffectivemodelofracism(whichhe
+      calls a ‘volitional conception’).5 Garcia proposes that we conceive of racism as ‘fun-
+      damentallyaviciouskindofraciallybaseddisregardforthewelfareofcertainpeople’.6In
+      its central form, it is ill-will directed against a person or persons on account of their
+      assignedrace.Inaderivativeform,itisarace-baseddisregard.Apersonwhoisracially
+      disaffectedineitherofthesewaysisaracist,andGarciaarguesthat‘heractions,beliefs,
+      feelings, hopes, fears, etc. will be racist insofar as her racism infects them’.7 On this
+      model,racismiswrong because it isopposed to thevirtues of benevolenceandjustice.
+        This is an example of what we will call an individual-level or (as I will call it) in-
+      dividualist conception of racism. Such a view sees racism as manifested on the part of
+      individualhumanbeingsasprimary,inboththesensethatracismintheunqualifiedsense
+      shouldbeunderstood interms oftheactions and/orpsychologicalstates ofsuchbeings
+      andthatracismatother(extra-individual)levelsshouldbeexplainedbyreferencetoit.8
+      Thus,W.ThomasSchmidoffersanindividualistconceptionofracismwhenhesuggests
+                                                             
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+      974                          Philosophy and Social Criticism 50(6)
+                                                             
+                                                             
+      that it is ‘the infliction of unequal consideration, motivated by the desire to dominate,
+      basedonracealone’.9Inunderstandingracismintermsofthemotivationalstatethatisa
+      desiretodominate,thisisanindividualistconception.Similarly,inunderstandingracism
+      in terms of ill-will and disregard, Garcia’s affective model is also individualist.
+        ButGarciagoesfurtherandarguesthatracismatother,extra-individuallevelsshould
+      beunderstoodinreferencetoracismattheindividuallevel.Itisbylinkinginstitutional
+      racism to the individual level that he is able to respond to those like D’Souza who are
+      scepticaloftheconcept.Hearguesthatinstitutionalracism‘occursandmattersbecause
+      racistattitudes(desires,aims,hopes,fears,plans)infectthereasoning,decision-making,
+      andactionofindividualsnotonlyintheirprivatebehavior,butalsowhentheymakeand
+      executethepoliciesofthoseinstitutionsinwhichtheyoperate’.10Soforhim,institutional
+      racism exists when racism at the individual level infects an institution and thereby be-
+      comesinstitutionalized,anditcandothisby‘informingtheendsitadopts,orthemeansit
+      employs,orthegroundsonwhichitacceptsundesirablesideeffects(asisnormallythe
+      casein“environmentalracism”),ortheassumptionsonwhichitworks’.11Inlightofthis,
+      Garciathinksthatnoonecanplausiblydenytheexistenceofinstitutionalracism.Ashe
+      explains,‘Ifracismisarealelementinpeople’sthinking,feelingsandbehavior,thereis
+      no reason to deny it can become institutionalized’.12 He goes on to cite, among other
+      things, the South’s Black Codes, grandfather clauses and apartheid as examples of in-
+      stitutional racism. Given these clear historic instances, he concludes that ‘institutional
+      racism is no mere logical possibility, but a recurrent historical fact’.13
+        Tommie Shelby has usefully distinguished between what he calls ‘extrinsic’ insti-
+      tutionalracismand‘intrinsic’institutionalracism.Takefirstintrinsicinstitutionalracism.
+      Institutionsareintrinsicallyracistinvirtueoftheir‘constitutivefeatures’ratherthantheir
+      externaleffects.Thus,aninstitutionmightberacistinvirtueofitsgoals,thecontentofits
+      rules or the application of its procedures.14 This means that an institution should be
+      regardedasintrinsicallyracistif,forexample,itsgoalsaretoexterminateorsubordinatea
+      racial group, the content of its rules are racially discriminatory or its procedures are
+      unequallyandinconsistentlyapplied.Thisismoreorlesstheconceptionofinstitutional
+      racism that Garcia’s individualist model explains, and what makes S1 seem to be a
+      paradigmatic case. On the extrinsic conception, by contrast,
+        aninstitution’spoliciesareregardedasracist,notbyvirtueofthepolicymakers’racistbeliefs,
+        but solely in virtue of the policies effects. Extrinsic institutional racism occurs when an
+        institution employs a policy that is race-neutral in its content and public rationale but
+        nevertheless has a significant or disproportionate negative impact on an unfairly disad-
+        vantaged racial group.15                             
+        Sowhileinstitutionsareintrinsicallyracistinvirtueoftheirconstitutivefeatures,they
+      are extrinsically racist in terms of their effects. In terms of the scenarios listed above,
+      extrinsic institutional racism is represented by S3 and S4. It is a far more common
+      understandingofinstitutionalracism.Indeed,discussionsofinstitutionalracismscarcely
+      ever mention the intrinsic conception, though it is the kind that historically has had the
+      mostimpact–asGarciapointedout,slavery,JimCrowandapartheidareexamplesofit.
+                                                             
+                                                             
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+      Matthew                                        975     
+                                                             
+                                                             
+      So nothing in this paper should be taken to cast doubt on its existence or historic im-
+      portance. Rather, it is extrinsic institutional racism that it questions.16
+        Beforeproceeding,IwanttohighlighttwoconstraintsthatIbelieveanydiscussionof
+      ‘institutional racism’should respect, as well as an additional pitfall that we should also
+      avoid. First, discussions of institutional racism should not objectionably privilege an
+      individualistperspective.Thiscanbedonebyassumingthatinstitutionalracismmustbe
+      understoodintermsoftheconceptsandframeworkdistinctiveofsuchaperspective.For
+      example,MeganMitchelldiscussesanexampleinvolvinganinstitutionandaskshowits
+      actions make its policies racist. She goes on to gloss this in objectionably individualist
+      terms,writing,‘Inotherwords,howissuchanactionindicativeoftheagentwhocreatedit
+      havingbeliefsand/orattitudesthatareracist?’17Thismakestheexistenceofinstitutional
+      racismturnonwhetheritconformstoadisjunctiveanalysisofracismintermsofbeliefsor
+      attitudes. Since beliefs and attitudes are mental states, which are inherently features of
+      individuals, this constitutes an unjustified privileging of an individualist model of
+      racism.18                                              
+        Second, discussions of institutional racism should not take it to be another term for
+      ‘racial injustice’.19 There are two related reasons why. First, for many people, the cir-
+      cumstancesthatconstituteracialinjusticewillcovermoreorlessanythingthatseemslike
+      aracialill.Although‘racism’hascometobetakenbymanytomeanvirtuallyanything
+      thatgoeswrongintheracialdomain,racialillsareinfactvarious,asBlumhasargued,and
+      include (besides racism) racial injustice,racialdiscrimination,racialinsensitivity, racial
+      ignorance and more.20 Moreover, many racial ills vary along several dimensions, in-
+      cluding their characteristic features or properties, the degree of harm they inflict, the
+      seriousnessofthewrongtheyinvolveandtheblameworthinessofthepeoplewhocommit
+      them,andcandifferintheirmoralstatusbecauseofallthese.Sinceintuitionsaboutwhat
+      constitutes racial injustice will cover any racial ill, construing institutional racism as a
+      termfor‘racialinjustice’obscuresimportantmoralandconceptualdistinctions.Second,
+      this would in effect turn disputes about whether any given state of affairs instantiates
+      institutional racism into disputes about whether there is ‘something wrong’ about it
+      raciallyspeaking.If‘institutionalracism’–whichissupposedtonameadistinctiveracial
+      wrong–becomesanameforanythingthatapersonthinkswrongintheracialdomain,it
+      would become virtually useless as a concept.           
+        Finally, although not a constraint in the same sense, in thinking about institutional
+      racism we should be careful to avoid claiming that a racial ill instantiates institutional
+      racism because there are institutional reforms that can remedy it. To see what I mean,
+      considerforexampletheunjustifieduseofforceonthepartofpolice.AsIhavesaid,in
+      recent years police killings of black people have inspired some of the most significant
+      movements for racial justice. In many cases, officers are caught on camera shooting or
+      chokingtodeathunarmedindividualsinwaysthatseemtobeunjustified.Theyarerarely
+      charged with anything, and rarer still is anyone convicted. Many blacks see in this
+      situationinstitutionalracismatwork,andmakeurgentcallsforinstitutionalreforms.Such
+      calls are appropriate, but theavailability of reforms that could be effective in curtailing
+      suchabuses,inandofitself,doesnotmeanthattheproblemisoneofinstitutionalracism.
+      Some form of bias may infect the actions of many officers, and there may exist
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+      976                          Philosophy and Social Criticism 50(6)
+                                                             
+                                                             
+      institutionalreformsthatcouldsignificantlyreducetheirincidence,butthesefactsdonot
+      sufficetomakethesituationoneofinstitutionalracism.Forthattherewouldhavetobe
+      somereasonforascribingtheactionsoftheindividualsinvolved–assumingthattheyare
+      racist–totheinstitutionsforwhichtheywork,orascribingthefailuretoimplementthe
+      availablereformstoracismonthepartoftheinstitutions,andthisinvolvesmorethanthe
+      mere existence of the reforms, or the mere fact that they have not been implemented.
+                                                             
+      Institutional racism as disparate impact               
+      I begin by considering the conception of institutional racism represented in S3 and
+      S4 above: institutional racism as disparate impact. Public policy scholar Keeanga-
+      Yamahtta Taylor provides a clear statement when she writes that ‘Institutional racism,
+      orstructuralracism,canbedefinedasthepolicies,programs,andpracticesofpublicand
+      private institutions that result in greater rates of poverty dispossession, criminalization,
+      illness,andultimatelymortalityofAfricanAmericans.Mostimportantly,itistheoutcome
+      thatmatters,nottheintentionsoftheindividualsinvolved’.21Amorecanonicalstatement
+      comes from the better-known discussion of Gertrude Ezorsky, who claims that institu-
+      tionalracism‘occurswhenafirmusesapracticethatisrace-neutral(intrinsicallyfreeof
+      racialbias)butthatneverthelesshasanadverseimpactonblacksasagroup’.22Although
+      therearedifferencesofemphasisherebetweenTaylor’sdefinitionandEzorsky’s(Taylor
+      emphasizesthatitistheoutcomesthatmatter,notintentions,andEzorskytherace-neutral
+      character of the problematic practices), both include reference to an adverse dispro-
+      portionateimpactonaracialgroup(namely,blacks)withoutanintentiontocreatesuchan
+      impact.23 This is essential to many conceptions of institutional racism.
+        Soinstitutionalracismasdisparateimpact(DI,forshort)existswhenaninstitution,or
+      set of institutions, utilizes race-neutral policies or practices that have an adverse dis-
+      proportionateimpactoncertainracialgroups.Onsomeaccounts,anadditionalcondition
+      (often having to do with the causes of the disproportionate impact, and sometimes its
+      effect)mustbesatisfied.ForEzorsky,forexample,casesofDInotonlyhaveanadverse
+      impact on a protected group; the impact itself is characteristically ‘racist’.24 And the
+      impact is racist when it is ‘in significant part either the result of overt racism, or
+      [contributes] to its perpetuation’.25 So race-neutral qualification standards might dis-
+      proportionately exclude blacks from employment because of past and present overt
+      racism, and standards that leave blacks employed in the lowest paid, lower status jobs
+      mightencouragethebeliefthat‘blacksnaturallybelongthere’,andinthiswaycontribute
+      to the perpetuation of overt racism.26                 
+        Now note that thisconceptionof institutionalracism shouldnotincluderace-neutral
+      practices that were selected because of their expected adverse disproportionate impact.
+      Suppose that an anti-black employer, not wanting to employ blacks, realizes that if he
+      were to adopt as a condition of employment a certainracially neutral qualification, few
+      blackswouldlikelyqualify.Supposefurtherthatheadoptsthequalificationandgetsthe
+      desiredresults.Thisshouldnotbewhatwehaveinmindwhenwetalkabout(extrinsic)
+      DI.Instead,suchcaseshavetobeconsideredexamplesofintrinsicinstitutionalracism.So
+      too,arguably,arecaseswhereanemployer(orotherinstitutionalactor)selectsaneutral
+                                                             
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+      Matthew                                        977     
+                                                             
+                                                             
+      rule without being attentive to its likely impact on different groups, and whose inat-
+      tentivenesscannotbeattributedtobiasofanykind,butwhoseattitudeinresponsetothe
+      impact, once it comes to light, might still depend on the racial identity of the groups
+      affected.                                              
+        This gives the central flavour of DI. So understood, it faces significant problems.
+      Consider, first, what I call the insensitivity problem. In making moral judgements, we
+      oftenmakefine-graineddistinctionsbetweendifferentactionsbasedondifferencesalong
+      variousdimensions,perhapsmostnotablydifferencesconcerningintentionsandeffects.
+      Manythink,forexample,thatthereisadifferencebetweenintentionallykillingsomeone
+      andmerelyforeseeingandlettingsomeonedie.Suchdistinction-drawingsurelyappliesin
+      thecaseofrace.Thus,forexample,‘theremustbeadifferencebetween,first,deliberately
+      hiring disproportionately few black applicants; second, pursuing a policy which you
+      knowhasthateffectbutwhereitisnopartofyourintentiontohavethateffect;andthird,
+      pursuing a policy which has that effect but without even realizing it’.27
+        TheproblemwithDIisthat,evenifwefocussolelyonthelastcategory–onpolicies
+      that have effects of which one is unaware – and grant that acts that fall into it can be
+      morallytroubling,itstillmaybemorallyrelevantwhycertainpolicieshavecertaineffects.
+      Theconceptofinstitutionalracismisusuallyunderstoodinastronglymoralizedwaysuch
+      thattosaythatsomethingisaninstanceofitistocondemnitmorally,andyetthereare
+      different possible reasonswhytheneutral policies, rules,etc. mightproduce adisparate
+      impact,notallofwhichareworthyofcondemnation.Inothercontexts,weroutinelyjudge
+      inequalities differently depending on their source. For example, we judge an inequality
+      differentlydependingonwhetherthepersonorgroupinthedisfavouredpositionendedup
+      inthatpositionduetopoorchoices,orduetocircumstancesbeyondheroritscontrol.Itis
+      hard to see why a similar idea should not apply in the racial domain. But DI is usually
+      understood as indifferent about which possible disparity-producing processes are op-
+      erative,andindeedonmanyaccountsisexpresslyformulatedtohavenoregardforthem.
+      Formany,thisisanattractivefeatureofDI,notaflaw.Butformanyothersthetheorywill
+      remaindubioussolongasthedifferentpossibledisparity-producingprocessesarenotall
+      morally troubling. So, in short, in being solely concerned with disparities, DI seems
+      objectionably insensitive to their different possible sources.28
+        NowitispossibletodefendaversionofDIthatclaims,notthattheoperativedisparity-
+      generatingprocessesdon’tmatter,butthatwedon’tneedtoknowtheprecisedisparity-
+      generating process that produces the disparity. All that we need to know, or at least
+      reasonably believe, is that thedisparity is insome way related to thegroup’s history of
+      oppression. The central idea behind such a view might be that if a group has an un-
+      corrected history of oppression, any newly produced inequality between it and other
+      groups – or perhaps any inequality beyond a certain amount or in certain specified
+      domains29–shouldbeofmoralconcern,evenifitisraciallyneutralrulesandpoliciesthat
+      produceit.Thehistorycreatesapresumptionforconcernaboutit,andshouldengendera
+      determinationtoatleasttakeintoaccounthowalternativerulesandpoliciesmightaffect
+      the group when selecting them. This is more or less what economist Glenn Loury has
+      argued,holdingthat‘pastracialinjusticeisrelevantinestablishingageneralpresumption
+      againstindifferencetopresentracialinequality’.30Evenso,heacknowledgesthatthereis
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+      978                          Philosophy and Social Criticism 50(6)
+                                                             
+                                                             
+      whathecallsan‘epistemologicalfog’that‘obscuresthecausaldynamicsatworkacross
+      the generations and limits our ability to know in detail how past events have shaped
+      current arrangements’.31                               
+        I think Loury is right when he says that the history of oppression should create a
+      presumption of concern for present-day inequality. But we might be tempted to take a
+      harderlinehere.ThehistorianIbramKendihasrecentlyarguedthatwecanexplainracial
+      inequalityinonlyoneoftwoways:wecaneithersaythatthereis‘somethingwrong’with
+      thegroupintheunequalposition,orwecansaythatracialdiscriminationisinsomeway
+      producingtheinequality.Thus,hearguesthat‘Whenyoutrulybelievethatracialgroups
+      are equal, then you also believe that racial disparities must be the result of racial dis-
+      crimination’.32IfKendiisright,thenpresent-dayinequalityshoulddomuchmorethan
+      engenderapresumptionofconcern.Butthissortofviewseemsfartoostrong.Thereare
+      otherpossiblesourcesofracialdisparitiesbesidesdiscrimination.Oneisculture.Cultural
+      differences between racial groups can lead to racial inequality. (Of course, cultural
+      differencescanbe,andoftenare,themselvestheresultofdiscriminationandoppression,
+      but they can also arise in other ways.) Other sources include geography and demog-
+      raphy.33EconomistThomasSowell,forexample,haspointedoutthatinsofarasagetends
+      tobecorrelatedwithskillsandjobexperience,medianagedifferencesbetweendifferent
+      racialgroupscancontributetoracialinequality.34Inshort,Kendidoesnotappeartobe
+      awareof,ortakeseriously,themultiplicityoffactorsthatcangiverisetoracialinequality.
+        SoanaccountofDIthatrequiresthatthedisparitycomeaboutacertainway–evenifit
+      does not require knowledge of all of the details involved – is better than one that is
+      indifferent to its source. Now the particular way that the preceding suggests that the
+      disparity must come about requires that the group on the disadvantaged side of the
+      disparitybelabouringunderdisadvantagesthataretheresultofpastinjustice(andthatthe
+      disparity can plausibly be attributed to these disadvantages). The operative principle
+      appearstobethatrulesandpoliciesthatperpetuatetheeffectsofapreviousinjusticeare
+      themselvesunjust,andanyinstitutionthatusesthemisracist(atleastwhen,presumably,
+      the injustice and disparity occur between racially differentiated groups).
+        This view involves two distinct steps, either one of which may be questioned. It
+      involves,first,theclaim(a)thatperpetuatingapreviouslyexistinginjusticeisitselfunjust,
+      andsecond,theclaim(b)thatwhenaninstitutionperpetuates–evenbymerelyinstituting
+      raceneuralrulesandprinciples–racialinjustice,thistherebymakesthatinstitutionracist.
+      Whencombined,theseclaimsmaketheracismoftheinstitution,inthesekindsofcases,
+      ultimatelyduetoitsperpetuationofinjustice.NowIhavealreadyarguedthatweshould
+      bewaryofunderstanding‘institutionalracism’asanothertermforracialinjustice.Butlet
+      us now set this worry aside; there are other reasons why we should reject this version
+      of DI.                                                 
+        Takefirst(a).Itiscertainlytruethatperpetuatinganinjusticeissometimesunjust.But
+      itissurelyfalsethatperpetuatinganinjustice–evenracialinjustice–isalways unjust.
+      Thisiseasytoseeoncewerecognizethecountlesswaysinwhichwemay,predictably
+      though not intentionally, perpetuate injustice. Consider, for example, Sally. For her el-
+      ementary schooling, Sally attends substandard schools and, despite excellent grades,
+      predictablyreceivesaninferioreducation.Forhersecondaryschooling,hergradesearn
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+      Matthew                                        979     
+                                                             
+                                                             
+      her a spot at a much better school. However, its high academic standards result in her
+      fallingfurtherandfurtherbehindbecauseofherinferiorprioreducation,whichletussay
+      is the result of injustice. Here it seems plausible to say that impartial instruction and
+      evaluationaccordingtohighacademicstandardsresultsintheperpetuationofinjustice.
+      Butitisbynomeansclearthatthisisitselfaninjustice.Further,itisnothardtoseehow
+      theexamplecouldbefurtherspecifiedtobeinstanceoftheperpetuationofracialinjustice.
+        Turn now to (b). Even if, in a given case, the perpetuation of an instance of racial
+      injustice was itself unjust, this need not make the institution involved racist. (a), it is
+      perhaps worth noting, seems more plausible to me; it is more plausible to say that the
+      perpetuation of racial injustice is itself always racially unjust than that any institution
+      involved in this perpetuation is always institutionally racist.) The problem is that this
+      would make even the most exacting standards of racial justice vulnerable to being
+      implicated in institutional racism, since the facts may turn out to be such that they are
+      instrumental to the perpetuation of injustice (at least this would be so if we accept
+      standardsotherthanwhateverleadstoequalracialoutcomes).Atonetime,meritocratic
+      hiring(thehiringofthemostqualified)wasviewedasthebestwaytoachievenon-racial-
+      discrimination in hiring. This was the ‘enlightened’ position on racial justice. Then it
+      becamealltooclearthat,inconditionsthatfailtorealizesomethinglikewhatRawlscalls
+      ‘fairequalityofopportunity’,meritocratichiringitselfcanperpetuateracialinjustice.35A
+      similar thing was probably true of hiring and promoting by seniority.36 The examples
+      don’tstopthere.Isubmitthat virtuallyanythingthatisthoughttoberequiredbyracial
+      justice today can be plausibly thought to instantiate institutional racism tomorrow, de-
+      pendingonhowtheeffectsofitsimplementationplayout,ifweaccepttheversionofDI
+      under consideration. This is itself implausible. It is also hard to square with the mor-
+      alizationwithwhichIhavesaidtheconceptof‘institutionalracism’isusuallyinvested.
+      The institutional practices that would warrant the characteristic condemnation of ‘in-
+      stitutional racism’ by these lights would seem to be morally commendable by another.
+        Nownoneofthisistosaythatthereisnothingwrongwithperpetuatinginjusticeorthat
+      weshouldnottrytoavoidthiswheneverfeasible.Forexample,usingrulesofseniorityto
+      appoint or promote people to positions of advantage may not instantiate institutional
+      racism, but, all things considered, a different hiring and promotion system may be
+      preferable.                                            
+        Let us turn now to what is perhaps the most serious problem for DI: what I call the
+      problemofexplanatoryfailure.Foranact,feeling,institution,etc.toberacist,theremust
+      be something about that act, feeling, etc. in virtue of which it is racist. Accounts of
+      institutional racism must therefore explain what it is about an institution that makes it
+      racist when it is racist. Consider how Garcia’s affective-infection model answers this
+      question.RecallthatforGarciaracismisarace-basedill-willordisregard.Giventhis,his
+      modelseemswell-positionedtoexplainwhatitisthatmakesinstitutionsracistwhenthey
+      areracist:itistheiraimsandplans,thecontentoftheirrules,andsoon.Aninstitutionthat
+      aimstokeepacertainracialgroupinasubordinateposition,forexample,isracistforthat
+      veryfact.Andsinceaninstitution’saims,plans,etc.comefromtheaims,plans,etc.that
+      individuals give it, Garcia is able to explain racism at the level of institutions by con-
+      necting it to racism at the level of individuals.37 He thinks that this is a virtue of his
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+      980                          Philosophy and Social Criticism 50(6)
+                                                             
+                                                             
+      account compared to extrinsic accounts, which he thinks leave it unclear ‘how the two
+      levels or types of racism are related, if they are related at all’.38
+        Extrinsicaccountstakenoticeofsomethingeminentlymorallyrelevant:thenegative
+      effectsofinstitutionalconductoncertaingroups.Thesenegativeeffectsarenegative,at
+      the very least, because they are reductions, or relative reductions, in the well-being of
+      individualhumanbeings.Totheextentthatthatistrue,theyareprotanto(morally)bad.
+      Beyondthis,theyarealsoarguablybadwhentheyperpetuatepreviousinjustice.Soour
+      questionisnotwhethertheeffectsinquestionarereallybad,butthecharacterofthose
+      effects,grantedthattheyarebad.Extrinsicaccountsclaimthattheyareracist,butweare
+      entitledtoaskforanexplanationofwhatitisinvirtueofthattheyareracist.Iwillargue
+      nowthatitcannotbethemerefactthataracialgroupisdisproportionatelyaffected,not
+      even when the group has a history of being oppressed.  
+        Racial disproportionality can result from any number of things, from the morally
+      troublingtothemorallyrequired,andeverythinginbetween.Takeanact,policyorevent
+      thatispresumablymorallyneutral(inmotivation,noteffects):say,anaturaldisaster.A
+      smallasteroidfallsfromthesky,strikinganddestroyingapartoftowndisproportionately
+      inhabitedbyR1s,wholetussayarealreadydisadvantagedbecauseoftheirrace.Thisis
+      clearlybad,butitishardtoseewhatbasistherecouldbeforclaimingthatitinstantiates
+      racism.                                                
+        Nowtakesomethingthatisarguablymorallyrequired.IntheUS,blackmenhavethe
+      highestrateofunemploymentofanyrace-gendercombination,inpartbecauseemployers
+      areveryreluctanttohirepeoplewithcriminalrecords(blackmendisproportionatelyhave
+      them).Withthisatleastpartlyinmind,inrecentdecadesalargenumberofstateshave
+      enacted so-called ‘Ban the Box’ measures, which forbid employers from asking about
+      criminal records on employment applications. Instead of reducing employment dispar-
+      ities, however, these measures seem to have increased them, as in the absence of in-
+      formation about the criminal history of black applicants, employers apparently rely on
+      generalizationsinwhichracebecomesaproxyforhavingacriminalrecord.39Intending
+      toreduceemploymentdisparities,BantheBoxmeasureswerearguablymorallyrequired.
+      Butiftheextrinsic accountiscorrect,itseemsthatwemust,implausibly,viewthemas
+      instances of institutional racism, since they created greater disparities instead.40
+        Theheartoftheproblem,Ibelieve,isthatthereisamismatchbetweenthesheerfactof
+      racial disproportionalityand the evaluative aspect of theconceptof ‘racism’. It isoften
+      saidthattheconceptofracismisinherently‘moralized’inastrongway.AsGarciaputsit,
+      ‘Tocallaperson,institution,policy,action,projectorwishracististopresentitasvicious
+      andabhorrent’.41Ithinkthatthereissomereasontodoubtthis.42Ithinkitispreferableto
+      saythattheconceptofracismhasaninescapablyevaluativeaspect.Butthisaspectshould
+      beunderstoodbroadlytoincludejudgementsofoutrightimmorality,lessstarknegative
+      moral judgements and perhaps even other forms of negative evaluation (e.g. negative
+      epistemic evaluation). All instances of racism, on this view, involve some evaluative
+      shortcoming.Butnosuchevaluativejudgementseemstobejustifiedbythemerefactthat
+      a rule, policy, etc. has certain negative effects on certain racial groups.43 Extrinsic ac-
+      counts want us to move from the negative effects of institutional conduct on certain
+      groupstoaclaimaboutthenatureoftheinstitutionsthathavethoseeffects(thattheyare
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+      Matthew                                        981     
+                                                             
+                                                             
+      racist).Butsuchamovefails,asactions,rulesandeventscanhavenegativeeffectsofa
+      ‘racial’character(indisproportionatelyaffectingacertainracialgroup)withoutrunning
+      afoulofanyrelevantevaluativestandard.Inotherwords,everythingcan‘goright’,and
+      theactions,etc.canstillproduceadisparateimpact.Sotheymustcomeupshortinaway
+      that goes beyond the unwelcomed fact that they disproportionately negatively impact
+      certaingroups.Thatthegrouphassufferedpriorinjusticeandthedisproportionateimpact
+      is a result of this injustice doesn’t change this. So racial disproportionality fails as
+      candidatecriteriontoidentifythepropertyinvirtueofwhichracistinstitutionsareracist,
+      andwearestillinneedofanexplanationofwhatitisthatmakesracistinstitutionsracist.
+        A different type of objection that I will mention more briefly is what I will call the
+      facileness objection. Institutional racism as DI encourages us to accept all too simple
+      explanations of inequality – or rather, slogans that gesture in the direction of an ex-
+      planation. Confronted by a seemingly intractable, complex problems like racial in-
+      equality,itisalltooeasyforsloganstocometosubstitutefortheharder,morenuanced
+      analysisrequiredbytheproblem.Arguably,thisistherolethat‘institutionalracism’now
+      plays. By my lights, the sociologist Robert Miles is right when he argues that defining
+      racismbyreferencetoconsequences‘absolvestheanalyst(andthepoliticalactivist)from
+      the often difficult task of identifying the particularities of the processes that create and
+      reproduce advantage’.44                                
+      Explaining racial inequality                           
+      Onereasonthatinstitutionalracismhascometodominatediscussionsofracethesedaysis
+      the widespread sense that it is needed to adequately explain the persistence of racial
+      inequality.Asitbecameclearthatthelegalandculturalchangesachievedbycivilrights
+      movements (in the US and elsewhere) would not eliminate racial inequality, individual
+      racism increasingly came to be seen as explanatorily inadequate, and some observers
+      sought out alternative explanations. Many thought that they found a viable one in ‘in-
+      stitutional racism’.45 Changes in racial attitudes, as revealed by survey polls, also
+      suggestedtomanythatindividualracismalonecouldnolongeraccountforitspersistence.
+        Some writers now go beyond claiming that individual racism is explanatorily inad-
+      equate.JohnCalmore,forexample,arguesthatitisirrelevant,evenadistraction,claiming
+      that,giventhat‘blacksareoppressedmoreasagroupthantheyarediscriminatedagainst
+      as individuals’, and the fact that racism that exists in ‘cultural habits,… societal orga-
+      nization, and an interlocking set of structures and institutional arrangements’, it is now
+      truethat‘individualsdiscriminatingagainstotherindividualshasalmostbecome,really,
+      beside the point’.46 I will argue that claims about the explanatory indispensability of
+      institutional racism are overstated, and that individual racism should be given a larger
+      explanatory role.                                      
+        WhenIspeakof‘individualracism’,twopointsareimportanttokeepinmind.First,I
+      refertoactsofrace-baseddiscrimination,whetherracistornot.Idistinguishbetweenacts
+      ofracialdiscriminationandactsofracistdiscrimination:whileeveryinstanceofthelatter
+      is an instance of the former, the reverse is not true.47 Many examples illustrate this. A
+      personmayselectaromanticpartneratleastpartlyonthebasisofrace,clearlymakingit
+                                                             
+                                                             
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+      982                          Philosophy and Social Criticism 50(6)
+                                                             
+                                                             
+      an instance of racial discrimination. But we would need to know more before we can
+      concludethatitisalsoanactofracistdiscrimination.Importantly,evennon-racistactsof
+      racial discrimination can give rise to racial inequality and racial injustice. Second, the
+      ‘individual’in‘individualracism’referstoactsofdiscriminationonthepartofindividual
+      humanbeings;Idonotmean‘individual’asinisolated.Thisisimportanttoemphasize
+      becauseacentralmisconceptionthatgetsinthewayofacceptinganindividualistaccount
+      ofracialinequalityisthesensethatsuchanaccountmustbecommittedtotheideathat
+      acts of racism or discrimination are committed by individuals on a relatively isolated
+      basis, that they don’t have a systemic character, but are done by a few people here and
+      there.48Buttosaythatracismanddiscriminationaremoreindividualistphenomenaisnot
+      tosayanythingatallabouthowwidespreadtheyareonthepartofindividuals.Infact,I
+      believe that individual discrimination, especially against blacks, remains widespread.
+        The idea that individual racism can account for much racial inequality is likely to
+      receive the strongest pushback from those who believe that racism today is primarily a
+      ‘structural’ phenomenon. In fact, structural racism is just one among many intergroup
+      phenomenanowwidelyunderstoodprimarilyin‘structural’terms.‘Structuralinequality’
+      (or ‘structural injustice’), as this broader phenomenon is called, is usually invoked to
+      emphasizenotonlythatracial,sexualandotherinequalitiesarepervasiveinsociety,but
+      thatfullyunderstandingthemrequiresrecognizingboththattheyarestructural(andsogo
+      beyond individual attitudes and actions) and that structural reform is required to ef-
+      fectivelyaddressthem.AsSallyHaslangerhasusefullysummarizedthecentralelements
+      ofthisview,‘Racism,sexism,andthelike[should]beanalyzed,intheprimarysense,in
+      termsofunjustandinterlockingsocialstructures,notintermsoftheactionsandattitudes
+      ofindividuals…Correctingthewrongsofracism,sexism,andthelikeisnotbestachieved
+      by focussing on the “bad attitudes” of individuals’.49 For Haslanger, focussing on in-
+      dividualsandtheirattitudesobscuresthelargerstructural(andcultural)contextthatshape
+      and constrain our actions.                             
+        Haslangerarticulatesasophisticatedconceptionof‘structure’,asIwillbrieflyexplain
+      shortly.Butwhenpeopletalkabout‘structuralracism’,theyoftenhavesimpler–andless
+      tenable – ideas in mind. Consider one conception, which I think has informed popular
+      understandingsofstructuralracism.50Accordingtothisconception,structuralracismis
+      defined, at least illicitly, more by a certain state of affairs than by the actions of any
+      identifiable policies, institutions, etc. On the surface, there is an assumption that racial
+      inequality, perhaps like any inequality, must be the result of the mutually-reinforcing
+      workingsofthetotalityofsociety’srules,institutions,etc.,andsoifthereisevidencefor
+      racial inequality – in income, educational attainment, and so on – that shows that
+      structural racism exists. But in practice, structural racism consists not so much in what
+      anythingdoesasbytheracialinequalityitself.Soitissaidtoexistwhenthereexistsracial
+      inequality in the society generally. If pressed, it may be acknowledged that these facts
+      about racial inequality are strictly speaking distinct from the structural racism that is
+      invoked to explain them, but in practice the explanatory link between the two is un-
+      derstood so tightly that when those under the influence of this conception speak of
+      ‘structuralracism’,theyoftensimplyhavethesefactsinmind.Itshouldbeclearthatthis
+      conception should be rejected. It confuses, or comes close to confusing, fact and
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+      Matthew                                        983     
+                                                             
+                                                             
+      explanation;structuralracismispresumablysupposedtobesomethingthatexplainsthe
+      persistence of racial inequality, so it cannot be understood as the facts in need of
+      explanation.                                           
+        Let’sturnnowtoHaslanger.Nowtospeakofinequalityashavingastructuralrather
+      thanindividualcause,asHaslangerdoes,appearstosuggestthatthestructureinquestion,
+      to some extent at least, transcends, or is independent of, individual (non-institutional)
+      actions.Thiswouldmeanthatachangeinindividualbehaviourinthesociety–evenona
+      verywidescale–wouldleavethe‘structure’,intherelevantsense,inplace.Ifthiswasnot
+      thecase,thesuggestedcontrastbetweenthestructuralandtheindividualwouldcollapse,
+      andstructuralistsandindividualistsmaybetalkingpasteachotherwhentheydebatehow
+      to explain, morally evaluate and remedy inequality.    
+        Some structural theorists are clear that they do not mean to suggest that structure is
+      independentofindividualactions.IrisMarionYoung,forexample,makesitclearthatthe
+      uncoordinated actions of individuals occupy a central place in her conception of social
+      structure, which she understands as ‘the accumulated outcomes of the actions of the
+      masses of individuals enacting their own projects, often uncoordinated with many
+      others’.51 So for her the structural processes that produce injustice ‘do not exclude
+      everydayhabitsandchosenaction’.52Thoughsomewhatlessclear,forHaslanger tooit
+      seems that social structures are not meant to be independent of individual actions. She
+      understands them in terms of ‘networks of social relations’, which are constituted by
+      social practices, which are themselves understood in terms of what she calls ‘schemas’
+      and ‘resources’.53 Although practices are constituted by our collective doings and un-
+      derstandings, on her view they are not alterable by individual actions and thoughts –
+      considered separately. So when she says that racism, sexism and the like should be
+      analysedprimarilyintermsofinterlockingsocialstructures,sheisnotatalldenyingany
+      role for individual actions and attitudes.             
+        Thereisnodoubtthatouractionsareshapedandconstrainedbysocialstructuresinthis
+      sense. So both individual actions and structures are important for explaining racial in-
+      equality.Butthere areatleasttwo reasonstoemphasize theroleplayedby individuals.
+      First, the associations conjured by talk of ‘structures’ are liable to obscure the role that
+      individuals play even in structural accounts. As I have indicated, ‘structural’ is usually
+      contrasted with ‘individual’, and so to suggest that the cause of some inequality is
+      structural at least appears to suggest that it is independent of individual actions – even
+      whenthisisnotintended.Weshouldtrytoavoidthisappearance,forindividualactions
+      continuetoplayacrucialroleinexplainingany‘structural’racialinequalityanditishard
+      to see how structural reform could lead to meaningful change if it did not change in-
+      dividual behaviour.                                    
+        Thesecondreasontoemphasizetheroleofindividualsisthatthereisacasetobemade
+      forgivingexplanatory priority toindividualactions.Toseewhat Imean, Iwillstartby
+      consideringanexamplefromHaslanger’swork.LisaandLarryareacouplewhoworkin
+      a comparable position in the same company earning the same salary. They are equally
+      talented,educatedandexperiencedintheworkplace,andthey‘haveequalpowerintheir
+      relationship, have no prejudices about gender roles, and are equally capable of all do-
+      mestictasksandchildrearingtasks’.54Theyhaveachild,butonlyLisaiseligibleforpaid
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+      984                          Philosophy and Social Criticism 50(6)
+                                                             
+                                                             
+      maternityleave.SincetheycannotaffordforLarrytotakeunpaidleave,hecontinuesto
+      workfull-timewhileLisagoesonmaternityleave.Lisabecomestheprimarycaregiver,
+      andshechoosesamoreflexibleworkschedulewhenshereturnstowork,withtheresult
+      thatLarryaccruesmorehumancapital,earnsahighersalaryandendsupwithmorepower
+      intherelationship.55Haslangerarguesthatthecouple’sproblemliesinthefactthattheir
+      decision-making is relationally constrained, not in anyone’s attitudes: ‘The interacting
+      structuresofworkandfamilylifeandtheircomponentpracticesarewhatexplainsLarry’s
+      accumulationofpowerintherelationship…ratherthanimplicitorexplicitattitudes.The
+      source of the problem is structural rather than individual’.56
+        I’mnotsureifthisexampleshowswhatHaslangermaythinkitshows.Supposethat,
+      insteadofnotholdinganyprejudicesaboutgenderroles,Larry(butnotLisa)embraces
+      them.Andsupposethattheiremployerofferspaidmaternityleavetobothpartners.Inthat
+      case,theproblemwouldseemtobemoreofanindividualonethanastructuralone.Of
+      course, it will be objected that if I am going to change the example in these important
+      ways – ways that enlarge the role of individual attitudes and actions and negate certain
+      effectsofstructure–thenitshouldobviouslychangeourdiagnosisoftheproblem.Thisis
+      mypoint.Iftherearenoplausibleindividualistexplanationsofinequalityinagivencase,
+      then the best explanation of it will likely be structural. But the implausibility of indi-
+      vidualist explanations may simply reflect the particularities of the case. If so – if a
+      structural explanation seems obviously superior to any individualist one because indi-
+      vidualistexplanationsareprecludedbytherelevantfacts–thenthepoweroftheexample
+      will owe more to the details of its construction than anything in the worldin which we
+      live.SoifHaslangermerelywantstoshowthatthecausesofinequalitycansometimesbe
+      structuralratherthanindividual,sheisonsolidground.Butifsheisadvancingthemore
+      ambitiousclaimthat‘Racism,sexism,andthelike[should]beanalyzed,intheprimary
+      sense,intermsofunjustandinterlockingsocialstructures,notintermsoftheactionsand
+      attitudes of individuals’, her argument is unconvincing.57
+        Individualactionsofteninfluencetheactionsandoutcomesofothers.Wecanthinkof
+      such actions as operating at two levels: as relatively stable background influencers of
+      actions and outcomes, and sometimes as more variable and more proximally direct
+      foreground influencers of the same. As background influencers, individual actions – as
+      tokens–willhavetheseeffectsonlyasaverysmallpartofamuchlargerwholeconsisting
+      ofagreatmanyotherindividualactiontokensandmuchelse.Thisisroughlythesensein
+      whichindividualactionsinpartconstitutestructure,onHaslanger’sview.Butindividual
+      actions can impact actions and outcomes in a more direct – and so, I argue, more ex-
+      planatorilysignificant–way.58IfJalenappliesforajobandabiasedHRmanagerrejects
+      himbecauseofhisrace,theactionsofothersclearlyhaveadirectimpactonthisoutcome.
+      The same would be true if some of his teachers approached his instruction with low
+      expectationsandthisaffectedhiseducation.Atthesametime,thelargerstructures(inpart
+      constituted by other individual actions, as tokens and types) within which Jalen is ed-
+      ucatedandappliesforajobwillexertaninfluencetoo,astheyalwaysdoforallofus.But
+      if we want to explain some particular action or outcome, it is far from obvious that we
+      should first examine such factors, or that any that we should find should be considered
+      explanatorilyprimary.Instead, Ibelievethat foreground factors that exertamore direct
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+      Matthew                                        985     
+                                                             
+                                                             
+      influence should be given priority explanatorily.59 More proximally direct factors that
+      influence events seem to play a larger causal role than other factors that also influence
+      them,andfactorsthatplay alargercausalrole shouldbeaccorded explanatory priority.
+      This explanatory principle seems to me to be intuitively very plausible, but I cannot
+      defend it here. Still,if it isright, Iclaim that we will find atleast asmuch evidence for
+      individualist explanations of racial inequality as structural when we look at real-world
+      racialinequality,oratleastwewouldiftherewerenoepistemicobstacleslimitingwhat
+      we can know.                                           
+        Still,thereisaquestionhereaboutwhethermoreproximallydirectactionsshouldnot
+      beconsideredapartofsocial‘structure’.Itisindeedpossibletohaveanall-encompassing
+      conceptionof‘socialstructure’sothatevenindividualpsychologymustalsobedeemed
+      structurallyconstrained.ThisseemstobeHaslanger’sview.60Butindividualpsychology
+      beingstructurallyconstrained,eveniftrue,doesnotunderminetheprecedingargument;
+      individual acts may be constrained, in some sense, while still being more proximal
+      influencers ofevents,and if they are, they should be accorded explanatory priority.For
+      this argument to be undercut, it must not only be true that individual psychology is
+      constrained,insomesense,butthatitisconstrainedinawaythatthatshouldundermine
+      ourconfidenceinthecausalstoryIhavesuggested.NothinginHaslanger’saccountdoes
+      this. I conclude therefore that individual actions can play an important role in racial
+      inequalityinvirtueof(i)therolethattheyplayinsocialstructuresingeneraland,more
+      importantly,(ii)themoreproximallydirectrolethattheycanplayinaffectingtheactions
+      and outcomes of others. Moreover, when they play a role via (ii), they ought to be
+      considered explanatorily primary.                      
+        As I have said, I believe that acts of racial discrimination remain widespread, and
+      againstblacksIwouldevensaythattheyareoftenubiquitous.Theseactshaveeffectson
+      their victims, and some of these contribute to racial inequality. A person who has been
+      passed over for a promotion because she is black obviously misses out on the oppor-
+      tunitiesandbenefitsthatthepromotionwouldhavemadepossible.Thiswillcontributeto
+      racial inequality. A similar thing happens when she is denied a loan.61 But racial dis-
+      crimination can contribute to racial inequality in far less straightforward ways. For
+      example,itmayininnumerablewayscontributetovarious(e.g.human capital)deficits
+      that persons bring to different markets, making even the race-blind application of race-
+      neutralrulesproduceraciallydisparateoutcomes.Inaddition,actsofdiscriminationthat
+      bythemselvesseemtohavesmalleffectscancontributetoracialinequalityinasignificant
+      waybytheaccumulationofthesmalleffectsiftherearealargenumberofthem.62Even
+      very seemingly minor differences in treatment can have profound effects on racial
+      outcomes. For example, stereotypes can function as pre-interaction expectancies that
+      influence how we treat the people we interact with, which can in turn affect how they
+      behave. Thus, studies have shown that when job interviewers interact with black can-
+      didates with less positive attitudes (as reflected in seemingly small differences in non-
+      verbalbehaviour),thecandidatestendedtoperformmorepoorly.63Andevenwhenthere
+      arenodifferencesintreatmentinaparticularcontext,prevailingstereotypescanstillexert
+      a powerful impact.64                                   
+                                                             
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+      986                          Philosophy and Social Criticism 50(6)
+                                                             
+                                                             
+        Myclaimthatracialdiscriminationonthepartofindividualsremainsverywidespread
+      may seem hard to square with polls in recent decades showing declining support for
+      discriminationandincreasingsupportforracialequality.Inmyview,weshouldbewary
+      oftakingthesepollsatfacevalue.Theproblemisthatmostpeoplewhoholdviewsthat
+      are now socially taboo, like racist beliefs and attitudes, are going to be unwilling to
+      honestly express them in public. In the social sciences, this is called the problem of
+      ‘impressionmanagement’.Impressionmanagementconcernsbecomeheightedprecisely
+      whennormsagainstoffensivespeechbecomemorewidelyacceptedandenforced.When
+      thishappens,wecanneverreallybesurewhethertheexpressedviewsonissueslikerace
+      areatrueindicationoftheviewsactuallyheld.AsanthropologistJohnL.Jackson,Jrhas
+      written,‘Politicalcorrectnesshasproventragicallyeffectiveathidingracism,notjustin
+      healing it’.65                                         
+        Itiswiththeproblemofimpressionmanagementinmindthatresearchersdeveloped
+      the Implicit Association Test (IAT).66 The idea here is that if test takers’ reaction times
+      differ when presented with different groups-related stimuli, that will reveal something
+      about their biases that they may be unaware of. When a test taker’s test results suggest
+      biases against particular groups (whether defined by race, or gender, etc.) that are not
+      reflectedintheirresponsestopre-testsurveyquestionsaboutthegroups,theyaresaidto
+      have an ‘implicit bias’. However, there are real questions about whether this research
+      really measures unconscious bias; as legal scholars Ralph Banks and Richard Ford
+      explain,‘Theattributionofdiscriminatorybehaviortounconsciousbiasonlymakessense
+      when the discrimination cannot be attributed to conscious bias’.67 But to rule out
+      consciousbiasasthecausewouldrequiretakingatfacevaluethesameanswersthatwe
+      havepreviouslybeentoldcannotbetakenatfacevalue.68Thissuggeststhatimplicitbias
+      researchmaybeincoherentinitsintellectualfoundations:ittakesasitsstartingpointthe
+      fact that self-reported racial attitudes cannot be taken at face value, but its findings of
+      implicit bias can’t be justified without so taking them.
+        Somyviewisthatracialdiscriminationremainspervasive,andthatmanyofthepeople
+      whoengageinitmaybeawarethattheydoso,butareunwillingtopubliclyacknowledge
+      this.Thereissomeempiricalevidencesuggestingthatwhites,inparticular,arenothonest
+      intheirresponsestoracialattitudesurveys.Forexample,inasurvey-basedexperiment,
+      MariaKrysancomparedanswerstoquestionsaboutracialattitudesinthreeconditionsof
+      privacy. She found that, as predicted, white respondents expressed less liberal racial
+      attitudesasprivacyincreases.69Andinastudythataskedmorethan600collegestudents
+      torecordinajournalracialeventsthathappenintheirday-to-daylives,sociologistsLeslie
+      Houts Picca and Joe Feagin noticed a stark difference in how whites behave in more
+      diverse ‘frontstage’settings and ‘backstage’ ones where only whites are present. They
+      conclude that ‘whites tend to have “two faces” when it comes to their racial views,
+      commentaries,andactions.Theyfrequentlypresentthemselvesasinnocentofracismin
+      thefrontstage,indeedas“colorblind”,evenastheyclearlyshowtheirracistframingofthe
+      world in their backstage comments, emotions and actions’.70
+        Nownoneofthisistosaythatracialdiscriminationisalwaysamatterofconscious,
+      intentionalactsonthepartofindividuals.Someindividualsmaybeunawareofsomeof
+      their biases. And even when individuals are aware, at some level, that they sometimes
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+      Matthew                                        987     
+                                                             
+                                                             
+      discriminate,thisiscompatiblewiththediscriminationbeingtheresultofanuncontrolled
+      process–theslowerreactiontimesobservedinIATs,Ibelieve,dotellussomething.In
+      otherwords,weshoulddistinguishbetweentheautomaticityofactsofdiscriminationand
+      thelackofawarenessofthembythosewhoperformthem.Thattheyareoftenautomaticis
+      an enormously important finding even if additional claims about (the complete lack of)
+      awareness seem unwarranted.                            
+        Sowhenexaminedclosely,mostoftheevidencesuggeststhatindividualracismand
+      discriminationareverymuchaliveandwell,evenifwemaynotfullyunderstandallof
+      their effects. There is no reason why these might not explain the patterns of racial in-
+      equality we observe in various sectors of society and over time.71 At the same time,
+      extrinsicinstitutionalracismisnotagenuineformofracismatall.Still,itispossiblethat
+      the discrimination and racism that still thrives will be committed by persons in their
+      officialinstitutionalcapacities,andinsomecases(e.g.whenverywidespread)itwillbe
+      clearthattheyshouldbeascribedtotheinstitutionsinquestion(thismaybetrueofthe
+      criminal justice system). In these cases, we will have instances of intrinsic institutional
+      racism.Inothercases,itwillbeunclearwhethersuchascriptionisappropriate;herewe
+      encounterdifficultquestionsaboutwhentheracismanddiscriminationthatexistswithin
+      aninstitutioncanbeproperlyascribedtoit.Presentintrinsicinstitutionalracismprobably
+      continues to play a significant role in the persistence of racial inequality, but until we
+      answer these difficult questions, it will remain unclear just how significant.
+      The agency of racial justice                           
+                                                             
+      Intheintroduction,Isuggestedthatsomewronglyseeinstitutionalracisminsituationsof
+      racialinjusticewherethereareinstitutionalreformsthatcouldremedythem.Iarguedthat
+      the existence of an institutional remedy, by itself, does not mean that the situations are
+      instancesofinstitutionalracism.ThequestionInowwanttoconsideristhis:evenifracial
+      justicecouldbeachievedbyinstitutionalreformsalone,couldmoralitystilldemandmore
+      of us?                                                 
+        Thereareatleastthreeroutesbywhichitmightbethoughtthatracialinjusticecouldbe
+      remedied by institutional reform. One is for specific institutions to be designed or re-
+      vamped so that they prevent discrimination. This will presumably involve, at the very
+      least,anti-discriminationmeasuresandtheprovisionofsomemechanismtoenforcethem.
+      Asecondrouteisforinstitutionstobedesignedorrevampedtocorrectfortheeffectsof
+      ongoingdiscrimination.Inthiscase,theinstitutionsarenotprimarilydesignedtoprevent
+      discrimination, currently and perhaps not even in the future, but to mitigate if not
+      eliminateitsnegativeeffectsonitsvictims.Finally,itmaybethoughtthatdiscrimination
+      and the injustice it engenders is best handled by a more comprehensive program of
+      institutional reform that involves significant changes in an array of interlocked institu-
+      tions. The program of reform might involve a radical transformation of the whole
+      economicsystem,andmayinclude–butgobeyond–elementsofthefirsttwoprograms
+      ofinstitutionalreform.Iammainlyinterestedinthesecondroute,butwillsaysomething
+      about the other two.                                   
+                                                             
+                                                             
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+      988                          Philosophy and Social Criticism 50(6)
+                                                             
+                                                             
+        I begin with the first route. Anti-discriminatory measures can be effective in elimi-
+      natingsomediscrimination,butthere areimportantlimitstothem.Foronething,some
+      casesofdiscriminationinemploymentarenotoriouslyhardtoproveincourt,asdecision
+      makers rarely leave a paper trail that can be used in court. In addition, much discrim-
+      inationtakesplaceinareasoflifethatwethinkshouldbefreeoflegalregulation.Loury,
+      for example, has argued that when a group has suffered from prolonged non-private
+      discriminationinthepast–whathecalls‘discriminationincontract’–thedevelopmental
+      resources ofitssocialnetworkswilltendtobepoorerthan others,andthiswillmakeit
+      vulnerabletoakindofprivate,associationaldiscrimination(inwherewedecidetoliveor
+      who we associate with) that he calls ‘discrimination in contact’, which he thinks can
+      constraintheabilityofthemembersofthegrouptodeveloptheirfullpotential.72Asfor
+      thelastroute,comprehensivereformmayinspireinsomethehope,ifnotconviction,that
+      itwillallowustofinallyputracialdiscriminationandracialinequalitybehindus.Butitis
+      hardtoimaginewhatkindofreformortransformationwouldprecludetheirreappearance
+      ifpeoplewerestillinclinedtodiscriminate(assumingthatthetransformationwouldleave
+      inplaceafreesociety).AsIhavejustsuggested,thereareformsofdiscriminationthought
+      to be beyond the scope of legitimate regulation that could undermine racial justice.
+        What I am calling the second route aims to neutralize the effects of ongoing dis-
+      crimination. It is perhaps the route that has been attempted most consistently since the
+      passage of anti-discrimination legislation. Affirmative action policies, at least when
+      justifiedasawayofcounteringcurrentdiscrimination,arguablyfallwithinthiscategory.
+      Thesemeasureshavesignificantdrawbacks.Forone,theymaycausethebeneficiariesto
+      bestigmatizedforrequiringongoinginterventionsontheirbehalf.Foranother,theyseem
+      to help the most advantaged members of the beneficiary groups, not the most disad-
+      vantaged.Andthereareotherproblems.73Butwhatifinstitutionscouldbedesignedor
+      revamped insuchaway that they arecompletelyeffectiveinneutralizingtheeffectsof
+      discrimination, so that the distributive pattern that we would have in its absence would
+      emerge?Wouldthatmeanthatallwaswellintherealmofrace?Iwillsuggestthat,ona
+      deontological view, it would not.                      
+        The question is related to one that has already received considerable attention in
+      politicalphilosophy.Inawell-knownarticle,andlatertwobooks,G.A.Cohenrejected
+      John Rawls’s well-known claim that principles of social justice are restricted to what
+      Rawlscalls‘thebasicstructureofsociety’,whichisthewaythatsociety’s‘majorsocial
+      institutions’ assign fundamental rights and duties and determine the division of ad-
+      vantages.74 Instead, Cohen argued that the difference principle must go beyond insti-
+      tutional structure to place demands on citizens’ occupational choices. His position
+      crucially presumes a kind of institutional impotence in achieving justice, as he under-
+      standsthis.75Heheldthatifsuitableinstitutionscouldbedesignedtobringaboutajust
+      distribution without justice-promoting occupational choices, then the burden of justice
+      wouldfallexclusivelytoinstitutions.76HisobjectiontoRawls,then,wasjustthat‘itisnot
+      possibletoachievedistributivejusticebypurelystructuralmeans’,77sothatinadditionto
+      ‘justrules’,ajustdistributionrequires‘justpersonalchoice[s]withintheframeworkset
+      by just rules’.78                                      
+                                                             
+
+[PAGE 19]
+                                                             
+                                                             
+                                                             
+      Matthew                                        989     
+                                                             
+                                                             
+        Ihavemydoubtsaboutwhetherracialjusticecouldbeachievedbypurelystructural
+      means.ButwhatIwanttosuggestisthatevenifitcouldbe,moralitymaystilldemand
+      moreofusasindividuals.Itakeadeontologicalviewonthesematters(andingeneral),
+      and on a deontological view, in at least some cases the agency of justice is not fact-
+      sensitiveinthewaysuggestedbyCohen.Becauseofthis,Isuggestthatmoralitymakes
+      demandsonindividualsthatevenfullyeffectivejustinstitutionscannotdeflect,bywhichI
+      mean that even if some configuration of institutions (which should not require non-
+      discriminationbyindividualsactingapartfromanyinstitutionalrole)couldachieveajust
+      racialdistribution,individualswouldnottherebybeunburdenedoftheirdutiesofjustice.
+      My argument assumes that non-discrimination – at least in certain domains – is a de-
+      ontologicalconstraint.Wemayhaveadutynottoraciallydiscriminate,evenwhendoing
+      so would produce certain good consequences.            
+        Nowfroma(moderate)deontologicalperspective,whenanactiswrong,iteitherfails
+      toproducethebestconsequencesgivenavailablealternatives,oritviolatesoneormore
+      constraints.Whenitviolatesaconstraint,itswrongbydefinitioncan’tbeaccountedforin
+      terms of consequences. This means that effacing or neutralizing the consequences of a
+      constraint violation could not make it true that the act was not wrong. Consider, for
+      example, the case of theft (supposing this to be a constraint violation). Suppose that it
+      werepossibletofullyeffaceitsharmbymeansofsomeconfigurationofinstitutions.Even
+      so, if a victim of an act of theft was adequately compensated, whether by the thief or
+      societyasawhole,itwouldnotfollowthatthethiefdidnotviolateamoraldutywhenhe
+      committedtheact.Applythisnowtotheracecase.Itseemsthatinstitutionalefficacyin
+      realizingthedemandsofracialjusticebyeffacingtheharmofdiscriminationwouldnot
+      discharge individuals from a duty to respect the constraint of non-discrimination.
+        In one of his papers on racism, Garcia had occasion to write,
+        [Thevolitionalconceptionofracism]meansthattoeliminateracismitisnotenoughthatthey
+        change some laws or hiring practices; they themselves must change, and change in their
+        depths – their hearts andminds. I should say that todenythat is tolet oppressors offtoo
+        easily;itallowsthemtogetbywithmerelyexternalalterations…Theimportantpointisthat
+        racism canbeeliminated only byachange of heart.79    
+        I think this is on the right track, although if ‘external alterations’ could be reliably
+      sustainedintheabsenceofachangeofheartsandminds,thatwouldprobablysuffice.The
+      extra-individual focus of so much of today’s discussions of race promotes a way of
+      thinkingaboutraceandracisminwhichtheracialpromisedlandisjustafewinstitutional
+      andstructuralreformsaway,andindividualsareessentiallyletoffthehookfortheirown
+      conduct. As Alex Madva puts it, it suggests that bias is ‘just “out there” in the socio-
+      politicalether’,insteadof‘embodiedandenactedinthemyriadsubtleandnot-so-subtle
+      ways we treat each other’.80 Until we do the hard work of changing individual beliefs,
+      attitudes and behaviour, there is ample reason to expect that racial justice will not be
+      achieved.81Butifmyargumentinthissectionisright,weshouldgofurtherthanthat.For
+      evenifracialjusticecouldbeachievedbypurelystructuralmeans,somethingimportant
+      will still elude us if these beliefs, attitudes and behaviours persist.
+                                                             
+                                                             
+
+[PAGE 20]
+                                                             
+                                                             
+                                                             
+      990                          Philosophy and Social Criticism 50(6)
+                                                             
+                                                             
+      Conclusion                                             
+      I have argued that institutional racism faces significant problems when understood as
+      adverse disproportionate impact, that there are good reasons to question its supposed
+      superior explanatory power, and that there is reason to think that institutional and
+      structuralreformcouldnotprovideuswithallthatweshouldwantintheracialdomain.I
+      have also argued that institutional racism should not be understood simply as unjust
+      institutionally-caused or -perpetuated racial inequality. In all this, I have suggested that
+      because something is not an instance of institutional racism does not mean that it is
+      morally in the clear. As Blum has argued, we do not face a choice between ‘calling
+      something “racist” or seeing it as of no moral concern at all’.82 I have also sought to
+      emphasize the continuing importance of changing hearts and minds – and not just
+      institutions – in the long struggle for racial equality.
+      Declaration of Conflicting Interests                   
+      Theauthor(s)declarednopotentialconflictsofinterestwithrespecttotheresearch,authorship,and/
+                                                             
+      orpublication of thisarticle.                          
+      Funding                                                
+      Theauthor(s)receivednofinancialsupportfortheresearch,authorship,and/orpublicationofthis
+                                                             
+      article.                                               
+      ORCID iD                                               
+                                                             
+      D.C. Matthew https://orcid.org/0000-0003-1093-6809    
+      Notes                                                  
+                                                             
+       1. Fleming (2018,12).                                 
+       2. Blum (2002,26).                                    
+       3. See, e.g.,Miller andGarran (2007).                 
+       4. D’Souza(1996,336).                                 
+       5. It isso called inAtkin (2012,Ch. 4).               
+       6. Garcia (1996,6).                                   
+       7. Garcia (1997,29).                                  
+       8. Individualistsmayalsotakeindividual-levelracismtobeprimaryinothersenses.Forexample,
+         theymaytakeittobeexplanatorilyprimaryinthesenseofbestexplainingracialinequality(a
+         view I defend below). But I do not take such additional claims to be essential to the
+         individualist view.                                 
+       9. Schmid (1996, 34).                                 
+      10. Garcia (1996,11).                                  
+      11. Garcia (1996,32).                                  
+      12. Garcia (1999,6).                                   
+      13. Garcia (1999,6).                                   
+      14. Shelby(2016,24–27).                                
+                                                             
+                                                             
+
+[PAGE 21]
+                                                             
+                                                             
+                                                             
+      Matthew                                        991     
+                                                             
+                                                             
+      15. Shelby(2016,25–26).                                
+      16. From henceforth, unless otherwise indicated references to ‘institutional racism’ will be to
+         extrinsic institutional racism.                     
+      17. Mitchell(2014,20n.20).                             
+      18. Anindividualistmodelofracismcan,ofcourse,playaroleinanargumentagainstinstitutional
+         conceptions.Thepointisthattherearelegitimateandillegitimatewaysofdoingthis.Onemay,
+         forexample,toutthesuperiorexplanatorypowerofanindividualistmodelinexplainingracial
+         inequalityasanadvantageinitsfavour.(See,e.g.,thediscussionbelow.)Butitisanotherthing
+         to assume thatinstitutional racism mustbedirectly understoodin individualist terms.
+      19. DiscussionsthatsounderstanditincludeMitchell(2014),Glasgow(2009),andPierce(2014).
+      20. Blum (2002,Chs. 1 and3).See alsoBlum (2004).       
+      21. Taylor (2016,8).                                   
+      22. Ezorsky (1991,9).                                  
+      23. Surely,onemightthink,institutionalracismshouldn’tbedefinedbyreferencetoblacks–other
+         racial groups can be victims of it too. I think that this is right, but I will add that the racial
+         identityofthegroup–inparticular,thegroup’shistoryofoppression,orlackthereof–does
+         seem to bemorally relevant.                         
+      24. Ezorsky (1991,10).                                 
+      25. Ezorsky(1991,10).ForEzorsky,overtracism‘takesplaceonlyifaharmisinflictedorabenefit
+         withheld either because of the perpetrator’s racial bias against the victim or because of that
+         perpetrator’s obligingthe race prejudice of others’(9).
+      26. Ezorsky (1991,10).                                 
+      27. Cavanagh (2002,203).                               
+      28. Cf. Blum (2003).Thispaper hashelped toclarify my thinkingof these issues.
+      29. Blum (2003,53–54).                                 
+      30. Loury (2002,126; emphases omitted). Cf. Fiss(1976).
+      31. Loury (2002,124–125).                              
+      32. Kendi(2016,11).                                    
+      33. Sowell (2019,esp. Chs.1, 2and5).                   
+      34. Sowell (2019,23–24).                               
+      35. Rawls (1999, 62–3). Note, however, that one may accept a view of meritocracy in which it
+         requiresthekindofbackgroundfairnessinvolvedinfairequalityofopportunity.Onthisview,
+         theabsenceofsuchfairnessisitselfanobstacletotruemeritocracy.See,e.g.,White(2007,
+         59–60).                                             
+      36. Ezorsky discussesseniority rules in(1991,24-26).   
+      37. For Garcia (1996)‘Institutional racism begins when racism extends from the hearts of indi-
+         vidual people to become institutionalized’ (12). I take it that what is important about this
+         accountisthattheracismmovesfromindividualagentstoinfectinstitutions,notthatitmoves
+         from individuals’ hearts. In other words, a relevantly similar non-affective (e.g. cognitive)
+         accountcanprovideasimilaranalysisofinstitutionalracism.AlthoughIthinkGarcia’saccount
+         isabletoexplainwhatitisinvirtueofthatmakesinstitutionalracismracist,andIaccepta
+         broadlyindividualistaccountofracism,Iamnotsoldontheaffectiveaspectofhisaccount.For
+         whatseems to me tobeacompelling critique, see Mills (2003).
+      38. Garcia (1996,10).                                  
+
+[PAGE 22]
+                                                             
+                                                             
+                                                             
+      992                          Philosophy and Social Criticism 50(6)
+                                                             
+                                                             
+      39. See, esp.,Doleac andHansen(2020).                  
+      40. Whetherthisistruedependsinpartonwhether,forextrinsicaccounts,racialdisproportionality
+         isbothnecessaryandsufficientforinstitutionalracism,oronlynecessary.Accountsforwhichit
+         is both necessary and sufficient will have this result, while accounts for which it is only
+         necessary maynot. Mostaccountsseem to makeitboth necessaryandsufficient.
+      41. Garcia (1999,7).                                   
+      42. Theproblemhastodowithbeliefsthatseemtobeparadigmaticallyracist,butwhichhavetheir
+         sourceinordinaryepistemicdefects,notmoralones.Fordiscussion,see,e.g.,Shelby(2014,
+         esp.64–66).                                         
+      43. CF.Garcia (1996,32–33).                            
+      44. Miles(1989,60).Thisisadmittedlynotanobjectiontotheconceptof‘institutionalracism’so
+         much as acritiqueof the overuseof or overreliance onit.
+      45. Forexamplesofthosewhohavemadethispoint,seeHarrisandLieberman(2015,140),Banks
+         andFord(2009,1059,1120),Headley(2000,248),Pierce(2014,36–37)andSilliman(2003).
+         Silliman(2003)writesthatracialinjusticeispervasive,‘yetitisunclearwhythisshouldbeso,
+         whensomanymillionsofworthyindividualshaveexpresslyrenouncedtheideologyofand
+         pseudo-scientificjustifications for racism’ (307).  
+      46. Calmore (1997,1463).                               
+      47. IhavearguedforthisatlengthinMatthew(2017).SeealsoGarcia(1996,16and28).Cf.Blum
+         (2002): ‘Notall racialincidents areracist incidents’(2).
+      48. Headley (2000), for example, writes, ‘If racism and discrimination were simply isolated in-
+         tentionalactscommittedbyrandomindividuals,itwouldbeeasiertoidentifyandpunishthis
+         behavior’ (246).                                    
+      49. Haslanger (2015,2); seealso Haslanger (2016).See alsoSoon (2021).
+      50. This is arguably how Ture and Hamilton think about institutional racism in (1992 [1967],
+         Ch. 1).                                             
+      51. Young(2011,62).                                    
+      52. Young(2011,70).                                    
+      53. Haslanger(2016,125–127).AccordingtoHaslanger’saccount,‘apracticeexistswhenthereare
+         public schemas for interpreting, conceptualizing and responding to resources, and such re-
+         sourcesareutilized andmodifiedin ordertofitthe schemas’ (126).
+      54. Haslanger(2016,122).Haslangerprovidesaslightlydifferentversionoftheexamplein(2015).
+         Iwillmainlyfollowtheversionthere,butsomeofthedetailsprovidedinHaslanger(2016)are
+         important tomention.                                
+      55. Haslanger (2015,4).                                
+      56. Haslanger (2015,5).                                
+      57. Haslanger (2015,2).                                
+      58. Haslanger(2015)ineffectacknowledgesthiswithherLisaandLarryexample.Itisimpliedthat
+         if Larry had held a traditional view of gender roles and had demanded that Lisa alone take
+         maternityleave,hisattitudesandactionswouldthenexplainLisa’sactionsandwhatresults
+         from this.                                          
+      59. Ayala-LópezandBeeghly(2020)suggestthatindividualistandstructuralfactorsmightwork
+         together in a synergistic way, and they recognize that individualist factors may play a more
+                                                             
+
+[PAGE 23]
+                                                             
+                                                             
+                                                             
+      Matthew                                        993     
+                                                             
+                                                             
+         proximallydirectrole,buttheyevidentlydonotseetheirgreaterproximalityasprovidingany
+         explanatory advantage. See their(2020,224).         
+      60. See Haslanger (2016, 127–128). According to this account, social structures can socially
+         constrainourbehaviourbycreatingthe‘choicearchitecture’weface(128):‘Evenifindividual
+         psychologyprovidestriggeringcausesofourchoicesandactions,whatwedo,andwhatwecan
+         do, depends on social structure within which we act. The structures socially constrain our
+         behavior by making certain kinds of things available (or not), ... by providing templates of
+         interactionthatfavor(ordiscourage)certainformscoordinationwithrespecttoaresource,e.g.,
+         share, hoard,distribute; andbycanalizing ourattitudes accordingly’ (128).
+      61. For a review of evidence of continuing discrimination in employment, housing, credit and
+         consumer markets in theUS, see PagerandShepherd (2009).
+      62. SeeMallon (2021).                                  
+      63. Wang(2006,63–66).                                  
+      64. SeeSteele (2010).                                  
+      65. Jackson(2008, 91).                                 
+      66. BanajiandGreenwald(2013,Ch.2).BanajiandGreenwaldarepioneersinthedevelopmentof
+         the IAT.                                            
+      67. BanksandFord (2009,1064).                          
+      68. Despiteearlierexplainingthatimpressionmanagementconcernsmotivatedtheirresearch,later
+         in(2013)BanajiandGreenwaldraiseandrespondtotheconcernIhaveexpressedthisway:
+         ‘The regularly observed disagreement between a person’s IAT (implicit) results and survey
+         question(explicit) resultsthatcanbeobservedwhenraceattitudesarebeingassessedcould
+         meanthatpeopledeliberatelymisrepresenttheirviewsaboutraceonquestionnaires.Although
+         that must occasionally happen, we doubt that it happens much. Rather, we assume that in
+         answeringsurveyresearchers’questions,mostpeopletrytorespondaccuratelyandhonestly’
+         (208).                                              
+      69. Krysan (1998).                                     
+      70. PiccaandFeagin (2007,19).                          
+      71. Structural theorists emphasize that structural explanations can explain patterns of inequality
+         that arestable across various contexts andovertime. See, e.g., Haslanger (2016), andSoon
+         (2021).                                             
+      72. See, e.g.,Loury (2002).                            
+      73. Despitetheseproblems,Istillsupportaffirmativeaction.Foroneofthebestdefensesofit,see
+         Kennedy(2013).                                      
+      74. Rawls(1999,6).TherelevantworksbyCohenareCohen(1997),Cohen(2000)andCohen
+         (2008).                                             
+      75. SeeMatthew (2014).See also Porter (2009).          
+      76. SeeRescuing Justice andEquality,123–4.             
+      77. Cohen (1997,13),Cohen (2000, 131)andCohen(2008, 127).
+      78. Cohen (2000,3; emphasisomitted).                   
+      79. Garcia (1999,19).                                  
+      80. Madva(2017,168).                                   
+                                                             
+                                                             
+
+[PAGE 24]
+                                                             
+                                                             
+                                                             
+      994                          Philosophy and Social Criticism 50(6)
+                                                             
+                                                             
+      81. Thisissonotjustbecauseofthecausalroleofindividualactionsandtheirassociatedbeliefsand
+         attitudesingeneratingandsustainingracialinequality,butbecausetheviabilityofstructural
+         change(in terms of thesupport itrequires) dependsonthem.SeeMadva (2016).
+      82. Blum (2002,31).                                    
+                                                             
+      References                                             
+      Ayala-López,Saray,andErinBeeghly.2020.“ExplainingInjustice:StructuralAnalysis,Bias,and
+         Individuals.”inAnIntroductiontoImplicitBias:Knowledge,Justice,andtheSocialMind,
+         edited byErinBeeghly,andAlexMadva, 211–232. NewYork: Routledge.
+      Atkin,Albert. 2012. ThePhilosophyof Race.Durham:Acumen.
+      Banks,RalphR.,andRichardT.Ford.2009.“(How)DoesUnconsciousBiasMatter:Law,Politics,
+         andRacialInequality.”EmoryLawJournal 58, no.5: 1053–1122.
+      Banaji,MahzarinR.,andAnthonyG.Greenwald.2013.Blindspot:HiddenBiasesofGoodPeople.
+         NewYork: DelacortePress.                            
+      Blum,Lawrence.2003.“SystemicandIndividualRacism,RacializationandAntiracistEducation:
+         AReplytoSilliman,GarciaandLevinson.”TheoryandResearchinEducation1,no.3:49–74.
+      Blum, Lawrence. 2004. “What Do Accounts of ‘Racism’ Do?” in Racism in Mind, edited by
+         Michael Levine,andTamasPataki, 56–77. Ithaca,NY:Cornell University Press.
+      Blum,Lawrence.2002.“I’mNotaRacist,But”:TheMoralQuandaryofRace.Ithaca,NY:Cornell
+         University Press.                                   
+      Calmore,JohnO.1997.“RandomNotesofanIntegrationWarrior.”MinnesotaLawReview81,no.
+         6:1441–1480.                                        
+      Cavanagh,Matt. 2002. Against Equality ofOpportunity.Oxford: ClarendonPress.
+      Cohen,G.A.2008. RescuingJustice andEquality.Cambridge, MA:Harvard University Press.
+      Cohen,G.A.2000.IfYou’reanEgalitarian,HowComeYou’reSoRich?Cambridge,MA:Harvard
+         University Press.                                   
+      Cohen, G. A. 1997. “Where the Action is: On the Site of Distributive Justice.” Philosophy and
+         PublicAffairs 26,no.1: 3–30.                        
+      D’Souza,Dinesh.1996.TheEndofRacism:PrinciplesforaMultiracialSociety.NewYork:The
+         FreePress.                                          
+      Doleac,JenniferL.,andBenjaminHansen.2020.“TheUnintendedConsequencesof‘BantheBox’:
+         StatisticalDiscriminationandEmploymentOutcomesWhenCriminalHistoriesareHidden.”
+         Journal ofLabor Economics38,no.2: 321–374.          
+      Ezorsky,Gertrude.1991.RacismandJustice:TheCaseforAffirmativeAction.Ithaca,NY:Cornell
+         University Press.                                   
+      Fiss,Owen.1976.“GroupsandtheEqualProtectionClause.”PhilosophyandPublicAffairs5,no.
+         2:107–77.                                           
+      Fleming,CrystalMarie.2018.HowtoBeLessStupidAboutRace:OnRacism,WhiteSupremacy
+         andthe RacialDivide. Boston: BeaconPress.           
+      Garcia, J.L. A.1996.“The Heartof Racism.”Journal of SocialPhilosophy 27,no.1: 5–45.
+      Garcia,J.L.A.1997.“CurrentConceptionsofRacism.”JournalofSocialPhilosophy28,no.2:
+         5–42.                                               
+                                                             
+                                                             
+
+[PAGE 25]
+                                                             
+                                                             
+                                                             
+      Matthew                                        995     
+                                                             
+                                                             
+      Garcia,J.L.A.1999.“PhilosophicalAnalysisandtheMoralConceptofRacism.”Philosophyand
+         Social Criticism 25,no.5: 1–32.                     
+      Glasgow,Joshua. 2009.“Racism asDisrespect.”Ethics 120,no. 1:64–93.
+      Harris, Fredrick C., and Robert C. Lieberman. 2015. “Racial Inequality After Racism.” Foreign
+         Affairs 94,no.2: 9–20.                              
+      Headley, Clevis. 2000. “Philosophical Approaches to Racism: A Critique of the Individualistic
+         Perspective.”Journal of SocialPhilosophy 31,no.2: 223–257.
+      Haslanger, Sally. 2015. “Social Structure, Narrative and Explanation.” Canadian Journal of
+         Philosophy45, no.1: 1–15.                           
+      Haslanger,Sally.2016.“Whatisa(Social)StructuralExplanation?”PhilosophicalStudies173,no.
+         1:113–30.                                           
+      Jackson,JohnLJr.2008.RacialParanoia:TheUnintendedConsequencesofPoliticalCorrectness.
+         NY:Basic Civitas.                                   
+      Kendi, Ibram X. 2016. Stamped from the Beginning: The Definitive History of Racist Ideas in
+         America.New York: Nation Books.                     
+      Kennedy,Randall.2013.ForDiscrimination:Race,AffirmativeAction,andtheLaw.NewYork:
+         Pantheon.                                           
+      Krysan,Maria.1998.“PrivacyandtheExpressionofWhiteRacialAttitudes:AComparisonAcross
+         Three Contexts.”Public OpinionQuarterly62, no.4: 506–544.
+      Loury, Glenn C. 2002. The Anatomy of Racial Inequality. Cambridge, MA: Harvard University
+         Press.                                              
+      Madva,Alex.2017.“BiasedAgainstDebiasing:OntheRoleof(InstitutionallySponsored)Self-
+         Transformation in the Struggle against Prejudice.” Ergo: An Open Access Journal of Phi-
+         losophy 4,no.6: 145–179.                            
+      Madva,Alex.2016.“APleaforAnti-Anti-Individualism:HowOversimplePsychologyMisleads
+         Social Policy.”Ergo: AnOpen Access Journal ofPhilosophy 3,no.27: 701–728.
+      Mallon, Ron. 2021. “Implicit Attitudes, Accumulation Mechanisms, and Racial Disparities.”
+         Review ofPhilosophy andPsychology 12,no.4: 953–975. 
+      Matthew, D. C. 2017. “Racial Injustice, Racial Discrimination and Racism: How Are They Re-
+         lated?”Social TheoryandPractice 43,no.4: 885–914.   
+      Matthew,D.C.2014.“PurviewandPermissibility:TheSiteofDistributiveJusticeandtheCaseof
+         Private RacialDiscrimination.”Social TheoryandPractice40, no.1: 73–98.
+      Mitchell, Megan. 2014. “Implicit Bias, Colorblindness and Institutional Racism”. PhD diss.
+         (University of NorthCarolina atChapel Hill).        
+      Miles, Robert.1989. Racism.London: Routledge.          
+      Miller,Joshua,andAnnMarie Garran.2007.“TheWebof Institutional Racism.”SmithCollege
+         Studies inSocial Work 77,no.1: 33–67.               
+      Mills,CharlesW.2003.“‘Heart’Attack:ACritiqueofGarcia’sVolitionalConceptionofRacism.”
+         Journal ofEthics 7, no.1: 29–62.                    
+      Pager,Devah,andHanaShepherd.2009.“TheSociologyofDiscrimination:RacialDiscrimination
+         in Employment, Housing, Credit and ConsumerMarkets.”Annual Review of Sociology 34:
+         181–209.                                            
+      Picca, Leslie Houts, and Joe R. Feagin. 2007. Two-Faced Racism: Whites in the Backstage and
+         Frontstage. NY:Routledge.                           
+
+[PAGE 26]
+                                                             
+                                                             
+                                                             
+      996                          Philosophy and Social Criticism 50(6)
+                                                             
+                                                             
+      Pierce, Andrew J. 2014. “Structural Racism, Institutional Agency, and Disrespect.” Journal of
+         Philosophical Research39:23–42.                     
+      Porter,Thomas.2009.“TheDivisionofMoralLabourandtheBasicStructureRestriction.”Politics,
+         PhilosophyandEconomics8, no.2: 173–199.             
+      Rawls, John. 1999. A Theory of Justice, Revised Edition. Cambridge, MA: Harvard University
+         Press.                                              
+      Schmid,W.Thomas.1996.“TheDefinitionofRacism.”JournalofAppliedPhilosophy13,no.1:
+         31–40.                                              
+      Shelby,Tommie.2016.DarkGhettos:Injustice,Dissent,andReform.Cambridge,MA:Harvard
+         University Press.                                   
+      Shelby,Tommie.2014.“Racism,Moralism,andSocialCriticism.”DuBoisReview11,no.1:57–74.
+      Silliman, Matthew R. 2003. “Structural Racism and the Failure of Empathetic Imagination: A
+         Comment onLawrenceBlum.”Theory andResearchin Education1, no.3: 303–314.
+      Soon,Valerie. 2021.“Social Structural Explanation.”PhilosophyCompass 16,no. 10: 1–12.
+      Sowell,Thomas.2019.DiscriminationandDisparities,RevisedandEnlargedEdition.NewYork:
+         BasicBooks.                                         
+      Steele,ClaudeM.2010.WhistlingVivaldi:HowStereotypesAffectUsandWhatWeCanDo.New
+         York:W.W.Norton andCompany.                         
+      Taylor, Keeanga-Yamahtta. 2016. From #Blacklivesmatter to Black Liberation. Chicago: Hay-
+         market Books.                                       
+      Ture,Kwame,andCharlesV.Hamilton.1992[1967].BlackPower:ThePoliticsofLiberationin
+         America.New York: VintageBooks.                     
+      Wang,Lu-in.2006.DiscriminationbyDefault:HowRacismBecomesRoutine.NewYork:NYU
+         Press.                                              
+      White,Stuart.2007. Equality. Cambridge: Polity.        
+      Young, IrisMarion. 2011.Responsibility for Justice.New York: Oxford University Press.
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             

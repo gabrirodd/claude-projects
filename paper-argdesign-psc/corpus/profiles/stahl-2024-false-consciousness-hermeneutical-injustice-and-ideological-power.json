@@ -1,0 +1,75 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "stahl_2024",
+  "title": "False Consciousness, Hermeneutical Injustice, and Ideological Power",
+  "author": "Stahl",
+  "year": 2024,
+  "journal": "Philosophy and Social Criticism",
+
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "Opens from the classic puzzle of critical social theory: why do members of oppressed groups frequently accept norms and support institutions that undermine their own interests? The paper diagnoses that two competing theoretical frameworks — Marxist ideology theory (false consciousness) and epistemic injustice theory (hermeneutical injustice, Fricker) — both attempt to explain this but each has serious deficiencies. The paper claims a third, undertheorized position in the Marxist tradition can synthesize the insights of both.",
+    "anchored_in": ["Marx", "Fricker", "de Boétie"],
+    "stakes_claimed": "A materialist ideology theory that locates epistemic constraint in 'distortions of concepts internal to social practices' (rather than in false beliefs or gaps in hermeneutical resources) avoids the problems of false consciousness accounts AND hermeneutical injustice accounts, providing a superior explanation of voluntary servitude."
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["false consciousness model of ideology (traditional Marxism)", "hermeneutical injustice model (Fricker)", "Bufkin 2024 (racism-specific comparison)"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": true,
+    "own_position_type": "synthesis",
+    "own_position_explicit": true,
+    "description": "The paper constructs a four-section dialectic: (1) false consciousness theory and hermeneutical injustice theory are competitors because they share the same explananda; (2) false consciousness faces objections that make it implausible (paternalism objection, implausible epistemic mechanism); (3) hermeneutical injustice avoids these but lacks a plausible account of how social power distorts hermeneutical resources; (4) an alternative Marxist model (concepts distorted by their implication in dominating social practices) resolves both deficiencies. The synthesis draws on Lukács, Haslanger, and Celikates."
+  },
+
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "Analytical social epistemology: precise conceptual analysis of ideology, false consciousness, hermeneutical injustice; immanent critique of each model through internal objections; synthesis via 'distorted concepts internal to social practices' argument.",
+    "notes": "Classic analytic political philosophy approach: argument through precise conceptual distinctions, internal objections to competing models, synthetic conclusion. No empirical evidence; no case. The paper is a Type 2a paper within a social epistemology subdomain — bridging Marxist ideology theory and analytic epistemic injustice literature. Similar in structure to bufkin_2024 (which does something analogous for racism specifically) and stahl is noted as extending that work."
+  },
+
+  "case_type": {
+    "has_case": false,
+    "case_medium": null,
+    "case_name": null,
+    "case_function": null,
+    "case_relation_to_argument": null,
+    "case_selection_justified": false
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "social epistemology / ideology theory / critical theory / epistemic injustice",
+    "claim_type": "framework_proposal",
+    "closure_type": "conclusion_strong"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "immanent_critique",
+    "conceptual_distinction",
+    "framework_proposal",
+    "counter_objection_response",
+    "normative_derivation",
+    "conclusion_strong"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["false consciousness", "hermeneutical injustice", "ideological power", "voluntary servitude", "distorted concepts internal to practices", "social epistemology", "materialist ideology theory"],
+
+  "thinkers_deployed": {
+    "central": ["Fricker", "Marx", "Lukács"],
+    "engaged_critically": ["Fricker", "traditional false consciousness theorists", "Bufkin"],
+    "referenced_only": ["Celikates", "Mills", "Shelby", "Haslanger", "Leopold", "Finlayson"]
+  },
+
+  "confidence_notes": "Paradigmatic Type 2a (polemical reconstruction via analytic method) in the social epistemology subdomain. The paper's four-step dialectic is tightly constructed and fully within conceptual-normative space. The paper explicitly notes its relation to bufkin_2024 (which covers similar terrain for the racism-specific case). High confidence in fully_normative classification."
+}

@@ -1,0 +1,64 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "cattien_stopford_2022",
+  "title": "The Appropriating Subject: Cultural Appreciation, Property and Entitlement",
+  "author": "Cattien and Stopford",
+  "year": 2022,
+  "journal": "Philosophy and Social Criticism",
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "The standard distinction between cultural appropriation (taking) and cultural appreciation (not taking) is used to defuse concerns about cultural theft: appreciation is presented as unproblematic because it involves no taking. This paper diagnoses this as a false distinction resting on a false normative principle.",
+    "anchored_in": ["Young", "Gracyk", "Ziff and Rao"],
+    "stakes_claimed": "Appropriation is already built into appreciation: the hegemonic subject manifests the cultural object in advance, constituting it as available for aesthetic consumption. This ontological critique undermines the exculpatory function of the appreciation/appropriation distinction."
+  },
+  "theoretical_positioning": {
+    "rivals_engaged": ["standard analytic aesthetics account of appreciation (Gracyk, Levinson, Iseminger)", "appropriation/appreciation binary in cultural studies"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": true,
+    "own_position_type": "framework_construction",
+    "own_position_explicit": true,
+    "description": "The paper argues that the standard aesthetic account of 'appreciation' (responding to what is already there) presupposes a false metaphysics: what is 'already there' for the hegemonic appreciating subject is itself constituted by relations of cultural power. Drawing on Hegel and post-colonial ontology, the paper proposes a 'critical ontology of hegemonic cultural appreciation' where manifestation-in-advance is itself an act of appropriation."
+  },
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "Conceptual analysis; ontological argumentation drawing on Hegel (phenomenology of recognition), Fanon, and social ontology of cultural power.",
+    "notes": "The opening examples (Led Zeppelin, dreadlocks, Alan Watts) are illustrative philosophical thought experiments, not empirical cases. The argument is fully normative-ontological."
+  },
+  "case_type": {
+    "has_case": false,
+    "case_medium": "none",
+    "case_name": null,
+    "case_function": null,
+    "case_relation_to_argument": null,
+    "case_selection_justified": false
+  },
+  "normative_stake": {
+    "level": "high",
+    "domain": "aesthetics / cultural politics / postcolonial theory",
+    "claim_type": "reconstructive_prescriptive",
+    "closure_type": "conclusion_strong"
+  },
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "immanent_critique",
+    "framework_proposal",
+    "conceptual_distinction",
+    "normative_derivation",
+    "conclusion_strong"
+  ],
+  "reflexive_move": false,
+  "key_concepts": ["appropriation", "appreciation", "hegemonic subject", "manifestation-in-advance", "critical ontology", "cultural power", "recognition"],
+  "thinkers_deployed": {
+    "central": ["Gracyk", "Hegel"],
+    "engaged_critically": ["Young", "Gracyk", "Iseminger", "Levinson"],
+    "referenced_only": ["Fanon", "Sartre", "Wynter", "Spivak"]
+  },
+  "confidence_notes": "Type 2a (dialectical synthesis): immanent critique of standard aesthetics account of appreciation, followed by post-colonial ontological framework that collapses the appropriation/appreciation distinction. Strong conclusion. Note this PSC paper has philosophical analytic style combined with continental/postcolonial ontology — a distinctive hybrid."
+}

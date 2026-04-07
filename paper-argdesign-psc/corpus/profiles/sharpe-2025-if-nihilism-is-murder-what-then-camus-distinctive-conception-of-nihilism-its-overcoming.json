@@ -1,0 +1,73 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "sharpe_2025",
+  "title": "If Nihilism is Murder, What Then? Camus' Distinctive Conception of Nihilism and Its Overcoming",
+  "author": "Sharpe",
+  "year": 2025,
+  "journal": "Philosophy and Social Criticism",
+
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "Opens by diagnosing Camus's persistent mischaracterization as a nihilist (due to Meursault, The Myth of Sisyphus's opening question about suicide). The paper argues this misreading misses how Camus from the start positioned nihilism as a problem to be overcome, not a condition to be embraced. The occasion is the renewed scholarly interest in nihilism (Jon Stewart's 2024 History of Nihilism) and the contemporary cultural-political climate.",
+    "anchored_in": ["Camus", "Nietzsche", "Novello"],
+    "stakes_claimed": "Camus is a distinctive and undervalued thinker of nihilism whose post-1944 conception — nihilism as contempt for human life licensing deceit, enslavement, and murder — is a unique post-Nietzschean contribution irreducible to epistemological, reactionary, theological, or Nietzschean nihilism."
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["standard existentialist reading of Camus as nihilist", "Novello's alignment of Camus with Nietzsche", "four preceding conceptions of nihilism (epistemological, reactionary, theological, Nietzschean)"],
+    "engagement_structure": "polemical_refutation",
+    "immanent_critique": true,
+    "own_position_type": "reconstruction",
+    "own_position_explicit": true,
+    "description": "The paper reconstructs Camus's distinctive nihilism concept in four parts: (1) maps four prior uses of 'nihilism' (Jacobi's epistemological, Russian-political, Christian-theological, Nietzschean); (2) reconstructs Camus's account of the absurd in early works, showing proximity and distance from prior nihilisms; (3) shows Camus's post-1944 definition (nihilism as contempt for human life licensing murder) as a new, historically-conditioned concept; (4) critiques Novello's alignment of Camus with Nietzsche, arguing Camus's 'measure' against Nietzsche's 'abyss' is a fundamental difference."
+  },
+
+  "epistemic_mode": {
+    "primary": "purely_interpretive_hermeneutic",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": ["Camus's Myth of Sisyphus", "The Rebel", "The Stranger", "letters and speeches (1955 American preface)", "Novello's Albert Camus as a Political Thinker (2010)", "Stewart's A History of Nihilism (2024)"],
+    "interpretive_methods": "Intellectual history: genealogy of the term 'nihilism' from Jacobi through Nietzsche to 20th century; close reading of Camus's texts for his distinctive conception; comparative analysis between Camus's and Nietzsche's accounts; immanent critique of Novello's interpretation.",
+    "notes": "This paper is purely_interpretive_hermeneutic because it makes no explicit normative claim about what follows for the present. The paper reconstructs Camus's historical-philosophical contribution to the nihilism debate and critiques a secondary reader. The contemporary relevance is gestured at in the opening (contemporary anomie, need for Camus's contribution) but not developed as a normative conclusion. The paper is closer to toribio_vazquez_2020 (genealogy of nihilism) and kastrinakis_2024 (Adorno-Nietzsche textual analysis) than to sharpe's potential alternative classification as normative."
+  },
+
+  "case_type": {
+    "has_case": false,
+    "case_medium": null,
+    "case_name": null,
+    "case_function": null,
+    "case_relation_to_argument": null,
+    "case_selection_justified": false
+  },
+
+  "normative_stake": {
+    "level": "medium",
+    "domain": "philosophy / nihilism / Camus / Nietzsche / critical theory of violence",
+    "claim_type": "reconstructive_descriptive",
+    "closure_type": "conclusion_open"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "immanent_critique",
+    "case_development",
+    "counter_objection_response",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["nihilism as contempt for human life", "absurd", "measure vs. abyss", "post-Nietzschean nihilism", "overcoming nihilism", "five conceptions of nihilism"],
+
+  "thinkers_deployed": {
+    "central": ["Camus", "Nietzsche", "Novello"],
+    "engaged_critically": ["Novello", "Freudian readings of Camus as nihilist"],
+    "referenced_only": ["Jacobi", "Heidegger", "Sartre", "Kierkegaard", "Stewart", "Wilhoite"]
+  },
+
+  "confidence_notes": "Classified purely_interpretive_hermeneutic because the argument is entirely textual-genealogical: reconstructing Camus's distinctive conception of nihilism through close reading and intellectual history. No normative conclusion about what the present situation requires. The 'distinctive contribution' claim is descriptive-historical, not prescriptive. The contemporary climate reference in the opening is a motivation for the inquiry, not a normative application. Compare to toribio_vazquez_2020 (genealogy of nihilism) which has the same purely_interpretive_hermeneutic classification."
+}

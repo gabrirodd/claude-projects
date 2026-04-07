@@ -1,0 +1,74 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "matthew_2022",
+  "title": "Against Institutional Racism",
+  "author": "Matthew",
+  "year": 2022,
+  "journal": "Philosophy and Social Criticism",
+
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "Opening by diagnosing that contemporary discussions of racism have shifted to 'institutional' and 'structural' racism, Matthew immediately states his counter-thesis: much so-called institutional racism is not racism at all, and this extra-individual focus is a mistake that obscures the continuing importance of individual racism. The paper signals a polemical, revisionary stance from the first paragraph.",
+    "anchored_in": ["García", "D'Souza", "Fleming"],
+    "stakes_claimed": "Contemporary discussions of race should return to a significant focus on individuals; institutional racism as typically theorized (especially extrinsic/disparate impact versions) lacks a plausible account of what makes institutions racist; Sally Haslanger's structural approach faces serious objections."
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["extrinsic institutional racism / disparate impact conception", "Sally Haslanger's structural approach", "collective racism accounts"],
+    "engagement_structure": "polemical_refutation",
+    "immanent_critique": true,
+    "own_position_type": "critical_reconstruction",
+    "own_position_explicit": true,
+    "description": "The paper distinguishes intrinsic institutional racism (endorsed) from extrinsic/disparate impact institutional racism (rejected). It accepts that García's affective individual model can explain intrinsic institutional racism. It then systematically critiques extrinsic institutional racism: (1) no plausible account of what makes such institutions racist; (2) overstated explanatory indispensability — individual racism is at least as important; (3) Haslanger's structural account fails to ground the relevant normative claims; (4) institutional reform may be insufficient even if accepted. The paper defends a return to individual-level analysis."
+  },
+
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "Analytical philosophy of race: precise conceptual distinctions (intrinsic vs extrinsic institutional racism), scenario analysis (S1–S4 cases), immanent critique of rival accounts through internal objections.",
+    "notes": "Classic analytic political philosophy mode: argument proceeds through conceptual distinctions, hypothetical scenarios, and internal critique. No empirical evidence; occasional reference to real-world cases (police killings of Black people) as motivating context, not evidential basis. This is a polemical reconstruction arguing for a minority position against the dominant framing of racism discourse."
+  },
+
+  "case_type": {
+    "has_case": false,
+    "case_medium": null,
+    "case_name": null,
+    "case_function": null,
+    "case_relation_to_argument": null,
+    "case_selection_justified": false
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "philosophy of race / racism / political philosophy",
+    "claim_type": "critical_prescriptive",
+    "closure_type": "conclusion_strong"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "conceptual_distinction",
+    "rival_mapping",
+    "immanent_critique",
+    "counter_objection_response",
+    "normative_derivation",
+    "conclusion_strong"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["intrinsic institutional racism", "extrinsic institutional racism", "disparate impact", "individualist conception of racism", "structural racism", "affective model of racism", "voluntary servitude of racialized subjects"],
+
+  "thinkers_deployed": {
+    "central": ["García", "Haslanger"],
+    "engaged_critically": ["Haslanger", "D'Souza", "Fleming", "Shelby", "Blum"],
+    "referenced_only": ["Schmid", "Appiah", "Coates", "Anderson"]
+  },
+
+  "confidence_notes": "A distinctive paper in the PSC corpus: it argues against the dominant critical race theory framing, defending an individualist and analytic account. This is a Type 2a variant (polemical reconstruction with strong thesis) but unusual in its direction — most PSC papers argue for more structural, critical, or decolonial positions. Matthew argues for less structural analysis. The move_sequence follows a tight analytic pattern: conceptual_distinction → rival_mapping → immanent_critique → counter_objection → conclusion. No case; no empirical evidence. Classified fully_normative. High confidence in classification."
+}

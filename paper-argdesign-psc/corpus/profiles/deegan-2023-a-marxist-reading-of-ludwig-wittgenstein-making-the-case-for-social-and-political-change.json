@@ -1,0 +1,63 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "deegan_2023",
+  "title": "A Marxist Reading of Ludwig Wittgenstein: Making the Case for Social and Political Change",
+  "author": "Deegan",
+  "year": 2023,
+  "journal": "Philosophy and Social Criticism",
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "Wittgenstein's famous dictum that philosophy 'leaves everything as it is' (§124) and Marx's 11th thesis on Feuerbach ('the point is to change it') appear diametrically opposed. Conventional interpretations treat §124 as a repudiation of transformative theory. The paper argues this reading is wrong.",
+    "anchored_in": ["Wittgenstein", "Marx"],
+    "stakes_claimed": "Wittgenstein's later philosophy, properly read, encourages us to imagine alternatives and contemplate concrete possibilities for changing the world — aligning with rather than opposing Marx's transformative imperative."
+  },
+  "theoretical_positioning": {
+    "rivals_engaged": ["conventional interpretation of §124 as conservative/quietist", "philosophy-theory divide in educational philosophy"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": true,
+    "own_position_type": "synthesis",
+    "own_position_explicit": true,
+    "description": "The paper performs an immanent reinterpretation of §124 by reading it within Wittgenstein's broader therapeutic project: philosophy leaves problematic language games as they are in order to show their contingency, which itself opens space for imagining alternatives. This aligns with existing Marxist readings (Pleasants, Kitching) and situates Wittgenstein in the philosophy of education as an advocate for critical thinking about social possibility."
+  },
+  "epistemic_mode": {
+    "primary": "purely_interpretive_hermeneutic",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "Close reading of Wittgenstein's Philosophical Investigations (§§109, 124, 128); cross-reading with Marx's Theses on Feuerbach; engagement with secondary literature on Wittgenstein/Marx connections (Pleasants, Kitching, Sharrock).",
+    "notes": "This paper is primarily hermeneutic: the goal is to correctly interpret §124. The normative claim (Wittgenstein advocates social change) is derived from the interpretation but the paper's argumentative centre is the interpretive reading, not an independent normative thesis. Classified as purely_interpretive_hermeneutic with a normative implication — not fully_normative because the argument cannot stand without the close reading of Wittgenstein."
+  },
+  "case_type": {
+    "has_case": true,
+    "case_medium": "philosophical_text",
+    "case_name": "Wittgenstein's Philosophical Investigations §124",
+    "case_function": "generative",
+    "case_relation_to_argument": "constitutive_of_framework",
+    "case_selection_justified": true
+  },
+  "normative_stake": {
+    "level": "medium",
+    "domain": "philosophy of education / critical theory / Marxism",
+    "claim_type": "reconstructive",
+    "closure_type": "conclusion_open"
+  },
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "case_introduction",
+    "case_development",
+    "immanent_critique",
+    "framework_proposal",
+    "conclusion_open"
+  ],
+  "reflexive_move": false,
+  "key_concepts": ["philosophy leaves everything as it is", "therapeutic philosophy", "11th thesis on Feuerbach", "transformative action", "critical imagination", "language games"],
+  "thinkers_deployed": {
+    "central": ["Wittgenstein", "Marx"],
+    "engaged_critically": ["quietist Wittgenstein interpreters"],
+    "referenced_only": ["Pleasants", "Kitching", "Sharrock", "Engels"]
+  },
+  "confidence_notes": "Classified as purely_interpretive_hermeneutic because the argumentative core is textual interpretation of §124, not construction of an independent normative framework. The normative stake (Wittgenstein supports social change) is the hermeneutic conclusion rather than the argument's ground. This resembles featherstone-turner or loizidou from the TCS corpus but has more normative ambition — a boundary case between purely_interpretive and fully_normative."
+}

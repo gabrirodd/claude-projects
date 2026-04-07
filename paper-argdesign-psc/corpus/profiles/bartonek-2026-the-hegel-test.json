@@ -1,0 +1,64 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "bartonek_2026",
+  "title": "The Hegel Test",
+  "author": "Bartonek",
+  "year": 2026,
+  "journal": "Philosophy and Social Criticism",
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "Existing tests for machine intelligence (Turing, Coffee, Employment tests) set their criteria too low because they lack a systematic concept of thinking and human intelligence. Without a genuine high-point criterion, we cannot determine whether machines have reached human-level intelligence.",
+    "anchored_in": ["Bostrom", "Kurzweil", "Chollet"],
+    "stakes_claimed": "A proper test of strong AI requires Hegel's philosophy of negativity, recognition, and labour — the human capacity for self-distancing, criticality, and dialectical self-consciousness — as the benchmark."
+  },
+  "theoretical_positioning": {
+    "rivals_engaged": ["Turing test", "Bostrom's superintelligence framework", "Kurzweil's pattern recognition model", "Chollet's generalization model"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": true,
+    "own_position_type": "framework_proposal",
+    "own_position_explicit": true,
+    "description": "The paper performs immanent critique of existing AI intelligence tests, arguing each lacks a systematic concept of thinking. Hegel's negativity, recognition, and labour dialectics are proposed as the constitutive elements of human cognition that a true intelligence test must measure. The 'Hegel test' requires machines to demonstrate mastery of negativity (self-critical distance), recognition (dialectics of master and slave), and transformative labour."
+  },
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "Close reading of Hegel's Phenomenology of Spirit and Science of Logic (sections on negativity, master-slave dialectics, labour); critical analysis of AI intelligence frameworks (Bostrom, Kurzweil, Chollet, Legg-Hutter).",
+    "notes": "The philosophical text (Hegel) is used as a resource for constructing the test, not as an interpretive case in the Type 3 sense. The argument is fully normative-conceptual: critique of existing tests + Hegelian framework construction + specification of the Hegel test components."
+  },
+  "case_type": {
+    "has_case": false,
+    "case_medium": "none",
+    "case_name": null,
+    "case_function": null,
+    "case_relation_to_argument": null,
+    "case_selection_justified": false
+  },
+  "normative_stake": {
+    "level": "medium",
+    "domain": "philosophy of mind / AI / critical theory",
+    "claim_type": "prescriptive",
+    "closure_type": "conclusion_strong"
+  },
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "immanent_critique",
+    "framework_proposal",
+    "conceptual_distinction",
+    "normative_derivation",
+    "conclusion_strong"
+  ],
+  "reflexive_move": false,
+  "key_concepts": ["Hegel test", "negativity", "recognition", "labour", "superintelligence", "AGI", "self-consciousness", "dialectics"],
+  "thinkers_deployed": {
+    "central": ["Hegel", "Bostrom", "Marcuse"],
+    "engaged_critically": ["Bostrom", "Kurzweil", "Chollet", "Legg and Hutter"],
+    "referenced_only": ["Turing", "Adorno", "Honneth"]
+  },
+  "confidence_notes": "Type 2 (dialectical synthesis variant): serial immanent critique of four existing AI tests, followed by Hegelian framework construction as positive alternative. The conclusion is strong because the paper fully specifies the Hegel test's three components and declares them constitutive of genuine intelligence. Unusual topical range for PSC (AI/philosophy of mind) but pure Type 2 argument structure."
+}

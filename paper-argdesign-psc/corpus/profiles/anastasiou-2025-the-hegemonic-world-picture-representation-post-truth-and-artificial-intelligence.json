@@ -1,0 +1,65 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "anastasiou_2025",
+  "title": "The Hegemonic World Picture: Representation, Post-Truth, and Artificial Intelligence",
+  "author": "Anastasiou",
+  "year": 2025,
+  "journal": "Philosophy and Social Criticism",
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "Conventional critiques of post-truth politics adopt quasi-objectivist frameworks premised on restoring fact/representation correspondence — but this presupposes an essentialist account of truth that poststructuralist and postmodern thought has decisively undermined. The puzzle: how can a critique of post-truth be effective if it appeals to a discredited standard?",
+    "anchored_in": ["Laclau and Mouffe", "Horkheimer and Adorno"],
+    "stakes_claimed": "An effective counter-offensive to post-truth politics requires working through the logic of representation rather than against it — leveraging representational ambiguity in the service of democracy."
+  },
+  "theoretical_positioning": {
+    "rivals_engaged": ["objectivist/rationalist post-truth critique", "essentialist correspondence theory of truth"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": true,
+    "own_position_type": "framework_proposal",
+    "own_position_explicit": true,
+    "description": "The paper constructs an alternative through a genealogy of representation from Plato through poststructuralism (Laclau-Mouffe, Derrida), then extends Laclauian hegemony theory to AI-powered digital communication. 'Total representations' (sloganesque, ambiguous, heuristic) are diagnosed as the medium of post-truth hegemony. The prescription: democratic politics should use rhetoric strategically, not try to restore truth."
+  },
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "Conceptual genealogy of 'representation' from classical metaphysics through constructivism to poststructuralism; Laclauian hegemony analysis applied to AI-mediated communication.",
+    "notes": "No original empirical research. The argument is fully conceptual-normative: genealogy of representation + immanent critique of objectivist post-truth critique + hegemony framework extension to AI. Contemporary examples (social media, AI systems) are used as illustrative rather than evidentiary."
+  },
+  "case_type": {
+    "has_case": false,
+    "case_medium": "none",
+    "case_name": null,
+    "case_function": null,
+    "case_relation_to_argument": null,
+    "case_selection_justified": false
+  },
+  "normative_stake": {
+    "level": "high",
+    "domain": "democratic theory / epistemology / AI and public sphere",
+    "claim_type": "reconstructive_prescriptive",
+    "closure_type": "conclusion_open"
+  },
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "immanent_critique",
+    "genealogical_reconstruction",
+    "framework_proposal",
+    "conceptual_distinction",
+    "normative_derivation",
+    "conclusion_open"
+  ],
+  "reflexive_move": false,
+  "key_concepts": ["total representations", "representational ambiguity", "hegemony", "post-truth", "essentialism", "rhetoric", "digital public sphere"],
+  "thinkers_deployed": {
+    "central": ["Laclau", "Mouffe", "Laclau and Mouffe"],
+    "engaged_critically": ["objectivist post-truth critics"],
+    "referenced_only": ["Derrida", "Horkheimer and Adorno", "Foucault", "Gramsci", "Lyotard"]
+  },
+  "confidence_notes": "Type 2 (polemical reconstruction / fully normative). The genealogical reconstruction of representation theory is central to the argument — it is the ground for the immanent critique of objectivism. The Laclauian hegemony framework is extended to AI-mediated communication to generate the 'total representations' concept. No case in the Type 3 sense — contemporary AI systems are backdrop, not an interpretive object. The conclusion is open because the prescriptive turn (use rhetoric for democracy) is gestured at rather than specified."
+}

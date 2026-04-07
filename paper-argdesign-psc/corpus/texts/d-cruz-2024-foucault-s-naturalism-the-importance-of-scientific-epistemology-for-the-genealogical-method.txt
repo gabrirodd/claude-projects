@@ -1,0 +1,1403 @@
+[PAGE 1]
+                                                             
+                                                             
+                                                             
+                                                             
+      Article                                                
+                                                             
+                                         PhilosophyandSocialCriticism
+               ’                         2025,Vol.51(10)1656–1682
+      Foucault  s naturalism: The                            
+                                         ©TheAuthor(s)2024   
+                            fi                               
+      importance   of scienti c                              
+                                         Articlereuseguidelines:
+      epistemology   for the             sagepub.com/journals-permissions
+                                         DOI:10.1177/01914537241235571
+                                         journals.sagepub.com/home/psc
+      genealogical  method                                   
+      Leonard D’Cruz                                        
+      UniversityofMelbourne,Australia                        
+                                                             
+      Abstract                                               
+      This article offers a novel reconstruction of Foucault’s methodology that emphasises his
+      respect for the natural sciences. Foucault’s work has long been suspected of reducing
+      knowledgetopower,andthuscollapsingintounconstrainedrelativismandmethodological
+      incoherence. These concerns are predicated on a misunderstanding of Foucault’s overall
+      approach, which takes the form of a historico-critical project rather than a normative
+      epistemology. However, Foucault does sometimes make normative epistemological judge-
+      ments,especiallyaboutthehumansciences.Furthermore,thereareoutstandingquestions
+      about what secures the descriptive rigour of the genealogical method. To address these
+      issues, I develop two claims that will significantly enrich our understanding of Foucault’s
+      methodology.ThefirstisthatFoucault’srespectforthenaturalsciencesiscrucialinmaking
+      senseofhisnormativeepistemologicaljudgements.Thesecondisthatthedescriptiverigour
+      of his genealogical method derives from the fact it is modelled on empirical inquiry.
+      Keywords                                               
+      critique,epistemology,Foucault,genealogy,historicalepistemology,ontology,positivism,
+      science                                                
+                                                             
+                                                             
+      Introduction                                           
+                                                             
+      ThisarticleoffersanovelreconstructionofFoucault’sepistemologythatemphasiseshis
+      respect for the natural sciences. Foucault’s work has long been suspected of reducing
+                                                             
+      Correspondingauthor:                                   
+      LeonardD’Cruz,SchoolofHistoricalandPhilosophicalStudies,UniversityofMelbourne,GrattanStreet,
+      Melbourne,VIC3010,Australia.                           
+      Email:leonard.dcruz@unimelb.edu.au                     
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+      D’Cruz                                        1657     
+                                                             
+                                                             
+                                                             
+      knowledge to power, and thus collapsing into unconstrained relativism and methodo-
+      logicalincoherence.TheseconcernsarepredicatedonamisunderstandingofFoucault’s
+      work, which takes the form of a historico-critical project rather than a normative epis-
+      temology. Nonetheless, Foucault does sometimes make normative epistemological
+      judgements, and it is unclear how these truth claims fit within this broader project.
+      Furthermore, there are still outstanding questions about what secures the descriptive
+      rigour of the genealogical method.                     
+        In response, I develop two claims that will significantly enrich our understanding of
+      Foucault’s methodology. The first is that Foucault’s respect for the natural sciences is
+      crucialinmakingsenseofhisnormativeepistemologicaljudgements.WhileFoucault’s
+      work is primarily oriented around a historical critique of knowledge rather than a nor-
+      mativeepistemology,hedoesoccasionallypassjudgmentontheepistemiccredibilityof
+      differentbodiesofknowledge.Isuggestthatthesejudgementsarepredicatedonarespect
+      for scientific epistemology that must be situated within his broader historico-critical
+      project.Thesecondclaimisthatthedescriptiverigourofhisgenealogicalmethodderives
+      fromthefactitismodelledonempiricalinquiry.Onthisbasis,IarguethatFoucaultcan
+      appeal to evaluative norms and standards that have been formed under the pressure of
+      powerrelations,butthatarestillepistemologicallyrobustbyvirtueoftheiraccountability
+      to empirical evidence. I will support these claims by offering a close analysis of his
+      engagementwithscientificepistemologyandcontextualisinghisworkwithintheFrench
+      traditionofhistoryandphilosophyofthesciences,whichwascentraltohisintellectual
+      development.                                           
+      Motivating the discussion: Historical critique, normative
+      epistemology, and the descriptive rigour of genealogy  
+      Inthis section, I will demonstrate some of the interpretive difficulties that emergefrom
+      Foucault’srejectionofnormativeepistemologyinfavourofhistoricalcritique.Indeed,he
+      does not offer a general theory that discriminates between the truth and falsity of
+      statements.Thislackofanormativeepistemologyledmanyofhisearlycriticstoworry
+      that(a)heisanepistemicrelativistwhocannotreflexivelyaccountforthehistoricityofhis
+      owninquiry;and(b)themethodofgenealogyreliesonapracticeofinterpretationthatitis
+      incapableofjustifying.Thislineofcriticismwasmostfamouslyarticulatedbyfigureslike
+      Descombes, Habermas, Rorty, and Taylor (Descombes [1979] 1980; Habermas [1985]
+      1987; Rorty 1986; Taylor 1986; Bouveresse 2016). These concerns led such critics to
+      claim that Foucault reduces truth to power despite his protestations to the contrary (FL
+      462; EW1 296, 298). If successful, this objection would leave Foucault vulnerable to
+      accusations of epistemic nihilism and would appear to undermine the overall method-
+      ological coherence of his work.                        
+        However,morerecentcontributionstothescholarshiphaveshownhowthisobjection
+      ispredicatedonafundamentalmisunderstandingofFoucault’saims.Therehasbeenan
+      important interpretative trend that identifies the properly philosophical dimension of
+      Foucault’sworkasahistoricisationofKant’scriticalproject(Han[1998]2002;A.Allen
+      2008, 24–29; Djaballah 2008, 198–199; Koopman 2013; Tiisala 2015; Han-Pile 2016).
+                                                             
+                                                             
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+      1658                         Philosophy and Social Criticism 51(10)
+                                                             
+                                                             
+      Indeed,Foucaultunderstoodhisworkasofferinganinquiryintothehistoricalconditions
+      of possibility for knowledge and experience while eschewing the transcendental mo-
+      dalities of necessity, universality, and apriority (AK 203; PT 23–82; EW1 315–316).
+      Accordingly, several critics have highlighted that his genealogical method does not
+      pursue traditional epistemological questions but instead offers an inquiry into the his-
+      torical depth conditions for knowledge, power, and subjectivity (Hacking 2002, 4;
+      B.Allen2010;Koopman2013,33).Thislineofargumenthasbeenhighlyinfluentialand
+      continues to yield powerful insights into Foucault’s work. Most recently, Lorenzini has
+      offered an important defence of Foucault’s critical project that demonstrates how his
+      historicalproblematisationoftruthisbasedonafundamentalrespectforthevalueoftruth
+      and truth-telling (Lorenzini 2023, 119–123). Lorenzini rightly argues that ‘Foucault’s
+      rejection of “the Truth” as a timeless and suprahistorical concept does not amount to a
+      rejection of truth altogether’ (Lorenzini 2023, 121). For Lorenzini, Foucault’s critical
+      projectisanimatedbyanethico-politicalcommitmenttotruth-tellingthatrecognisesthe
+      immanenceoftruthtohistoryandpower,andthusavoids‘reducingthequestionoftruth
+      toapurelylogicalorepistemologicalquestion’(Lorenzini2023,7–9).Foucault’srespect
+      for the truth is also supported by his claim that power does not inherently distort
+      knowledge, but instead plays a productive and causal role in its constitution (DP 27;
+      PK 131).                                               
+        In a similar vein, Lorenzini and Tiisala have highlighted how the notion of ‘truth-
+      telling’ plays two fundamentally different roles in Foucault’s conception of critique
+      (Lorenzini and Tiisala 2023). The first is truth-telling as ‘avowal’, which refers to the
+      confessionalpracticesthatoftenserveasthetargetofFoucault’sgenealogies(Lorenzini
+      and Tiisala 2023, 8). As Lorenzini and Tiisala argue, ‘Foucault’s genealogy of avowal
+      aimstoquestionthelongstandingmyththatwherethereispower,therecannotbetruth,
+      andthat(tellingthe)truthwillalwayssetonefree’(LorenziniandTiisala2023,8).The
+      second is truth-telling as ‘parrhesia’, which is an ideal of courageous speech that they
+      argue serves as an important ‘method’ of critique in Foucault’s work (Lorenzini and
+      Tiisala2023,10).ForLorenziniandTiisala,thisuseofparrhesiahelpstoillustrate the
+      second function of critique, which is ‘the possibility of questioning power about its
+      discourses of truth’ (Lorenzini and Tiisala 2023, 10). In short, these scholarly contri-
+      butions help to show how Foucault’s respect for the importance of truth is not only
+      intelligiblewithinthecontextofhishistorico-criticalproject,butalsoplaysanimportant
+      role in motivating it.                                 
+        Despite the importance of these contributions, there are still outstanding questions
+      concerning the way in which Foucault discriminates between competing historical con-
+      ceptionsoftruth.AlthoughLorenziniisrighttoemphasisethatFoucaultavoidscommitting
+      toanygeneraltheoryoftruth,IarguethatFoucaultdoesrelyonhistoricalstandardsoftruth
+      in formulating normative epistemological judgements (Lorenzini 2023, 7). Indeed, while
+      Foucault’sapproachtoepistemologyismainlyframedintermsofahistoricistcritique,he
+      doessometimespassjudgmentontheepistemiccredibilityofsomebodiesofknowledge,
+      especiallythoseheidentifieswiththehumansciences.Inotherwords,whilehedoesnot
+      offer a normative epistemology, he does sometimes make normative epistemological
+      judgements–thatistosay,hemakesclaimsaboutwhetherspecificbodiesofknowledge
+
+[PAGE 4]
+                                                             
+                                                             
+      D’Cruz                                        1659     
+                                                             
+                                                             
+                                                             
+      oughttobeacceptedastrue.Furthermore,itisnotimmediatelyclearhowthesejudgements
+      fitwithinhisbroaderhistorico-criticalproject.AlthoughLorenzinidoesbroadlyaccountfor
+      Foucault’simmanentrelianceonregimesoftruth,heoverlooksFoucault’sparticularrespect
+      forthenaturalsciencesinguidingmanyofhisepistemologicaljudgements(Lorenzini2023,
+      22–23).                                                
+        This is one of the essential concerns motivating this article. On my view, Foucault
+      appeals to epistemic standards and norms that have been derived from the natural sci-
+      ences. More specifically, I argue that Foucault is attracted to the high degree of epis-
+      temological rigour that derives from their empirical accountability and self-correcting
+      orientation. However,Iwillalso emphasisethat this appeal toscientificreason mustbe
+      understoodaspartofhishistoricalcritiqueofreasonmorebroadly.Therefore,alargepart
+      ofthisarticlewillbededicatedtoexplaininghowFoucault’snaturalismemergeswithin
+      and complements his historico-critical project. It is worth noting that Foucault includes
+      formal sciences like mathematics within his broader conception of science (FL 44; AK
+      188–190).However,mydiscussionwillfocusonhisrelationshiptothenaturalsciences,
+      astheirempiricalbasisismoredirectlyrelevantbothtohiscritiqueofthehumansciences
+      as well as his articulation of his own methodology.    
+        There is also an outstanding question concerning the descriptive rigour of the ge-
+      nealogical method. While the recent scholarly focus on Foucault’s mode of historical
+      critiquehasbeenhighlyfruitful,thereisstillmoretobesaidaboutthebasisofthevalidity
+      claims advanced by genealogy. After all, while the genealogical method does not ad-
+      judicatethesekindsofclaimsassuch,itdoesattempttooffervaliddescriptionsofhistory.
+      Forthisreason,onemightwonderwhetherFoucault’slackofanormativeepistemology
+      means that the genealogist cannot help but reduce truth to power. At the very least,
+      Foucault’s acknowledgement that his mode of historical description involves some el-
+      ementofinterpretationmightleadustowonderwhatepistemicconstraintsareimposedon
+      this process. While Foucault does claim that ‘the genealogical mood will be that of a
+      happy positivism’, it is not obvious how he can accommodate a positivistic approach
+      withinhisbroadercriticalprojectorhowthisfitswithhissustainedcriticismoftraditional
+      positivism (OD 73).                                    
+        ThisconcernhasbeenmosteffectivelyarticulatedbyDescombes,whocontendsthat
+      Foucault’s epistemology is a ‘surprising mixture’ of ‘positivism and nihilism’
+      (Descombes [1979] 1980, 117; cf. Habermas [1985] 1987, 276–278). In this way, he
+      claimsthattherearetwocontradictorystrainsinFoucault’sthought.Ontheonehand,he
+      rightlypointsoutthatFoucaultidentifieshishistoricalmethodasessentiallypositivistic,
+      drawingagreatdealofinspirationfromthetraditionofFrenchhistoricalepistemologyas
+      wellasthebroadermovementofFrenchpositivism(Descombes[1979]1980,110–111).
+      As Descombes correctly observes, the empirical basis of Foucault’s work is precisely
+      whatallowshimtoclaimthathereliesonasophisticatedformofpositivismfocusedon
+      empiricalresultsratherthantheconstructionofagrandmetaphysicaltheory(Descombes
+      [1979] 1980, 116). On the other hand, Descombes highlights that Foucault is also
+      committedtotheNietzscheanbeliefthatknowledgeisalwaysconstructedonthebasisof
+      situated interests, and that matters of fact can only be established on the basis of more
+      fundamental interpretations of the world (Descombes [1979] 1980, 116).
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+      1660                         Philosophy and Social Criticism 51(10)
+                                                             
+                                                             
+        AccordingtoDescombes,thisleavesFoucaultintheunenviablepositionofclaiming
+      that his method is rigorously positivistic and grounded in the materiality of the archive
+      whilealsotacitlyconcedingthatwhatwemakeofarchivalmaterialisultimatelyamatter
+      of interpretation (Descombes [1979] 1980, 117). While Foucault tries to preserve
+      somethinglikethe‘thepositivistnotionoffact’,Descombesthinkshemustlogicallybe
+      committedtotheviewthat‘facts’arenotdeterminedbytheircorrespondencetoreality
+      butareinsteadtheproductofaconflictbetweencompetinghumaninterests(Descombes
+      [1979]1980,116–117).Inthisway,DescombesthinksthatFoucaultfailstoresolvethe
+      morefundamentalissueofhowwecandiscriminatebetweencompetinginterpretationsof
+      theworld,andthusclaimsthatgenealogyissusceptibletotheverykindofunconstrained
+      relativismthatFoucaulttriestoavoidbygroundinghisinsightsinthematerialityofthe
+      archive(Descombes[1979]1980,117;cf.Habermas[1985]1987,276–278).Intheend,
+      then, Descombes thinks that Foucault’s positivism is undermined by his supposed ni-
+      hilism,resultinginthecollapseofgenealogyasarigorousmodeofhistoricaldescription.
+        In response, my strategy will be to reinterpret Foucault’s positivism through his
+      approach to historical critique. On my view, Foucault certainly does model his genea-
+      logical method on scientific inquiry insofar as he adopts an empirically accountable,
+      fallibilist,historicallyreflexive,andself-correctingapproachtoanalysingdifferentforms
+      ofknowledge.Thisiscrucialinexplaininghowhecansafeguardhisgenealogiesagainst
+      the perennial threat of epistemic distortion by pernicious power relations. However, I
+      maintain that Foucault’s genealogical positivism is predicated on a more fundamental
+      mode of interpretation that breaks with the givenism of traditional positivism. In other
+      words, the challenge is to show that Foucault’s positivism coherently fits within his
+      broaderapproachtohistoricalcritique.Thiswillhelptodemonstratehowhecansecure
+      the descriptive rigour of the genealogical method.     
+      Foucault’s ‘Discontinuist Historical Ontology’: Clarifying the
+      foundations of genealogical critique                   
+      In this section, I will clarify Foucault’s fundamental ontological and epistemological
+      commitments to explain how his mode of historical critique can sustain normative
+      epistemological judgements. As we have already seen, several critics have argued that
+      Foucault reduces all normative epistemological standards to relations of power. While
+      Foucault’s approach to historical critique is not addressed to questions of normative
+      epistemology, there are moments in his work where he does make normative episte-
+      mological judgements – especially concerning the epistemological rigour of the human
+      sciences. Therefore, it is necessary to contextualise these epistemological judgements
+      within his historico-critical project. Accordingly, the main purpose of this section is to
+      clarifyhisoverallapproachtoquestionsofontologyandepistemology.WhileFoucault’s
+      interest in ontology and epistemology is evident throughout his oeuvre, he does not
+      systematically defend his views on these topics until the beginning of his genealogical
+      periodwithtextslikeTheOrderofDiscourse,LecturesontheWilltoKnow,‘Nietzsche,
+      Genealogy, History’ and ‘Truth and Juridical Forms’.   
+                                                             
+                                                             
+                                                             
+
+[PAGE 6]
+                                                             
+                                                             
+      D’Cruz                                        1661     
+                                                             
+                                                             
+                                                             
+        Inearliertexts,Foucaultsometimesappearstoreachforthemetaphysicalconceptof
+      ‘reality’ to elucidate his views about the historical construction of knowledge. In his
+      1961prefacetoTheHistoryofMadness,Foucaultimpliesthattheremightbeamorepure
+      or authentic experience of madness that exists in the silence of modern discourse (HM
+      xxvii,xxxii).Indeed, hespeaks ofa‘madness’thathasbeen held ‘captive’and‘whose
+      wildstatecanneverbereconstituted’intheabsenceofits‘inaccessibleprimitivepurity’
+      (HMxxxiii).AsHackingrightlyobservesinhisforewordtotheEnglishtranslationofthe
+      book, Foucault would eventually come to repudiate this early view of madness as
+      somethingthatexists‘inthewild,assomethingprediscursive,inaccessible,pure’aswell
+      as the associated idea of an ‘archaeology of silence’, and instead comes to redefine
+      archaeologyasthestudyofmaterialstatements(Hacking2006,xii;HMxxvii;AK125).1
+      Similarly,inTheBirthoftheClinic,Foucaultclaimsthatthereisan‘excessofthesignifier
+      overthesignified’(BCxviii).ThisisaviewheagainechoesinTheOrderofDiscourse,
+      when he claims that ‘we must conceive discourse as a violence which we do to things’
+      (OD 67; cf. FS 173).                                   
+        These comments lead Kelly to suggest that Foucault embraces a ‘discontinuist
+      epistemology’thattreats‘therelationshipoflanguageandrealityintermsoffundamental
+      and irreparable discontinuity’ (Kelly 2019, 325). On Kelly’s view, this means that all
+      validityclaimsandepistemesareunderdetermined,andthereforeexistinsomedegreeof
+      truth and error simultaneously. Kelly summarises this interpretation of Foucault’s view
+      aboutthediscontinuitybetweendiscourseandrealityintheformulathat‘truth=reality÷
+      episteme’ (Kelly 2009, 22). Although Kelly is certainly right to draw attention to the
+      theme ofdiscontinuityinFoucault’swork,there areseveralproblems with his account.
+      Thefirstissuecentresontheterm‘discontinuistepistemology’.Indeed,this‘discontinuist
+      epistemology’isbetterdescribedasa‘discontinuistontology’insofarasitproblematises
+      the relationship between language and the idea of a non-linguistic reality, rather than
+      describingFoucault’sviewsabouttheconstitutionofknowledgeperse.Thesecondand
+      more substantive problem with Kelly’s account isthat Foucaultrepudiates the idea that
+      truth is an inadequate or partial representation of a non-linguistic reality. In The Ar-
+      chaeologyofKnowledge,FoucaultsuggeststhathisapproachinTheOrderofThingsdoes
+      nottreatdiscourseasevenapartialrepresentationofactual‘things’inreality,butthatit
+      instead conceives of ‘things’ as discursive constructions that can never be compared
+      against a mind-independent reality:                    
+        ‘Wordsandthings’istheentirelyserioustitleofaproblem;itistheironictitleofaworkthat
+        modifies its own form, displaces its own data, and reveals, at the end of the day, a quite
+        differenttask.Ataskthatconsistsofnot–ofnolonger–treatingdiscoursesasgroupsof
+        signs (signifying elements referring to contents or representations) but as practices that
+        systematically form theobjects of which theyspeak (AK 49).2
+        For this reason, Foucault’s mature position should be described as a ‘discontinuist
+      historicalontology’insofarasittreatsobjectsaspurelydiscursiveconstructionsanddoes
+      awaywithanymetaphysicalnotionofanobjectivereality.Inhis1967essayonNietzsche
+      thatwasincludedintheCahiersdeRoyaumont,Foucaultarguesthatinterpretationisan
+                                                             
+                                                             
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+      1662                         Philosophy and Social Criticism 51(10)
+                                                             
+                                                             
+      infinite task precisely because we cannot posit anything like a non-linguistic reality
+      against which our interpretations might be measured:   
+        …ifinterpretationcanneverbecompleted,thisisquitesimplybecausethereisnothingto
+                                                             
+        interpret.Thereisnothingabsolutelyprimarytointerpret,forafteralleverythingisalready
+        interpretation, each sign is in itself not the thing that offers itself to interpretation but an
+        interpretation of other signs(EW2 275).              
+        Similarly, in ‘Nietzsche, Genealogy, History’, Foucault directly opposes the genea-
+      logical methodtothemetaphysical concern with thenatureofreality,and suggests that
+      genealogyanalysesthedevelopmentofmetaphysicalconceptsasdiscursiveconstructions
+      that are entirely immanent to history (EW2 378–379).   
+        ThisisnottosaythatFoucaultwasalwaysclearorconsistentaboutdefining‘things’as
+      discursive constructions when discussing his ontology. In The Order of Discourse,
+      Foucault again emphasises the idea that there is a fundamental discontinuity between
+      discourseand‘reality’(OD67–69).However,hisclaimthat‘wemustconceivediscourse
+      asaviolencethatwedotothings’issomewhatmisleadinginsofarasitimpliesthatthere
+      are really ‘things’ in ‘reality’ that discourse might violate (OD 67). Similarly, in the
+      1973 lecture ‘Truth and Juridical Forms’, Foucault claims ‘knowledge can only be a
+      violationofthethingstobeknown,andnotaperception,arecognition,andidentification
+      oforwiththosethings’(EW39).Foucaultrepeatsthisambiguityagainina1983lectureat
+      Berkeley,whenhecharacteriseshisproblematisationoftruthastheprocessofanalysing
+      ‘the specific relation between truth and reality’ (FS 173). Despite these comments, the
+      logicofFoucault’sclaimsaboutdiscontinuitywouldruleoutthepossibilityofappealing
+      toanynon-linguisticrealitythatmightotherwiseconstrainourepistemicpractices.After
+      all,ifthereisaninseparablediscontinuitybetweenwordsandthings,hecannotcoherently
+      posit ‘things’ that exist in some non-linguistic reality precisely because of this discon-
+      tinuity.Forthisreason,hewouldhavebeenwell-advisedtoavoidtalkingabout‘things’
+      that exist beyond discourse altogether – or, more precisely, to avoid using the word in
+      connectionwiththekindsofdiscursiveconstructionshedealswithinhiswork.Indeed,
+      thesekindsofcommentsaremostcharitablyinterpretednotasaprecisearticulationofhis
+      view,butratherasrhetoricalstatementsmadeforthesakeofdistinguishinghisownview
+      asaradicaldeparture from conventional realist ontologies(OD 67;EW39).Therefore,
+      thewayhedescribeshispositioninTheArchaeologyofKnowledgeisthemorecoherent
+      andpromisingwayofframinghisontology.Inotherwords,themostplausiblerendering
+      of his position is to say that ‘things’ – or, more precisely, ‘things’ like madness and
+      sexuality – should be understood as discursive constructions rather than metaphysical
+      entities that exist in a reality beyond discourse.     
+        At this point, it is crucial to emphasise how these ontological commitments fit into
+      Foucault’sbroadercriticalproject.DjaballahandTiisalahavebothconvincinglyargued
+      thatFoucault’sconceptionofdiscursiveobjectsisdeeplyKantian(Djaballah2008,239;
+      Tiisala2015,665–666).However,TiisalaclarifiesthatFoucaultisnotconcernedwiththe
+      necessary conditions that make our knowledge of metaphysical objects possible, but
+      insteadwith‘theadditionalsufficientconditions’thatmakediscursiveobjects‘thinkable’
+                                                             
+
+[PAGE 8]
+                                                             
+                                                             
+      D’Cruz                                        1663     
+                                                             
+                                                             
+                                                             
+      (Tiisala2015,665).Indeed,Foucaultpresentshisoverallprojectasacriticalinquiryinto
+      thehistoricalconditionsofpossibilityforknowledgeratherthanametaphysicalinquiry
+      into‘theuniversalstructuresofallknowledge’(EW1315;AK203;PT23–82;EW2459–
+      462). This further clarifies that his mode of critique is not addressed to traditional
+      questions of epistemology but rather to questions of historical ontology. While this
+      Kantian framing of Foucault’s work is persuasive, it leaves open an important question
+      about how Foucault can accommodate normative epistemological judgements given he
+      haseschewedtranscendentalmodalitieslikeuniversality,necessity,andapriority.While
+      these kinds of judgements are not the primary target of his methodology, there are
+      moments in his work where he does challenge the validity of particular conceptions of
+      things like madness and sexuality.                     
+        Before I can explain how Foucault’s approach to historical critique can sustain
+      normative epistemological judgements, it is also necessary to clarify the way he con-
+      ceptualisesknowledgeasimmanenttohistoryandpower.Thisisbecausehisunderlying
+      epistemologicalcommitmentsareimportantinunderstandinghowhishistoricalcritique
+      ofreasoncanproceed.AsFoucaultmovedintohisearlygenealogicalperiod,hereframed
+      hisdiscontinuisthistoricalontologythroughtheNietzscheanthemeofpower.Duringthis
+      period,Foucaultwasmoreconsistentinhisrejectionoftheideathatdiscourseisevena
+      partial reflection of reality and often warned against the temptation to recover the
+      metaphysical origins of language.3 Although Foucault certainly acknowledges his
+      epistemologicaldebttoNietzscheinearliertexts,his1971essay‘Nietzsche,Genealogy,
+      History’representshisfirstefforttoelucidatehisownontologyandepistemologythrough
+      Nietzsche’s work. In this text, Foucault aims to radicalise the historicist dimension of
+      Nietzsche’sthoughtbyembracingthesubtledistinctionNietzschemakes–butdoesnot
+      consistentlyobserve–betweenthemetaphysical‘origin’[Ursprung]ofknowledge,and
+      its‘emergence’[Enstehung]or‘descent’[Herkunft]withinthefieldofhistory(EW2370–
+      376; cf. EW3 9). According to Foucault, Nietzsche is only truly a genealogist when he
+      opposes the genealogical method to the pursuit of the origin – although he openly
+      concedesthathisreadingofNietzscheisselectiveinsofarasiteschewsanymetaphysical
+      impulseinhiswork(EW2371).Inthisway,Foucaultpresentsgenealogyasamethodthat
+      conceivesofknowledgeassomethingthatshouldbeunderstoodasentirelyimmanentto
+      history.4                                              
+        ThisleadsFoucaulttopositiongenealogyasanalternativetoametaphysicalaccount
+      ofknowledgeinsofarasitdoesnotassumethattheemergenceofknowledgecanbetraced
+      backtosomeoriginaryperception,sensation,ordisclosureinlanguagethatensuresitwill
+      correspond to reality (EW2 373; cf. OT 328–329). Instead, Foucault embraces the idea
+      that knowledge is a human artefact that was invented for practical purposes, and is
+      thereforeliabletobeshapedbystrategicinterestsinwaysthatunderminethepossibilityof
+      veridicalperception.ThisleadsFoucaulttofollowNietzscheinclaimingthatourpursuit
+      of knowledge is motivated by a violent impulse, going as far as to claim that ‘all
+      knowledgerestsuponinjustice(thatthereisnoright,notevenintheactofknowing,to
+      truth or a foundation for truth) and that the instinct for knowledge is malicious’ (EW2
+      387).Onthisbasis,Foucaultclaimsthatknowledge‘isnotmadeforunderstanding’but
+      rather ‘for cutting’ – that is to say, that knowledge often begins with an interpretation
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+      1664                         Philosophy and Social Criticism 51(10)
+                                                             
+                                                             
+      motivatedbypracticalconcernsandself-interestratherthanthedesiretoreachanaccurate
+      understanding of the thing in question (EW2 380; cf. BC xviii). For Foucault, then,
+      knowledge is fundamentally a way of coping with the world rather than trying to
+      represent it.                                          
+        IntheLecturesontheWilltoKnow,FoucaultcontrastsNietzsche’saccountofthe‘will
+      toknow’withAristotle’saccountofwhatmotivatestheproductionofknowledge(LWK
+      5).WhereasAristotleseesknowledgeasmotivatedbyagenuinedesiretoknowtheworld
+      as it really is, the Nietzschean approach developed by Foucault ‘claims that the Will to
+      knowcomposesillusions,fabricateslies,accumulateserrors,andisdeployedinaspaceof
+      fiction where the truth itself is only an effect’ (LWK 197). In this way, Foucault un-
+      derstandsNietzscheasarguingthatthewilltoknowisreallyjustaconcealedeffectofthe
+      will to power, and that knowledge does not originate from our veridical perception of
+      reality, but rather that inquiry is at least initially motivated by situated interests. For
+      Foucault,thisinsightshouldleadustodistinguishbetweentwokindsoftruth:‘thetruth
+      thatiserror,lie,illusion:thetruththatisnottrue’and‘thetruthfreedfromthistruth-lie:
+      the truthful truth’ (LWK 219). While Foucault often speaks as if the will to know is
+      reducibletothewilltopower,hesometimesimpliesthatthewilltoknowcanmanifest
+      itself in ways that are more conducive to illuminating ‘the truthful truth’ (WK 55).
+      Foucaultexplicitlydrawsthisdistinctiononceagaininhiswrittenresponseattheendof
+      ‘TruthandPower’(EW3126–133).Inthispiece,hemakesitclearthathisuseoftheword
+      ‘truth’doesnotreferto‘theensembleoftruthswhicharetobediscoveredandaccepted’,
+      andthathisworkisprimarilyconcernedwithrevealing‘theensembleofrulesaccording
+      towhichthetrueandfalseareseparatedandspecificeffectsofpowerareattachedtothe
+      true’ (EW3 132).                                       
+        ThishelpstoexplainhowFoucaultcantreatknowledgeasimmanenttopowerwithout
+      precluding the possibility of making normative epistemological judgements. In other
+      words,itsuggeststhatanycritiqueorimprovementofourepistemicstandardswillhaveto
+      be immanent to the discursive practices it seeks to describe. Indeed, the ‘truthful truth’
+      does not have to be defined in terms of correspondence to reality but can instead be
+      understood as the product of our most rigorous and successful epistemic norms. In this
+      way,Isuggestthatwecanrelyonsomeacceptedstandardsofrationalitytocallothersinto
+      question. This is consistent with Foucault’s presentation of his work as an immanent
+      critiqueofEnlightenmentrationality(EW1303–319).Morespecifically,mysuggestionis
+      thatFoucaultdrawsonstandardsandnormsthatwerederivedfromthenaturalsciences
+      within this historical critique of reason. Thisview will be outlined at length in the next
+      section.                                               
+      The force of scientific truth: Situating Foucault’s naturalism
+      within his historico-critical project                  
+      Having offered a critical reconstruction of Foucault’s underlying ontology, I will now
+      attendtothequestionofhowhemakesnormativeepistemologicaljudgementswithinhis
+      historico-critical project. My strategy is to emphasise Foucault’s respect for the natural
+      sciences, which demonstrates that he is willing to draw on rigorous epistemological
+                                                             
+                                                             
+
+[PAGE 10]
+                                                             
+                                                             
+      D’Cruz                                        1665     
+                                                             
+                                                             
+                                                             
+      standards that have developed within the field of history. I will argue that Foucault is
+      impressed by the epistemic resources produced by the natural and formal sciences, and
+      will demonstrate why he thinks the rigour of the natural sciences derives from their
+      empirical accountability and self-correcting orientation. Although he does not always
+      emphasiseit,Foucaulthasagreaterrespectforscientificepistemologythanwasassumed
+      duringtheinitialreceptionofhisworkintheAnglophoneworld.Asseveralscholarshave
+      sincenoted,Foucault’srelationshiptotheFrenchtraditionofhistoryandphilosophyof
+      the sciences was overlooked during this reception, but was an important part of his
+      intellectualformation(Dreyfus1987,x–xi;Gutting1989,9–54;Dews1992;Kelly2009,
+      26–27; Webb 2013; Ross 2018). Indeed, these critics argue that charges of epistemic
+      nihilism were likely fuelled by a lack of familiarity with its constitutive schools of
+      historical epistemology and Comtean positivism.        
+        Most prominently, Gutting has argued that Foucault’s approach to epistemology is
+      unintelligibleunlesswesituatehisworkwithinthistraditionandespeciallyinrelationto
+      Canguilhem (Gutting 1989, 52–54). More recently, Webb has traced the formative in-
+      fluenceofthistraditiononTheArchaeologyofKnowledge,payingparticularattentionto
+      the role that figures like Bachelard, Cavaillès, and Serres played in the development of
+      Foucault’s epistemological views (Webb 2013, 7–38). This tradition affords scientific
+      epistemologyaprivilegedepistemicstatus,despitealsointerrogatingthewaysinwhich
+      scientific practice has been shaped by contingent historical factors and subtle forms of
+      normativity.Forthisreason,itassumesthatscientificknowledgeisonlyeverprovisional
+      andisthuslikelytoremaininsomedegreeoferror(EW2476–477).Inotherwords,this
+      approachholdsthatthereisalwayslikelytobesomediscrepancybetweenouraccepted
+      bodies of truth and what our most rigorous epistemological standards suggest is
+      actually true.                                         
+        It is much easier to understand Foucault’s appreciation for scientific epistemology
+      following the contextualisation of his work as an immanent – rather than a totalising –
+      critiqueofscientificreason.AsGuttingrightlyargues,Foucaultclearlyacceptsthatthe
+      naturalandformalsciencesarecharacterisedbyacoreofmethodologicalrigour,andthere
+      are good reasons to think that he might accept scientific normativity as a paradigm of
+      rigorousinquiryeventhoughherarelydefendedthisviewinasustainedmanner(Gutting
+      1989, 257–258). In ‘The Subject and Power’, Foucault makes it clear that while his
+      approachisnotbasedon‘adogmaticbeliefinthevalueofscientificknowledge’,neither
+      doesitamountto‘askepticalorrelativisticrefusalofallverifiedtruth’(EW3330–331).
+      Indeed, Foucault implies that his approach to knowledge is consistent with genuinely
+      scientific standards insofar as it opposes bodies of knowledge that engender ‘secrecy,
+      deformation,andmystifyingrepresentationsimposedonpeople’(EW3329–331).Inthis
+      way,itisbroadlyconsistentwiththeself-correctingorientationofscientificinquiry.This
+      also helps to explain why Foucault’s focus is on the epistemologically suspect ‘human
+      sciences’ – such as psychology, sociology, and anthropology – rather than the highly
+      rigorousnaturalandformalsciences(OT344–387).InthefinalchapterofTheOrderof
+      Things,Foucaultevendeclaresthatthehumansciencesare‘notsciencesatall’,buthave
+      accruedtheirculturalauthorityduetotheirfalseclaimtoscientificity(OT366).Similarly,
+      ina1968interviewwithEsprit,Foucault’srespectforgenuinescientificityleadshimto
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+      1666                         Philosophy and Social Criticism 51(10)
+                                                             
+                                                             
+      claimthatsomebodiesofknowledge–suchasmathematicsandphysics–havestronger
+      ‘epistemological structures’ than others (FL 44).      
+        While Foucault’s views on scientificity are clearly indebted to Bachelard and
+      Canguilhem, he has a more complex relationship with these thinkers than has
+      sometimesbeenacknowledged.However,thereisarecentwaveofscholarshipthatis
+      attentive to both the continuities and discontinuities within the ‘Bachelard–Can-
+      guilhem–Foucaultlineage’(Elden2021,26;Chimisso2015;Ross2018;Talcott2019
+      ix–xii).Eldenhasrightlyarguedthatwhile‘thereareimportantconnectionsbetween
+      the three thinkers’ there is also ‘a danger of reducing all three under the rubric of a
+      “historical epistemology”’ (Elden 2021, 26; Chimisso 2003, 310–314; Chimisso
+      2015). With respect to Foucault’s place in this tradition, several scholars have ar-
+      gued that the epistemological focus of Bachelard and Canguilhem’s work contrasts
+      withFoucault’shistorico-criticalappropriationoftheirideas(Lecourt1975,119–120;
+      Debru2004,79–80;Chimisso2015,65–70;Ross2018,145).Forexample,Chimisso
+      has argued that while Foucault even came to influence Canguilhem’s conception of
+      scientific ideology, the latter was still eager to emphasise his commitment to the
+      epistemological distinction between science and non-science (Chimisso 2015, 65–
+      70).Therefore,althoughFoucault’srespectforthenaturalandformalsciencesisonly
+      intelligibleinrelationtothistradition,itisimportanttoclarifythewaysinwhichhis
+      treatment of scientificity differs from his intellectual ancestors.
+        InTheArchaeologyofKnowledge,Foucaultoffershismostsustainedandsystematic
+      discussionofscientificity.Heaffirmsthathisfocusisonthe‘dubious’and‘stillimprecise
+      disciplinesthatareperhapsdoomedforevertoremainbelowthethresholdofscientificity’
+      (AK178).However,healsomakesitclearthathismethoddoesnotdirectlyadjudicate
+      their claims to scientificity, but rather attempts to track the historical emergence and
+      developmentoftheirepistemologicalstructures(AK190–191).Nonetheless,heisclearly
+      strategic in his choice of topics, and is clear about the fact that the human sciences fall
+      below what he calls the ‘threshold of scientificity’ (AK 178, 186, 190). This term de-
+      scribesanimportantstageinthedevelopmentofadiscursiveformation,whichlogically
+      comesafterthe‘thresholdofepistemologization’inwhichadiscursiveformation‘claims
+      to validate (even unsuccessfully) norms of verification and coherence’ (AK 186–187;
+      Gutting 1989, 252–253). For Foucault, a discursive formation crosses the threshold of
+      scientificitywhenitmovesbeyondthesefundamentalnormsofverificationandcoherence
+      towards more rigorous scientific rules (AK 187, 190).  
+        This passage also serves as an occasion for Foucault to clarify his methodological
+      differences with Bachelard and Canguilhem. According to Foucault, different types of
+      historicalanalysisoperateatdifferentthresholdsofdiscourse(AK190).Forexample,he
+      identifiesBachelardandCanguilhem’sworkasfocusingondisciplinesatthethresholdof
+      scientificity (AK 190). In Foucault’s view, their histories show how different sciences
+      were‘establishedoverandagainstapre-scientificlevel’andthusreveal‘whatthescience
+      hasfreeditselffrom,everythingthatithashadtoleavebehindinitsprogresstowardsthe
+      thresholdofscientificity’(AK190).Inotherwords,hethinkstheyareprimarilyinterested
+      inhowpre-scientificconceptswere‘purified’and‘accordedthestatusandfunctionofa
+      scientific concept’ (AK 190). According to Foucault, their project is more traditionally
+
+[PAGE 12]
+                                                             
+                                                             
+      D’Cruz                                        1667     
+                                                             
+                                                             
+                                                             
+      epistemologicalinsofarasitisdesignedtomakenormativeepistemologicaljudgements
+      about when these forms of knowledge have crossed the threshold of scientificity:
+                                                             
+        Consequently,thisdescriptiontakesasitsnormthefullyconstitutedscience;thehistorythat
+        itrecountsisnecessarilyconcernedwiththeoppositionoftruthanderror,therationalandthe
+        irrational,theobstacleandfecundity,purityandimpurity,thescientificandthenon-scientific.
+        It isanepistemological history ofthe sciences (AK 190).
+        Bycontrast,Foucaultsituateshisownapproachatthethresholdofepistemologisation.
+      This approach targets discursive formations ‘that are not necessarily all sciences (and
+      whichmaynever,infact,succeedinbecomingsciences)’(AK190).InFoucault’sview,
+      thisapproachworksatalevelwhere‘scientificitydoesnotserveasanorm’(AK190).In
+      other words,his methodisnotdesignedtooffernormative epistemological judgements
+      aboutclaimstoscientificity,butinsteadoffersan‘archaeologicalhistory’thatattendsto
+      historical conditions of possibility (AK 190; cf. OT xxii).
+        In this way, Foucault distinguishes his project from the work of Bachelard and
+      Canguilhembyshiftingawayfromtheirmoretraditionallyepistemologicalhistoryofthe
+      sciences and towards a critical inquiry into the historical conditions of possibility for
+      knowledge. Furthermore, Foucault’s focus on the threshold of epistemologisation leads
+      himawayfromthenaturalsciences,andtowardsthehumansciences.5Inthe1973lecture
+      ‘Truth and Juridical Forms’, he explicitly distinguishes between ‘two histories of truth’
+      thatonemightundertake(EW34).Hedescribesthefirstas‘akindofinternalhistoryof
+      the truth’ that ‘rectifies itself in terms of its own principles of regulation’ (EW3 4).
+      Although he does not identify Bachelard or Canguilhem by name, he does characterise
+      thisapproachas‘thehistoryoftruthasitisconstructedinoronthebasisofthehistoryof
+      thesciences’(EW34).Incontrast,heidentifieshisownworkwiththesecondhistoryof
+      truth(EW34).Thishistorydoesnottakeinternalprinciplesofregulationasthenormof
+      inquiryintothenaturalsciences,butinsteadattendsto‘otherplaceswheretruthisformed’
+      in our societies and where ‘a certain number of games are defined’ that allow different
+      formsofsubjectivity,objectdomains,andknowledgeto‘comeintobeing’(EW34).For
+      thisreason,hedescribesthissecondapproachasan‘external,exteriorhistoryoftruth’that
+      does not rely on the internal norms and standards of the bodies of knowledge under
+      investigation(EW34).Inotherwords,thissecondapproachconcernstheconditionsof
+      possibilityforthehumansciencesratherthanadjudicatingtheclaimstoscientificityofthe
+      natural sciences (EW3 4–5).                            
+        However, the content of Foucault’s historical studies is often more varied and
+      complexthanthesemethodologicalreflectionswouldsuggest.Afterall,Foucaultdoesnot
+      completelyavoidmoretraditionalepistemologicalconcernsinthesestudies,evenifthey
+      are never his primary focus. Indeed, I argue that he does sometimes make normative
+      epistemologicaljudgementswhencriticisingthehumansciences.Inthisway,Foucault’s
+      respectfortheepistemologicalstrengthofthenaturalsciencesdoesinformhishistorical
+      studies,specificallyinsofarasheprivilegesscientificnormativityinmakingthesesortsof
+      judgements. Therefore, I suggest that Foucault does occasionally slip into a mode of
+      analysis more characteristic of historical epistemology. This can be seen throughout
+                                                             
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+      1668                         Philosophy and Social Criticism 51(10)
+                                                             
+                                                             
+      severalofhiscanonicalhistoricalstudies.InTheWilltoKnowledge,Foucaultchastises
+      thediscourseofmodernsexualityfortakingconfessionalpracticesasitsparadigmwhile
+      blatantlyignoringtheinsightsofreproductivephysiology(WK54–55,153–155;FL44).
+      Indeed, a central argument of The Will to Knowledge is that this discourse on sexuality
+      was able to enlist the cultural authority of the natural sciences due to its fabricated
+      proximitytobiology(WK52–73).AccordingtoFoucault,thenineteenthcenturysaw
+      theconceptof‘sex’integrated‘intotwoverydistinctordersofknowledge’intheWest
+      that developed simultaneously but without any ‘real exchange’ or ‘reciprocal struc-
+      turation’(WK55).ForFoucault,thepathologisationofsexualityinmedicaldiscourse
+      waslittlemorethanawayinwhich‘moralobstacles,economicorpoliticaloptions,and
+      traditional fears could be recast in a scientific vocabulary’ (WK 55). Foucault goes as
+      far as to claim that this discourse was exceptionally weak from an epistemological
+      perspective:                                           
+        Whenwecomparethesediscoursesonhumansexualitywithwhatwasknownatthetime
+        about the physiology of animal and plant reproduction, we are struck by the incongruity.
+        Their feeble content from the standpoint of elementary rationality, not to mention scienti-
+        ficity,earnsthem aplaceapart inthe history of knowledge(WK 54).
+        Ontheotherhand,heclaimsthattheepistemologicalstrengthofbiologywassecured
+      bythefactitdevelopedinaccordancewitha‘generalscientificnormativity’(WK54).He
+      evenarguesthatwhilemedicaltheoriesofsexualityweredistortedbyperniciouspower
+      relations, reproductive physiology was shaped by a genuine will to knowledge char-
+      acteristic of rigorous and self-correcting scientific inquiry (WK 55).
+        Similarly, Foucault appears to accept that the medical conception of ‘disease’ is
+      empiricallyrigorous,andthusunderstandsTheBirthoftheClinicasaninvestigationinto
+      how modern medicine developed under contingent historical conditions without ques-
+      tioningitsbasicepistemiccredibility(EW3111–112;BCxix).Thislackofquestioningis
+      primarilybecausehisstudyisahistorico-criticalinquiryinto‘theconditionsofpossibility
+      ofmedicalexperienceinmoderntimes’ratherthanahistoricalepistemologyofmedical
+      science(BCxix).However,itisalsoduetohisrespectforthecoreofgenuinescientificity
+      that helps define modern Western medicine. In a 1976 interview with Fontana and
+      Pasquino,hestatesthatwhile‘theepistemologicalprofileofpsychiatryisalowone’,he
+      believesthat‘medicinehasamuchstrongerarmaturethanpsychiatry’eventhough‘ittoo
+      isprofoundlyenmeshedinsocialstructures’(EW3111–112).Indeed,inTheBirthofthe
+      Clinic, Foucault argues that the development of medical knowledge was motivated by
+      forms of normativity that are deeply political and thus exceed purely epistemic con-
+      siderations(BC22–37).However,whileFoucaultthinksthatpowerrelationshaveshaped
+      medicalknowledge,healsothinksthisinteractionwasproductiveandcausalratherthan
+      distortive(EW3117).6Therefore,herecognisesthatmedicalscienceischaracterisedby
+      rigorous methodological standards that give it a high degree of protection against epi-
+      stemic distortion.                                     
+        Ontheotherhand,hepresents‘delinquency’and‘sexuality’asdiscursiveobjectsthat
+      were produced by political interests in the absence of any rigorous epistemological
+                                                             
+                                                             
+
+[PAGE 14]
+                                                             
+                                                             
+      D’Cruz                                        1669     
+                                                             
+                                                             
+                                                             
+      structure, while the object of ‘madness’ appears to occupy a space between these two
+      extremes (DP 277–292; WK 55; EW1 296). In Discipline and Punish, Foucault re-
+      peatedly emphasises that the figure of the ‘delinquent’ was not constructed through a
+      genuinescientificnormativity,butratherinaccordancewithhighlydubiousideasabout
+      normality derived from human sciences like criminology and psychiatry (DP 252–256,
+      277–279, 293–296). More specifically, Foucault highlights how the emergence of the
+      carceral system was supported by a judicial apparatus that drew its authority from the
+      human sciences as well as its feigned connection to physiology (DP 293–296). Indeed,
+      Foucault emphasises that the supposed legitimacy of disciplinary techniques was
+      predicatedonthisfalseclaimtoscientificity.Hearguesthatthe‘completionofthecarceral
+      system’ – as marked by the opening of the Mettray Penal Colony – coincided with the
+      ‘birth of scientific psychology’ (DP 293–295). While he accepts that what happened at
+      Mettray‘wasobviouslyofaquitedifferentorder’tocontemporaneousdevelopmentsin
+      thehumansciences,hearguesthattheirconcurrenceallowedthecarceralsystemtodraw
+      ontheculturalauthorityofscientificknowledgewithoutactuallymeetingtheappropriate
+      standardsofscientificrigour(DP295–296).Ofcourse,Foucault’sfocusinthistextison
+      thehistoricalconditionsofpossibilityforthecarceralsystemandthediscursiveobjectof
+      delinquency. Nonetheless, his decision to analyse the carceral system was a strategic
+      choice, having explicitly stated that he was motivated to write the book due to his
+      concernsaboutthe‘steeprise’in‘mechanismsofnormalization’andtheeffectsofpower
+      engendered by ‘the proliferation of new disciplines’ (DP 306). With this in mind, his
+      respectforthenaturalsciencesplaysaroleinhelpinghimtoexposethelackofrigourthat
+      characterises the human sciences and the way they subtend the carceral system.
+        Foucault’s respect for the natural sciences also shapes his work on psychology and
+      psychiatry.AlthoughitissometimesexcludedfromstudiesonFoucault’swork,itisworth
+      attending to his analysis of the medicalisation of mental illness in Mental Illness and
+      Psychology–theheavilyrevisedversionofhisfirstbookthathereluctantlyapprovedfor
+      publication in 1962 (MIP). The fundamental argument of this text is that ‘mental pa-
+      thology’failstomeetthesamestandardsofrigourofferedby‘organicpathology’(MIP1–
+      13). According to Foucault, while psychiatry certainly claims to define ‘mental illness’
+      using the same conceptual methods as organic medicine, any suggestion of a ‘unitary
+      pathology’ that captures both ‘the psychological and physiological domains’ is ‘purely
+      mythical’(MIP7–10).InFoucault’sview,thisisbecausepsychologyandpsychiatrylack
+      the degree of conceptual rigour characteristic of physiology and medical science, spe-
+      cifically insofar as psychology’s fundamental concept of ‘personality’ cannot be con-
+      ceivedasatotalityoffunctionalpartsinthesamewayasthephysiologicalconceptofan
+      ‘organism’ (MIP 10–13). In this way, we can see how this critique of psychiatry is
+      predicated on a normative epistemological judgement about its lack of scientificity.
+        This concern for scientificity also underpins Foucault’s analysis in The History of
+      Madness.Inthistext,Foucaultonceagainemphasisesthatthesupposed‘objectivity’of
+      psychiatricpracticewasreally‘areificationofamagicaltype’rootedin‘atransparently
+      clear moral framework which was slowly forgotten as positivism imposed the myth of
+      scientificobjectivity’(HM509).Inthisway,Foucaultextendshispreviousargumentthat
+      mentalpathologyfailstoadheretothescientificnormsestablishedbyorganicpathology
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+      1670                         Philosophy and Social Criticism 51(10)
+                                                             
+                                                             
+      (HM186–198).Hearguesthatitinsteaddevelopedinaccordancewithacontingentmoral
+      normativitythatmademadnessinto‘thestigmaofaclassthathadabandonedtheformsof
+      bourgeoisethics’(HM378,13–16,355–380,427–503).Similarly,inthesixthlectureof
+      PsychiatricPower,Foucaulthighlightshownineteenthcenturypsychiatricpracticewas
+      able to establish its perceived epistemic authority by claiming fidelity to ‘psychiatric
+      nosology’ and ‘anatomical-pathological research’, but without properly employing the
+      knowledge of these disciplines or positively justifying its own claim to truth (PP 134–
+      138).Inotherwords,wecanseethatFoucaultsupplementshishistoricalcritiqueofthe
+      medicalisation of madness with an interrogation of its false claims to scientificity.
+        On the basis of this detailed textual analysis, I argue that Foucault’s respect for
+      genuine scientific inquiry is crucial in understanding how he can accommodate nor-
+      mativeepistemologicaljudgementswithinhishistoricalcritiqueofreason.Incontrastto
+      the metaphysical ambition of capturing the true nature of reality, the dominant con-
+      ceptionofthenaturalsciencesisthattheymerelyaimtoestablishevaluativecriteriathat
+      are experimentally successful for the purposes of prediction and control. In this way,
+      theycanbeunderstoodtoproposehypothesesthatareempiricallyaccountableinsofar
+      astheyareexposedtorigorousexperimentaltestingandcanbecontinuouslyrefinedon
+      the basis of new results. Therefore, there is no inherent contradiction between Fou-
+      cault’shistorico-criticalorientationandhisnaturalism.However,thisisnottosaythat
+      Foucaulttakesanuncriticalviewofscientificpracticeitself.Despitethisexperimental
+      success,Foucaultmakesitclearthatitisessentialtotakeahistoricalviewofscientific
+      practice to understand the ways in which even sciences with a strong epistemological
+      structure have been shaped by power relations and subtle forms of normativity (EW2
+      473).InFoucault’sintroductiontoCanguilhem’sTheNormalandthePathological,he
+      explicitly argues that:                                
+        …the history of the sciences opens up a domain of analysis that is indispensable if epis-
+        temology is to be anything else but the simple reproduction of the internal schemas of a
+        science atagiven time (EW2473; Canguilhem [1943]1991).
+        Therefore, Foucault’s own approach cannot be understood as an uncritical or na¨ıve
+      celebrationofscientificpracticethattreatsitasthestraightforwardaccumulationoftruth
+      (EW3 330–331). Indeed, Foucault draws attention to the ‘discontinuous’ nature of
+      scientificdevelopmentasanimportantthemeinCanguilhem’swork,andexplicitlycites
+      Canguilhem – along with Bachelard’s notion of the epistemological break – as an im-
+      portant influence on his own discontinuist account of the historical development of
+      knowledge (EW2 470–471; AK 4–14; Bachelard [1938] 2002). With this in mind,
+      Foucaultthinksthat theepistemological strength ofsciencederivesfrom thefactthat it
+      can be continuously critiqued and refined from within, and that this can be pursued
+      throughthehistoryofthesciencesaswellasthroughscientificpracticeitself.Inthisway,
+      Foucaultdrawsontheepistemologicalnormsestablishedbyscientificpracticetoexposethe
+      potentialweakpointsofspecificbodiesofknowledgefromwithinhishistoricalcritiqueof
+      reason.                                                
+                                                             
+                                                             
+                                                             
+
+[PAGE 16]
+                                                             
+                                                             
+      D’Cruz                                        1671     
+                                                             
+                                                             
+                                                             
+        However,toembracesomenormsandstandardsofscientificinquiryisnotmerelyto
+      hand over the game of epistemology to the natural sciences. The influence of historical
+      epistemologyalsohelpstodistinguishFoucault’snaturalismfromthelesscriticalmodeof
+      naturalism offered by thinkers like Quine (Quine [1969] 2004; Roth 1999). Whereas
+      Quine takes philosophy to be continuous with the natural sciences, Foucault follows
+      Bachelard and Canguilhem in refusing any conflation of philosophy with scientific
+      epistemology(Quine[1969]2004;Elden2021,116–118;Vagelli2019,106–107).Tobe
+      sure, Bachelard and Canguilhem both maintain that the history of the sciences must be
+      accountable to current scientific practice (Canguilhem [1983] 2005, 205; Bachelard
+      [1938]2002,22–27).However,theyalsoemphasisethatthehistoryofthesciencesmust
+      besupportedbyadistinctivelyphilosophicalapproachtoquestionsofscientificityifitis
+      to maintain its normative force, and that this involves drawing on established scientific
+      normstoconductanimmanentcritiqueofthesciences(Canguilhem[1983]2005,200–
+      206; Bachelard [1938] 2002, 22–27). In his 1983 essay ‘The Object of the History of
+      Sciences’,Canguilhemmakesitclearthat‘thehistoryofsciencesisnotascienceandits
+      objectisnotascientificobject’(Canguilhem[1983]2005,206).Instead,hearguesthata
+      ‘philosophicalepistemology’isrequiredforthehistorianofsciencestopassjudgmenton
+      the scientificity of knowledge without simply affirming our existing body of accepted
+      scientificknowledge(Canguilhem[1983]2005,200–206).Moreprecisely,hearguesthat
+      the tight integration of history and epistemology allows us to establish the necessary
+      distance from the sciences to make normative epistemological judgements about them
+      (Canguilhem [1983] 2005, 200–206; Bachelard [1938] 2002, 22–27). In this way, as
+      Vagelli usefully puts it, Bachelard and Canguilhem offer an ‘a posteriori normative
+      approach’tothehistoryofthesciencesthatisaccountablebutnotreducibletoscientific
+      practice (Vagelli 2019, 99–104). This distinction between scientific epistemology and
+      historicalepistemologyiscrucialinreconstructingFoucault’snaturalismandexplaining
+      how he can sustain his epistemological criticisms of the human sciences.
+        ItisalsoworthsayingsomethingabouthowFoucault’srespectforgenuinescientificity
+      fitswithhisclaimsaboutpower-knowledge.Inshort,Foucault’sviewisthatscientificity
+      is always immanent to power, but that this does not give us any reason to think that
+      scientific validity lacks rigorous epistemic constraints. In a 1984 interview with Con-
+      cordia, Foucault claims that he is ‘absolutely not saying that games of truth are just
+      concealedpowerrelations’andthatsuchadescriptionwouldbea‘horribleexaggeration’
+      ofhisview(EW1290;cf.FL462).ThecomplexityofFoucault’sviewderivesfromthe
+      fact that he holds that power and knowledge are always co-implicated and mutually
+      immanent(WK98;DP27;AK184–186).Forthisreason,hebelievesthatpowercanboth
+      playapositiveroleinthecausalproductionoflegitimateknowledgeorhaveadistortive
+      effectonwhatpassesforknowledge.Inthisway,herecognisesthatpoliticalinterestsplay
+      an important part in motivating even the most rigorous forms of inquiry (PK 131–133;
+      EW1 296). For all its methodological rigour, then, Foucault does not think scientific
+      epistemology is in any way a pure representation of a timeless truth (AK 184–186). In
+      fact, as Lorenzini rightly argues, he thinks it is ‘a regime of truth among others’that is
+      profoundly historical and stands in a circular relation with power (Lorenzini 2023, 23).
+                                                             
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+      1672                         Philosophy and Social Criticism 51(10)
+                                                             
+                                                             
+        However,Foucaultdoes notseeall forms of knowledge as being atthesame risk of
+      being distorted by pernicious power relations. His respect for the natural and formal
+      sciencesleadshimtosuggestthatdomainsofknowledgeexistonacontinuumfromthose
+      with the ‘strongest epistemological structure’ – such as mathematics and physics – to
+      weakeroneslikepsychologythatdonotmeetthesamestandardsofscientificrigour(FL
+      44). He also recognises the ‘intermediate’ sciences – ‘biology, physiology, political
+      economy, linguistics, philology’ – that are more empirical than the highly formalised
+      sciencesandthusmorevulnerabletosubtleformsofnormativity,butthatarestillmuch
+      morerobustthanthehumansciences(EW2328;EW2470;AK187–190).Inotherwords,
+      while knowledge is always vulnerable to epistemic distortion by pernicious power re-
+      lations, Foucault does not think this is what power inherently does to knowledge, and
+      thereisnoreasontothinkthatthemutualimmanenceofpower-knowledgeresultsinthe
+      permanent distortion of knowledge. Indeed, it is entirely possible to establish rigorous
+      epistemic standards within the field of power. In this way, we can see that Foucault’s
+      respect for the natural sciences is coherently immanent to his claims about power-
+      knowledge as well as his historical critique of reason.7
+      Empirical inquiry as a model for historical description:
+      Genealogical positivism and the descriptive rigour of Foucault’s
+      method                                                 
+      Foucault’srespectforthenaturalsciencesisalsocrucialinmakingsenseofthedescriptive
+      rigour of the genealogical method itself. Some critics have reasonably questioned what
+      kindofepistemicconstraintsFoucaultimposesonhismethodofhistoricalinterpretation.
+      WhileDescombesrecognisesthatFoucaultaimstoimprovetherigourofourepistemic
+      practices,hearguesthatFoucault’scommitmenttopositivisticdescriptionisundermined
+      by his claim that we cannot identify any facts about a non-linguistic reality that is in-
+      dependentofdiscourse(Descombes[1979]1980,117;cf.Habermas[1985]1987,276–
+      278). In this way, Descombes challenges the suggestion that genealogy can justify its
+      validity claims and thus secure the descriptive rigour of its historical accounts. My
+      responseistosuggestthatFoucaultactivelymodelsthegenealogicalmethodonscientific
+      inquiry, and therefore defends the descriptive rigour of his work by emphasising its
+      empirical accountability to historical evidence. In other words, I will take seriously
+      Foucault’s claim that his work is based on a form of historical positivism (AK 125;
+      OD 73).                                                
+        InTheOrderofDiscourse,Foucaultclaimsthat‘thegenealogicalmoodwillbethatofa
+      happypositivism’(OD73).Byusingtheterm‘positivism’,Foucaultclearlywantstosuggest
+      thathismethodresemblestheempiricalapproachesofthenaturalandsocialsciences.8Inthe
+      1978lecture‘WhatisCritique?’,Foucaultsuggeststhat‘positivistscience’isacentralfeature
+      of Enlightenment rationality insofar as ‘it basically had confidence in itself, even when it
+      remainedcarefullycriticalofeachoneofitsresults’(PT50).Inthisway,Foucaultwantsto
+      suggestthatthegenealogicalmethodadoptsanempiricallyaccountable,fallibilist,historically
+      reflexive,andself-correctingapproachtointerrogatingdifferentformsofknowledge.Indeed,
+      Foucaultsuggeststhathisapproachtohistoricaldescriptionisanempiricalenterpriseinsofar
+                                                             
+                                                             
+
+[PAGE 18]
+                                                             
+                                                             
+      D’Cruz                                        1673     
+                                                             
+                                                             
+                                                             
+      asitisdirectlyaccountabletohistorico-discursiveevidencethatisaccessiblethrougharchival
+      research (AK 27).9                                     
+        ForFoucault,then,genealogicaldescriptionresemblesscientificpracticeinsofarasit
+      both scrutinisesexistingtheories and generatesnew hypotheses by drawing onthe best
+      available historico-discursive evidence. Although these theories are necessarily under-
+      determined,theycanatleastberefined,accepted,orrejectedbasedonfurtherhistorical
+      research. In the encyclopaedia entry he wrote about himself under the pseudonym
+      ‘Maurice Florence’, Foucault emphasises the idea that genealogy challenges meta-
+      physicaltheoriesbyputtingthemtothetestofhistoricalinquiryratherthanrejectingthem
+      accordingtoaprioriphilosophicalcriteria.Inthisway,hearguesthatgenealogyadopts:
+        …a systematic skepticism toward all anthropological universals – which does not mean
+        rejectingthemallfromthestart,outrightandonceandforall,butthatnothingofthatorder
+        mustbeacceptedthatisnotstrictlyindispensable.Inregardtohumannatureorthecategories
+        thatmaybeappliedtothesubject,everythinginourknowledgewhichissuggestedtousas
+        being universally valid mustbetested andanalyzed(EW2 461–462).
+        AlthoughFoucaultmodelshisapproachtohistoricaldescriptiononempiricalinquiry,
+      itshouldbeclearthatgenealogydoesnotclaimtoadheretoexactlythesamestandardsas
+      the natural sciences. On this front, Foucault is again indebted to Bachelard and Can-
+      guilhem’s refusal to conflate historico-philosophical analysis with scientific epistemol-
+      ogy.Thereareatleastthreewaysinwhichgenealogicalpositivismdiffersfromscientific
+      practice.Thefirstisthatgenealogydealswithdiscursiveeventsratherthannaturalones.
+      InTheArchaeologyofKnowledge,Foucaultclaimsthathismethoddoesnotdirectlydeal
+      withfactsaboutthenaturalornon-linguisticworld,butratherwith‘discursivefacts’that
+      can be identified in the form of ‘statements’ (AK 25–27). Indeed, Foucault explicitly
+      claimsthat‘itshouldneverbepossibletoassign,intheorderofdiscourse,theirruptionof
+      arealevent’(AK25).Second,genealogylackstherigorousexperimentaldimensionthat
+      iscentraltothepracticeofthenaturalsciences.Inhislaterwork,Foucaultdoesemphasise
+      theimportanceofpersonalandcollectiveexperimentationintestingthehistoricallimitsof
+      oursubjectivity(EW1315–316).However,suchexperimentsareclearlyquitedifferentto
+      thekindofcontrolledexperimentsconductedinbiologyorchemistryinsofaraswecannot
+      isolate the hyper-complex conditions of the social world. Third and relatedly, Foucault
+      openly concedes that genealogy lacks predictive power due to the overwhelming
+      complexityofhistoryandsociety,thediscontinuousnatureofdiscursivechange,andthe
+      unstable nature of power relations (AK 175–177; OD 67; WK 100–102).
+        Withthisinmind,Foucaultdoesnotoffera‘positivism’inthetraditionalmeaningof
+      theword,butonlyinaheavilyqualifiedandrestrictedsense.Infact,Foucaultexplicitly
+      opposeshisworktothetraditionalpositivismassociatedwitheighteenthandnineteenth
+      century scientism. In The History of Madness, Foucault explicitly criticises traditional
+      positivism for its role in obscuring the profoundly normative foundations of the medi-
+      calisation of madness in the modern period:            
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 19]
+                                                             
+                                                             
+                                                             
+      1674                         Philosophy and Social Criticism 51(10)
+                                                             
+                                                             
+        Anyone who wants to pursue an analysis of the deep structures of objectivity in the
+        knowledgeandthepsychiatricpracticeofthenineteenthcentury,fromPineltoFreud,needs
+        toshowthat,fromtheverybeginning,objectivitywasareificationofamagicaltype,which
+        couldonlybeaccomplishedwiththecomplicityofthepatientsthemselves,startingoutfrom
+        atransparentlyclearmoralframeworkwhichwasslowlyforgottenaspositivismimposedthe
+        mythofscientificobjectivity.Theoriginsandthemeaningofthepracticewereforgotten,but
+        itsusepersistedanditwasalwayspresent.Whatwecallpsychiatricpracticeisacertainmoral
+        tacticcontemporaneouswiththelateeighteenthcentury,whichispreservedintheritualsof
+        life in asylums,coveredoverbythe mythsof positivism (HM 509).
+        Similarly,TheBirthoftheClinicconcludeswithadiscussionofhowtheformationof
+      clinical medicine was made possible by certain forms of normativity, and that this
+      historicalprocesshasalsosincebeenobscuredbythemythsofpositivism(BC198–199).
+      InThe Will toKnowledge, Foucaultclaims that the ‘scientia sexualis’ of thenineteenth
+      centuryfunctioned‘undertheguiseofitsdecentpositivism’,havingdemonstratedearlier
+      inthetextthatthisdiscourselacksanyplausibleclaimtogenuinescientificity(WK70,
+      54).InthefirstlectureofSocietyMustBeDefended,heevenstatesthathis‘genealogical
+      project’ is ‘not a matter of some form or other of scientism’ and does not lead to a
+      positivism‘intheordinarysenseoftheword’(SMBD8–9;cf.AK206).Itshouldbeclear,
+      then, that Foucault explicitly disavows any conception of positivism associated with
+      scientismorthenotionofscientificobjectivity.Inotherwords,herejectsthesuggestion
+      thatdiscursiveobjectsaregiventhroughscientificinquiryratherthanconstructedthrough
+      value-laden interpretations rooted in specific historical conditions.
+        With this in mind, Foucault’s genealogical positivism must be understood through
+      his broader approach to historical critique, especially insofar as it emphasises the
+      historical conditions of knowledge that enable the positivities of different discourses
+      (AK126–131).Foucaulthintsinthisdirectionwithhiscritiqueoftraditionalpositivism
+      in The Order of Things. In the penultimate chapter, Foucault criticises positivism for
+      tryingtogroundthephilosophicalnotionoftruthinempiricalfactswithoutaccounting
+      for the conditions of possibility that make these empirical truths intelligible to begin
+      with (OT 319–320; Gutting 1989, 201–202). Therefore, he claims that traditional
+      positivism is dogmatic in the Kantian sense, and thus collapses into a ‘pre-critical
+      na¨ıvete´’ (OT 320). In The Archaeology of Knowledge, Foucault explicitly defines his
+      ownpositivisticapproachtodiscourseintermsofhishistoricisationoftranscendental
+      philosophy:                                            
+        If,bysubstitutingtheanalysisofrarityforthesearchfortotalities,thedescriptionofrelations
+        ofexteriorityforthethemeofthetranscendentalfoundation,theanalysisofaccumulations
+        for thequestoftheorigin,oneisapositivist,then Iamquitehappytobeone(AK 125).
+        In other words, Foucault emphasises that his ‘positivism’ is of a heavily qualified
+      typeandmustbesituatedwithinhisbroadercriticalproject.HereaffirmsthisideainThe
+      Orderof Discourse, when he suggests that ‘the critical and genealogical descriptions
+      mustalternate,andcomplementeachother’,beforeclaimingthat‘ifthecriticalstyleis
+                                                             
+                                                             
+                                                             
+
+[PAGE 20]
+                                                             
+                                                             
+      D’Cruz                                        1675     
+                                                             
+                                                             
+                                                             
+      thatofstudiouscasualness, thegenealogical moodwill be thatofa happy positivism’
+      (OD 73).                                               
+        WhileFoucaultdoesemphasisetheempiricalaccountabilityofhismethodofhistorical
+      description,heisalsoreflexiveabouttheelementofinterpretationthatderivesfromhis
+      own situatedness inthe field of history. Both these features are captured in the opening
+      lines of ‘Nietzsche, Genealogy, History’, where he declares that historical description
+      doesnotinvolvethestraightforwardaccumulationoftruthbutinsteadinvolvesaprocess
+      ofdiligentandcontinuousrevision(EW2369).Therefore,whenFoucaultclaimsthathis
+      method is positivistic, he is trying to emphasise that it is empirically accountable, fal-
+      libilist,historicallyreflexive,andself-correcting.However,healsowantstodisavowany
+      claimtoobjectivity,aswellasthescientismanddogmatismheassociateswith‘militant
+      positivism’ (HM 379). Instead, he maintains that his genealogical positivism is housed
+      within a historical critique of knowledge that rejects the givenism associated with tra-
+      ditionalpositivism.Indeed,Foucault’srejectionofgivenismisfundamentallygrounded
+      inhisdiscontinuisthistoricalontologyandKantianconceptionofdiscursiveobjects,both
+      of which were discussed in the second section of this article.
+        ThisclarificationofgenealogicalpositivismhelpstoaddressDescombes’sconcern
+      that Foucault’s ontology rules out any coherent notion of ‘fact’. While Descombes
+      claims that Foucault does not believe in the positivist notion of fact, he incorrectly
+      assumes that genealogical positivism must understand facts as claims that can be
+      judged according to their correspondence to a non-linguistic reality (Descombes
+      [1979] 1980, 116). In other words, this process of establishing facts does not nec-
+      essarily rely on the metaphysical notion of correspondence, but could easily be
+      understood through the fallibilist notion of empirical adequacy. Furthermore, as we
+      have seen, Foucault is able to situate this epistemic standard within his broader
+      critique of historical reason in a way that avoids claiming universal validity. In this
+      way,hisperspectivistrejectionofmetaphysicalfactsandhostilitytowardstraditional
+      positivism is entirely compatible with the robust epistemic standards derived from
+      scientific inquiry.                                    
+        Descombes also raises the concern that Foucault undermines the possibility of pos-
+      itivistic description by claiming that knowledge is always grounded in interpretation
+      (Descombes [1979] 1980, 117; cf. Habermas [1985] 1987, 276–278). However, in
+      ‘Nietzsche, Genealogy, History’, Foucault argues that genealogy does not directly in-
+      terprettheworld,butratherrecordsdifferentinterpretationsthroughtheempiricalworkof
+      historical description (EW2 378–379; EW2 275). Nonetheless, there is an important
+      question about the degree to which this method of description involves an element of
+      interpretation,especiallygivenFoucault’ssubordinationofhispositivismtohisbroader
+      project of historical critique. Foucault’s view of the role of interpretation in his meth-
+      odology appears to have shifted over the course of his career, making his position
+      something of a moving target. In The Archaeology of Knowledge, he suggests that the
+      archaeologicalmethodinvolvesarigorousdescriptionofdiscursiveevents,whichallows
+      ustodefinetherulesthatconstitutediscoursesascoherentunities(AK27).10Similarly,in
+      hisresponsetotheCercled’e´piste´mologie,Foucaultemphasisesthattheempiricalbasis
+      ofarchaeologicaldescriptioniswhatenables‘theprojectofapuredescriptionofthefacts
+
+[PAGE 21]
+                                                             
+                                                             
+                                                             
+      1676                         Philosophy and Social Criticism 51(10)
+                                                             
+                                                             
+      of discourse’ (EW2 306; RC 16). In this way, the Foucault of the late archaeological
+      period appears to suggest that discursive formations can be identified and described
+      withoutanymajorhermeneuticaldifficulties–onthisview,onesimplyhadtoattendto
+      the enunciative field and map out the relevant discursive relations between statements
+      (AK28).Indeed,theempiricalbasisofarchaeologyispreciselywhathethoughtwould
+      allow the archaeologist to complete a description – rather than an interpretation – of
+      discourse:                                             
+        Theanalysisofstatements,then,isahistoricalanalysis,butonethatavoidsallinterpretation:
+        itdoesnotquestionthingssaidastowhattheyarehiding,whattheywere‘really’saying,in
+        spiteofthemselves,theunspokenelementthattheycontain,theproliferationofthoughts,
+        images,orfantasisesthatinhabitthem;but,onthecontrary,itquestionsthemastotheirmode
+        of existence, whatit means tothem to havecomeintoexistence…(AK 109).
+                                                             
+        However, the Foucault of the genealogical period found this account to be lacking
+      insofar as the idea of ‘pure description’ is clearly in tension with his claims that all
+      knowledgeisgroundedininterpretationandimmanenttopower(EW2275–278;DP28–
+      29).11Inthisway,Foucault’sgenealogicalexpansionofarchaeologyseemstohavebeen
+      atleastpartlymotivatedbyhisdesiretoaccountforhisownsituatednessinthefieldof
+      power-knowledge (Dreyfus and Rabinow [1982] 1983; Davidson 1986).
+        Dreyfus and Rabinow have offered what remains the most influential and convincing
+      account of Foucault’s transition to genealogy. Their account is useful in explaining how
+      Foucault can defend the descriptive rigour of the genealogical method despite his aban-
+      donmentof‘puredescription’asamethodologicalideal.Ontheirview,Foucault’sexpansion
+      into genealogy was designed to account for the ‘methodological failure’ of archaeology
+      (DreyfusandRabinow[1982]1983,79–100).ForDreyfusandRabinow,theFoucaultofthe
+      latearchaeologicalperiodfoundhimselfintheparadoxicalsituationoftryingto‘speakfroma
+      position of phenomenological detachment’ despite having shown the impossibility of oc-
+      cupying such a position (Dreyfus and Rabinow [1982] 1983, 100). On their view, then,
+      Foucaultcametorealisethatarchaeologicaldescriptionitselfhad‘tobeaccountedforand
+      relativised’ before being assimilated into his expanded method of genealogy (Dreyfus and
+      Rabinow [1982] 1983, 99). On this basis, Dreyfus and Rabinow argue that Foucault ef-
+      fectivelyabandonedtheprincipleof‘puredescription’andinsteadembracedan‘interpretive
+      analytics’thatseesgenealogyasimmanentratherthanorthogonaltothediscursivepracticesit
+      seekstounderstand(DreyfusandRabinow[1982]1983,89).Ontheirview,then,Foucault’s
+      expansion into genealogy allowed him to develop an immanent mode of critique that ac-
+      knowledges the role of interpretation in making his rigorous form of historical description
+      possible in the first place (Dreyfus and Rabinow [1982] 1983, 102–103).
+        Therefore,DescombesisrighttosuggestthatFoucaultsometimesstruggledtoexplain
+      howhispositivisticapproachtohistoricaldescriptioncouldbereconciledwithhisown
+      situatedness within the field of interpretation. However, Foucault’s expansion into ge-
+      nealogy gave him the resources to solve this issue in a relatively straightforward way.
+      BuildingonDreyfusandRabinow’saccount,mysuggestionisthatgenealogysecuresits
+      descriptive rigour by drawing on epistemic standards that have been formed within the
+                                                             
+
+[PAGE 22]
+                                                             
+                                                             
+      D’Cruz                                        1677     
+                                                             
+                                                             
+                                                             
+      interpretative tradition of Enlightenment rationality, which is partly defined by the
+      rigorous empiricism of modern scientific practice (PT 50). With this in mind, I follow
+      Dreyfus and Rabinow in recognising that Foucault’s method of historical description
+      reliesonamorefundamentalmodeofinterpretation.AlthoughFoucaultissometimescast
+      asofferingatotalisingcritiqueofEnlightenmentrationality,heunderstoodhisownwork
+      as an immanent modification of this tradition that uses some of its existing conceptual
+      resources to call others into question (EW1 312–316). In a 1984 interview with Con-
+      cordia, Foucault outlines the logical structure of immanent critique as follows:
+        Inagivengameoftruth,itisalwayspossibletodiscoversomethingdifferentandtomoreor
+        less modify thisor thatrule, andsometimes even theentire gameof truth (EW1297).
+                                                             
+        Inotherwords,Foucaultseesallknowledgeasprovisionalandsubjecttorevision,but
+      doesnotdenytheexistenceofepistemicstandardsthatcanhelpusdiscriminatebetween
+      competinginterpretations.AsIhavealreadyshown,heseemstoacceptthatsomeofour
+      strongest epistemic standards are derived from scientific epistemology, and that these
+      standardscanserveasthebasisforanimmanentcritiqueofknowledge.Inthisway,itmakes
+      sensetoquestionthevalidityofsomeepistemicorhermeneuticalresourceswhileaccepting
+      others.Furthermore,theempiricalbasisofFoucault’sworkprovidesitwithadescriptive
+      rigour that exceeds any crude notion of interpretation, even if it holds that our highest
+      empirical standards were originally formed within a broader interpretative tradition.
+        Therefore,whileFoucault’sworkisclearlysituatedbothwithinthefieldofpowerand
+      withinaparticularinterpretativetradition,itsrelianceonrigorousstandardsofdescription
+      ispreciselywhatprotectsgenealogicalinsightsfromepistemicdistortion.Ofcourse,this
+      isnottosuggestthatgenealogyisimmunefromsuchdistortion.Indeed,itshouldbeclear
+      thatFoucaultdoesnotdismissthepossibilitythathisgenealogiesmightbedistortedby
+      pernicious power relations and could even be exposed to genealogical scrutiny them-
+      selves.However,thisvulnerabilityiscommontoallformsofknowledge,andthisdoes
+      not mean that any particular body of knowledge is permanently distorted by power
+      relations simply because it is immanent to power. After all, power always serves as a
+      causal condition on the production of our most rigorous forms of knowledge.
+      Conclusion                                             
+      IhavearguedthatFoucault’srespectforthenaturalsciencesiscrucialinmakingsenseofhis
+      normativeepistemologicaljudgements.ThishasinvolvedlocatingFoucault’sworkwithin
+      the French tradition of history and philosophy of the sciences and closely examining his
+      viewsonscientificinquiry.Morespecifically,Ihaveshownhowhecanappealtorigorous
+      epistemicnormsandstandardsderivedfromthenaturalscienceswithinhisbroaderproject
+      ofhistoricalcritique.Furthermore,Ihavearguedthathetakesempiricalinquiryasamodel
+      for historical description, and that this helps to secure the descriptive rigour of his ge-
+      nealogicalmethod.Inthisway,Foucaultcanappealtoevaluativenormsandstandardsthat
+      havebeenformedunderthepressureofpowerrelations,butthatarestillepistemologically
+      robustbyvirtueoftheirself-correctingorientationandaccountabilitytoempiricalevidence.
+                                                             
+                                                             
+                                                             
+
+[PAGE 23]
+                                                             
+                                                             
+                                                             
+      1678                         Philosophy and Social Criticism 51(10)
+                                                             
+                                                             
+      Acknowledgements                                       
+      Forhelpfulfeedbackonearlierversionsofthismaterial,IwouldliketothankNicholasAmpt,Glenn
+      D’Cruz,TomHardman,MarkG.E.Kelly,ColinKoopman,EbenNixon-Pope,andmostespecially
+      AndrewInkpin.I amalsogreatly indebtedtotwoanonymousreviewersatPhilosophy&Social
+      Criticism,whosesuggestionshavemadethisamuchstrongerpaper.Openaccesshasbeenenabled
+      bytheCouncilofAustralianUniversityLibrarians(CAUL).Finally,Iacknowledgethatthisarticle
+      was researched and written with the support of an Australian Government Research Training
+      ProgramScholarship (Stipend andFee-Offset).            
+      ORCID iD                                               
+      LeonardD’Cruz https://orcid.org/0000-0002-1508-1566   
+                                                             
+      Notes                                                  
+                                                             
+       1. HackingcorrectlyarguesthatthisisdemonstratedbyFoucault’srevisionandeventualremoval
+         oftheprefaceinsubsequenteditionsofthebookpublishedin1964and1972(Hacking2006,
+         xi). However, it is worth noting that Foucault himself also directly repudiates this view of
+         madness in TheArchaeology ofKnowledge (AK 32).      
+       2. Here,itisworthrecallingthattheoriginalFrenchtitleofTheOrderofThingswasLesmotset
+         les choses,which literally translates as ‘Words andThings’ (MC).
+       3. Although,ofcourse,healsodiscussestheseideasatsomelengthinTheOrderofThings(OT
+         328–340).                                           
+       4. On this point, Foucault is heavily indebted to Deleuze’s reading of Nietzsche as offering a
+         historicaltransformationofKant’scriticalproject(seeKoopman2013,32–34;Deleuze[1962]
+         1986, 73–110).                                      
+       5. However,Foucaultusually maintains hiscritical orientationeven whendealing with natural
+         scienceslikebiology(OT263–279).WhileFoucaultdoesexpressrespectforthescientificityof
+         biology in The Will to Knowledge, his sustained analysis of the discipline in The Order of
+         Things is not concerned with demonstrating how biology came to cross the threshold of
+         scientificity(WK54).Instead,hetakesan‘archaeologicalpointofview’thatisconcernedwith
+         unearthingthehistoricalaprioriofmodernbiologyinauguratedbyCuvier(OT269,274).In
+         this way, it is clear that his approach does aim to work at a deeper level of analysis than
+         historical epistemology, even when dealing with sciences that have crossed the threshold of
+         scientificity.                                      
+       6. While Foucault had not yet thematised power-knowledge when he wrote The History of
+         MadnessandTheBirthoftheClinic,hedidretrospectivelystatethatthesetextsweregrappling
+         withtherelationshipbetweenpowerandknowledgeatatimewhenhewasstillstrugglingto
+         formulatehismethodologyinclearterms(EW3117).Despitethedangerofanachronismthat
+         comeswiththissortofrevisionism,itdoesseemappropriatetounderstandtheinstitutional,
+         political,andeconomicconditionsthatheidentifiesinthesetextsthroughtheprismofpower.
+       7. In this way, he preserves room for the immanent improvement of our epistemic practices
+         through both positive means – such as methodologically rigorous scientific inquiry – and
+         negativeones–suchasgenealogicalscrutiny,whichcanbeusedtoexposedubiousclaimsto
+         scientificity.                                      
+                                                             
+
+[PAGE 24]
+                                                             
+                                                             
+      D’Cruz                                        1679     
+                                                             
+                                                             
+                                                             
+       8. AsKellyrightlynotes,Foucault’suseofthetermtodescribehisownapproachaimstoinvoke
+         thetraditionofFrenchpositivisminauguratedbyAugustusComteandSaint-Simonratherthan
+         thatof‘logicalpositivism’thatismorefamiliartoAnglophonephilosophy(Kelly2009,25–26;
+         EW2 468). Foucault clearly has some affinity with both traditions insofar as he models his
+         methodofhistoricalcritiqueontheself-correctingempiricismofscientificinquiry.However,as
+         Kelly points out, Foucault’s positivism is fundamentally incompatible with the verification
+         principle insofar as he holds that all statements are necessarily value-laden and under-
+         determined (Kelly2009,26–27).                       
+       9. Ofcourse,IdonotmeantoconflatethematerialityofarchivalresearchwithFoucault’stechnical
+         andhighlymetaphoricaldefinitionofthe‘archive’as‘thelawofwhatcanbesaid,thesystemthat
+         governstheappearanceofstatementsasuniqueevents’(AK129).Indeed,Foucault’suseofthe
+         archivalmetaphorissupposedtotracktheorderofdiscursiveruleswithinwhichstatementsgain
+         theirmeaning.Onthismetaphoricalusage,an‘archive’assimilatesnewmaterialintoanexisting
+         collectioninaccordancewithsomeorderingprinciple.However,myownreferencetoarchival
+         researchissupposedtohighlightthefactthatgenealogyisaccountabletohistoricalrecordsin
+         roughlythesamewaythatthenaturalsciencesareaccountabletoexperimentalevidence.
+      10. WhiletheEnglishtextindicatesthatFoucaultwantstopursue‘theprojectofapuredescription
+         of discursive events’, this appears to be a creative liberty taken by the translator (AK 27).
+         Indeed,theoriginalFrenchtextdoesnotcontainanymentionoftheword‘pure’,andinstead
+         merelyspeaksof‘leprojetd’unedescriptiondese´ve´nementsdiscursifs’(AS38–39).However,
+         Foucault does use the French word ‘pure’ when presenting roughly the same idea in his
+         responseto the Cercled’e´piste´mologie (RC 16).     
+      11. There is some ambiguity concerning Foucault’s rejection of ‘interpretation’ during the late
+         archaeologicalperiod.Foucaultwasclearlyopposedtoanyhermeneuticalapproachthattreats
+         theauthor’sintentionsasdeterminingthemeaningofstatements.However,itislessclearasto
+         whetherhethoughthismethodofhistoricaldescriptionwasfreefromanyformofinterpretation
+         whatsoever.Afterall,ina1968interviewwithEsprit,hearguesagainstthepossibilityofan
+         external perspective on discursive practices (FL 42–43). This would suggest that the ar-
+         chaeologistissituatedwithinthesepracticesandthereforemustdrawontheirowninterpretive
+         competencetograspthemeaningofstatements.Inotherwords,thisinterpretivecompetence
+         doesnotdeterminethemeaningofstatements,butitdoesenablethefundamentalunderstanding
+         necessary for describing the meaning of these statements. In this way, Foucault may have
+         alreadyacceptedthatsomeminimalconceptionofinterpretationwasnecessarytoaccountfor
+         hisownsituatednessinthefieldofdiscourse.Atanyrate,thisfeatureofhisworkwasonly
+         properly clarifiedafter his genealogical turn.      
+      References                                             
+      Works byMichelFoucault                                 
+      AK.[1969]1972.TheArchaeologyofKnowledge.TranslatedA.M.Sheridan.NewYork:Pantheon.
+      AS.1969.L’arche´ologie dusavoir. Paris: Gallimard.     
+      BC.[1963]2003.TheBirthoftheClinic:AnArchaeologyofMedicalPerception.Translatedby
+         A.M.Sheridan. London andNewYork: Routledge          
+                                                             
+                                                             
+                                                             
+
+[PAGE 25]
+                                                             
+                                                             
+                                                             
+      1680                         Philosophy and Social Criticism 51(10)
+                                                             
+                                                             
+      DP.[1975]1995.DisciplineandPunish.TranslatedbyAlanSheridan.SecondEdition.NewYork:
+         Vintage Books.                                      
+      EW.1997–2000.TheEssentialWorksofMichelFoucault,1954–1984.EditedbyPaulRabinow.
+         3 Vols.NewYork:The NewPress.                        
+      EW1.1997.Ethics:SubjectivityandTruth.EditedbyPaulRabinow.TranslatedbyRobertHurley
+         etal.Vol.1ofTheEssentialWorksofMichelFoucault,1954–1984,editedbyPaulRabinow.
+         NewYork: TheNewPress.                               
+      EW2. 1998. Aesthetics, Method and Epistemology. Edited by James D. Faubion. Translated by
+         RobertHurleyetal.Vol.2.ofTheEssentialWorksofMichelFoucault.1954–1984,editedby
+         PaulRabinow. NewYork:The NewPress.                  
+      EW3.2000.Power.EditedbyJamesD.Faubion.TranslatedbyRobertHurleyetal.Vol.3ofThe
+         EssentialWorksofMichelFoucault,1954–1984,editedbyPaulRabinow.NewYork:The
+         NewPress.                                           
+      FL. 1989. Foucault Live: Collected Interviews 1961 – 1984. Edited by Sylvere Lotringer. New
+         York:Semiotext(e).                                  
+      FS.2001. FearlessSpeech.EditedbyJosephPearson. LosAngeles: Semiotext(e).
+      HM.[1961]2006.HistoryofMadness.EditedbyJeanKhalfa.TranslatedbyJonathanMurphyand
+         JeanKhalfa. London: Routledge.                      
+      LWK. [2011] 2013. Lectures on the Will to Know: Lectures at the Collège de France 1970–
+         1971andOedipalKnowledge.EditedbyArnoldI.Davidson,DanielDefert,FrançoisEwald,
+         andAlessandro Fontana.Translated byGraham Burchell. NewYork:Palgrave Macmillan.
+      MC.1966. Lesmotset leschoses.Paris: Gallimard.         
+      MIP.[1962]1987.MentalIllnessandPsychology.ForwardbyHubertDreyfus.TranslatedbyAlan
+         Sheridan. Berkeley:University ofCalifornia Press.   
+      OD.[1971]1981.TheOrderofDiscourse.InUnifyingtheText:APost-StructuralistReader.Edited
+         byRobertYoung.Translated byIanMcLeod.Boston: Routledge.
+      OT.[1966] 1994.TheOrderofThings.NewYork: RandomHouse.  
+      PK.1980.Power/Knowledge:SelectedInterviewsandOtherWritings1972–1977.EditedbyColin
+         Gordon.NewYork: Pantheon.                           
+      PP.[2003]2006.PsychiatricPower:LecturesattheCollègedeFrance,1973–1974.Editedby
+         JacquesLagrange,FrançoisEwald,AlessandroFontana,andArnoldI.Davidson,Translated
+         byGrahamBurchell. NewYork: Palgrave Macmillan.      
+      PT. 1996. The Politics of Truth. Edited by Sylvere Lotringer. Introduction by John Rajchman.
+         Translated byLysa HochrothandCatherine Porter.NewYork: Semiotext(e).
+      RC.1968.“Re´ponseauCercled’e´piste´mologie.”In Cahierspourl’Analyse9: 9–40.
+      SMBD.[1997]2003.“SocietyMustBeDefended”:LecturesattheCollègedeFrance,1975–1976.
+         Edited by Arnold I. Davidson, Mauro Bertani, Alessandro Fontana, and François Ewald.
+         Translated byDavid Macey.NewYork: Picador.          
+      WK.[1976]1978.TheWilltoKnowledge.Vol.1ofTheHistoryofSexuality.TranslatedbyRobert
+         Hurley.NewYork: Pantheon.                           
+      Works byOtherAuthors                                   
+      Allen, Amy. 2008. The Politics of Our Selves: Power, Autonomy, and Gender in Contemporary
+         CriticalTheory. NewYork:Columbia University Press.  
+                                                             
+
+[PAGE 26]
+                                                             
+                                                             
+      D’Cruz                                        1681     
+                                                             
+                                                             
+                                                             
+      Allen, Barry. 2010. “Foucault’s Theory of Knowledge.” In Foucault and Philosophy, edited by
+         Timothy O’LearyandChristopher Falzon,143–161.Cambridge: Blackwell.
+      Bachelard, Gaston. [1938] 2002. The Formation of the Scientific Mind: A Contribution to a
+         PsychoanalysisofObjectiveKnowledge.TranslatedbyMaryMcAllesterJones.Manchester:
+         Clinamen Press.                                     
+      Bouveresse,Jacques.2016.NietzschecontreFoucault:Surlave´rite´,laconnaissanceetlepouvoir.
+         Marseille: Agone.                                   
+      Canguilhem, Georges. [1943] 1991. The Normal and the Pathological. Translated by Carolyn
+         R.Fawcett. NewYork: ZoneBooks.                      
+      Canguilhem, Georges. [1983] 2005. “The Object of the History of Sciences.” In Continental
+         Philosophyof Science, edited byGary Gutting, 198–207.Malden: Blackwell.
+      Chimisso,Cristina.2003.“TheTribunalofPhilosophyanditsNorms:HistoryandPhilosophyin
+         Georges Canguilhem’s Historical Epistemology.” Studies in History and Philosophy of
+         Biomedical andBiological Sciences32: 297–327.       
+      Chimisso, Cristina. 2015. “Narrative and Epistemology: Canguilhem’s Concept of Scientific
+         Ideology.”Studiesin History andPhilosophyof Science54: 64–73.
+      Davidson,Arnold.1986.“Archaeology,Genealogy,Ethics.”InFoucault:ACriticalReader,edited
+         byDavidCouzens Hoy,221–233. Oxford:Basil Blackwell. 
+      Debru, Claude. 2004. Georges Canguilhem, Science et Non-Science. Paris: Editions rue d’Ulm/
+         Pressesdel’Ecolenormale supe´rieure.                
+      Deleuze,Gilles.[1962]1986.NietzscheandPhilosophy.TranslatedbyHughTomlinson.Paperback
+         Edition.NewYork: Continuum.                         
+      Descombes, Vincent. [1979] 1980. Modern French Philosophy. Translated by L. Scott-Fox and
+         J.M.Harding.Cambridge University Press: Cambridge.  
+      Dews, Peter. 1992. “Foucault and the French tradition of Historical Epistemology.” History of
+         European Ideas 14,no.3: 347–363.                    
+      Djaballah, Marc.2008. Kant,Foucault, andForms of Experience.London: Routledge.
+      Dreyfus,HubertL.1987.ForewordtoMentalIllnessandPsychologybyMichelFoucault,vii–xliii.
+         Berkeley:University ofCalifornia Press.             
+      Dreyfus,HubertL.,andRabinow,Paul.[1982]1983.MichelFoucault:BeyondStructuralismand
+         Hermeneutics.SecondEdition. Chicago:University of Chicago Press.
+      Elden,Stuart. 2021.The EarlyFoucault.Cambridge: Polity.
+      Fraser,Nancy.1981.“FoucaultonModernPower:EmpiricalInsightsandNormativeConfusions.”
+         PraxisInternational 1,no.3: 272–287.                
+      Fraser, Nancy.1985. “Michel Foucault: A“YoungConservative”.”Ethics 96, no.1: 165–184.
+      Gutting,Gary.1989.MichelFoucault’sArchaeologyofScientificReason.Cambridge:Cambridge
+         University Press.                                   
+      Habermas, Jürgen. [1985] 1987. The Philosophical Discourse of Modernity: Twelve Lectures.
+         Translated byFrederick Lawrence.Cambridge: MIT Press.
+      Hacking,Ian.2002. Historical Ontology.Cambridge: Harvard University Press.
+      Hacking,Ian.2006.ForewordtoHistoryofMadness,byMichelFoucault,ix–xii,editedbyJean
+         Khalfa. London:Routledge.                           
+      Han[-Pile],Be´atrice.[1998]2002.Foucault’sCriticalProject:BetweentheTranscendentalandthe
+         Historical.Translated byEdwardPile.Stanford: Stanford University Press.
+
+[PAGE 27]
+                                                             
+                                                             
+                                                             
+      1682                         Philosophy and Social Criticism 51(10)
+                                                             
+                                                             
+      Han-Pile,Be´atrice.2016.“Foucault,NormativityandCritiqueasaPracticeoftheSelf.”Continental
+         PhilosophyReview 49, no.1: 85–101.                  
+      Kelly,MarkG.E. 2009. ThePolitical PhilosophyofMichel Foucault.NewYork: Routledge.
+      Kelly,MarkG.E.2019.“DiscontinuityinPoststructuralistEpistemology:FoucaultContraDeleuzeand
+         Derrida.”CosmosandHistory:TheJournalofNaturalandSocialPhilosophy15,no.1:324–349.
+      Koopman, Colin. 2013. Genealogy as Critique: Foucault and the Problems of Modernity.
+         Bloomington andIndianapolis:Indiana University Press.
+      Kusch,Martin.2021.RelativisminthePhilosophyofScience.Cambridge:CambridgeUniversity
+         Press.                                              
+      Lecourt, Dominque. 1975. Marxism and Epistemology: Bachelard, Canguilhem and Foucault.
+         Translated byBen Brewster.London:NLB.               
+      Lorenzini, Daniele. 2023. The Force of Truth: Critique, Genealogy, andTruth-Telling in Michel
+         Foucault. Chicago:University of Chicago Press.      
+      Lorenzini, Daniele, and Tiisala, Tuomo. 2023. “The Architectonic of Foucault’s Critique.” Eu-
+         ropeanJournal of Philosophy1–16.doi:10.1111/ejop.12877.
+      Quine, Willard Van Ormand. [1969] 2004. “Epistemology Naturalized.” In Epistemology: An
+         Anthology,edited byErnestSosa, andJaegwon Kim,292–300. Malden: Blackwell.
+      Rorty, Richard. 1986. “Foucault and Epistemology.” In Foucault: A Critical Reader, edited by
+         DavidCouzens Hoy,41–49. Oxford:Basil Blackwell.     
+      Ross, Alison. 2018. “The Errors of History: Knowledge and Epistemology in Bachelard, Can-
+         guilhemandFoucault.”Angelaki 23,no. 2:139–154.      
+      Roth, Paul. 1999. “The Epistemology of “Epistemology Naturalized.”.” Dialectica 53, no. 2:
+         87–109.                                             
+      Talcott,Samuel.2019.GeorgesCanguilhemandtheProblemofError.Cham:PalgraveMacmillan.
+      Taylor,Charles.1986.“FoucaultonFreedomandTruth.”InFoucault:ACriticalReader,editedby
+         DavidCouzens Hoy,69–101. Oxford:Basil Blackwell.    
+      Tiisala,Tuomo.2015.“KeepingItImplicit:ADefenseofFoucault’sArchaeologyofKnowledge.”
+         Journal ofthe American Philosophical Association 1, no.4: 653–673.
+      Vagelli,Matteo.2019.“Historicalepistemologyandthe‘marriage’betweenHistoryandPhilosophy
+         ofScience.”InThePast,Present,andFutureofIntegratedHistoryandPhilosophyofScience,
+         edited by Emily Herring, Kevin Matthew Jones, Konstantin S. Kiprijanov, and Laura M.
+         Sellers,Vol.96–112.London:Routledge.                
+      Webb,David.2013.Foucault’sArchaeology:ScienceandTransformation.Edinburgh:Edinburgh
+         University Press.                                   
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             

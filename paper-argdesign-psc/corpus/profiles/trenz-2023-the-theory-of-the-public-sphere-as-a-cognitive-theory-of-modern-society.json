@@ -1,0 +1,73 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "trenz_2023",
+  "title": "The Theory of the Public Sphere as a Cognitive Theory of Modern Society",
+  "author": "Trenz",
+  "year": 2023,
+  "journal": "Philosophy and Social Criticism",
+
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "Opening by noting that Habermas's public sphere theory (Structural Transformation, 1962) is usually discussed as normative political theory, with contested applicability. Trenz diagnoses an underexplored 'second reading': the theory as a sociological-cognitive account of how modern society creates shared knowledge and drives social change through critical self-reflection. The paper makes this second reading explicit and shows its contemporary relevance.",
+    "anchored_in": ["Habermas", "Arendt (implicit)"],
+    "stakes_claimed": "The theory of the public sphere, read as a cognitive theory of modern society, shows that public sphere principles are simultaneously undermined AND gain new relevance in the context of digitalization and globalization — social learning processes through publicity remain possible even as their conditions transform."
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["purely normative readings of Habermas", "pessimistic digital public sphere theories", "institutional/deliberative approaches that ignore cognitive dimension"],
+    "engagement_structure": "reconstruction_and_extension",
+    "immanent_critique": false,
+    "own_position_type": "reconstruction",
+    "own_position_explicit": true,
+    "description": "The paper reconstructs Habermas's public sphere theory from its cognitive dimension — how publicity creates shared social visibility, enables critical self-reflection, and drives social change. This reading integrates the critical-Marxist (commodification) and emancipatory-institutionalist strands of Habermas interpretation as 'mutually dependent.' The paper then extends this cognitive reading to contemporary digital transformation, arguing that the same principles are both threatened and renewed."
+  },
+
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": ["Habermas's works (Structural Transformation, Between Facts and Norms, subsequent essays)", "secondary public sphere literature"],
+    "interpretive_methods": "Intellectual history and theoretical reconstruction: traces the history of the public sphere concept from Habermas's early work through later developments; reconstructs the cognitive-sociological dimension; extends to digital era through normative argument.",
+    "notes": "References to contemporary digital media (social media algorithms, platform economy) are made at a high level of abstraction as theoretical-normative claims, not as empirical analysis. This distinguishes Trenz from nosthoff_maschewski_2023 and fischer_jarren_2023, which ground their arguments in specific empirical material. Trenz remains at the theoretical-reconstructive level. Classified fully_normative."
+  },
+
+  "case_type": {
+    "has_case": false,
+    "case_medium": null,
+    "case_name": null,
+    "case_function": null,
+    "case_relation_to_argument": null,
+    "case_selection_justified": false
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "public sphere theory / democratic theory / digitalization / social epistemology",
+    "claim_type": "reconstructive_prescriptive",
+    "closure_type": "conclusion_open"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "framework_proposal",
+    "case_development",
+    "normative_derivation",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["cognitive theory of the public sphere", "publicity", "social visibility", "critical self-reflection", "structural transformation (continued)", "digital public sphere", "social learning processes"],
+
+  "thinkers_deployed": {
+    "central": ["Habermas"],
+    "engaged_critically": ["purely normative readings of Habermas", "pessimistic digital public sphere accounts"],
+    "referenced_only": ["Arendt", "Fraser", "Dahlgren", "Castells"]
+  },
+
+  "confidence_notes": "A theoretical companion to the other public sphere papers in the PSC 2024 Vol.50(1) special issue (brunkhorst, fischer_jarren, nosthoff_maschewski, kempf_2023, kempf_sevignani). Trenz operates at the highest level of abstraction — reconstructing the theoretical architecture of Habermas's public sphere theory rather than applying it to empirical cases. Classified fully_normative because the contemporary extension (digitalization) is handled through normative theoretical argument, not empirical analysis. Compare to kellner_2024 (another fully normative Habermas reconstruction in PSC)."
+}

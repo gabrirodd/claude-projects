@@ -1,0 +1,1091 @@
+[PAGE 1]
+                                                             
+                                                             
+                                                             
+                                                             
+      Article                                                
+                                                             
+                                         PhilosophyandSocialCriticism
+                                         2025,Vol.51(9)1491–1511
+      Jean Ame´ry  and  the time of                          
+                                         ©TheAuthor(s)2023   
+      resentment                                             
+                                         Articlereuseguidelines:
+                                         sagepub.com/journals-permissions
+                                         DOI:10.1177/01914537231215674
+                                         journals.sagepub.com/home/psc
+      Ilit Ferber                                           
+      TelAvivUniversity,Israel                               
+      Abstract                                               
+      The article provides a close reading of Jean Ame´ry’s essay, ‘Resentments’ from the
+      perspectiveoftemporality.Althoughfirmlygroundedinaspecifichistoricalandpolitical
+      context(Ame´ry,aHolocaustsurvivor,reflectsontheaftermathofhisexperiencesduring
+      the war), I argue that this essay offers valuable insights into Ame´ry’s philosophy of
+      temporality.AfterestablishingthecontextandstructureofAme´ry’s‘Resentments’,the
+      article delves into a discussion of the temporal aspects found in the text: (1) Delay: the
+      emergence of resentments and their connection to trauma. (2) Eternal Recurrence:
+      Ame´ry’s critique of Nietzsche, along with surprising interconnections between their
+      ideas. (3) Natural Time and Forgiveness: Ame´ry’s critique of the temporal structure of
+      forgiveness and the morally questionable prioritization of the future over the past. (4)
+      Moral Time and the Irreversible: the distorted temporal structure of resentments, and
+      Ame´ry’s thought-provoking exploration of the phantasy of time’s reversibility. (5) The
+      Future:Ame´ry’sdirectaddresstotheyoungGermansandhisunexpectedsuggestionon
+      how they should treat their past and history, emphasizing responsibility rather than
+      blame, as the key their past provides for the possibility of their future.
+      Keywords                                               
+      Jean Ame´ry, resentment, temporality, Holocaust, Nietzsche, justice, responsibility
+                                                             
+                                                             
+      Introduction                                           
+                                                             
+      ‘Itwasoverforawhile’,wroteJeanAme´ryin1966,‘Itstillisnotover.Twenty-twoyears
+      laterIamstilldanglingoverthegroundbydislocatedarms,panting,andaccusingmyself.
+      In such an instance there is no “repression.” Does one repress an unsightly birthmark?
+      Onecanhaveitremovedbyaplasticsurgeon,buttheskinthatistransplantedinitsplace
+                                                             
+      Correspondingauthor:                                   
+      IlitFerber,Philosophy,TelAvivUniversity,P.O.B.39040,TelAviv6997801,Israel.
+      Email:iferber@tauex.tau.ac.il                          
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+      1492                         Philosophy and Social Criticism 51(9)
+                                                             
+                                                             
+      isnottheskinwithwhichonefeelsnaturallyatease’(ML,36).1Afterhisreleasefromthe
+      Bergen-Belsenconcentrationcampin1945,Ame´ryreturnedtohispriorlifeasajournalist
+      and essayist, married, won several literary prizes and even helped efforts organized by
+      volunteers to collect used children’s clothes to be sent to impoverished Germany (R,
+      65[123]).2Formorethan20yearshecarriedhisbirthmarkinsilence.Hedidnotspeakor
+      writeabouthishorribleexperiencesinthecamps,theterriblehungerandlossoftrust,or
+      thecruelNazi‘torturerspecialist’Praust,whowasresponsibleforhisbeatinguptothe
+      pointwhenhelostconsciousness.ButAme´ryneverforgot,andheneverforgave.During
+      thesetwodecadesofsilence,Ame´ry,inhisownwords,had‘beeninsearchofthetimethat
+      was impossible to lose’ Then, ‘suddenly everything demanded telling’ (ML, xiii).
+        Wecanexplainhisperiodoflongspeechlessnessintermsoftrauma,ofthedifficultyof
+      facingwhatcannotbeexperiencedbutdidindeedhappen.WecouldsaythatAme´rycould
+      notcopewithandwork-through histerribleandunbearablememories,oreven,thathis
+      silencewasaformofavoidanceorinhibitionthatservedasadefencemechanismagainst
+      thepainofremembering.ButforAme´ry,thepointlieselsewhere.Itisnotabouthimself
+      andhisownirreparablesoul,thatofavictimtoodamagedtoconfronthismemories.The
+      decisiontowriteafterhislongsilencewas,ratherandperhapssurprisingly,aresolution
+      thathadtodowiththeworlditselformoreaccurately,withwhathadbecomeofitwiththe
+      passageoftime.Itwasadecisiontofacethisworldthathad,intimeandonemightsayin
+      haste, moved forward, withadisturbingmixture offorgetfulness and indifference. This
+      moving-forward, forgetting and in some cases also forgiving, was for Ame´ry a critical
+      juncture,themomentinwhichhehadto–finally–speak.Buttospeak,forAme´ry,wasto
+      sustain – not abandon or even soften – the resentments he felt. Ame´ry is not trying to
+      ‘overcome’thetrauma by speaking about it (indeed, he writes from thevery beginning
+      that he is a man who was already and irreparably overcome by it), nor does he want to
+      argueforacollectiveguiltonpartoftheGermans.Hisaimis,rather,topresenthisreaders
+      withapointofviewthatmightatfirstseemcounter-intuitive.Ame´rydefendsresentments.
+      Itisonlythelogicofresentmentswithwhichonecanfacetheworld,canmakesenseand
+      canprovidehimwithatruthfulandhonest,evenifuncomfortable,stancetotake.Thisisa
+      personalstance:thevictim–andonlythevictim–hasaccesstothesolegenuinemoral
+      compass:‘OnlyIpossessed,andstillpossess,themoraltruthoftheblowsthateventoday
+      roarinmyskull,andforthatreasonIammoreentitledtojudge’(R,70[131]).Ame´ry’s
+      intentionisnottoconvince,heratherthrowshiswordsblindly‘ontothescale,whateverit
+      may weigh’ (R, 72 [134]). This ‘weigh’ turns out to be nothing less than a radical
+      suggestion that resentments should be viewed as moral rather than a pathology or
+      weakness.                                              
+        ‘Resentments’isthefourthessayinAme´ry’sAttheMind’sLimits[JenseitsvonSchuld
+      undSühne],publishedin1966.Inthefivechaptersofthisbook,Ame´rygivesanaccount
+      ofhisexperiencesduringthewarwhichhadremainedforhimunchangedovertheyears,
+      asiffrozenintime.Hespeaksaboutlifeinthecamps,hisexperienceoftorture,thelossof
+      hishomelandanditsimplications,hiscomplexrelationshipwithhisJewishidentity(for
+      himbotha‘necessity’andan‘impossibility’)andfinally,whatIwilldevotetherestofthe
+      articleto,adescriptionand,morecrucially,adefenceoftheresentmentshefeelstowards
+      hisperpetrators.Althoughheplannedanessayisticstudyinwhichhewouldcompletely
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+      Ferber                                        1493     
+                                                             
+                                                             
+      avoidusingtheword‘I’,whilewritingherealizedthatthefirst-personvoiceistheonly
+      possiblestartingpointforhisdiscussion(ML,xiii).Theresultisauniquecombinationof
+      apersonalconfessionandaphilosophicalmeditation,atexthedescribesinaletteraswhat
+      canonlybewritten‘incompletehonesty,ornotwrittenatall’.3ThisisprobablyAme´ry’s
+      mostdiscussedtextinthesecondaryliterature,andhasreceivedmuchscholarlyattention
+      mainlyduetoitsphilosophicalweighanditsrelevancetocontemporaryhistoricalissues
+      relatedtoquestionsofreconciliation,forgivenessandthepossiblevalueofresentments.
+      Althoughtomymindthisisaverypersonaltext,perhapsthemostpersonalinthebook,it
+      is true that Ame´ry’s philosophical framing of the problem of resentments extends a
+      generous invitation for interpretation. Owing to the abundance of interpretations of the
+      text, I allow myself to focus on my own point of entry into it.
+        ‘Resentments’exemplifieswhatItaketobethenexusofAme´ry’sworkasawhole:his
+      uniqueconceptionoftemporality.InallofAme´ry’stexts(includingthoseonoldageand
+      suicide, philosophy, politics and film), there is a clear backbone of temporality and an
+      exhaustiveexaminationofthedifferentformsinwhichweexperiencetimeandconceive
+      it philosophically. Instead of proclaiming the unity or unifying effect of time, which he
+      associates with the biological, natural flow of time that we traditionally perceive as a
+      sourceofconsolationandapromiseofafuturetocome,Ame´ryinsistsonemphasizingthe
+      temporalconfigurationsthatareallgovernedbydistorted,fissuredstructures,whichlack
+      continuity and succession providing us only with an excruciating circularity.
+        My emphasis on Ame´ry’s conception of temporality unites the two dominant inter-
+      pretative orientations of his work, often conceived of as mutually exclusive. The first
+      perspectivealignswithholocauststudiesandresearchontrauma,where‘Resentments’is
+      readfromthestandpointofAme´ry’sautobiography,hisexperiencesinthecamps,torture
+      and exile. This approach emphasizes his unique writing style combining personal yet
+      distanced prose. These scholarly works usually adopt an interpretative perspectives in
+      whichAme´rystandsasanexemplarycaseofautobiographicalwritingbyatraumatized
+      survivorwhosewritingsarenotonlyconfessional,butalsoharbourimportanttheoretical,
+      psychological, political and moral implications, regarding resentment as an exemplary
+      moral emotion.4.                                       
+        The second interpretative orientation takes a more philosophical perspective, from
+      which Ame´ry’s essay is read as arigorousmoralaccount or defence of resentments, its
+      relation to justice, revenge and the impossibility of forgiveness or reconciliation, con-
+      sidered philosophically and not psychologically. Another hallmark of the philosophical
+      readings of Ame´ry is the tendency to consider him together with other philosophical
+      figures, elucidating his work by way of its affinities, or sometimes oppositions to other
+      philosophers, in the case of ‘Resentments’ this is usually Nietzsche.5
+        By focussing on temporality in my reading of ‘Resentments’ I bring the two afore-
+      mentioned interpretative orientations together and aim not to overlook the autobio-
+      graphical and personal realm, but at the same time, to extract from it its philosophical
+      significance. Inwhat follows, Iwill spotlightthetemporal aspects andmodelsfound in
+      ‘Resentments’, emphasizing the different ways in which Ame´ry illuminates the ‘mad’,
+      twistedanddis-orderedtimeofresentments.Iwillthereforestructurethetextaroundthe
+                                                             
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+      1494                         Philosophy and Social Criticism 51(9)
+                                                             
+                                                             
+      following temporal structures: delay, eternal recurrence, natural time and forgiveness,
+      moral time and the irreversible, and finally, the future.
+                                                             
+      Delay                                                  
+      ‘Resentments’ begins with an intriguing description of a delay. This is, however, not a
+      simpleputting-offorpostponingofwhatAme´ryknewhehadtospeakof.Itisnotthekind
+      ofhinderingthatcanbeascribedtothedifficultytoconfronttraumaticevents,aformof
+      repression where the defence mechanism forces the trauma to remain harboured and
+      protectedwithin.Ame´rydescribesadelayofaveryspecificstructure,onethatemerges
+      suddenlyandinasinglemoment,almostinaflash,andispertinenttohisrelationshipwith
+      the world around him from that point onwards.          
+        Intheyearsafterthewar,Ame´ryreports,hefelthimselftoberelatively‘atease’.As
+      muchasthisphrasingmightsoundinappropriate,Ame´rydoesnotascribethisfeelingto
+      an overcoming of his traumatic experiences during the war (nowhere is such an over-
+      comingtobefoundthroughouthisworks),butrather,toafundamentalfeelingofright-
+      mindednessandanequivocalstabilityofhisidentity.Hefelttolerablyintact,describinga
+      stable,almostsensibleandrealisticattitudethathadtodonotsomuchwithhisrelationto
+      hispastexperiencesandmemories,asitwasassociatedwiththewayhefoundhimselfin
+      theworldandinitssolidaritywithhim.Inatonethatisscarcelyfoundelsewhereinhis
+      writings,Ame´ryfeelshimself‘seen’bytheworld:despitetheclearallusiontohimselfasa
+      ‘resurrected’andaskeletonthatwasrevivedwithAmericancornedbeefcans;hewasalso
+      treatedasa‘hero’.Germanywasthenperceivedbytheworld(andnotonlybyitsvictims),
+      asanobjectofhatethatcrystalizedintocontempt,andwasregardedasalandthatshould
+      ‘live,butnomorethanthat’(R,65[122]).Thecollectiveguiltthatwasinsinuatedinthese
+      viewswasnotentirelyacceptedbyAme´rybutheconfesseshedidn’tminditespecially:
+      ‘Letcollectivecrimeandcollectiveguiltbalanceeachotherandproducetheequilibrium
+      of world morality [mochten sich die Waage halten und das Gleichgewicht der Weltsit-
+      tlichkeitherstellen]’(R,65[122-123]),hewrote.Foradesperatelyshortwhileandforthe
+      firsttimeinhislife,Ame´rywasexactlywhathewas(R,64[122]):intune[gestimmt]with
+      public opinion (R, 65 [123]) and feeling a ‘mutual understanding’ [im wechselseitigen
+      Einversta¨ndnis]betweenhimselfandtherestoftheworld(R,64[122]).Thisfeelingof
+      accord and agreement preserved Ame´ry in a state devoid of resentments: there was no
+      possibility nor reason for it. This euphoria, however, did not last long.
+        Ame´ry’s transformation occurred on a train. It occurs in a mundane and almost
+      marginal moment: he is riding the train, picks up a random newspaper and browses
+      through it almost absentmindedly, when he finds a letter to the editor, written by an
+      anonymous German. Three lines of this letter are enough to completely transform
+      Ame´ry’s feeling of safety and stability into sheer anger and a complete absence of
+      absolution:‘Germanywillbecomegreatandpowerfulagain.Hittheroad,youcrooks’,
+      the man wrote in the letter. To Ame´ry, these words sounded like a complete discord. ‘I
+      heard a German voice that sounded different from the way I believed it was obliged to
+      sound for a long time to come: remorseful’ (R, 66 [124]). The acoustic metaphor is
+      important here: from a state of harmony with the world, he is thrust into a cacophony.
+                                                             
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+      Ferber                                        1495     
+                                                             
+                                                             
+      Insteadofremorse,thereiscomplaint.Ratherthanbeingagradualprocess,thetransition
+      fromharmonytodissonanceisimmediate,almostabrupt.Thismomentonthetrainhas,
+      moreover,somethingcounter-intuitivetoit:thetriggerforthediscordandinturn,forthe
+      emergenceofAme´ry’sresentments,doesnotstemfromhisown,secludedandtormented
+      self or lies in the relationship with his past. Instead, it arises from the recasting of his
+      relationship with the world, a world that was until that moment in complete agreement
+      with him and is now suddenly exposed in its utter foreignness. Furthermore, what we
+      wouldperhapsexpecttobetheobjectofhisresentments–namely,theGermanatrocities
+      duringthewar–isreplacedbytheworldthathas,intime,learnedtoacceptthem.Toputit
+      intemporalterms:Ame´ry’sresentmentsaregeneratednotbyhispastbutbyhispresent;
+      not by the German wrongdoers, but by his contemporaneous world.6
+        Theletterexposedinabrutallightthatinsteadoftakingresponsibilityfortheircrimes,
+      theGermansperceivedthemselvesasvictimswho(also)sufferedinthebattlefield,whose
+      houseswere(also)bombedandwerethemselvesunfairlyblamedforitinwhat,asAme´ry
+      describesit,wasawarthatdismemberedtheircountry.NotonlyhavetheGermanscast
+      themselvesasvictims,strugglingtoovercometheirowntraumas,buttheyalso‘bearno
+      grudgeagainsttheJewishpeople’(R,67[125]),asonefriendlybusinessmantoldAme´ry
+      overbreakfast.ThisiswhatW.G.Sebalddescribedasa‘conspiracyofsilence’.7Buteven
+      more than Germany itself, it was the world itself that sought to move forward, to
+      overcomeandleavetheatrocitiesofthepastbehind.ForAme´ry,thisdissonanceisnotso
+      muchaproblemofjusticeorevenfairness;itisaquestionofidentity:hisownaswellas
+      Germany’s.Theharmonyhefeltwiththeworldinthebeginningofthetextistransformed
+      into a dissonance, where one musical note stands out, just like Ame´ry’s own ‘raised
+      finger’ in the ‘midst of the world’s silence’ (R, 78 [143]). This stands not only on the
+      backgroundofhisconvertedenemies,butalsoinrelationtohisfellowvictims,whoare
+      now, like the rest of the world, rushing towards forgiveness or reconciliation.
+        Ame´ryexpoundsonhisexperienceofdissonanceasfollows:‘IthoughtthatIwasright
+      inthemiddleofcontemporaryrealityandwasalreadythrownbackontoanillusion[Ich
+      wahntemichmitteninderWirklichkeitderZeitundwarschonzuruckgeworfenaufeine
+      Illusion]’ (R, 66 [123–124])]. It is significant to linger on the German original here.
+      Ame´ry’suseof‘wa¨hnen’doesnotrefermerelytohavingoneopinionoranother(about
+      one’s whereabout, in a wide sense) but is strongly linked to knowing something for
+      certain,tobesureaboutit.Inthatsense,Ame´ry’sfeelingofbeinginaccordwiththeworld
+      wassimultaneouslyafeelingofsafetyandbelonging,andnotonlyaconfidencerelatedto
+      factual knowledge. The continuation of the sentence is crucial: this feeling of safety is
+      associated here with the ‘reality of time’ – Wirklichkeit der Zeit – namely, what Ame´ry
+      takestobeherethetruenatureoftime,inthesenseofbeingintunewithit,findingoneself
+      in it. But it is also pertinent to the fact that this ‘being true’ is transparent, almost in-
+      tangible, until it is suddenly cracked open, for instance, when reading a letter in an
+      arbitrary newspaper on a train. Again, there is no gradual process here, but rather, a
+      sudden coup in which one finds himself at the edge of a terrifying open abyss. This is
+      similar to the way in which the delay of resentments is only revealed to us when it is
+      already in its full blossom, when it’s too late to go back.8
+                                                             
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+      1496                         Philosophy and Social Criticism 51(9)
+                                                             
+                                                             
+        Inthesecondpartofthesentence,Ame´rymakesclearwhatisforhimthecontrastof
+      thetruthoftime: illusion,andmoreprecisely,beingthrownfromthesafetyofbeing in
+      accordwithtime,totheillusionofbeingcompletelyoutsideofit,distortedinandwithit,
+      finding out too late that he can no longer unfetter himself from the grip of time’s
+      convulsion. What will become the signature of this essay – the distorted structure of
+      time–appearsalreadyhere,attheessay’sverybeginning.Inthemidstofthefeelingof
+      safetyandaccord,Ame´rysuddenlyfindshimselfconfinedbyanillusionwithwhichhe
+      wasdupedfor20years,unabletograspthetrueworkingsofthepolitical‘worldclock’in
+      yetanothertemporalmetaphor(andnot‘politicalwinds’astheEnglishtranslationhasit)
+      [Was die politisdie Weltuhr wirklich geschlagen hatte], whose ticking marks the dis-
+      sonanceofthefuturetocome(R,65[123]).Itisnowthatthemaskistornopenand,likea
+      Russiandoll,anewtrapisdivulged:withouthimnoticingit,theworldhasalreadybegun
+      tomoveforward,whilehewasleftbehind,nolongersynched,stuckinthemuddyground
+      ofhispast,thatnowservedasthefertilesoilforthecultivationofhisresentments.This
+      sets the stage for the transformation of harmony into the monstrosity of time that will
+      continue to occupy the rest of the essay.              
+      Eternal recurrence                                     
+      Weareaccustomedtothinkofresentmentsthroughacriticallens.Resentmentstrapusin
+      theirowncircular,repetitivemovement,enclosingusinacontinuumfromwhichthereis
+      noescape.Weare,ineffect,trappedintime,orinoneofitssegmentsthatkeepsrecurring.
+      Resentmentshaveawayoflockingusintheconfinesofourownaffliction,thathaslong
+      transcendedthepainofthespecificwrongdoingandwastransformedintoageneraland
+      all-encompassingfeelingofragethathasnowayout.Whenweareresentful,webecome
+      bitter, spiteful and obsessed with the past wrong that was inflicted on us, forever con-
+      sumed by the tormenting imbalance between the crime and the complete absence of
+      punishment.Resentmentis,however,notafeelingidenticaltorageatutterinjustice,nor
+      does it lead to acts of vengeance or retribution. This is one of the reasons we resent
+      resentments:theyarepassive,reactiveandpoisonous.Theexplicitoriginofthisreactive
+      characterization of resentments is Friedrich Nietzsche.9
+        Ame´ryindeedpresentshisaccountofresentmentsonthebackgroundofNietzscheand
+      within an explicit polemic with the latter’s ideas. Following Nietzsche, Ame´ry uses the
+      French ressentiment in order to differentiate it from resentment. Nietzsche condemns
+      ressentimentforitsutterreactivityandpassivity.IntheGenealogyofMorals,totakeone
+      prominentexample,heidentifiestheoriginsoftheimaginary‘slaverevolt’intheinability
+      toact,ormoreexplicitly,toactivelyavenge.Insteadofexecutingtheirangerandfeeling
+      ofinjustice,theweakandpassivechooseresentments.Theymightimaginerevenge,he
+      explains,butneverdaretoexecuteit.10Itisforthisreason,thatforNietzscheresentment
+      becomes such a central emotion, one that forms the strong basis, as well as dangerous
+      whirlpool, of herd-morality. The weak choose reactivity over activity and believe that
+      everyone have to be enslaved equally, or equally suffer the same injustices society
+      imposes on them. They are therefore, according to Nietzsche, able to constitute their
+      identityandmoralvirtueonlybynegatingtheother,andneverbyaffirmingthemselves.
+                                                             
+                                                             
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+      Ferber                                        1497     
+                                                             
+                                                             
+      Slave morality is hence an embodiment of every possible negation of life, activity and
+      self-affirmation. Conversely, the capacity to forget and ‘let go’ are signs of health and
+      often of nobility.11                                   
+        Contrary to Nietzsche, Ame´ry defends his resentments passionately. He describes
+      himself,withasomewhatironicandbittertone,asholdingslavemorality,ora‘morality
+      oflosers’asheputsit,howeverforhim,thisisnoweaknessbutrathertheonlypossible
+      moralchoice(R,81[148]).ForAme´ry,resentmentsstandatthecentreofmoralityassuch
+      andare,asHeydputsit,‘theauthenticindicationofhonestyandmoralintegrity,thetrue
+      signofpersonalnon-conformityandpowertoescapetheherd’.12Theystandfortheonly
+      possible moral stance, one which does not surrender to the life-force of forgiveness or
+      overcoming(whichinNietzschegotogetherwiththe‘overman’)andcourageouslyfaces
+      the suffering induced by evil, without ever turning away from it. Ame´ry’s relation to
+      Nietzsche, however,doesnotbegin andendwithhisexplicitcritiquein‘Resentments’.
+      Although he is very critical of what he takes to be Nietzsche’s binary and flat view, he
+      neverthelesskeepsanopendiscussionwithhimandreferstohimseveraltimesinthetext,
+      includingthewonderfulsentence‘themanwhodreamedofthesynthesisofthebrutewith
+      thesuperman must be answered by those who witnessed the union ofthe brute and the
+      superman’(R,68[127]).13Oneofthemostinterestingexamplesofthesurprisingrapport
+      between the two thinkers is found in Nietzsche’s image of the ‘eternal recurrence’.
+      Interestinglyenoughanddespitetheobviousscholarlyinterestintherelationshipbetween
+      the two thinkers, the existing literature about it does not address this image, whose
+      significance to the understanding of Ame´ry’s position is no less important than the
+      discussion of ressentiment in the Genealogy, especially insofar as temporality is
+      concerned.                                             
+        Nietzsche’s idea of the ‘eternal recurrence’ embodies one of his boldest attempts to
+      present the strength inherent to self-affirmation and its essential connection with the
+      underminingofanypossibilityofaTheodicy.AttheendofTheGayScience,Nietzsche
+      famously describes a thought-experiment, narrated using a second-person voice, ad-
+      dressedto‘you’,namely,thereader.Inthisexperiment,ademonappearsandposesthe
+      questionofthepossibilitythat‘thislifeasyounowliveitandhavelivedityouwillhave
+      toliveonceagainandinnumerabletimesagain;andtherewillbenothingnewinit,but
+      everypainandeveryjoyandeverythoughtandsighandeverythingunspeakablysmallor
+      great in your life must return to you, all in the same succession and sequence […] The
+      eternal hourglass of existence is turned over again and again, and you with it, speck of
+      dust!’.14Howwouldweanswer?Nietzscheasks.Wouldweaccepttheever-recurrenceof
+      thislifewitheverypainandjoyinit,orwouldwethrow ourselvesdownandcursethe
+      demon for posing such a question? Nietzsche then refers the unimaginable strength
+      entailed in accepting the demon’s test which he describes as a ‘tremendous moment’
+      whoseabsoluteacceptanceisontheonehanddivine,yetontheother,willalso‘transform
+      and possibly crush you’.15                             
+        It is here that the connection between Nietzsche’s thought-experiment and Ame´ry’s
+      account of resentments becomes clear. Despite his explicit critique of Nietzsche’s res-
+      sentiment,thelatter’seternalrecurrencecomesveryclosetoAme´ry’sbeingcapturedin
+      the eternal recurrence of resentments. In what is similar to the temporal structure of
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+      1498                         Philosophy and Social Criticism 51(9)
+                                                             
+                                                             
+      trauma,life–andinAme´ry’scase,onestretchoflife–returnsandrecursagainandagain.
+      Thereisnowayout,andthiseternalrecurrenceindeedandmostclearly,‘crushes’Ame´ry.
+      AsmuchasforNietzscheressentimentsareexemplaryofweakness,theacceptanceofthe
+      demon’spropositionisamomentofunmatchedstrength.InAme´ry,interestingly,thetwo
+      converge.Theinsistencetodefendhisresentmentsembodiesthemoralstrengthandtruth
+      hefindsinthem,andinthemalone.WiththishecomesexceedinglyclosetoNietzsche:
+      for both, the trap of eternal recurrence is one we take (or should take) upon ourselves
+      actively,itisanactofstrengthandself-affirmation.ForbothAme´ryandNietzsche,the
+      choicetoembracethedemon’schallengeisamarkofthehighestformofmorality,one
+      thatdemandsusofahighpricebutisatthesametimeintegraltotheonlyproperlifeto
+      live. In an uncanny mirror image, Ame´ry is caught in precisely this movement of re-
+      currence, however, unlike Nietzsche’s perspective of strength and affirmation, Ame´ry’s
+      experienceisoneofterrible,recurringandunendingsuffering.16Thereis,however,one
+      important difference. As Susan Neiman has shown, there is something essentially pre-
+      HolocaustinNietzsche’sexperiment:afterAuschwitz,suchademandcannolongerbe
+      posed,letaloneaccepted.17TothisIadd,thatinAme´ry’scase,thecontinuousexperience
+      of wrongdoing must be considered in the context of evil as thereby, of others. In
+      Nietzsche’scase,thediscussionis,moreconfined,andhastodowithanenclosedspace
+      between man and himself.18                             
+      Natural time and forgiveness                           
+      Onthebackgroundofthiscustomaryviewofresentments(shapedstronglybyNietzsche’s
+      account), forgiveness and reconciliation are typically regarded as the nobler and more
+      virtuous reactions to a wrongdoing. Forgiveness implies the ability to overcome, not
+      allowing the event and the perpetrator to dominate our lives and memories. If the
+      Nietzscheaneternalrecurrenceisanexpressionoftheaffirmationoftheindividual,then
+      forgiveness marks an affirmation of a somewhat different kind: that of society and the
+      beliefinitssystemofjusticeanditsabilitytoleavethepastbehindandmovetowardthe
+      hopeinherentinthefuture.Viewedthisway,forgivenesshastodowiththe‘natural’flow
+      oftimethatwebelievewillhealourwoundsanddullthepainwefeel.Butmorethanit
+      involvestheperpetratorstowhomourforgivenessisgranted,forgivenessisawaytodo
+      goodtoourselves:thoseforgivingturntheirbackstothepastandchoosetogivepriority
+      tothefuture’sopen-endednessratherthantotheimpasseofthepast(R,69[129]).Bishop
+      JosephButlerwasthefirsttoexplicitlylinkresentment(andrevenge)toforgiveness,and
+      his work remains a foundational reference in all subsequent discussions of this rela-
+      tionship. In his sermons, he contextualizes the discussion within the fundamental im-
+      perfection of the world (in this sense, his discourse is much wider than Ame´ry’s) and
+      presents various human responses to these imperfections, with reconciliation being his
+      ultimategoal.Inanimperfectworldfilledwithwrongdoingsandsuffering,Butlerargues
+      thatmanmustfindawaytoreconcilewithit.Whileresentmentmightseemconstructive
+      orevenreasonableattimes,itisforgivenessandreconciliationthatoneshouldstrivefor.19
+        Inthiscontext,Ame´rydefinesforgiveness,andwithitthefuture,asthemost‘genuine
+      humandimension’(R,68[128]),thatweusuallytreatnotsimplyasatemporalindication
+                                                             
+                                                             
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+      Ferber                                        1499     
+                                                             
+                                                             
+      butmoreimportantly(andproblematically)amatterofvalue:‘Futureisobviouslyavalue
+      concept[Wertbegriff].Whatwillbetomorrowismorevaluablethanwhatwasyesterday.
+      Thatishowthenaturalfeelingfortimewillhaveit’(R,76[139]).ButAme´ryimportantly,
+      deems forgiveness to be immoral. This is the critical point: the human dimension, the
+      naturalperspectivethatcastsitseyeonthefutureandthevalueofpotential,ratherthan
+      that of past destruction, stands in stark contrast to what Ame´ry takes to be the only
+      possiblemoralstance(R,72[133]).Resentmentissoinvestedinthepast,thatthefuture
+      appearscompletelyblockedtoit(R,68[128]).Itisunabletoturnawayfromitandisfixed
+      onpastinjusticessostronglythatitwasasifittakesitselfcompletelyoutoftime,orits
+      time-sense [Zeitgefühl] is ‘twisted around, dis-ordered’ [verdreht, ver-rückt] (R,
+      68[128]).Resentmentsleadusintoatrap:Ifwhatisgenuinelyhumanisthefuture,then
+      resentments are inhuman. Conversely, if, according to Ame´ry, resentment is the only
+      possible moral justifiable stance, then the only reasonable (yet inherently paradoxical)
+      conclusion is that being human and being moral are not concomitant.
+        Ame´ryuses anexceedingly critical, evenscornfultone when speakingof those who
+      believeinthenaturalpowerofthetime’spassage,aviewmodelledontwodifferentyet
+      correspondingconceptions.Thefirstisthephysiologicalprocessesatworkwhenwounds
+      heal.Inthismodel,weshouldallow‘whathappenedtoremainwhatitwas’,notintervene
+      with the natural flow of time, and go by the saying that time heals all wounds (R,
+      71[132]).Thesecondmodelisthesociallogicoftime,thataccordingtoAme´ry,putsthe
+      future,progress,overcomingthepastandleavingwrongdoingbehind,atitsmainfocus.
+      Those who go by such logic, are quick to forgive and they do so ‘lazily and cheaply’,
+      subjugatingthemselvestosociallogictherebyconceivingthemselvesnotasindividuals,
+      butrather,asmerefunctionsofthesocialstructure.AccordingtoAme´ry,societyelevates
+      the goal of its continued existence over all other values, and is ‘occupied merely with
+      safeguardingitselfandcouldnotcarelessaboutalifethathasbeendamaged.Atthevery
+      best, it looks forward, so that such things don’t happen again’ (R, 70 [131]). Ame´ry’s
+      descriptionofthosewhowaivetheirownidentityforsuchcommoninterestsisfarfrom
+      gracious. They are insensitive, indifferent, dissolve their individual identity and incor-
+      porate themselves, in the moral sense, into the consensus of society (R, 70-71 [131]).
+      Their sentiment that time heals all wounds, is completely oblivious to the cost of such
+      healing.Theircharacterisnotextramoralbut‘antimoral’[widermoralischen],hewrites
+      (R,72[133]).Tosay,astheydo,that‘whathappened,happened’,isforAme´ryhostileto
+      morals as well as to the intellect (R, 72 [133]).      
+        Ame´ry’sownviewmarksthecompleteopposite.First,oneshouldnotonlydoubtand
+      challenge the logic of the healing power of natural time, but also actively stop such
+      processes.Second,inthecontextofhiscritiqueofsocialtime,manhas‘therightandthe
+      privilegetodeclarehimselftobeindisagreementwitheverynaturaloccurrence,including
+      thebiologicalhealingthattimebringsabout’(R,72[133]).Inotherwords,humanbeings
+      are distinguished precisely by their ability to struggle against the passing of time; re-
+      sentmentsmark thetenaciousyethopelessrevoltagainst time’s passage andits natural,
+      correctiveeffects(R,72[133]).Itisthemostdesperate,butatthesametime,mosthuman
+      formofrevolt,onethatprovidesagloomymirrorimageofmypreviousclaimaboutthe
+      impossibility ofconcomitant between themoral andhuman. Hopeless revolt(or ‘revolt
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+      1500                         Philosophy and Social Criticism 51(9)
+                                                             
+                                                             
+      andresignation’,toborrowthesub-titleofAme´ry’sbookonageing)isrevealedtobethe
+      onlywayinwhichwecanbehumanandmoralatthesametime.Thosewhobelieveinthe
+      naturalandsocialmodeloftemporalitydonotpossesshisobsessiveandconsuming,dis-
+      ordered feeling of time. Theirs is straight and obeys a certain reality-principle; his is
+      twisted and distorted. Theirs is natural, his is moral.
+        Although Ame´ry’s argument regarding natural and moral time is one of the most
+      relevant aspects of my examination of his conception of time, his discussion of for-
+      giveness remains undeniably constrained and lacks depth. Most importantly, the binary
+      structureAme´rysetsupbetweenresentmentandforgiveness,canbemisleading.Itisnot
+      onlyresentment,butforgivenesstoo,thatremainsanchoredtothepast,deeplyimmersed
+      init.Inbothcases,thereexistsadesiretoturnbacktime,anaspirationthatisevidently
+      unrealistic. Thus, it would be inaccurate to simply position forgiveness as a forward-
+      looking stance toward a clean-slate future or being invested in potential rather than
+      impossibility.Thosewhochoosetoforgive,donotwipeoutthepastforthesakeoftheir
+      future, as Ame´ry portrays them. Instead, they wholeheartedly acknowledge the irre-
+      versibility of the past and choose to master their own response to it. Ame´ry fails to
+      recognize forgiveness too, shares a sense of respect for the past.20
+        Ame´ry’sargumentcentersnotsomuchontheimpossibilitytoforgive,butratheronthe
+      moralimportanceoftherefusaltodoso.Suchrefusalisastrongmoralstance,entailinga
+      willingnesstopaythehighestpossiblepriceandtoliveinatwisted,dis-orderedtime,out
+      oftimeasweknowit.ItisimportanttonotethatAme´ry’sresolutestrugglewithwhathe
+      callsnaturaltimeinfavourofthemoraltimeofresentment,isnotanattempttoovercome
+      suffering. On the contrary, he insists that we safeguard suffering’s negative effects and
+      clingtothemsoastosustainadeepcommitmenttoapasttimethatcannotandshouldnot
+      beforgotten.Hefocusesontheessentialroleoftheindividual’svoice,avoicethatshould
+      bepraisedratherthancriticizedorsimplytaintedaspathological.AsBrudholmputsit,the
+      voiceisheard‘whenmoralrepairfailstocomeaboutandwhenthevoicingofresistance
+      invites demonizing and pathologizing social responses’, and is therefore not only le-
+      gitimatebutalsoanexpressionofadignifiedresponsetoevilorwrongdoingthatwerenot
+      metwithourexpectationsofjustice.21Thosefilledwithresentmentsarenotonlymoral,
+      butalsoexperiencetemporalityentirelydifferentlythanothers:resentmentscausetimeto
+      ceasebeingonlyofabiologicalorsocialsense(thatofprogress,hopeandhealing),and
+      time is, instead, moved into the moral sphere.         
+      Moral time and the irreversible                        
+      Ame´ry offers a strong, gripping alternative to the weaknesses and moral difficulties
+      inherent in natural and social time. He designates his alternative ‘moral time’ and
+      characterizes it as follows:                           
+        [I]t did not escape me that ressentiment is not only an unnatural but also a logically in-
+        consistentcondition[Zustand].Itnailseveryoneofusontothecrossofhisruinedpast[Es
+        nageltjedenvonunsfestansKreuzseinerzerstortenVergangenheit].Absurdly,itdemands
+        that the irreversible be turned around, that the event be undone [das Irreversible solle
+                                                             
+                                                             
+                                                             
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+      Ferber                                        1501     
+                                                             
+                                                             
+        umgekehrt, das Ereignis unereignet gemacht werden]. Resentment blocks the exit to the
+        genuinehumandimension,thefuture.Iknowthatthetime-sense[Zeitgefuhl]oftheperson
+        trappedinresentmentistwistedaround,dis-ordered[verdreht,ver-rückt],ifyouwish,forit
+        desires two impossible things [zweifach Unmoglichen]: regression into the past and nulli-
+        fication of what happened [dem Rückgang ins Abgelebte und der Aufhebung dessen, was
+        geschah].(R, 68[128]).                               
+      Inthispassage,thatBrudholmdescribesasoneoftheessay’smostcrypticyetsignificant
+      moments, Ame´ry provides a detailed explanation of the exact existential state of being
+      consumedbyresentments.Theresentfulmanisfastenedtohispast,trappedintheever-
+      recurringcircleofthepainofwhathasbeen.Thisrepresentsauniquesenseoftime,one
+      thatdemandstwoessentialimpossibilities:first,aregressionintotothepast,andsecond,
+      the complete annulment of what happened, that is, a complete overturning of time.22
+      Ame´rydoesnotdenytheessentialabsurdityofhisclaim,onthecontrary,heinsistsonit,
+      and thereby stands firm in his demand for the moral truth of the conflict in which, as
+      Sebaldputsit,Ame´ry‘findshimselfistobeseennotinanyreadinessforreconciliation
+      but in the unremitting denunciation of injustice’.23   
+        Theimportanceofthepassageliesnotonlyintheforcefulmetaphorofbeing‘nailed’
+      to one’s past, but also in Ame´ry’s use of the term ‘irreversible’, with which he links
+      between past, memory, resentment and un-doing. It is important to make clear that al-
+      thoughhebringsupthefantasyofreversal(whichIwilldetailinwhatfollows),Ame´ryis
+      hardly delusional; he understands perfectly well that what was done cannot be undone.
+      Thereisnotravellingbackintime,letaloneanywaytochangetheeventsofthepast.But
+      Ame´ryisnotafterthepossible,thelogicalorthenatural.Heisafterthemoral.Andthe
+      moral,ashestronglysuggests,isimpossibletoachieve.Inthisregard,asBen-Shaiputsit,
+      resentment serves as the conduit through which ‘the moral injury – this event of dis-
+      locationortwisting–translatesitselfintoamoraldemand’.24Thus,thetimeofresentment
+      becomes convoluted and dis-ordered, trapping us in its inherent impossibility. To ex-
+      plicate this, Ame´ry returns to his own formulation in his essay on torture where he
+      describedhimselfasbeingtwistedanddistorted,suspendedhangingfromtheceiling,his
+      wristsboundinironchains.25Inthesameway,hewritesin‘Resentments’:‘Itissaidthat
+      we[thevictims]are“warped[verbogen]”[…]Butitalsosetsmethetaskofdefininganew
+      our warped state, namely as a form of the human condition that morally as well as
+      historicallyisofahigherorderthanthatofhealthystraightness’[Geradheit](R,68[127]).
+      This is a very important claim.                        
+        It is, of course, not only the victim’s arms that were distorted while he was hanging
+      fromtheceiling.Itisalsohissoul,histrustinfellowhumanbeings,hishumandignityand
+      perhaps most fundamentally, the logical structure of the world as such. This distortion,
+      however, is revealed here to be the very truth, the right ‘position’so to speak. There is
+      perhapssomethingdeformedaboutresentmentsanditsindefinitedestructiveness,butthis
+      deformationisalsowhatgrantsresentmentstheirmoralvalue.Inthissense,forgiveness
+      might represent a good-spirited, future-oriented, pragmatic viewpoint, what Ame´ry
+      describesasa‘unisonouspeacechorus’whichproposes,alltoocheerfully:‘notbackward
+                                                             
+                                                             
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+      1502                         Philosophy and Social Criticism 51(9)
+                                                             
+                                                             
+      letuslook butforward,toabetter,commonfuture!’ (R,69[128]).But for Ame´ry,this
+      ‘forgiving’ position, has something essential that it fails to recognize or act upon.
+        Althoughheadmitsthatthisisapurelyimpossiblewish(orphantasy),henevertheless
+      insists on expounding. Ame´ry uses another metaphor with which he describes how the
+      two parties would meet – in phantasy – outside of time. This image appears in two
+      instancesofthetext.Inthefirst,itpertainstotheindividuallevel(Ame´ryandhistorturer),
+      andinthesecond,tothecollectivelevel(victimsandtheGermanpeopleafterthewar).
+      Let me elaborate.                                      
+        Ame´ryfleshesouttheideaofirreversibilityforthefirsttime,whenherecallsWajs,the
+      SSmanwhohastorturedhimandmurderedmanyothers,andwaseventuallyexecuted.In
+      Ame´ry’sphantasy,whenstandinginfrontofthefiringsquad,momentsbeforehisdeath,
+      Wajs‘experiencedthemoral truthofhiscrimes [erfuhrdieMoralischeWahrheitseiner
+      Untaten].[…]hewaswithme’,Ame´rywrites,‘andIwasnolongeralonewiththeshovel
+      handle’ (R, 70 [131]). In this image, Ame´ry frees himself from the unbearable and
+      extremelonelinessofhiscondition.Henowstands,togetherwithWajs,andbothofthem
+      want‘exactlyasmuch’to‘turnbacktime[HinrichtungdieZeit],toundowhathadbeen
+      done [das Geschehen … ungeschehen machen]’ (R, 70 [131]). If this encounter could
+      happen,Ame´rywrites,hewould‘havediedcalmlyandappeased’alongwithmyfellow
+      man(R,71[131]),thatis,Wajs.ThissceneisstrikingbecauseAme´rybringstogetherthe
+      effect of resentment, the impossibility to do anything to rectify it and the phantastic
+      account of the complete overturning of time.           
+        A similar image appears towards the end of the text, this time describing not the
+      individual,butrather,thecollective.‘Onthefieldofhistory’,Ame´rywrites,‘therewould
+      occurwhatIhypotheticallydescribedearlierforthelimited,individualcircle:twogroups
+      of people, the overpowered and those who overpowered them [U¨berwa¨ltiger und
+      überwa¨ltigte], would be joined in the desire that time be turned back [Zeitumkehrung]
+      and,with it,that history becomemoral’(R, 78[143]).Heretoo,both parties arejoined
+      together.Althoughoneisresponsibleforthepastwrongdoingandtheotherisitsvictim,
+      both join in their impossible desire. Both want to turn back time, to reverse the irre-
+      versible. Both want the impossible – to stand outside of time – and it is only with this
+      impossibility that they can stand together, morally.   
+        Withthesetwoquotes,Ame´rysetsforthawayoutfromthebinaryofresentmentand
+      forgiveness,thathehimselfadheredtountilthispointinhisessay,andbyexpoundingon
+      thefantasyofthereversibilityoftime,heintroducesathirdpossibility.Thisbynoway
+      means that Ame´ry has finally submitted himself to consolation or any other form of
+      alleviation, his resolution is rather tragic and heart-rending. In order to understand
+      Ame´ry’sargument,wemustbeginbypayingcarefulattentiontohisrepetitivedescription
+      of his own loneliness. This is a prevalent theme throughout At the Mind’s Limits, and
+      comesupinvariousandseeminglyunrelatedmoments.Ame´ryisdesperatelyisolatedin
+      thetorturecellar;hefindshimselfcompletelyalonewithhisintellectinthecamp;heis
+      lonelydespitebeingsurroundedbyotherpeople(mostlyGermans)whoareindifferentto
+      hissuffering;26lonesomeinexile,aswellaswithinhisownJewishidentity,andsoforth.
+      One could clearly say that the primary impetus for his suffering is this loneliness: he
+      describes the experience of his persecution as being, ‘at the very bottom, that of an
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+      Ferber                                        1503     
+                                                             
+                                                             
+      extremeloneliness’(R,70[131]).Onthisbackground,Ame´ryintroduceshisphantastic
+      wishfor thereversaloftime. But hedoes notmake thiswishalone, he isjoinedby his
+      perpetrator Wajs (in the first aforementioned passage) and by the German ‘group’ of
+      people(in thesecond).Theonly possible escape fromhisutterlonelinessisbycoming
+      togetherwiththeperpetrators,asifjoiningforcesintheircommonwishtoturnbacktime.
+      Clearly, the two sides have entirely different interests motivating their wish: the victim
+      wantstoundotheevilthathasturnedhislifeintoacontinuousexperienceoftrauma,and
+      theperpetrator,standingbeforehisexecutors,wantstoundohisowndeedssoastoescape
+      punishment.Theintensitywithwhichtheyposetheirwish,however,isalmostidentical.
+      Eachofthemcouldnotwantanythingmore.Alforddescribesthismomentasutopic,one
+      inwhichthereaglimpseofanimpossiblewholeinwhichbothvictimsandperpetrators
+      ‘want the same thing in the same way’.27               
+        Thetragedyhereisevident.TheonlywayleftforAme´rytoalleviatehislonelinessisto
+      formacommunity,butthereisnochoiceinsofarasthemembersofthiscommunityare
+      concerned. These can only be the perpetrator, and never his fellow victims (who have
+      alreadyforgivenandforgotten,movedalongwiththenaturalflowoftime).Thestrength
+      ofthetwodescriptionsofthephantasyofreversalliesinthattheonlyallyAme´ryhasishis
+      perpetrator,andthisallianceisbasedonanimpossibility:thatofturningbacktime.‘The
+      moral person demands annulment of time [Aufhebung der Zeit] […] by nailing the
+      criminal to his deed [des Unta¨ters an Seine Untat].28 Thereby, and through a moral
+      turning-backoftheclock[Zeitumkehrung],thelattercanjoinhisvictimasafellowhuman
+      being’(R,72[133–134]).Putdifferently,Ame´ryandWajsformanalliancebasedonthe
+      impossible,onthevainattemptstofightthenaturalflowoftimeinfavourofaphantasy.
+      But nevertheless, they stand in this dead-end together.
+      The future                                             
+      It seems that we are left with an utter impossibility. Moral time remains the only con-
+      ceivable temporal structure for Ame´ry, however, as the two aforementioned scenes
+      suggest, it is clearly impossible to achieve. Is this indeed the conclusion of Ame´ry’s
+      accountofresentments?Arewesimplyleftempty-handed,nailedtothepastwithoutthe
+      possibility of an alternative temporal structure? A future? There is perhaps no happy
+      endingandnoresolutionforAme´ry’sownsufferingandhisinabilitytoforgive,however,
+      there can still be hope and a future to the world. I began my discussion with a critical
+      moment that ended the long delay, the long twenty years of silence that took Ame´ry to
+      writehis book.However,this critical momentonthetrain, was notamerelysubjective
+      one (namely, related solely to Ame´ry’s own processing of his trauma). It was, rather, a
+      momentintertwinedwiththeworldandwithhistory.Torecall,whenhereadtheletterin
+      thenewspaper,herealizedthattherewasastrikingdissonancebetweenhimselfandthe
+      world.Or,betweenmoraltimeandnaturaltime.Iwouldliketoendwithabriefdiscussion
+      ofthealternativeopennessAme´ryleavesuswith,afterall.SomethingIthinkaboutasthe
+      element of ‘future’ in the essay.                      
+        According to Bernstein’s interpretation of Ame´ry, resentments are a result of the
+      victim’srefusaltoallowtheirownmoraltruthbesuppressedbysocietyuntilitdisappears
+                                                             
+                                                             
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+      1504                         Philosophy and Social Criticism 51(9)
+                                                             
+                                                             
+      completely.Inhisreading,thereconstitutionofamoralcommunitythatcanencompass
+      bothvictimsandperpetratorsrequiresthatbothpartiesrebelagainstthesocialandnatural
+      structuresoftime,challengingthelogicofforgetfulnessandforgiveness.Inthepost-war
+      Germancontext,thiswouldimplythatNazigenocidewouldbeintegratedasanindelible
+      partofthehistoryofGermanculture.Since,accordingtoAme´ry,suchamoralcommunity
+      was not (and cannot be) materialized, a further step is required, in which resentment
+      becomes, inBernstein’sphrasing,‘themoralattitudethat aloneiscapableofsustaining
+      thedemandthatpastsufferingmattersinthehistoricalconsciousnessofpresentsociety;
+      withoutresentmentsocietybecomesanimmoralorganism[…]Withoutamoralhistory
+      there cannot be a moral present’.29 Resentment, therefore, plays a crucial role in the
+      reconstitution of a community. However, in Bernstein’s reading, there is no genuine
+      possibility of the victim’s inclusion in such moral restoration. Resentment remains the
+      sole appropriate and just response to moral injury and devastation. In fact, Bernstein
+      suggeststhatAme´ryintroducesmoralinjuryasanewmoralcategory.Heacknowledges
+      that historical facts cannot be reversed, but he does insist that the catastrophic past be
+      addressed in the present.30                            
+        TofullygraspAme´ry’sposition,weshouldremindourselvesofthecontextinwhich
+      theessayaboutresentmentswascomposed.Ame´ryoriginallywrotehissmallcollection
+      of essays to be broadcasted on radio. They were aired on Süddeutscher Rundfunk (the
+      radioofSouthGermany)toaGermanaudience,Ame´rysittinginthestudioandreading
+      thetexthimselfinGerman.Actually,‘Resentments’wastheoriginaltitleAme´rychosefor
+      alloftheseradiotalks(anidealaterabandonedinfavourofthetitle‘BeyondGuiltand
+      Atonement’).31Ame´rywas first andforemosta writer; It istherefore significant thathe
+      decidedtospeak,ratherthanpublishinwriting,hisessays.‘Idonotwanttoaddress[…]
+      mycomradesinfate’,hewrites,‘Theyknowwhatitisallabout’.Instead,Ame´rydecides
+      toaddresstheGermans(Thetext’sinitialtitlewas‘TheGermans’),mostofwhom‘donot,
+      ornolonger,feelaffectedbythedarkestandatthesametimemostcharacteristicdeedsof
+      the Third Reich’ (ML, xiv).                            
+        DespiteAme´ry’sunreservedcommitmenttohisresentments,notonlypersonallybut
+      alsoasamoralstance,itisequallyimportantforhimtoreachouttotheGermanaudience.
+      Wewouldperhapsexpectavengefultone,butthisisnotthecase.Whileresentmentsare
+      whatfastenshiminironchainstothepast,crucifieshimashedescribesit,thetextitself
+      actuallypresentsadiscourseaboutthefuture,oraboutitspotential.WhenAme´ryturnsto
+      hisGermanaudiencehedoessonotasaprosecutorspeakingofsomeformofcollective
+      guilt they bear. On the contrary: ‘To accuse the young’, he writes, ‘would be just too
+      inhuman, and according to universal concepts also unhistorical. After all, what does a
+      twenty-one-year-old student who has grown up in the calm climate of a new German
+      democracy have to do with the deeds of his fathers and grandfathers?’, (R, 75 [139]).
+      Collectiveguilt,accordingtoAme´ry,canonlybeusefulasavaguestatisticalstatement,
+      and nothing more than (it is he who is burdened with guilt, he writes bitterly).32 What,
+      then,doesAme´ryseekhere?WhyisheaddressingyoungGermansifnotinforgivenessor
+      vengeance? Let us look closely at his exact words.     
+                                                             
+                                                             
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+      Ferber                                        1505     
+                                                             
+                                                             
+        AndIenterintotherealmofGermanhistoryandhistoricityasIspeakfurtherofthevictim’s
+        resentments.Iamobliged,however,todefinetheirobjectivetask.Perhapsitisonlyconcern
+        formyownpurification,butIhopethatmyresentment—whichismypersonalprotestagainst
+        theantimoralnaturalprocessofhealingthattimebringsabout[moralfeindlichenatürliche
+        Zeitverwachsen],andbywhichImakethegenuinelyhumaneandabsurddemandthattimebe
+        turnedback[Zeitumkehrung]—willalsoperformahistoricalfunction.Wereittofulfilthe
+        taskthatIsetit,itcouldhistoricallyrepresent,asastageoftheworld’smoraldynamicsof
+        progress,theGermanrevolutionthatdidnottakeplace.Thisdemandisnolessabsurdandno
+        lessmoralthantheindividualdemandthatirreversibleprocessesbereversible[Reversibilita¨t
+        irreversibler Prozesse].(R, 77[141])                 
+      In this passage, Ame´ry differentiates between guilt and responsibility. He realizes the
+      formerisunfair,even‘absurd’,andseeksthelatter.Hisinsistenceonclingingtohisown
+      resentmentsisnotonlyrelatedtosomepersonalpathologyorprotest.Hehasbeforehim
+      an‘objectivetask’thatisrelatedtotheveryrealmofGermanhistory,whereheisseeking
+      to‘performahistoricalfunction’(R,77[141]).Hisresentmentsmayseemabsurd,donot
+      obey any form of a ‘reality principle’ and are definitely not pragmatic. They have,
+      however, a unique power to contribute to what he calls the ‘moral development of the
+      world’. It is true perhaps, that Ame´ry is performing a somewhat coarse and wide
+      movement in which he includes a collective (and does no pay enough attention to the
+      nuances between different levels of guilt and responsibility), however, as Brudholm
+      rightlyargues,hisconcernintheessayisnotjusticebutrather,the‘actualization’ofthe
+      very problem. Ame´ry’s aim is ‘to initiate a public, national confrontation with the guilt
+      incurred by the conduct of the past. The nuances would—one hopes—arrive later’.33
+        Ame´ry’s point in ‘Resentments’ is that German historical consciousness cannot be
+      selective and free to choose its own constituents, opting for Goethe, Mo¨rike and Baron
+      von Stein, leaving aside Blunck, Scha¨fer and Himmler. If Germany will truly bear re-
+      sponsibilityforitsdeeds,itwouldbeinsufficienttolayclaimtoanationaltraditiononly
+      where it was honorable, and to disavow it in cases where it was not (R, 76 [144]).
+      Elsewhere,alongsimilarlines,hewritesthatanewphilosophyofhistorywouldhaveto
+      bewrittenaftertheHolocaust,addingthat‘Itwasthepeopleintheghettowhorecordedits
+      [this history’s] first sentences’.34                   
+        Resentmentisafeelingmarkedbyitsunsurpassableabilitytocontain,toharbour.In
+      thesameway,Ame´rydemandsthattheGermanscontainthisnowindeliblepartoftheir
+      nationalhistory:Auschwitzcannotbe,inthatsense,treatedasanexternaloraccidental
+      eventinGermanhistory,norisitan‘exception’:itisandhastobemadeanintegralpartof
+      it.Thisway,heconcludes,‘theGermanpeoplewouldremainsensitivetothefactthatthey
+      cannotallowapieceoftheirnationalhistorytobeneutralizedbytime,butmustintegrate
+      it’(R,78[142]).Yes,timemovesforward,leavingpasteventsareleftbehind–buttimeis
+      notonlyamatterofphysics.Itisalsodeeplyinterconnectedwithmemory,consciousness
+      and identity. It is about accumulation and integration, which together form the only
+      possibility for a future.                              
+        ForAme´ry,thesurvivor,thereisclearlynofuture,notbecausethereisnowayout(he
+      canalwaysjointhe‘happychorus’ofthoseforgivingandforgetting),butrather,because
+                                                             
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+      1506                         Philosophy and Social Criticism 51(9)
+                                                             
+                                                             
+      heoptstoremaincrucifiedtothepast,intentionallypositioninghimselfoutoftime.The
+      young Germans, however, do in fact possess the possibility of a future – but only if,
+      accordingtoAme´ry–thepastisunreservedlyintegratedintoit.Ame´ry’spropositionis,in
+      thatsense,onethatisexclusivelyopenfortheGermansandneverforthesurvivorswho
+      remain, despite everything, an aching thorn in the flesh of time. They continue to raise
+      their resentful finger, but they raise it only to mark their own impossibility.
+                                                             
+      Conclusion                                             
+      Ame´ry’s position in ‘Resentments’ is no doubt radical, at times even subversive.
+      However,thisisnotonlyduetohisausteremoralstance;itisalsorootedinhisdistinctive
+      perspective on the temporal dimension of resentments. I have delineated five of these
+      aspectshere:delay,eternalrecurrence,naturaltimeandforgiveness,moraltimeandthe
+      irreversible, and the future. While each of these aspects is compelling on its own, it is
+      whentheystandinrelationtooneanotherthattheuniquenessofAme´ry’sargumentstands
+      out most clearly. When we revisit Ame´ry’s essay through the lens of temporality, it
+      becomesapparentthatresentmentsarealwaysoutoftime.Theyappearindelay,endlessly
+      circle around themselves, completely barren, devoid of any potential of growth and
+      offering no future for those who insists on clinging to them. Each of the temporal
+      structures, in its own singular way, is distorted and violated, breached and haunted.
+      Nothing is natural, and everything is moral.           
+        Whether it is valued or scorned, viewed as morally productive or destructive, re-
+      sentmentisundeniablyanextremelypowerfulemotionwithprofoundmoralimplications.
+      What Ame´ry contributes to our understanding of this emotion is his insistence on its
+      capacitytoutterlydisruptourexperienceoftimeassuch.Itis,therefore,notmerelyabout
+      moraltime,thetimeofforgiveness,orthegrapplingproblemoftheirreversibilityoftime,
+      butrather,awaytosenseourownexistenceastemporalbeings,where‘Thetimeisoutof
+      joint’,touseShakespeare’sfamousphrasefromHamlet.Despitetheapparentdifferences
+      betweenHamletandAme´ry,botharebroughttoconfrontanextraordinary,unthinkable
+      eventthathasabruptlyturnedtheirworldsupsidedown,essentiallyuprootingtimefrom
+      thefragilejointsthatoncesecuredit.Inbothcases,timecannolongerprogress‘naturally’,
+      thingscannotbesimplyleftbehind,graduallyovercomeorsmoothedoverastimecontinues
+      tounfold.Thepastemergesinawaythattranscendsmerememory;onemustpersistently
+      remain attached and wholly committed to it. Even when Ame´ry seems to mark a stark
+      dividing line between two of the temporal structures aforementioned – resentment and
+      forgiveness – I have demonstrated that they have in fact, an intriguing and productive
+      interconnection.Bothinsistonaninseparableconnectionwiththepastandtherebydefyin
+      tandem,thenaturalflowoftime,leavingitshatteredanditspotentialforcontinuity,defeated.
+        InAme´ry’sview,Auschwitzdidnotmerelyhappenthewayanyothereventhappens.
+      Inthiscontext,hequotesHansMagnusEnzensbergerwhoassertedthatAuschwitzshould
+      become‘Germany’spast,presentandfuture’(R,78[143]).Inotherwords,itwouldcease
+      tobejustaneventwithintimeandbecomeacompleteinversionoftimeitself.Justlikethe
+      aforementioned scene where the desire for irreversibility is a common thread, here too,
+      Ame´rypresentsoneofhismostcompellingarguments,yetatthesametime,perhapsalso
+                                                             
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+      Ferber                                        1507     
+                                                             
+                                                             
+      oneofthemostchallengingtoaccept.Thevictimsandperpetrators,orthe‘overpowered
+      and those who overpowered them’, join together in their past ‘that, despite its extreme
+      oppositeness,theystillhaveincommon’(R,77[141-142]).Thevictimswillretaintheir
+      resentments, refraining from vengeance or reconciliation, while the perpetrators will
+      grapplewiththeenduringresentmentsdirectedtowardthem,experiencingtheirownself-
+      doubt.Inotherwords,thepresentremainsdevoidofanyconcreteaction,butthepastwill
+      linger on, vivid and disquieting, for both sides.      
+                                                             
+      ORCID iD                                               
+      Ilit Ferberhttps://orcid.org/0000-0002-2893-6236      
+                                                             
+      Notes                                                  
+      I thank Roy Ben-Shai, Thomas Brudholm and David Heyd for our conversations about Ame´ry
+      throughouttheyears.IamgratefultotheanonymousreviewerofPhilosophy&SocialCriticismfor
+      the helpful comments and suggestions. This research was supported by the Israel Science
+      Foundation(grant No.1903/23).                          
+       1. JeanAme´ry,AttheMind’sLimits:ContemplationsbyaSurvivoronAuschwitzanditsRealities,
+         trans.SidneyRosenfeldandStellaP.Rosenfeld(Bloomington:IndianaUniversityPress,1980),
+         36.Hereafter ML.                                    
+       2. JeanAme´ry,‘Resentments’,inAttheMind’sLimits,65.HereafterR.Pagenumbersfromthe
+         German original are noted in square brackets within references to ‘Resentments’. For the
+         German edition, see Jean Ame´ry, ‘Ressentiments’, in Werke, bd. 2 (Stuttgart: Klett-Cotta
+         Verlag, 2002),118–148.                              
+       3. Quoted in Irene Heidelberger-Leonard, Jean Ame´ry: Revolte in der Resignation (Stuttgart,
+         Klett-Cotta Verlag,2004), 123.                      
+       4. Irène Heidelberger-Leonard’s excellent biography of Ame´ry’s gives a detailed and learned
+         accountofhisworkswithreadingsthatinterconnectininterestingwayswithhislife,personal
+         adversitiesbutalso,momentsofhappiness(ThePhilosopherofAuschwitz:JeanAme´ryand
+         LivingwiththeHolocaust,trans.AntheaBell[London:I.B.Tauris,2010]);PhilipaRothfield
+         emphasizesAme´ry’spositionasatraumatizedvictim,forwhomtheinsistenceonresentments
+         remaintheonlypossiblewaytolivewithhispast(‘TheSingularCaseofJeanAme´ry’,inOn
+         Jean Ame´ry: Philosophy of Catastrophe, ed. Magdalena Zolkos [Lanham, Maryland: Lex-
+         ington Books, 2011], 217–233); W. G. Sebald’s beautiful essay is a staggering account of
+         Ame´ry’s writing style as one that constantly remains under trauma (see ‘Against the Irre-
+         versible.OnJeanAme´ry’,inOntheNaturalHistoryofDestruction[Toronto:AlfredA.Knopf
+         Canada,2003],143–168);Ame´ry’s‘intellectualtwin’,PrimoLevi,wroteaverypersonalessay
+         on Ame´ry, his thinking and its relation to his own traumatic past (‘The Intellectual in
+         Auschwitz’, in The Drowned and the Saved, trans. Raymond Rosenthal [London: Abacus,
+         2013],141–167).IhavewrittenaboutAme´ry’sexperienceoftortureandwaysinwhichthis
+         extremeexperiencehascompletelyshatteredhisabilitytobe‘athomeintheworld’(IlitFerber,
+         ‘PainasYardstick:JeanAme´ry’,JournalofFrenchandFrancophonePhilosophy,specialissue
+         onJeanAme´ryXXIV no. (3):3–16).                     
+                                                             
+                                                             
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+      1508                         Philosophy and Social Criticism 51(9)
+                                                             
+                                                             
+       5. ThomasBrudholmsituatesAme´ry’stextwithincontemporarypoliticalcontextandprovidesa
+         thoughtfulclosereadingof‘Resentments’,emphasizing,againstcurrentpraisesofforgiveness
+         and reconciliation, the positive aspects and the moral importance of the refusal to forgive
+         (Resentment’sVirtue:JeanAme´ryandtheRefusaltoForgive[Philadelphia:TempleUniversity
+         Press,2009]);RoyBen-Shaiemphasizesthetemporalangleofthetext,athemecentraltomy
+         ownreading(‘ToReversetheIrreversible:OnTimeDisorderintheWorkofJeanAme´ry’,in
+         Metacide: InPursuit ofExcellence,ed.JamesWatson [Amsterdam: Rodopi,2010],73–90);
+         J.M.Bernsteincentresonwhathetermsthe‘transcendentaldeduction’justifyingresentments
+         asamoralresponse(‘Ame´ry’sDevastationandResentment:AnEthnographicTranscendental
+         Deduction’,TijdschriftvoorFilosofie76no.1[2014]:5–30);DavidHeyddiscussestherelation
+         between Ame´ry and Nietzsche from the perspective of moral philosophy (‘Resentment and
+         Reconciliation, Alternative Responses to Historical Evil’, in Justice in Time: Responding to
+         HistoricalInjustice,ed.Lukas.H.Meyer[Baden-Baden:NomosVerlagsgesellschaft, 2004],
+         185–197); Dennis B. Klein suggests a somewhat unusual interpretation of the article, em-
+         phasizingnotresentmentsbutanalternativeaccountofforgivenessthatarisesfromAme´ry’s
+         account(‘ResentmentandRecognition:TowardaNewConceptionofHumanityinAme´ry’sAt
+         the Mind’s Limits’, in On Jean Ame´ry: Philosophy of Catastrophe, ed. Magdalena Zolkos
+         [Lanham,Maryland: Lexington Books,2011],87–108).    
+       6. Towardstheendof‘Resentments’,Ame´rymentionsanotherlettersenttoaGermanweeklyby
+         an eloquent young German from Kassel. This letter too expresses anger and even hatred
+         towardsthosewhoare,intheauthor’sperspective,‘still’resentful:‘…wearefinallysickand
+         tiredofhearingagainandagainthatourfatherskilledsixmillionJews.Howmanyinnocent
+         womenandchildrendidtheAmericansmurderwiththeirbombings,howmanyBoersdidthe
+         British murder inthe Boer War?’(R, 75–76[139]).     
+       7. Sebaldusesthisexpressioninseveralplaces,forexample,inaninterviewwithEleanorWachtel
+         in The Emergence of Memory: Conversation with W.G. Sebald, ed. Lynne Sharon Schwart
+         (NewYork: SevenStories Press, 2010),44, 48.         
+       8. Thisstructureiscomparable,asRoyBen-Shaisuggests,tothewayinwhichAme´rydescribes
+         dignity and trust in the world in ‘Torture’, and homesickness in ‘How Much Home Does a
+         PersonNeed?’(Ben-Shai, ‘To Reverse the Irreversible’, 78–84).
+       9. Ame´ry’srelationtoNietzscheisoneofthemostfrequentlyexploredtopicsinthesecondary
+         literatureconcerningtheformer.SeeespeciallyHeyd,‘RessentimentandReconciliation’;Ben-
+         Shai,‘InSicknessandinHealth’,145–148;FredC.Alford,‘JeanAme´ry:ResentmentasEthics
+         andOntology’,Topoi: AnInternational Review ofPhilosophy 31no.2 (2012): 230–232.
+      10. Friedrich Nietzsche, On the Genealogy of Morals, trans. Maudemarie Clark and Alan
+         J.Swenson(IndianapolisandCambridge:HacketPublishingCompany,2007),FirstTreatise,
+         §10(19–20).ForNietzsche’sdiscussionofressentimentseealsoFirstTreatise,§7–9(16–19)
+         andSecond Treatise, §11 (48–50).                    
+      11. Nietzsche, On theGenealogy of Morals,Second Treatise, §1(35–36).
+      12. Heyd,‘Ressentiment andReconciliation’,190.         
+      13. For a rigorous account of this relationship see Roy Ben-Shai, ‘In Sickness and in Health:
+         Nietzsche, Ame´ry, and the “Moral Difference,”’ in The Politics of Nihilism: From the
+         NineteenthCenturytoContemporaryIsrael,eds.NitzanLebovicandRoyBen-Shai(London
+         andNewYork: Bloomsbury Publishing,2014), 125–150.   
+
+[PAGE 19]
+                                                             
+                                                             
+                                                             
+      Ferber                                        1509     
+                                                             
+                                                             
+      14. Friedrich Nietzsche, The Gay Science, ed. Bernard Williams, trans. Josefine Nauckhoff
+         (Cambridge: Cambridge University Press, 2001),§341(194).
+      15. Ibid.                                              
+      16. Ben-Shaidoesnotdiscusstheideaoftheeternalrecurrence;however,hehasasimilarargument
+         regardingtheaffinitybetweenAme´ryandNietzsche(seehis‘InSicknessandinHealth’,125–
+         150).                                               
+      17. SeeSusanNeiman,EvilinModernThought:AnAlternativeHistoryofPhilosophy(Princeton:
+         Princeton University Press, 2002), 263–265. See also Giorgio Agamben’s gruesome inter-
+         pretationinhisRemnantsofAuschwitz,quotedinNeiman,264.Anotherinterestingreferenceis
+         Ame´ry’s‘NietzschetheContemporary:OnhisEssay“SchopenhauerasEducator,”’inRadical
+         Humanism: Selected Essays, eds. and trans. Sidney Rosenfeld and Stella P. Rosenfeld
+         (Bloomington: IndianaUniversity Press, 1984),89–98. 
+      18. SeealsoNietzsche,‘TheConvalescent’,inThusSpokeZarathustra:ABookforAllandNone,
+         ed. Adrian del Caro and Robert Pippin, trans. Adrian del Caro (Cambridge: Cambridge
+         University Press, 2006),173–178.                    
+      19. SeeJosephButler,FifteenSermonsandotherWritingsonEthics,ed.D.McNaughton(Oxford:
+         Oxford University Press, 2017),sermons 8 and9 (68–83).
+      20. Thereisasubstantialbodyofliteratureonforgivenessanditsconnectiontotemporalitywritten
+         inthedecadesfollowingAme´ry’sdeath,andIcannotdelveintoitindetailhere.Seeespecially:
+         Charles Griswold, Forgiveness: A Philosophical Exploration (Cambridge: Cambridge Uni-
+         versityPress,2007);HannahArendt,‘Irreversibilityandthepowertoforgive’,inTheHuman
+         Condition (Chicago: University of Chicago Press, 1958); Margaret Urban Walker, Moral
+         Repair: Reconstructing Moral Relations after Wrongdoing (Cambridge University Press,
+         2006);andChristelFricke(ed.),TheEthicsofForgiveness(NewYork:Routledge,2011).Apart
+         fromthese,thereisanotherimportantcontemporaneousfigurewhoserelationwithAme´ryisof
+         mostimportance.ThisisVladimirJanke´le´vitchandhistwo,extremelydifferentaccountsof
+         forgivenessin‘ShouldwePardonThem?’(1965)(trans.AnnHobart,CriticalInquiry22,no.
+         3[Spring,1996]:552–572)andForgiveness(1967)(trans.KellyAndrews[Chicago:Chicago
+         University Press, 2013]).                           
+      21. Brudholm, Resentment’s Virtue,131.                 
+      22. SeeBrudholm’saccountofthispassagewhichhecallsthe‘Zustandpassage’inResentment’s
+         Virtue,104–108.                                     
+      23. Sebald,‘AgainsttheIrreversible:OnJeanAme´ry’,inOntheNaturalHistoryofDestruction,
+         trans.Anthea Bell (NewYork: ModernLibrary,2004), 157.
+      24. Ben-Shai,‘To Reverse theIrreversible’,85, emphasisin the original.
+      25. JeanAme´ry,‘Torture’, inAtthe Mind’s Limits, 32–33.
+      26. OnpainandisolationinthecontextoftortureinAme´ry,seealsoIlitFerber,‘PainasYardstick:
+         JeanAme´ry’.                                        
+      27. Alford,‘JeanAme´ry:ResentmentasEthicsandOntology’,233.Inhisdescription,Ame´ryuses
+         the phrase ‘I would like to believe’ (R, 70 [131]) when describing the imagined encounter,
+         therebysuggesting acertain doubt tohis otherwiseextremely determined arguments.
+      28. IntheGermanoriginalAme´ryusesUnta¨ters(criminal,wrongdoer)andUntat(deed),aword
+         choicethat strengthens evenfurther the connectionbetween the doerandthedeed.
+      29. Bernstein, ‘Ame´ry’sDevastation andResentment’, 15–16.
+
+[PAGE 20]
+                                                             
+                                                             
+                                                             
+      1510                         Philosophy and Social Criticism 51(9)
+                                                             
+                                                             
+      30. Ibid., 20–21,23–24.                                
+      31. SeeBrudholm, Resentment’sVirtue, 70.               
+      32. OncollectiveguiltseeR,72–76[134–139].SeealsoBrudholm,Resentment’sVirtue,139–144;
+         Jürgen Habermas, ‘What Does Working off the Past Mean Today?’ in A Berlin Republic:
+         Writings onGermany,trans.S. Rendall(Cambridge: Polity Press, 1998),17–40.
+      33. Brudholm,Resentment’sVirtue,141.SeealsoKarlJaspers’importantworkTheQuestionof
+         German Guilt, trans. E. B. Ashton (New York: Fordham University Press, 2000), and its
+         discussion byBrudholm inResentment’s Virtue, 142–144.
+      34. JeanAme´ry,‘In the WaitingRoomof Death’,in RadicalHumanism,36.
+      References                                             
+      Alford,FredC.2012.“JeanAme´ry:ResentmentasEthicsandOntology.”Topoi:AnInternational
+         Review ofPhilosophy 31,no. 2:229–240.               
+      Ame´ry, Jean. 1980. At the Mind’s Limits: Contemplations by a Survivor on Auschwitz and its
+         Realities. Translated by Sidney Rosenfeld and Stella P. Rosenfeld. Bloomington: Indiana
+         University Press.                                   
+      Ame´ry,Jean.1984.RadicalHumanism:SelectedEssays.EditedandtranslatedbySidneyRosenfeld
+         andStella P.Rosenfeld. Bloomington: IndianaUniversity Press.
+      Ame´ry, Jean.2002. “Ressentiments.”In Werke,bd. 2.,118–148.Stuttgart: Klett-Cotta Verlag.
+      Arendt, Hannah. 1958. “Irreversibility and the Power to Forgive.” In The Human Condition.
+         Chicago:University of Chicago Press.                
+      Ben-Shai,Roy.2014.“InSicknessandinHealth:Nietzsche,Ame´ry,andthe‘MoralDifference’.”In
+         The Politics of Nihilism: From the Nineteenth Century to Contemporary Israel, edited by
+         NitzanLebovicandRoyBen-Shai,125–150.LondonandNewYork:BloomsburyPublishing.
+      Ben-Shai,Roy.2010.“ToReversetheIrreversible:OnTimeDisorderintheWorkofJeanAme´ry.”
+         inMetacide:InPursuitofExcellence,editedbyJamesWatson,73–90.Amsterdam:Rodopi.
+      Bernstein, J. M. 2014. “Ame´ry’s Devastation and Resentment: An Ethnographic Transcendental
+         Deduction.”Tijdschrift Voor Filosofie76, no.1: 5–30.
+      Brudholm, Thomas. 2009. Resentment’s Virtue: Jean Ame´ry and the Refusal to Forgive. Phila-
+         delphia: Temple University Press.                   
+      Butler,Joseph.2017.FifteenSermonsandOtherWritingsonEthics,editedbyD.McNaughton.
+         Oxford:Oxford University Press.                     
+      Ferber,Ilit.2016.“PainasYardstick:JeanAme´ry.”JournalofFrenchandFrancophonePhilosophy
+         XXIV,no. 3:3–16.                                    
+      Fricke,Christel, ed.2011. TheEthics of Forgiveness.NewYork: Routledge.
+      Griswold, Charles. 2007. Forgiveness: A Philosophical Exploration. Cambridge: Cambridge
+         University Press.                                   
+      Habermas,Jürgen.1998.“WhatDoesWorkingoffthePastMeanToday?”InABerlinRepublic:
+         Writings onGermany,translated byS.Rendall, 17–40.Cambridge: PolityPress.
+      Heidelberger-Leonard,Irène.2004.JeanAme´ry:RevolteinderResignation.Stuttgart:Klett-Cotta
+         Verlag.                                             
+      Heidelberger-Leonard,Irène.2010.ThePhilosopherofAuschwitz:JeanAme´ryandLivingwiththe
+         Holocaust.Translated byAnthea Bell.London: I.B.Tauris.
+                                                             
+                                                             
+
+[PAGE 21]
+                                                             
+                                                             
+                                                             
+      Ferber                                        1511     
+                                                             
+                                                             
+      Heyd,David.2004.“ResentmentandReconciliation,AlternativeResponsestoHistoricalEvil.”In
+         Justice in Time: Responding to Historical Injustice, edited by Lukas H. Meyer, 197–185.
+         Baden-Baden:Nomos Verlagsgesellschaft.              
+      Janke´le´vitch, Vladimir. 2013. Forgiveness. Translated by Kelly Andrews. Chicago: Chicago
+         University Press.                                   
+      Janke´le´vitch, Vladimir. 1996. “Should we Pardon Them?” Translated by Ann Hobart. Critical
+         Inquiry 22,no.3 (Spring): 552–572.                  
+      Jaspers, Karl. 2000. The Question of German Guilt. Translated by E. B. Ashton. New York:
+         FordhamUniversity Press.                            
+      Klein,DenisB.2011.“ResentmentandRecognition:TowardaNewConceptionofHumanityin
+         Ame´ry’s At the Mind’s Limits.” In On Jean Ame´ry: Philosophy of Catastrophe, edited by
+         MagdalenaZolkos, 87–108. Lanham,Maryland: LexingtonBooks.
+      Levi, Primo. 2013. “The Intellectual in Auschwitz.” Translated by Raymond Rosenthal. in The
+         Drowned andthe Saved,141–167.London: Abacus.        
+      Neiman,Susan.2002.EvilinModernThought:AnAlternativeHistoryofPhilosophy.Princeton:
+         PrincetonUniversity Press.                          
+      Nietzsche,Friedrich.2001.TheGayScience,editedbyBernardWilliams,translatedbyJosefine
+         Nauckhoff.Cambridge: Cambridge University Press.    
+      Nietzsche,Friedrich.2007.OntheGenealogyofMorals.TranslatedbyMaudemarieClarkandAlan
+         J.Swenson. IndianapolisandCambridge: HacketPublishing Company.
+      Nietzsche,Friedrich.2006.“TheConvalescent.”InThusSpokeZarathustra:ABookforAlland
+         None,editedbyAdriandelCaro,andRobertPippin,translatedbyAdriandelCaro,173–178.
+         Cambridge: Cambridge University Press.              
+      Rothfield,Philipa.2011.“TheSingularCaseofJeanAme´ry.”InOnJeanAme´ry:Philosophyof
+         Catastrophe,editedbyMagdalenaZolkos,217–233.Lanham,Maryland:LexingtonBooks.
+      Sebald, W. G. 2004. “Against the Irreversible: On Jean Ame´ry.”. In On the Natural History of
+         Destruction, translated byAnthea Bell, 143–168.NewYork: ModernLibrary.
+      Sebald, W. G. 2010. The Emergence of Memory: Conversation with W.G. Sebald, edited by
+         LynneSharon Schwart,NewYork: SevenStories Press.    
+      UrbanWalker,Margaret.2006.MoralRepair:ReconstructingMoralRelationsafterWrongdoing.
+         CambridgeUniversity Press.                          
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             

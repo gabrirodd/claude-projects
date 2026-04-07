@@ -1,0 +1,65 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "des_portes_2024",
+  "title": "Towards a Decolonial Political Theory: Thinking from the Zone of Nonbeing",
+  "author": "des Portes",
+  "year": 2024,
+  "journal": "Philosophy and Social Criticism",
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "Comparative political theory and decolonization efforts in political theory (Mills, Mignolo, Temin) remain trapped in a continental ontology and over-emphasis on methodology, reducing politics to an instrument. The puzzle: how to develop a genuinely decolonial political theory that takes politics as first philosophy?",
+    "anchored_in": ["Mills", "Mignolo", "Temin", "Quijano"],
+    "stakes_claimed": "A decolonial existential political theory grounded in Fanon's 'zone of nonbeing' — taking the damnés (the wretched) as the political subject — provides an alternative foundation that avoids both Eurocentric universalism and purely methodological decolonization."
+  },
+  "theoretical_positioning": {
+    "rivals_engaged": ["comparative political theory (Mills)", "decolonial thought (Mignolo)", "methodological decolonization (Temin)"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": true,
+    "own_position_type": "framework_construction",
+    "own_position_explicit": true,
+    "description": "The paper performs a partial immanent critique of existing decolonization approaches: they remain embedded in continental ontology (substance, method, epistemology) and turn decolonization into a meta-theoretical project. Against this, the paper draws on Aimé Césaire's Letter to Maurice Thorez (rejection of the French Communist Party's universalism) and Fanon's Political Theory of the Damnés to outline a decolonial existential political theory that starts from the experience of the zone of nonbeing."
+  },
+  "epistemic_mode": {
+    "primary": "normative_with_interpretive_case",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "Close reading of Césaire's Letter to Maurice Thorez and Fanon's Political Theory of the Damnés as philosophical texts expressing a decolonial political ontology; conceptual analysis of 'zone of nonbeing' and 'politics as first philosophy'.",
+    "notes": "The cases (Césaire's letter, Fanon's political theory) are philosophical-historical texts used generatively — the decolonial political theory is derived from close reading of these texts rather than from independent conceptual construction. This qualifies as normative_with_interpretive_case in the TCS Type 3 sense: philosophical texts as generative source of the argument."
+  },
+  "case_type": {
+    "has_case": true,
+    "case_medium": "philosophical_text",
+    "case_name": "Aimé Césaire's Letter to Maurice Thorez; Fanon's Political Theory of the Damnés",
+    "case_function": "generative",
+    "case_relation_to_argument": "constitutive_of_framework",
+    "case_selection_justified": true
+  },
+  "normative_stake": {
+    "level": "high",
+    "domain": "decolonial theory / political philosophy / existential politics",
+    "claim_type": "prescriptive",
+    "closure_type": "research_agenda"
+  },
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "immanent_critique",
+    "case_introduction",
+    "case_development",
+    "case_interpretation",
+    "framework_proposal",
+    "conclusion_open"
+  ],
+  "reflexive_move": false,
+  "key_concepts": ["zone of nonbeing", "damnés", "politics as first philosophy", "decolonial existential theory", "continental ontology", "Négritude", "anticolonialism"],
+  "thinkers_deployed": {
+    "central": ["Fanon", "Césaire"],
+    "engaged_critically": ["Mills", "Mignolo", "Temin"],
+    "referenced_only": ["Quijano", "Dussel", "Lugones", "Maldonado-Torres", "Wynter"]
+  },
+  "confidence_notes": "Classified as normative_with_interpretive_case (Type 3b variant): Césaire and Fanon's texts are read as philosophical sources generating the concept of decolonial political theory, not merely as illustrations. The case_function is generative in the same way as des-portes uses these texts to build a framework that could not be constructed without them. The conclusion is research_agenda because the paper outlines a direction rather than completing the framework."
+}

@@ -1,0 +1,63 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "gilabert_2023",
+  "title": "Self-Esteem and Competition",
+  "author": "Gilabert",
+  "year": 2023,
+  "journal": "Philosophy and Social Criticism",
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "Self-esteem is a very important good; competition is widespread and commonly linked to self-esteem (people seek it through competitive success). But empirical research suggests competition has a strong tendency to undermine self-esteem. How might we foster a desirable distribution of self-esteem in the face of difficulties created by competition?",
+    "anchored_in": ["empirical psychology of self-esteem and competition"],
+    "stakes_claimed": "A solidaristic path — identifying mechanisms that support individuals' self-esteem while imposing limits on competition — is preferable to either self-denial or uncritical celebration of the rat race."
+  },
+  "theoretical_positioning": {
+    "rivals_engaged": ["competitive self-esteem models", "self-denial approaches"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": false,
+    "own_position_type": "framework_proposal",
+    "own_position_explicit": true,
+    "description": "The paper draws on social psychology of self-esteem and competition to identify ten mechanisms for supporting self-esteem while limiting competition (solidarity, recognition, intrinsic motivation, etc.), then provides prudential and moral arguments for implementing them."
+  },
+  "epistemic_mode": {
+    "primary": "normative_with_qualitative_empirical",
+    "secondary": null,
+    "empirical_evidence_present": true,
+    "empirical_evidence_role": "supportive",
+    "quantitative_methods": null,
+    "qualitative_methods": "Review of empirical social psychology research on self-esteem and competition; no original data collection.",
+    "data_sources": ["Social psychology literature on self-esteem (Rosenberg, Crocker)", "Empirical studies on competition and self-esteem"],
+    "interpretive_methods": null,
+    "notes": "The empirical psychology research is supportive: it establishes that competition tends to undermine self-esteem (the diagnostic premise), but the normative argument (what mechanisms to use) is independently derived through philosophical analysis. This is normative_with_qualitative_empirical (supportive) — the empirical component provides the diagnostic foundation but not the normative prescription."
+  },
+  "case_type": {
+    "has_case": false,
+    "case_medium": "none",
+    "case_name": null,
+    "case_function": null,
+    "case_relation_to_argument": null,
+    "case_selection_justified": false
+  },
+  "normative_stake": {
+    "level": "medium",
+    "domain": "social justice / well-being / work / competition",
+    "claim_type": "prescriptive",
+    "closure_type": "conclusion_open"
+  },
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "empirical_presentation",
+    "framework_proposal",
+    "conceptual_distinction",
+    "normative_derivation",
+    "conclusion_open"
+  ],
+  "reflexive_move": false,
+  "key_concepts": ["self-esteem", "competition", "solidarity", "ten mechanisms", "well-being", "social conditions of self-esteem"],
+  "thinkers_deployed": {
+    "central": ["Rawls (basic goods)", "Honneth (recognition)"],
+    "engaged_critically": [],
+    "referenced_only": ["Rosenberg", "Crocker", "Anderson", "Sen"]
+  },
+  "confidence_notes": "Type 5 (normative argument with empirical diagnosis, supportive variant): the empirical psychology establishes the problem (competition undermines self-esteem), the normative argument proposes the solution (ten mechanisms). Not constitutive because the normative prescription is independent of the specific empirical findings."
+}

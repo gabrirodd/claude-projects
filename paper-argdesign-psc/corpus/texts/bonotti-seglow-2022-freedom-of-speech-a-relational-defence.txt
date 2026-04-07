@@ -1,0 +1,779 @@
+[PAGE 1]
+                                                             
+                                                             
+                                                             
+                                                             
+      Freedom of Speech in the Liberal Tradition             
+                                                             
+                                         PhilosophyandSocialCriticism
+                                         2022,Vol.48(4)515–529
+      Freedom   of speech: A                                 
+                                         ©TheAuthor(s)2022   
+      relational defence                                     
+                                         Articlereuseguidelines:
+                                         sagepub.com/journals-permissions
+                                         DOI:10.1177/01914537211073782
+                                         journals.sagepub.com/home/psc
+      Matteo Bonotti                                        
+      MonashUniversity,Clayton,VIC,Australia                 
+      Jonathan Seglow                                       
+      RoyalHollowayUniversityofLondon,Egham,UK               
+      Abstract                                               
+      Muchoftherecentliteratureonfreedomofspeechhasfocusedontheargumentsforand
+      againsttheregulationofcertainkindsofspeech.Discussionsofhatespeechandoffensive
+      speech,forexample,aboundinthisliterature,asdodebatesconcerningthepermissibility
+      ofpornography.Lessattentionhasbeenpaid,however,atleastrecently,tothenormative
+      foundationsoffreedomofspeechwherethreeclassicjustificationsstillprevail,basedon
+      thevaluesoftruth,autonomyanddemocracy.Inthispaperweargue,first,thatnoneof
+      thesejustificationsmeetallfourintuitivedesiderataforanadequatetheoryoffreespeech.
+      Wegoontosketchanoriginalrelationalviewoffreespeech,onewhichgroundsitsvalue
+      intherecognitionthatspeakersgranteachotherwhenengaginginspeechpractices,and
+      its limits in the republican ideal of non-dominated co-exercisable liberty. We briefly
+      illustratetherelationalapproach’simplicationsforthedebateonhatespeechregulation
+      and for the response to fake news.                     
+                                                             
+      Keywords                                               
+      autonomy, democracy, free speech, recognition, republicanism, truth
+                                                             
+      1. Introduction                                        
+                                                             
+      The literature on free speech is voluminous, fuelled by a never-ending stream of con-
+      troversies. Much of that literature though is relatively homogenous and, in the US,
+                                                             
+      Correspondingauthor:                                   
+      JonathanSeglow,RoyalHollowayUniversityofLondon,EghamHill,EghamTW200EX,UK.
+      Email:j.seglow@rhul.ac.uk                              
+      AversionofthisarticlewaspresentedattheVeniceSeminars2021("FreeSpeech,ItsPrimacyandLimits")thatwere
+      organizedbyReset-DialoguesonCivilizationsincollaborationwithCa’FoscariUniversityofVeniceandwiththesupportof
+      NomisFoundation.DuetothepandemictheSeminarswereheldonllinefromMay25-28,2021.
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+      516                          Philosophy and Social Criticism 48(4)
+                                                             
+                                                             
+      somewhat self-referentially, preoccupied by First Amendment interpretation. Further
+      more, the free speech literature tends to focus on the limits on speech, and on its reg-
+      ulation. In a legal context, the reason for that focus is obvious. But it leaves absent a
+      reflectiononwhyfreespeechisvaluableinthefirstplace,eventhoughthisisanecessary
+      prerequisite for an adequate defence of its limits. In fact, the extant literature on the
+      foundationsoffreespeechhasnotadvancedsignificantlyinseveraldecades.Itcontinues
+      tobedominatedbythreeclassicapproaches,basedonthevaluesoftruth,autonomyand
+      democracy. Even Shiffrin’s (2011, 2014) recent and original thinker-based argument is
+      presented by her as a version of the autonomy view.    
+        Inthispaper,wepursuetheambitiousaimofdevelopinganewviewoffreespeech’s
+      nature and value, at least in outline. Our reasons for doing so stem from substantive
+      dissatisfaction with the extant theories. Specifically, we claim that such theories cannot
+      meet four intuitive desiderata for an adequate theory of free speech. In Section 2, we
+      explainthesedesiderataandinSection3weemploythemtoevaluatethetruth-based,
+      autonomy and democracy theories. Subsequently, we present our own – relational –
+      view.Theintrinsicvalueofspeech,weargue,isintherecognitionthatspeakersthereby
+      accordeachother(Section4),whilethescopeandlimitsofspeecharesuppliedbythe
+      theoryofrepublicanism(Section5).Havingpresentedtherelationalview,weshowthat
+      it meets the four desiderata (Section 6). Section 7 briefly illustrates the fertility of the
+      relationalviewbysketchingitsimplicationsforspeech’slimitsintwovexatiousareas,
+      theestablisheddebateonhatespeech,andtheneweroneoffakenews.Section8briefly
+      concludes.                                             
+      2. Desiderata for a theory of free speech              
+      Inaliberalsociety,thereisapresumptioninfavourofindividualliberty,butonethat
+      may sometimes be overridden on welfarist grounds (Dworkin 1977). The point of a
+      free speech principle is to protect speech from being limited by all but the most
+      powerful normative considerations. That may be because speech is valuable yet
+      peculiarly vulnerable to being unjustifiably limited; and/or because although some
+      speechisapttoharm,itshouldnonethelessbeaffordedprotectionduetosomespecial
+      valuethatweassigntoit,andthereforethethresholdforinterventionshouldbehigher
+      than with other sources of harm. The first desideratum for a free speech theory is
+      therefore to explain this specialness, and so to distinguish speech from liberty more
+      generally.                                             
+        Speech, though, is not all of a type. If we accept the common distinction between
+      ‘high-value’speech(e.g.politicalandartistic)and‘low-value’speech(e.g.hatespeech,
+      pornography),thenthepointofafreespeechprinciple,especiallyonthehigherthreshold
+      forharminterpretation,shouldalsobetovindicatetheintuitionthatsomekindsofspeech
+      meritespeciallystringentprotection.Stringencyisthereforetheseconddesideratumfora
+      theoryoffreespeech,andpoliticalandartisticspeecharethecategoriesmostcommonly
+      thought to be clear instances of high-value speech.    
+        The third desideratum is to address the issue of balancing pro-free speech consid-
+      erationsagainstreasonstolimitorregulatespeech.Balancingdiverseconsiderationsina
+                                                             
+                                                             
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+      Bonotti and Seglow                             517     
+                                                             
+                                                             
+      worldofpluralvaluesishardlyanovelenterpriseforpoliticaltheorists,orindeedcourts.
+      Havingassertedarighttofreespeech,for example, Article 10oftheECHRgoesonto
+      adumbrate in its second clause interests such as public safety and privacy, which can
+      militate againstfree speech incertaincontexts. We callthis externalbalancing because
+      the values that are weighed against free speech are not values that underly free speech
+      itself.Bycontrast,iffreespeechisjustifiedonthebasisofsomevalue,thenitmaybethat
+      inothercontextsrespectforthatvaluewillmilitateagainstoneparty’sspeech.Wecallthis
+      internalbalancingbecauseitinvolvestherationaleforfreespeechitself.Someexternal
+      balancing is unavoidable with plural values in a non-ideal world. However, it is a
+      plausibledesideratumofatheoryoffreespeechthatitrequiresnointernalbalancing,that
+      is,thatitsbasicrationaledoesnotalsocountagainstspeech(thispointwillbecomeclearer
+      when we consider theories of free speech below).       
+        Thefinaldesideratum,oneseldomaddressedinfreespeechcircles,isthatcitizenshave
+      theopportunitytospeak.Itistruethatthenegativerighttofreespeechandtheopportunity
+      to exercise it are analytically distinct. But we need to consider the meaning of a free
+      speech right from the perspective of a potential speaker who wishes to communicate
+      something to others, or to influence them, or make a request of them, or to engage in
+      deliberationwiththem,andsoon.Itmightbethattheylacktheresourcesfortheirspeech
+      to have any effect on others in a public context. It might be that their viewpoint is
+      disregardedbecausethegrouptheybelongtoispubliclydisesteemedormarginalised,as
+      inthecaseofavilifiedminorityethnicgroup.Awifemayfaceahusbandwhoroutinely
+      ignoresoroverlooksherspeech:hernegativerighttofreespeechisintact,butitisempty.
+      Theassumptionunderlyingthese examplesisthatthepoint offree speech istoaddress
+      othersandpossesssometractionindoingso;aperson’sspeech,tohavevalueforthem,
+      needs to have the potential for uptake. Without this, free speech, for some at least, is a
+      liberty without worth (Rawls 1999: 179). Exactly what this implies remains to be de-
+      termined;ourclaimfornowisonlythatacogentviewoffreespeechshouldaddressthe
+      issue of substantive opportunities to speak.           
+        Insum,therearefourcriteriabywhichweshallassessextanttheoriesoffreespeech:
+      specialness, stringency, no internal balancing and opportunity.
+      3. Critique of the classic theories                    
+      Inthissectionwepresentthethreeclassictheoriesoffreespeechinabriefandstylised
+      way, and evaluate them according to the four criteria. Our purpose in doing so is to
+      communicate our scepticism and thus to motivate the basis for looking at free speech
+      afresh.                                                
+      Truth                                                  
+      JohnStuartMill’s(2006)famousconsequentialistargumentforfreespeechsaysthatits
+      purpose is to render our views and opinions on contested matters more well-grounded;
+      onlythroughtheirsusceptibilitytochallenge andcritique canthose opinions berefined
+      and improved, and progress be made towards the discovery of truth. Free speech is a
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+      518                          Philosophy and Social Criticism 48(4)
+                                                             
+                                                             
+      necessaryinstrumenttoachievetheseaims.WhileMill’sconsequentialistargumentcan
+      explain the specialness of free speech compared to other liberties more generally, the
+      scopethiscoverswillbelimitedtocaseswhereattainingmorecogentviews,oratleast
+      improving our deliberative capacities (Brink 2008), are involved. In many cases,
+      however, the conditions in which these two aims are realised involve relatively strict
+      regulationsonspeech,rulingout,forexample,fakenewsorthetransmissionofculturally
+      orthodox views. In other words, what renders free speech special may often be better
+      achieved be regulating, rather than protecting, certain forms of speech.
+        When it comes to stringency, it seems clear that based on Mill’s consequentialist
+      argument, little if any protection should be enjoyed by low-value speech such as por-
+      nography. Conversely, while it is hard to disagree that speech on controversial social,
+      political andallied issues,whereweseektoimprove ourviews, merits highprotection,
+      other intuitively high-value modes of speech seem to fall outside the scope of the
+      consequentialist argument. Consider, for example, ritualistic speech within a closed
+      religiousorder.Suchspeechisconcernedwithultimateissuesoftruthandmeaningbut,as
+      farasreligiousadherentsareconcerned,thesequestionsarealreadysettled.Ifsuchspeech
+      has high value, its source cannot lie in its contribution to an open-ended and critical
+      process of truth discovery.                            
+        Consequentialisminvolvesseeinganindividual’swell-beingasvaluablenotinitself
+      butratherasanelementinalargersum.Thisimpliesthatneithertheinterestsofspeakers
+      northeinterestsoflistenershaveanyindependentweightseparatefromthecalculationof
+      overall utility for the community to which they belong. Consequentialism therefore
+      cannotavoid,andinfactinvolves,aprocessofinternalbalancingthroughagglomeration;
+      thetruth-relatedinterestsofspeakersandofthosewhomtheirspeechaffectsareintegrated
+      intoasingletheoreticalstructure.Whilefreespeechmighthelppromotetruthdiscovery
+      andcriticalreflectionbysome,itmighthindertheachievementofthatgoalforothers–for
+      example,thosewhoendupembracingfalseopinionsasaresultoftheirfreecirculation
+      within society (e.g. see Schauer 2012).                
+        As far as opportunity to speak, our final criterion, is concerned, the consequentialist
+      theory is silent. On a more deliberative interpretation of Mill’s argument, one could
+      perhaps make the argument that individuals merit substantive opportunities to cultivate
+      theirdeliberative capacities, butthatwouldbeateleological goal, nota matter ofright.
+      And,inany case, theargumentwouldnotseem towarrant suchopportunities for those
+      whose speech will do little to contribute to more cogent or correct views.
+      Autonomy                                               
+      Theautonomytheoryoffreespeechcanbepresentedinvariousways–asaprocedural
+      listener-basedtheory,forexample,asinScanlon’s(1972)earlierwork,orasasubstantive
+      ideal. C. Edwin Baker (2011) presents a speaker-centred substantive view, one which
+      regards opportunities to speak as bound up with the ideal of a self-governing life. We
+      employspeechindeliberatingwithothersaboutouraimsandaspirations,andofcoursein
+      pursuing self-chosen projects in collaboration with others. Furthermore, speech is the
+      meansbywhichapersoncommunicatesherownthoughtstoothers,andconsiderstheir
+                                                             
+                                                             
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+      Bonotti and Seglow                             519     
+                                                             
+                                                             
+      responses. If we interpret autonomy as a substantive ideal, then it is not difficult to see
+      howitcoulddemandthatindividualshavetheopportunity,notjust,theformalfreedom,to
+      speak. But on the other criteria, the autonomy approach is less clear.
+        Forastart,theidealofindividualautonomymilitatesagainstpersonsbeingbeholden
+      to or under the sway of others in any area of their lives, therefore free speech does not
+      present any distinctive specialness in this theory. There does not seem any categorical
+      distinction, that is, between my limiting your autonomy by preventing you from com-
+      municating your views to others and other kinds of limits to autonomy such as cur-
+      tailmentstofreedomofmovementorfreedomofreligiousconscience(Schauer2015).At
+      the same time, some forms of especially valuable speech do not seem to involve the
+      speechofsubstantivelyautonomousagents.Theritualisticspeechofreligiousadherents
+      we mentioned earlier is a case in point. So too is the inflammatory speech that we hear
+      from speakersat politicalrallies, orat least theaudience’sinstinctive reaction. Like the
+      formerexample,onecouldmakethecasethatthiskindofspeechisespeciallyvaluable,
+      even though it does not seem to be an instance of autonomous agency.
+        Finally,itseemsclearthattheautonomyapproachtooissusceptibletotheproblemof
+      internalbalancing.Phenomenasuchashatespeechandpornographyarguablyimpinge
+      upon the autonomy of those they target or affect. Thus, we are left having to choose
+      between (and judge the significance of), on the one hand, curtailing the autonomy of
+      potential speakersinorder toprotectthatoflisteners(includingthirdparties)or,onthe
+      other hand, protecting the autonomy of speakers with the known consequence that the
+      autonomy interests of listeners are impinged upon. This is the internal balancing we
+      referred to earlier, when the same basic value counts both in favour of and against free
+      speech.                                                
+      Democracy                                              
+      Thedemocraticdefenceoffreespeech,firstdefendedbyAlexanderMeiklejohn(1948),
+      callsattentiontothewayinwhichthecirculationofideasinasociety’spubliccultureis
+      boundupwithcitizensexercisingtheirdemocraticroleofevaluatingpoliticalactivityand
+      helpingdeterminethestate’sproperdirection.Aswiththeotherapproaches,theargument
+      comesinanumberofforms.Post(2011)maintainsthatcitizenscannotreasonablyregard
+      themselves as authors of the law unless they have had the substantive opportunity to
+      influencethecourseofpublicdiscussion.Weinstein(2011)andDworkin(2009)arguefor
+      astronger viewaccordingtowhichtheexerciseofpoliticalpowerisillegitimateunless
+      citizens have had the opportunity to state their view, including speaking out against
+      potential laws andproposals. It iscommonlyacceptedthat onthedemocratic argument
+      speechshouldbeinterpretedinrelativelybroadtermstoincludenotjustformalpolitical
+      speech but also literature and the arts, cultural commentary, and social critique.
+        If democracy is plausibly interpreted as a substantive ideal, not merely a procedural
+      value, then it is not difficult to see how it could ground an argument for citizens’ op-
+      portunity to speak. Speech is influence, and unequal speech means that wealthy and/or
+      well-connectedcitizenshavemoresayoverpoliticaloutcomesthanlessadvantagedones,
+      a syndrome of virtually all current liberal democracies, and one that damages their
+                                                             
+                                                             
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+      520                          Philosophy and Social Criticism 48(4)
+                                                             
+                                                             
+      democraticcredentials.Rawls(2001)makesasimilarargumentinhisdefenceofthefair
+      value of political liberties.                          
+        The democratic argument also seems to meet the specialness criterion, by showing
+      why free speech demands a special place in the pantheon of liberties: it is clearly more
+      seriousforgovernmenttoforestalldiscussionofpoliticalmattersthantointroducetraffic
+      regulations,forexample(cf.Dworkin1977:267-9).Butwhilethedemocraticapproach
+      meetsthefirstcriterion,itdoessobyconflatingtheprotectionofspeechassuchwiththe
+      protectionofhigh-valuepoliticalspeech,thuscontraveningthestringencycriterion.More
+      specifically, political speech, broadly construed, is the kind of speech which merits
+      protection on the democratic view. Cass Sunstein (1993), who defends the democratic
+      approachatsomelength,arguesforexamplethatthedyadpolitical/non-politicalspeech
+      marksthedistinctionbetweenspeechwhichmayonlyberegulatedonthemoststringent
+      time,placeormannerbasesandspeechwherecontent-regulationaptlyapplies.Butthat
+      distinction seems under-motivated. Scientific speech, for instance, is not inherently
+      political,butwouldbedisfiguredbycontent-regulation.Conversely,theclaimthatatleast
+      some hate speech should not be subject to content-based regulation, due to its political
+      nature, seems to beg the question central to the stringency criterion. Likewise, when it
+      comes to the problem of internal balancing, similar issues apply as in the case of au-
+      tonomy. Victims of hate speech who are silenced or intimidated, for example, are often
+      likely to be excluded from democratic participation. But their loss of speech must be
+      balancedagainstthefreespeechrights ofthosewhowanttousetheirpoliticalrightsto
+      spread hate (cf. Reid 2020).                           
+      4. Relational view: The recognitional dimension        
+      Therelationalviewoffreespeechwesetoutinthisandthenextsectionbeginsfromthe
+      thoughtthatspeechischaracteristicallyaddressedtoanothersubject.Wespeak,write,and
+      inother ways communicate toother individuals. (Private speech, as in keeping a secret
+      diary, is the limit case: here we speak to ourselves). That speech addresses others is a
+      conceptual claim. However, the claim also has a number of normative implications.
+        Tobeginwith,ifonepartysayssomethingtoanother,sheclaimspermissiontospeak;
+      thatis,thatshehasthelibertytodeterminewhattosayandinwhatmanner,whentosayit,
+      andtowhom.Thisappliesequallytowrittenastoverbalcommunication;exceptthatin
+      theformerinstancetheaudienceforourspeechmaynotbeimmediatelyknowntous.By
+      ‘permission’,wemeanthatthespeakertakesherselftohavealibertyrighttospeak:she
+      doesnotoweadutynottospeaktoanythirdparty(Hohfeld1919).Forexample,ajunior
+      officer who questions her senior’s order may face a reprimand, but she takes herself to
+      have moral right to speak back nonetheless.            
+        Second,inaddressinganotherwetakeourselvestoenjoyakindofmoralautonomy.
+      The autonomy here is procedural rather than substantive, as we considered above. It
+      meansthattheviews weconvey areours,andnotanotheragent’s.Whetherweaddress
+      otherssimplyaspersonsorasrolebearers withininstitutions,we donottakeourselves
+      simplyasaninstrumenttoconveyothers’views.Proceduralautonomyisnotcontradicted
+      by individuals being instructed or ordered to deliver one person’s views to another.
+                                                             
+                                                             
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+      Bonotti and Seglow                             521     
+                                                             
+                                                             
+      Instructions and orders are not sufficient reasons for an autonomous person to convey
+      another’s view; rather, they are reasons which stand in need of justification for auton-
+      omous persons and which may be outweighed by sufficiently compelling contrary
+      considerations.                                        
+        Third,andbyimplicationofpermissionandautonomy,individualsregardthemselves
+      as answerable for their speech: we regard ourselves as accountable for what we com-
+      municate;andmayrightlybepraised,challenged,criticisedetc.inconsequence.Wedo
+      not for instance regard hate speakers as merely cultural dupes. This is equally true of
+      writtenasitisofverbalspeech:apoliticianisaccountablefortheviewsontheirblog,a
+      writerisresponsiblefortheirinterpretationofhistory,andsoon.Answerabilitypresents
+      bothageneralaspect,concernedwithmoralaccountabilityperse,andaparticularaspect
+      when we interact with each other as role bearers such as family member, religious
+      observantorworkcolleague.Throughourspeechwithfellowroleinhabitants,weanswer
+      forhowfarwehavemettheresponsibilitiesandexpectationsconsequentialforourroles.
+      Beingrecognisedbyothersasarolebeareringoodstandingjustdoesinvolvedischarging
+      one’s role-related responsibilities (cf. Scheffler 2001). Meeting and discussing these
+      responsibilities necessarily involves speech: thus, we are answerable too in this more
+      concrete sense through our role-governed speech–how two parents decide to raise their
+      children, for instance.                                
+        Permissibility,autonomyandanswerabilityareimplicatedinthenotionoffreeagency
+      assuch:weareaccountableforallourconduct,notjustourwords.Butonlyinthecaseof
+      speechdoindividualsimplicitlypresentthesenormativenotionstoanotheragentinthe
+      hopeandexpectationthat they will beconfirmed bythat agent’sresponse.To speak, in
+      otherwords,istoraiseaclaimaboutourlibertytodoso,ourownershipofthewordswe
+      use, and our accountability for them. Listener responses will typically vindicate that
+      claim.SupposeAsaystoB,‘It’sgoingtorainlater’,andBdisagrees,‘No,it’snot!’.By
+      disputing the content of A’s words but not denying her authority to make them, B
+      recognisesA’sliberty.ShealsotakesA’sviewsasherown.IndisagreeingwithA,Btakes
+      her to be answerable for her views. In this typical example of speech, therefore, A
+      implicitly takes her speech act to have normative presuppositions, and B, while vehe-
+      mentlydisagreeingwithit,acceptsthosepresuppositionsherself.Itisasifwetransmitthis
+      normativeframeofspeech,aswellastheconcretecontentofspeech,everytimeweopen
+      our mouths (or put pen to paper). Disagreement is one way of accepting the presup-
+      positions of another individual’s speech; so too is enthusiastic agreement, vigorous
+      criticism,andevendisbelieforridicule.Allthesearemodesofuptake,andatrootspeech
+      asaformofaddressinvolvesaclaimtouptake,aclaimwhichmustbeacceptedbyour
+      interlocutor.                                          
+        Inspeakingtoanotherperson,oragaininwriting,whetherforaconcreteorunknown
+      readership,wemakeparallelassumptionsaboutthevariouskindsofnormativeauthority
+      ouraudiencepossesses.WhenAsaystoB‘It’sgoingtorainlater’,Aimplicitlyassumes
+      B’srighttohearand,inallbuttherarestcircumstances,sheassumesB’srighttorespond
+      tothisstatement.SheassumestoothatitisuptoBtoautonomouslydeterminewhattodo
+      withthisstatement,whethertoagreeordisagree,changethesubject,andsoon,andthat
+      however B does respond, by speech or conduct (e.g. she picks up her umbrella), she is
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+      522                          Philosophy and Social Criticism 48(4)
+                                                             
+                                                             
+      answerableforhowshedoesso.Inaddressinganotherindividual,therefore,weconfirm
+      her possession of just those normative capacities which, when speaking, we claim for
+      ourselves.                                             
+        We can appreciate this point more clearly if we consider how speech can go wrong,
+      wherethereisanattackonoradenialofthenormativecapacitiesimplicatedbyspeechas
+      a form of address. For example, one individual might coercively intrude into another
+      individual’sverylibertytospeak,ortolistentoothers,adenialofthelatter’spermission.
+      Or, through the use of more subtle social coercion, they may succeed in dissuading
+      anotherfromspeakingout,apointfamiliarfromfeministcriticismsofpornography(see
+      e.g.Bonottiand Seglow 2021,Ch. 5). Alternatively,a person may notregard another’s
+      speech as genuinely representing her views; for example, a person may claim to know
+      whatawould-bespeaker’strueinterestsareeventhoughthelatterassertsthatherinterests
+      aredifferent.Finally,someonemaynotregardaspeakerasgenuinelyanswerableforher
+      viewsor,morelikely,nottakeherselftobeanswerabletotheclaims,requestsordemands
+      that another actor makes of her – a form of silencing. 
+        All these wrongs are failures of uptake; failures to confirm, through speech, another
+      speaker’s normative authority qua participant in speech. If, for example, an ethnic mi-
+      norityisdeemedtobeuntrustworthyandtheirmembers’speechisdismissed;orif(some)
+      men do not regard themselves as answerable to women’s speech, then we are in the
+      presenceofaspeech-relatedwrong.Thenotionofuptakedoesnotimplythatthereisa
+      righttoaresponseeverytimeonecommunicatestoothersthroughspeakingorwriting.
+      But where receivers of speech fail to register speakers’ permission, autonomy or an-
+      swerabilityinarepeated,pervasiveorsystematicway,thensomespeech-relatedinjustice
+      has occurred. Failures of appropriate uptake in instances like these are likely to be
+      structural,arisingfrom–butalsocompounding–deeperinjusticessuchasdiscrimination,
+      unequal opportunities and lack of political voice. We believe that there are duties to
+      amelioratethestructuralbarrierswhichsystematicallydenysomegroups’speechuptake
+      with others via the lack of recognition of their normative authority which failures of
+      appropriate uptake involve.                            
+        Theflipsideofourclaimthatlackofspeechuptakeiswrongfulisthepositiveclaim
+      thatmutualconfirmationiswherethevalueofspeechlies.Asweexplained,incontrastto
+      mostformsofconduct,speechisalwaysaddressedtoanotheragent.Weconceptualiseit
+      asakindofreachingout.Bycommunicatingtoanother,anindividualraisesaclaimthat
+      sheenjoysnormativeauthoritytospeak–thatsheisfreetodoso,autonomousindoingso,
+      andanswerablefortheconsequencesofherspeech.Theauthorityclaimisimmanentin
+      thesubstantivecontentofherspeech,whateverthatcontentis,anditisaclaimmadeto
+      anotherindividualwhichcanonlybevindicatedbythatindividual’suptake,uptakewhich
+      cannot be guaranteed and may be systematically thwarted in the ways just described.
+        In speaking to another person therefore we present to them (indeed cannot help but
+      present to them) our practical attitude towards our normative authority along the di-
+      mensionsofpermission,autonomyandanswerability,whileatthesametimeconfirming
+      their possession of those same dimensions of normative authority – that is, confirming
+      them as a speech participant, to put it simply. If our speech partner responds to us in
+      standardways,thenshevindicatesthepracticalrelationtoselfthatwehavepresentedto
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+      Bonotti and Seglow                             523     
+                                                             
+                                                             
+      her in our speech. The intrinsic value of speech on the relational view is that speakers
+      mutuallyconfirmeachother’snormativeauthorityinspeechpractices;theydosowhether
+      theyagreewith,disagreewith,questionorcriticiseeachother’sspeech.Speech,therefore,
+      is a form of recognition; at the highest level of generality, recognition of each other’s
+      status as free, autonomous and answerable participants in a shared social world (cf.
+      Honneth 1992; cf. McQueen 2022). Though clearest in the case of face-to-face verbal
+      exchange,thisisequallytrueofwrittenspeech;individuals’reactionstothewrittenword
+      are more diffuse and delayed than with the immediacy of face-to-face conversation but
+      everywriterwritesforanaudiencewhocanconfirmherstatusasafree,autonomousand
+      answerable agent.                                      
+        Inmostcases,speechisdoublyrelationalastwoormorepartiescommunicatetoeach
+      other so each is both a speaker (or writer) and a receiver of speech. We call this a
+      discourse, and it ranges from a brief exchange in a shop to an intimate conversation
+      between partners, to a discussion among work colleagues, to political debate. In dis-
+      course,eachparticipant’suptakeoftheother’sspeechisreciprocatedandsotheymutually
+      confirmeachother’sstatusasfree,autonomousandanswerableparticipantsinashared
+      social world, at least ideally, if there are no uptake failures.
+      5. Relational view: The republican dimension           
+      Somediscoursesconcerntherules,normsorpoliciesthatshouldbecollectivelyadopted,
+      usuallywithinaninstitution.Wecallthissubsetofdiscoursesdeliberations.Deliberations
+      take place within formal political institutions, as well as in other settings where parties
+      raise and contest laws, rules, policies, norms and expectations concerning the general
+      regulationofbehaviour,suchasinadepartmentalmeetingorafamilydiscussionabout
+      the distribution of domestic labour.                   
+        Thenormativesignificanceofdeliberationwithinourrelationaltheoryoffreespeech
+      canbebetter understoodif weturn totherepublican traditionofpolitical liberty.Inthe
+      contemporary republican revival (Pettit 1997, 2012, 2014; Laborde 2008), freedom is
+      conceptualised as ‘non-domination’, in a way that is both social and relational. More
+      specifically, the core insight of republicanism is that to enjoy the status of being a free
+      personitisnecessarythatotherscannotinterferewithyourlibertyinanarbitraryway.The
+      capacitytoarbitrarilyinterferewithaperson’sliberty,evenifitisnotexercised,means
+      making that person’s will subordinate to one’s own, or being able to dominate another.
+      Individuals who are non-dominated enjoy ‘security in the exercise of…[their]…basic
+      liberties’ (Pettit, 2014: 77) and, therefore, ‘the status or dignity of the free republican
+      citizen’ (Pettit, 2014: 61).                           
+        Securingtheconditionsofnon-dominationrequires,first,thateachpersonenjoysbasic
+      libertiesandrightswhicharesecurelyprotectedandentrenched.Thisentrenchmentmust
+      further be a matter of common awareness so that each person’s status as a free (non-
+      dominated)individualismanifesttoall.Eachpersonmustalsobeadequatelyresourced
+      such that she can genuinely exercise her basic liberties. Not all freedoms, however, are
+      basicorfundamentalaccordingtorepublicanism.Instead,republicansassignpriorityto
+      thosefreedomsthatareco-exercisable(e.g.seeLovett2016)sothateachpersonisableto
+                                                             
+                                                             
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+      524                          Philosophy and Social Criticism 48(4)
+                                                             
+                                                             
+      enjoythemconsistentwithothersdoingsotoo.Inotherwords,basicliberties–including
+      freedomofspeech–shouldbeco-exercisablebyallparticipantsinapoliticalcommunity,
+      sothatone’sperson’slibertymaybeconstrainedinthenameofsecuringoraugmenting
+      the liberty of (an)other(s). Entrenched basic liberties give each person a measure of
+      ‘independence from the unconstrained and unauthorised preferences of others’ (Pettit
+      2014, p.198). With this in place, society and its institutions will satisfy the so-called
+      ‘eyeball test’ (Pettit 2014, p. 99), since citizens will be able to stand tall and look each
+      otherintheeyewithoutdeferenceortheneedtocurryothers’favour.Thisiswherethe
+      recognitiveandrepublicandimensionsofourrelationaltheoryoffreespeechconverge.
+      Let us explain.                                        
+        The status of being a free person in the republican sense ‘presupposes life in the
+      company of others’ (Pettit 2014, p.198). As Ce´cile Laborde points out, republicanism
+      overcomes the individualistic traits of liberalism, which implicitly underlie existing
+      defences of freedom of speech, and advances instead a ‘holistic republican ontology
+      [which] takes at its starting point the mutual dependency and mutual vulnerability of
+      individuals-in-society’ (Laborde 2013, p. 522). Republican freedom, in this sense,
+      ‘appearsasanintrinsicallysocialandrelationalgood,onewhichisnotachievedthrough
+      the absence of (certain types of) institutions and relationships but rather through the
+      presence(andactivefostering)oftherightkindofinstitutionsandrelationships’(Laborde
+      2013, p. 522). Republican liberty is relational in the general sense that it requires non-
+      dominatingrelationshipswithothers.Moreprecisely,non-dominationrequiresthateach
+      personenjoys‘recognitionasasubjectwithavoiceandanearofone’sown’(Pettit2001,
+      p.90),onewhohasasayintherulesandlawsthatgovernherandhercommunity;who
+      sharesinthesystemofpopularcontrolwithotherswhorecogniseherrighttodoso,where
+      thisisaffirmedinlawandalsoaccompaniedandsupportedbycorrespondingsocialnorms
+      (norms that the law itself can contribute to producing and sustaining over time) (Pettit
+      2012, pp. 128–19).                                     
+        Neither Pettit nor other republican theorists have done much to consider the impli-
+      cationsoftheirtheoryforfreedomofspeech(thoughseePettit1994)butwebelievethat
+      thesearesignificant.Tobeginwith,itisworthnotingthatcentraltorepublicanismisthe
+      view that laws as such should not be considered a limitation of our liberty if they are
+      appropriatelyauthorised,wherethismeansthattheystemfromanon-arbitrarysystemof
+      popularcontrol(Pettit2014p.198).Inthissense,rulesthatregulatespeechshouldnotbe
+      consideredalimitationoffreedomofspeech–infact,theymayenhanceit.Consider,for
+      example,anassociation’smeetingwhichneedstoarriveatacollectivedecision.Thechair
+      saysatthestart,‘Iwanttoheareveryone’spointofview’,theimplicationbeingthatshe
+      willencourageeveryonetospeakandwillcutpeopleoffifanyofthemseektodominate
+      thediscussion.Shetherebyregulatesspeechbasedonnon-arbitraryrulescontainedinthe
+      (democraticallyagreedupon)association’scharter.Bydoingso,webelievethatthechair,
+      farfrominterferingwith/limitingfreespeech,infactenhancesit,thatis,sheenhancesco-
+      exercisable freedom (as non-domination) of speech for all, provided at least that those
+      rulesarenon-arbitraryandemanatefromasystemofpopularcontrolratherthanfromher
+      personal whim.                                         
+                                                             
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+      Bonotti and Seglow                             525     
+                                                             
+                                                             
+        Therighttofreespeech,understoodasco-exercisablefreedomasnon-dominationof
+      speechforall,isnotonlythepotentialobjectofregulationandpopularcontrol.Itcanbe
+      itselfessentialfornon-dominationandpopularcontrol.Citizenslivingunderrepublican
+      institutionsshould each enjoy theability to shape thedirection of the authorities which
+      issuelawsontheirbehalf.Democracyaspopularcontrolenables(ratherthanhinders)our
+      liberty, and is the opposite of arbitrarily imposed law. Free speech is a basic right for
+      republicansbecauseitisessentialtoanykindofsocialrelationinwhichparticipantsenjoy
+      thestatusofnon-domination–theyarenotsubordinated,marginalisedoroppressed–by
+      enabling them to speak out and contest collective decisions, as wellas toexercise their
+      otherrightssuchasfreedomofassociation.Ontherepublicanview,therefore,freespeech
+      isarelationallibertyand,throughtheexerciseofvoice(Laborde2008,p.152),centralto
+      a system of popular control and contestation. Under republican political arrangements,
+      onespeakstoothersinordertoexerciseone’srighttoasay,andonelistenstoothersin
+      orderforthemtobeabletoexercisetheirrighttoasay:mutualuptakeisarequirement.
+        Insummary,bothrecognitiontheoryandrepublicanismhelpustoconceivefreespeech
+      inrelationaltermsanddosoincomplementaryways.Recognitiontheoryaddressesthe
+      relativeneglectinrepublicanismofthefactthatfreespeechconfirmsanindividualinher
+      personhood or role through her addressee registering via her uptake the permission,
+      autonomyandanswerabilityimplicitintheindividual’scommunicativeacts.Conversely,
+      republicanism addresses recognition theory’s relative silence on freedom as a social
+      relation and on political decision-making. Moreover, republicanism is equipped to
+      identify structural injustices such as democratic deficits or gender hierarchies where
+      uptake failures are systematic and pervasive.          
+      6. The four desiderata redux                           
+      Ourfourdesiderataforacogentjustificationoffreespeechwerethatitvindicatesitsstatus
+      as a basic liberty; shows what forms of speech merit especially stringent protection;
+      avoidsaninternalbalancingofconsiderationsfavouringandlimitingspeech;anddefends
+      the egalitarian intuition that individuals should enjoy some opportunities to speak.
+        Therecognitivedimensionoftherelationalviewexplainsspeech’sspecialstatusover
+      otherformsofconduct.Thoughpermission,autonomyandanswerabilityareimplicated
+      inconductingeneral,muchconductdoesnotraiseaclaimonotherstorecognisethose
+      capacitiesinus.Consideractionsthatdonotinvolveaspeechcomponentsuchaswalking
+      inthestreetoreatingfood.Inthecaseofspeech,however,webothissueaclaimonothers
+      torecogniseournormativeauthorityandrecognisethatauthorityinthem,asexplainedin
+      Section 4. Such authority is valuable yet vulnerable; an attribute of our practical-moral
+      status which needs affirmation by others to be properly realised. This gives speech its
+      fundamental status.                                    
+        In discourses which are also deliberations on common norms or rules, participants’
+      ability to maintain their undominated status as equal persons free from arbitrary inter-
+      ferenceandsubordinationisatstake.Co-deliberationonsharedrulesandnormsishigh-
+      value speech, and on the republican view should enjoy especially stringent protection.
+      (Thisincludesculturalandartisticspeechasthesetoorefleconhowsociety’smembersare
+                                                             
+                                                             
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+      526                          Philosophy and Social Criticism 48(4)
+                                                             
+                                                             
+      regarded.)Fromtherecognitionperspective,wealsosawhowsomespeechisboundup
+      withtheresponsibilitiesofbeingarole-bearer:areligiousadherentorscientistworkingon
+      a common project, to return to two examples from Section 3. This speech too merits
+      stringent protection. Non-deliberative discourses and other speech outside these cate-
+      gories,suchascommercialspeechoreverydayinteractionswhereresponsibilitiesarenot
+      at stake, remain instances of basic liberties, but of a lower category.
+        The recognitive approach addresses the balancing issue through the idea that each
+      individual enjoys the same normative authority as every other. Unlike the substantive
+      autonomy perspective of Section 3, it could imply that speakers who engage in (for
+      example)hatespeechclaimillegitimatelygreaterauthoritytospeakthantheylegitimately
+      possess,thoughthatargumentneedsspellingout.Meanwhile,therepublicanthesisthat
+      basic liberties must be co-exercisable in order to secure each person’s equal and inde-
+      pendent status offers a direct answer to the internal balancing problem. Speech which
+      diminishesothers’speechinterestsrendersthelattermoreburdensometoexercise:thus,
+      the co-exercisability requirement favours each person’s equal liberty to speak.
+        We earlier drew attention to how systematic uptake failures eroded the bases for
+      individuals to have their normative authority confirmed. By the same logic, as uptake
+      failuresunderminerecognition,anindividualwhoenjoystheformallibertytospeak,but
+      lacks the practical ability to have her views registered by others – whether family,
+      workmatesorfellowcitizens–possessesanemptyfreedom.Torepeatthepoint,thereis
+      no right to consideration every time one attempts communication. Yet there remains a
+      threshold below which speaker opportunity is absent, or at least insufficient. Thus, the
+      recognitiveapproachoffersthegermofananswertothefinal,opportunitycriterion.This
+      answerisaugmentedthroughtherepublicaninsistencethatindividualsenjoythecapacity
+      to contest rules and norms which would (further) subordinate, marginalise or oppress
+      them. Only through all affected persons having a real voice of their own can such
+      contestationoccur;thisrequiressubstantiveopportunitiestocommunicate,beyondtheir
+      formal freedom.                                        
+      7. Hate speech and fake news                           
+      The implications of the relational account of free speech can be further explored by
+      applying it to two specific kinds of speech: hate speech and fake news.
+        Onthestandardviewofit,hatespeechattacksthebasiccivicstandingofitstargets,
+      communicating that they are not genuine members of the political community (e.g.
+      Waldron2012;seealsoBonottiandSeglow2021,Ch.3).Bydoingso,hatespeechfailsto
+      recogniseitsvictimsasagentswiththeirownviewsandinterests,deniesthattheyenjoy
+      anynormativeauthorityasdiscursivesubjects,andusuallydisrespectstheircivilrights,
+      includingtheirrighttofreedomofexpression.Themessageofhatespeechisthatsome
+      people, on account of their ethnicity, race, religion etc. are not worth engaging in dis-
+      coursewith,becausetheyarenotproperlymembersofthepoliticalcommunityoreven,in
+      extremeformsofhatespeech,notproperlypersons.Furthermore,insofarashatespeech
+      helpsfuelanatmospherewheresomepeopleareregardedashavingalesserstatus,even
+      by those who (unlike hate speakers) have no special animus towards them, it also
+                                                             
+                                                             
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+      Bonotti and Seglow                             527     
+                                                             
+                                                             
+      indirectlyerodestheirstatusasequalmembersofthepoliticalcommunitywiththerightto
+      engage in deliberative discourses with others. All of this constitutes a direct failure to
+      considerhatespeech’stargetsasdiscursiveequalswhohavepermissiontospeakandthe
+      capacity autonomously to develop their own views. Furthermore, hate speakers are
+      unlikely to recognise that they are answerable to others for their speech.
+        One’sstatusasadiscursivesubjectoffreespeechisdismissedwhenoneistheobjectof
+      speechthatissilencing,humiliatingorthreatening.Mostinstancesofhatespeechshare
+      these features and, therefore, fail to recognise their targets as discursive subjects with
+      normative authority. Regulating hate speech can ensure that its potential victims are
+      appropriatelyrecognisedinspeechanddiscourses,andthattheycanparticipateinpopular
+      control by speaking out and contesting collective decisions. Crucially, from the per-
+      spectiveofourrelationaltheory,theregulationofhatespeechshouldnotbeconsideredas
+      arestrictiononthefreespeechofthesilencedhatespeakers,andthereforeasanissueof
+      balancing,butratherasawayofguaranteeingco-exercisablefreedomofspeechforall.
+      Under the relational view, and particularly under its republican dimension, it is not
+      arbitrary to be interfered with (in the exercise of free speech) in order to guarantee the
+      undominatedfreedomofspeechofothers,ortosecuretheirstatusasdiscursivesubjects.
+      This point signals at its best the importance of co-exercisability in our relational con-
+      ception of free speech.                                
+        Fake news provides another interesting example of speech that contravenes the key
+      normativetenetsofourrelationalapproach.Thereisdisagreementregardingtheprecise
+      meaningoffakenews.Forexample,noteveryonebelievesthatfakenewsisalwaysdriven
+      by political goals (Rini, 2017, p. E45), and there is ongoing debate as to whether fake
+      news is effective thanks to structural flaws or to individual cognitive biases, or both
+      (Chambers, 2021; Rini, 2017). However, most scholars agree that fake news tends to
+      involvetwokeyfeatures:thosewhoemployitdeliberatelyaimtomisleadtheiraudiences
+      in order to achieve some ulterior goal, and they do so by formally mimicking (without
+      effectivelycomplyingwith)journalisticconventionstopresent‘news’whichis(largelyor
+      completely) false (see Aikin and Talisse, 2018; Gelfert, 2018; Rini, 2017).
+        It seems evident that fake news disrupts citizens’ capacity to arrive at well-founded
+      viewsandsubvertsthepracticeofdiscourseandpoliticaldeliberationbymisinformation.
+      Likehatespeech,thoughwithamoreepistemicdimension,fakenewsfailstorecognise
+      the normative authority of its audience as discursive subjects. Those who produce fake
+      newsclaimpermissiontospeak,butarenotconcernedastowhethertheiraudiencealso
+      haslibertytospeak,sincecommunicationinfakenewstendstobemostlyunidirectional,
+      notdiscursive.Likewise,itseemsthattheuseoffakenewsentailsafailuretorecognise
+      the autonomous agency of the audience, since it involves exploiting the audience’s
+      cognitive biases. Recipients of fake news are normally considered as instruments to
+      convey the fake news producers’ views rather than as agents capable of autonomously
+      developing and conveying their own views. Furthermore, fake news producers tend to
+      deny that they are answerable to anyone for their speech, since the scrutiny that comes
+      withaccountabilitywouldlikelyunderminetheeffectivenessoftheirfake newsstories.
+      These considerations suggest that, like hate speech, fake news also violates the key
+      normativetenetsofourrelationalviewoffreespeechand,therefore,maybelegitimately
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+      528                          Philosophy and Social Criticism 48(4)
+                                                             
+                                                             
+      regulated.Onceagain,regulationinsuchcasespromotesratherthanrestrictsfreespeech
+      by ensuring that all citizens are recognised as discursive subjects co-exercising their
+      undominated freedom of speech.                         
+                                                             
+      8. Conclusion                                          
+      Most of the recent academic scholarship on free speech has focused on establishing
+      whether and why certain types of speech should sometimes be regulated, largely ne-
+      glecting the more fundamental question of why free speech is valuable and merits
+      protectioninthefirstinstance.Inthispaper,wehavetackledthelatterquestionandargued
+      thatanadequatetheoryoffreespeechmustmeetfournormativedesiderata:specialness,
+      stringency,nointernalbalancingandopportunity.Noneofthetraditionaltheoriesoffree
+      speech(basedontruth,autonomyanddemocracy),weargued,meetsallfourdesiderata.
+      We defended a new relational theory of free speech, which grounds its value in the
+      recognition that speakers grant each other when engaging in speech practices, and its
+      limits in the republican ideal of non-dominated co-exercisable liberty. Our theory, we
+      concluded, meet all four desiderata. We also briefly illustrated the implications of our
+      argument for the regulation of hate speech and fake news. Due to the limited space
+      available, we have only been able to sketch the main features of our new theory. Un-
+      packingandelaboratingonitskeyelements,andapplyingittootherfreespeechdebates
+      and controversies, is a task that will need to wait until another day.
+      ORCID iDs                                              
+      MatteoBonotti https://orcid.org/0000-0001-8241-4896   
+      JonathanSeglowhttps://orcid.org/0000-0002-2766-1955   
+                                                             
+      References                                             
+                                                             
+      Aikin, S. F., and R. B. Talisse. 2018. “On ‘Fake News’.” 3 Quarks Daily, May 2, 2018. https://
+         3quarksdaily.com/3quarksdaily/2018/05/on-fake-news.html.
+      Baker, C.E. 2011. “AutonomyandFree Speech.”Constitutional Commentary27(2): 251-280.
+      Bonotti,M., andJ.Seglow.2021. Freespeech.Cambridge: Polity.
+      Brink,D.O.2008.“Mill’sLiberalPrinciplesandFreedomofExpression.”InMill’sOnLiberty:A
+         CriticalGuide,edited byC. LTen,40-61. London:CambridgeUniversity Press.
+      Chambers,S.2021.“Truth,DeliberativeDemocracy,andtheVirtuesofAccuracy:IsFakeNews
+         Destroyingthe Public Sphere?”Political Studies,69(1):147-163.
+      Dworkin,R. 1977.Taking Rights Seriously.Cambridge, MA:Harvard University Press.
+      Dworkin, R. 2009. “Foreword.” In Extreme Speech and Democracy, edited by I. Hare and J.
+         Weinstein, v-ix.Oxford:Oxford University Press.,    
+      Gelfert, A.2018. “Fake news:ADefinition.”Informal Logic38(1):84-117.
+      Hohfeld, W. N., and W. W. Cook. 1919. Fundamental Legal Conceptions. New Haven: Yale
+         University Press.                                   
+      Honneth, A. 1992. The Struggle for Recognition: The Moral Grammar of Social Conflicts.
+         Cambridge, MA:MITPress.                             
+                                                             
+                                                             
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+      Bonotti and Seglow                             529     
+                                                             
+                                                             
+      Laborde, C. 2008. Critical Republicanism: The Hijab Controversy and Political Philosophy.
+         Oxford:Oxford University Press.                     
+      Laborde,C.2013.“Republicanism.”InTheOxfordHandbookofPoliticalIdeologies,editedbyM.
+         Freeden,L. T.Sargent,andM. Stears,513-535. Oxford: OxfordUniversity Press.
+      Lovett,F.2016. “Civic Republicanism andSocial Justice.”PoliticalTheory 44(5):687-696.
+      McQueen, P. 2022. “Recognition and Social Freedom.” European Journal of Political Theory,
+         22(2): 89-110                                       
+      Meiklejohn,A.1948.FreeSpeechandItsRelationtoSelf-Government.NewYork,NY:Harper.
+      Mill,J.S.2006[1859/1869].OnLibertyandTheSubjectionofWomen,editedbyA.Ryan.London:
+         PenguinBooks.                                       
+      Pettit, P. 1994. “Enfranchising Silence: An Argument for Freedom of Speech.” In Freedom of
+         Communication,edited byT.Campbell andW.Sadurski, 45-56. Aldershot: Dartmouth.
+      Pettit,P.1997.Republicanism:ATheoryofFreedomandGovernment.Oxford:OxfordUniversity
+         Press.                                              
+      Pettit,P.2001.ATheoryofFreedom:FromthePsychologytothePoliticsofAgency.Oxford:Oxford
+         University Press.                                   
+      Pettit,P.2012.OnthePeople’sTerms:ARepublicanTheoryandModelofDemocracy.Cambridge:
+         University Press.                                   
+      Pettit,P.2014.JustFreedom:AMoralCompassforaComplexWorld.NewYork,NY:W.WNorton
+         &Company, Inc.                                      
+      Post,R.2011.“ParticipatoryDemocracyandFreeSpeech.”VirginiaLawReview97(3):477-489.
+      Rawls,J.1999.ATheoryof Justice (revised edn).Harvard: Harvard University Press.
+      Rawls,J.2001.Justice as Fairness:A Restatement.Cambridge, MA:Harvard University Press.
+      Reid, A. 2020. “Does Regulating Hate Speech Undermine Democratic Legitimacy? A Cautious
+         ‘No’.”ResPublica 26(2):181-199.                     
+      Rini,R.2017.“FakeNewsandPartisanEpistemology.”KennedyInstituteofEthicsJournal27(2)
+         Supplement (June), E-43-E-64.                       
+      Scanlon,T.M.1972.“ATheoryofFreedomofExpression.”Philosophy&PublicAffairs1(2):
+         204-226.                                            
+      Schauer,F.2012.“SocialEpistemology,HolocaustDenial,andthePost-MillianCalculus.”InThe
+         ContentandContextofHateSpeech:RethinkingRegulationandResponses,editedbyM.Herz
+         andP.Molnar,129-144. Cambridge: Cambridge University Press.
+      Schauer,F.2015.“FreeSpeech onTuesdays.”LawandPhilosophy 34(2):119-140.
+      Scheffler,S. 2001.Boundaries andAllegiances.Oxford: Oxford University Press.
+      Shiffrin,S.V.2011.“AThinker-BasedApproachtoFreeSpeech.”ConstitutionalCommentary27
+         (2): 283-307.                                       
+      Shiffrin,S.V.2014.SpeechMatters:OnLying,Morality,andtheLaw.Princeton,NJ:Princeton
+         University Press.                                   
+      Sunstein,C.1993.DemocracyandtheProblemofFreeSpeech.NewYork,NY:TheFreePress.
+      Waldron, J.2012.The HarminHate Speech. Cambridge, MA:Harvard University Press.
+      Weinstein, J. 2011. “Participatory Democracy as the Central Value of American Free Speech
+         Doctrine.”VirginiaLaw Review 97(3): 491-514.        
+                                                             
+                                                             

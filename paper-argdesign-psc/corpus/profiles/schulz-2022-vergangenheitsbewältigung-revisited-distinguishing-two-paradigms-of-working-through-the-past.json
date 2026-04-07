@@ -1,0 +1,75 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "schulz_2022",
+  "title": "Vergangenheitsbewältigung Revisited: Distinguishing Two Paradigms of Working Through the Past",
+  "author": "Schulz",
+  "year": 2022,
+  "journal": "Philosophy and Social Criticism",
+
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "Opening from the 2020 racial justice protests and BLM movement's calls for 'working through' collective pasts, the paper revisits Thomas McCarthy's influential call for American Vergangenheitsbewältigung modelled on the German experience. Schulz diagnoses a conflation in McCarthy (following Habermas) of two distinct and often conflicting understandings of what 'working through' means — an idealist paradigm and a materialist paradigm.",
+    "anchored_in": ["McCarthy", "Habermas", "Adorno"],
+    "stakes_claimed": "Effective processes of working through the past require both idealist myth-building AND materialist deconstruction; but these must first be understood as distinct and in many ways conflicting before they can be brought together. The materialist paradigm (Adorno) acts as a corrective to idealist approaches that risk serving as reconciliation with ongoing structural injustice."
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["Habermas's idealist working-through-the-past", "McCarthy's American Vergangenheitsbewältigung proposal"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": true,
+    "own_position_type": "conceptual_distinction",
+    "own_position_explicit": true,
+    "description": "The paper performs immanent critique of Habermas: his own mentor Adorno held a materially different conception of Aufarbeitung that Habermas conflates with his own idealist account. Schulz disentangles two paradigms: (1) idealist (Habermas/McCarthy): self-enlightenment through acknowledgment of past failures, collective re-narration, identity re-formation; (2) materialist (Adorno): uncovering structural endurance of past catastrophe, rejecting reconciliation, preventing future catastrophe through structural change. The conclusion synthesizes: effective working-through requires both, but their conflict must be acknowledged."
+  },
+
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": ["Adorno's essays on working through the past", "Habermas on Aufarbeitung", "McCarthy's 2002 article", "German Historikerstreit materials"],
+    "interpretive_methods": "Careful reading of Adorno's and Habermas's texts on Vergangenheitsbewältigung; intellectual history of the concept; conceptual distinction building; normative synthesis in conclusion.",
+    "notes": "The German Historikerstreit and BLM movement appear as motivating contexts, not as empirical cases under analysis. The paper's moves are philosophical: reading and distinguishing two paradigms in a theoretical tradition, then synthesizing them. Classified fully_normative. This is a Type 2 paper with a strong conceptual-distinction architecture: the entire argument turns on precisely distinguishing idealist from materialist paradigms."
+  },
+
+  "case_type": {
+    "has_case": false,
+    "case_medium": null,
+    "case_name": null,
+    "case_function": null,
+    "case_relation_to_argument": null,
+    "case_selection_justified": false
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "memory politics / political philosophy / Frankfurt School / racial justice",
+    "claim_type": "reconstructive_prescriptive",
+    "closure_type": "conclusion_strong"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "immanent_critique",
+    "conceptual_distinction",
+    "framework_proposal",
+    "counter_objection_response",
+    "normative_derivation",
+    "conclusion_strong"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["Vergangenheitsbewältigung", "idealist paradigm", "materialist paradigm", "Aufarbeitung", "collective identity re-narration", "structural endurance of oppression", "reconciliation vs. contestation"],
+
+  "thinkers_deployed": {
+    "central": ["Adorno", "Habermas", "McCarthy"],
+    "engaged_critically": ["Habermas (equivocating Adorno's account)", "McCarthy (conflating the two paradigms)"],
+    "referenced_only": ["Nolte", "Hillgruber", "Mommsen", "King", "Coates"]
+  },
+
+  "confidence_notes": "This paper is a paradigmatic Type 2 (polemical reconstruction with conceptual distinction). The core argumentative move is deceptively simple: showing that Habermas misappropriates Adorno's conception of Aufarbeitung and conflates two distinct traditions. The normative conclusion is both the distinction itself and the synthesis (both paradigms are needed, but cannot be collapsed). The BLM/2020 protests are invoked only in the opening as contemporary relevance — the bulk of the argument is intellectual-historical exegesis of Adorno, Habermas, and McCarthy. High confidence."
+}

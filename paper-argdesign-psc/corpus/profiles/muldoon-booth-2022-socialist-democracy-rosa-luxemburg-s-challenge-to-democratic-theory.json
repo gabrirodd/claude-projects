@@ -1,0 +1,74 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "muldoon_booth_2022",
+  "title": "Socialist Democracy: Rosa Luxemburg's Challenge to Democratic Theory",
+  "author": "Muldoon and Booth",
+  "year": 2022,
+  "journal": "Philosophy and Social Criticism",
+
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "Opening from a diagnosis of mainstream democratic theory's blind spot: since the end of the Cold War, democratic theory has presupposed the compatibility of liberal democracy with capitalism, neglecting economic considerations. Luxemburg is introduced as an under-utilized resource who contests this consensus — arguing that liberal capitalist democracy is structurally unable to realize its own ideals of freedom and equality.",
+    "anchored_in": ["Fukuyama", "Held", "Dahl", "Hayek"],
+    "stakes_claimed": "Luxemburg offers a distinctive model of socialist democracy that extends democratic principles to economic institutions, responding to both liberal objections (property rights) and Marxist objections (the state). This model is relevant today despite changed conditions."
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["liberal democratic theory (Dahl, Habermas, deliberative democracy)", "Marxist-Leninist models (vanguardism, withering state)", "left populism"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": true,
+    "own_position_type": "reconstruction",
+    "own_position_explicit": true,
+    "description": "The paper recovers Luxemburg's institutionalist socialist democracy through interpretive re-reading against standard Luxemburg reception (revolutionary socialist, anti-institutionalist). It argues that Luxemburg's pluralist, multi-party, civil-libertarian socialism offers a model superior to both liberal capitalism (which abandons economic democracy) and Marxist vanguardism (which abandons democratic institutions). The reconstruction is explicitly noted as departing from traditional interpretations by emphasizing the institutional dimension of her thought."
+  },
+
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": ["Luxemburg's writings (Reform or Revolution, The Russian Revolution, Mass Strike, Letters from Prison)", "contextual historical material on early 20th century socialist movements"],
+    "interpretive_methods": "Intellectual history and political theory: close reading of Luxemburg's texts, reconstruction of her institutional vision, updating for contemporary conditions. Engagement with secondary Luxemburg scholarship (Schulman, O'Kane, Bonnell, Bevir).",
+    "notes": "The paper uses Luxemburg's writings as philosophical resources for normative theory construction, not as empirical case studies. The 'case' of Luxemburg's thought is a philosophical text case — but unlike des_portes or ferber, the reading is not interpretive-case driving a normative argument: it is reconstruction of a thinker's normative position to deploy in contemporary democratic theory. Classified fully_normative."
+  },
+
+  "case_type": {
+    "has_case": false,
+    "case_medium": null,
+    "case_name": null,
+    "case_function": null,
+    "case_relation_to_argument": null,
+    "case_selection_justified": false
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "democratic theory / socialism / political economy",
+    "claim_type": "reconstructive_prescriptive",
+    "closure_type": "conclusion_strong"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "immanent_critique",
+    "framework_proposal",
+    "counter_objection_response",
+    "normative_derivation",
+    "conclusion_strong"
+  ],
+
+  "reflexive_move": true,
+
+  "key_concepts": ["socialist democracy", "extension of democratic principles", "workers' self-management", "liberal democracy's economic blind spot", "Luxemburg's pluralism", "civil liberties under socialism"],
+
+  "thinkers_deployed": {
+    "central": ["Luxemburg"],
+    "engaged_critically": ["Dahl", "Habermas", "Hayek", "Leninism", "Schumpeter"],
+    "referenced_only": ["Dewey", "Mill", "Poole", "Wolin", "Schulman", "O'Kane"]
+  },
+
+  "confidence_notes": "The reflexive_move is true: the paper explicitly notes that its institutionalist reading of Luxemburg 'may strike some as odd given the institutional dimensions of her writings are consciously underdeveloped' — acknowledging the interpretive departure and its limits. The counter_objection_response addresses both liberal objections (property rights violation) and Marxist objections (state retention). Classified fully_normative because Luxemburg's writings serve as philosophical argument material, not empirical case. This is a Type 2b (reconstruction of a canonical thinker's thought for contemporary normative application) — parallel to feenberg_2023 (Marcuse), dyson_2024 (Fanon), kellner_2024 (Habermas)."
+}

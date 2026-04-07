@@ -1,0 +1,74 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "scheuerman_2014",
+  "title": "Whistleblowing as Civil Disobedience: The Case of Edward Snowden",
+  "author": "Scheuerman",
+  "year": 2014,
+  "journal": "Philosophy and Social Criticism",
+
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "Opening by diagnosing that media coverage of the Snowden NSA revelations has obscured the philosophically and politically serious question: whether Snowden's actions constitute legitimate civil disobedience. The paper begins with the gap between media spectacle and the underlying question of political morality.",
+    "anchored_in": ["Rawls", "Habermas", "Thoreau"],
+    "stakes_claimed": "Snowden's actions meet most demanding tests of civil disobedience; furthermore, his case advances liberal-democratic thinking on civil disobedience in two respects: questioning the punishment-acceptance requirement and updating civil disobedience theory for an era of globalization."
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["orthodox civil disobedience theory (punishment-acceptance requirement)", "critics who deny Snowden's act qualifies as civil disobedience", "Rawls's liberal account of civil disobedience"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": true,
+    "own_position_type": "critical_reconstruction",
+    "own_position_explicit": true,
+    "description": "The paper deploys the Snowden case to both defend the civil disobedience classification and advance civil disobedience theory. Two theoretical moves: (1) immanent critique of the orthodox punishment-acceptance requirement, using Snowden's own reasoning and the nature of surveillance state power to argue acceptance of punishment should not be preconditioned; (2) normative extension of civil disobedience theory for globalization contexts, where state surveillance crosses national boundaries."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_interpretive_case",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": "Close analysis of Snowden's public statements, especially his 12 July 2013 Moscow airport speech; Snowden's Guardian interviews; Obama administration's response; Espionage Act proceedings. Reading Snowden's own arguments as philosophical contributions to civil disobedience theory.",
+    "data_sources": ["Snowden's public declarations (Guardian interviews, Moscow airport statement)", "legal proceedings documentation", "NSA surveillance program materials (public versions)"],
+    "interpretive_methods": "Political philosophy applied to contemporary case: reads Snowden's public reasoning as a contribution to civil disobedience theory, then evaluates whether his actions meet classical criteria (public, nonviolent, conscientious, political, law-breaking). Uses Rawls, Habermas, Thoreau, Gandhi, King as evaluative framework.",
+    "notes": "The Snowden case functions as an interpretive case for political philosophy: it is read philosophically to adjudicate questions in civil disobedience theory. The paper is normative_with_interpretive_case because (1) Snowden's statements are read as philosophical arguments, not as empirical evidence; (2) the case is generative — it advances civil disobedience theory rather than merely illustrating it. Compare to firinci_orman_2025 (Arendt + youth climate activism) and scheuerman_2014's case is more philosophical than empirical."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "contemporary_phenomenon",
+    "case_name": "Edward Snowden's NSA revelations (2013) — public statements and political reasoning",
+    "case_function": "generative",
+    "case_relation_to_argument": "constitutive_of_framework",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "civil disobedience / political philosophy / rule of law / globalization",
+    "claim_type": "reconstructive_prescriptive",
+    "closure_type": "conclusion_strong"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "case_introduction",
+    "case_development",
+    "immanent_critique",
+    "normative_derivation",
+    "conclusion_strong"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["civil disobedience", "punishment-acceptance requirement", "whistleblowing", "globalization and political obligation", "surveillance state", "political morality"],
+
+  "thinkers_deployed": {
+    "central": ["Rawls", "Habermas", "Thoreau"],
+    "engaged_critically": ["orthodox punishment-acceptance requirement", "Rawls's state-bounded civil disobedience theory"],
+    "referenced_only": ["Gandhi", "King", "Dworkin", "Estlund", "Markovits"]
+  },
+
+  "confidence_notes": "Classified normative_with_interpretive_case because Snowden's case is read philosophically (his statements as arguments) and is generative — the case drives theoretical revisions to civil disobedience theory. The classification sits between normative_with_interpretive_case and normative_with_qualitative_empirical: Snowden's statements are real-world documents but are read as philosophical texts rather than empirical evidence. The generative function of the case (advancing theory rather than illustrating pre-established positions) tips the classification toward normative_with_interpretive_case. The paper is from 2014 — the earliest paper in the PSC corpus, written closer to the Snowden events."
+}

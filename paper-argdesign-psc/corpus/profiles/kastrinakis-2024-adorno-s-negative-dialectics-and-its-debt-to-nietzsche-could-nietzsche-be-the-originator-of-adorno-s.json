@@ -1,0 +1,62 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "kastrinakis_2024",
+  "title": "Adorno's Negative Dialectics and Its Debt to Nietzsche: Could Nietzsche Be the Originator of Adorno's Negative Dialectics?",
+  "author": "Kastrinakis",
+  "year": 2024,
+  "journal": "Philosophy and Social Criticism",
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "The dominant view holds that Nietzsche's influence on Adorno is primarily visible in Minima Moralia (style, aphorism). But Adorno himself declared he owes Nietzsche 'by far the greatest debt — more even than Hegel'. This article investigates whether Nietzsche could be the originator of Adorno's Negative Dialectics.",
+    "anchored_in": ["Adorno (Negative Dialectics)", "Gillian Rose", "Nietzsche"],
+    "stakes_claimed": "Nietzsche's most significant contribution to Adorno's thought is to be found in Negative Dialectics (non-identity thinking, critique of identity thinking) rather than in Minima Moralia — a claim that would overturn the dominant Rose-influenced view."
+  },
+  "theoretical_positioning": {
+    "rivals_engaged": ["Gillian Rose's account of Adorno-Nietzsche (Minima Moralia focus)", "Hegel-centric readings of negative dialectics"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": true,
+    "own_position_type": "internal_reconstruction",
+    "own_position_explicit": true,
+    "description": "The paper systematically traces Nietzschean themes in Negative Dialectics: critique of identity thinking, non-identity as philosophical imperative, style as critique of systematic philosophy, suffering as philosophical catalyst. It argues these are structural debts to Nietzsche, not stylistic borrowings confined to Minima Moralia."
+  },
+  "epistemic_mode": {
+    "primary": "purely_interpretive_hermeneutic",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "Close reading of Adorno's Negative Dialectics and Minima Moralia alongside Nietzsche's Beyond Good and Evil, Genealogy of Morals, and Untimely Meditations; comparison with Rose's account.",
+    "notes": "Primarily philosophical scholarship/history of ideas — traces textual influences and structural parallels between Nietzsche and Adorno. The normative implication (this changes our understanding of Adorno's method) is secondary to the interpretive claim. Classified as purely_interpretive_hermeneutic."
+  },
+  "case_type": {
+    "has_case": false,
+    "case_medium": "none",
+    "case_name": null,
+    "case_function": null,
+    "case_relation_to_argument": null,
+    "case_selection_justified": false
+  },
+  "normative_stake": {
+    "level": "low",
+    "domain": "history of philosophy / critical theory / Adorno / Nietzsche",
+    "claim_type": "descriptive",
+    "closure_type": "conclusion_strong"
+  },
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "immanent_critique",
+    "genealogical_reconstruction",
+    "conclusion_strong"
+  ],
+  "reflexive_move": false,
+  "key_concepts": ["negative dialectics", "non-identity thinking", "identity thinking", "critique of systems", "Adorno-Nietzsche debt", "style as critique"],
+  "thinkers_deployed": {
+    "central": ["Adorno", "Nietzsche"],
+    "engaged_critically": ["Gillian Rose"],
+    "referenced_only": ["Hegel", "Habermas", "Honneth"]
+  },
+  "confidence_notes": "Purely_interpretive_hermeneutic: philosophical scholarship tracing textual and structural influences. Strong conclusion (Nietzsche is the originator) but the 'normative' content is a scholarly interpretive claim, not a political-normative prescription."
+}

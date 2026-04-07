@@ -1,0 +1,987 @@
+[PAGE 1]
+                                                             
+                                                             
+                                                             
+                                                             
+       Original Research Article                             
+                                                             
+                                           PhilosophyandSocialCriticism
+                                               2025,Vol.0(0)1–19
+       Deep  Disagreement   as a                             
+                                              ©TheAuthor(s)2025
+       Challenge for Democratic                              
+                                              Articlereuseguidelines:
+       Education: Learning  to            sagepub.com/journals-permissions
+                                         DOI:10.1177/01914537251391452
+                                           journals.sagepub.com/home/psc
+       Compromise                                            
+       Tobias Albrecht1                                     
+                                                             
+                                                             
+       Abstract                                              
+       Political theorists and social philosophers who specialize in democratic citizenship ed-
+       ucationincreasinglyviewdeepdisagreementasachallenge.Somehavegonesofarasto
+       call for a fundamental rethink of democratic education scholarship in response to this
+       challenge. However, despite these calls for reassessment, many contributors to this
+       debate ultimately return to the same pedagogical approaches they initially criticized as
+       ineffective,onceagain,advocatingeducationalaimsdrawnfromthetraditional(primarily
+       liberalanddeliberative)frameworksofdemocraticeducation.Thispaperdemonstrates,
+       though,thattheseliberalanddeliberative‘standardresponses’failtoadequatelyaddress
+       thechallenge posedbydeepdisagreements.Itisargued that,iftheaimof education for
+       democracy is to prepare future citizens to deal with such disagreements effectively, a
+       greaterroleshouldbeassignedtocompromiseamongtheconflictregulationtechniques
+       that are being taught.                                
+       Keywords                                              
+       deep disagreement, democratic education, conflict, Rawls, deliberative democratic
+       theory, compromise                                    
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+       1InstituteforPoliticalScience,Universita¨tMünster,Münster,Germany
+       Correspondingauthor:                                  
+       TobiasAlbrecht,InstituteforPoliticalScience,Universita¨tMünster,Scharnhorststraße100,Münster48151,
+       Germany.                                              
+       Email:tobias.albrecht@uni-muenster.de                 
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+      2                             Philosophy and Social Criticism 0(0)
+                                                             
+      Democratic Education as Remedy: Old Answers to         
+      New Challenges?                                        
+      Atpresent,conflictsinWesterndemocraciesseemtobefoughtwithanotableintensity.A
+      growing numberofphilosophersand socialscientistsattribute this, inpart, to aspecific
+      formofdissent.So-calleddeepdisagreements,whichareespeciallydifficulttoresolveyet
+      highly prone to intensifying conflicts, appear to be an increasing challenge for con-
+      temporary democratic societies. This issue is particularly pertinent for scholars of
+      democraticeducation,whohavetraditionallyconsideredittobeoneoftheircoretasksto
+      teach future citizens how to argue in a civilized and reasonable manner. However,
+      something peculiar can be observed in this field. Although political theorists and social
+      philosophers specializing in education for democracy increasingly acknowledge deep
+      disagreement as a major challenge (Affolter 2023; Culp et al. 2022; Dagger 2023;
+      Edenberg 2018) — sometimes even calling for a fundamental rethinking of ‘the theo-
+      reticalandmethodologicalfoundations’(Culpetal.2022,VIII)ofdemocraticcitizenship
+      education—theoutcomesofsuchreassessmentsdolittletoactuallyaddressthespecific
+      challenges posed by deep disagreement. In fact, many contributors to this debate ulti-
+      matelyreturntotheverysame‘commonreaction’(Culpetal.2022,VII)thattheyinitially
+      criticized as being inadequate once again endorsing educational aims drawn from the
+      traditional liberal (and deliberative) repertoire of democratic education. Yet, as I aim to
+      demonstrateinthispaper,theseliberalanddeliberative‘standardresponses’failtoaddress
+      the challenge posed by deep disagreements in a satisfactory way.
+        To explain why this is the case, I will briefly recall the specific challenges that deep
+      disagreement poses to democratic societies. I will take up the claim that deep dis-
+      agreementshavethepotentialtoundermineacrucialpreconditionofdemocracy,namely
+      ‘the availability of common ground for reasonable debate and deliberation’ (de Ridder
+      2021, 226). I will then show how this lack of common ground that characterises deep
+      disagreements not only diminishes the prospect of conflict resolution, but actually in-
+      creases the likelihood of conflict escalation.         
+        Afterthat,Iwillconsidersomeoftherecentproposalsthatpoliticaltheoristsandsocial
+      philosophers have made to position democratic citizenship education as a kind of ‘an-
+      tidote’(Alexander2023,69)totheincreasedconflictintensitythatliberaldemocraciesare
+      currentlyexperiencing.Iwillgrouptheseproposalsintothreestrategies,distinguishedby
+      howtheydealwiththeproblemofthepotentiallossofsaidcommonground.Thefirstof
+      these strategies is proposed by political liberalism and often explicitly follows the
+      philosophicalframeworkofJohnRawls.Authorsofthisstrandsuggestmitigatingconflict
+      byeducatingpeopletobereasonable.Iwillarguethatthisstrategyultimatelyignoresthe
+      challengeposedbydeepdisagreementbecauseitimplicitlyassumestheavailabilityofa
+      relativelycomprehensivecommongroundintheformofanormativeframeworkalways
+      already shared by all. The second strategy, associated with deliberative educational
+      theoristswhooftendraw(loosely)onHabermas,aimstoeducatefuturecitizenstobecome
+      betterdeliberators.Althoughthesetheoristsdonotpresupposethesamelevelofcommon
+      groundbeforehandastheirRawlsiancolleagues,theyremainprettyoptimisticthatmost
+      disagreements can be resolved through inquiry and deliberation and that (on almost all
+      issues)commongroundcaneventuallybefound.Finally,Iwillpresentathirdstrategythat
+                                                             
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+       Albrecht                                       3      
+                                                             
+       is currently experiencing a revival in the philosophy of education. This third strategy,
+       whichseekstoinstillliberalvaluesand/orpatrioticsentimentsthrougheducation,appears
+       to be more attuned to the specific challenges posed by deep disagreement than the first
+       two.Ratherthansimplyassumingorhopingtofindcommonground,itactivelyseeksto
+       cultivate it. Ultimately, however, this strategy only externalizes the problem of deep
+       disagreement and cannot solve it either.              
+        The main aim of this paper is critical: I want to show how current proposals from
+       democraticeducationscholarshipareinadequateinthefaceofdeepdisagreement.Iwill
+       conclude,however,bysuggestingapossibledirectionforamoreconstructiveresponse.
+       Specifically, I propose that an education for democracy, which aims to prepare future
+       citizens to deal with deep disagreements, should assign a greater role to compromise
+       among the conflict regulation techniques taught. I will argue that compromise is an
+       especially suitable technique for managing deep disagreements because it does not
+       presuppose much in terms of pre-existing common ground, nor does it seek to find it.
+       Instead, compromise acknowledges that some disagreements will persist, focussing on
+       regulatingtheconflictsthatarisefromthem.Teachingfuturecitizensthistechniquewould
+       berelativelyfeasible,whilethebenefitscouldbeimmense:Cultivatingacertainreadiness
+       to compromise among future citizens could, so the strongest version of my argument,
+       serve as a foundation for a new kind of common ground – a new ‘ethical minimum of
+       democracy’ (Dubiel 1994) – in times of deep disagreement.
+       The Challenge of Deep Disagreement                    
+       Thispaperarguesthatcurrentdemocraticeducationtheorydoesnothaveagoodanswerto
+       thechallengeposedbydeepdisagreement.Tomakethispoint,thissectionbeginswitha
+       briefaccountofwhatthischallengeconsistsof.Philosophersgenerallyusetheterm‘deep
+       disagreement’todescribedisputesinwhichthedisagreementisnotonlyaboutthesubject
+       matter itself but also – and arguablyprimarily – about ‘what counts as evidence or as a
+       goodargument’(deRidder2021,227)insaiddispute.Whilethisisbynomeansanew
+       phenomenon, the need to address this issue politically has only recently gained wider
+       recognition.                                          
+        The concepts’ introduction is often attributed to Richard Fogelin, who, in his
+       1985 paper ‘The Logic of Deep Disagreement’, followed Wittgenstein to describe how
+       disagreementcanexistnotonlyabouttheactualobjectofdisputebutalsoaboutthe‘rules’
+       by which the dispute is conducted. The term soon thereafter became established in
+       discussions of argumentation theory and epistemology, where it remains the focus of
+       lively debate today (Ranalliand Lagewaard2022). The fact that deepdisagreementcan
+       alsoleadtoa‘practicalproblemincaseswheregroupsofindividualsneedtodecidewhat
+       to do in common or what policies to impose on everyone, and where these decisions
+       depend on what we take the facts to be’ (Kappel 2012, 16) is a more recent insight.
+       However,inviewoftheintenseconflictsthatWesternsocietiesareexperiencingandthe
+       growingconcernabouttheresultingdeclineinsocialcohesion,thispracticalaspectofthe
+       problem has come increasingly to the fore in recent years.1 A particularly pertinent
+       exampleofrecentworkthatexplicitlyconsiderstheimplicationsofdeepdisagreements
+       for democratic conflict regulation and social cohesion is Jeroen de Ridder’s ‘Deep
+                                                             
+                                                             
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+      4                             Philosophy and Social Criticism 0(0)
+                                                             
+      Disagreement and Political Polarisation’ (2021). In his paper, he first provides an
+      overviewofthekeycharacteristicsofdeepdisagreementsandthenexamineshowthese
+      disagreements contribute to polarization.              
+        According to de Ridder, deep disagreements are first and foremost characterized by
+      being‘verydifficultifnotimpossibletoresolve’(deRidder2021,228).Thisisbecause,in
+      additiontodisagreeingonthedisputedissue,partiesinadeepdisagreementalsodisagree
+      on ‘how to resolve them’ (Ibid). They disagree on the latter because they lack the
+      necessarycommongroundtodoso.Indeed,itisthis‘lackofcommonground’(Ranalli
+      and Lagewaard 2022, 15) that renders these disagreements ‘deep’. Ultimately, deep
+      disagreementsaredisagreementsabout‘underlyingviewsandcommitmentsaboutwhat
+      goodevidenceis,howdifferentsourcesoughttobeweighed,whotheexpertsare,etc’.(de
+      Ridder2021,228;italicsadded).AccordingtodeRidder,thislackofcommongroundcan
+      concern ‘underlying epistemic norms and principles’ and ‘conflicting underlying moral
+      commitments’(Ibid). Inother words,theunderlying disagreement may pertain toeither
+      the basic epistemic principles on which we rely when providing reasons – our ‘set of
+      normsandprinciplesabouthowtothink;abouthowtoform,maintain,orabandonbeliefs’
+      (deRidder2021,231)–ormoralvaluesthatweconsiderfundamentalandthereforeregard
+      as a kind of ultimate reason in normative discussions.2 Because individuals engaged in
+      deepdisagreementrelyondifferentepistemicnormsandprinciplesand/ordifferentmoral
+      commitmentswhenprovidingreasonsfortheirviews,they‘havetroublerecognizingeach
+      other’sreasonsasrationalcontributionstothedebate’(deRidder2021,233).Thisiswhat
+      makesdeepdisagreementssoresistanttorationalresolution:ifwecannotagreeonwhat
+      counts as a reason, reasoning itself becomes futile as a means of resolving the dispute.
+        This situation, as tangled as it isalready, isfurther complicated by the fact that deep
+      disagreements are often ‘systematic’ (Ranalli and Lagewaard 2022, 8). While ordinary
+      disagreementstendtobelocalized,whichmeansthepartiesusuallydisagreeonasingle
+      issue, deep disagreements are typically ‘not just local, but involve clusters of related
+      issues’ (de Ridder 2021, 228). This means that although deep disagreements often
+      materializearoundaspecificissue,theyareusually‘broader’inthesensethattheyaffecta
+      wholerangeofotherpropositionsrelatedtothedispute’soriginalobject.Thisaddstotheir
+      intractability, for abandoning one proposition would have consequences for many other
+      related or underlying beliefs, often constituting entire worldviews (Hazlett 2014).
+        The political challenge posed by deep disagreements, however, goes beyond their
+      intractabilityandpersistence.Fromtheperspectiveofdemocraticsocieties,theproblemis
+      compoundedbythefactthatdeepdisagreementsarenotmerelysourcesofconflict;they
+      are also particularly likely to exacerbate conflict. This is because people who assume
+      differentepistemicand/ormoralprinciplesandbeliefsasfundamentaltendnotonlytosee
+      theotheraswrongonagivenissuebutalsotoseetheother’sentire‘wayofthinkingor
+      reasoningabouttheissueasmistaken’andconsequently‘willconsidereachotherasless
+      thanfullyrationalormoral’(deRidder2021,233;italicsinoriginal).Onceweseeothers
+      asirrationalorimmoral,wewilldevaluetheiropinionandtendtotreatthemaccordingly.
+      In the well-established terminology of Chantal Mouffe, political adversaries become
+      enemies (Mouffe 2000, 102–103). In the worst case, this dynamic produces a vicious
+      circle: deep disagreement and polarization are ‘mutually reinforcing’ (de Ridder 2021,
+      238). Not only does deep disagreement reinforce social polarization in the way just
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+       Albrecht                                       5      
+                                                             
+       described,butpolarizationofthiskindalsoreinforcespre-existingdeepdisagreement:ifI
+       cannottakemyopponent’srationalityseriously,myworldviewisvalidated,andIbecome
+       more confident in it; ergo, the disagreement becomes deeper.
+        Tobrieflysummarizetheproblemathand:deepdisagreementsareparticularlydifficult
+       (ifnotimpossible)toresolvebecausethepartiesindeepdisagreementdonotshareenough
+       (epistemic or moral) common ground to agree on what counts as a valid reason in their
+       disputeinthefirstplace.Atthesametime,theurgencyofdealingwithdeepdisagreements
+       isexceptionallyhighduetotheirpotentialtointensifyconflict.Onewayofadressingthis
+       challenge could be democratic education, which is one of the primary mechanisms
+       throughwhichsocietiesseektoequipfuturecitizenswiththeabilitytoresolveconflicts
+       democratically.However,thefield,initscurrentform,ishardlyuptothetask.AsIwill
+       show in the following section, despite much lip service to the contrary, democratic
+       educationtheoristshaveyettodraw sufficiently profoundconclusions fromthespecific
+       challenges posed by deep disagreement.                
+       Three Responses From Democratic Education Theory (Which
+       Ignore This Challenge)                                
+       Many political theorists and social philosophers working in the field of democratic
+       education are deeply concerned by the escalation of conflict that we are currently wit-
+       nessing.Increasingly,authorsinvolvedinthisdebateareidentifyingdeepdisagreementas
+       one of the drivers of this heightened conflict intensity (Affolter 2023; Culp et al. 2022;
+       Dagger2023;Edenberg2018).However,althoughtheseauthorsexplicitlyreferencedeep
+       disagreements – albeit often only in passing – as part of the problem, their educational
+       proposalsdonotappeartoaddressthespecificdifficultiesposedbydeepdisagreements
+       outlined in the section above at all. In particular, the challenge that, in cases of deep
+       disagreement,wearedealingwithsituationscharacterisedbya‘lackofcommonground’
+       (Ranalli and Lagewaard 2022, 15) is notably ignored.  
+        My argument in this section is that this is not accidental but rather the result of
+       theoretical-architectural choices. Philosophical scholarship on democratic citizenship
+       education,evenmorethantherestofdemocratictheory,isstillverymuchdominatedby
+       liberal and deliberative approaches.3 Yet, to be plausible, these liberal and deliberative
+       views of democratic education must assume (explicitly or implicitly) that a relatively
+       comprehensivenormativeframeworkisalwaysalreadysharedbyall.Takingtheexistence
+       ofdeepdisagreementmoreseriouslywouldthereforerequirethisdebatetoabandonsome
+       ofitsmostfundamentalpremises.Iwillproblematisethisfirstforthepartofthedebatethat
+       is still directly guided by the political philosophy of John Rawls.
+       Assuming Common Ground: Education for Reasonableness  
+                                                             
+       Rawlshimselfdidnotprovideanythingclosetoacomprehensiveaccountofdemocratic
+       orciviceducation.Indeed,hisexplicitdiscussionofthesubjectinPoliticalLiberalismis
+       limited to only two pages (Rawls 2005, 199–200), in which he argues that liberal de-
+       mocracy should in fact exercise restraint when educating future citizens. Yet, there is
+       scarcelyaliberalapproachtodemocraticcitizenshipeducationtodaythatdoesnotcontain
+                                                             
+                                                             
+                                                             
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+      6                             Philosophy and Social Criticism 0(0)
+                                                             
+      atleast‘traces’ofRawls’sphilosophicalframework(Costa2021).Thisinfluenceoperates
+      in such a way that authors either work out the ‘implicit assumptions about education’
+      (Podschwadek2022,23;italicsadded)thatcanbefound inhistheoryoremphasizethe
+      ‘implications’ of his account for education (Morrison 1984).
+        Whileauthorsdifferwidelyintheiraccountsofwhatademocraticeducationinspired
+      byRawlswouldlooklikeindetail,4thereisstrikingagreementonthecentralaimofthis
+      education: a Rawlsian education for democracy – so far, everyone agrees – aims to
+      develop the capacity for reasonableness in future citizens (Callan 1997; Costa 2014;
+      Edenberg 2016; Gutmann 1995; Neufeld 2023; Podschwadek 2022). And this idea re-
+      mainsprevalentamongphilosophersattemptingto‘rethinkandreassess’(Editorial2018,
+      1)democraticeducationinthefaceofcurrentconflicts.Aparticularlystrikingexampleof
+      this is Elisabeth Edenberg’s article ‘Cultivating Reasonableness in Future Citizens’, in
+      which she explicitly proposes combating deep disagreements in public discourse by
+      teaching ‘the civic virtue of reasonableness’ (Edenberg 2018, 1).
+        Tofullyunderstandwhyshe(andothers)placesuchgreathopesinthe‘educationofthe
+      reasonable’ (Podschwadek 2022), it is helpful to briefly recall what Rawls means by
+      reasonableness. In Lecture 2 §1 of Political Liberalism, Rawls specifies two ‘virtues’
+      (Rawls 2005, 48) that people must hold to be considered reasonable. First, people are
+      consideredreasonable‘when,amongequalssay,theyarereadytoproposeprinciplesand
+      standardsasfairtermsofcooperationandtoabidebythemwillingly,giventheassurance
+      thatotherswilllikewisedoso’(Rawls2005,49).Second,theymustshow‘thewillingness
+      to recognize the burdens of judgement and to accept their consequences for the use of
+      public reason in the legitimate exercise of political power’ (Rawls 2005, 54).
+        Politicalphilosophersattractedtotheideaof‘cultivatingthereasonablenessofchildren
+      asfuturecitizens’(Edenberg2016,188)oftenfocusonthelatterofthesetwovirtues.This
+      is because, from the perspective of someone interested in the practical possibility of
+      inculcating these virtues, the former seems to be a consequence of learning the latter.
+      Learning about theburdens ofjudgment—i.e., learningthat,under conditions ofsocial
+      complexity and freedom, people’sjudgements on political, moral, or, frankly, any other
+      issueswilldiffer—mightleadtotherecognition‘thatthosewithwhomonedisagreescan
+      neverthelessbereasonable’(Edenberg2016,198).This,inturn,mightleadto‘theability
+      torespectone’sfellowcitizensnotonlyasfreeandequalmoralpersonsbutalsoasfree
+      andequalreasoners’(Edenberg2016,198). Andcitizenswho respecteachother inthis
+      way are also likely to be willing to abide by the fair terms of cooperation required by
+      Rawls’s first criterion of reasonableness.             
+        EvenmorestronglythanEdenberg,BlainNeufeldemphasizesthe‘consequences’that
+      followfromacknowledgingtheburdensofjudgementandthefactofreasonablepluralism
+      inhisrecentarticleon‘RawlsianPoliticalLiberalismandDemocraticEducation’(2023).
+      Neufeldarguesthatacceptanceofthesetwofactsisexpressedthroughtheuseofpublic
+      reason when deliberating about political issues. Defending one’s position in terms of
+      public reasons means that one cannot appeal to arguments drawn from particularistic
+      ‘comprehensivedoctrines’thatonehappenstohold(andthatoneisunlikelytosharewith
+      one’sneighbour) butmust usepublicreasons thatare shared by all(and that arepart of
+      what Rawls calls the overlapping consensus).           
+                                                             
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+       Albrecht                                       7      
+                                                             
+        Therefore, the main aim of liberal democratic education should be to teach future
+       citizens ‘how to employ public reasons when helping to decide fundamental political
+       matters’(Neufeld2023,168).Todoso,schoolchildrenshouldberequiredto‘participate
+       informaldebatesconcerningarangeoffundamentalpoliticalissues’(Neufeld2023,169).
+       The ‘key rule’ of these debates would require them ‘to defend their positions […] with
+       publicreasons’(Neufeld2023,169),while‘[p]ositionsdefendedwithoutsufficientpublic
+       reasons,’ontheotherhand,shouldbe‘declaredinadmissible’.Togivechildrenabetter
+       understandingofwhatconstitutesapublicreason,thestudentsthemselvesshouldactas
+       refereesonquestionsof(in)admissibility:theyshould‘beencouragedtoriseon“pointsof
+       order” to help them identify arguments that violate the duty of civility’. (Neufeld 2023,
+       169–170) Through such ‘practice debates’, Neufeld (2023, 170) hopes ‘students would
+       learn how to employ public reasons when deciding fundamental political questions.’
+        At first glance, this seems like a very plausible idea. If we are divided by deep dis-
+       agreements,weshouldfocusoneducatingpeople inasharedlanguageonceagain.Itis
+       also consistent with Rawls’s original proposal. After all, he introduced the concept of
+       reasonableness to answer the question of ‘how citizens, who remain deeply divided on
+       religious,philosophical,andmoraldoctrines,canmaintaina[…]stablesociety’(Rawls
+       2005, 10). His notion of public reason permits us to adhere to different – even
+       irreconcilable – comprehensive doctrines in our private lives, provided that we refer to
+       public reasons – that is, values and reasons shared by all – when discussing political
+       matters. The problem with this proposal, however, is that it only works under the as-
+       sumptionthatthereisaconsensusonwhatconstitutesapublicreason.Or,toputitanother
+       way,onemustassumethatalldeepdisagreementscanberelegatedtotheprivatesphere,
+       whichinturnpresumesthattherearenodeepdisagreements(atleastnorealones)about
+       any publicly relevant issues.5                        
+        Indeed,manypoliticalphilosophersofeducationseemtoassumepreciselythis.Infact,
+       evenmoreassertivelythanRawlshimself,whostillacknowledgedthathis“ideaofpublic
+       reason [...] belongs to a conception of a well-ordered […] society” (Rawls 2005, 440),
+       scholars of democratic education who follow him appear to take it for granted that a
+       relativelycomprehensive“reasonableframeworkforlivingtogether”(Hilbrich2022,122)
+       existsandisalwaysalreadyacceptedbyeveryone.6Thisassumptionisoftenmadequite
+       openly.Forinstance,althoughEdenbergexplicitlyacknowledgesdeepdisagreementasa
+       current challenge at the outset of her intervention (Edenberg 2018, 1), she assumes
+       “commontiesthatholdustogether”(Edenberg2018:3)lateron.Inotherwords,whileon
+       the one hand she recognizes the existence of deep disagreements, she also takes it for
+       granted that – at the deepest level, so to speak – societies are held together by ‘moral
+       principles underlying our disagreement’ (Edenberg 2018, 3; Italics added). These
+       somewhat contradictory tendencies are in fact typical of liberal thought on democratic
+       education. Although liberal philosophers of education increasingly acknowledge the
+       existenceofdeepdisagreements,sometimesgoingsofarastodiagnosethat‘ademocratic
+       consensusconcerningbasicliberalprinciplescannotbetakenforgrantedanymore’(Culp
+       et al. 2022, VII), they ultimately argue for a notion of democratic education that only
+       worksforpeople‘thatalreadyembracesubstantialliberalnorms’(Edenberg2018,2).In
+       theend,thisamounts tolittlemorethan anattempttoovercome deepdisagreementsby
+       assuming they do not really exist – at least not in matters of public concern.
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+      8                             Philosophy and Social Criticism 0(0)
+                                                             
+      Finding Common Ground: Deliberative Democratic Education
+      In addition to education for reasonableness, a second strategy often (re)promoted in the
+      lightofcurrentconflictsiseducationfordeliberation.Thisstrategyisnotneweither.Like
+      itsliberaltwin,7itdidnotemergeonlyinthewakeofcurrentconflictsbutdatesbacktothe
+      late1980s.Ifonewantedtomarka‘deliberativeturnincitizenshipeducation’(Komatsu
+      2019), one could refer, for example, to Amy Gutmann’s 1987 monograph Democratic
+      Education. And today, teaching the ‘ability to deliberate’ (Gutmann 1999, 46) is once
+      againseenbymanyasthepreferredmeansbywhichtocoolsocialconflictinthewakeof
+      recent events.                                         
+        The underlying idea is to mitigate the intensity of conflict by imparting certain
+      ‘communicative virtues’ (Wegerif 2022, 163) to future citizens. These include —at the
+      most general level— the active ability to argue rationally, that is, to ‘offer their reasons
+      articulatelyandinamannerthatenablestheirpeerstolisten,understand,appreciate,and
+      evaluatethem’(Brighouse2022,5),aswellasthemorepassivecapacity(andthehabit)
+      ‘to listen to and take seriously and, eventually, to evaluate the reasons others offer’
+      (Brighouse2022,5).Furtherrecommendationsoftenincludethedevelopmentofcritical
+      epistemiccompetenciestosupportmorerationaldeliberation(Warnick,2022).Students,it
+      is argued, should acquire ‘online media literacy’ (Brighouse 2018, 2) —the ability to
+      discernwhichsourcesaretrustworthywhennavigatingthefloodofdigitalinformation8—
+      and‘statisticalliteracy’(Brighouse2018,2),meaningthecapacity‘toengagewellinthe
+      critical consumption of statistical evidence and to scrutinize news media critically’
+      (Brighouse 2018, 3). They should also learn ‘to know when it is reasonable to defer to
+      experts,todiscernwhichexpertstodeferto,andtodeterminewhohasexpertiseinwhat’
+      (Brighouse 2018, 3).                                   
+        The logic behind all these proposals is broadly the same: conflicts will be mitigated,
+      and common ground eventually found, if only discourse is conducted with sufficient
+      rationality — through improved argumentation skills, listening habits, and epistemic
+      standards(e.g.mediaandstatisticalliteracy).Thisisnottosuggestthatacalmerandmore
+      rationaldebatewouldnotsignificantlyimprovethecurrentsituation.Norisittosaythat
+      the development of a ‘“deliberative” character’ (Gutmann 1999, 52) should not be an
+      essential part of a proper education for democracy (more on that in the conclusion).
+      However, rationalizing the deliberation process is not an appropriate technique for
+      regulatingconflictincasesofdeepdisagreement.Asshownintheprevioussection,deep
+      disagreementsarepreciselythoseinwhichtheveryquestionofwhatcountsasrationalis
+      itselfcontested.Theycantherefore,bydefinition,notberesolvedthrough(more)rational
+      argument alone.                                        
+        This limitation holds even if we imagine much more time for deliberation than is
+      availableinreality,wherepoliticalissuesmustbebroughttoadecisionatsomepoint.To
+      assumeotherwiseistomistakedemocraticdecision-makingforaprocessoftruth-finding
+      —and,indoingso,todenytheexistence(oratleastthelegitimacy)ofdeepdisagreements
+      altogether.Indeed,deliberativephilosophersofeducationappeartoassume–muchmore
+      stronglyeventhanotherdeliberativedemocratictheorists–thatthereissuchathingasa
+      ‘proper answer’ (Lafont 2020, 39) in political disputes.9
+                                                             
+                                                             
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+       Albrecht                                       9      
+                                                             
+        From the literature discussed here, Rupert Wegerif’s chapter ‘Beyond Democracy:
+       Education as Design for Dialogue’ (2022) is a particularly radical example of this as-
+       sumption.Wegerifoutrightarguesforreplacingtheidealofdemocracywiththatoftruthin
+       education.Since,inhisview,democracyispronetopowerasymmetriesandleadstobad
+       decisions,Wegerif(2022,159)callsfor‘[r]eplacingtheidealofdemocracywiththeideal
+       of dialogue.’ Drawing (very loosely) on Habermas and Dewey, and invoking an over-
+       stylized analogy with scientific inquiry in the natural sciences, dialogue is explicitly
+       understoodhereasajointsearchfor(epistemic)truthand/or(moral)rightness.Wegerifis
+       convincedthat–iftheconditionsareright–‘thatwhichistrueandthatwhichisrightor
+       good’ can be, as he repeatedly affirms, ‘discovered’ (Wegerif 2022, 160, 171, 176).10
+       Since the success of such a truth-seeking dialogue depends not only on institutions and
+       procedures but also on the ‘moral character and communicative virtues of those par-
+       ticipating’ (Wegerif 2022, 163), he advocates for a democratic education that aims to
+       develop these virtues. As done at the beginning of this section, he too distinguishes
+       between an active and a passive dimension: students must learn to ‘make arguments
+       clearly’(Wegerif 2022,162)whilealso‘listeningwithrespecttocounterpositions’and
+       cultivating the willingness ‘to change one’s position based on evidence plus argument
+       regardlessofpriorprejudiceandself-interest’(Wegerif2022,162).Ifthesevirtueswere
+       widelydeveloped,hesuggests,therewouldbenothingtoprevent‘rulebywhatistrueand
+       by what is right’ (Wegerif 2022, 165).                
+        While Wegerif’s position is arguably extreme, even by the standards of deliberative
+       discourseoncitizenshipeducation,thegeneralideathatpoliticalconflictcanbecivilized
+       byraisingpoliticaldiscoursetoamorerationalleveliswidespreadinthecurrentliterature.
+       With their strong orientation towards truth or consensus, deliberative philosophers of
+       education do not actually seem to presuppose the existence of genuine deep disagree-
+       ments. On their account, deep disagreements can only arise from the ‘burdens of
+       judgment’(Rawls)—thatis,fromthefactthatpeopledonotmakejudgmentsunderideal
+       conditions.Thepluralistideathattwopeoplecandisagreeonfundamentalpoliticalissues
+       withouteithermakinganepistemic‘error’isthusrejected.Thatpeoplemightstilldisagree
+       (e.g.onfundamentalvalues)evenunderhypotheticalepistemicconditionsthataremuch
+       betterthantheyactuallyare(oreverwillbeintherealworld),andthat,therefore(deep)
+       disagreementsonfundamentalpoliticalissueswillremainevenifwearguewellandlisten
+       attentivelytoeachother,issomethingthatadvocatesofdeliberativedemocraticeducation
+       can hardly imagine.11                                 
+       Cultivating Common Ground: Teaching Liberal Values    
+       Both strategies outlined so far ultimately ignore the specific challenge posed by deep
+       disagreement, namely the dwindling availability of common ground for debate and
+       deliberation.Theexistenceof‘commontiesthatholdustogether’(Edenberg2018,3)is
+       eithertakenforgranted(asintheliberalmodel,whereagreementonfundamentalpolitical
+       issuesismoreorlesstacitlypresupposed),oritisassumedthatcommongroundcanbe
+       found through a deliberative process akin to scientific inquiry (as in the deliberative
+       model).Thereis,however,athirdstrategyintherecentphilosophyofeducationliterature
+       that seeks to address the seemingly increasing conflictuality of Western societies. This
+                                                             
+                                                             
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+      10                            Philosophy and Social Criticism 0(0)
+                                                             
+      thirdstrategyshowsgreaterawarnessoftheproblemthat,inaneraofdeepdisagreement,a
+      comprehensive normative consensus can no longer simply be taken for granted. Con-
+      sequently,itneitherpresupposesthatallessentialliberalnormsarealreadyacceptednor
+      believesthatthecommongroundunderlyingourdisagreementscansomehowbe‘found’.
+      Instead,itexplicitlyrecognizesthatbotharenotthecaseandthereforeseekstobringsuch
+      common ground about actively. Having considered approaches that assume common
+      groundandthosethatbelieveitcanbefound,Inowturntoastrategythatholdsitmustbe
+      cultivated: in the face of deep disagreement and intense conflictuality, democratic edu-
+      cators are increasingly calling for a renewed focus on ‘teaching liberal values’ (Easton
+      2022, 47–66) again.                                    
+        Theemergenceofthisstrategyisparticularlystrikingbecauseliberalphilosophershave
+      traditionallybeensomewhatreluctanttoactivelyteachvalues(liberalorotherwise).This
+      hastodowithwhatHarryBrighouse,inaclassiccontributiontothedebate,oncecalled
+      liberalism’s ‘independent condition of legitimacy’ (Brighouse 1998, 719). It is an in-
+      dependent condition of legitimacy because it not only prescribes specific ‘principles of
+      justice’butalsoholdsthattheseveryprinciples‘mustfreelybeaffirmedbythecitizens’.
+      Andifweacceptthispremise,thenthereisindeed‘something[…]puzzlingabouttheidea
+      thatliberalstatesmayregulatetheeducationalcurriculumbymandatingaciviceducation
+      aimedatinculcatingthevaluesonwhichliberalismisbased’(Brighouse1998,719).Inthe
+      light of recent developments, however, such questions of legitimacy have increasingly
+      recededintothebackground,whiletheactive‘revitalizationofademocraticeducational
+      ethos’(Culp2021,531)isnowbeingdiscussedmorefrequentlyasapromisingstrategyto
+      reduce excessive conflict intensity again.             
+        AparticularlyprominentexampleofthisattempttoresurrectasharedethosisYascha
+      Mounk’sThePeoplevs.Democracy.ForMounk,democraticeducationisnotmerelyone
+      tool among others but ‘the best way to defend liberal democracy’ (Mounk 2018, 245;
+      italicsadded).Ifhishistoricalaccountistobebelieved,civiceducationwasheldinmuch
+      higher regard in the post-war years of the mid-twentieth century, leading to a ‘deeper
+      commitment to the principles of liberal democracy’ (Mounk 2018, 244) among most
+      citizens. By contrast, today’s schools devote far less time to democratic education.
+      Mounk’s main concern, however, is the way in which civics is taught. He argues that
+      democraticeducationinschoolsanduniversitieshassomehowbeenwatereddownbythe
+      pernicious influence of postcolonial and/or queer-feminist approaches, and by an ex-
+      cessive focus on what could be called the antithetical sides of the dialectic of Enlight-
+      enment (Mounk 2018, 248–250). If democratic education is to serve as an effective
+      antidotetocurrentcrisistendencies,weshouldonceagainstarttellingamoreenthusiastic
+      story about ‘the great achievements of liberal democracy’ (Mounk 2018, 251). While
+      Mounk remains vague about what this reimagined civics education would look like in
+      concrete terms, his suggestion that ‘[o]ne integral part of this education should be an
+      account of the reasons why the principles of liberal democracy retain a special appeal’
+      (Mounk2018,251),combinedwiththefactthatelsewhereinthesamebookhearguesfor
+      an ‘inclusive patriotism’ (Mounk 2018, 208–215), gives us an idea of the direction this
+      project would take: the active promotion of liberal values or, stronger still, patriotism.
+        ThisisnottheplacetoquestiontheempiricalplausibilityofMounk’sclaimsaboutthe
+      corrosiveinfluenceofpost-colonialism andqueer feminism.He merelyserves here asa
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+       Albrecht                                       11     
+                                                             
+       particularlypronouncedexampleofabroadertrendintheliterature.Amorenuancedand
+       earnestarticulationofthistendencycanbefoundinRichardDagger’srecentargumentfor
+       ‘thevalueofpatriotismfordemocraticeducation’(Dagger2023,377)intheCambridge
+       Handbook of Democratic Education. To be sure, the patriotism Dagger envisions –
+       intendedtosecurecitizens’supportforandthepreservationoftheliberaldemocraticorder
+       –isonlyakindofconstitutionalpatriotism:a‘patriotism[that]reinforcestheruleoflaw’
+       (Dagger2023,378),‘freeofthetaintthatnationalismbringswithit’(Dagger2023,385),
+       andnotuncriticalofone’sowncountry.12Nevertheless,Dagger’sproposalconstitutesan
+       argumentforaformofeducationtowardsdemocracyinthestrictsense,onethatwould
+       havebeenmetwithconsiderablescepticismonlyafewyearsago,andwhosenecessityhe
+       explicitlyjustifieswithreferencetodeepdisagreement.Althoughhedoesnotexplainthis
+       indetail,heusesthespecifictechnicaltermwhenheassertsthatpatriotismissupposedto
+       preparefuturecitizens,‘forlifeinasocietyinwhichdeepdisagreementsamongpeople
+       must be addressed and accommodated’ (Dagger 2023, 390).
+        If the danger of deep disagreements is indeed their potential to ‘undermine […] the
+       availabilityofcommonground’(deRidder2021,226),thisthirdstrategy,whichseeksto
+       activelycultivatesuchcommongroundintheformofpatrioticsentiments(orsomeother
+       formofsharedethos),istheonlyoneofthestrategiesdiscussedherethattakesthespecific
+       natureofthechallengeseriously.Yetwhileitmaybetheonlyapproachthatcanbeseenas
+       actuallyattemptingtomeetthechallengeofdeepdisagreement,itisultimatelyunableto
+       dosoadequatelyeither.Thisisbecauseitdoesnotenablefuturecitizenstodealwithdeep
+       disagreements. In fact, it does not even attempt to do so. Rather, this strategy seeks to
+       actively prevent the emergence of deep disagreements at an early stage by imposing a
+       shared ethos. Even if we were to set aside all possible normative objections to this
+       approach,suchastrategywouldonlybeplausible,letaloneapplicable,ifwecouldassume
+       that there were no disagreements outside the school regarding the nature of the shared
+       ethos, the values to be promoted, or the nature of the patriotism to be taught. In other
+       words,theproposalpresupposespreciselywhatitseekstoovercome:thatthereisnodeep
+       disagreementinsocietyaboutwhatthecommongroundtobecultivatedinschoolshould
+       consist of. As Harry Brighouse warned some time ago, patriotism advocates are in
+       particulardangerofignoringthefactthat‘inadiversecountry,peoplehavedifferentand
+       competingvisionsofwhatisgoodabouttheircountry’andoftenendupsimply‘tryingto
+       promote their own, particularistic vision’ (Brighouse 2006, 109).
+        In its practical consequences, therefore, this third approach leaves us in a similarly
+       unsatisfactorypositiontothetwopreviouslydiscussed.Theattempttoactivelycultivate
+       commongroundisastepaheadinthatitrecognizesthespecificityofthechallengeand
+       suggests a concrete response to it. However, this proposal, too, ultimately depends on
+       ignoring — outside the school walls — the very existence of the deep disagreements it
+       purports to address.                                  
+       Learning to Compromise?                               
+       The main aim of this paper is critical: First and foremost, I aim to show that current
+       proposalsbypoliticalphilosophersformitigatingconflictthroughdemocraticeducation
+       failtoprovideasatisfactoryanswertothespecificchallengeposedbydeepdisagreement.
+                                                             
+                                                             
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+      12                            Philosophy and Social Criticism 0(0)
+                                                             
+      However, I would like to conclude on a more productive note and at least suggest a
+      directioninwhichwemightproceed.Tothisend,Iwouldliketointroducecompromiseas
+      aconflictmanagementtechniquethatisbettersuitedtocasesofdeepdisagreement,and
+      arguethatitshouldthereforeplayagreaterroleamongtherangeofconflictmanagement
+      techniquesthatdemocraticeducationseekstodevelop.Theremainderofthispaperwill
+      first explain why compromise is particularly well-suited to cases of deep disagreement,
+      beforeconcludingwithabriefoutlineofwhataneducationforcompromisemightentail.
+        Intheprevioussection,Iarguedthatcurrentapproachestodemocraticeducationeither
+      assume agreement on a significant amount of shared common ground ex ante (‘a rea-
+      sonable framework for living together’) or contend that it can be found through delib-
+      eration.Bothassumptions,however,areinvalidincasesofdeepdisagreement,which,by
+      definition, lack sufficient common ground and are consequently very difficult, if not
+      impossible,toresolveintoaconsensus.Thepracticeofcompromise,bycontrast,isbetter
+      suitedfordealingwithdeepdisagreementsbecauseitneitherpresupposesmuchcommon
+      groundnoraimsforconsensus.Yetitstillregulatesconflictintensity,therebyprovidinga
+      powerful tool for preventing deep disagreements from escalating into fundamental
+      conflicts.                                             
+        Tomakethisclaimplausible,itissufficient–indeed,itisadvantageous–toinitially
+      restrictthedefinitionofcompromisetothosekeycomponentsthatareundisputedinthe
+      literature. According to this minimalist account, compromise is a means for regulating
+      conflictsinwhichconflictingpartiesrefrainfromassertingpartsoftheirclaims(i.e.,make
+      concessions)withoutgivingupthoseclaims,inordertohaveotherpartsoftheirclaims
+      realized in return.13 In contrast to consensus, which resolves conflict by moving the
+      conflictingpartiestowardseachother–requiringatleastonepartytorevisetheirposition
+      onthedisputedissue–anagreementreachedthroughcompromiseischaracterizedbythe
+      fact that ‘disagreeing parties hold on to their opposing views’ (Spang 2023, 595; italics
+      added). The underlying disagreement, thus remains. Therefore, the‘agreement’ reached
+      throughcompromise ispurelypracticalinnature:‘Inacompromise, disagreeingparties
+      agreetopartiallyconcedetheirclaimstothedemandsoftheotherparty,buttheydonot
+      agree with the other party’s demands’ (Ibid, italics in original).
+        Althoughcompromisedoesnotaimtoactuallyresolvetheunderlyingdissent–itis,in
+      thissense,the‘morerealistic’(Spang2023,596)conflictregulationmechanisminthatit
+      acknowledges the existence of deep, unresolvable disagreements – it nevertheless sig-
+      nificantly reduces the intensity of the conflict arising from these disagreements. This is
+      because,inacompromise,bothsidestemporarilyrefrainfromtryingtoenforcealltheir
+      claimsbyfurtherpursuingtheconflict–arouteinvolvinguncertaintyandrisk–inorderto
+      realize at least some of their claims with certainty.  
+        Thesuitabilityofcompromiseforaddressingdeepdisagreementsdoesnotliesolelyin
+      its ability to manage unresolvable conflicts per se though. An additional aspect is that
+      compromise can achieve this even when there is little common ground between the
+      conflictingparties.Thisdoesnotsimplymeanthatcompromisingpartiesdonothaveto
+      accept each other’s reasons – the very fact that they do not is what makes compromise
+      necessary in the first place – but more that, in order to reach a compromise, the parties
+      involveddonotevenhavetoacceptthereasonsoftheotherpartyasreasons.Althoughit
+      hassometimesbeenarguedthatonemotiveforcompromiseshouldbethe‘respectthatis
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+       Albrecht                                       13     
+                                                             
+       due to those who we consider to be “epistemic peers”’ (Weinstock 2013, 547) and that
+       wouldmeanexactlythat;namely,thatwewouldhavetorecognizethemasequalknowers
+       and reasoners and thus their reasons as reasons that we just happen not to share in the
+       respectivedisagreementathand.14Suchrespectundoubtedlyfacilitatescompromise,but
+       compromisecanandoftendoesoccurwithoutit.Inpractice,compromisesarefrequently
+       reachedevenwhenthepartiestotheconflictdonotregardeachother’sreasonsasvalid.
+       All the conflicting parties do have to recognise is that the other party is currently pre-
+       venting them from achieving their goals, and that, in a situation where they can’t have
+       everythingtheywant,compromisingandgettingatleastsomeofwhattheywantmightbe
+       the best course of action (Willems 2025, 22). This, however, is often the case in deep
+       disagreements,whichtypicallyleadtostalemateswherenooneiswillingtobudgefrom
+       their position (de Ridder 2021, 229–230). In such situations, where full success is un-
+       attainable, compromise enables each side to achieve at least partial success.
+        Supposingmyassumptionsaboutthesuitabilityofcompromisefordealingwithdeep
+       disagreementsarecorrect,thefollowingquestionremains:howcanthisbetranslatedinto
+       educational practice? How can we teach future citizens to be ready to compromise?
+       Teaching the technique of compromise would not require us to reinvent the wheel.
+       Naturally, a teacher simply lecturing on the virtues of compromise alone would be
+       unlikelytoconvincestudentsofitsbenefits,althoughsomefrontalteaching(andperhaps
+       other traditional didactic methods) might still be an important part of the process, es-
+       pecially in the early stages. This is because, in order to eventually become able com-
+       promisers,studentsmustfirstlearnthebasics:whatacompromiseis,whichformsitcan
+       take,aswellashowitcanbereachedandwhenitmakessensetoseekone.15However,the
+       most effective way to demonstrate the advantages of compromise as a tool for conflict
+       regulationisprobablytoallowthemtoexperienceitsadvantagesforthemselves.Oneway
+       of doing this would be through practice debates similar to those favored by liberal and
+       deliberativeeducators,inwhichstudentsareencouragedtodealwithanenactedconflict
+       throughcompromise.However,thestagednatureofthesedisagreementswouldlimitthe
+       effectivenessofthisexerciseconsiderably.Whilethisisadifficultyencounteredbyevery
+       attempttoteachconflictresolutionskillsthroughpracticedebates,itisparticularlyacute
+       ineducation aimed atenabling people to deal with deepdisagreements. This isbecause
+       suchdisagreementsofteninvolvedeeplyheldbeliefs,suchasmoralorreligiousvalues,
+       which people are reluctant, if not completely unwilling, to give up – and this kind of
+       profoundpersonalinvestmentisdifficulttostageinroleplay.Amoreeffectiveapproach
+       mightthereforebetocapitalizeon‘naturaloccurringopportunities’(Hand2023,352):to
+       use real conflicts that arise spontaneously in the classroom or in everyday school life,
+       allowthemtoplayout,andhopethatstudentswilleventuallyreachacompromise(orat
+       mostguidethemtowardsitverycarefully).Suchmethodsare,ofcourse,time-consuming
+       and risky, and require a great deal of pedagogical skill.16 Yet they may well prove
+       worthwhile. The hope is that, through repeated successful conflict regulation by com-
+       promise, students will not only become proficient in the technique but also come to
+       appreciate its advantages. Perhaps this could even result in a certain readiness to com-
+       promise.Bythis,Idonotmeanaprincipledwillingnesstocompromiseapriori,butrather
+       anawarenessthatcompromiseisoftenthemosteffectivewaytodealwithconflicts,even
+       forachievingone’sowngoals,andthatitisthereforeoftentimesapathworthpursuing.
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+      14                            Philosophy and Social Criticism 0(0)
+                                                             
+      Instilling this kind of readiness to compromise in future citizens could prove to be a
+      promising candidate for a new kind of common ground – a new ‘ethical minimum of
+      democracy’ (Dubiel 1994) – in times of deep disagreement.
+                                                             
+                                                             
+      Conclusion                                             
+      Thispaperbeganwiththeobservationthatdeepdisagreements–whicharedisagreements
+      thatareparticularly difficulttoresolve andhighlylikely tointensifyconflicts–seemto
+      pose a growing challenge to contemporary democracies. One potential response to this
+      challenge could be democratic education, through which societies seek to equip future
+      citizenswiththeabilitytoresolveconflictsdemocratically.However,Ihavearguedthat,in
+      itscurrentform,democraticeducationscholarshipisscarcelyuptothistask.Althoughan
+      increasingnumberofpoliticaltheoristsandsocialphilosophersspecializingineducation
+      fordemocracyacknowledgedeepdisagreementasachallengeandoftenaccompanythis
+      with callsto‘rethink andreassess’(Editorial2018,1)democratic educationscholarship
+      entirely, the respective outcomes of this reassessment process often turn out to be
+      strikingly conventional. In fact, many scholars end up advocating the very educational
+      aimsfromthetraditional,predominantlyliberalanddeliberativerepertoireofdemocratic
+      educationthatthey initially setouttoreconsider.Thispaper hasattemptedtoshow that
+      these standard liberal answers do not help us in cases of deep disagreement, as they
+      presuppose the very ‘availability of common ground for reasonable debate and delib-
+      eration’ (de Ridder, 2021, 226), which cannot be taken for granted in the case of deep
+      disagreements.                                         
+        For this reason, I have suggested that an education for democracy, if it is to prepare
+      futurecitizenstodealwithdeepdisagreements,shouldassignagreaterroletocompromise
+      amongtheconflictregulationtechniquestaught.Iarguedthatcompromiseisanespecially
+      suitabletechniqueformanagingdeepdisagreementsbecauseitneitherpresupposesmuch
+      intermsofpre-existingcommonground, nordoesitseektofindit.Yetitstillregulates
+      conflict intensity, thereby providing a powerful tool for preventing deep disagreements
+      from escalating into fundamental conflicts.            
+        Iwouldliketofinishwithaclarificationofthescopeofthisproposal.Iamnotarguing
+      for traditional educational goals like reasonable deliberation to be replaced by com-
+      promise.Onthecontrary,Iconsidertheabilitytodeliberatetobeanessentialcomponent
+      ofanycomprehensivetheoryofdemocraticeducation.Itisaneffectivemeansofresolving
+      awidevarietyofconflicts,andfuturecitizensshouldcertainlylearntouseit.Nevertheless,
+      today’sincreasinglypluralistic societiesfaceawidevarietyofconflicts,anddemocratic
+      educationthatseeks topreparefuturecitizens forparticipation inreal-world democratic
+      negotiation processes will need to include knowledge of, and training in, a range of
+      different conflict-management techniques – as well as the judgment required to identify
+      thekindofconflictathandandselectanappropriateresponse.Iammerely–asastepin
+      thisdirection–arguingtoexpandtherangeofconflictmanagementtechniquescurrently
+      taughtindemocraticeducationtoincludecompromisemoreprominently.Afterall,some
+      disagreements,suchasdeepdisagreements,cannotberesolved.Toavoidtheriskofthese
+      disagreementsescalatingintofundamentalconflicts,theymustberegulatedinsomeway.
+                                                             
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+       Albrecht                                       15     
+                                                             
+       Teaching future citizens the technique of compromise, and perhaps even fostering an
+       appreciationforthisspecificwayofsettlingconflicts,couldcontributetothisendeavor.
+                                                             
+       Acknowledgements                                      
+       The idea for this paper was developed during my time as a postdoc in the Research Network
+       “Cultures of Compromise” at the universities of Duisburg-Essen, Münster, and Bochum. Earlier
+       drafts were presented at the Political Theory Colloquium in Münster, the Practical Philosophy
+       ColloquiuminWuppertal,andtheinauguralmeetingoftheEuropeanSeminarsinPhilosophyof
+       EducationinUtrecht,andIamverygratefulforthevaluablefeedbackIreceivedattheseevents.I
+       wouldliketoexpressmyspecialthankstoSvenjaAhlhaus,FelixPetersen,ManonWestphaland
+       UlrichWillems,aswellastotheanonymousreviewers,fortheirhelpfulcommentsandsuggestions.
+       ORCID iD                                              
+       TobiasAlbrecht https://orcid.org/0009-0006-7951-3571 
+                                                             
+       Funding                                               
+       The author received no financial support for the research, authorship, and/or publication of this
+       article.                                              
+                                                             
+       Declaration of Conflicting Interests                  
+       Theauthordeclarednopotentialconflictsofinterestwithrespecttotheresearch,authorship,and/or
+       publication of thisarticle.                           
+                                                             
+       Notes                                                 
+       1. Thiscanbeseen,forexample,fromthegrowingnumberof‘deeppluralists’inpoliticaltheory
+         (Lafont2020,34–73).                                 
+       2. Reasonsareultimateinthedoublesensethatpeople‘areunwillingtogivethemup,yetcannot
+         defend thembyindependent reasons’ (deRidder2021, 231).
+       3. For her article review, which provides a helpful overview of almost all current strands of
+         (theoretical) work on democratic education, Edda Sant (2019) analysed 377 texts (out of an
+         original sample of more than 1,000) on democratic education published between 2006 and
+         2017. She concluded that today, liberalism is still ‘the most powerful discourse shaping the
+         meaning of democratic education’ (Sant 2019, 663), closely followed by the deliberative
+         approach,whichisalsoamong‘themosthighlysupportedversions’,especiallywhenitcomes
+         to journal publications (Sant2019,669).             
+       4. ThecontroversyprimarilycentersaroundRawls’sassertionthatapoliticalliberalordershould
+         exerciserestraintregardingtheextenttowhichitmayinfluencethesubjectiveconstitutionofits
+         members andthe resulting question ofhow far liberal education canandshould go.
+       5. In other words, Rawls does not seem to assume that there is such a thing as real deep dis-
+         agreements.Rather,heassumesthatallourdifferingfundamentalbeliefs(which,accordingto
+         theabovedefinition,constitutedeepdisagreements)canultimatelybetranslatedintotheshared
+         language of publicreason.                           
+       6. This also becomes apparent in Neufeld’s phrasing that students should learn to ‘employ’
+         reasonableness.Hispracticedebatesarenotintendedtobeanactualnegotiationprocessabout
+                                                             
+                                                             
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+      16                            Philosophy and Social Criticism 0(0)
+                                                             
+        whatconstitutesreasonableness,butrathertheapplicationof(pre-established)rules.Thetalk
+        aboutstudentsraising‘pointsoforderto[…]identifyargumentsthatviolatethedutyofcivility’
+        (Neufeld2023,169–170,my emphasis) indicates thatas well.
+      7. It has often been argued that liberal and deliberative democratic theory have converged
+        considerably in recent decades (Rostboll 2009). This is even more true for debates on dem-
+        ocraticeducationthanfordemocratictheoryingeneral.Accordingly,Idistinguishbetweena
+        liberalandadeliberativestrategyheremainlyfor analyticalpurposes.Democraticeducation
+        theoristsoftenpursuethetwotogetheranywayandseethemascomplementary.Thatis,they
+        oftenstartfromtheassumptionof‘areasonableframeworkoflivingtogether’andarguethatthe
+        remainingdifferences‘canbesettledbyarationalprocedureofpublicdeliberation’(Hilbrich
+        2022,122).                                           
+      8. Thecallforgreatermedialiteracyisprobablythemostcommondemandamongthosewhowant
+        touseeducationtomitigatepoliticalconflicts.Itisalsooftenfoundinmuchmorewidelyread
+        crisis diagnoses, such as Colin Crouch’s Post-Democracy After the Crises, in which he rec-
+        ommends‘thedevelopmentofapopulationcapableofevaluatingandcheckingwhatpurportsto
+        be knowledge and evidence [and] of using the Internet discriminatingly […]’ (Crouch
+        2020,157).                                           
+      9. Thisisalsoevidentfromthefactthat,althoughtheideaofaimingforanactualconsensushas
+        long been abandoned by deliberative democracy theorists, who now see it at best as a
+        counterfactualregulativeideal,itisstillactivelypromotedincitizenshipeducationdiscourse.
+      10. Thisprocessisexplicitlynotmeantasanegotiation:‘Rulebydialogueisnotthesamethingas
+        rulebythepeople.Freeandopendialogueisagoodideabecauseitisthebestwaytodiscern
+        that which is true and that which is right or good, where both truth and goodness are to be
+        understoodasthingstobediscoveredthroughtheopeningofdialogueratherthanasthingstobe
+        negotiated together within adialogue’(Wegerif 2022, 160).
+      11. Amongtheauthorsquotedhere,ColinCrouchisanexception,asheconcedesthatevenafter
+        ‘the development of a population capable of evaluating and checking what purports to be
+        knowledgeandevidence[…]Peoplewillstillreachawidediversityofconclusionsduetothese
+        processes, but that isdemocracy’ (Crouch2020,157).   
+      12. Thisiswhy,hispracticalproposalalsodiffersmarkedlyfromMounk’s.Theheroictalethatthe
+        former seems to have in mind for his civics curriculum is something that Dagger considers
+        suitableforprimaryschoolatbest.Olderstudents,though,shouldreceivepreciselythe‘critical
+        approach to the history of the student’s country’ (Dagger 2023, 390) that Mounk seems so
+        worried about.                                       
+      13. See,forexample,thesimilardefinitionsinGutmannandThompson2012,10–16;Hand2023,
+        344–345;Spang 2023; Weinstock 2013, 539;Willems 2025,23; or Zanetti 2022, 21–22.
+      14. Thisargumentisoftenputforwardbyauthorswhoadvocateprincipledreasonsforcompromise.
+        Thispaperremainsagnosticonthequestionofwhetheritmakessensetoassumethatthereare
+        principledreasonsforcompromise.Assumingthemisnotdecisiveformyargumentanyway.
+        Thisisbecause,whileaprincipledwillingnesstocompromisemightfostercompromise,the
+        suitabilityofcompromisefordeepdisagreementsstemsfromthefactthatwecanalsoreach
+        compromises basedonpractical considerations alone.   
+      15. MariusFischer(2023)developedsometeachingmaterialsfortheGermanFederalAgencyfor
+        CivicEducationforthisinitialstage,whichinvolvesimpartingknowledgeof,andfirstpractice
+        in, thetechnique ofreaching acompromise.             
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+       Albrecht                                       17     
+                                                             
+       16. Forthisandotherwaysonhowtouse–atleastindirectly–realconflictstoeducatestudents
+         about compromise see Michael Hands’ paper ‘Education, Extremism, and Aversion to
+         Compromise’ (2023). Among other things, Hand suggests letting students talk about real
+         occasions from their own lives in which they themselves ‘have compromised or refused to
+         compromise’ (Hand 2023, 349, Italics added), and to reflect on the consequences of those
+         choices. He also suggests using history and literature lessons to discuss real (or fictional)
+         compromises madebetween individuals, parties, or nations.
+       References                                            
+       Affolter, J. 2023. “Moral Education and Deep Disagreement.” In Moral Education in the 21st
+         Century,editedbyD.Yacek,M.Jonas,andK.Gary,281–305.CambridgeUniversityPress.
+       Alexander, N. 2023. “Dewey on Democratic Education.” In The Cambridge Handbook of Dem-
+         ocraticEducation,editedbyJ.Culp,J.Drerup,andD.Yacek,61–73.CambridgeUniversity
+         Press.                                              
+       Brighouse, H.1998.“Civic EducationandLiberalLegitimacy.”Ethics 108(4):719–747.
+       Brighouse, H.2006.On Education. Routledge.            
+       Brighouse,H.2018.“CivicEducationintheAgeofTrump.OnEducation.”JournalforResearch
+         andDebate 1 (1):1–6.doi:10.17899/on_ed.2018.1.2.    
+       Brighouse,H.2022.“DeliberativeResponsibilityandCivicEducationinUniversitiesandColleges
+         in the US.” In Liberal Democratic Education: A Paradigm in Crisis, edited by J. Culp, J.
+         Drerup, I.deGroot, A.Schinkel,andD.Yacek, 1–23. Brill.
+       Callan,E.1997.CreatingCitizens:PoliticalEducationandLiberalDemocracy.OxfordUniversity
+         Press.                                              
+       Costa, V.2014.Rawls, Citizenship, andEducation.Routledge.
+       Costa,V.2021.“Rawls’TracesinContemporaryPhilosophyofEducation.”TheoryandResearchin
+         Education 19(3):296–300.doi:10.1177/14778785211056151.
+       Crouch,C. 2020.Post-Democracy After theCrises.PolityPress.
+       Culp, J.2021. “Schulische Demokratieerziehung unddie Krise derrepra¨sentativen Demokratie.”
+         Zeitschrift fürPa¨dagogik67(4): 528–542.doi:10.3262/ZP2104528.
+       Culp,J.,J.Drerup,I.deGroot,A.Schinkel,andD.Yacek.2022.“Introduction:LiberalDemocratic
+         Education:AParadigminCrisis.”InLiberalDemocraticEducation:AParadigminCrisis,
+         edited byJ.Culp, J.Drerup,I. deGroot,A.Schinkel, andD.Yacek, VII-XIII. Brill.
+       Dagger, R. 2023. “Patriotism and Democratic Education.” In The Cambridge Handbook of
+         Democratic Education, edited by J. Culp, J. Drerup, and D. Yacek, 377–392. Cambridge
+         University Press.                                   
+       De Ridder, J. 2021. “Deep Disagreement and Political Polarization.” In Political Epistemology,
+         edited byE. Edenberg andM.Hannon, 226–243.Oxford University Press.
+       Dubiel,H.1994.“DasethischeMinimumderDemokratie.Bla¨tterfürdeutscheundinternationale
+         Politik.                                            
+       Easton,C.2022.“TeachingLiberalValues:TheCaseofPromoting‘BritishValues’inSchools.”In
+         LiberalDemocraticEducation:AParadigminCrisis,editedbyJ.Culp,J.Drerup,I.deGroot,
+         A.Schinkel, andD.Yacek, 47–66.Brill.                
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+      18                            Philosophy and Social Criticism 0(0)
+                                                             
+      Edenberg,E.2016.“CivicEducation:PoliticalorComprehensive.”InJustice,Educationandthe
+        Politics of Childhood, edited by J. Drerup, G. Graf, C. Schickhardt, and G. Schweiger,
+        187–206.Springer.                                    
+      Edenberg, E. 2018. “Cultivating Reasonableness in Future Citizens. On Education.” Journal for
+        ResearchandDebate 1 (1):1–4. doi:10.17899/on_ed.2018.1.8.
+      Editorial,T.2018.“CivicEducationAfterTrump.OnEducation.”JournalforResearchandDebate
+        1 (1): 1.doi:10.17899/on_ed.2018.1.0.                
+      Fischer,M.2023.“WiesetzeichdieMaterilienimUnterrichtein?”InThemenbla¨tterimUnterricht.
+        Kompromissemachen,edited byBundeszentrale für politischeBildung, 6–16.BpB.
+      Fogelin, R.(1985)The Logicof Deep Disagreements. Informal Logic25(3): 1–8.
+      Gutmann, A.1995.“Civic EducationandSocial Diversity.”Ethics 105(3): 557–579.
+      Gutmann, A.1999.Democratic Education:Revised Edition.PrincetonUniversity Press.
+      Gutmann,A.,andD.Thompson.2012.TheSpiritofCompromise.WhyGoverningDemnadsitand
+        Campaigning Undermines it.Princeton University Press.
+      Hand,M.2023.“Education,Extremism,andAversiontoCompromise.”EducationalTheory73(3):
+        341–354.doi:10.1111/edth.12582.                      
+      Hazlett,A.2014.“EntitlementandMutuallyRecognizedReasonableDisagreement.”Episteme11
+        (1): 1–25. doi:10.1017/epi.2013.46.                  
+      Hilbrich,O.2022.“DemocraticConflictEducation.AgonisticChallengestotheLiberalAccountof
+        Crisis.”InLiberalDemocraticEducation:AParadigminCrisis,editedbyJ.Culp,J.Drerup,I.
+        deGroot, A.Schinkel, andD.Yacek,117–133.Brill.       
+      Kappel,K.2012. “TheProblem of Deep Disagreement.”Discipline Filosofiche22(2): 7–25.
+      Komatsu, Kayoko. 2019. “Jeremy Bentham and ‘Citizenship Education.” Revue d’e´tudes ben-
+        thamiennes.doi:10.4000/etudes-benthamiennes.6300.    
+      Lafont, C. 2020. Democracy Without Shortcuts: A Participatory Conception of Deliberative De-
+        mocracy.Oxford University Press.                     
+      Morrison, H. 1984. “Some Implications in Rawl’s Theory for Civic Education.” The Journal of
+        Negro Education53(1): 78–84.                         
+      Mouffe,C. 2000.TheDemocratic Paradox.Verso Books.      
+      Mounk, Y. 2018.ThePeople vs.Democracy.Harvard University Press.
+      Neufeld,B.2023.“RawlsianPoliticalLiberalismandDemocraticEducation.”InTheCambridge
+        Handbook of Democratic Education, edited by J. Culp, J. Drerup, and D. Yacek, 160–177.
+        Cambridge University Press.                          
+      Podschwadek,F.2022.“EducatingtheReasonable.”InPoliticalLiberalismandPublicEducation.
+        Springer.                                            
+      Ranalli, C., and T. Lagewaard. 2022. “Deep Disagreement (Part 1): Theories of Deep Disagree-
+        ment.”PhilosophyCompass 17(12): 1–8.doi:10.1111/phc3.12886.
+      Rawls,J.2005. Political Liberalism.ExpandedEdition. Columbia University Press.
+      Rostboll, C. 2009. Deliberative Freedom: Deliberative Democracy as Critical Theory. State
+        University ofNew York Press.                         
+      Sant,E.2019.“DemocraticEducation:ATheoreticalReview(2006–2017).”ReviewofEducational
+        Research89(5): 655–696.doi:10.3102/0034654319862493. 
+      Spang,F.2023.“CompromiseinPoliticalTheory.”PoliticalStudiesReview21(3):594–607.doi:
+        10.1177/14789299221131268.                           
+                                                             
+
+[PAGE 19]
+                                                             
+                                                             
+                                                             
+       Albrecht                                       19     
+                                                             
+       Warnick, B. (2022) Epistemic Humility and Democratic Education. In: J. Culp, J. Drerup, I. de
+         Groot,A.Schinkel,andD.Yacek(eds).LiberalDemocraticEducation:AParadgiminCrisis.
+         Brill, 83–100.                                      
+       Wegerif,R.2022.“BeyondDemocracy:EducationasDesignforDialogue.”InLiberalDemocratic
+         Education:AParadigminCrisis,editedbyJ.Culp,J.Drerup,I.deGroot,A.Schinkel,andD.
+         Yacek, 157–179. Leiden:Brill.                       
+       Weinstock, D. 2013. “On the Possibility of Principled Moral Compromise.” Critical Review of
+         International Social andPoliticalPhilosophy 16(4): 537–556.
+       Willems,U.2025.“TheConceptofCompromiseRevisited.”InHistoryandTheoryofCompromise,
+         editedbyJ.deBoer,M.Westphal,J.Jacoby,K.Mause,andS.Zeppenfeld,13–44.deGruyter.
+       Zanetti, V.2022.Spielarten des Kompromisses.SuhrkampVerlag.
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             

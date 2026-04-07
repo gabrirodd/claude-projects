@@ -1,0 +1,1143 @@
+[PAGE 1]
+                                                             
+                                                             
+                                                             
+                                                             
+       Original Research Article                             
+                                                             
+                                           PhilosophyandSocialCriticism
+                                               2026,Vol.0(0)1–22
+       Patterns of Withdrawal:                               
+                                              ©TheAuthor(s)2026
+       Adorno  and  the Beats                                
+                                              Articlereuseguidelines:
+                                          sagepub.com/journals-permissions
+                                         DOI:10.1177/01914537261425903
+                                           journals.sagepub.com/home/psc
+       Vangelis Giannakakis1                                
+       Abstract                                              
+       This essay explores the structural and historical parallels between Theodor
+       W. Adorno’s theory of negative dialectics – the comprehensive critical-theoretical
+       frameworkthatunderpinshisanalysesofculture,experience,andsocialintegration–
+       and the ethos of countercultural defiance embodied by the Beat Generation. Both
+       emerged as radical responses to the social and ideological landscapes of post-World
+       WarII,unitedbyasharedscepticismtowardsinstrumentalrationalityandnormative
+       conformity in late capitalism. They are also linked by a mutual dedication to non-
+       identity, dissonance, and withdrawal as modes of resistance. The paper argues that
+       Adorno’s critique of late-capitalist reality and the Beats’ literary and performative
+       rejectionofbourgeoisnormsconvergeinasharedendeavourofcriticaldisaffiliation,
+       aimed at preserving experience from being subsumed under exchange relations and
+       ideological closure. Through a meticulous examination of Adorno’s theoretical
+       writings alongside pivotal interventions by Ginsberg and Kerouac, the essay con-
+       structs a comparative framework that elucidates how negation, refusal, and with-
+       drawal function not as passive retreats but as active forms of critique against
+       thoroughly administered, conformist societies.        
+       Keywords                                              
+       TheodorW.Adorno,BeatGeneration,subtraction,dissent,greatrefusal,resistance,Jack
+       Kerouac, Allen Ginsberg, culture                      
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+       1InstitutfürPhilosophie,Goethe-Universita¨t,FrankfurtamMain,Germany
+       Correspondingauthor:                                  
+       VangelisGiannakakis,InstitutfürPhilosophie,Goethe-Universita¨t,Norbert-Wollheim-Platz1,Frankfurtam
+       Main60629,Germany.                                    
+       Email:vangelis.giannakakis@gmail.com                  
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+      2                             Philosophy and Social Criticism 0(0)
+                                                             
+                ‘Withoutregard, compassion or shame,         
+                they builtaround megreat high walls.         
+                And I sitherenow anddespair.                 
+                No other thought:my fate eats me.            
+                                                             
+                Because I hadso many thingsto dooutside.     
+                Alas, when they werebuilding the walls       
+                how could Inot payattention?                 
+                ButI neverheard noisefrom the builders,not asound.
+                Withoutmy noticethey closed me in fromthe world outside’
+                                        Constantine Cavafy –Walls
+                ‘They say ev’ry man needsprotection          
+                They say ev’ry man mustfall                  
+                Yet I swearI seemy reflection                
+                Someplace sohigh abovethis wall              
+                I seemy lightcomeshining                     
+                Fromthe westunto the east                    
+                Any daynow,anydaynow                         
+                I shall bereleased’                          
+                                      BobDylan –I shall bereleased
+                                                             
+      Eric Hobsbawm described the years 1945–1975 as the ‘golden age’ of the twentieth
+      century: decades of prosperity, stability, and unprecedented scientific and techno-
+      logical advance. Yet this period also generated new forms of political, social, and
+      cultural conformity, accompanied by an acute awareness of nuclear peril, ecological
+      crisis,andtheexhaustionofinheritedmoralvocabularies.Itwasinthiscontradictory
+      climate that the writers later grouped under the name ‘Beat Generation’ – Herbert
+      Huncke, William Burroughs, Allen Ginsberg, Lucien Carr, Jack Kerouac, among
+      others – began to speak for what remained irreducible within the managed order of
+      post-warlife.Theirworkdistrustedthebeliefthatrationality,throughtherigourofits
+      logical structure, could encompass the whole of human experience. For the Beats,
+      reason was as much a means of emancipation as a possible apology for domination.
+      Theirprotagonists,oftenthinlyveiledselves,fledasocialenvironmentthat‘beatthem
+      down’, cultivating instead a beatific openness to meanings unassimilated by the
+      prevailing culture. At roughly the same historical moment, Theodor W. Adorno,
+      writinginexileintheUnitedStates,wasformulatingaphilosophicalcritiqueoflate-
+      capitalist culture no less suspicious of conformity. In Dialectic of Enlightenment
+      (1947),co-authoredwithMaxHorkheimer,andMinimaMoralia(1951),hediagnosed
+      the ways in which the promises of Enlightenment rationality had turned to their
+      opposite, producing a world where experience was impoverished and the individual
+      absorbedintotheapparatusofproductionandconsumption.AdornowasnoBeat–nor
+      would the Beats, particularly given his withering judgement of jazz, have embraced
+      him as one of their own – yet there is a striking proximity in their refusals.
+                                                             
+                                                             
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+       Giannakakis                                    3      
+                                                             
+        This study does not advance a claim of historical affiliation between the Frankfurt
+       School – Adorno in particular – and the Beat movement. Instead, it undertakes the
+       constructionofaconceptualbridgethroughasustainedcomparativereading.Withinthis
+       framework, Adorno’s (theory of) negative dialectics is understood not merely as the
+       argumentelaboratedinthemonographbearingthattitle,butasexpressiveofhisoverall
+       critical-theoreticalorientation.Readinthisexpandedsense,itisbroughtintorelationwith
+       the countercultural praxis of the Beats, such that each illuminates the other. Primary
+       emphasisisaccordedtoAdorno’searlierwritings,whichmostcloselycorrespondtothe
+       social,historical,andculturalconditionsoftheBeatmovement’sformativemoment.Later
+       worksandinterventionsbybothAdornoandtheBeatsareapproachedasdevelopments
+       that exceed this initial configuration, yet remain analytically significant insofar as they
+       sharpen points of divergence and convergence alike. The aim is not to dissolve their
+       differences–Adorno’sabstractcritique andtheBeats’livedexperimentindisaffiliation
+       occupydistinctregisters–buttodrawouttheirsharedinsistencethatlifecannotbelived
+       rightly within a false reality. In an age when neo-conformism once again advances,
+       ecological degradation accelerates, and armed conflict proliferates, the confrontation
+       between these two traditions offers more than antiquarian interest. Both, in different
+       idioms,defenda‘logicofsubtraction’,thatis,adeterminatewithdrawalfromformsoflife
+       thatproduceandreproduceconformityandinstrumentalityassecondnature–arefusalof
+       themerelygiven[diebloßeGegebenheit]inthenameofwhatcouldbe.Anycomparison
+       betweenAdornoandtheBeatwritersmust,however,remainfundamentallyasymmetrical.
+       Adorno’s conception of negative dialectics unfolds as a philosophical and conceptual
+       critique directed againstidentity thinking, instrumental rationality, and thereification of
+       experienceunderconditionsoflatecapitalism.TheBeats,bycontrast,registertheirrefusal
+       primarily through literary experiment, performative excess, and modes of lived disaf-
+       filiation, rather than through systematic theoretical elaboration. The proximity explored
+       heredoesnotrestuponsharedmetaphysicalcommitmentsormethodologicalprocedures,
+       butuponaparallelinsistenceonnegation,withdrawal,andnonconformityashistorically
+       situated responses to post-war processes of social rationalisation. In the Beats’ restless
+       quest and Adorno’s philosophical intransigence lies a common project: to preserve the
+       possibility of an undiminished human experience against the forces that would stan-
+       dardise, commodify, and finally extinguish it.        
+       A New Brave World…                                    
+       The post-World War II sequence, from 1945 to the breakup of the Soviet Union, was a
+       strange time. The defeat of Nazi Germany and the Axis powers brought about a reality
+       steeped in hope, tormented by recollections of the most abject horror, and fraught with
+       fears–attimeswarranted,atothersparanoiac–ofgreatercalamitiesstilltocome;allatthe
+       sametime.Thisholdsespeciallytrueforthefirsttwodecadesfollowingtheendofthewar,
+       which is also the period when the Beats came of age and produced some of their most
+       impactfulmaterial.AsforAdorno,aseasonedscholarbythattime,hewitnessedthedawn
+       ofthisnewerawhilestillinexileintheUnitedStates(hereturnedtoEuropein1949).The
+       post-war world was riven into two camps led respectively by the United States and the
+       SovietUnion,erstwhilealliesturnedarch-enemiesinajoustforhegemonyontheglobal
+                                                             
+                                                             
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+      4                             Philosophy and Social Criticism 0(0)
+                                                             
+      scene.Andyet,forallthebellicoseposturesandrhetoricthatflourishedduringthatperiod,
+      thiswas,asaneminenthistorianremarks,a‘reasonablystable’situationthat‘remainedso
+      untilthemiddle1970s’.1Thisbynomeansimpliesthattherewerenoconfrontations.That
+      thetwosuperpowerstreatedtheColdWarasaColdPeace–inthatneitherreallywished
+      for a reciprocally devastating head-on clash – did not preclude them from intervening
+      wheneverandwherevernecessarytosecuretheirinterests,andfromengaging,overtlyor
+      tacitly, in proxy conflicts.2 The magnitude and ferocity of these incidents – occurring
+      whilethewoundsofadevastatingwarwerestillfresh–combinedwiththefactthat,after
+      1949, the Soviet Union had acquired nuclear capability, soon to be followed by other
+      powers, unfailingly summoned the spectre of atomic annihilation. This peril, whose
+      ghastlyimplicationshadbeensearedintothecollectiveconsciousnessbyHiroshimaand
+      Nagasaki,gaverisetoaprofoundexistentialdisquietthatenvelopedhumanityduringthat
+      fraught era.3                                          
+        Another,morepositivesourceofdiscontentduringthisperiodwastheconfluenceofan
+      economic upswing and an explosive expansion of technology.4 The world was now
+      smaller and moved faster, and sweeping social transformations felt less like the stuff of
+      abstract yearning and more like a genuine process in motion. This period saw decisive
+      strides toward gender equality, inspiring later feminist movements: de Beauvoir’s Le
+      Deuxième Sexe and Stern’s ‘Women are Household Slaves’ appeared in 1949; the
+      MattachineSocietyandDaughtersofBilitiswerefoundedin1950and1955.Meanwhile,
+      theAmericancivilrightsmovementgainedpowerfulmomentum.Oneneedonlyrecallthe
+      impressive number of landmark victories over institutional/ised racial segregation, dis-
+      crimination and disenfranchisement in that country from 1954 to 1968. Add to this the
+      spread of higher education, which turned large segments of the population into so-
+      phisticatedcitizensandhighlyskilledprofessionals,therestructuringofcapitalismwitha
+      stressonglobaltrade,enhancedindustrialisationandtechnologicalinnovation,asocial-
+      political consensus against mass unemployment coupled with the rise of a thriving
+      consumersociety,whichgavemanypeople accesstogoodsandservicesthathadnever
+      before been within their reach, and the picture of an affluent reality – indeed, a ‘golden
+      age’–beginstotakeshape.Butitwasalsoamomentfraughtwithcontradictionsthatwill
+      surfaceinthelastquarterofthetwentiethcentury,andmouldthechallengesposedinthe
+      earlytwenty-first;contradictionsreflectedinAdorno’scriticalsocialtheoryaswellasin
+      the literary oeuvres of the Beats.5                    
+        The sanguine mood of the period rested chiefly on two pillars: fear of a relapse into
+      barbarism and an emphasis on conformity as its safeguard. These forces intertwined in
+      divergent ways, producing two essential yet opposing visions of reality. One held that
+      conformity,broadlyconceived,offeredthesurestdefenceagainstbarbarism.Inamanner
+      notfarremovedfrompresent-day‘solutionism’,thisviewtreatedhumanbehaviourand
+      social life as neutral, ahistorical objects, to be disciplined by strict methodological
+      principles and rigorous analytical formulae, through which the post-war order might be
+      rationally organised and its discontents effectively managed. To that end, the pre-war
+      doctrines of ‘social automatism’ and ‘propaganda’ were reinterpreted in the light of the
+      Second World War and redeployed as ‘social engineering’ and ‘public relations’.6 Karl
+      Popper–anavowedproponentof‘scientism’andadmirerofRoscoePound,thefounder
+      of‘legalsocialengineering’and,controversially,asympathiserofNaziGermany,butalso
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+       Giannakakis                                    5      
+                                                             
+       of Friedrich Hayek, whose The Road to Serfdom(1944) advanced theview that society
+       should be organised as a system of ‘free markets’ governed by a minimalist, techno-
+       instrumental logic later termed neoliberalism – captured, in The Open Society and Its
+       Enemies(1945),theprevailingWesterntemperoftheage.7Popperarguestherethatthe
+       ‘metaphysics of history’ ought to be abandoned in favour of that most desirable of
+       practices,namely,‘theapplicationofthepiecemealmethodsofsciencetotheproblemsof
+       social reform’.8 As to what precisely is meant by ‘metaphysics of history’, Popper’s
+       answerisstraightforward:itisthat‘pernicious’theoreticalpropensityto‘lookuponsocial
+       institutions mainly from the point of view of their history, that is, their origin, their
+       development, and their present and future significance’.9 In the East too, conformity
+       playedaprominentpartinsocialexistence,albeitforqualitativelyverydifferentreasons.
+       Itwas,atthesametime,themeansandtheby-productofanefforttopreserveamomentum
+       ofprogressivesocialtransformationatamomentwhentheobjectiveconditionsforitwere
+       dwindling.10HerbertMarcuse’sinsightsintotherootcausesofconformityintheEastis
+       veryhelpfulhere.The‘absurdityofSovietMarxismha[d]anobjectiveground’,hestates
+       inSovietMarxism(1958),andadds:‘itreflect[ed]theabsurdityofahistoricalsituationin
+       whichtherealizationoftheMarxianpromisesappeared–onlytobedelayedagain–andin
+       which the new productive forces [were] again used as instruments for productive re-
+       pression’.11 As a result, Marcuse elaborates, people found themselves in a position in
+       which, where reality did not tally with the truth content of Marxist theory, they had to
+       hypostatisethelatterbywayof‘ritualpatterns’topreserveitsfuturity,thatis,theyhadto
+       ‘doandfeelandthinkasiftheirstateweretherealityofthatreason,freedom,andjustice
+       which the ideology proclaims, and the ritual [was] to assure such behavior’.12
+        Ontheotherhand,manyperceivedbarbarismnotastheoppositebutastheoffspringof
+       conformity.Evidenceabounded:cultural-politicalepisodessuchastheGreatTerrorand
+       McCarthyism;statutoryorself-imposededictsliketheSoviet‘RepertoireofTheatresand
+       MeasuresforitsImprovement’ortheAmerican‘MotionPictureProductionCode’(i.e.the
+       infamous‘HaysCode’);andsocialorderssuchasthoseenforcedbytheJimCrowlaws.
+       Together,theyillustratehowconformity,inthepost-waryears,couldengenderareality
+       impoverishedinexperience,ifnotovertlybrutal.13Lifehadprevailedovertheagentsof
+       death,owingtotheeffortsandsacrificesofthepeoplesoftwomajorsocial-politicalblocs
+       – the capitalist West and the communist East – that now regarded themselves as the
+       rightful ideological heirs of the Enlightenment and the torchbearers of civilisation.
+       Anxious toimpose themselvespreciselyassuch,andprovetheiradversarywrong,they
+       werenowconstrainingandthreateninglifeinnew(orrenewed)waysbysimplyomitting
+       topursuethedialecticofenlightenmentthatwouldhaveunderlinedtheantithesesthatled
+       to the disasters of the two world wars.               
+        Adorno recognised this pattern, as the preface to Dialectic of Enlightenment, co-
+       authored with Max Horkheimer, makes clear. ‘We have no doubt’, they write, ‘that
+       freedom in society is inseparable from enlightenment thinking’.14 Yet their historical
+       moment–strikinglyclosetothepresent–revealedthat‘theveryconceptofthatthinking
+       […]alreadycontainsthegermoftheregressionwhichistakingplaceeverywheretoday’,a
+       flawembeddedasmuchinitsabstractideaasintheconcreteinstitutionswithwhichitis
+       bound.15 Adorno and Horkheimer then proceed to offer a brief sketch of their line of
+       reasoning.‘Theincreaseineconomicproductivitywhichcreatestheconditionsforamore
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+      6                             Philosophy and Social Criticism 0(0)
+                                                             
+      justworld’,thetwotheoristsremark,‘alsoaffordsthetechnicalapparatusandthesocial
+      groupscontrollingitadisproportionateadvantageovertherestofthepopulation’.16The
+      more society envelops its members in a plenitude of material and intellectual com-
+      modities,themoretheysuccumbtoitsgravitationalpull,becomingmalleablematterfor
+      social engineering rather than rational, critical, democratic agents – socialised objects
+      instead of social subjects. Under these circumstances, Horkheimer and Adorno argue,
+      individualsbecome‘smarterandmorestupidatonce’,andultimately‘entirelynullified’,
+      inthefaceof‘theapparatustheyserve’,not(or,notonly)asitsworn-outthralls,butasits
+      complacentfunctionaries.17The conclusionthetwothinkers cometoisscathing, tosay
+      the least: in late modernity ‘the gifts of fortune themselves become elements of mis-
+      fortune’ and ‘progress is reverting to regression’.18 Many years after Dialectic of En-
+      lightenment first appeared, Adorno and Horkheimer added a new preface, ostensibly to
+      softenitssombretone.Theeffectwasanythingbutreassuring.‘Thedevelopmenttoward
+      totalintegration[…]hasbeeninterruptedbutnotterminated’,theywrote,addingthattheir
+      forecast of a lapse from enlightenment into blind positivism – and ultimately into the
+      identification of intelligence with hostility to mind – had been ‘overwhelmingly
+      confirmed’.19                                          
+      Being ‘Beaten’                                         
+      Shortly before the release of Dialectic of Enlightenment, a 20-year-old student at Co-
+      lumbia University, a budding poet, core member of the Beat Generation, and one of its
+      mostinfluentialvoices,raisedsomehighlyresonantconcernsaboutlatemodern,post-war
+      reality. Perhaps, one of the most pithy and trenchant articulations of these latter is
+      contained in a review of W. H. Auden’s For the Time Being that appeared in Columbia
+      ReviewinMay1946,andwhichborethesoberingtitle‘…“ThisIstheAbomination”’–
+      its author: Allen Ginsberg.20 Nearly all the traits that gave Adorno’s critical-theoretical
+      voiceitsdistinctivehuearepresentinGinsberg’stext:theNietzscheanabhorrenceof‘last
+      men’,thenon-fatalist quasi-Spenglerian revulsion overthe disintegration of culture, the
+      senseofbewildermentinthefaceoftheconfluenceoftheabidingeclipseofreasonandthe
+      unabatedprogressionofmodesofmutuallyassuredtotalannihilation,butalso,acertain
+      confidenceinthetransformativeandrestorativepowerofalternativeformsofexperience,
+      not least those associated with artistic expression. It is towards what he regards as the
+      ‘advanced stage of disintegration of public spirit’ that Ginsberg directs his eloquent
+      criticalvehemence.21The‘concreteproblembeforeus’,heexplains,consistsinfiguring
+      outways ‘toprevent others from destroying us atany moment’.22 The nihilistic tone of
+      Ginsberg’sdiagnosisisonaparwithAdorno’s(and,indeed,Horkheimer’s)notionofthe
+      waning of the subject, and much like the latter, he attributes this decline to subjective
+      hubrisratherthantoobjectivedeficiency.‘Itisnolessthanafact’,Ginsbergavers,‘that
+      thewretchedcontemporaryindividualistryingtosolveexternalproblemswhilehistrue
+      problemisoneofself-deception’.23MuchofwhattheyoungBeatpoetwritesaboutpost-
+      war,latemodernityisreminiscentofsomeofthemostearnest,mostradicalexistentialist
+      tractates,yettherearealsosomesalientparallelswiththecritiqueofthecultureindustry
+      and the attendant idea of the narrowing of experience that Adorno was committing to
+      paper at about the same time. This is exemplified in Ginsberg’s portrayal of life as
+                                                             
+                                                             
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+       Giannakakis                                    7      
+                                                             
+       inherently perilous, a ceaseless – often brutal – struggle for physical and spiritual gain.
+       Modern man, unable to confront his own existence, cloaks this incapacity in blind ac-
+       quisitiveness, fear of instinct, and a ‘fortress of conveniences’, a ‘megalopolitan bat-
+       tlement of comforts’ encasing the soul. Such accoutrements, harmless as auxiliaries in
+       life’sbattles,revealpathologywhentheyreplaceaction.Here,familiarAdornianmotifs
+       surface:therepressionofhumannature,therepudiationofabstract,stultifyingidealism,
+       and the critique of consumerism as an instrument of acquiescence.24
+        In fact, Adorno would echo Ginsberg’s assessment of late post-war modernity a few
+       yearslaterinmuchthesamespirit.Oneneedonlyturntothededicationsection–which
+       also doubles as a preface – to Minima Moralia (1951) to realise this. The aphorisms
+       contained in this important work were penned between 1944 and 1947; the dedication,
+       however,coincideswiththepublicationofthisbookandpostdatesthereleaseofDialectic
+       ofEnlightenment(1947),and,indeed,Ginsberg’s‘…“ThisIstheAbomination”’(1946).
+       There,Adornocastshis‘melancholyscience’(i.e.hisreflectionson‘damagedlife’inlate-
+       capitalistrealityviewedasawhole,asaconstellationofcriticalinsights)astheswansong
+       of a type of experience that was/is slowly but surely waning in a reality where instru-
+       mentality ranks highest: an undiminished experience vowed to the pursuit of the good
+       life.25Noaffirmativedefinitionof‘undiminished’or‘good’lifecanencompasstheirtrue
+       import; such life is apprehensible only in the negative. As Adorno observes, what the
+       philosophers once conceived as life has withered into the narrow sphere of private ex-
+       istence and, more starkly, into mere consumption – an appendage to the machinery of
+       materialproduction,bereftofautonomyandintrinsicsubstance.Toapprehendlifeinits
+       immediacy,onemustinterrogateitsestrangedformandtheobjectivepowersthat,evenin
+       its most secluded recesses, shape and determine individual existence.26
+        This negative approach vis-a`-vis the problematics of the good life became the defining
+       feature of Adorno’s critical social theory, and eventually received its full expression as the
+       theoryofnegativedialectics.InMinimaMoraliaitmanifestsitselfmostsuccinctlyintheform
+       of aphoristic catch phrases: ‘…there is life no longer’ or ‘[t]he whole is the false’.27 Not-
+       withstanding, the aphoristic or even autobiographical tone of this earlier work of Adorno’s
+       belies a powerful critique of late, post-war capitalist reality. The amalgam of personal ex-
+       perience,idiosyncraticandanecdotalmotifs,andapothegmaticasseverationsthatmakeupthe
+       bulkofMinimaMoralia,andculminateinarivetingἀναγνώρισις,isfarfromincidental.28
+       Adorno contends that late capitalism has subordinated life to the demands of production,
+       invertingtherationalorder.Aspuriousobjectivity,onealignedwiththeinstrumentalaimsof
+       capitalism,hasseepedintoanddisplacedsubjectivity,endowingitwithtraitsthatsustainthe
+       world’s false, reified state: ‘the non-controversial aspect of things, their unquestioned im-
+       pression,thefaçademadeupofclassifieddata’.29Insuchconditions,onlythe‘toosubjective’
+       canhopetoreachwhatremainsuntaintedbyregulatedappearances.ForAdorno,unalloyed
+       particularity (collective or individual) alone can attain true objectivity, even if only in
+       fragments,by‘breachingthefaçade’,engagingspecificexperience,andreplacingconsensus
+       with genuine attention to the object.30 Yet such a breach is never without cost.
+        It is no mere happenstance that Minima Moralia bears the subtitle ‘reflections on a
+       damagedlife’.Infact,Adornomayaswellhavewritten‘reflectionsfromadamagedlife’,
+       given the both intimate and acerbic nature of this book. Right from the outset, one is
+       confronted with the Adornian conviction that, in late-capitalist reality, (critical) thought
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+      8                             Philosophy and Social Criticism 0(0)
+                                                             
+      andspoilt lifeareinextricably boundtogether;that onlyan emphatic experienceofruin
+      affordsvistasintothetruth(s)beyondtheexistingorderofthings,andbythatveryfactinto
+      the falsity of that order. This thesis is a logical segue to Adorno’s conception of late-
+      capitalistsocietyasatotalityofmodesofthinkingandwaysofdoing–ahabitus,touse
+      Pierre Bourdieu’s very apposite term here – that adhere to what he so characteristically
+      refers to as ‘the barter principle’.31 The latter denotes those late-capitalist processes by
+      which, as Adorno observes, ‘nonidentical individuals and performances become com-
+      mensurableandidentical’.32Thehegemonicstatusaffordedtothebarterprincipleinlate-
+      capitalistsocietygoeshandinhandwitharealityinwhichhumanexperienceisstrippedof
+      itsconcretecontents,idiosyncrasies,peculiarities,etc.,andschematisedinsuchawayas
+      to fit the requirements of a system of production/consumption geared towards the
+      maximisationofprofitsattheexpenseofthesatisfactionofhumanneeds.Sointense,so
+      pervasivearethesesocialprocessesofidentificationinandwith(late)capitalistsociety,
+      that emancipating oneself from it, Adorno argues, can only ever be a partial and even
+      harmful affair. He contends that within a repressive society, emancipation is double-
+      edged:itgrantsfreedomyetdeprivestheindividualoftheverystrengthtoexerciseit.33
+        TheambiguityinJackKerouac’sframingoftheterm‘beat’,thesignaturemonikerofthe
+      generationhecametopersonify,saysmuchaboutthecontradictionhighlightedbyAdorno.To
+      Kerouac, this was a generation of ‘crazy [albeit] illuminated hipsters suddenly rising and
+      roaming America’, at the same time ‘serious, curious’ and ‘ragged’, ‘bumming and hitch-
+      hiking everywhere’, though always ‘beatific, beautiful in an ugly graceful new way’; a
+      generationofbeats,indeed,ofthosewhoare‘downandoutbutfullofintenseconviction’.34
+      InHowl,Ginsbergoffersan‘ode’totheBeats,portrayingthegeneration’sbrightestspirits–
+      madmen, bums, and angels – as near-Christlike figures. ‘Speechless and intelligent and
+      shaking with shame’, they bare their souls to the rhythm of thought. Clad ‘in the ghostly
+      clothes of jazz’, they voice ‘the suffering of America’s naked mind’ in a saxophone cry
+      reverberating‘tothelastradio’.35Thisistheheartoflife’spoem,tornfromtheirbodiesand
+      offeredassustenance–‘goodtoeatathousandyears’–avisionatoncesacredandvisceral,
+      capturing a generation’s consuming fire.36 The folly that overtook the Beats was neither
+      unreasonablenorgroundless.ThatmuchismadepoignantlyclearinpartIIofHowl,where
+      Ginsberg conjures up the insidiously alienating, conformist, and ruinous monstrosity with
+      which ‘the best minds of [his] generation’ grappled, yet to which they were ultimately
+      sacrificed, that is, Moloch, or in a less mythological mode, late-capitalist reality:
+        Moloch whosemind ispure machinery! Moloch whoseblood is running money!
+         Moloch whose fingersareten armies! Moloch whosebreast is acannibal
+         dynamo!Moloch whose earisasmoking tomb!             
+        […]                                                  
+        Moloch! Moloch! Robotapartments! invisible suburbs! skeleton treasuries! blind
+         capitals! demonic industries!spectral nations! invincible madhouses! granite
+         cocks!monstrous bombs!37                            
+        InthewakeofWorldWarII’shorrorsandamidthetensionsoftheColdWar,theBeats
+      rejecteddiscreditedmodels,seekinganalternativesensibilityandintellectualawareness.38By
+      turns resigned and life-affirming, yet always critically alert, their stance was a flight at a
+                                                             
+                                                             
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+       Giannakakis                                    9      
+                                                             
+       standstill: a ‘beatific indifference to things that are Caesar’s’ paired with the praxis of ‘en-
+       durance, kindness […] joy of heart’.39 It was not ‘tired old criticism’ but ‘spontaneous af-
+       firmation’,apursuitofthe‘vibrationsofsincerity’.40However,thepositivemomentofthe
+       Beat disposition had little to do with any sort of ‘will to power’, since, as the latter and
+       somewhatmoroseKerouacputit,modernexistenceessentiallyequals‘[a]lifelongstruggleto
+       avoid disaster’.41                                    
+                                                             
+       Not Being at Home in One’s Home                       
+       The summer of 1946 marked a singular moment for Harvard University. The Second
+       WorldWarhadended–indeed,hadbeenwon–andgraduatesandalumniassembledfor
+       the long-awaited Victory Commencement. The occasion was charged with symbolism,
+       poisedbetweenthelivedrealitiesofwarandthepromisesofpeace,yetshadowedbythe
+       suspicionthattheformermightseepintothelatter,tintingthefutureinthehuesofthepast.
+       That Phi Beta Kappa selected Byron Price, wartime director of the US Office of Cen-
+       sorship,askeynotespeakerspokevolumesaboutthetendenciesatworkinthisnewyet
+       familiar order; the tone of his address blended Spenglerian cultural pessimism with
+       unabashednationalpride.42‘Wehavelostvalorattheverymomentofourgreatestneed’,
+       Price affirmed, ‘[t]welve months ago the tools were sharp and the blueprint fresh and
+       intriguing.Nowwehavecometotheendofayearofhope,andnotenoughoflabor’.43He
+       contended that this reversal arose from a nexus of forces emblematic of conservative
+       culturalcritiquescentredondecline:anationmiredinconfusion,timidity,andresurgent
+       bigotry; paralysed by legislative inertia; stifled by economic sabotage; tainted by illicit
+       trade;besetbydelinquencyandwelfareexcessamidmassidleness;andguiltyofwastein
+       a world of scarcity – an ignoble descent from the valour of 1945.44 Price denounced
+       intellectuals who, enriched by a booming publishing trade, produced works devoid of
+       beauty or moral elevation, yet steeped in vice. Such books, he claims, urged readers to
+       sneerathumanity,revelledintalesofcriminalsandharlots,andworshippedthefleshamid
+       sordidscenes.45Hisconclusionisaveritablepleaforpatrioticabnegation,inspiredbythe
+       mostpressing,althoughbythenfarobsolete,exigenciesofthewar.‘Weshallnotfindthe
+       wayagain’,Priceproclaimed,‘unless,asinotherdecisivehourslongagowe,thepeople
+       set our course resolutely again toward national greatness’.46
+        ByronPricewasnottheonlyguestonthatday.ThepoetW.H.Audenhadalsobeen
+       askedtotakepartintheceremonies.Auden,authorofFortheTimeBeing–reviewedby
+       Ginsberg in ‘… “This Is the Abomination”’ – composed ‘Under Which Lyre’ for the
+       occasion,aspiritedandperceptivepoemthatreadsasadirectripostetoPrice’sstrictures.
+       UnlikePrice,Audenwasnotenthralledbythepast,butsoughttoinstilinhisaudiencea
+       sense of belonging to a hard-earned peaceful present: 
+        Aresat last has quitthe field,                       
+        Thebloodstains onthe bushesyield                     
+          Toseeping showers,                                 
+        Andin their convalescentstate                        
+        Thefractured townsassociate                          
+          With summerflowers.47                              
+                                                             
+                                                             
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+      10                            Philosophy and Social Criticism 0(0)
+                                                             
+        Thedaysofwarhadpassed,andtheuniversitynowteemedwith‘[r]awveterans’recast
+      as ‘freshman forces’, with tutors and their quips, and professors who traded back their
+      ‘secretmissions’fortheir‘propereruditions’.48However,justasAressunkintoslumber,
+      Audenalertedhisaudience,awholenewwarhadalreadybrokenout;nottheColdWar,
+      which would take a few more years to fully materialise, but a war far closer to home:
+                                                             
+        LetAres doze,that other war                          
+        Is instantly declaredonce more                       
+         ‘Twixt those whofollow                              
+        PrecociousHermes all theway                          
+        Andthose who without qualmsobey                      
+         PompousApollo.49                                    
+        Audenthenproceedstodescribethetworivalfactions.Whatensuedisavividinsight
+      intohowtheBeats–manyofwhomfiguredinhisaudience–wouldeventuallycometo
+      seetheworld:aclashbetweenorderandliberty,conformityanddisobedience,discursive
+      reasonandemphatictruth.WhileAudenconfinesthisbattle,forthemostpart,withinthe
+      wallsoftheuniversity,theBeatsdidnotfailtotakenoticeofitslogicalextrapolationsto
+      society writ large.                                    
+        Apollorepresentstheestablishedorderofthings.Hermesmayaswellhavecreatedthe
+      lyre,Apolloisthepatronof‘officialart’;andwhile‘precociousHermes’,ifheweretotake
+      thehelm,wouldthrowtheworldinashambles,asaresultofhissophomoricdisposition,
+      Apollo, who ‘loves to rule’, and ‘has always done so’, has for his part a penchant for
+      ‘fasces and falcons’.50 Besides, Apollo and his followers replace ‘Truth’ by ‘Useful
+      Knowledge’, and put their ‘common-sense’ at the service ‘of secret schemes to rule the
+      heart’,settinghighstoreby‘CommercialThought,PublicRelations,Hygiene,Sport’.51
+      The reality of the forties was Apollonian: a world of ‘over-Whitmanated’ ditties that
+      heaped praise on ‘the doughnut and commend[ed] the Common Man’, of ‘court-house
+      bards’, ‘dieticians’, and sanctimonious ‘existentialists’.52 As a counterpoise to this
+      prevailingorder,Auden’s‘HermeticDecalogue’readsasanironicmanifestooftheBeat
+      sensibility.Itcounselsresistance–‘Thoushaltnotdoasthedeanpleases’–andrejectsthe
+      bureaucraticrationalityofthepost-warsettlement:noworshipofprojects,nobowingto
+      administration, no compliance with questionnaires, tests, or the pretensions of ‘social
+      science’.53Iturgesabreakfrombourgeoispropriety,scorningadvertisingmen,thosewho
+      read the Bible merely as literature, and ‘above all […] those who wash too much’.54
+      Spurningthriftandasceticrestraint–‘Thoushaltnotlivewithinthymeans/Noronplain
+      water and raw greens’ – it celebrates risk, idiosyncrasy, and cultivated nonchalance: ‘If
+      thou mustchoose…choose theodd;read The NewYorker,trustinGod; andtake short
+      views’.55                                              
+        Ataboutthatsametime,Adornowasbusypursuingparallelmeditationsofhisown.In
+      aremarkablyprescientsectionofasetofnotesonphilosophicalanthropologydraftedin
+      1942, he paints a fairly accurate picture of thereality that many beats would eventually
+      findthemselvesin.Anewtypeofhumanbeingisemerginginthepost-war,late-capitalist
+      society, Adorno writes in ‘Notizen zur Neuen Anthropologie [Notes on a new anthro-
+      pology]’.56 This evolution, he argues, is due in large part to the fact that, in this new
+                                                             
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+       Giannakakis                                    11     
+                                                             
+       schemeofthings,theyoungergenerationsfacearealitythatisatoneandthesametime
+       more prosperous and more impoverished than that of their forebears. To be sure, the
+       spectacularincreaseinproductivecapabilitiesduringthisperiodledprogressivelytothe
+       emergenceofasocietyofaffluence.57AsAdornointimates,thisplenitudewaspurchased
+       atthecostofadistortionofhumanneeds,andthusoflifeitself.Itrestedontheexploitation
+       of labour in the Global South, the colonial extraction of resources, and the attendant
+       spoliationofnature–forcesthatpersisttothisday.EvenintheWest,thechiefbeneficiary
+       ofthisorder,anewformofpovertyemerged.Adornoobservesthattheyoungbourgeois
+       [jungeBürger]increasinglyrecognisetheirinabilitytoaccumulatewealth,thetradition-
+       formingpowerofpropertynowdissolved.Whatoncemarkedtheproletariatnowdefines
+       all:nothingremainstocherishorbequeath,andintheageofmassproduction,nothingis
+       worth preserving.58                                   
+        Ultimately,thisconditionyieldsableakimpasse:theveryabundancethatallowsoneto
+       imaginetheendofwantbecomes,throughitsscaleandprofit-drivenlogic,thebarrierto
+       anyqualitativeadvance,perpetuatingneedsinevermoreinsistentforms.ForAdorno,this
+       aporiaisalsotherootofthemoraldilemmaoflatecapitalism:howcanoneaspiretothe
+       good life when that hope is all but subsumed by the bad? For Adorno, and the other
+       membersofthefirstgenerationoftheFrankfurtSchool,theanswertothisriddleresidesin
+       the feat of resisting adherence to reality as it exists, the ‘Great Refusal’, the practice of
+       nichtmitzumachen.59ThelatterisindeedathemethatpreoccupiedAdornoagreatdeal,
+       and to which he devoted a fair share of his theoretical oeuvre. The idea of nicht mit-
+       zumachenappearsinpreciselytheformconsideredhereinMinimaMoralia.Earlyinthe
+       book,inanaphorismheadlined‘shelterforthehomeless’,Adornoputsforwardtwoofhis
+       moststrikingcatchphrases.Ontheonehand,hearguesthatinlate-capitalistreality‘itis
+       partofmoralitynottobeathomeinone’shome’,andinthesamebreathheexplainswhy:
+       ‘wrong lifecannotbelived rightly’.60Adorno’sdouble moral insightmirrors his earlier
+       critique of a new human type: in an age of standardisation and proliferating goods,
+       plenitude sheds its emancipatory promise, dissolving into consumerism. In the West
+       especially,ubiquityerodessingularvalue;allbecomesreproducible,interchangeable.Yet
+       awareness does not abolish necessity: certain possessions remain vital to avoid the de-
+       pendencethatsustainspropertyrelations(suchas,forinstance,owningahometoescape
+       rent).61Theresultisanantinomicalcondition:a‘lovelessdisregardforthings’,andthus
+       forthosewhoproduceandusethem,coexistswithacompulsiontoholdandaccumulate
+       possessions–notfromneed,butasinstrumentsinanunceasingantagonismofallagainst
+       all.62ForAdorno,thisconditionwasfalseandcorrosivetothegoodlife;fortheBeats,it
+       vindicatedtherenunciationsinAuden’sDecalogue,arejectionofsettledpossessivenessin
+       favouroftheitinerancy,hazard,andopenhorizonsthattheopenroadpromised.Despite
+       thesestructuralaffinities,itisessentialtoregisteradecisivedivergencebetweenAdorno
+       and the Beats. Adorno’s critique remains resolutely committed to the negative preser-
+       vationofconceptualthought,evenasitinsistsuponthenon-identitybetweenconceptand
+       object.63TheBeats,bycontrast,frequentlyrelinquishedconceptualmediationaltogether,
+       privileging immediacy, spontaneity, and lived intensity. Whereas Adorno seeks to pre-
+       serve thepossibilityoftruththroughdeterminate negation, theBeatsoften bracketsuch
+       philosophicalambitions,stagingrefusalasanexistentialandaestheticgestureratherthan
+       as a systematic critique of society.                  
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+      12                            Philosophy and Social Criticism 0(0)
+                                                             
+      Off the Beaten Track, or the Perks and Pitfalls of Dissonance
+                                                             
+      AtthecentreofAdorno’sreadingofpost-warlatecapitalismliesasearingcritiqueofthe
+      burgeoning ‘culture industry’.64 A trained musician and original composer, he devoted
+      particular attention to the increasingly monotone and instrumentalised relation between
+      the production and reception of music. Profit-driven imperatives, he argued, subjected
+      music –andthearts more broadly– toalogic ofcommodification,fostering formulaic,
+      predictable, and thus easily controlled modes of composition, performance, and listen-
+      ing.65Jazz, for Adorno, epitomisedthis tendency, ajudgementthat placed him insharp
+      oppositiontotheBeats.Thescopeofhisstanceonjazzistoovastfordetailedtreatment
+      here;itwillsufficetopresentafewrepresentativepassagesfrombothcampsandtomark
+      the principal tensions, as well as the more unexpected points of convergence.
+        GinsbergisnotcoyabouttheimpactofjazzmusicontheBeatsandthesocial-historical
+      reality that gave them birth. ‘There was a slightly apocalyptic element at the time’, he
+      reminiscedinthelateseventies,‘inallthisbreakthroughofnewsound,newmusic,new
+      rhythms…’.66Indeed,theadventofthis‘newmusic’wassopowerfulthatGinsbergfelthe
+      couldonlydoitjusticebyframingitasthenegativeimageofPlato’swarningagainstall
+      innovation in music and poetry, lest the voiceless be heard and the walls of the polis
+      crumbleasaresult.67Kerouacwasofthesamemind.Jazz–ormorespecificallyBebop–
+      hewrotein1959,employingtermshighlyevocativeofAdorno’sthought,isthemusicof
+      thepartwithnopart:‘…theplacingofthenoteinthemiddleoftheharmonytoanouter
+      more precarious position where also its sense of not belonging was enhanced by the
+      general atonality produced with everyone exterioriz[es] the tune’s harmony…’68 A few
+      lines later, Kerouac transposes this insight to the social field. The parallel between the
+      precarious note and the wo/man of Jazz is hard to miss:
+        he’srealbentandhe’sdownandhehasatwistedface,heworks,hewails,hebops,hebangs,this
+        manwhowassent,stonedandstabbedisnowdown,bentandstretched-out–heishomeatlast,
+        hismusicisheretostay,hishistoryhaswashedoverus,hisimperialistickingdomsarecoming.69
+        Thewo/manofJazzistheBeatparexcellence,thepariahofatotalitythattoleratesno
+      outside: exploited workers, struggling artists, precarious bohemians, drug addicts, lost
+      veterans…Atthisparticularsocial-historicaljuncture,onespecificsocialgroupcameto
+      embody Jazz in its most progressive, emancipatory forms: African Americans.70 As
+      Kerouacwrites,Bebopis‘thelanguagefromAmerica’sinevitableAfrica’.71Infact,itisa
+      ‘fellaheen language’, Ginsberg clarifies, ‘so it [speaks] for the most oppressed’.72 It
+      features ‘African bodyrhythms’that transfix‘the mechano-civilized world, setting up a
+      vibrationinthehumanbodythatmadepeopledancetogetheragain’.73Sufficeittoreflect
+      on how Jazz, but also Blues and Rock’n’Roll, all shaped by the experiences of Black
+      America,made upthesoundscape ofoneof themost explosive sequences ofrebellious
+      emancipation in the post-World War II era – from the beginning of the civil rights
+      movementtotheLongMay‘68–torealisejusthowrighttheBeatswereaboutthenew
+      music. But not everyone shared their view.             
+        Somewhatprovocatively,itcouldbesaidthatAdornosidedwithPlatowhenitcameto
+      allthingsJazz:hiscritiquestoppedjustshortofatotalbanonit.Nonetheless,Adorno’s
+                                                             
+                                                             
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+       Giannakakis                                    13     
+                                                             
+       scathingtreatmentofthegenrewasnotintendedtorescuethepolis–thatis,thestatusquo
+       –fromit,butwascarriedoutforpreciselytheoppositereason:thefactthatJazzposedan
+       obstacle to the polis’ radical transformation. In On Jazz (1936), Adorno contends that
+       jazz’sformalelementsarewhollypre-shapedbycapitalism’sdemandforexchangeability.
+       Itsimprovisationalimmediacy,heargues,merelyseekstofleethefetishisedcommodity
+       worldwithoutalteringit,therebysinkingfurtherintoitssnare.74Crucially,Adornodoes
+       notlimithiscritiqueofJazztoitsdefiningcompositionalfeatures,butalsoextendsittothe
+       modesinwhichitisreceived.Whatresultsfromthisisessentiallythereverseimageofall
+       those traits that Ginsberg and Kerouac attributed to Jazz as it most singular and pro-
+       gressiveaspects.Withironicgusto,Adornoclaimsjazzmirrorsthegentleman’sevening
+       dress:anemblemofsocialauthority,recastassomethingprimaland‘natural’.Thelower
+       classes,henotes,oftenidentifywiththeupperthroughjazz,findingit‘urbane’.Thusthe
+       white-collarworker,seatedwithhiscompanioninabeerhall,mayfeelsuperior,thoughin
+       truth only the ‘primitive’aspects, thedanceablepulse ofits basic rhythm,are only ever
+       grasped.75TheamalgamationoftheurbanewiththenaturalandprimitiveinJazzis,for
+       Adorno, the mark of a false, calculated freedom dispensed from above – the culture
+       industry–notanemancipationachievedfrombelow.Assuch,Adornopursues,Jazzmay
+       be ‘defined in terms of a rigid system of tricks’ that renders it ‘pseudo-democratic […]
+       deceptivewhenitcomesdowntoclassdifferences’,totheextentthatitpretendstohave
+       achieved,throughthemediumofaestheticexperience,anegalitarianformofbeinginthe
+       world.76Adorno’scritiqueofjazzshiftsinforcedependingonhowthetermisdefined.Ifit
+       denotesthebig-banddancemusicofthethirtiesandforties–theequivalentoftoday’spop
+       or Schlager – his observations remain as compelling now as then. Yet, when the most
+       standardised, formulaic forms of jazz are conflated with its most avant-garde styles,
+       which, from their inception challenged audiences and resisted commercialisation (e.g.
+       beboporlatermodalandfreejazz),hispositionappearsmarkedlypartial.77Adorno’slater
+       writings on aesthetics would, however, provide a further and more differentiated
+       framework for analysing the ambivalent status of art under late capitalism, particularly
+       through their insistence on the simultaneous autonomy and social embeddedness of
+       artistic production.78 Such considerations exceed the limits of the present discussion,
+       which remains focused on the earlier constellation of problems surrounding commodi-
+       fication,standardisation,anddamagedexperience.Nevertheless,theaffinitiestracedhere
+       betweentheorientationofnegativedialecticsandtheBeatpracticesofrefusal/withdrawal
+       maybereadasanticipatoryofconcernsthatAdornowouldlaterelaboratemorefullyin
+       AestheticTheory,especiallywithrespecttothetensionsamongaestheticautonomy,social
+       critique, and the persistence of nonidentical experience.79
+        The Beats’ own resistance to the commodification of the music they cherished, and
+       more broadly of art itself, underscores the limits of Adorno’s view. It reveals both his
+       surprising inelasticity toward jazz and his inability to acknowledge the capacities for
+       criticalself-reflectionamongitscreatorsandlisteners.80Kerouac’sstanceontheevolution
+       of the movement he eventually came to personify, and its cooptation by the culture
+       industry,isaperfectexampleofhowonecould–orperhaps,should–bebeatandpractice
+       thatessentialCriticalTheoreticalideaofnichtmitzumachen,allthewhilestrivingfordem
+       ganzAnderen[thewhollyother].In1957,aboutadecadeafterKerouaccameupwiththe
+       term‘BeatGeneration’duringaconversationwithJohnClellonHolmes,hewroteapiece
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+      14                            Philosophy and Social Criticism 0(0)
+                                                             
+      titled‘AbouttheBeatGeneration’,whichwaspublishedayearlateras‘Aftermath:The
+      Philosophy of the Beat Generation’ in Esquire. Kerouac recalled that only a handful of
+      ‘real hip swinging cats’ embodied the Beat spirit – believing, inspired, and free of
+      bourgeois-bohemian materialism. Yet this small group of people was swiftly undone
+      duringandaftertheKoreanWar,asa‘sinisternewkindofefficiency’inAmericadrove
+      themintoprisonsandasylums,orshamedthemintosilentconformity.81Then,inthewake
+      ofthisvanishment,asif‘bysomemiracleofmetamorphosis’,anewgeneration‘emerged
+      cool and beat’, bearing themselves like those old hip swinging cats, boasting their
+      ‘“twisted”slouchylook’,listeningtotheirmusicandusingtheirwords,andso‘theBeat
+      Generation,thoughdead,wassuddenlyresurrectedandjustified’.82Forallthat,Kerouac
+      sensed that something was not quite right this time around, as can be witnessed by the
+      horror[sic.]heexperiencedatthefactthatbythelatefiftiesthewordBeathadbeen‘taken
+      upbyeverybody,pressandTVandHollywoodborschtcircuit[…]andtheybegantocall
+      that Beat, that beatific…’.83 Far from succumbing to the unreflective consumerism
+      Adorno ascribed to the Beats, Kerouac perceived how swiftly dissent could be do-
+      mesticated.Whathadbegunasachallengetoconventionwas,inhisview,alreadybeing
+      repackagedasharmlessspectacle:televisionskitsreducingtheBeatfiguretoacostumeof
+      black dresses, denim, and juvenile menace, soon replaced by sanitised, designer-clad
+      imitations. In this translation from subculture to commodity, rebellion risked dissolving
+      intoamerevariationinmanners,atransientfashionthattheestablishmentcouldabsorb
+      withoutdiscomfort.KerouacimaginedafutureinwhichtheBeatstylemightfurnisheven
+      thehighestofficesofstate,shornofitsoppositionalforce,offeringonlyfreshornaments
+      foracultureskilledatturningcritiqueintonovelty,andnoveltyintoyetanotherrationale
+      for rivalry, virtue, and pardon.84                     
+        Adecadelater,thetoneisdecidedlymoredownbeat.Inanewspaperarticlepublished
+      near and soon after the end of his life, and bearing the foreboding title ‘After Me, the
+      Deluge’,Kerouacvoiceshissenseofdisillusionmentinthefaceofthesocial-politicaland
+      cultural landscape of the late sixties. A ‘Bippie-in-the-Middle’, he found himself com-
+      pelledtorecalibratehistakeonlife–oncemoreintermsofadisaffiliation–asaresultofa
+      now false albeit hegemonic dichotomy between money-grabbing plutocrats [sic.] and
+      polishedbuthollowpoliticos,ontheonehand,anddisillusionedradicalswhosefervour
+      hasfaded,offeringnorealalternative,ontheother;twoopposingcampsmirroringeach
+      other’s emptiness, neither deserving his allegiance.85 What stands out is not Kerouac’s
+      predictablemisgivingsaboutthe‘upperechelons’oflatecapitalism,buthiscausticview
+      of the ‘alienated radicals, war protestors, dropouts, hippies and even “beats”’ who ac-
+      ceptedhimasanintellectualforebear.Tothem,perhapsmindfulofAdorno’sdictumthat
+      thegoodlifecannotbelivedinafalseone,heofferedapointedwarning:‘Nocedemalis’–
+      cede not to misfortune.86                              
+      A Beat Theory of Negative Dialectics?                  
+      ‘Donotgiveintothefalse’–hereisanotherwayofreadingKerouac’sinjunction.Itshares
+      thesamevalencywiththeFrankfurtSchool’snichtmitzumachen.Inbothcases,thisaxiom
+      istobeinterpretedbothintermsofspirit(i.e.consciousness)–indeedperhapsprimarilyso
+      –andpractically.Onthespirituallevel,itreflectsthepressingneedforawholeothertype
+                                                             
+                                                             
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+       Giannakakis                                    15     
+                                                             
+       ofintellectualexperience,onethatdivergesfromthenarrativesandnormsthatunderpin
+       thefalsesocial-historical reality oflatecapitalism.However,thisnew theoreticalstance
+       towardsrealitycannotoccurapartfromamaterialsituationthatisconcomitantwithit,if
+       notitsveryorigin.Inthisregard,theBeatsweretosomeextentmoreconsistentthanthe
+       members of the Frankfurt School. While the latter enjoyed, even in exile, a standard of
+       material existence that could rightly be qualified as bourgeois, the former experienced,
+       and,insomecases,evensoughtoutandembracedaprecariouslifeinnearlyeverysense.87
+       Both agreed on one point: beneath ‘the New Capitalism, the People’s Capitalism and
+       Prosperity Unlimited […] lies the ugly fact of an economy geared to war production, a
+       design,notforliving,butfordeath’.88Yet,itwastheBeatsalonewhodaredtostageareal,
+       material rupture, aradicaldisavowaloftheprevailingorder,the ‘cultofMoneytheism’,
+       the‘neonwilderness’.89This‘greatrefusal’–torecallMarcuse’swell-knownwatchword
+       – manifested through a deliberate actof voluntary disaffiliation and an embrace of self-
+       imposed poverty, a conscious renunciation of the entrapments of late-capitalist confor-
+       mity.AsLawrenceLiptonobserves,‘[t]heNewPovertyisthedisaffiliate’sanswertothe
+       NewProsperity.Itisimportanttomakealiving,butitisevenmoreimportanttomakea
+       life’. This poverty, he insists, is neither indigence nor failure, but the condition of one
+       whosegoodsandservicescommandlittlevalueinasocietyfixatedonprofitandwealth.It
+       isnotthebitternessofthosespurnedbythe‘bitchgoddessSuccess’,butadeliberate,
+       self-sustainingchoice:anindependent,voluntarypoverty.90TheBeats,knowinglyor
+       not,embodiedacommitmenttoCriticalTheory,weavingitsinsightsintotheirradical
+       disaffiliation from late-capitalist structures. Marcuse, for instance, argued that in
+       advancedindustrialsociety–wherepoliticalindependenceisblockedbyconcentrated
+       power–mentalindependencedemandswithdrawal,wilfulisolation,evenintellectual
+       ‘elitism’, alongside the cultivation of methods and concepts capable of transcending
+       thelimitsimposedbyestablishedfactsandvalues.91Marcusealsoheldthatalternative
+       modesoflifecouldbeconceivedonlyinnegativeterms,asthenegationofprevailing
+       ones: economic freedom as release from the economy and its compulsions; political
+       freedom as liberation from politics beyond one’s control; intellectual freedom as the
+       recovery of thought from mass communication and indoctrination, entailing the
+       abolition of ‘public opinion’ along with its manufacturers.92 The Beat ethos, both in
+       thought and action, evinced a profound affinity with Adorno’s philosophical re-
+       flectionstoo,particularlyhisassertionthat‘[i]ntheendhope,wrestedfromrealityby
+       negating it, is the only form in which truth appears’.93
+        The asceticism adopted by the Beats was not one of mere abstract, spiritualised be-
+       atitudebutmoreaconditionimbuedwithactual,materialsignificance.TheBukowskian
+       Beatfactotumisfarfromanemptyvessel;rather,heorsheisafigureofquietyetresolute
+       dissent,arevolutionaryoftheeveryday,embodyingaradicalalternativetotheprevailing
+       reality.Thisfigurestandsindefiantcontrastto‘theabsurditythatrealwantiscontinuingin
+       a society whose state of production no longer admits the plea that there are not enough
+       goodstogoaround’.94Suchamodeofpovertyis,intruth,nopovertyatallbutinstead‘an
+       art,andlikeallartsithastobelearned.Ithasitstechniques,itstricksandshortcuts,its
+       know-how’.95 Thus, a writer may be poor but ‘has his basic library, the composer his
+       piano, the painter his canvases and tools’.96 The guiding principle underlying the Beat
+       visionoflifewasnotresignation,buttheunyielding, unvarnished search for ‘it’–for a
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+      16                            Philosophy and Social Criticism 0(0)
+                                                             
+      ‘tasteofskinlesslight’.97Thetemptationtoreadthisasasortofunalloyedidealismis,by
+      andlarge,misguided–albeitnotentirelyunfounded.TheidealismoftheBeatswasnot,as
+      is so often and disingenuously portrayed, a form of na¨ıve optimism; it was never con-
+      cerned with the affirmation of some pre-ordained principle of authenticity or truth.
+      WhateverauthenticityortruthcametobeassociatedwiththeBeat‘wayoflife’wasnotan
+      arch(cid:1)e but a consequence, the by-product of negation. It was what remained once
+      complacent acquiescence to a false state of affairs had been shattered – once the sub-
+      traction from the theoretical and material structures that nourished the illusions and
+      delusions of happiness, satiety, and propriety had been effected.98
+        MarcuseandBenjamin–figureswhoserespectiveemphasesonthe‘GreatRefusal’and
+      the redemption of the everyday disclose particularly fertile points of contact – invite a
+      broaderinvestigationintohowtheBeatsmightbereadnotsimplyalongside,butwithin
+      the wider horizon of Critical Theory. Such an inquiry would move beyond isolated
+      thematic resonances to consider the shared structures of thought, strategies of negation,
+      and aesthetic practices through which both camps sought to unsettle the given order. In
+      Benjamin’smontageofthefragmentaryandephemeral,onemightglimpseaproto-Beat
+      poeticsofattention;inMarcuse’svisionofliberationasthenegationofexistingneedsand
+      institutions, the outlines of a Beat praxis of voluntary poverty and disaffiliation. These
+      convergences point toward an underexplored intellectual kinship, one not of direct in-
+      fluencebutofparallelresponsetotheconditionsoflatecapitalism.Adorno,forhispart,
+      wouldappearatfirsttostandatthefurthestremovefromtheBeats,givenhissuspicionof
+      their musical touchstones and his philosophical distance from their vernacular exuber-
+      ance. Yet the shared conviction that ‘wrong life cannot be lived rightly’, the refusal to
+      grantlegitimacytothemerelyexisting,andthehopewrestedfromrealitybynegatingit,
+      formadeepconsonance.Forboth,theopenroad–whethertraversedinthoughtorinflesh
+      – remains less a route to a fixed destination than the emblem of a life unshackled from
+      predeterminedends,amovementtowardswhatCriticalTheorynamesDasganzAndere
+      and what the Beats, in their own idiom, simply called ‘it’.
+      ORCID iD                                               
+      Vangelis Giannakakis https://orcid.org/0000-0003-3714-6487
+      Funding                                                
+      Thepublicationofthispaperinopenaccessformatwasmadepossiblebythegeneroussupportofthe
+      Open AccessPublication Fund ofGoethe University Frankfurt amMain.
+      Declaration of Conflicting Interests                   
+      Theauthorsdeclarednopotentialconflictsofinterestwithrespecttotheresearch,authorship,and/or
+      publication of thisarticle.                            
+                                                             
+                                                             
+      Notes                                                  
+      1. Hobsbawm, Age ofExtremes,228.                       
+      2. SeeChomsky,WorldOrders,192–193,29,67–68,3.Also,Hobsbawm,AgeofExtremes,437–
+        438, 358–359, 398–400.                               
+                                                             
+                                                             
+                                                             
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+       Giannakakis                                    17     
+                                                             
+       3. Hobsbawm, Age ofExtremes,235–242.                  
+       4. Hobsbawm, Age of Extremes, 11–14. Already Freud was pointing at this problematic. See
+         Civilisation andItsDiscontents,Chapter III.         
+       5. Hobsbawm, ‘Goodbye to allthat’.                    
+       6. See, for instance, Zienowski, “Propaganda and/or Ideology in Critical Discourse Studies”;
+         Wimberly,“TheJobofCreatingDesire”.Foramorethoroughanalysissee,Selisker,Human
+         Programming.                                        
+       7. FormoreonPopper’sintellectualallegiancetobothPoundandHayekseeTheOpenSocietyand
+         Its Enemies, 603,n.4.Also, Irzik,‘Popper’sPiecemeal Engineering’.
+       8. Popper, TheOpenSociety andIts Enemies, xxxvii.     
+       9. Popper, TheOpenSociety andIts Enemies, 22.         
+       10. Hobsbawm, Age ofExtremes,379–386, 398–400.        
+       11. Marcuse, Soviet Marxism,89.                       
+       12. Ibid.,71–72,89–91,264.SeealsoCushman,‘RitualandConformityinSovietSociety’;Hill,
+         ‘Soviet PoliticalDevelopment andthe Culture of theApparatchiki’.
+       13. Klindo, The Hollywood Left and McCarthyism, preamble; Anonymous, ‘Soviet Dramatic
+         Criticism: PoliticalConformity andArtistic Conscience’.
+       14. Horkheimer andAdorno,Dialectic ofEnlightenment, xvi.
+       15. Ibid.                                             
+       16. Ibid, xvii.                                       
+       17. Ibid.                                             
+       18. Ibid.                                             
+       19. Ibid.,xi–xii.Thischaracterisationofthepost-warperioddoesnotdenythatthesamehistorical
+         constellation also gave rise to early theoretical efforts to conceptualise communication,
+         publicityandsocialintegration.JürgenHabermas’sanalysisofthebourgeoispublicspherein
+         TheStructuralTransformationofthePublicSphere(originallypublishedinGermanin1966),
+         for example, already points toward a rationalisation of communication that would later be
+         developed more systematically, while early systems-theoretical approaches associated with
+         NiklasLuhmannretrospectivelyreconstructprocessesoffunctionaldifferentiation.Thepresent
+         articledoesnotengagethesetrajectoriesdirectly,asitsfocusliesoncriticalandcountercultural
+         responsestotheexperientialandculturallimitsofpost-warrationalisationastheywerelived
+         andarticulatedbetweenthelate1940sandthemid-1970s,particularlyatthelevelofeveryday
+         life andaesthetic practice.                         
+       20. Ginsberg’s text, ostensibly a review, functioned primarily as a vehicle for his nascent Welt-
+         anschauung.See, for instance, Raskin,American Scream,66–67.
+       21. Ginsberg,‘…“ThisIs the Abomination”’, 161.        
+       22. Ibid.                                             
+       23. Ibid.                                             
+       24. Ibid. 161–162.                                    
+       25. Adorno, MinimaMoralia,14.                         
+       26. Ibid.                                             
+       27. Adorno, MinimaMoralia,15,50.                      
+       28. The term ἀναγνώρισις [recognition] is used here in its Aristotelian meaning to indicate a
+         particular type of passagefrom ignorance toknowledge. See,Aristotle, Poetics, 41.
+       29. Adorno, MinimaMoralia,69.                         
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+      18                            Philosophy and Social Criticism 0(0)
+                                                             
+      30. Ibid.                                              
+      31. On Bourdieu’s notion of ‘habitus’ see King, ‘Thinking with Bourdieu Against Bourdieu’;
+        Mouzelis,‘HabitusandReflexivity’.OnAdornoandthe‘barterprinciple’seeAdorno,Negative
+        Dialectics,146–147.                                  
+      32. Adorno, NegativeDialectics,146.                    
+      33. Adorno, MinimaMoralia,149–150.                     
+      34. Kerouac, ‘About theBeat Generation’,559.See also,Butler,‘Onthe BeatNature of Beat’.
+      35. Ginsberg,Howl,ebookversion.                        
+      36. Ibid.                                              
+      37. Ibid.Similarly,AdornousestheimageofMolochtodenouncethefalsenessoflate-capitalist
+        reality,seeAdorno,MinimaMoralia,94–95.               
+      38. Marcuseprovidedthephilosophical-theoreticalbackdropfortheneedforanewsensibility.See
+        Marcuse, An EssayonLiberation,23–48.                 
+      39. Kerouac, “About theBeat Generation (1957)”,562.    
+      40. Kerouac, ‘About the Beat Generation (1957)’, 562; ‘Lamb, no lion (1958)’, 563. See
+        also, Holton, ‘“The Sordid Hipsters of America”: Beat Culture and the Folds of
+        Heterogeneity’.                                      
+      41. Kerouac, ‘After Me,the Deluge’,578.                
+      42. OnSpengler’snotionofdeclineseeRojek,‘Thelonguedure´eofSpengler’sthesisofthedecline
+        of the West’.                                        
+      43. Price, ‘Education: ...AndNot Enoughof Labor’.      
+      44. Ibid.                                              
+      45. Ibid.                                              
+      46. Ibid.                                              
+      47. Auden, ‘Under WhichLyre’ 178.                      
+      48. Ibid.                                              
+      49. Ibid., 179.                                        
+      50. Ibid., 180.                                        
+      51. Ibid.                                              
+      52. Ibid., 181. On the contradictory nature of Walt Whitman’s work see O’Reilly, ‘Imagined
+        America’;Hutchinson andDrews,‘Racial Attitudes’.     
+      53. Auden, “Under WhichLyre”181.                       
+      54. Auden, “Under WhichLyre”,183.                      
+      55. Ibid. Read this in tandem with Holmes’ well-known description of the ‘beat generation’
+        [Holmes, ‘Thisis the BeatGeneration’].               
+      56. Adorno, ‘NotizenzurNeuen Anthropologie’,261.       
+      57. Adorno, ‘LateCapitalism or IndustrialSociety?’,118.
+      58. Adorno, ‘NotizenzurNeuen Anthropologie’,265.       
+      59. On the idea of nicht mitzumachen and its place in critical theory, see, for instance, Jay, The
+        Dialectical Imagination,291–292.                     
+      60. Adorno,MinimaMoralia,39.Elsewhere,Adornowritesthat‘Forbetterorworse,onlyisolated
+        individualswhohavenotbeenabsorbedcompletelyinthemeltingpot,orprofessionalgroups
+        who celebrate themselves as elites, still participate in culture’ [Adorno, ‘Theory of Pseudo-
+        Culture’,23].                                        
+      61. Adorno, MinimaMoralia,39.                          
+
+[PAGE 19]
+                                                             
+                                                             
+                                                             
+       Giannakakis                                    19     
+                                                             
+       62. Ibid. In the Paris manuscripts, Marx offers some hints as to what a progressive type of
+         ‘consumption’wouldlooklike.SeeMarx,EconomicandPhilosophicManuscriptsof1844,94.
+       63. Adornoargues,forinstance,that‘[o]nlythesocietalself-reflectionofknowledgeobtainsthat
+         epistemologicalobjectivitythatescapesknowledgesolongasitobeysthesocietalcoercionsat
+         workinitanddoesnotthinkthroughthem.Critiqueofsocietyiscritiqueofknowledge,andvice
+         versa’ [Adorno, ‘On Subject and Object’, 250]. While in Negative Dialectics he insists that
+         criticaltheory‘muststrive,bywayoftheconcept,totranscendtheconcept’[Adorno,Negative
+         Dialectics,15].                                     
+       64. See, for instance, Adorno,‘The Schemaof Mass Culture’.
+       65. Onecanmention,bywayofillustration,Adorno’sinfluentialessaysdealingwiththisquestion,
+         such as ‘On the Fetish-Character of Music and the Regression of Listening’, ‘On the Social
+         Situation of Music’,or ‘Music in theBackground’.    
+       66. Ginsberg,TheBest Minds of my Generation, 41.      
+       67. Ibid.RegardingPlato’swarningseePlato,Republic,BookX(especially,1209–1210).Seealso
+         Ginsberg,‘Whenthemodeofthemusicchanges,thewallsofthecityshake’;Horrocks,‘When
+         the Modeof the Music Changes’.                      
+       68. Kerouac, ‘The Beginningof Bop’, 557.              
+       69. Ibid. 559.                                        
+       70. See Okiji,Jazzas Critique, 39–48.                 
+       71. Kerouac, ‘The Beginningof Bop’, 556.              
+       72. Ginsberg,TheBestMinds of myGeneration,247.        
+       73. Ibid.                                             
+       74. Adorno, ‘OnJazz’,477–478.                         
+       75. Ibid. 474–475.                                    
+       76. Ibid.                                             
+       77. See Hobsbawm, UncommonPeople,279–280,285.         
+       78. Adorno, Aesthetic Theory,45,226.                  
+       79. See, for instance, Adorno,Aesthetic Theory,132, 135–136,219.
+       80. Adornowentasfarastocall‘JazzandBeat’the‘scumofthecultureindustry’[Adornoand
+         Marcuse, Correspondence on the German Student Movement, 132]. See also, Okiji, Jazz as
+         Critique,18–30.                                     
+       81. Kerouac, ‘About theBeat Generation’,560–561.      
+       82. Ibid.                                             
+       83. Kerouac, ‘Beatific: TheOrigins of the BeatGeneration’, 517.
+       84. Ibid., 572.                                       
+       85. Kerouac, ‘After Me,the Deluge’,573–575.           
+       86. Ibid., 578.                                       
+       87. Müller-Dohm, Adorno, 273–274; Jay, The Dialectical Imagination, 292–299. That said,
+         Adornowaspainfullyawareoftheantinomiesbetweenhisbourgeoislifestyleandthecontentof
+         hiscriticaltheoryofsocietyasisevidentfrompassageslikeaphorism6ofMinimaMoralia[pp.
+         26–27].                                             
+       88. Lipton, TheHoly Barbarians, 150.                  
+       89. Ibid., 149.                                       
+       90. Ibid., 150.                                       
+       91. Marcuse, ‘Remarks onaredefinition of culture’,199–200.
+
+[PAGE 20]
+                                                             
+                                                             
+                                                             
+      20                            Philosophy and Social Criticism 0(0)
+                                                             
+      92. Marcuse, One-Dimensional Man, 6.                   
+      93. Adorno, MinimaMoralia,98.                          
+      94. Ibid., 121.                                        
+      95. Lipton, Holy Barbarians,151.                       
+      96. Ibid.                                              
+      97. Ginsberg,TheBestMindsofmyGeneration,25.ItisnoteworthythatTheodoreRoszak,inhis
+        seminal work on the mid-twentieth-century counter-culture, presents the Beats as closely
+        associatedwiththeNewLeft.SeeRozsak,TheMakingofaCounter-Culture,56–57,63–66.
+      98. In this regard, Mortenson is right to say that ‘the insistence on action and movement that
+        characterizesDeanandOntheRoad[and,arguably,theBeatsasawhole]ingeneral:oneneeds
+        tocontinuallymoveinordertostayinsyncwithtime,toalwaysliveonitsperpetuallyunfolding
+        edge’ [Mortenson,Capturing the BeatMoment, 33].      
+      References                                             
+      Adorno,TheodorW.1959.“TheoryofPseudo-Culture.”TranslatedbyDeborahCook.Telos95:
+        15-38.                                               
+      Adorno, Theodor W. 1973. Negative Dialectics, translated by E. B. Ashton. Continuum Interna-
+        tional Publishing Group.                             
+      Adorno,TheodorW.1997.AestheticTheory,editedbyGretelAdorno,RolfTiedemann,andRobert
+        Hullot-Kentor,translated byRobert Hullot-Kentor.TheUniversity of MinnesotaPress.
+      Adorno,TheodorW.2001.“TheSchemaofMassCulture.”InTheCultureIndustry:SelectedEssays
+        onMass Culture, editedbyJ.M. Bernstein,61-97. London:Routledge.
+      Adorno,TheodorW.2002a.“MusicintheBackground.”InEssaysonMusic,editedbyRichard
+        Leppert, translated by Wes Blomster and Richard Leppert, 506-9. University of California
+        Press.                                               
+      Adorno, Theodor W. 2002b. “On Jazz (1936).” In Essays on Music, edited by Richard Leppert,
+        translated byWes BlomsterandRichard Leppert,470-95. University of California Press.
+      Adorno, Theodor W. 2002c. “On the Fetish-Character in Music and the Regression of Listening
+        (1938).”InEssaysonMusic,EditedandTranslatedbyRichardLeppert,288-317.University
+        of California Press.                                 
+      Adorno,TheodorW.2002d.“OntheSocialSituationofMusic(1932).”InEssaysonMusic,edited
+        byRichardLeppert,translatedbyWesBlomsterandRichardLeppert,391-436.Universityof
+        California Press.                                    
+      Adorno,TheodorW.2003.“LateCapitalismorIndustrialSociety?theFundamentalQuestionofthe
+        PresentStructureofSociety.”InCanOneLiveAfterAuschwitz?APhilosophicalReader,editedby
+        RolfTiedemann,translatedbyRodneyLivingstone,111-25.StanfordUniversityPress.
+      Adorno,TheodorW.2005.MinimaMoralia:ReflectionsonaDamagedLife.TranslatedbyEdmund
+        Jephcott. Verso.                                     
+      Adorno, Theodor W. 2017. “Notizen Zur Neuen Anthropologie.” In Mensch und Gesellschaft
+        zwischen Natur und Geschichte: Zum Verha¨ltnis von Philosophischer Anthropologie und
+        KritischerTheorie,editedbyThomasEbke,SebastianEdinger,FrankMüller,andRomanYos.
+        De Gruyter.                                          
+      Adorno, Theodor W., and Marcuse Herbert. 1999. “Correspondence on the German Student
+        Movement.”Translated byEsther Leslie. NewLeft Review I/223: 123-36.
+                                                             
+                                                             
+
+[PAGE 21]
+                                                             
+                                                             
+                                                             
+       Giannakakis                                    21     
+                                                             
+       Anonymous.1949.“SovietDramaticCriticism:PoliticalConformityandArtisticConscience.”The
+         World Today5,no. 5:202-11.                          
+       Aristotle. 1902. Poetics, edited byS. H.Butcher. MacMillanandCo.
+       Auden, Wystan H. 1979. “Under Which Lyre: A Reactionary Tract for the Times.” In Selected
+         Poems,edited byEdwardMendelson. Vintage Books.      
+       Butler,FrankA.1990.“OntheBeatNatureofBeat.”InOnBohemia:TheCodeoftheSelf-Exiled,
+         edited byFrankA.Butler. Routledge.                  
+       Cavafy, Constantin. 1927. “Walls.” Originally published in Greek in 1897 and translated into
+         English byhis brother JohnCavafyin.https://poets.org/poem/walls
+       Chomsky,Noam. 1997.World Orders: OldandNew.Pluto Press.
+       Cushman, Thomas O. 1988. “Ritual and Conformity in Soviet Society.” Journal of Communist
+         Studies 4,no. 2:162-80.                             
+       Dylan, Bob. 1967.“I Shall beReleased.”https://www.bobdylan.com/songs/i-shall-be-released/
+       Freud,Sigmund.2004.CivilizationandItsDiscontents.TranslatedbyDavidMcLintock.Penguin
+         Books Ltd.                                          
+       Ginsberg,Allen. 1946. “ThisIs theAbomination.”Columbia Review 26: 159-63.
+       Ginsberg,Allen.2015a.“Howl.”InTheEssentialGinsberg,editedbyMichaelSchumacher.Harper
+         Perennial.                                          
+       Ginsberg,Allen.2015b.“WhentheModeoftheMusicChangestheWallsoftheCityShake.”InThe
+         Essential Ginsberg,edited byMichael Schumacher.Harper Perennial.
+       Ginsberg,Allen.2017.TheBestMinidsofMyGeneration:ALiteraryHistoryoftheBeats,editedby
+         Bill Morgan. Grove Press.                           
+       Hill,RonaldJ.1986.“SovietPoliticalDevelopmentandtheCultureoftheApparatchiki.”Studiesin
+         Comparative Communism 19, no.1: 25-39.              
+       Hobsbawm, Eric. 1990.“Goodbye to All That.”MarxismToday.
+       Hobsbawm, Eric. 1998. Uncommon People: Resistance, Rebellion and Jazz. Weidenfeld &
+         Nicolson.                                           
+       Hobsbawm, Eric. 2003.TheAge ofExtremes: TheShort Twentieth Century 1914-1991. Abacus.
+       Holmes, Clellon.1952. “ThisIs theBeat Generation.”The NewYork Times.
+       Holton, Robert. 2004. ““The Sordid Hipsters of America”: Beat Culture and the Folds of Het-
+         erogeneity.”InReconstructingtheBeats,editedbyJennieSkerl,11-26.PalgraveMacmillan
+         US.                                                 
+       Horkheimer,Max,andTheodorW.Adorno.2002.DialecticofEnlightenment.EditedbyGunzelin
+         Schmid Noerr.Translated byEdmundJephcott. StanfordUniversity Press.
+       Horrocks, Roger. 2016. “When the Mode of the Music Changes.” Journal of New Zealand Lit-
+         erature34(2): 33-60.                                
+       Hutchinson,George,andDavidDrews.nd.RacialAttitudes.TheWaltWhitmanArchive.https://
+         whitmanarchive.org/item/encyclopedia_entry44        
+       Irzik, Gürol. 1985. “Popper’s Piecemeal Engineering: What Is Good for Science Is Not Always
+         Good for Society.”TheBritish Journal forthe Philosophyof Science36, no.1: 1-10.
+       Jay,Martin.1973.TheDialecticalImagination:AHistoryoftheFrankfurtSchoolandtheInstitute
+         of Social Research,1923-1950.Heinemann.             
+       Kerouac,Jack.1995a.“AbouttheBeatGeneration.”InThePortableJackKerouac,editedbyAnn
+         Charters, 559-62. TheVikingPortable Library. Viking.
+                                                             
+
+[PAGE 22]
+                                                             
+                                                             
+                                                             
+      22                            Philosophy and Social Criticism 0(0)
+                                                             
+      Kerouac, Jack. 1995b. “After Me, the Deluge.” In The Portable Jack Kerouac, edited by Ann
+        Charters, 573-78. Viking.                            
+      Kerouac,Jack.1995c.“Beatific:theOriginsoftheBeatGeneration.”InThePortableJackKerouac,
+        edited byAnnCharters, 565-73. The Viking Portable Library.Viking.
+      Kerouac,Jack.1995d.“Lamb,NoLion.”InThePortableJackKerouac,editedbyAnnCharters,
+        562-65. TheVikingPortable Library.Viking.            
+      Kerouac, Jack. 1995e. “The Beginning of Bop.” In The Portable Jack Kerouac, edited by Ann
+        Charters, 555-59. TheVikingPortable Library. Viking. 
+      King,Anthony.2000.“ThinkingWithBourdieuAgainstBourdieu:A“Practical”Critique ofthe
+        Habitus.”Sociological Theory18(3): 417-33.           
+      Klindo,Mile.2011.“TheHollywoodLeftandMcCarthyism:ThePoliticalandAestheticLegacyof
+        the RedScare.”PhD inMedia andCommunication. MacquarieUniversity.
+      Lipton, Lawrence.2009.The HolyBarbarians.Martino.      
+      Marcuse, Herbert. 1965. “RemarksonaRedefinitionof Culture.”Dædalus 94(1):190-207.
+      Marcuse, Herbert. 1969. AnEssayonLiberation. PenguinBooks.
+      Marcuse, Herbert. 1971. SovietMarxism: ACritical Analysis.Penguin Books.
+      Marcuse, Herbert. 1991. One-DimensionalMan.Beacon Press.
+      Marx,Karl.1992.“EconomicandPhilosophicalManuscripts(1844).”InEarlyWritings,translated
+        byRodney Livingstone andGregor Benton, 279-400.Penguin Books.
+      Mortenson,Erik.2011.CapturingtheBeatMoment:CulturalPoliticsandthePoeticsofPresence.
+        Southern Illinois University Press.                  
+      Mouzelis, Nicos. 2008. “Habitus and Reflexivity: Restructuring Bourdieu’s Theory of Practice.”
+        Sociological ResearchOnline12(6): 123-28.            
+      Müller-Doohm, Stefan. 2005. Adorno:ABiography. Translated byRodney Livingstone.Polity.
+      Okiji,Fumi.2018.JazzasCritique:AdornoandBlackExpressionRevisited.StanfordUniversity
+        Press.                                               
+      O’Reilly,Nathanael.2009.“ImaginedAmerica:WaltWhitman’sNationalismintheFirstEditionof
+        Leaves of Grass.”Irish Journal ofAmerican Studies, no.1.
+      Plato.2005.“Republic.”InTheCollectedDialoguesofPlato,IncludingtheLetters,editedbyEdith
+        Hamilton and Huntington Cairns, translated by Paul Shorey, 575-844. Princeton University
+        Press.                                               
+      Popper,Karl. 2012.The OpenSociety andits Enemies.Taylor andFrancis.
+      Price,Byron.1946.“Education:...AndNotEnoughofLabor.”Time.https://content.time.com/time/
+        subscriber/article/0,33009,793084,00.html            
+      Raskin, Jonah. 2004. American Scream: Allen Ginsberg’s Howl and the Making of the Beat
+        Generation.University of California Press.           
+      Rojek,Chris.2018.“TheLongueDure´eofSpengler’sThesisoftheDeclineoftheWest.”European
+        Journal of Social Theory21,no. 4:419-34.             
+      Roszak,Theodore. 1969.TheMaking of a CounterCulture. AnchorBooks.
+      Selisker, Scott. 2016. Human Programming: Brainwashing, Automatons, and American Unfree-
+        dom.University ofMinnesota Press.                    
+      WimberlyCory(2017)‘TheJobofCreatingDesire:PropagandaasanApparatusofGovernment
+        andSubjectification’.The Journal ofSpeculative Philosophy 31(1):101–18.
+      ZienkowskiJan(2021)‘Propagandaand/orIdeologyinCriticalDiscourseStudies’.DiscourseNet
+        Collaborative Working Paper Series,5.                

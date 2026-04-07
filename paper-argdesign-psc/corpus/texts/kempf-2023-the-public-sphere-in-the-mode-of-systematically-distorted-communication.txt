@@ -1,0 +1,1195 @@
+[PAGE 1]
+                                                             
+                                                             
+                                                             
+                                                             
+      Article                                                
+                                                             
+                                         PhilosophyandSocialCriticism
+                                         2024,Vol.50(1)43–65 
+      The  public sphere in the mode                         
+                                         ©TheAuthor(s)2023   
+      of systematically distorted                            
+                                         Articlereuseguidelines:
+      communication                      sagepub.com/journals-permissions
+                                         DOI:10.1177/01914537231203553
+                                         journals.sagepub.com/home/psc
+      Victor Kempf                                          
+      Humboldt-Universita¨tzuBerlin,Berlin,Germany           
+                                                             
+      Abstract                                               
+      Thecontemporaryproliferationof“filterbubbles”and“echochambers”seemstorender
+      obsoletethenotionofapublicsphereinthesingular.Inmyarticle,Iwouldliketoargue
+      againstthisview:FollowingJürgenHabermas,“thepublicsphere”canbeunderstoodas
+      theconcomitanthorizonofcommunicativeaction,whilethelatterpermeatessocietyasa
+      whole. On the basis of this socio-philosophical approach, the omnipresent tendencies
+      towardfragmentationappearasreactiveattemptstowardoffthissociallyestablishedand
+      context-transcending context of discussion. Habermas himself, however, has never
+      adopted this perspective. Instead, he interprets the various symptoms of the decline of
+      the public sphere—including its fragmentation—as the result of a “colonization of the
+      lifeworld”byeconomic,bureaucratic,andtechnologicalsystemlogics.However,onthe
+      basisoftheconceptof“systematicallydistortedcommunication,”whichwasstillcrucial
+      for Habermas’s early work, it is possible to reconstruct how the lifeworld context of
+      communicativeaction,outofwhichthepublicsphereemerges,isnotonlycorrodedand
+      cut through from the outside by system logics but also exhibits its own dialectic of the
+      refusalofdiscourseandtheovercomingofthisrefusal.Thefragmentationofthepublic
+      spherethatweareconfrontedwithtodaycanbetheoreticallyinterpretedandpolitically
+      addressed as a precarious standstill of this dialectic.
+      Keywords                                               
+      Habermas, public sphere, communicative action, colonization of the lifeworld,
+      systematically distorted communication, the return of the repressed, filter bubbles,
+      echo chambers                                          
+                                                             
+                                                             
+                                                             
+                                                             
+      Correspondingauthor:                                   
+      VictorKempf,Philosophy,Humboldt-Universita¨tzuBerlin,UnterdenLinden6,Berlin10099,Germany.
+      Email:kempfvic@hu-berlin.de                            
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+      44                           Philosophy and Social Criticism 50(1)
+                                                             
+                                                             
+      The notion of a public sphere in the singular seems to be losing more and more of its
+      plausibility. As early as 30 years ago, Nancy Fraser criticized the widespread discourse
+      about“thepublicsphere”fromafeministandsocialistperspectiveonthegroundsthatit
+      simultaneouslypresupposesandconcealssexistandeconomicexclusions.Shearguesin
+      addition that this homogenizing discourse masks the existence of “subaltern counter-
+      publics,” which have enjoyed increasing prominence since the 1970s as a result of
+      emancipatory social movements (see Fraser 1990). Against a unitary model that she
+      perceivesasrigidandtacitlyexclusive,Fraseremphasizesthepluralityofpublicspheres,
+      whichshewelcomesasprovidingpossibilitiesforarticulatingemancipatorypolitics(see
+      ibid.:67).InFraser,however,thispluralityisstillsublatedintoacomprehensive“public-
+      at-large,”understoodasanoverarchingpublicsphereinwhichthevariouspublicsengage
+      in controversial and conflictual communication, while nevertheless adopting a shared
+      orientation to reaching mutual understanding (see ibid.: 67f.).
+        The thesis that a plurality of public spheres exist seems only to be confirmed by
+      contemporary experience, although its affirmative tone is increasingly giving way to a
+      more ambivalent assessment. The plurality is continuing to grow with the formation of
+      right-wing populist, nationalist, anti-feminist, conspiracy-theorist, and other counter-
+      publics (see Rocha and Medeiros 2021) and amounts to a fragmentation and antago-
+      nization of thepublic sphere,sothat the universallyshared space ofunderstandingthat
+      Fraserstillimaginedisbecomingincreasinglyintangibleandchimerical.Inviewofthis
+      fragmentation, which is manifested by the formation of “echo chambers” and “filter
+      bubbles” together with the associated “alternative truths” (see Rosa 2022: 25f.), any
+      notionofthepublicspherethatseekstoviewithistoricallyasasocialwholeisindanger
+      of missing the mark.                                   
+        In this essay, I will develop the thesis that, notwithstanding the aforementioned de-
+      velopment,thenotionofagenerallysharedspaceofthepublicspherecanbedefendedin
+      social-philosophical terms. I do not mean to deny the tendencies toward fragmentation
+      mentioned, since they cannot be dismissed out of hand. However, they must not be
+      hypostatized. Rather, they should be situated in the general social context in which the
+      publicsphereunfolds,adevelopmentthatisrepeatedlyblockedandpropelledforwardin
+      enduringprocessesofexclusion,ofovercomingthisexclusionandofreactiveretreatinto
+      filter bubbles and echo chambers. Viewed that way, it becomes apparent how inter-
+      connected the individual public spheres are, notwithstanding their fragmentation and
+      encapsulation,andhowmuchtheycontendwitheachother,evenifonlyinthemodeof
+      defense and avoidance. Even when the individual publics no longer communicate with
+      each other or only excitedly talk past one another, this can be reconstructed as an ex-
+      pressionofavoidanceofcommunication,andthusasaninherentlyprecariouscondition
+      that potentially pushes beyond itself. As a result, we arrive at a more dynamic and
+      dialectical picture that does not simply register the contemporary fragmentation as an
+      immutablefactofplurality(seeRochaandMedeiros2021:3),butdeciphersandactuates
+      it in a reconstructive fashion as a crisis-ridden expression of a suppressed totality of
+      communicative socialization.                           
+        IwilldevelopmyreflectionsthroughanengagementwithJürgenHabermas’stheory
+      ofthepublicsphere.MyunderlyinginterestisnotinHabermasasanormativethinker
+
+[PAGE 3]
+                                                             
+                                                             
+      Kempf                                          45      
+                                                             
+                                                             
+                                                             
+      who merely serves as a point of reference for advocating the ideal of a public sphere
+      united around discourse-ethical standards and invoking it against a deviating reality.
+      Rather, I draw upon Habermas as a social philosopher who reconstructs the public
+      sphereasaclaimandauniversalisticreferencespaceofsocialpracticeitself.Morethan
+      anyone else, he has successfully conceptualized the public sphere as an ever-present
+      horizon of communicative socialization. On his account, we expose ourselves to the
+      publicsphereintheemphatic sense wheneverwecommunicatewitheachotherabout
+      something with the aim of achieving mutual understanding. By the “public sphere,”
+      properly understood, we mean the open discourse to which we constantly expose our
+      communicative action in accordance with the validity claims inherent to it, unless
+      “special measures” (Habermas 1996: 361) are taken to avoid discourse.
+        Iwill beginbyoutlininganddefendingthisambitiousand,atfirstsight,excessively
+      universalisticconceptionofthepublicsphere.Thiswilltaketheformofadialoguewith
+      Michael Warner’s poststructuralist approach, which asserts that the public sphere is
+      constitutivelylimitedinwaysthatcanonlybeopposed,butnotreallyovercome,through
+      counterpublics(1).Inthesecondstep,IwillreconstructHabermas’sunderstandingofthe
+      restrictionsandsystematicdistortionsthatblockorrepelthesocialunfoldingofthepublic
+      sphere.MyargumentisthatHabermas’sone-sidedfocusoneconomic,bureaucratic,and
+      technological system logics that allegedly “colonize” the lifeworld, and thereby also
+      undermine the unfolding of the public sphere, fails to take account of the practices and
+      structures of discourse avoidance that arise within the lifeworld itself in the course of
+      communicativesocialization(2).Inthefinaltwosteps,Iwanttoremedythisblindspotby
+      appealingtothenotionof“systematicallydistortedcommunication.”Thisconceptcanbe
+      foundinHabermas’searlywork,buthesubsequentlyretireditandneverfullyexhausted
+      its empirical scope and complexity to analyze the public sphere and the blockages to
+      which it is subject (3). It can be used to reconstruct how the lifeworld context of
+      communicative action from which the horizon of the public sphere emerges isnot only
+      disaggregated and cleaved by systemic logics from the outside, as it were, but also
+      exhibitsanintrinsicdialecticoftherefusalofdiscourseandtheovercomingofthisrefusal.
+      Thefragmentedpluralityofpublicspherescanbeinterpretedandpoliticallyaddressedas
+      a precarious condition in which this dialectic has ground to a halt (4).
+      1. Thepublicsphereasthehorizonofcommunicativesocialization
+      Jürgen Habermas first developed the concept of the public sphere in the context of a
+      historical analysis. He examined how the “representative public sphere” of the court,
+      through which the rulers confirmed their sovereignty toward their subjects, was suc-
+      cessively supplanted by a new type of “bourgeois public sphere” in the course of the
+      Enlightenment.The“bourgeoispublicsphere,”accordingtoHabermas,emergedinthe
+      bosomofacivilsocietyliberatedfromtheshacklesoffeudalism.Itasserteditselfasa
+      sphere of deliberation that overturned the previous relationship of subordination by
+      henceforthsubjectingtherulerstoitsreasoning.Unrestricteddiscussionsbetweenfree
+      andequalcitizens,Habermaswrites,weresupposedtoleadtoa“rationalizationofrule”
+      (Habermas 1973a: 68) that, through the mediation of political involvement, affects
+                                                             
+                                                             
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+      46                           Philosophy and Social Criticism 50(1)
+                                                             
+                                                             
+      societyasawhole(seeHabermas1989:27–28,54).Hedescribeshowthisnovelsphere
+      ofdeliberationemergedfromthemidstofbourgeoismilieusintheformofsalonsand
+      dinnerparties.Atthesametime,however,thepublicsphereharborstheclaimtobe“in
+      principle open to extension” (ibid.: 37; translation amended) that points beyond the
+      boundaries of this milieu. Committed exclusively to the discursive clarification of
+      political and social matters, traditional status differences were no longer supposed to
+      play any role in the public sphere. On the contrary, the rationalizing power of the
+      bourgeoispublicsphere,accordingtoitsownself-understanding,livespreciselyfrom
+      the fact that it can include all perspectives and that only the “authority of the better
+      argument” (ibid.: 36) decides. Habermas makes it abundantly clear that, given the
+      exclusionofwomenand workersfromthebourgeoispublicsphere, thisuniversalistic
+      claim was never fully realized. However, he insists that it was nonetheless effective
+      insofarasitrepresentedaninstitutionalizedideathatthosewhoweredefactoexcluded
+      could appeal to in their social struggles (see ibid.: 36, 48).
+        This idea of a normative surplus that generates social and political effects has been
+      contradictedmostemphaticallybyMichaelWarner.Warnerdoesnotdirectlydisputethe
+      universalisticclaimthatisinherentineveryformofpublicness.Ifonefollowshisliterary
+      studies approach, publics emerge through the circulation of texts within a “stranger
+      sociability” (Warner 2005: 75) that cannot be demarcated sociologically in advance by
+      any group affiliation (see ibid.: 74, 90). In this respect, the public sphere for Warner
+      represents,ontheonehand,theriskyenterpriseofaneventofcirculationthatradically
+      eludessovereigncontrolandcontrollability.Ontheotherhand,Warnertriestoshowthat
+      theuniversalismofanyexistingpublicsphereisalwaysalsoconstitutivelylimitedbythe
+      concrete form of circulation (see ibid.: 106). In order to get going in the first place, the
+      unrestricted circulation must run through concrete channels, and this circumstance si-
+      multaneouslyrestrictsthecirculationtoaspecifictargetgroup.Thechannelsinquestion
+      are the result of the choice of certain communicative styles and a specific habitus of
+      address and discussion, which results in a “covert content” (ibid.: 107) and thus an
+      implicit exclusivity of the respective stranger sociability.
+        Warner clarifies this exclusivity with reference to the fate of the “She-Romps,” a
+      queerfeministgroupinpre-GeorgianEngland. TheShe-Rompsaddressed alettertothe
+      Spectator(seeTheSpectator,No.217,Nov.1,1711),thecentralorganofthebourgeois
+      public at the time,1 with a request to be permitted to introduce their own lifeworld and
+      cultureofdiscussionintothecomprehensivecirculationcontextofthispublicsphere(see
+      Warner 2005: 109ff.). However, the Spectator firmly rejects this request in view of the
+      undisciplined and ruthless style of communication and mode of interaction of the She-
+      Romps.TheimpetuousShe-Romps,stubbornlyeagertoridthemselvesoftheprevalent
+      prudishness,didnothavethenecessaryrestraintand“decorum”tocommunicatewithall
+      participantsinstrangersociability,accordingtothelessondeliveredbytheSpectator(see
+      ibid.: 112). With this case, Warner points to the striking paradox of exclusion being
+      justifiedpreciselybyappealtotheuniversalismofstrangersociability.Consistentlywith
+      this, Warner argues, the She-Romps and other marginalized groups have to create their
+      ownstrangersociabilityintheformofcounterpublics(seeibid.:113,120ff.).Theyhave
+      toform,asheputsit,theirowncirculationcontextbymeansof“poeticworld-making”
+
+[PAGE 5]
+                                                             
+                                                             
+      Kempf                                          47      
+                                                             
+                                                             
+                                                             
+      (ibid.: 114). The relationship between their stranger sociability and corresponding
+      communicative styles and the stranger sociability of the bourgeois public sphere is
+      thereby conceived as a competition of circulation contexts running in parallel that does
+      not admit of any further communicative mediation (see ibid.: 120).
+        Habermashasobjectedtosuchcontextualistnotionsonthegroundsthatthebourgeois
+      publicsphereisalwaysalreadyconnectedtoits“others”—he,too,referstothefeminist
+      movement—througha“commonlanguage”(Habermas1992:429)orshared“structures
+      of communication” (ibid.: 425). With reference to those universal “structures of com-
+      munication,” Habermas’s aim is to situate his concept of the public sphere on a deeper
+      levelofsocial-theoreticalanalysis—namely,ina“rationalpotentialintrinsicineveryday
+      communicativepractices”(ibid.:442)thattranscendsallbourgeoisconstraints.Habermas
+      definesthispracticeelsewheremorepreciselyas“communicativeaction,”throughwhich
+      subjects situated in the lifeworld communicate with one another in language about
+      something (see Habermas 1995: 588). Here the goal of communication is not merely
+      understanding the meaning of a linguistic utterance that one can simply brush off or to
+      whichonemerelysubmitsoneselfstrategically;rather,itistherecognitionoftheclaimto
+      validity that is associated with this utterance (ibid.).2 Habermas’s notion of communi-
+      cativeactionisoftenunderstoodasanidealthatisbeliedbyrealsocialconditions.Butthis
+      criticism fails to recognize the social-theoretical stakes bound up with this concept.
+      Habermas argues convincingly that the practice of communicative action permeates
+      society as a whole and ultimately ensures social integration (see Habermas 2009: 258;
+      Habermas 1995: 104). Even economic and bureaucratic processes, which operate via
+      “delinguistifiedmediaofcommunication”(Habermas1987:180)-moneyandpower-,and
+      thusdonotrequiremutualunderstandinginactu,areonthewholelinkedbacktopractices
+      of communicative action that stabilize their social acceptance (see ibid.: 184–5). Those
+      practices not only take place among people of the same status, but are also at work in
+      asymmetricalsocialrelations,insofarasthelattercanonlybe“enduringlyestablishedin
+      themediumofrecognizedinterpretations”(Habermas1995:104),thatis,byreachingand
+      maintaining an agreement, however tenuous, with respect to, for example, assumed
+      necessities or religious beliefs.                      
+        But how is “the public sphere” related to the nexus of communicative action that
+      pervades society as a whole? In Between Facts and Norms, Habermas reformulates his
+      theory of the public sphere, conceiving of it as an irreducible and always concomitant
+      horizonofcommunicativeaction.Hewrites:“Everyencounterinwhichactorsdonotjust
+      observe each other but take a second-person attitude, reciprocally attributing commu-
+      nicative freedom to each other, unfolds in a linguistically constituted public space”
+      (Habermas 1996: 361). How should we understand this? By “public space” Habermas
+      meansmorethanjustthelifeworldspaceofsharedmeaningstowhichwealwaysreferin
+      our linguistic utterances.3 Rather, by this he means the space of discourse to which
+      communicativeactorsunavoidablyexposethemselveswhentheyraiseclaimstovalidity,
+      and in which they must be prepared to defend these claims against objections with
+      arguments. No matter how asymmetrical the social relationship mediated by commu-
+      nicativeactionmaybe,thevalidityclaimscrucialtothisformofactionalwaysinvolvethe
+      meta-claimthattheycanberedeemedindiscourse(seeHabermas1995:597).Eventhe
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+      48                           Philosophy and Social Criticism 50(1)
+                                                             
+                                                             
+      mostideologically imbuedofferofcommunication containsthe “guarantee”(ibid.)that
+      the“truths”expressedarenotmerelysubjective,butthat,intheeventthattheymeetwith
+      contradiction,theycanbeshowntobegenerallyvalid—becauseonlythendotheyacquire
+      at least the appearance of being intersubjectively binding.
+        But, to articulate an obvious doubt concerning Habermas’s conception, how mean-
+      ingfulisthisguaranteeinsituationsofcommunicativeactionmarkedbymaterialpower
+      asymmetries(think,forinstance,ofcapitalistclassantagonismorthepatriarchalgender
+      order) (see Celikates 2010: 281)? Doesn’t it turn out to be a pure illusion in such sit-
+      uations? Against this objection it can be argued that, although material power asym-
+      metries can in part restrict the possibility of making the transition to discourse (i.e., of
+      criticallyquestioningclaimstovalidity),theycannoteliminateitinprinciple.Onecould
+      argue that, if such structures of power are not to forfeit their at least rudimentary le-
+      gitimacy, they have to be repeatedly normatively suspended in the course of commu-
+      nicativeaction,sothatthepossibilityofdiscursivediscussionarisesatleastmomentarily.
+      Aclaimtovaliditythatisimposedpurelybymaterialpowerisacontradictionintermsand
+      would immediately forfeit its socially integrative power. Even in asymmetrical social
+      relations,therefore,theorientationtowardsmutualunderstandingbringsabasicmoment
+      ofunconstrainedness into play. In this respect, every situation of communicative action
+      refersinanotmerelyfeignedsensetothespaceofdiscourseinwhichvalidityclaimsthat
+      areacceptedna¨ıvelyforthemostpartcould,ifnecessary,betestedwitharguments(e.g.,
+      intheformofacritiqueofclassantagonismsorofgenderrelations,whicharealltoooften
+      accepted in everyday life as given and somehow justified).
+        This space of discourse, to which communicative action always points, should be
+      understoodas“public”insofarasitis,asHabermasadds,“open,inprinciple,forpotential
+      dialoguepartnerswhoarepresentasbystandersorcouldcomeonthesceneandjointhose
+      present.Thatis,specialmeasureswouldberequiredtopreventathirdpartyfromentering
+      such a linguistically constituted space” (Habermas 1996: 361). This passage is also in
+      need of explanation. Here, Habermas is pointing out that the discourse into which a
+      concretesituationofcommunicativeactioncanmutateisnotsimplyunderthesovereign
+      controlofthosedirectlyinvolvedinthissituation.Communicativeactionwhoseclaimto
+      validity becomes controversial in a concrete situation does not come to a halt at the
+      boundariesofthissituation,butisembeddedinasociety-widenexusofcommunicative
+      action.Throughthemediationofthisnexus,thecontroversyalsoreachesandaffectsother
+      subjects.Theyareconnectedwiththeconcretesituationofcommunicativeactionthathas
+      beentransformedintodiscourseandtheycan—inprinciple—interveneinthis“matterof
+      common concern.” A dispute over standards of decency that flares up, for example,
+      betweenamiddle-classcouplecanexpandintoacontroversywithintheircircleoffamily,
+      friends, and acquaintances in which still others—employees, colleagues, neighbors,
+      etc.—become involved at least temporarily as bystanders.
+        Thepublicsphereisthespaceofdiscourseinwhich,asageneralrule,allthosesubjects
+      can become involved who are communicatively addressed and connected by contro-
+      versial, or at least contentious, claims to validity, whereby just being communicatively
+      addressedandconnectedinthiswayalreadymeansthattheyfigureaspotentialdiscourse
+      partners. This space is concretized in various communicative “encounters” that merge
+
+[PAGE 7]
+                                                             
+                                                             
+      Kempf                                          49      
+                                                             
+                                                             
+                                                             
+      along the nexus of communicative action and are “expanded and rendered more per-
+      manent in an abstract form for a larger public” (ibid.). The decisive point is that these
+      higher-level arenas of the public sphere (talk shows, opinion magazines, political
+      gatherings, etc., facilitated by the mass media) emerge from contexts of discourse that,
+      whenitcomestotheirpossibleextension,areasuniversalasthenexusofcommunicative
+      action. According to Habermas’s model, this universalism of the public sphere is the
+      startingpointthatisconcretelyestablishedbycommunicativesocializationandcanonly
+      beblockedbytaking“specialmeasures”(ibid.)topreventthirdpartiesfromenteringthe
+      discourse.Thesespecialmeasureswillbediscussedindetaillater.Theyprovidethekeyto
+      an analysis of the public sphere that, although not conceiving of it as constitutively
+      limited, nevertheless focuses on its real limitations as an evolved, but also precarious,
+      condition.                                             
+        In response to Warner, one can now draw the following conclusion: the bourgeois
+      publicspheredoesnotcreateitsstrangersociabilityexnihilointhesenseofcontingent
+      “poeticworld-making”(Warner2005:114).Rather,itemergesthroughanencounterand
+      movement in the “linguistically constituted public space” of discourse that is already
+      posited bycommunicative socialization andisnow consciouslyaccepted,appropriated,
+      andshapedasachallenge.Thebourgeoispublicspherecannotsovereignlyimmunizeits
+      strangersociability.Althoughitprivilegescertainchannelsandstylesofcommunication,
+      it is also situated within further references and connections of communicative sociali-
+      zation that are not under its control, insofar as they impose themselves in everyday
+      practice. Through these references and connections, the bourgeois public is haunted by
+      theShe-Romps.TheyarealltoofamiliartothemilieuoftheSpectator:thesearemothers,
+      sisters,recalcitrantwiveswhomakeuseofthecommunicativechannelsthatexistanyway
+      in practice to intervene directly in male-dominated dinner parties and salons. Or they
+      write,withtheintentionofprovokingdiscourse,thesaidlettertotheSpectator,whichat
+      least feels compelled to respond (see ibid.: 109f.).   
+        As a matter of historical record, the Spectator dismisses the offer of discursive en-
+      gagement with reference to certain mores and communicative styles that, it claims, are
+      indispensable prerequisites for participation in the stranger sociability of the bourgeois
+      public sphere (see ibid.: 112). But to identify this as a constitutive limitation of that
+      stranger sociability is something of a historical inversion. Instead, this repudiation is
+      evidenceofareactiveattempttocurtailit,thatis,torestrictittoacommunicativestyle
+      that is supposed to banish the real proliferation of the nexus of communicative social-
+      ization.4ItisnotthattheShe-Romps’lettertotheeditorandthepractices,experiences,
+      and perspectives it describes could not circulate and be received within the stranger
+      sociabilityoftheSpectatorbecauseoftheircommunicativestyle.Warner’sdiagnosisofa
+      generallackofhabitualfitness[Anschlussfa¨higkeit](seeibid.:106,111)failstorecognize
+      the immense currency and translatability of the “common language” of communicative
+      action. It is not a matter of such a lack of fitness, but that the She-Romps are not to be
+      includedintheSpectator’sstrangersociabilitybecauseitsmalereadershipdonotwantto
+      orcannotfaceacriticaldebateaboutthebourgeoisgenderorderandthecommunicative
+      style appropriate to it. Warner’s diagnosis of a fundamental incompatibility of com-
+      municativestyles(ibid.:108ff.)losessightofthefactthattheexclusionoftheShe-Romps
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+      50                           Philosophy and Social Criticism 50(1)
+                                                             
+                                                             
+      pointsfromtheoutsettoasocialconflictwhosediscursiveexpressionistobeavoided—
+      specifically from a concrete, male-defined perspective and interest situation.5 Anti-
+      feminist, but also other forms of exclusion from the public sphere, must be explained
+      in the light of this suppressed conflict.              
+        Instead of following Warner’s thesis of the relativity and constitutive closure of
+      conflictingpublicspheres,therefore,itismoreplausiblefromareconstructiveperspective
+      tolocatethepublicsphereatadeepersocio-ontologicallevel,asitwere,andtoassume
+      that it constitutes a concomitant horizon of communicative socialization that is first
+      curtailed by “special measures”—from intimidation to denigration and beyond. The
+      publicsphereiscurtailedinthiswaybecause,accordingtotheobviousexplanationinthe
+      case of the She-Romps, it is not deemed desirable that certain validity claims could be
+      discursively thematized from a certain direction, insofar as this would endanger estab-
+      lishedconsensusessedimentedinthelifeworld.Takingthissocial-theoreticalfoundation
+      as a starting point, we must now, to speak with Habermas himself, pursue “in the di-
+      alecticalcourseofhistorythetracesoftheviolencethathasdistortedtherepeatedattempts
+      at dialogue and has forced them again and again out of the paths of unconstrained
+      communication” (Habermas 1969: 164). Is Habermas successful in this?
+      2. The colonization thesis                             
+      I would now like to examine how Habermas conceives of the social conditions that
+      prevent the public sphere from unfolding. It is striking in this context that he does not
+      focussomuchonthe“specialmeasures”ofdiscourseclosurethatsystematicallycurtail
+      the space of the public sphere in order to avoid conflict and stabilize ideological con-
+      sensus. Strangely ignoring the conflicts immanent to the lifeworld and the attempts to
+      suppress them, he focuses instead on the bureaucratic, economic, and technological
+      systemlogicsthatthreatenthelifeworldspaceofthepublicspherefromtheoutside,asit
+      were,andimpairitasawhole.Thisone-sidedfocusrunsthroughthevariousstagesofhis
+      theoryofthepublicsphere,fromhisearlyanalysisofa“structuraltransformationofthe
+      public sphere” under conditions of depoliticized postwar capitalism to his most recent
+      diagnosis of a “renewed structural change” of the public sphere in the neoliberal era of
+      “social media”.                                        
+        In The Structural Transformation of the Public Sphere, Habermas reconstructs the
+      followingmajordevelopment:whereasinthe19thcentury,civilsocietywasstillableto
+      reproduce itself predominantly from its own resources, in the 20th century the state
+      increasingly had to intervene in it actively in order to mediate its inherent class an-
+      tagonismandtocushiontheassociatedfunctionalandlegitimationcrisesofcapitalism.In
+      thecourseofthisstateinterventionism,a“refeudalizationof[civil]society”(Habermas
+      1989:142)occurs,sothatcivilsocietyforfeitsitsrelativeautonomyasapreconditionfor
+      a functioning public sphere (see ibid.: 157). In addition to the weakening of the pre-
+      conditions of the public sphere in civil society, Habermas continues, its own internal
+      communicativeorganizationasasphereofdiscourseisdestroyed.A“commercialization”
+      (ibid.: 169) of the public sphere into a site of private amusement leads to a general
+      suspensionordissolutionofsocialandpoliticaldiscourse.Moreover,politicalinfluence
+                                                             
+                                                             
+
+[PAGE 9]
+                                                             
+                                                             
+      Kempf                                          51      
+                                                             
+                                                             
+                                                             
+      on,orinstrumentalizationof,thepublicsphereforpurposesof“acclamation”(ibid.:176)
+      prevails,sothatthebourgeoisprincipleofthe“rationalizationofrule”(Habermas1973a:
+      68) through discourse increasingly loses its efficacy and yields to a bureaucratic ma-
+      nipulationofthepublicsphere.Habermaspessimisticallydubsthisrenewedinversionof
+      the direction of influence a “structural transformation of the public sphere.”
+        Overthefollowingtwodecades,Habermaswouldspelloutfurtherthedistinctionhe
+      had already made implicitly in 1962 between bureaucratic and economic power
+      complexes,ontheonehand,andtheoverallsocietalcontextofcommunicationgeared
+      todiscourse,ontheother,andsystematizeitintoadualistictheoryofsociety.According
+      to this dualistic account, the sphere of communicative action is perforated by the
+      complexes of bureaucratic and economic power, by which it is re-functioned and
+      broughtundercontrolasawhole.AtthelatestinTheTheoryofCommunicativeAction,
+      the public sphere, as a self-reflexive expression of the lifeworld that reproduces itself
+      through interrelations of communicative action, stands over against the political and
+      economic functional systems (i.e., the state and the market) (see Habermas 1987:
+      180ff.), which perform their daily processing via “delinguistified media of commu-
+      nication” (ibid.: 180), that is, precisely by bypassing practices of intersubjective un-
+      derstanding. It should be noted, however, that they can dispense with those practices
+      (and the associated permanent “risk of dissension”) in actu only insofar as a certain
+      historical level of intersubjective understanding as a whole has been achieved and is
+      maintained. This is because the systems are only set going and made possible on the
+      basis of a certain “rationalization of the lifeworld” (ibid.: 173); moreover, their op-
+      erationisalwaystiedbacktothe“basicinstitutions”ofpublicandcivillawandthusto
+      consensus structures of the lifeworld (ibid.).         
+        AsHabermasexplainsingreaterdetailinBetweenFactsandNorms,thefunctionof
+      the public sphere within this dualistic societal structure is to influence the political
+      system—and thereby indirectly also the economic system—by intervening in the dis-
+      cursiveprocessoflawmaking.Thisoccurs,accordingtoHabermas’smodelbasedonthe
+      research of the sociologist Bernhard Peters, by means of a “circulation of power”
+      (Habermas 1996: 354) that transforms the “communicative power” generated consen-
+      sually in the public sphere into “administrative power” (ibid.: 146ff.) by way of par-
+      liamentary legislation. This circulation of power has institutional “sluices” (ibid.: 356).
+      However,Habermasisnotspecificallyinterestedinwhichcommunicationcontentsand
+      subjects are systematically “trapped” by these “sluices” and thus are excluded from the
+      public sphere. Rather, adopting the more abstract perspective of a dualistic theory of
+      society he speaks of a “countercirculation” (ibid.) originating on the side of the system
+      thatreversestheaforementionedcirculationofpowerandthusthwartsitsdemocratizing
+      thrust.Habermasreferstoforcesofthepoliticalsystemthatspecifytopicsanddefinethem
+      narrowlyintechnocraticterms(seeibid.:380f.),aswellasthemanipulativeeconomiesof
+      attentionofprofessionalizedjournalisticmediasystems(seeibid.:376f.).Onceagain,his
+      analysis boils down to the rather sweeping—and socially and politically not further
+      differentiated—assertion that the public sphere is undermined by the interventions of
+      administrative and economic power.                     
+                                                             
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+      52                           Philosophy and Social Criticism 50(1)
+                                                             
+                                                             
+        ThesamegeneralpatternofanalysiscanbefoundinHabermas’srecentcommentson
+      the “renewed structural transformation of the political public sphere.” Once again,
+      Habermas explicates the public sphere as a space in which the citizens engage in
+      democratic deliberation (see Habermas 2023), which should actually influence the
+      political system via the aforementioned circulation of power. However, this model is
+      impaired by a loss of confidence in the political system, which in the context of
+      globalizedmarketsisnolongerabletoguaranteethesocialequalityofallcitizensasa
+      basicprerequisiteofthepublicsphere.Thepublicsphere,whichhasbeenweakenedat
+      the sociostructural level by undesirable economic and political developments, is now
+      alsoaffectedbythetechnologicalshifttowardsocialmediathatisitselfbeingdrivenby
+      capitalist valorization imperatives. The democratization of the author role associated
+      with “social media” does lead to a dissolution of social boundaries, which Habermas
+      welcomesinprinciple.Problematic,however,isthefragmentationbeinggeneratedby
+      platformssuchasTwitterorFacebook,whichdonotprovideanyeditorialmediationof
+      contents. Instead of bringing divergent positions into constructive conversation with
+      one another, “commodified” communication is being steered by an economy of at-
+      tention that is giving rise to “independent semi-publics” that are self-enclosed and
+      immunized against dissonance.                          
+        The three analyses of a “structural transformation of the public sphere” focus on
+      different phenomena at different times, but on the whole are in a similar vein. They
+      consistently represent the hindrances blocking the unfolding of the public sphere as
+      follows: first, the preconditions of the public sphere in civil society are threatened or
+      undermined byeconomicandpolitical developments; thenthealreadyweakenedsocial
+      basisofthepublicsphereisalsoafflicted,asitwere,bytheencroachmentsofeconomic,
+      political,andtechnologicalsystemsthatdestroy,oroverwriteitsinternalcommunicative
+      organization; this manifests itself in turn as the reification, manipulation, and frag-
+      mentation ofthepublicsphere.Habermasfamouslydescribesthisglobalprocessasthe
+      “colonization of the lifeworld,” a process involving the conspicuous suppression of
+      contextsofcommunicativesocializationandtheirreplacementbysystemicmechanisms
+      ofbehavioralmanipulation(seeHabermas1987:322;Habermas1969:82)—forexample,
+      through the “conversion” of spaces of discourse into sites of cultural consumption,
+      infotainment, and privatized self-adulation.           
+        Habermas’s colonization thesis has the undoubted merit of avoiding the “idealism”
+      (Habermas 1987: 110) of a social theory centered purely around the concept of com-
+      municativeactionbytakingintoaccountthedestructiveeffectofeconomic,bureaucratic,
+      andtechnological systemic logics onthecommunicative infrastructure ofthelifeworld.
+      Indeed,itisonlybycombininglifeworldandsystemperspectivesthatwecanacquirea
+      completepictureofsociety(seeibid.:110f.).However,anexcessivelyone-sidedfocuson
+      systemicallyinducedcolonizationtendenciesfailstorecognizethatnotonlythehistorical
+      unleashing of the systems, but also the forms assumed at any given moment by their
+      reproduction and intervention mechanisms (forms of property, commodification, juri-
+      dification, “mediatizing” and strategic ways of influencing lifeworld contexts), can be
+      traced back to the lifeworld and its normative, cultural, and political development. It is
+      surprisingthatatheorythatpresentsconvincingargumentsforassumingthisprimacyof
+
+[PAGE 11]
+                                                             
+                                                             
+      Kempf                                          53      
+                                                             
+                                                             
+                                                             
+      thelifeworld(seeibid.:173)confinesitselfinitsanalysisofcontemporarydevelopments
+      in the public sphere entirely to systemic encroachments, and thus attributes a strangely
+      passive victim role to the lifeworld. As a result, Habermas’s theory peculiarly fails to
+      measure up to its own possibilities. Instead, it would be more fruitful to decipher the
+      aforementioned colonization tendencies themselves as corresponding to a lifeworld
+      developmentofthepublicsphere.Thesystemicinterventionsinthepublicspheredonot
+      simply affect it from outside of the lifeworld. Rather, they should be understood, as it
+      were,astechnicalconversionsortranslationsofattemptstoavoiddiscourseoriginatingin
+      the lifeworld itself. In other words, an inability or unwillingness to allow unrestricted
+      discourse, which must be concretely determined in each historical case, is reflected in
+      systemicinterventionsinthepublicsphere.Theseinterventionsshouldnotberegardedso
+      muchasundermining,destroying,orreifyingthepublicsphereasawhole,butratheras
+      concretecurtailmentsandrestrictionsofthehorizonofthepublicsphere,eachofwhich
+      hasaspecificpoliticalcontent.Thisalwaysconcomitanthorizonofcommunicativeaction
+      is systematically curtailed in relation to certain topics, perspectives, and subjects, and
+      sometimes this curtailment is also expressed in the form of systemic interventions.
+        Thus,the“commercialization”andbureaucraticmanipulationofthepublicspherethat
+      Habermasdiagnosedin1962(seeHabermas1989:169,176)canbeunderstoodatleast
+      alsoasanexpressionoftheavoidanceofclassconflict.Thesmolderingclassconflictmust
+      be prevented from becoming a subject of discourse, and this is achieved through the
+      commercializationandbureaucraticmanipulationofthepublicsphere,forexample,inthe
+      formof“rewardsconformingwiththepresentsystem”(paidinthecurrencyofincreasing
+      possibilitiesofconsumption)thatallowevenmembersofworking-classmilieustoretreat
+      more or less comfortably into the private sphere (see Habermas 1973b: 56ff.). Both
+      tendenciesensureasuspensionortheredundancyofmoral-practicaldiscoursesthatcould
+      in principle identify capitalist class society as such and call it into question. Although
+      Habermasdoesemphasizethishistoricalconnection(seeHabermas1970:110f.),hethen
+      interpretsthisdevelopmentone-sidedlyasaprocessbywhichtechnocraticsystemlogics
+      getoutofhandinwaysthatarefatalforthecommunicativereproductionofthespeciesas
+      awhole(seeibid.:112f.).However,itisimportant nottoattributefalsecausalitytothe
+      systemicmechanismsofmanipulationandcommercialization.Theintentionofavoiding
+      conflict andthe associated exclusionof certain topics and politicalperspectives already
+      occurs within the lifeworld and its communicative reproduction—for example, in the
+      form of widespread anti-communism and the associated boom inprivatistic values (see
+      Taylor1985)—andissupportedandamplifiedbysystemicinterventionsinthelifeworld.
+      The “colonization of the lifeworld” is ultimately a self-reification for the purpose of
+      avoiding conflict.                                     
+        Analogously, the fragmentation of the public sphere associated with the new social
+      media,whichHabermasdiagnosesinhisrecentessay,canbeunderstoodasanexpression
+      oftheavoidanceofconflictualdiscoursesthatrevolve,forexample,aroundquestionsof
+      the binary gender order, structural or everyday racism, or the colonial past and present.
+      Subjectsandthemesthatforalongtimeweresuccessfullyexcludedfromthepublicspace
+      ofdiscoursehavegainedaccesstoit;butthankstofragmentation,itseemsthattheyare
+      beingsuccessfullyexcludedfrom“one’sown”discourseagain.Thealgorithmsthrough
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+      54                           Philosophy and Social Criticism 50(1)
+                                                             
+                                                             
+      which the new social media are largely controlled (see Koster 2020) function in many
+      respects like a mostly opaque, but popular, tool of discourse avoidance. Habermas
+      completely disregards these sources of conflict proper to the lifeworld and the corre-
+      spondingintentiontoavoiddiscourse,sothathefailstopaintacompletepicture ofthe
+      structural transformation of the public sphere. By focusing exclusively on systemic
+      colonizationtendencies,hedrawsasuperficialand,toacertainextent,trivializingimage
+      that overlooks the underlying conflicts over the public sphere in the lifeworld. In the
+      following section, I suggest how this blind spot can be overcome by drawing on
+      Habermas’s early work. With the help of his notion of “systematically distorted com-
+      munication,”Iwanttoreconstructthedialecticofdiscourseavoidanceanditsovercoming
+      that arises historically in the process of communicative socialization itself and finds
+      expressionintherestriction,extension,andreactivefragmentationofthepublicsphere.
+      3. The notion of systematically distorted communication
+                                                             
+      ThusfarIhaveshownthattheideaofapublicsphereinthesingularthataccompaniesthe
+      process of communicative socialization like an ever-present horizon can be rendered
+      plausiblefromaHabermasianperspective.Withitsvalidityclaim,communicativeaction
+      permeates society as a whole, for even the “the ultimately physical force of strategic
+      influencesandthematerialforceoffunctionalconstraints…cangainpermanencyonly
+      throughthemediumofacknowledgedinterpretations”(Habermas2001:85).Thepublic
+      sphere is the space of discourse to which communicative actors expose themselves in
+      ordertoaccountfortheirclaimstovalidity.Thisspaceofdiscourseisdifficulttoidentify
+      and can never be brought to a standstill. It assumes concrete form as intertwined and
+      interwoven individual discourses, while nevertheless remaining as a whole amorphous
+      and anarchic. Yet it is in principle as comprehensive and context-transcending as the
+      nexusofcommunicativesocializationandtheuniversalisticvalidityclaimsthatsustainit.
+      Italsoinvolvesthosewho,althoughsociallysubordinated,aresubordinatedthroughanat
+      least rudimentary practice of mutual understanding, from whose egalitarian internal
+      structurethepowerfulemancipatorypromiseofdiscoursecannotbeerased.Againstthis
+      background, the shielding of a “bourgeois public sphere” from its supposed other—for
+      example, the radical women’s movement—is not to be regarded as a constitutive re-
+      strictionofthepublicsphereandareflectionofitsfundamentallyexclusivecharacter,but
+      rather as the reactive result of the narrowing and refusal of discourse.
+        Habermashasdealtextensivelywiththesocialdistortionsandblockagesthatprevent
+      the unrestricted development of the public sphere. However, he has not examined how
+      factorsoperatinginthelifeworldprocessofcommunicativesocializationitselfcanleadto
+      the suppression of discourse. Instead, he focuses on different historical phases of
+      “systemic” colonization that generally displace and undermine this process. What in-
+      terestshiminthehistoricalelaborationofhistheoryofthepublicsphereisnotthe“special
+      measures” immanent to the lifeworld that are taken “to prevent a third party from en-
+      tering” the public sphere (Habermas 1996: 361), but rather those “systemic” processes
+      that suspend or hollow out the latter as a whole. Thus, he fails to recognize that the
+      fragmentationofthepublicspherehediagnosesisnotonlyduetosystemictendenciesof
+                                                             
+
+[PAGE 13]
+                                                             
+                                                             
+      Kempf                                          55      
+                                                             
+                                                             
+                                                             
+      commodificationandtechnicization,butmustbeinterpretedasatleastalsotheresultof
+      barriers to communication originating in the lifeworld.
+        Inhisearlywritings,however,Habermasstillattemptedtoreflectonthesephenomena
+      under the title of “systematically distorted communication” (Habermas 1980: 190;
+      Habermas in Habermas and Luhmann 1974: 120). He is fully aware that, empirically
+      speaking, the validity claims circulating via the nexus of communicative socialization
+      oftendonotstanduptoscrutinyinunrestricteddiscourse.Historically,itistherulerather
+      thantheexceptionthatbehindtheclaimstovalidityofcommunicativeaction,whichare
+      geared to intersubjective recognition and generalizability, are concealed particular in-
+      terestsandclaimstopowerthatmustbeshieldedagainstcontradiction(seeibid.:119f.).
+      With communicative socialization, on the one hand, the possibility of expressing con-
+      tradictionispositedinaquasi-transcendentalmanner.Ontheotherhand,thispossibilityis
+      repeatedly blocked, at least partially, in order to make possible a “pseudo-consensus”
+      (Habermas1995:265)thatisnecessaryforsocialreproduction.Habermasspeaksinthis
+      context of ideologies whose apparent validity can only be secured by “barriers to
+      communication” (Habermas and Luhmann 1974: 259) in the sense of “systematic re-
+      strictions on communication leading to will formation” (ibid.: 258f.). He writes:
+        Insuchcases,thevalidityofthelegitimationsissecuredbyamechanismthatexcludesor
+        restrictspublicthematizationofthevalidityclaimofthelegitimationsandcriticaldiscussion
+        oftheircontents.Thisbarrierhasasinglefunction…:topreventaprocessofenlightenment
+        fromtakingplace.Ifthesystematicrestrictionsoncommunicationwereloosened,thenthe
+        individuals andgroupsinvolved could becomeaware thatthe prevailing legitimations are
+        connectedwithsubstitutesatisfactionsthroughwhichsuppressedneedsnotsanctionedbythe
+        institutionalized valuesare virtualized. (ibid.: 259)
+        The“barrierstocommunication”onwhichHabermasfocusesensurethat,forinstance,
+      needsandrelatedinterpretationsthatwouldcalltheuniversalvalidityofanideologyinto
+      questioncannotbevoiced.Thepreventionofthearticulationoftheseneedsisintendedto
+      ensurethatthenexusofcommunicativeactiondoesnotbecomecontentiousatacertain
+      thematic point or social location and threaten to spill over into an open discourse that
+      would end in dissent. Habermas speaks in psychoanalytic terms of the exclusion of
+      subversivelyconnotedneedsandmotives(seeibid.:255ff.),orofthetopicsandobjectsof
+      conversation associated with the latter, as well as of the substitute satisfactions and
+      symbolsthatareideologicallyproduced(seeibid.).Ofparticularinteresthere,however,is
+      the case, which Habermas does not discuss in particular, in which along with these
+      refractoryobjectsofcommunicationalsocertainsubjectsorsubjectivities6areprevented
+      from passing from communicative action, in which they are already involved, into the
+      “public space” of discourse, in order to bring their concerns and perspectives into the
+      general discussion. Accordingly, also the already discussed attempt to exclude feminist
+      critique ishistorically implemented as the exclusionof at least certain women from the
+      public sphere, namely those who, like the She-Romps, prove to be too recalcitrant and
+      critical from a male-bourgeois perspective.7           
+                                                             
+                                                             
+                                                             
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+      56                           Philosophy and Social Criticism 50(1)
+                                                             
+                                                             
+        But how exactly do such barriers to communication work, which in the modern era
+      kept or maneuvered not only feminist women, but also socialist workers, self-aware
+      queers, and people of color, out of the public sphere? Habermas provides only a very
+      vague and incomplete answer to this question. Taking his lead from the psychoanalytic
+      studyofindividualprocessesofrepression,hereferstothefateof“LittleHans,”whoin
+      the family environment                                 
+        suffers an intolerable conflict which he then represses. This defence is connected with a
+        processofdesymbolizationandofsymptom-formation.Thechildexcludestheexperienceof
+        conflictiveobject-relationsfrompubliccommunication(andtherebyrendersitinaccessible
+        eventohisownEgo);itsplitsoffthepartoftherepresentationoftheobjectthatischarged
+        withconflictand,inaway,desymbolizesthemeaningoftherelevantobject.Thegapthat
+        appearsinthesemanticfieldisclosedbyasymptom,inthatanunsuspicioussymboltakesthe
+        place ofthe symbolic content thathas beensplit off.(Habermas 1980: 193)
+                                                             
+        Ifonewantstotransferthepsychoanalyticmodelofindividualprocessesofsplitting
+      offtraumaticexperiencestothedisplacementofentiresocialgroupsandtheirspeechacts
+      fromthepublicsphere,somemodificationsarenecessary.Habermasdidnotmakethem
+      himself, since he confines himself in his discussion of the concept of systematically
+      distorted communication to the familial, still partially pre-social context (see Habermas
+      1995:226–270).The“desymbolization”ofcollectively shared communicativecontents
+      and forms does not go hand in hand with their complete erasure from the field of in-
+      telligible meanings, asinHabermas’sreferencetoFreud. While Little Hans,faced with
+      theinescapable,overwhelmingpowerofhisfather,cannothelpbuterasethesymbolfor
+      his inadmissible need from his conscious memory, the She-Romps, for example, find a
+      countercultural space of articulation (cf. Fraser 1990: 61). Their queerfeminist subjec-
+      tivities, intentions, needs, and objections, which are desymbolized within the narrow
+      bourgeois public sphere through practices of ostracization and denigration, of shaming
+      andinsulting,canendure (incipheredform) inthisalternative space ofarticulationand
+      thusescapetheirown worldlessnessandinsignificance(see Arendt 1998:52ff.).Inthis
+      respect,suchcasesofrelativedesymbolizationdonotnecessarilyinvolvetheformationof
+      symptoms,sinceno“semanticgap”hasarisenintheconsciousnessofthoseaffectedthat
+      must be closed. Against the background of a merely relative desymbolization, the
+      countermovement of “resymbolization,” which Habermas addresses in connection with
+      the psychoanalytic studies of Alfred Lorenzer (Habermas 1980: 193), must also be
+      conceived differently. The therapeutic procedure of “scenic understanding” on which
+      Lorenzer focuses (ibid.; Lorenzer 2000: 138ff.) first has to use depth-hermeneutic ex-
+      planatory models in order to theoretically decode the desymbolized content that has
+      completelydegeneratedintofragmentsofprivatelanguage.Bycontrast,ostracizedsocial
+      groups, far from being disarticulated to the same extent, often already devise their re-
+      symbolizationontheirown.Inpractice,thistakestheformof“subalterncounterpublics”
+      (Fraser1990:67),whichrendersuperfluoustheavant-gardepositionofthetheoristsinthe
+      process of enlightenment still assumed by Habermas (see Habermas 1973 [1963]: 28–
+      32, 37).                                               
+                                                             
+
+[PAGE 15]
+                                                             
+                                                             
+      Kempf                                          57      
+                                                             
+                                                             
+                                                             
+        Ineachcase,practicesofrelativedesymbolizationinvolveaconcreteattempttocurtail,
+      seal off, and particularize the horizon of “the public” regarding certain topics and
+      subjectivities. Of decisive importance is, firstly, that the associated barriers to commu-
+      nication do not represent a constitutive, but rather a reactive restriction of the public
+      sphere. The manifold practices of desymbolization do indeed produce the profound
+      effectsof“othering”thathavebeenextensivelyanalyzedbysubalternstudies(seeSpivak
+      1985).Butthe“constitutiveother”ofdiscoursegeneratedinthisway(seeMouffe2009:
+      21;LaclauandMouffe1985:122–124)isbynomeansconstitutiveofdiscourse.Instead,
+      it is better understood as a fictitious liminal figure that only arises in the course of the
+      suppression of a more inclusive discourse context already implicit in the nexus of
+      communicativesocialization.Itisimportanttounderstand,secondly,thatthissuppression
+      of discourse is not the result of systemic encroachments on the lifeworld as a whole.8
+      Rather, it is a result of the process of communicative socialization and the associated
+      challenge ofconsensusstabilizationitself: theeliminationofsourcesofdissentthrough
+      barriers to communication is precisely a reflection of the genuine dependence of com-
+      municativesocializationonconsensus.Byeliminatingdissent,however,communicative
+      socialization becomes entangled in a self-contradiction, since the “pseudo-consensus”
+      (Habermas1995:265)thatnowholdsswaycantypicallyonlypreserveitsuniversalistic
+      appearanceunderthepreconditionthatauniversaldiscourseisprevented.Andthemore
+      emphaticallypracticesofdesymbolizationarecounteractedbythoseofresymbolization,
+      the more clearly the self-contradiction comes to light and tears down the barriers to
+      communication.                                         
+      4. The dialectic of desymbolization and resymbolization
+      Takingthisasourstartingpoint,thehistoryofthepublicspherecanbereconstructedasa
+      dialectic of the refusal of discourse and the overcoming of this refusal. The concept of
+      systematically distorted communication not only makes it possible to detect barriers to
+      communication synchronically and to problematize them normatively by recourse to
+      universalisticdiscursiveideals(seeBiskamp2016).Thisconceptalsoenablesustopaint
+      a more dynamic picture: we can reconstruct how discourse-constraining practices of
+      desymbolizationare challenged by practices ofresymbolizationthat unblockthepublic
+      sphereonceagain.Therelationshipbetweendesymbolizationandresymbolizationdoes
+      not describe a simple and endless back-and-forth, but a dialectical movement (see
+      Habermas1969:17;Habermas1971:58f.)thatpointswithacertaindegreeofnecessity
+      toward overcoming the boundaries of the public sphere (see Kempf 2022). The plu-
+      ralizationofdifferentpublics,whichneverthelessstandinacommunicativerelationship
+      tooneanother(inFraser’ssense),canbeinterpretedastheunfoldingofthisdialectic.The
+      fragmentation of the public sphere that is increasingly evident today suggests that this
+      dialectichasgroundtoaprecariousstandstill.Inconclusion,Iwouldliketoofferarough
+      outline of the aforementioned dialectic (1), its unfolding (2), and stasis (3).
+        (1) The concrete historical dialectic exhibited by the public sphere begins with the
+      erectingofbarrierstocommunicationwhoseaimistoestablishsovereigncontroloverthe
+      publicsphere andits amplifiedrisk ofdissensionthroughpractices ofdesymbolization.
+                                                             
+                                                             
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+      58                           Philosophy and Social Criticism 50(1)
+                                                             
+                                                             
+      But the conditions of systematically distorted communication associated with de-
+      symbolization should not be understood as a context of total delusion. Rather, the self-
+      contradictionofaformofintersubjectiveunderstandingthatcanbesuperficiallyupheld
+      only by restricting the possibility of articulating dissent leads to a precarious condition
+      that is potentially constantly threatened by the return of the repressed. Habermas il-
+      lustrates this precariousness using the example of individual neurosis, whose rigid be-
+      havioral patterns are torpedoed by private-language interjections that bring back to the
+      forethesuppressedneedsanddesiresinunintelligibleways(seeHabermas1980:192).
+      Onthecollectivelevel,however,thesituationisdifferent.Thesuppressedcontradiction
+      doesnotreturnmoreorlessautomaticallyinaccordancewithaquasi-natural“causalityof
+      split-offsymbols”(Habermas1969:17;Habermas1971:58f.),butonlyinthecourseof
+      resymbolization processes with highly demanding preconditions. But since these pro-
+      cesses draw upon a countercultural space of articulation left open to them by a merely
+      relative desymbolization, the returned has never lost its intelligibility entirely.
+        However, this should not obscure the fact that even relative desymbolizations pro-
+      foundlyimpairthepossibilityofpubliclyexpressingcertainintentions,perspectives,and
+      subjectivities.Evenifthelattercanfallbackonacounterculturalrefugeoftheirown,their
+      self-confidence is convulsed by experiences of shaming, slander, and denigration, and
+      their ability to express themselves is unsettled, to such an extent that they first have to
+      rediscoveralanguagethatcanbespokenwiththenecessaryprideinthesubalterncontext
+      and beyond (see Eribon 2016: 19–24; 100–111). For “desymbolization” means signif-
+      icantly more than what is currently widely discussed as “cancel culture” (see Norris
+      2021). It does not signify merely the intensified and vociferous criticism of certain
+      contents,normerelybeingbanishedfromthemainstage.Rather,itmeanstheattemptto
+      destroytheveryabilitytoarticulateoneselfself-confidently,whichleavesitsmarkeven
+      when it is only partially successful. It may still be possible to speak the desymbolized
+      withinthecounterculture,butwithabowedhead,asitwere,sincethespeakingsubject
+      herself has lost the social support of a general worthiness of recognition.
+        The laborious historical process of resymbolization, which is accomplished in so-
+      called safe spaces through forms of conscious raising that ultimately lead to subaltern
+      counterpublics,mustalsobeunderstoodagainstthisbackground(Fraser1990:67f.).This
+      process is so laborious because it does not only concern the resymbolization of com-
+      municative contents (see ibid.). On a more fundamental level, the primary task is to
+      reconstruct and reconsolidate the subjectivities that have been desymbolized within the
+      publicsphereasself-consciousstandpointsofspeech.Ineveryrespect,resymbolization
+      hasahistoricaldimension,foritisamatterofbringingbacktolightandworkingthrough
+      theoriginalconflictinthecourseofwhichtheostracizationwaspronounced,thesubject
+      wasunderminedthroughinsults(seeEribon2016:19–24),andthusthepublicspherewas
+      restricted. Only by returning to this original historical conflict can the insult be seen
+      through, its spell broken, and the previously disavowed subject restored to a self-
+      confidencethatstandsbyitsdissonantexperiencesandisabletoarticulatethempublicly.9
+        (2) Successful resymbolization, which brings the suppressed subjects and objects of
+      communicationbackintospeech,resumesthediscourseatthepointwhereitwashistorically
+      suppressed. Although what is resymbolized must first impose itself on the perlocutionary
+
+[PAGE 17]
+                                                             
+                                                             
+      Kempf                                          59      
+                                                             
+                                                             
+                                                             
+      level,thatis,byaffectivemeansofagitation,itcannotbeconceivedas“thecompleteother”of
+      discourse.10Rather,itisintelligibleanddiscussablepreciselyinsofarasitbringsbacktothe
+      fore a historically shared conflict. This can be illustrated once again by the example of
+      feminism. The subaltern counterpublics associated with feminist struggles do not actually
+      break into the public sphere from the outside, but should be understood as being part of a
+      communicatively constituted public space from which they have simultaneously been ex-
+      cludedforthepurposeofavoidingdiscourseandsuppressingconflict.Theirresymbolizing
+      achievement,whichconcernsvariouspointsofcontentioninthemoderngenderorder,leads
+      historically—and with a certain degree of necessity—to the negation and retraction of pa-
+      triarchalbarrierstocommunication.Fortherefusalofdiscoursewaspossibleonlyaslongas
+      desymbolization was successful. Now that the previous consensus has been shamefully
+      exposedasapseudo-consensusthatwasultimatelyimposedbyforce,one’sownuniversalistic
+      claimtovaliditydemandsthatjointdiscoursebefinallypermitted.Thisenforcedopeningis
+      evident from the manifold discursive references currently being established and permitted
+      between the bourgeois public sphere and subaltern counterpublics, which lead to the
+      emergence of a “left-liberal” or post-bourgeois public sphere that is frequently a target of
+      conservative criticism (see Stegemann 2021).           
+        (3) The emergence of subaltern counterpublics sets a pluralization of perspectives in
+      motion that exposes the historically occluded horizon of the public sphere. However, this
+      dialecticalprocessinvolvinganegationofnegationcanbebroughttoastandstillinsofarasthe
+      discourse-expandingpluralizationmeetswithcountervailingtendenciestowardfragmentation
+      that seek to avoid the increased social pressure of debate and the consequent risk of dis-
+      sension.Thisisevidenttodayintheriseofright-wingpopulistcounterpublics(seeRochaand
+      Medeiros2021),whichuse“fakenews”(e.g.,regardingmigrants),accusationsoffakenews
+      (e.g., to deflect accusations of racism), and ressentiment-laden denigration of the (“left-
+      liberal”)mediainanattempttorestorestructuresofsystematicallydistortedcommunication
+      thathavealreadybeendebunked,andthustoevadetheconfrontationwithcontradictiononce
+      again.Byusingsuchimmunizationstrategiestodissolveonceagain,orblockfromtheoutset,
+      the interrelation of discourse brought to light by pluralization, the need for openness just
+      assertedseemstobeempiricallynullified.Thiswouldalsocallintoquestionthetheoretical
+      approachadvocatedhereofspeakingintermsofadialecticofdiscourseavoidanceandits
+      overcoming that is more than an aimless back-and-forth.
+        However,theseattemptsatimmunizationareprovingtobecrisis-riddenintheextreme
+      andtobetheabsoluteoppositeofasovereignattitude,anchoredinautarkictraditionsand
+      self-enclosed identities. The emergence of filter bubbles is often interpreted as an ex-
+      pressionofacurrentlyrampant“nihilistic”socialization,inwhichclaimstovalidityare
+      being blithely stripped of their universalistic intentions and assimilated to the particu-
+      laristicimperativeofsheerself-assertion(seeBrown2018;JasterandLanius2021).What
+      speaksagainstthiswidespreadpost-truththesis,however,ispreciselytheaggressivezeal
+      mobilized to repulse approaching debates. The unwillingness to acknowledge—for
+      example—postcolonial social connections that is typical of right-wing populist filter
+      bubbles, and the associated discrediting of postcolonial subjectivities (e.g., “asylum
+      seekers”who“alsomakeclaims”),arenotevidenceofindifferencetouniversaltruth(see
+      Brown 2018: 70). Rather, it is exactly the act of denial that reveals the enduring
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+      60                           Philosophy and Social Criticism 50(1)
+                                                             
+                                                             
+      importanceoftruthclaimsforasocializationbasedonintersubjectiveunderstanding,to
+      which there is no alternative even for the most isolated bubbles.
+        But the formerly self-evident truths that are re-established in these bubbles through
+      discourseavoidancecanonlybeupheldinanawarenessoftheirinvalidity.Thisisatleast
+      thecaseiftheresymbolizingactivityofsubalterncounterpublicsremainscombativeand
+      intrusive, thereby ensuring that the articulation of contradiction remains virulent. From
+      theHabermasianperspective adoptedhere, this awareness becomesa practical problem
+      fortheactorssituatedinthebubblesthemselves.Withthedifficult-to-suppressinsightinto
+      one’sowninabilitytoengageindiscourse,theconsensualcontentsthatweresupposedto
+      besecuredbyretreatingintothebubblealsolosetheirauthorityandbindingforce,with
+      theresultthatthebubbleitselfbeginstodisintegrate.Themoreconfidenceinone’sability
+      to engage in discourse collapses, the more cynicism spreads inside the bubble, under-
+      miningthebindingforceofcommunicativeaction.Inthisway,theevermoredesperately
+      affirmed group cohesion increasingly assumes the form of a “racket”11 that can find its
+      fragileunityintheendonlyincontingentlyconvergingparticularinterests.Inthissense,
+      the reactive attempt to withdraw into a defensive posture is a precarious condition that
+      points beyond itself and is difficult to sustain in the long run.
+        The persistenceofattitudes inspecificmilieus may castdoubtsonsuchadrastically
+      exaggeratedtheoreticalconclusion.Butthetenacityofright-wingpopulistattitudesthatis
+      certainly apparent in many cases should not be misinterpreted as evidence of relatively
+      self-enclosedculturalidentitiesthatareimpervioustocriticism.12Ithasmoretodowith
+      thefactthatanimportantpreconditionforthecrisispronenessoffilterbubblesisoftennot
+      met.The reactive defensemechanism canbesustained andnormalizedif theother side
+      actsinamirror-imagewaybydefensivelywithdrawingintoitssafespaces.Safespaces
+      areanessentialprerequisiteforthesubalternpracticeofresymbolization.Thediscourse-
+      expanding power of this practice dries up, however, when it no longer engages con-
+      frontationally with its social counterpart, but remains within its own safe space. This is
+      occurringinmany“left-liberal”contextstoday,aphenomenonthatiscertainlyconnected
+      with understandable symptoms of fatigue. But this currently popular move of avoiding
+      conflict means that the manifest inability of right-wing filter bubbles to engage in dis-
+      coursedoesnotitselfbecomeaconcreteexperienceforthoseinthesebubblesthatwould
+      underminetheirownself-understanding.Thisinturnmeansthatlargesectionsofsociety
+      canremaincomfortablyensconcedintheirnarrow-mindedness.Toavoidthis,itisindeed
+      necessaryto“speakwiththoseontheRight.”Thisapproachinthepoliticsofdiscourse
+      alreadycameupfordiscussionacoupleofyearsago(seeLeoetal.2017).However,the
+      orientationtowardreachingunderstanding[Versta¨ndigung]inherentinspeakingwithone
+      another tended to be misinterpreted as preemptive understanding [Versta¨ndnis] of the
+      seemingly “legitimate concerns” of “ordinary people” and, in response, was rightly
+      rejected by left-liberal activists.13 But the orientation toward reaching mutual under-
+      standingcanalsobeunderstoodinadifferentway—namely,asthesubversiveimposition
+      ofadiscoursesituationwithright-wingcounterpublics,inwhichthelatterarepersistently
+      besieged by the contradictions that destroy their obsolete pseudo-consensus.
+        Translated by Ciaran Cronin                          
+                                                             
+
+[PAGE 19]
+                                                             
+                                                             
+      Kempf                                          61      
+                                                             
+                                                             
+                                                             
+      ORCID iD                                               
+      Victor Kempfhttps://orcid.org/0000-0002-3735-9944     
+                                                             
+      Notes                                                  
+       1. TheSpectatorwasadailyjournalpublishedintheUnitedKingdombetween1711and1712.
+         Warnerregardsitasacentraljournalisticactorinthenascentbourgeoispublicspherethatwas
+         able to decisivelyshape itsspecificculture of discussion (ibid.: 98ff.).
+       2. Habermas develops a typology of different validity claims. He distinguishes between truth
+         claimsthatrefertothe“objectiveworld”andclaimstorightnessthatrefertoa“socialworld”of
+         intersubjectiveandnormativelyimbuedrelations.Inaddition,thereareclaimstoauthenticity
+         thatreferbacktothe“subjectiveworld”ofinnerexperience(seeHabermas1984:15–22).Itis
+         crucialforHabermasthatsocietyreproducesitselfessentiallythroughprocessesofraisingand
+         recognizing suchvalidity claims.                    
+       3. SeeWittgenstein’sargumentagainstthepossibilityofprivatelanguages:Wittgenstein2009:
+         §§243–315; Habermas 1995: 65f.                      
+       4. SeealsoEley1992;Calhoun2010ontheexclusionofproletariansubjectsfromthebourgeois
+         public spherein theearly 19th century.              
+       5. AtonepointWarneralsostatesthatthemotivationunderlyingtheexclusionoftheShe-Rompsisthe
+         Spectator’s“malefear”(ibid.:110).However,itisstrikingthathequicklylosessightofthispolitical-
+         socialmotivationandfocusesexclusivelyontheaestheticlevelofdifferent,seeminglyincompatible
+         styleswhenhetriestoexplainthesupposedlyconstitutiveexclusivityofthebourgeoispublicsphere.
+       6. Oneandthesamesubject,understoodasthepersonalanduniquelyidentifiableagent,canhave
+         orassumedifferent“subjectivities”withdifferentpolitical,ethical,andculturalconstitutions.
+       7. Interestingly,Habermasdeclarestheviewthathestilltookinhisearlyworkonsystematically
+         distorting barriers tocommunicative actionimmanent tothe lifeworld tobeoutdated.In his
+         Theory of Communicative Action, he argues that modernity has witnessed a momentous
+         “rationalizationofthelifeworld”(Habermas1987:86),whichcanbeseeninparticularinthe
+         shattering of religious worldviews in the course of the Enlightenment and the subsequent
+         differentiation of autonomous “expert cultures.” Emancipated from the claims, reservations,
+         andlimitationsofaholisticpointofview,these“expertcultures”begantoreflectonthetrue,the
+         beautiful,andthegoodindependentlyandthuswithoutreservation(cf.ibid.:195ff.).According
+         to Habermas, this advance in rationalization ensures that ideological validity claims, that is,
+         claimsthatcannotactuallyberedeemeddiscursively,cannolongerhidebehindthe“authority
+         oftheholy”(ibid.:77),bywhichtheywereforalongtimesuccessfullyimmunizedagainst
+         contradiction(ibid.:77f.,196).Theauthorityoftheholycouldstillactasagenuinebarrierto
+         communication,insofarasitmadethe“godless”criticismofhereticsappeartobebeyondthe
+         paleofwhatcouldbeseriouslyentertained(cf.Habermas1996:23f.;Habermas1987:194).
+         Withthedisappearanceofthisauthority,however,communicativeactionisfreedfromreligious
+         restrictionstosuchanextentthatitcanbecomeatopicofdiscourseanywhereandwithoutrisk
+         ofexcommunication(cf.Habermas1996:25;Habermas1987:196).ForHabermas,thisfinding
+         informedbyatheoryofprogresspavesthewayforanoverlyidealizingviewofthemodern
+         lifeworld,whichhenceforthcanonlybecolonizedfromtheoutside,butcannotbedistortedby
+         internal barriers tocommunication (see ibid.).      
+                                                             
+
+[PAGE 20]
+                                                             
+                                                             
+                                                             
+      62                           Philosophy and Social Criticism 50(1)
+                                                             
+                                                             
+         Habermas’s phasing out of the concept of systematically distorted communication promptly
+         met with criticism. James Bohman (1986) insisted that—contrary to Habermas’s theory of
+         progress—barriers to communication constructed in the lifeworld continue to exist in mo-
+         dernity.Religioustaboosandthresholdsforthematizationmaybedisappearingbeforeoureyes;
+         atthesametime,newkindsofspecificallysecularbarrierstodiscourseareemerging(seeibid.:
+         348f.). Bohman argues that the differentiation of spheres of validity, which Habermas one-
+         sidedlyaffirmsasanadvanceinrationalization,canalsohavetheeffectofblockingdiscourse.
+         Thisisthecase,forexample,whentheappearanceofpureobjectivityattachingtoscientific
+         findingsmeansthattheirtacitnormative-politicalpremisescannolongerbequestioned(see
+         ibid.:342,350).Iwouldliketotakeupthiscriticismandaddthatitispreciselythesuccessful
+         rationalizationofthelifeworldthroughthedissolutionoftheauthorityoftheholythatreleasesa
+         “riskofdissension”(Habermas1996:25)ofnewproportions,whichismasterednotonlyby
+         transferringcertainprocessesofsocialreproductiontothefunctionalsystemsofthestateand
+         theeconomy,butalsobybarriersofcommunicationerectedinthelifeworld intheshapeof
+         thematic and social exclusions from the public sphere. The typical modern anti-feminism
+         experiencedbytheShe-Rompsisjustasmuchanexampleofthis(seeFederici2004)asthe
+         different varieties of “enlightened” racism (see Balibar and Wallerstein 1991) that wouldbe
+         thoroughly misunderstood asarchaic or pre-modernresidues.
+       8. Theconceptofsystematicallydistortedcommunicationisoftenmistakenlyunderstoodinthis
+         way(seeCelikates2015:161f.).But“systematic”doesnotmeanthesamethingas“systemic.”
+       9. Didier Eribon performs—practically and theoretically—acomparable movement of “return”
+         (Eribon2018;Eribon 2016:40–53; Kempf 2020).         
+      10. Onthepostfoundationalistlogicofthe“constitutiveoutside”ofdiscourse,seeMouffe2009:
+         21; LaclauandMouffe1985: 122–134.                   
+      11. Thisconcept,entertainedbutneveractuallytheorizedbyMaxHorkheimer,denotesaradically
+         de-normativized form of socialization sustained by amixture of opportunism, coercion, and
+         violence. The paradigm is that of the “gang.” For a more detailed account, see
+         Fuchshuber 2019.                                    
+      12. Inmyopinion,AndreasReckwitz’stalkofacurrentlyignited“culturalconflict”beingfought
+         outbetween“hypercultureandculturalessentialism”(Reckwitz2021:24ff.;cf.Reckwitz2020)
+         tends toward such a view. To be sure, Reckwitz’s sociological analysis by no means essen-
+         tializesthecultural-essentialistmilieusoridentities(right-wingpopulism,conservatism…),but
+         situatesthemincomplexsociocultural,historical,andeconomiccontexts.Butatthesametime,
+         hedescribesthecultural-essentialistidentitiesthathaveevolvedinthiswayinrelativisticterms
+         asself-containedandthoroughlyparticularistichorizonsofvaluesandnormsthatstandover
+         againstauniversalistic“hyperculture”inanunmediated,andthusalsonormativelyimpervious,
+         way. The theoretical perspective proposed here, by contrast, suggests that these seemingly
+         particularistic identities would be better understood as themselves resting on universalistic
+         claimstotruth(tothisextent,thetypicalright-wingpopulistappealto“commonsense”should
+         betakenquiteseriously);itisthereactionarypreservationofthesetruthclaimsthatfirstleads
+         the corresponding identities into the paradoxical situation of self-isolation that tends to un-
+         dermine itself.                                     
+      13. SeethediscussionbetweenPerLeoandBenjaminMoldenhauerinLeoandMoldenhauer2019.
+                                                             
+
+[PAGE 21]
+                                                             
+                                                             
+      Kempf                                          63      
+                                                             
+                                                             
+                                                             
+      References                                             
+      Arendt, Hannah.1998. TheHumanCondition.2nded. Chicago:University of Chicago Press.
+      Balibar, Etienne, and Wallerstein, Immanuel. 1991. Race, Nation, Class: Ambiguous Identities.
+         LondonandNew York: Verso.                           
+      Bohman,JamesF.1986.“FormalPragmaticsandSocialCriticism:ThePhilosophyofLanguage
+         andtheCritiqueofIdeologyinHabermas’sTheoryofCommunicativeAction.”Philosophy
+         andSocialCriticism 11,no.4: 331–353.                
+      Brown, Wendy. 2018. “Neoliberalism’s Frankenstein: Authoritarian Freedom in Twenty-First
+         century ‘democracies.” Critical Times 1, no. 1: 60–79. last accessed 3.7.2023. doi:10.
+         1215/26410478-1.1.60                                
+      Biskamp, Floris. 2016. Orientalismus und demokratische O¨ffentlichkeit. Antimuslimischer Ras-
+         sismus aus Sichtpostkolonialer undneuerer kritischer Theorie. Bielefeld: Transcript.
+      Calhoun,Craig.2010.“ThePublicSphereintheFieldofPower.”SocialScienceHistory34,no.3:
+         301–335.                                            
+      Celikates, Robin. 2010. “Habermas – Sprache, Versta¨ndigung und sprachliche Gewalt.” In Phi-
+         losophiensprachlicherGewalt,editedbyHannesKuch,andKSteffenHerrmann,272–285.
+         Velbrück: Weilerswist.                              
+      Celikates,Robin.2015.“DigitalPublics,DigitalContestation.ANewStructuralTransformationof
+         the Public Sphere?” In Transformations of Democracy: Crisis, Protest and Legitimation,
+         editedbyRobinCelikates,ReginaKreide,andTiloWesche,159–175.Lanham,MY:Rowman
+         &Littlefield.                                       
+      Eley, Geoffrey. 1992. “Nations, Publics, and Political Culture: Placing Habermas in the 19th
+         Century.”InHabermasandthePublicSphere,editedbyCraigCalhoun,289–329.Cambridge,
+         MA:MITPress.                                        
+      Eribon,Didier.2018.Returning toReims.London:AllenLane. Translated byMichael Lucey.
+      Eribon,Didier.2016.Principes D’unePense´eCritique. Paris: Fayard.
+      Federici, Silvia. 2004. Caliban and the Witch: Women, the Body and Primitive Accumulation.
+         Brooklyn, NY:Autonomedia.                           
+      Fraser, Nancy. 1990. “Rethinking the Public Sphere: A Contribution to the Critique of Actually
+         Existing Democracy.”SocialText25/26: 56–80.         
+      Fuchshuber,Thorsten.2019.Rackets:Kritische Theorieder Bandenherrschaft.Freiburg:ÇaIra.
+      Habermas,Jürgen.1969.TechnikundWissenschaftals“Ideologie”.FrankfurtamMain:Suhrkamp.
+      Habermas,Jürgen.1970.“TechnologyandScienceas‘Ideology.”InTowardaRationalSociety:
+         StudentProtest,Science,andPolitics,editedby.JeremyJ.Shapiro,81–122.Boston:Beacon
+         Press.                                              
+      Habermas, Jürgen. 1971. Knowledge and Human Interests. Translated by Jeremy J. Shapiro.
+         Boston: Beacon Press.                               
+      Habermas,Jürgen.1973[1963].TheoryandPractice.TranslatedbyJohnViertel.Boston:Beacon
+         Press.                                              
+      Habermas,Jürgen.1973a.KulturundKritik:VerstreuteAufsa¨tze.FrankfurtamMain:Suhrkamp.
+      Habermas, Jürgen. 1973b. “What Does a Crisis Mean Today? Legitimation Problems in Late
+         Capitalism.”Social Research40,no. 4:39–64.          
+                                                             
+                                                             
+
+[PAGE 22]
+                                                             
+                                                             
+                                                             
+      64                           Philosophy and Social Criticism 50(1)
+                                                             
+                                                             
+      Habermas, Jürgen. 1980. “The Hermeneutic Claim to Universality.” In Contemporary Herme-
+         neutics:HermeneuticsasMethod,PhilosophyandCritique,editedbyJosefBleicher,181–211.
+         LondonandBoston: Routledge &Kegan Paul.             
+      Habermas, Jürgen. 1984. The Theory of Communicative Action. Vol. 1. Reason and the Ration-
+         alization of Society.Translated byThomasMcCarthy.Boston: Beacon Press.
+      Habermas,Jürgen.1987.TheTheoryofCommunicativeAction,Vol.2.LifeworldandSystem:A
+         Critique ofFunctionalist Reason.Translated byThomasMcCarthy.Boston: Beacon Press.
+      Habermas,Jürgen.1989.TheStructuralTransformationofthe PublicSphere:AnInquiryintoa
+         Category of Bourgeois Society. Translated by Thomas Burger and Frederick Lawrence.
+         Cambridge, MA:MITPress.                             
+      Habermas,Jürgen.1992.“FurtherReflectionsonthePublicSphere.”InHabermasandthePublic
+         Sphere, editedbyCraig Calhoun, 421–461.Cambridge, MA:MIT Press.
+      Habermas,Jürgen.1995.VorstudienundErga¨nzungenzurTheoriedeskommunikativenHandelns.
+         Frankfurtam Main: Suhrkamp.                         
+      Habermas,Jürgen.1996.BetweenFactsandNorms:ContributionstoaDiscourseTheoryofLaw
+         andDemocracy.Translated byWilliam Rehg.Cambridge, MA:MITPress.
+      Habermas, Jürgen. 2001. “Reflections on the Linguistic Foundation of Sociology: The Christian
+         GaussLecture.”InOnthePragmaticsofSocialInteraction:PreliminaryStudiesintheTheory
+         ofCommunicative Action,edited byBarbaraFultner,1–104. Cambridge, MA:MITPress.
+      Habermas,Jürgen.2009.SprachtheoretischeGrundlegungderSoziologie.PhilosophischeTexte:
+         Studienausgabe, Band1.Frankfurt am Main:Suhrkamp.   
+      Habermas,Jürgen.2023.“ReflectionsandConjecturesonaNewStructuralTransformationofthe
+         Public Sphere,” in Habermas, A New Structural Transformation of the Public Sphere and
+         Deliberative Democracy.Translated byCiaranCronin. Cambridge: Polity.
+      Habermas,Jürgen,andLuhmann,Niklas.1974.TheoriederGesellschaftoderSozialtechnologie–
+         Was leistet die Systemforschung?Frankfurt am Main:Suhrkamp.
+      Jaster,Romy,andLanius,David.2021.“WennWahrheitwertloswird:DemonstrativerBullshitin
+         derdigitalisiertenO¨ffentlichkeit.”InPolitischeBildungfürdiedigitaleO¨ffentlichkeit?edited
+         byManuel Hubacher,andMonika Waldis, 175–195. Berlin Springer.
+      Kempf, Victor. 2020. “Gescheiterte Rückkehr. Eribons Bildungsgeschichte kritischer Sub-
+         jektivita¨t.”Zeitschrift für philosophische Literatur8, no.1: 46–56.
+      Kempf, Victor. 2022. “Die No¨tigung zur O¨ffnung:‘Demokratische Iteration’, O¨ffentlichkeit und
+         praktischeNotwendigkeit.”ZeitschriftfürpraktischePhilosophie9(1):41–76.lastaccessedon
+         9.11.2022.doi:10.22613/zfpp/9.1.2                   
+      Koster, Ann-Kathrin. 2020. “Im Zeichen des Hashtags: Demokratische Praktiken Unter Algo-
+         rithmisierten Bedingungen.” In Digitale Transformationen der Gegenwart, edited by
+         Jan-Philipp Kruse,andSabineMüller-Mall, 103–122.Velbrück: Weilerswist.
+      Laclau,Ernesto,andMouffe,Chantal.1985.HegemonyandSocialistStrategy:TowardaRadical
+         Democratic Politics.London: Verso.                  
+      Leo,Per,andBenjamin,Moldenhauer.2019.“WennNicht-RechtemitRechtenreden.EinInterview
+         mitdem Schriftsteller undHistoriker PerLeo,”in Zeit Magazin.Dec/Jan 19/20,4–6.
+      Leo,Per,Maximilian,Steinbeis,andDaniel-Pascal,Zorn.2017.MitRechtenreden:EinLeitfaden.
+         Stuttgart: Klett-Cotta.                             
+                                                             
+
+[PAGE 23]
+                                                             
+                                                             
+      Kempf                                          65      
+                                                             
+                                                             
+                                                             
+      Lorenzer,Alfred.2000.Sprachzersto¨rungundRekonstruktion:VorarbeitenzueinerMetatheorie
+         der Psychoanalyse.Frankfurt amMain: Suhrkamp.       
+      Mouffe, Chantal.2009. TheDemocratic Paradox. London:Verso.
+      Norris,Pippa.2021.“CancelCulture:MythorReality?”PoliticalStudies71:1–20.lastaccessedon
+         9.11.2022.doi:10.1177/00323217211037023             
+      Reckwitz, Andreas. 2020. The Society of Singularities. Translated by Valentine A. Pakis. Cam-
+         bridge,UK: Polity.                                  
+      Reckwitz,Andreas.2021.TheEndofIllusions:Politics,Economy,andCultureinLateModernity.
+         Translated byValentine A.Pakis. Cambridge, UK: Polity.
+      Rocha,Camila,andMedeiros,Jonas.2021.“JairBolsonaroandtheDominantCounterpublicity.”
+         BrazilianPoliticalscienceReview15,no.3:1–20.lastaccessedon9.11.2022.doi:10.1590/
+         1981-3821202100030004                               
+      Rosa, Hartmut. 2022. “Social Media Filters and Resonances: Democracy and the Contemporary
+         Public Sphere.”Theory,Culture& Society 39,no.4: 17–35.
+      Spivak, Gayatri Chakravorty. 1985. “The Rani of Sirmur: An Essay in Reading the Archives.”
+         History andTheory24, no.3: 247–272.last accessedon9.11.2022.doi:10.2307/2505169
+      Stegemann, Bernd. 2021.DieO¨ffentlichkeit undihreFeinde.Stuttgart: Klett-Cotta.
+      Taylor, Charles. 1985. “Legitimation Crisis?” in Philosophy and the Human Sciences. Philo-
+         sophical Papers2.Cambridge: CambridgeUniversity Press, 248–288.
+      Warner,Michael. 2005.PublicsandCounterpublics.NewYork,NY: Zone Books.
+      Wittgenstein,Ludwig.2009.PhilosophischeUntersuchungen=PhilosophicalInvestigations.Rev.
+         4thed.TranslatedbyG.E.M.Anscombe,P.M.S.HackerandJoachimSchulte.Chichester,
+         WestSussexandMalden, MA:Wiley-Blackwell.            
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             

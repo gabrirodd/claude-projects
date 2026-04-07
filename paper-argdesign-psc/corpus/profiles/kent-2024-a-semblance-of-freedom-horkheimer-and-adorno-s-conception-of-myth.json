@@ -1,0 +1,74 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "kent_2024",
+  "title": "A Semblance of Freedom: Horkheimer and Adorno's Conception of Myth",
+  "author": "Kent",
+  "year": 2024,
+  "journal": "Philosophy and Social Criticism",
+
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "The standard pessimistic reading of Dialectic of Enlightenment holds that reason is fully ensnared within the domination of myth, with no exit. Kent opens by diagnosing this as a misreading that misses a key dimension of Horkheimer and Adorno's argument: the possibility of liberation from myth's heteronomy via critique of myth itself. Hulatt's reinterpretation of mimesis is introduced as the key to unlocking this dimension.",
+    "anchored_in": ["Horkheimer", "Adorno", "Hulatt", "Freud"],
+    "stakes_claimed": "Myth, understood through its linguistic mediation of human experience, is not only a form of heteronomy but also an 'incomplete but largely untapped mediator of the history of human experience' — a resource for rational self-knowledge and thus for renewed enlightenment."
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["pessimistic readers of Dialectic of Enlightenment (totalistic critique of reason)", "Freudian reading (magic and myth as primitive irrationality)"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": true,
+    "own_position_type": "reconstruction",
+    "own_position_explicit": true,
+    "description": "The paper performs immanent critique of the standard pessimistic reading of Horkheimer and Adorno by showing that the very text that grounds this reading contains a counter-dimension. Using Hulatt's reinterpretation of Adorno's mimesis theory (tri-partite conflict between reason, self-preservation, and mimesis), Kent argues that myth's linguistic deposit of human experience enables a critique of domination from within. The paper thus reconstructs an immanent emancipatory potential in Dialectic of Enlightenment."
+  },
+
+  "epistemic_mode": {
+    "primary": "purely_interpretive_hermeneutic",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": "Close reading of Dialectic of Enlightenment (Horkheimer and Adorno) through the lens of Hulatt's reconstruction of Adorno's mimesis theory. Philological comparison of key passages. Secondary engagement with Caillois, Mauss, Freud on myth and mimesis.",
+    "data_sources": ["Horkheimer and Adorno, Dialectic of Enlightenment", "Hulatt, 'Reason, Mimesis, and Self-Preservation in Adorno'", "Odyssey (Horkheimer/Adorno's reading)"],
+    "interpretive_methods": "Genealogical reconstruction: traces the argument of Dialectic of Enlightenment regarding myth-mimesis-language nexus; uses Hulatt as corrective lens for standard reading; builds from this to a positive account of myth's cognitive-critical potential.",
+    "notes": "This paper has no explicit normative conclusion about what ought to be done in the present — it reconstructs a theoretical position within Horkheimer and Adorno's text. The normative implication (enlightenment remains possible via myth critique) is drawn out but not programmatically stated. This makes it purely_interpretive_hermeneutic rather than normative_with_interpretive_case. Unlike kastrinakis_2024 (which asks whether Nietzsche is an 'originator' of Adorno), this paper uses interpretation to rescue an emancipatory potential — but stops short of deriving a normative claim for the present. Closest to the Dialectic of Enlightenment exegesis tradition."
+  },
+
+  "case_type": {
+    "has_case": false,
+    "case_medium": null,
+    "case_name": null,
+    "case_function": null,
+    "case_relation_to_argument": null,
+    "case_selection_justified": false
+  },
+
+  "normative_stake": {
+    "level": "medium",
+    "domain": "Frankfurt School / critical theory / enlightenment / myth",
+    "claim_type": "reconstructive_descriptive",
+    "closure_type": "conclusion_open"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "immanent_critique",
+    "framework_proposal",
+    "case_development",
+    "normative_derivation",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["mimesis", "self-preservation", "myth as linguistic repository", "domination", "semblance of freedom", "rational self-knowledge", "Dialectic of Enlightenment"],
+
+  "thinkers_deployed": {
+    "central": ["Horkheimer", "Adorno", "Hulatt"],
+    "engaged_critically": ["pessimistic readers of DiE", "Freud (as read by Horkheimer/Adorno)"],
+    "referenced_only": ["Caillois", "Mauss", "Benjamin", "Wittgenstein (Frankfurt/analytic connection)", "Habermas", "Jay"]
+  },
+
+  "confidence_notes": "Kent's paper is classified purely_interpretive_hermeneutic because the entire argument concerns the correct reading of Horkheimer and Adorno's Dialectic of Enlightenment. There is no contemporary normative application or programmatic conclusion. The stakes remain within textual-philosophical interpretation. The move_sequence includes normative_derivation because Kent does derive a positive thesis about myth's emancipatory potential — but this derives from text-internal analysis, not from a normative argument about the present. This distinguishes it from giannakakis_2026 (which uses Adorno interpretively to ground a normative claim about withdrawal and critical culture)."
+}

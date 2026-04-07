@@ -1,0 +1,1299 @@
+[PAGE 1]
+                                                             
+                                                             
+                                                             
+                                                             
+      Article                                                
+                                                             
+                                         PhilosophyandSocialCriticism
+                                         2025,Vol.51(8)1333–1357
+      The  historicisation of the                            
+                                         ©TheAuthor(s)2023   
+      human   senses from  Feuerbach                         
+                                         Articlereuseguidelines:
+      to Marx                            sagepub.com/journals-permissions
+                                         DOI:10.1177/01914537231219924
+                                         journals.sagepub.com/home/psc
+      Robert Engelman                                       
+      VanderbiltUniversity,USA                               
+                                                             
+      Abstract                                               
+      This paper identifies and articulates a historicist turn in theorising the human senses
+      initiatedbyFeuerbachandMarx.Bothphilosophersretaintheirpredecessors’viewthat
+      human needs determine human senses, but they identify historical contingencies of
+      humanneedsthattheytreatasintroducinghistoricalcontingencyintothecharacterof
+      thehumansenses.InaccountingforFeuerbach’sandMarx’srespectivehistoricisations
+      of the human senses, this paper challenges some commonplace ideas expressed by
+      HonnethandJoasaboutGermanphilosophicalanthropologyingeneralaswellas,more
+      specifically,Marx’scritiqueofFeuerbachandthephilosophical-anthropologicallegacyof
+      Marxian thought.                                       
+                                                             
+      Keywords                                               
+      Feuerbach, Marx, philosophical anthropology, critical theory, historicism, 19th century
+      philosophy, sensibility, need                          
+                                                             
+                                                             
+                                                             
+      Introduction                                           
+      Humanbeingshavetraditionallyplacedourselvesbetweengodsandanimals,treatingthe
+      intellect as human nature’s divine, higher part and the senses as its animal, lower part.
+      Accordingly, many philosophers have regarded human sensibility or the human senses
+      (likeFeuerbachandMarx,Iuse‘thesenses’and‘sensibility’synonymouslyhere)1asa
+      merely animal component of human beings, holding that even if the human senses are
+      different from other life forms’, they are ultimately nothing more than natural endow-
+      ments, nothing we could meaningfully change. Call this the ‘mere animality charge’.
+                                                             
+      Correspondingauthor:                                   
+      RobertEngelman,VanderbiltUniversity,111FurmanHall,Nashville,TN37240-0002,USA.
+      Email:robert.j.engelman@vanderbilt.edu                 
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+      1334                         Philosophy and Social Criticism 51(8)
+                                                             
+                                                             
+      Traditionally,inaccordancewiththehierarchicalintellect–sensesdualism,thischargeis
+      accompaniedbyadenigrationofthesensesasconfusing,misleading,ordistracting,anda
+      call to overcome or liberate ourselves from them with our intellect accordingly.2
+        Thishistoricallycommonplacedenigrationbindstogetherarangeofotherwisedistinct
+      philosophicalpositions,likePlatonicrationalismandmodernscepticism,tosaynothing
+      of religious ones. By contrast, even while maintaining the mere animality charge, the
+      German tradition as represented byfigures including Kant, Herder, and Hegel hasbeen
+      lessconcernedaboutthesensesconfusing,misleading,ordistractingusthanwithsimply
+      addressing the issue of what determines a life form’s senses. Notably, members of this
+      tradition agree that a life form’s senses are determined by its ‘instinct[s]’,3 or more
+      specifically, by what Kant calls its ‘immediately sensed needs’4 or what Marx charac-
+      terisesasneedswhosesatisfactioncontributestosatisfying‘theneedtomaintain[alife
+      form’s] physical existence’.5 (For simplicity, I use Deranty’s ‘life-needs’ hereafter.)6 A
+      life form’s senses are thereby understood as capacities or ‘forces of representation’
+      determined by that life form’s life-needs to help that life form satisfy the latter.7
+        These figures likewise exhibit common ground on the issue of what determines the
+      humansensesanddifferentiatesthemfromotherlifeforms’:Whilelife-needsdetermine
+      their corresponding life form’s senses, because human beings are not so strongly de-
+      terminedbyourlife-needs,thehumansensesarelessacuteandlessspecialisedthanother
+      lifeforms’,butbecausetheyarelesstiedtolife-needs,thehumansensesandbyextension
+      humanbeingsarefreerfromthehumanbeing’s‘systemofinstincts’thanotherlifeforms
+      and their senses are from theirs.8 Moreover, although they offer somewhat distinct
+      explanationsforthiscommonlydrawndistinction–Kantappealstohumanbeings’ability
+      to turn away from the sensuous with the intellect,9 Herder to the diversity of human
+      beings’ ‘sphere of needs’,10 and Hegel to the diverse ways in which human beings can
+      satisfy our needs11 – they all explain the human senses’ distinctively liberated, un-
+      specialisedcharacterasafunctionofhumanneeds’radicalopen-endedness,whichthey
+      understand in accordance with the mere animality change. Perhaps all animals, for
+      example, experience hunger as a life-need, but because human beings can suppress or
+      ignoreourhunger(Kant)orsatisfyourhungerwithabroadrangeofobjects(Herder)orin
+      a variety of ways (Hegel), hunger does not determine our senses as strongly as it does
+      otherlifeforms’.Areptilianobligatecarnivorelikeasnakeseesininfrared,andthis‘force
+      ofrepresentation’helpsitdetectandcatchpreyandtherebysatisfyitshunger,buthuman
+      beingsdonotseeininfrared,because–inthiswayofthinking–ourhungerisopen-ended
+      in a way that does not require infrared vision for its satisfaction. Our open-ended life-
+      needs,includingouropen-endedhunger,determineoursensesinawaythatunbindsthem
+      from life-needs rather than specialises them to satisfy life-needs.
+        My aim here is to locate and articulate a break with theorising the determinants of
+      humansensibilityinaccordancewiththemereanimalitychargeinFeuerbachandMarx.
+      This break maintains the logic on which life-needs determine sensibility, but shifts to
+      considering how human needs have historical features that in turn historicise human
+      sensibility, rendering the human senses partly contingent upon conditions within the
+      scope of human agency, thereby challenging the mere animality charge. Further, in
+      articulating this historicist line in Feuerbach and Marx, I challenge three claims in
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+      Engelman                                      1335     
+                                                             
+                                                             
+      Honneth and Joas’s Human Nature and Social Action. First, while Honneth and Joas
+      describephilosophicalanthropologyas‘anenquiryintotheunchangingpreconditionsof
+      humanchangeableness’,Feuerbach’sandMarx’sphilosophicalanthropologieshistoricise
+      and thus render changeable, even if within some naturalistically-fixed parameters, the
+      preconditionsofhumansensibility–namely,needs–inawaythatbearsuponthelatter’s
+      changeability.12 Second, while they characterise Marx as offering ‘a historicisation of
+      Feuerbach’s anthropological materialism’, the latter is already historical.13 Third, while
+      theyclaimthat‘intheMarxisttradition,thequestionofwhatlatitudethehumanbeing’s
+      organicendowmentallowstotheculturalandhistoricalshapingofhumanneedshastoa
+      largedegreeremainedunanswered’,thelineinFeuerbachandMarxtracedhereaddresses
+      thisissuebyundertaking‘aCritiqueoftheSenses’aimedatilluminatingthedeterminants
+      ofhumansensibilityto,inturn,identifyitspossibilities,thegroundsofitsactuality,and,
+      particularly since Marx – for reasons to be appreciated vis-a`-vis his critique of
+      Feuerbach – the potential for human sensibility to recursively transform human needs
+      historically.14                                        
+        HonnethandJoas’scriticalhistoryofphilosophicalanthropologyinthe19thand20th
+      centuriesaimstoilluminatethesystematicrolesthatanthropologymayplayinmediating
+      the relationship between social theory and praxis.15 Although they discuss the idea of
+      ‘historical anthropology’ as an important addendum to the history of philosophical
+      anthropology in light of its ability to further concretise anthropology’s social-theoretic
+      andpracticalsignificance,theycontrasthistoricalwithphilosophicalanthropologywhile
+      treatingtheformerprimarilyasacritiqueofanthropologythatemergedinpostwar20th
+      century thought.16 Honneth and Joas make a strong case for the systematic role of
+      anthropology mediating social theory and praxis, and are right to affirm that ‘a his-
+      toricisationofanthropologyhardlyrequireslengthyjustification’.17Butbyoverlooking
+      boththehistoricismofphilosophicalanthropologyatthebeginningoftheirownhistorical
+      narrative, in Feuerbach and Marx, with respect to the ‘conditions of human change-
+      ableness’ and the critical purposes of this historicist philosophical anthropology, they
+      insufficiently attend to the historical and critical potential internal to philosophical an-
+      thropologypriortothe20thcenturyhistoricistcritiquestheydiscuss.Bysheddinglighton
+      Feuerbach’sandMarx’srespectivehistoricistphilosophicalanthropologies,then,Ilookto
+      improveourunderstandingofthehistoryofphilosophicalanthropologyandthecritical,
+      historicist elements contained within it.              
+        Section1accountsforFeuerbach’stransformationofthetraditionalunderstandingof
+      human sensibility and his attendant introduction of historicalcontingency into human
+      sensibility. Section 2 clarifies how Marx’s critiques of and innovations upon Feuer-
+      bach’saccountstemfromhisemphasisonthepractical.18Section3thenmovessquarely
+      toMarx’sownaccountofthehistoricityofhumansensibility.Thepaperconcludesby
+      further challenging Honneth and Joas’s first and third claims by gesturing toward
+      continuations of Feuerbach and Marx’s historicist approach to human sensibility by
+      Simmel, Benjamin, and Adorno.                          
+                                                             
+                                                             
+                                                             
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+      1336                         Philosophy and Social Criticism 51(8)
+                                                             
+                                                             
+      I. Feuerbach’s historicisation of human sensibility    
+      Thetraditionaldualismbetweentheintellector‘thinkingego’ashumannature’sdivine
+      componentandthesensuousasitsanimalcomponentmarksakeymetaphysicalsourceof
+      thelikewisetraditionalclaimthatpursuingthehighestgoods–truth,goodness,beauty–
+      requires human beings to turn to the intellect and overcome the senses.19 Feuerbach
+      invertsthispictureinthreebasicsteps.First,heassertsthatsensuousness(Sinnlichkeit)–
+      not logos or intellectual form – is ‘the principle of life’, in direct opposition to the
+      traditional Christo-Platonic dualistic hierarchy that denigrates the sensuous as vulgar.20
+      Second,Feuerbachrejectsthesensibility–intellectdualismitself,treatingthesensuousas
+      essential to thought (thus characterising his thought as a form of ‘empiricism’)21 and,
+      morefamously,thedivineasamereabstract‘projection’.22ThusforFeuerbach,thereis
+      nodivine–naturaldualisminhumannature,suchthatprotanto,theintellectmustbeno
+      differentfromthesenses.23Butfurther,third,becauseFeuerbachcriticisestheabstractas
+      mereprojectionratherthan,asinthetraditionalPlatonicview,morerealandtruethanthe
+      sensible,hethinksthatweshouldintellectuallyembraceratherthanseektoovercomethe
+      sensuous.AsFeuerbach putsit,‘true,objectivephilosophy’isonlypossible‘outofthe
+      negationof[pure]thought,outofbeingdeterminedbytheobject’,andbecausetheobject
+      isgiventousviathesenses,thisrequiresustoforegroundthesenses,orthesensuous,in
+      philosophy.24Byclaimingthatphilosophymustbedeterminedbytheobjectandthuslead
+      with the senses, Feuerbach looks to make ‘anthropology, together with physiology, the
+      universal science’, or to make anthropology first philosophy so that philosophy can
+      illuminate the human condition without the distortions of theology and mentalistic
+      abstraction.25                                         
+        Given the general notion that needs determine sensibility, Honneth and Joas make a
+      crucial point for understanding Feuerbach’s historicisation of human sensibility:
+      Feuerbach radically reconceptualises the intellect or ‘thinking ego’ as ‘a corporeal ego
+      endowed with needs’.26 The foregoing supports their point: As corporealised via
+      Feuerbach’scritique,thoughtisfinite,lacks,andtherebyneeds,anideaimplicitlyvoiced
+      in Feuerbach’s ‘preponderance of the object’ thesis just noted, to borrow Adorno’s
+      phrase.27Becausethinkingisneedyinthisway,itsfreedomanduniversalityrestuponits
+      sensuousconnectionwithobjects.Accordingly,forFeuerbach,intellectinitstraditionally
+      freeanduniversalstandingisnotseparatefromthesenses,butisitself‘universalsense’:It
+      is both predicated and dependent upon the freedom of the human senses.28
+        Feuerbach’snaturalisationoftheintellectandvalorisationofhumansensibilityforthe
+      intellect emphatically returns us to the questions noted above concerning how and in
+      virtue of what human beings’ senses differ from non-human animals’. Feuerbach ad-
+      dressesthesequestionsinawaythatbothjoinswithandbreaksfromhispredecessorsin
+      the German tradition:                                  
+        The senses of the animal are certainly keener than those of man, but they are so only in
+        relationtocertainthingsthatarenecessarilylinkedwiththeneedsoftheanimal;andtheyare
+        keener precisely because of the determination that they are limited by being exclusively
+        directedtowardssomedefiniteobjects.Mandoesnotpossessthesenseofsmellofahunting
+                                                             
+                                                             
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+      Engelman                                      1337     
+                                                             
+                                                             
+        dogoraraven,butbecausehissenseofsmellencompassesallkindsofsmell,itisfreeand
+        also indifferent to particular smells. But where a sense is elevated above the limits of
+        particularity and above being tied down to needs, it is elevated to an independent, to a
+        theoreticalsignificanceanddignity—universalsenseisintellect,anduniversalsensuousness
+        isintellectuality.Eventhelowestsenses—smellandtaste—areelevatedinmantointellectual
+        andscientificactivities.Thesmellandtasteofthingsareobjectsofnaturalscience.Indeed,
+        eventhestomachofman,nomatterhowcontemptuouslywelookdownuponit,issomething
+        humanandnotanimalbecauseitisuniversal;thatis,notlimitedtocertainkindsoffood.That
+        iswhymanisfreefromthatferociousvoracitywithwhichtheanimalhurlsitselfonitsprey.
+        Leaveamanhishead,butgivehimthestomachofalionorahorse,andhewillcertainly
+        ceasetobeaman.Alimitedstomachiscompatibleonlywithalimited,thatis,animalsense.
+        Man’smoralandrationalrelationshiptohisstomachconsiststhereforeinhisaccordingita
+        human and not a beastly treatment. He who thinks that what is important to mankind is
+        stomach, and that stomach is something animal, also authorizes man to be bestial in his
+        eating.29                                            
+        Ontheonehand,Feuerbach’spositiononhowthehumansensesdifferfromotherlife
+      forms’isessentiallyanelaboratedformofhispredecessors’:Whilelife-needsdetermine
+      sensibility,humanbeings’life-needsareradicallyopen-ended,suchthathumansensesare
+      generallyminimallydeterminedorlimitedbyneed,andaretherebyliberated.However,
+      asdiscussed,Feuerbachtreatsthinkingasneedyinawaythatcallsuponthehumansenses
+      toplayanimportantroleinthought.Indeed,asFeuerbachindicatesviacounterfactual,the
+      human senses’ freedom with respect to life-needs makes possible our engagement in
+      intellectual activity and thus allows our senses to be directed toward satisfying what
+      Feuerbach,invirtueofhisnaturalisationoftheintellectjustdiscussed,fittinglycalls‘the
+      need of the head’.30                                   
+        Feuerbach’s historicism about the human senses emerges from his view that human
+      sensibility is not only determined-but-in-fact-liberated by human life-needs, but is also
+      determined by ‘the need of the head’. Feuerbach characterises the need of the head as
+      ‘thought’,butwhatismeantbythis,andwhatrendersthoughthistoricallycontingentin
+      suchawaythata‘needofthehead’coulddeterminehumansensibilityhistorically?31To
+      understandFeuerbach’sviewhere,itservestoturntoapassagefromhisPrinciplesofthe
+      PhilosophyoftheFuture,wherehedifferentiatesthesensesofmedievalsandmodernsas
+      a function of doxastically-informed differences in their ‘interests’:
+        Tobeinterestedinsomethingistohavethetalentforit.Themedievalmysticsandscholastics
+        hadnotalentandaptitudefornaturalscienceonlybecausetheyhadnointerestinnature.
+        Wherethesense(Sinn)forsomethingisnotlacking,therealsothesenses(Sinne)andorgans
+        donotlack.Iftheheartisopentosomething,themindwillnotbeclosedtoit.Thus,the
+        reasonwhymankindinthemoderneralosttheorgansforthesupersensuousworldandits
+        secrets is because it also lost the sense (Sinn) for them together with the belief in them;
+        because its essential tendency was anti-Christian and anti-theological; that is, anthropo-
+        logical, cosmic,realistic, andmaterialistic.32       
+                                                             
+                                                             
+                                                             
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+      1338                         Philosophy and Social Criticism 51(8)
+                                                             
+                                                             
+      WhileFeuerbach’sappealto‘interest’heremayappearambiguousorobscure,itseemsapt
+      toreaditinautonomouslytheoreticalasopposedtopracticalorinstrumentalterms.Inthis
+      passage,Feuerbachexplainstheparticulardevelopmentofthesensibilityof‘mankindin
+      the modern era’ by appealing to the ‘essential tendency’ of that historically-indexed
+      collective,andthattendencyischaracterisedintermsthatoutlinebeliefsthatthetendency
+      supports, which are themselves historically variable. As such, Feuerbach’s way of ex-
+      plaining the difference he asserts to hold between medieval and modern sensibilities in-
+      volvesappealingtointellectualinterestshapedbyhistoricallyvariabledoxasticdifferences.
+      Accordingly, Feuerbach’s ‘need of the head’, roughly, is the need to understand, which
+      differs according to differences in interest differentiated by basic beliefs, and different
+      sensibilitiesdeveloptosatisfythesedifferentlydevelopedinstancesoftheneedofthehead.
+      AsFeuerbach’sdiscussionofthehumanstomachinrelationtothehumanheadsuggests,
+      theneedoftheheadassuchmayhaveabasisinhumannatureroughlycorrespondingto
+      Aristotle’sfamousassertionthat‘[all]humansbynaturedesiretoknow’,andthusmaynot
+      beentirelyhistoricallycontingent.33However,fromFeuerbach’sdiscussionofdifferences
+      between the respective senses of medieval mystics and modern naturalists, the need in-
+      volveshistoricalcontingencies,namely,doxasticallyshapedintellectualinterests,andthese
+      contingencies historicise the need of the head’s determination of the human senses.
+      II. Marx’s critique of Feuerbach’s philosophical anthropology
+      Honneth and Joas express the relatively common position that Marx both practicalises
+      and historicises Feuerbach’s philosophical anthropology.34 By establishing that Feuer-
+      bach’s philosophical anthropology has a historicist component regarding the human
+      senses,theforegoingdiscussionclearlychallengesthe‘historicisation’claim.35Mybasic
+      claim in this section, however, is that Marx’s emphasis on the practical – which cor-
+      responds to his discussion of what he calls the ‘chief defect’ of Feuerbach’s thought,
+      namely,thatFeuerbachiansensualism‘isconceivedonlyintheformoftheobjectorof
+      contemplation,butnotashumansensuousactivity,practice’,orlabour–liesattherootof
+      hiscritiquesofandinnovationsuponFeuerbach’sphilosophicalanthropology,thoughthe
+      innovationsaremoresquarelydiscussedinsection3.36Saidotherwise,Marxtakesissue
+      not with unqualified ahistoricism in Feuerbach, but with the fact that Feuerbachian
+      sensualism is confined to ‘the perception of natural science’, that is, to autonomous or
+      ‘contemplative’sense-perception,andfailstoconsider‘industryandcommerce’andtheir
+      relevance to both life-needs and intellectual pursuits.37
+        While Feuerbach’s philosophical anthropology, as clarified above, advances a his-
+      toricism about the human senses via Geistesgeschichte or perhaps, as Marx claims,
+      ‘religioushistory’,Marx’sphilosophicalanthropologyemphasisesthepractical,andmore
+      specifically,thehistoricityofthesocialconditionsthatmediatehumanbeings’satisfaction
+      of all of our needs, including life-needs, which Feuerbach seems to view, at least for
+      anthropologicalpurposes,asmerelyanimal.38Marxadvancesahistoricismwithrespect
+      tohumanlife-needs,claimingthat‘theproduction[...]aswellasthesatisfaction[...]of
+      theseneedsisahistoricalprocess,whichisnotfoundinthecaseofasheeporadog’.39As
+      such, Marx advances that the historical condition of human beings is not limited to the
+                                                             
+                                                             
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+      Engelman                                      1339     
+                                                             
+                                                             
+      geistig or the contemplative, as in Feuerbach’s account, but that it also pertains to life-
+      needs, which, as we will see in section 3 below, Marx treats as consequential for the
+      humansenses.Accordingly,thecoreandtruthofMarx’scritiqueisnotthatFeuerbach’s
+      philosophicalanthropologyisahistorical–indeed,Feuerbach’saccount,comparedtoits
+      predecessors, is radically historical – but that its historicism is restricted to the ‘con-
+      templative’.AnditisbywayofMarx’scritiqueofFeuerbachrootedinanemphasisupon
+      the practical, its historicity, and its relation to human life-needs that Marx radicalises
+      Feuerbach’shistoricismaboutthehumansensesbyintroducinganadditionaldeterminant
+      ofhumansensibilitythat,forMarx,introducesfurtherhistoricalcontingency:Thesocial
+      conditions in which human life-needs are shaped, concatenated, and satisfied.
+        To appreciate how Marx’s appeal to the practical is fundamental to his innovations
+      upon and radicalisation of Feuerbach’s view, it serves to recall that for Feuerbach, the
+      humansensesaretranshistoricallyliberatedbecauseournaturalconstitutionallowsusto
+      satisfyourlife-needsinaprofoundvarietyofways.Thisfreedom,forFeuerbach,allows
+      ustoengageincontemplation:‘Leaveamanhishead,butgivehimthestomachofalion
+      orahorse,andhewillcertainlyceasetobeaman.Alimitedstomachiscompatibleonly
+      withalimited,thatis,animalsense’.40Butonemightsuspect–asMarx’semphasisonthe
+      practicalultimatelyindicates–thatFeuerbachoverstatesourfreedomwithrespecttolife-
+      needs.ThisisnottodenyFeuerbach’sclaimsaboutournaturalconstitutionaltogether,but
+      toemphasisethatevenifournaturalconstitutionallowsus,protanto,tosatisfyourlife-
+      needs in a broad variety of ways, we do not directly access this variety in non-human
+      nature,butonlymediatelybywayofsocialformations.41Accordingly,satisfyingourlife-
+      needsrequiresustoengagenotsimplywithnon-humannature,butalsowithoursocial
+      formations. In other words, satisfying our life-needs is not simply a matter of what our
+      naturalconstitutionenablesustouseasmeansofsatisfaction,butalsoofparticipatingin
+      social formations through which the means of satisfying our life-needs are produced,
+      which Hegel aptly calls ‘the system of needs’.42       
+        For Marx, such mediation between us and our life-needs challenges Feuerbach’s
+      transhistorical,merelyanimalconstrualofthefreedomofthehumansensesintwosteps.
+      First,becausesocialformationschangehistoricallyandmediateourrelationstoourlife-
+      needs, they introduce historical contingency into human beings’ relations to our life-
+      needs.MarxisquiteclearinTheGermanIdeologythathistoricitygoesbeyond‘theneed
+      of the head’ to include life-needs: ‘life involves before everything else eating and
+      drinking,ahabitation,clothingandmanyotherthings.Thefirsthistoricalactisthusthe
+      production of the means to satisfy these needs’.43 Just as Feuerbach suggests that the
+      means of satisfying the need of the head are historically contingent, so too, Marx ad-
+      vances,arethoseofsatisfyinglife-needs.Second,byintroducinghistoricallycontingent
+      conditionsuponourabilitytosatisfyourlife-needs,naturalconstitutionnotwithstanding,
+      Marx’s appeal to social formations challenges the notion found in Feuerbach that the
+      humansensesareultimatelytranshistoricallyliberatedregardinglife-needs.Incapitalism,
+      for example, we must receive monetary income and be able to exchange with others to
+      satisfyourlife-needs;insuchconditions,ourabilitytosatisfyourlife-needsisnotsimply
+      afunctionofwhatournaturalconstitutionallowsustouseasmeansofsatisfaction,but
+      also of our income and access to markets. Importantly, these historically contingent
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+      1340                         Philosophy and Social Criticism 51(8)
+                                                             
+                                                             
+      conditions upon our ability to satisfy our life-needs can be limiting: While our natural
+      constitution may allow us to satisfy our life-needs with a broad variety of means, our
+      incomeandaccesstomarketsmightrenderuswithoutaccesstosuchavarietyofmeans
+      andthuslessfreewithrespecttolife-needsthanournaturalconstitutionwouldotherwise
+      makeus.Andbecause,forMarx,thesehistoricallycontingentlimitingconditionsareof
+      a collective rather than a merely individual human condition – akin to the scope of
+      historicalcontingencyinFeuerbach’saccount(namely,medievalmysticismandmodern
+      naturalism) – we can understand them as historically contingent features of the human
+      ‘species-being’ and thus as anthropologically significant.
+        Marx extends and breaks from both Feuerbach and their shared predecessors by
+      opposing their transhistorical, merely animal construal of the liberation of the human
+      sensesinthefollowingterms:‘“Liberation”isahistoricalandnotamentalact,anditis
+      broughtabout byhistoricalconditions,the[development] ofindustry,commerce, [agri]
+      culture,the[conditionsofintercourse]’,andthelike.44Ontheonehand,Marxtheorises
+      thehumansensesasdeterminedbylife-needs,suchthattheanthropologicalsignificance
+      ofthehistoricalmediationregardinghumanlife-needsjustdiscussedpertainsto,whatever
+      else,thehumansenses.Butontheotherhand,herejectsthetraditionalnotionthathuman
+      beingsshouldliberateourselvesfromoursensesbywayoftheintellect;however,hedoes
+      notdosoinaFeuerbachianwayofempiricismorasensualistconceptionofthoughtper
+      se–althoughhewascertainlysympatheticwiththelatter45–butratherbyinsistingthat
+      liberation with respect to the human senses is a matter of neither our transhistorical,
+      merely animal constitution nor any merely mental activity, but rather, as discussed in
+      section 3, ‘history [. . .] down to the present’.46 And in this way, Marx likewise breaks
+      fromFeuerbachinparticular,becauseforFeuerbach,thehistoricismofthehumansenses
+      pertainsonlytotheneedoftheheadandismadepossiblebythehumansenses’purported
+      transhistoricalliberationwithrespecttolife-needsingeneral.Marxconsidersthisposition
+      as effectively advancing that the senses are determined by the intellect, partly because,
+      in its autonomously contemplative character (which Marx rejects as ideological), the
+      intellect is in an important sense a product of itself, its need for sensuous objects
+      notwithstanding.47Ifliberationisneithertranshistoricalnormerelymentalortheoretical,
+      thenliberationvis-a`-visthehumansensesisneitheratranshistoricallygivenfeatureofthe
+      human condition nor a matter of intellectually overcoming the senses, contra both tra-
+      ditional philosophical ideas about liberation and the human senses discussed above.
+      Marx’suseofscare-quotesaround‘liberation’suggeststhatwhateverresultssimplyfrom
+      human beings’ natural constitution or intellectual activity cannot be liberation, which
+      must rather come about through practical, socio-material developments in history. In
+      section3wewillseethatMarxendorsesadouble-senseof‘liberation’withrespecttothe
+      human senses consistent with this practical, historical framing of liberation in general,
+      where‘theliberationofthehumansenses’refersbothtochangeundergonebythehuman
+      senses and to change effected, at least in part, by the human senses.
+        Marx’s objection to transhistorical and mentalistic construals of liberation and his
+      appealtosocialformations’mediationofourrelationstoourlife-needssuggestthatthe
+      human senses are more fundamentally historically determined and less transhistorically
+      freewithrespecttolife-needsthanFeuerbach’saccountindicates.Accordingly,forMarx,
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+      Engelman                                      1341     
+                                                             
+                                                             
+      Feuerbach’smerelymentalisticorcontemplativehistoricismaboutthehumansensesisto
+      bereplacedbyapracticalhistoricismaboutthehumansenses.48Thusalthoughdefenders
+      of Feuerbach like Deranty credit him with emphasising intersubjectivity and human
+      interdependence,theyconcedethetruthofpreciselywhatIhaveadvancedarethecentral
+      points of Marx’s criticism of Feuerbach regarding human sensibility, namely, that
+      ‘Feuerbachian“sensualism”isinsufficientlyhistoricisedandisnotsufficientlyembedded
+      insocialpractices(inparticular,thedivisionoflabour)’.49Morestrongly,thediscussion
+      aboveclarifiesthatforMarx,asonecouldpredictinlightofthetraditionallogicregarding
+      needsandsenses,Feuerbach’ssensualismisinsufficientlyhistoricisedpreciselybecause
+      it is insufficiently embedded in social practices, especially those involved in the satis-
+      faction of life-needs.                                 
+        It is in this practical, active sphere involving the satisfaction of life-needs that Marx
+      rightly charges Feuerbach, relatedly, with ‘[presupposing] an isolated – abstracted –
+      humanindividual’.50Accordingly,despiteFeuerbach’sthematisationofintersubjectivity
+      outside the context of material production and the role of Geistesgeschichte in Feuer-
+      bach’sphilosophicalanthropology,Schmidtrightlynotesthat‘Feuerbach’smandoesnot
+      emergeasanindependentproductiveforcebutremainsboundtopre-humannature’,toa
+      world that is not shaped by human labour.51 More to the point at hand, in light of both
+      Marx’s remark about the abstract individual and Schmidt’s interpretive point regarding
+      pre-human nature, Feuerbach’s way of accounting for human freedom regarding life-
+      needs problematically relies upon an implicit utopianism in which human beings, as in
+      Rousseau’s State ofNature,are encumbered byneithera sometimesrecalcitrant natural
+      world,inadequatemeansofproductiveinteractionwithnon-humannature,noranyform
+      of social organisation that would hinder our ability to satisfy our life-needs.52 Ac-
+      cordingly,withoutattendingtohumanbeings’practicallife,itshistoricity,anditsrelation
+      to life-needs, Feuerbach seems from a Marxian perspective to hypostatise as transhis-
+      torical features of human beings and human life – like altruism or cooperativeness, as
+      Honneth and Joas helpfully note – that are contingent upon historically-variable social
+      conditions.53Marx,wewillseeshortly,lookstoremedythisissuebyextendinghuman
+      sensuousness to practical activity with his concept of sensuous activity or labour
+      (sinnliche Ta¨tigkeit or Arbeit), which marks a basic, historically-variable point of in-
+      teraction between human needs and human senses. Although Marx concedes that
+      Feuerbachdemonstrates,againstRousseau’sStateofNature,‘that[humanbeings]need
+      andalwayshaveneededeachother’,thisdoesnotmeanthathumanbeingshaveeveror
+      alwayssatisfiedourlife-needscooperatively.54Indeed,aswewillseeshortly,Marxthinks
+      that selfishness and cooperativeness are historical determinations of human sensibility
+      contingent upon our socio-historically mediated life-needs.
+      III. Marx on the historicity of human sensibility      
+      In clarifying how Marx’s critique of Feuerbach’s philosophical anthropology emerges
+      fromhisemphasisuponthesocio-historicalnatureofhumanproductiveactivityandits
+      mediatingrelationtohumanlife-needs,wehavebrieflynotedMarx’sappealtosensuous
+      labouroractivityasaninnovationuponFeuerbach’smorerestrictedappealtosensuous
+                                                             
+                                                             
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+      1342                         Philosophy and Social Criticism 51(8)
+                                                             
+                                                             
+      contemplation (to say nothing about the commonplace way in which philosophers
+      construe the senses as passive). Sensuous activity is involved in satisfying human life-
+      needs,andthusmarksafundamentalpointofcontactbetweenhumansensuousnessand
+      life-needs. While we thus have a sense of where Marx locates both historicity in the
+      determinationoflife-needsandhumansensuousnessvis-a`-vislife-needs,wehaveyetto
+      appreciate his account of the historical determination of the human senses.
+        Towardthisend,Iwanttoturntothefirsttwoofthree‘logicsoftheaesthetic’(or,of
+      thesensuous)GandeshaidentifiesinMarx’sthought.55Gandeshaidentifiestheselogicsto
+      combat what he criticises as the Marxian tradition’s mistaken sense ‘that Marx simply
+      bypassesoroverlookstheaesthetic’,showingMarxtobeengagedinaesthetictheorising,
+      including and especially in the capacious sense pertaining to aesthesis or sense-
+      perception.56 The first two logics, as I detail shortly, articulate how the human senses
+      are determined by historically contingent conditions dialectically, in a way that renders
+      thembothpatientsand,induecourse,agentsofhistory.Gandeshaspeakstothisroleinthe
+      thirdlogic,thoughbecausethisthirdlogicpertainslesstothehumansensespersethanto
+      aestheticproductionandinterpretation,Isetitasideforpresentpurposes.Thatsaid,taken
+      together,theselogicsclarifywhatitmeansforMarxwhenhesaysthatthe‘formingofthe
+      five senses is a labour of the entire history of the world down to the present’.57 While
+      Habermas may be right that Marx means this ‘literally’, addressing this issue via
+      Gandesha’s distinction clarifies that it presents an ambiguity: Namely, for Marx, the
+      humansensesarebothformedbyandformativeofhistory,arebothlaboureduponbyand
+      labour upon history, are liberated and liberate within history.58
+        The first logic, clearly influenced by Feuerbach, deals with the determination of the
+      humansensesbylife-needsbywayofthesensuousness(Sinnlichkeit)ofpracticalactivity
+      orlabour.59Forourpurposes,thekeyconcepttoraiseinconjunctionwithsinnlicheArbeit
+      is alienated labour. Although the notion of sensuous (as opposed to mechanical or
+      abstract) labour suggests a near-immediate connection between human beings and our
+      labour, that the latter can nevertheless become alienated indicates, as noted above, that
+      human sensibility is not transhistorically liberated with respect to life-needs, and may
+      insteadbemisledwithrespecttothem.60Indeed,Marx’sdiscussionofthehumansenses
+      undercapitalism(morebelow)indicatesthatthisishisview,andfurther,itclarifiesthat
+      the division recorded above between those who denigrate the senses as misleading and
+      thosewhoappreciatehowthesenses aretied tothesatisfaction ofneedultimatelyrests
+      upon a false dichotomy. That is, although sinnliche Arbeit in capitalism is aimed at
+      satisfyingneeds–thelabourer’sneedforawage,thecapitalist’sneedforsurplusvalue,or
+      theconsumer’sneedforsomegoodorservice—itis‘afact’,Marxsays,thattheformsof
+      mediation holding between labourer, labour, and the product of labour spuriously dis-
+      possess the latter two from the labourer: Because the institution of private property
+      determinestheshapeofsensuouslabourincapitalismandwhatcountsas‘belonging’ina
+      capitalistsocialformation,thelabourer’stimeandenergyaswellastheproductoflabour
+      areneithertreatednorsensedasbelongingtoher.61Assuch,thesensesaremisledbythe
+      institution of private property into a ‘stupid’, ‘one-sided’ relation to the object, but this
+      relation nevertheless facilitates labourers’satisfaction of life-needs in a capitalist social
+      formation: labourers would not satisfy their need for a wage, the capitalist’s need for
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+      Engelman                                      1343     
+                                                             
+                                                             
+      surplus value, or the consumer’s need for a good or service – all of which can be un-
+      derstoodasneedsmediatingourlife-needs–unlesstheytreatedtheirlabourasnotreally
+      theirs, which, for Marx, is how it appears to them.62 Alienated labour thereby informs
+      whatGandeshacalls‘theestablishedchannelsofperception’undercapitalism,which,in
+      accordancewiththetraditionallogicoftheneeds–sensesrelation,isdeterminedbylife-
+      needs,evenifMarxregardsthemasrelatively‘crude’undercapitalistsocialconditions,in
+      awaythataidssatisfactionofthelatter.63Thus,Marx’streatmentofthefalsedichotomyis
+      ambivalent: Prevailing, capitalist social conditions render human needs ill-formed in
+      ways that render the senses ill-formed and unfree, yet suited to promote proper func-
+      tioningaccordingtocapitalistsocialconditions,whichareantagonistictohumanbeings
+      and yet mediate our life-needs.64                      
+        Marx continues his discussion of the determination of the senses by the practical
+      conditionsofacapitalistsocialorderinawaythatrevealshowhisemphasisonsensuous
+      activity leads him to a novel understanding of human sensibility’s historicity:
+        In place of all these physical and mental senses there has therefore come the sheer es-
+        trangementofallthesesenses—[allreducedto]thesenseofhaving.Thehumanbeinghadto
+        bereducedtothisabsolutepovertyinorderthathemightyieldhisinnerwealthtotheouter
+        world.65                                             
+      Whileneedandsensibilityarestilltightlylinked,forMarx,thesocialmediationbetween
+      human beings and non-human nature yields a historical dimension to life-needs’ de-
+      terminationofhumansensibility,againsthispredecessors’viewthatthedeterminationof
+      humansensibilitybylife-needsismerelyanimal.66ForMarx,essentiallyallhumanneeds
+      arealwaysalreadysocially-mediated,suchthatevenifhumanbeings’life-needsdonot
+      simplyarisefromspecificsocialformationsandarethuslymerelyanimal,theyarealways
+      shaped,concatenated,andsatisfiedthroughspecificsocialformations.67InMarx’shands,
+      aswesawaboveinhislocationof‘thefirsthistoricalact’,thisintroduceshistoricityinto
+      thedeterminationofoursensibilityattheleveloflife-needs.Morespecifically,inthecase
+      ofcapitalismthatmostinterestsMarx,evenif‘theneedtomaintain[alifeform’s]physical
+      existence’ transhistorically shapes human sensuous activity, the relations that hold in
+      capitalism render the need for self-preservation, generally, a need to be economically
+      selfish, and to satisfy such a need, as the traditional logic would have it, human beings
+      developaselfish,possessivesensibility.68AsMarxsays,undercapitalism,‘[thehuman
+      being]isselfish.Hiseye,hisear,etc.,areselfish.Inhimeveryoneofhisessentialpowers
+      hasthequalityofselfhood(Selbstigkeit)’.69–Ultimately,then,thislogicarticulateshow
+      prevailingsocialconditionsdeterminesensibilitybyshapingourlife-needsandtheways
+      inwhichwecansatisfythem.Morespecifically,inlightofMarx’scritiqueofcapitalism,it
+      articulateshowhumansensibilitycanbehistoricallyill-formedattheleveloflife-needs,
+      thus posing a direct challenge to Marx’s predecessors’ transhistorical view of the lib-
+      eration of the human senses with respect to life-needs.
+        If this first logic invites pessimism by articulating ways in which oppressive social
+      conditionsmakethehumansensesill-formedinwaysthathelptoperpetuatethosevery
+      conditions,thesecondlogicprovidesreliefasadialecticalcounterpointlayingouthow
+                                                             
+                                                             
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+      1344                         Philosophy and Social Criticism 51(8)
+                                                             
+                                                             
+      oppressivesocialconditionscanneverthelesssetthestagefora‘radicaltransformationof
+      thesenses’thatmayinturnhelptotransformsocialconditions,includingthoserelatedto
+      our needs.70 By clarifying how oppressive social conditions can determine the senses
+      dialectically, in a way that not only, as in the first logic, helps to perpetuate those
+      conditions,butthatalso‘radicalises’thesensesinoppositiontothem,thissecondlogic
+      helpstolinkMarx’scritiqueofcapitalismwithhisdiscussionoftherevolutionarysocial
+      transformation through which capitalism gives way to communism.
+        Asnotedabove,Marxtellsusthatincapitalistsocialconditions,thehumansensesare
+      selfish senses that perceive narrowly and individualistically in terms of possession and
+      exchangeasaconsequenceofthewayinwhichcapitalistsocialconditionsmediateour
+      life-needs.71 For the senses to become oppositional to capitalist social conditions and
+      conducive to communist ones, there must be within capitalism, following Gandesha,
+        afundamentaltransformationofourveryunderstandingofthesensesfromcapacitiesthat
+        are,withinbourgeoissociety,selfishtoonesthatarenowcooperative:sensesthattaketheir
+        bearingfromotherhumanbeingsaswellaswhatMarxcalls“inorganicnature”outsideofthe
+        subject, towardswhich, in both cases,they areoriented.72
+      Theissueofhowthesensestransformundergiven,oppressivesocialconditionssoasto
+      aid in the latters’ transformation or abolition is essential for understanding this second
+      logic. The moment of mediation in the passage just cited from Gandesha, in which our
+      understanding of our senses changes transforms in a way that in turn contributes to the
+      transformation of the senses themselves, will be legible alongside a similar mediating
+      moment regarding needsdiscussed below. The basic idea,however, isthatin becoming
+      aware of how ill-formed our senses have become because of objectionable, prevailing
+      social conditions, our senses become differently oriented toward the latter, and become
+      better suited for different social conditions that our senses are to aid in actualising.
+      Regarding the specific transition from capitalism to communism, the senses begin to
+      becomerightlyformedorcooperativewhenwerecognisethattheyhavebecomeselfish
+      andpossessivetomaintaina‘systemofneeds’thatshouldnotbeasitis.However,because
+      thesensesforMarxarehistoricallydeterminedbysocio-materialformsofmediationatthe
+      leveloflife-needs,onlywiththecomplete‘transcendenceofprivateproperty’istherealso
+        therefore the complete emancipation of all human senses and attributes; but it is this
+        emancipationprecisely becausethesesensesandattributeshavebecome,subjectivelyand
+        objectively,human.Theeyehasbecomeahumaneye,justasitsobjecthasbecomeasocial,
+        humanobject—anobjectemanatingfrommanforman.Thesenseshavethereforebecome
+        directlyintheirpracticetheoreticians.Theyrelatethemselvestothethingforthesakeofthe
+        thing,butthethingitselfisanobjectivehumanrelationtoitselfandtoman,andviceversa.
+        Needorenjoymenthaveconsequentlylosttheiregotisticalnature,andnaturehaslostitsmere
+        utility byuse becoming human use.73                  
+        GettingaglimpseofMarx’svisionoftheliberationofthehumansensesvis-a`-visthe
+      shiftfromcapitalismandcommunismdissipatessomeofthepessimismthatmayfollow
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+      Engelman                                      1345     
+                                                             
+                                                             
+      from appreciating Marx’s account of capitalism’s ‘pre-revolutionary’ historical deter-
+      minationofthehumansenses,whichconstitutesthemaincaseofinterestinhisfirstlogic.
+      But while, in introducing the second logic, we have a sense of what Marx thinks the
+      human senses will actually be like in due historical course, we still need a sense of the
+      movingpartsofthislogicwithsomedegreeofabstractionfromtheparticulartransition
+      fromcapitalismtocommunism,aswellasofhowthistransitionrelatestotheattendant
+      historical change in the human senses Marx advances.   
+        Thepassagejustquotedfromthe1844manuscriptshelpswiththeformertask.From
+      this passage, social conditions in the second logic are understood to change with the
+      senses, whereas in the first logic, social conditions were preconditions determining the
+      senses.Moreover,thesesocialandsensuouschangesinthesecondlogichavetransformed
+      needs as their consequence. Although this transformation of needs would plausibly
+      reintroduceadevelopmentalpatternakintothefirstlogic(thoughperhapslessoppressive
+      of the senses than in the case of capitalism), that transformed needs result from trans-
+      formed senses and social conditions again re-arranges the first logic, in which social
+      conditionsmediateandthusdeterminelife-needsand,indoingso,thesensesaswell.In
+      thesecondlogic,then,thetransformationofthesensesitselfplaysaroleindetermining
+      humanbeings’socialexistence,specifically,thecharacterofhumanlife-needsinasocial
+      formation.Thissubstantiatestheambiguitybrieflynotedabove:Thetransformationofthe
+      senses,forMarx,helpstodevelopthetransformationofsocialconditions,suchthatthe
+      human senses liberate and are liberated in history.    
+        Takentogether,then,thesetwologicsarticulatehowthehumansensesarepatientsof
+      history that also become agents of history, though in keeping with Gandesha’s dis-
+      tinctions,theiragencyitselfismoretheobjectofthethirdlogicthanofthefirsttwo.But
+      althoughwehaveattendedtothepre-revolutionarydeterminationofthesensesinthefirst
+      logic and addressed the general need for a revolutionary determination of the senses
+      withinthesamesocialconditionsthatcontributetothepre-revolutionarydetermination,
+      westillneedtoaddressthequestionofwhathistoricallycontingentdynamicssetthestage
+      foratransformationinthesensesinaccordancewiththesecondlogic,whichwillinturn
+      help us link the two logics more precisely and get a more unified sense of Marx’s
+      historicismaboutthehumansenses.If,thatis,thehumansensesarepatientsofhistorical
+      change through which they also become agents of historical change, what about their
+      patienthood or historical determination enables them to be agential or determining?
+        TheanswerforMarxseemstolargelydependupon‘radicalneeds’.FollowingHeller,
+      radical needs are determined by a social formation and yet are unsatisfiable within that
+      social formation, such that satisfying radical needs entails the social formation’s trans-
+      formation or abolition. As Heller writes, building on Marx’s 1844 discussion of the
+      senses’ determination under capitalism:                
+        ontheonehand,capitalistsocietyreducestomere‘having’andhomogenisesinto‘greed’the
+        systemofneeds[andthesensibility]bothofthedominantandoftheworkingclass(thoughin
+        differentways);ontheotherhand,itgeneratesantagonistic‘radicalneeds’whichtranscend
+        capitalist society,andwhose bearersarecalled uponto overthrow capitalism.74
+                                                             
+                                                             
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+      1346                         Philosophy and Social Criticism 51(8)
+                                                             
+                                                             
+      Following Heller, radical needs involve ‘consciousness of alienation’ qua alienation –
+      where, for example, we do not regard our labour as not our own, but as something of
+      which we are (wrongly) dispossessed – and alienation and our awareness of it qua
+      alienation are ‘generated by capitalism’.75 As such, while capitalist alienation, as Marx
+      says, involves a reduction of our senses to the sense of possession, it also produces
+      conditions through which we can become aware of our alienation qua alienation, for
+      example,bynoticingthatwehaveneedsthatare‘antagonistic’totheexistingsocialorder
+      that,asGandeshawouldrightlyemphasise,exposethepre-revolutionarydeterminationof
+      the senses such that it and eventually the social conditions responsible for it can be
+      transcended.76 Thatis, if we find that we have needs that cannot be satisfied within the
+      existingsocialordersuchthateitherthesocialorderstandsandourneedsareunsatisfied
+      orourneedsaresatisfiedandthesocialorderisradicallychangedoroverthrown,wefind
+      that we stand opposed to the social order, that we are alienated from rather than har-
+      moniously integrated with it. And in seeing that the social order stands opposed to the
+      satisfactionofourneeds,orinseeingthatourneedsareradicalneedstowhichwehave
+      heretoforebeenwronglyattunedorsimplynotattuned,weseegroundsforthesocialorder
+      tobeoverthrown.Inthisway,justascapitalism’smediationofourlife-needsreducesour
+      sensestothesenseofhaving,sotoodoesitproduceradicalneedsthatlikewisedetermine
+      thehumansensesinawaythataidsintheseneeds’satisfaction:Whenradicalneedsare
+      moreforcefullyrepresentedbywayofilluminatinganddeterminingthesenses,theygive
+      rise to revolutionary senses that are capable of contributing to and not merely resulting
+      from historical change.                                
+        This picture further clarifies how Marx radicalises Feuerbach’s historicism by em-
+      phasisingthepractical.WhileFeuerbachholdsthattheliberationofthehumansensesis
+      transhistorical and enables us to engage in contemplation that, for Feuerbach, has a
+      historical character that shapes the senses, Marx holds that the liberation of the human
+      senses by way of historically contingent radical needs enables us to engage in revolu-
+      tionary praxis, which will likewise come to shape the senses. As such, capitalist social
+      conditions mediate our needs in such a way that while some of them are satisfiable
+      accordingtoselfish,individualisticactivitythatperpetuatesthosesocialconditions,they
+      alsomediateourneedsinsuchawaythatsomeofthemarenotsatisfiablebyactivitythat
+      perpetuates those conditions, but are only satisfiable when those conditions are trans-
+      formedoroverthrown.Inotherwords,socialconditionsmediateneedssoastoproduce
+      bothnon-radicalandradicalneeds–orsoastorendersomeneedssatisfiableandothers
+      unsatisfiablewithinagivenstatusquo–andbothoftheseneedsplayaroleindetermining
+      thehuman senseshistorically.Butimportantly,non-radicalandradicalneedsdetermine
+      thehumansensesverydifferentlyinpracticalterms:Wherenon-radicalneedsrenderthe
+      sensespatientsofhistorythathelpreproducethesocialconditionsthatshapethem,radical
+      needs – when ‘borne’, as Heller puts it – render the senses both patients and agents of
+      history, shaped by and capable of shaping historically variable social conditions, rep-
+      resenting the social formation as fraught and appropriate to be overthrown.77
+                                                             
+                                                             
+                                                             
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+      Engelman                                      1347     
+                                                             
+                                                             
+      Conclusion: the critical historicisation of human sensibility after
+      Feuerbach and Marx                                     
+      This paper has sought to illuminate a historicist treatment of the human senses in
+      Feuerbach and Marx. Section 1 explicated Feuerbach’s extension of his predecessors’
+      approachtotheorisingalifeform’ssensesasdeterminedbyitsneedswhilebreakingfrom
+      theirendorsementofthemereanimalitycharge.Byembracinghispredecessors’treatment
+      of the human senses as transhistorically liberated with respect to human life-needs,
+      Feuerbach’s sensualist understanding of thought together with his incorporation of
+      Geistesgeschichte into his philosophical anthropology lead him to identify historical
+      contingency inoursenses intheir deployment toward satisfying ‘theneedofthehead’.
+      Section 2 clarified how Marx’s critique of Feuerbach is rooted in an emphasis on the
+      practical and principally appeals to the notion that historically contingent, social con-
+      ditionsmediateourlife-needsinawaythatchallengesthenotionthatthehumansenses
+      are transhistorically liberated. Section 3 then discussed how, for Marx, historical con-
+      ditions mediate human life-needs in a way that determines the human senses to be ill-
+      formed,andyetalsoproducesradicalneedsthatdeterminethesensesinsuchawaythat
+      the latter can become properly formed contributors to human liberation in history. By
+      mediatingourlife-needssuchthatsomearesatisfiableandothersareunsatisfiablewithina
+      given social formation, social conditions determine our senses such that they are con-
+      tingent upon history, and, in due course, history upon them.
+        Appreciating Feuerbach’s and Marx’s respective historicist treatments of human
+      sensibility also illuminates how Honneth and Joas’s three claims noted above mis-
+      characteriseGermanphilosophicalanthropologygenerallyandtherelationshipbetween
+      Feuerbach,Marx,andtheirsuccessorsspecifically.Againsttheirfirstclaim,thecasesof
+      Feuerbach and Marx demonstrate that philosophical anthropologists have concerned
+      themselves with identifying historically contingent, changing conditions of human
+      changeableness.ThisisespeciallyclearwithMarx’ssecondlogicoftheaestheticonthe
+      table. Accordingly, against their second claim, although Feuerbach’s philosophical an-
+      thropology is insufficiently historical by Marx’s lights, it has pathbreaking historical
+      features, meaning that Marx’s advance from Feuerbach should not be understood as a
+      historicisationofFeuerbach’sphilosophicalanthropology,butratherasapraxis-oriented
+      radicalisationofFeuerbach’shistoricismaboutthehumansenses.Andagainsttheirthird
+      claim that ‘in the Marxist tradition, the question of what latitude the human being’s
+      organicendowmentallowstotheculturalandhistoricalshapingofhumanneedshastoa
+      large degree remained unanswered’, Marx himself addresses this question, albeit
+      somewhatobliquely,byadvancingthatthehumansensesdevelophistoricallyinwaysthat
+      allow them to contribute to the historical shaping of human needs by facilitating social
+      changethat‘de-radicalises’radicalneeds,notnecessarilybychangingtheircontents,but
+      by making them, via social change, actually satisfiable.78 Even if the Marxian tradition
+      doesnotdirectlyadvancetheoriesofwhatinternaltohumanbeings’naturalconstitution
+      enables human needs to undergo historical change, the historicist line on the human
+      sensesthatemergesfromFeuerbachandMarxadvancesthatthehumanbeingisnaturally
+      constitutedinsuchawaythathumanneedscanbehistoricallyshapedtosuchanextent
+                                                             
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+      1348                         Philosophy and Social Criticism 51(8)
+                                                             
+                                                             
+      that some of the human being’s ‘organic endowments’, like the human senses, can
+      themselves be historically shaped in turn.             
+        To conclude, I want to briefly extend the challenges to Honneth and Joas’s first and
+      thirdclaimsbygesturingtowardevidencethatthishistoricistlineonhumansensibilityis
+      extendedbytwentiethcenturythinkersinthebroadlyMarxiantradition.Itisinstructiveto
+      note that both Feuerbach and Marx engage in philosophical anthropology for critical
+      purposes:Feuerbachundertakesacritiqueofreligionandphilosophytoleadus‘fromthe
+      realm of “detached souls” back into the realm of embodied living souls’, while Marx
+      undertakes a critique of capitalism as an inhumane social formation that ought to be
+      overthrown.79Forbothfigures,thehistoricalcharacterofhumansensibilityiscrucialfor
+      the critical aspect of their respective philosophical anthropologies. Accordingly, such
+      historicism is taken up and further reflected upon by twentieth century critical theorists
+      and their predecessors.                                
+        Consider three cases. First, although far from a devout successor to Marx, Simmel
+      extendsanumberofkeyMarxianthemesinawaythatforeshadowsandappearstoinform
+      theirdevelopmentbyFrankfurtSchoolcriticaltheorists,includingMarx’ssocio-material
+      construalofthetransformationofthehumansenses.Forexample,Simmeldiscusseswhat
+      hecalls‘theblase´ outlook(Blasierheit)’asachangeinhumansensibilityresultantfrom
+      ways in which urbanisation, industrialisation, and commercialisation come to condition
+      human needs.80 For Simmel, anticipating the Freudian idea of psychological defence
+      mechanisms,thehumanbeingcannothandlesimplytakinginthesensoryoverloadofthe
+      metropolis(Großstadt),andoutofthishistoricallyshapedneed,thehumanbeingdevelops
+      ‘aprotectiveorganforitselfagainsttheprofounddisruption’ofthepaceandstabilityofthe
+      environmentsinwhichithasdevelopedformillennia,correspondingtoBlasierheit.81And
+      echoing Feuerbach (and Hegel), Simmel claims that this dulls the senses and therewith
+      intensifies rationality.82 Accordingly, Blasierheit involves ‘an indifference toward the
+      distinctions between things’ in qualitative terms, but – echoing Marx’s critique of the
+      sensesundercapitalism–quantitative,specificallymonetarydifferencesbetween things
+      and thus their standing as objects of possession and exchange become more forcefully
+      represented:‘themetropolisistheseatofcommerceanditisinitthatthepurchasabilityof
+      things appears in quite a different aspect than in simpler economies’.83
+        Second,Benjaminflatlyadvancesthatthehumansenseshaveahistoricaldimensionin
+      a way that corresponds to the historical scale involved in Feuerbach’s and Marx’s his-
+      toricisms about the human senses:                      
+        Duringlongperiodsofhistory,themodeofhumansenseperceptionchangeswithhumanity’s
+        entire mode of existence. The manner in which human sense perception is organized, the
+        medium in which it is accomplished, is determined not only by nature but by historical
+        circumstances aswell.84                              
+      Andmorespecifically,Benjamin’streatmentofthe‘witheringoftheaura’–whereaurais
+      ‘theuniquephenomenonofadistance,howevercloseitmaybe’,andisthusanexperiential
+      phenomenon constitutively dependent upon, whatever else, sense-perception – is a con-
+      sequenceofa changeinthe human sensesthatdullsthe representationofhistoricity and
+                                                             
+                                                             
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+      Engelman                                      1349     
+                                                             
+                                                             
+      uniqueness, which is itself a result of changes in socio-material conditions related to
+      needs.85HerethequotationBenjaminoffersfromVale´ryisinstructive:‘Justaswater,gas,
+      andelectricityarebroughtintoourhousesfromfarofftosatisfyourneedsinresponsetoa
+      minimaleffort,soweshallbesuppliedwithvisualorauditoryimages,whichwillappear
+      and disappear at a simple movement of the hand, hardly more than a sign’.86 When
+      mechanical reproduction mediates our relations to our needs thusly, for Benjamin, our
+      sensuous attunement to historicity and uniqueness wanes (which contributes to the
+      withering of the aura), and what waxes is both a sense for the quantitative character of
+      objects – evidenced by ‘the increasing importance of statistics’87 – and a sense for the
+      superficial aesthetic qualities of objects, which Benjamin discusses in terms of ‘present-
+      ability’ and ‘exhibitionvalue’.88Assuch, wecan readBenjaminascriticallydeveloping
+      Simmel’s view: Where Simmel takes our qualitative and quantitative sensibilities to
+      correlateinverselywitheachotherasindustrialisation,urbanisation,andcommercialisation
+      develop, such thatthe former wanes while the latter waxes, Benjamin takes both towax
+      undersuchconditions,whileoursenseofhistory,‘[uniqueness]andpermanence’–or,of
+      the singular object – wanes.89                         
+        Third,onemaylooktoAdorno’streatmentof‘coldness’asanadaptivetransformation
+      of bourgeois sensibility in accordance with historical contingencies of life-needs. For
+      Adorno, ‘mere survival’, which Marx treats as the most fundamental need, becomes
+      conditionedbytheubiquityofviolenceandsufferingcharacterisingbourgeoislifeandin
+      turn‘callsfor[this]coldness’,thatis,requiresthatwebecomelesssensitivetoviolence
+      andsuffering.90Accordingly,onecouldappreciatehowAdorniancoldnessextendsboth
+      the Feuerbachian-Marxian historicisation of human sensibility in general and Simmel’s
+      discussion surrounding Blasierheit in particular.91 Likewise, one can appreciate how
+      Adorno’sviewofthetransformationofthehumansensescriticallydevelopsBenjamin’s
+      innovation upon Simmel, as Adorno’s treatment of coldness suggests that sensitivity to
+      singularity and the qualitative are far more intertwined than Benjamin’s discussion
+      suggests.Thatis,coldnessdescribesasensibilityinsensitivetoviolenceandsuffering,but
+      sufferingisaqualitativefeatureofsingularobjectsorindividuals,suchthatinsensitivity
+      tothelatterinvolvesinsensitivitytotheformer.92ThishelpstoclarifywhyAdornothinks
+      thatphilosophy,perhapsinparttoremedythesense-perceptualdeficienciesofcoldness
+      justnoted,shouldgive‘avoicetosuffering’:Whencoldnessprevails,sufferingcanonly
+      begraspedifitis‘objectivelyconveyed’asthe‘mostsubjectiveexperience’,thatis,asa
+      qualitative moment of a singular subject that only transcends singularity in ‘its
+      expression’.93                                         
+        To borrow from Buck-Morss, each of these three thinkers can be read as theorising
+      human sensibility’s ‘self-anaesthetisation’ in accordance with socio-historical forms of
+      mediationofourneeds,whichinturnsuggeststhateachthinkercanbereadasbuildingoff
+      of Marx’s first logic, on which the human senses become ill-formed under the tech-
+      nologicalandsocialconditionscharacteristicofbourgeoiscapitalism.94Thegeneralpoint
+      in briefly turning to these thinkers, however, is that Honneth and Joas’s claims about
+      philosophical anthropology in general and the Marxian tradition in particular are chal-
+      lenged not only by Feuerbach and Marx, but also by some of their most noteworthy
+      successors.Andinsofarasthishistoricismaboutthehumansensesinrelationtohuman
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+      1350                         Philosophy and Social Criticism 51(8)
+                                                             
+                                                             
+      needsbolstersthesethinkers’criticalprojects,wemaydowellascriticaltheoriststodayto
+      return to and further extend it.                       
+                                                             
+      Acknowledgements                                       
+      IwouldliketothankAnaVieyraandNicoMillsfordiscussingearlierdraftsofthispaperwithme,as
+      well as theanonymousreviewer at Philosophy andSocial Criticism for theirhelpful comments.
+                                                             
+      ORCID iD                                               
+      RobertEngelmanhttps://orcid.org/0000-0002-3693-9920   
+                                                             
+      Notes                                                  
+       1. Regardingthissynonymy,see,forexample,LudwigFeuerbach,‘PrinciplesofthePhilosophyofthe
+         Future’,TheFieryBrook:SelectedWritings,trans.ZawarHanfi(NewYork:Verso,2012),219;Karl
+         Marx,‘EconomicandPhilosophicManuscriptsof1844’,TheMarx-EngelsReader,SecondEdition,
+         ed.RobertC.Tucker,trans.MartinMilligan(NewYork:W.W.Norton,1978),89.
+       2. This list of charges paraphrases Kant’s discussion of three ‘evil things’ said about human
+         sensibilityenroutetohis‘Apologyforsensibility’:‘Everyoneshowsthegreatestrespectfor
+         understanding, as is already indicated by the very name higher cognitive faculty [. . .] Sen-
+         sibility,ontheotherhand,isinbadrepute.Manyevilthingsaresaidaboutit:forexample,(1)
+         thatitconfusesthepowerofrepresentation,(2)thatitmonopolizesconversationandislikean
+         autocrat, stubborn and hard to restrain, when it should be merely the servant of the under-
+         standing,(3)thatitevendeceivesus,andthatwecannotbesufficientlyonguardwhereitis
+         concerned’.ImmanuelKant,‘Anthropologyfromapragmaticpointofview’,Anthropology,
+         History,andEducation,eds.GuenterZoellerandRobertB.Louden,trans.RobertB.Louden
+         (Cambridge, UK: CambridgeUniversity Press,2007), 256.
+       3. J. G. Herder, Philosophical Writings, ed. and trans. Michael N. Forster (Cambridge, UK:
+         CambridgeUniversity Press,2002), 77.                
+       4. Immanuel Kant, ‘Conjectural beginning of human history’, Anthropology, History, and Ed-
+         ucation,eds.GuenterZoellerandRobertB.Louden,trans.AllenW.Wood(Cambridge,UK:
+         CambridgeUniversityPress,2007),166.ForHegel’streatmentofthesensesasmerelyanimal,
+         ‘natural’,and‘immediate’,seeG.W.F.Hegel,PhilosophyofMind,trans.W.WallaceandA.V.
+         Miller (Oxford, UK: Oxford University Press, 2007), 70. For Herder’s, see Herder, Philo-
+         sophical Writings,79.                               
+       5. Marx, ‘Manuscriptsof 1844’,75–6.                   
+       6. Jean-PhilippeDeranty,‘FeuerbachandthePhilosophyofCriticalTheory’,BritishJournalfor
+         theHistoryofPhilosophy,vol.22,no.6(2014):1227.Hereoneshouldnodtoarichnearby
+         topicthatwillbeatmostindirectlyaddressedbelow,namely,thenormativesignificanceofthe
+         category of ‘need’. Sometimes ‘need’ is itself treated as a normatively significant, thick
+         concept,specifically,designatedashigherinstandingthan(mere)‘desire’.Othertimes‘need’is
+         treated more thinly descriptively and broadly, andis then shapedby anormative, true–false
+         needsdistinction(famouslybyMarcuseinOne-DimensionalMan),which,ofcourse,mayitself
+         bebasedonfurtherdistinctionsregardingneeds.FeuerbachandMarxtendtofollowHegel’s
+         leadinusing‘need’inthesecond,broadandmerelydescriptivesense.Accordingly,Iusethe
+                                                             
+
+[PAGE 19]
+                                                             
+                                                             
+                                                             
+      Engelman                                      1351     
+                                                             
+                                                             
+         term‘life-needs’tospecify,merelydescriptively,asubsetofwhatFeuerbachandMarx(and
+         Hegel) call‘needs’,roughly corresponding tothe passagejust quotedfromMarx. Although
+         such a subset of needs is often taken to generally include, normatively, ‘real’ or ‘true’ as
+         opposedto‘falseneeds’,hereIdonotinvokethisdescriptionwithanynormativeintention.
+         Onemayaccordinglyregardthepresentdiscussionaspotentiallyrelevanttoexaminationsof
+         normative questionssurrounding the topicof needs, butit isnotitself concernedwith these
+         questions.                                          
+       7. Herder,Philosophical Writings,79.                  
+       8. SeeHerder,Philosophical Writings, 78–9;Hegel,Philosophy ofMind,38.
+       9. SeeKant, ‘Conjectural beginning of humanhistory’, 165.
+      10. Herder,Philosophical Writings,80.                  
+      11. SeeHegel, PhilosophyofMind,83.                     
+      12. AxelHonnethandHansJoas,SocialActionandHumanNature,trans.RaymondMeyer(New
+         York: CambridgeUniversity Press, 1988),7.           
+      13. HonnethandJoas,SocialActionandHumanNature,21.ForotherdescriptionsofFeuerbach’s
+         philosophicalanthropologyasahistoricalinconnectionwithMarx,seeJacobM.Held,‘Marx
+         viaFeuerbach:Species-BeingRevisited’.IdealisticStudies,vol.39,nos.1–3(2009):143–4;
+         Deranty,‘Feuerbach andCritical Theory’, 1218.       
+      14. Honneth and Joas, Social Action and Human Nature, 4–5; Johann Wolfgang von Goethe,
+         MaximsandReflections,ed.PeterHutchinson,trans.ElisabethStopp(London:Penguin,1998),
+         61.Tobesure,whilethelineofinvestigationIamtracinghereisthatofabroadlyMarxian
+         philosophicaltradition,thinkersinothertraditionstakeupsimilarissuesconcerningakindof
+         dialecticalrelationshipbetweenhumannatureandhumanhistory.Forarecentexample,see
+         JohnDupre´,‘HumanNature:AProcessPerspective’,WhyWeDisagreeAboutHumanNature,
+         eds.ElizabethHannonandTimLewens(Oxford,UK:OxfordUniversityPress,2018),92–107.
+      15. Honneth andJoas,Social ActionandHumanNature,11.    
+      16. SeeHonneth andJoas,Social ActionandHumanNature,118–9.
+      17. SeeHonnethandJoas,SocialActionandHumanNature,118.AcuriousfeatureofHonnethand
+         Joas’s discussion in thisvein is that whilethey counterpose philosophical andhistorical an-
+         thropology,theyalsoadvancethatMarxhistoricisesFeuerbach’sphilosophicalanthropology.
+         On pain of lapsing into self-contradiction, something must explain the discrepancy between
+         their transhistoricist characterisation of philosophical anthropology and their historicist
+         characterisationofMarx’scritiqueofFeuerbach:ThatMarxengagesinhistoricalanthropology
+         andisthusbestreadasacriticratherthanpractitionerofphilosophicalanthropology,orperhaps
+         rather that philosophical anthropology is less distinct from historical anthropology than
+         HonnethandJoasotherwiseindicate.GiventhecharacterofMarx’searlywritings,thelatter
+         possibilityseemsfarmoreplausiblethantheformer,whichinturnsupportscriticisingHonneth
+         andJoas’sstronglytranshistoricistframingofphilosophicalanthropology.Eventhoughthey
+         arecorrectaboutthemainstreamtraditionofphilosophicalanthropology,theircharacterisation
+         misrepresentsthephilosopherswhostandattheforefrontoftheirowndiscussionofthehistory
+         ofphilosophicalanthropology.Thankstotheanonymousreviewerforspotlightingthistension
+         in HonnethandJoas’s discussion.                     
+      18. Cf.KarlMarx,‘ThesesonFeuerbach’,TheMarx-EngelsReader,SecondEdition,ed.Robert
+         C. Tucker (NewYork:W. W.Norton, 1978),144[Thesis IV].
+
+[PAGE 20]
+                                                             
+                                                             
+                                                             
+      1352                         Philosophy and Social Criticism 51(8)
+                                                             
+                                                             
+      19. SeeHonneth andJoas,Social ActionandHumanNature,14. 
+      20. Ludwig Feuerbach, ‘Preliminary Theses on the Reform of Philosophy’, The Fiery Brook:
+         Selected Writings,trans.ZawarHanfi(New York: Verso, 2012),164.
+      21. LudwigFeuerbach,‘On“TheBeginningofPhilosophy,”’TheFieryBrook:SelectedWritings,
+         trans.ZawarHanfi(NewYork:Verso,2012),138.“Thewriteroftheselineswouldnotmindat
+         all if[.. .]heisaccused of subscribing toempiricism.”
+      22. Feuerbach, ‘Principles’, 196. Regarding the critique of religion as projection, see Ludwig
+         Feuerbach,‘IntroductiontoTheEssenceofChristianity’,TheFieryBrook:SelectedWritings,
+         trans.ZawarHanfi(NewYork:Verso,2012),129.FordiscussionofFeuerbach’santi-dualism
+         abouthumannatureasafunctionofhisconcernabouthumanalienation,seeHeld,‘Marxvia
+         Feuerbach’, 140.                                    
+      23. Cf. Feuerbach,‘Principles’,232.                    
+      24. Feuerbach, ‘Preliminary Theses’, 164. Cf. Adorno’s call to ‘yield to the object’ as ‘do[ing]
+         justicetotheobject’squalitativemoments’inTheodorW.Adorno,NegativeDialectics,trans.
+         E. B.Ashton (NewYork: Continuum,1973), 43.          
+      25. Feuerbach, ‘Principles’, 243. Cf. Deranty, ‘Feuerbach and Critical Theory’, 1225–6. ‘The left-
+         Hegelian move [made by Feuerbach] means that epistemology and metaphysics are ultimately
+         dependentuponconsiderationsinphilosophicalanthropology:thetheoryofknowledgeisgrounded
+         inageneralimageofthehumanbeing’.Traditionally,metaphysicsisregardedasfirstphilosophyin
+         thesenseoftheprimary,mostfundamental,oruniversalscience,whilelogicorepistemologyare
+         takentobeordinallypriortheoreticalprojectsthathelpusrightlypursuemetaphysicalknowledge.
+         ButbecauseFeuerbachspecifiesthatanthropologyshouldbetheuniversalscience,heisnotso
+         much claiming that epistemology and metaphysics should be based on anthropology, but that
+         anthropologyshouldinsomesensereplacethem.ThisisespeciallyclearinlightofFeuerbach’s
+         endorsementofHegel’sviewoflogicasascienceofabsoluteknowingthatincludesandexceeds
+         metaphysics.SeeFeuerbach,‘Principles’,239.ForrecentdiscussionofHegel’sconceptionoflogic
+         inrelationtometaphysics,aswellasthedisambiguationofmetaphilosophicalprimacyandordinal
+         priorityregarding‘firstphilosophy’,seeRobertEngelman,‘ModernScepticism,Metaphysics,and
+         AbsoluteKnowinginHegel’sScienceofLogic’,HegelBulletin(Forthcoming).
+      26. Honneth andJoas,Social ActionandHumanNature,14.    
+      27. Adorno, Negative Dialectics, 183. This move in Feuerbach clearly anticipates Adorno, who
+         Derantyargues‘appearsasadirectheirtoFeuerbach’.SeeDeranty,‘FeuerbachandCritical
+         Theory’,1230.WhileDerantydoesnotdiscusspreciselythissimilaritybetweenFeuerbachand
+         CriticalTheorygenerallyorAdornoinparticular,hediscussesnearbysimilaritiesinarguingfor
+         the valueof Feuerbach’sphilosophy as awellspring for Critical Theory.
+      28. Feuerbach, ‘Principles’,242. Cf.Honneth andJoas,Social ActionandHumanNature,13.
+      29. Feuerbach, ‘Principles’,242–3.                     
+      30. Feuerbach, ‘Preliminary Theses’, 164.              
+      31. Feuerbach, ‘Preliminary Theses’, 164.              
+      32. Feuerbach, ‘Principles’,195-6.                     
+      33. Aristotle, Metaphysics,trans.C. D.C. Reeve(Indianapolis: Hackett, 2016), 2.
+      34. Honneth and Joas, Social Action and Human Nature, 21. For other expressions of such a
+         readingofMarx’srelationtoFeuerbach,seeDeranty,‘FeuerbachandCriticalTheory’,1210;
+         Held, ‘Marxvia Feuerbach’,144.                      
+
+[PAGE 21]
+                                                             
+                                                             
+                                                             
+      Engelman                                      1353     
+                                                             
+                                                             
+      35. Honneth andJoas,Social ActionandHumanNature,21.    
+      36. Marx, ‘ThesesonFeuerbach’, 143.[ThesisI.]          
+      37. Marx, ‘TheGerman Ideology’, 171.                   
+      38. ThismayappeartobeasomewhatembarrassingoversightbyFeuerbachinvirtueofthefactthathe
+         wascertainlyawareofasocialtreatmentofhistoricallycontingentconditionsofmeetinglife-needs,
+         namely,Hegel’sinthePhilosophyofRight.Thereisanexonerating,relevantdistance,however,
+         betweenHegel’sdiscussionofasystemofneedsinhispoliticalphilosophyandhisdiscussionof
+         needsinhisanthropology,namely,thatintheformer,Hegelatbestobliquelyaddressesthetopicof
+         thehumansensesbywayofhisabbreviateddiscussionofluxury.Further,giventhatHegelholds
+         thatlife-needsdeterminesensesandendorsesthemereanimalitycharge,intermofhisanthropology,
+         we cannot understand the social system of needs’ historically variable mediation, ‘division and
+         multiplication’(paraphrasingHegel)ofhumanneedsashistoricisinghumanlife-needsandthereby
+         alsothehumansenses.Inbroadstrokes,wemightinsteadunderstandHegel’sPhilosophyofRight,
+         regardingtheanthropologicaldimensionofhumanneeds,astheorisinghowlife-needsaresocio-
+         historicallyelaboratedandenmeshedinthe‘infiniteprocess’inwhichnotonlytheyaresatisfied,but
+         alsonon-life-needsareproduced,divided,multiplied,satisfied,etc.Life-needs,forHegel,dovary
+         historicallyperhisPhilosophyofRight,butsystematically,perhisPhilosophyofMind(specifically,
+         hisanthropology),cannotdosoinanywaythatwouldunderwriteachangeinthehumansensesakin
+         tothoseadvancedbyFeuerbach,Marx,andtheirsuccessors.Cf.G.W.F.Hegel,Philosophyof
+         Right,ed.AllenWood,trans.H.B.Nisbet(Cambridge,UK:CambridgeUniversityPress,1991),
+         228–31.                                             
+      39. Marx, ‘TheGerman Ideology’, 194.                   
+      40. Feuerbach, ‘Principles’,242.                       
+      41. Cf. AgnesHeller,The Theoryof Needin Marx (Brooklyn: Verso, 2018),41.
+      42. SeeHegel, PhilosophyofRight,226.                   
+      43. Marx, ‘TheGerman Ideology’, 156.                   
+      44. Marx, ‘The German Ideology’, 169. Although in this passage Marx is more specifically in-
+         terestedinopposingwhatwemightcalla‘theoretical’humanliberationwithapracticalone,the
+         discussionhereshouldsupporttakingthispassagetolikewiseexpressMarx’sviewonhuman
+         liberation with respect tosensuousness.             
+      45. Cf.Marx,‘Manuscriptsof1844’,90.‘Sense-perception(seeFeuerbach)mustbethebasisofall
+         science’.                                           
+      46. Marx,‘Manuscriptsof1844’,89.Cf.SamirGandesha,‘ThreeLogicsoftheAestheticinMarx’,
+         Aesthetic Marx,eds.Samir GandeshaandJohanF.Hartle(London:Bloomsbury Academic,
+         2017), 3–22; Jürgen Habermas, Knowledge and Human Interests, trans. Jeremy J. Shapiro
+         (Boston: Beacon Press,1971),30.                     
+      47. SeeMarx, ‘TheGerman Ideology’,149.                 
+      48. Cf. Marx,‘The German Ideology’,169.                
+      49. Deranty,‘FeuerbachandCriticalTheory’,1210.Emphasismine.AlthoughDerantydoesnot
+         directlyassertthatFeuerbachiansensualismishistoricist,heclearlymakesroomforitinhis
+         nodto Marx’scritique.                               
+      50. Marx, ‘ThesesonFeuerbach’, 145.[ThesisVI.]         
+      51. AlfredSchmidt,TheConceptofNatureinMarx,trans.BenFowkes(Brooklyn:Verso,2014),
+         27.Onthesamepage,Schmidtalsoaptlywritesthat‘Feuerbach’santhropologicalaccentuation
+
+[PAGE 22]
+                                                             
+                                                             
+                                                             
+      1354                         Philosophy and Social Criticism 51(8)
+                                                             
+                                                             
+         of man as opposed to the rest of nature was always abstract. Nature as a whole was for
+         Feuerbachanunhistorical,homogeneoussubstratum,whiletheessenceoftheMarxistcritique
+         was the dissolution of this homogeneity into a dialectic of Subject and Object’. That said,
+         DerantymightwellpushbackagainstSchmidt’ssuggestionthatFeuerbachdoesnotseesubject
+         andobject as dialectically related. SeeDeranty, ‘Feuerbach andCritical Theory’,1226–7.
+      52. Cf. Jean-Jacques Rousseau, ‘Discourse on the Origin and Foundations of Inequality among
+         Men’,TheBasicPoliticalWritings,seconded.,ed.andtrans.DonaldA.Cress(Indianapolis:
+         Hackett,2011),47.‘WhenIstripthatbeing,thusconstituted,ofallthesupernaturalgiftshe
+         couldhavereceived,andofalltheartificialfacultieshecouldhaveacquiredonlythrougha
+         lengthyprocess;whenIconsiderhim,inaword,ashemusthaveleftthehandsofnature,Isee
+         ananimallessstrongthansome,lessagilethanothersbutallinall,themostadvantageously
+         organizedofall.Iseehimsatisfyinghishungerunderanoaktree,quenchinghisthirstatthe
+         firststream,findinghisbedatthefootofthesametreethatsuppliedhismeans;andthusallhis
+         needsaresatisfied[emphasis added]’.                 
+      53. SeeHonneth andJoas,Social ActionandHumanNature,14. 
+      54. Marx, ‘TheGerman Ideology’, 167.                   
+      55. SeeGandesha, ‘Logicsof the Aesthetic’,3–22.        
+      56. Gandesha, ‘Logicsof the Aesthetic’, 3.             
+      57. Marx, ‘Manuscriptsof 1844’,89.                     
+      58. Habermas,Knowledge andHumanInterests,30.           
+      59. See Gandesha, ‘Logics of the Aesthetic’, 5–6. Gandesha interestingly advances that Marx’s
+         appealtosensuouslabourconstitutesnotonlyapracticalisationofFeuerbach’ssensualism,but
+         also asensualisationof Hegel’sappeal tothe labour of the conceptin thePhenomenology.
+      60. Cf. Gandesha,‘Logics of theAesthetic’,5–7.         
+      61. Marx,‘Manuscripts of 1844’,80. Moreover,insofar as the labourer isunderstoodas selling
+         herselfthroughher‘life-activity’,withwhichMarxtellsussheis‘immediatelyidentical’,sheis
+         also dispossessed ofherself under capitalist political-economic conditions(ibid, 76).
+      62. Marx, ‘Manuscripts of 1844’, 87. For a helpful discussion of this phenomenon in terms of
+         Marx’sconceptof‘ideology’,seeStuartHall,‘TheProblemofIdeology—Marxismwithout
+         Guarantees’, Journal ofCommunication Inquiry,vol.10, no.2 (June 1986): 28–44.
+      63. Gandesha, ‘Logicsof the Aesthetic’, 3;Marx, ‘Manuscripts of1844’,89.
+      64. AlthoughIamnotparticularlyinterestedhereinthenormativebasisonwhichMarxtakesthe
+         human senses under capitalism to be ill-formed, others have discussed how Marx’s critical
+         treatment of needs under capitalism takes normative bearings from his view of the human
+         Gattungswesen. SeeChitty,‘Early MarxonNeeds’,23–31. 
+      65. Marx, ‘Manuscriptsof 1844’,87.                     
+      66. Hegel’smannerofaccountingfortheflexibilityofhumanneedsbyappealtothediverseways
+         inwhichthoseneedscanbesatisfied,includingwaysthatpresupposesocialconditioning,gets
+         closetoandinsomesenseprefiguresthemovesMarxismakinghere,butMarxaccountsfor
+         transformationsnotonlyintheexpressionofsensationsandthesatisfactionofneeds,butalsoof
+         the character of our needs and sensibility. See Hegel, Philosophy of Mind, 83, where Hegel
+         discusses how language helps us develop alternative ways of satisfying the need to express
+         emotions likegrief.                                 
+      67. Cf. Schmidt,TheConcept ofNatureinMarx,78–9.        
+
+[PAGE 23]
+                                                             
+                                                             
+                                                             
+      Engelman                                      1355     
+                                                             
+                                                             
+      68. Marx, ‘Manuscriptsof 1844’,75–6.                   
+      69. Marx, ‘Manuscriptsof 1844’,113.Translation modified.
+      70. Gandesha, ‘Logicsof the Aesthetic’, 4.             
+      71. Cf. Heller, The Theory of Need in Marx, 52. ‘The person who deals in diamonds, as Marx
+         writes,paysnoattentiontotheaestheticbeautyofthediamond,becauseheseesitonlyasan
+         embodiment of exchange value. Truewealth is, onthe contrary,the development of hetero-
+         geneousqualities intypes of need’.                  
+      72. Gandesha, ‘Logicsof the Aesthetic’, 7.Cf. Chitty,‘EarlyMarxonNeeds’.
+      73. Marx,‘Manuscriptsof1844’,87–8.Thispassageshouldbeunderstoodassupportingthepoint
+         that Marx’s emphasis on praxis leads him to view Feuerbach’s account of human nature as
+         hypostatisinghistorically contingent features of humannature as transhistorical.
+      74. Heller,TheTheory ofNeed inMarx,58.                 
+      75. Heller,TheTheory ofNeed inMarx,94.                 
+      76. Heller,TheTheory ofNeed inMarx,58.                 
+      77. Marx, ‘Manuscriptsof 1844’,89.See Heller, TheTheoryof Needin Marx, 58.
+      78. Honneth andJoas,Social ActionandHumanNature,4–5.   
+      79. Feuerbach, ‘Principles’,175.                       
+      80. Georg Simmel, ‘The Metropolis and Mental Life’, On Individuality and Social Forms, ed.
+         DonaldN.Levine,trans.EdwardA.Shils(Chicago:UniversityofChicagoPress,1971),329.
+      81. Simmel, ‘The Metropolis’,326.                      
+      82. Simmel, ‘The Metropolis’,327.                      
+      83. Simmel, ‘The Metropolis’,329–30.                   
+      84. WalterBenjamin,‘TheWorkofArtintheAgeofMechanicalReproduction’,Illuminations:
+         EssaysandReflections,ed.HannahArendt,trans.HarryZohn(NewYork:SchockenBooks,
+         1968), 222.                                         
+      85. Benjamin, ‘Work of Art’,222–3.                     
+      86. Benjamin,‘WorkofArt’,219.ItmaybebesttoreadBenjamin’shistoricismaboutthesenses
+         hereasFeuerbachianinsofarthehistoricityofthesensespertainstotheintellectualratherthan
+         thepractical.However,Benjamin’shistoricismclearlyalsohasaMarxiandimensioninrelying
+         uponappealsto changesin technologyandsocial formations.
+      87. Benjamin, ‘Work of Art’,223.                       
+      88. Benjamin, ‘Work of Art’,225.                       
+      89. Benjamin, ‘Work of Art’,223.                       
+      90. Adorno,Negative Dialectics,363.                    
+      91. Foranumberofconcretediscussionsofthisidea,seeTheodorW.Adorno,MinimaMoralia:
+         Reflections from DamagedLife, trans.E. F.N.Jephcott (Brooklyn: Verso,2005).
+      92. Cf. Adorno,NegativeDialectics,43.                  
+      93. Adorno,NegativeDialectics,17–18.Emphasisadded.Ifandinsofarasthisisanaptwaytoread
+         Adorno’sdemandthatphilosophygive avoicetosuffering, wemaydowell toreadhimas
+         historicising the problem of other minds scepticism, especially in its ethical-affective artic-
+         ulationbyphilosopherslikeWittgenstein andCavell,thoughIcannotexploresuchpossible
+         connectionshere.Moreover,Adorno’streatmentoftherelationbetweenvoiceandsuffering
+         clearlyconfronts challengespertainingtotheachievement of‘avoice’,likewiseextensively
+         addressedbyCavell.Fordiscussionofwhat,forCavell,problematisestheachievementofa
+
+[PAGE 24]
+                                                             
+                                                             
+                                                             
+      1356                         Philosophy and Social Criticism 51(8)
+                                                             
+                                                             
+         voice,seeRobertEngelman‘ReadingIntoItorHearingItOut?:CavellonModernismandthe
+         Art Critic’s Hermeneutical Risk’, Cavell’s Must We Mean What We Say? at 50, eds. Greg
+         Chase,JulietFloyd,andSandraLaugier(Cambridge,UK:CambridgeUniversityPress,2022),
+         121–34.                                             
+      94. Susan Buck-Morss, ‘Aesthetics and Anaesthetics: Walter Benjamin’s Artwork Essay Re-
+         considered’,October,vol.62(Autumn 1992):3–41.       
+                                                             
+      References                                             
+      Adorno,TheodorW.2005.MinimaMoralia:ReflectionsfromDamagedLife.TranslatedbyE.F.
+         N.Jephcott.Brooklyn: Verso.                         
+      Adorno,TheodorW.1973.NegativeDialectics.TranslatedbyE.B.Ashton.NewYork:Continuum.
+      Aristotle. 2016.Metaphysics.Translated byC.D.C. Reeve.Indianapolis: Hackett.
+      Benjamin, Walter. 1968. “The Work of Art in the Age of Mechanical Reproduction.” In Illumi-
+         nations: Essays and Reflections, edited by Hannah Arendt, 213–251. Translated by Harry
+         Zohn.NewYork: SchockenBooks.                        
+      Buck-Morss, Susan. 1992. “Aesthetics and Anaesthetics: Walter Benjamin’s Artwork Essay Re-
+         considered.”October 62:3–41.                        
+      Chitty,Andrew.1993.“TheEarlyMarxonNeeds.”RadicalPhilosophy64: 23–31.
+      Deranty,Jean-Philippe.2014.“FeuerbachandthePhilosophyofCriticalTheory.”BritishJournal
+         forthe History of Philosophy22, no.6: 1208–1233.    
+      Dupre´,John.2018.“HumanNature:AProcessPerspective.”InWhyWeDisagreeAboutHuman
+         Nature, edited by Elizabeth Hannon, and Tim Lewens, 92–107. Oxford, UK: Oxford Uni-
+         versity Press.                                      
+      Engelman, Robert. Forthcoming. “Modern Scepticism, Metaphysics, and Absolute Knowing in
+         Hegel’sScience ofLogic.”Hegel Bulletin:1–28.        
+      Engelman,Robert.2022.“ReadingIntoItorHearingItOut?:CavellonModernismandtheArt
+         Critic’sHermeneuticalRisk.”InCavell’sMustWeMeanWhatWeSay?at50,editedbyGreg
+         Chase, Juliet Floyd, and Sandra Laugier, 121–134. Cambridge, UK: Cambridge University
+         Press.                                              
+      Feuerbach, Ludwig. 2012. “Introduction to The Essence of Christianity.” In The Fiery Brook:
+         Selected Writings, 97–133.Translated byZawarHanfi. NewYork:Verso.
+      Feuerbach, Ludwig. 2012. “On ‘The Beginning of Philosophy’.” In The Fiery Brook: Selected
+         Writings,135–144.Translated byZawarHanfi.New York: Verso.
+      Feuerbach,Ludwig.2012.“PreliminaryThesesontheReformofPhilosophy.”InTheFieryBrook:
+         Selected Writings, 153–173.Translated byZawarHanfi. NewYork:Verso.
+      Feuerbach, Ludwig. 2012. “Principles of the Philosophy of the Future.” In The Fiery Brook:
+         Selected Writings, 175–245.Translated byZawarHanfi. NewYork:Verso.
+      Gandesha, Samir. 2017. “Three Logics of the Aesthetic in Marx.” In Aesthetic Marx, edited by
+         Samir Gandesha,andJohanF.Hartle, 3–22.London:Bloomsbury Academic.
+      Geras,Norman.2016.MarxandHuman Nature: Refutation ofa Legend.New York: Verso.
+      Goethe,JohannWolfgang.1998.MaximsandReflections,editedbyPeterHutchinson.Translated
+         byElisabeth Stopp.London: Penguin.                  
+                                                             
+                                                             
+
+[PAGE 25]
+                                                             
+                                                             
+                                                             
+      Engelman                                      1357     
+                                                             
+                                                             
+      Habermas, Jürgen. 1971. Knowledge and Human Interests. Translated by Jeremy J. Shapiro.
+         Boston: Beacon Press.                               
+      Hall, Stuart. 1986. “The Problem of Ideology—Marxism without Guarantees.” Journal of Com-
+         municationInquiry 10,no. 2:28–44.                   
+      Hegel,GeorgWilhelmFriedrich.2007.PhilosophyofMind.TranslatedbyW.WallaceandA.V.
+         Miller. Oxford,UK: OxfordUniversity Press.          
+      Hegel,GeorgWilhelmFriedrich.1991.PhilosophyofRight,editedbyAllenWood.Translatedby
+         H.B.Nisbet. Cambridge, UK: CambridgeUniversity Press.
+      Held,JacobM.2009.“MarxviaFeuerbach:Species-BeingRevisited.”IdealisticStudies39,no.1–
+         3:137–148.                                          
+      Heller, Agnes.2018.TheTheory ofNeed in Marx.Brooklyn: Verso.
+      Herder, Johann Gottfried. 2002. Philosophical Writings, edited and translated by Michael
+         N.Forster.Cambridge, UK: University of CambridgePress.
+      Honneth,Axel,andJoas,Hans.1988.SocialActionandHumanNature.TranslatedbyRaymond
+         Meyer.New York: Cambridge University Press.         
+      Kant, Immanuel. 2007a. “Anthropology From a Pragmatic Point of View.” In Anthropology,
+         History, and Education, edited by Guenter Zoeller, and Robert B. Louden, 227–429.
+         Translated byRobert B.Louden.Cambridge, UK: Cambridge University Press.
+      Kant,Immanuel.2007b.“ConjecturalBeginningofHumanHistory.”InAnthropology,History,and
+         Education,editedbyGuenterZoeller,andRobertB.Louden,160–175.TranslatedbyAllen
+         W.Wood.Cambridge, UK: Cambridge University Press.   
+      Marcuse,Herbert.1991.One-DimensionalMan.2nded.TranslatedbyDouglasKellner.Boston:
+         Beacon Press.                                       
+      Marx, Karl. 1978a. “Capital, Volume One.” In The Marx-Engels Reader, edited by Robert C.
+         Tucker,2nded.,294–438.TranslatedbySamuelMooreandEdwardAveling.NewYork:W.
+         W.Norton.                                           
+      Marx,Karl.1978b.“EconomicandPhilosophicManuscriptsof1844.”InTheMarx-EngelsReader,
+         editedbyRobertC.Tucker,2nded.,66–125.TranslatedbyMartinMilligan.NewYork:W.
+         W.Norton.                                           
+      Marx,Karl.1978c.“TheGermanIdeology:PartI.”InTheMarx-EngelsReader,editedbyRobertC.
+         Tucker,2nded.,146–200. Translated byS. Ryazanskaya. NewYork:W.W.Norton.
+      Marx, Karl. 1978d. “Theses on Feuerbach.” In The Marx-Engels Reader, edited by Robert C.
+         Tucker,ed. 2nded.,143–145.New York: W.W. Norton.    
+      Rousseau, Jean-Jacques. 2011. “Discourse on the Origin and Foundations of Inequality among
+         Men.”InBasicPoliticalWritings,2nded.,27–92,editedandtranslatedbyDonaldA.Cress.
+         Indianapolis: Hackett.                              
+      Schmidt, Alfred. 2014. The Concept of Nature in Marx. Translated by Ben Fowkes. Brooklyn,
+         Verso.                                              
+      Simmel,Georg.1971.“TheMetropolisandMentalLife.”InOnIndividualityandSocialForms,
+         editedbyDonalN.Levine,324–339.TranslatedbyEdwardA.Shils.Chicago:Universityof
+         ChicagoPress.                                       
+                                                             
+                                                             
+                                                             

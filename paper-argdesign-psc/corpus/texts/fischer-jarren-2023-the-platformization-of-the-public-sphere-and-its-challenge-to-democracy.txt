@@ -1,0 +1,831 @@
+[PAGE 1]
+                                                             
+                                                             
+                                                             
+                                                             
+      Article                                                
+                                                             
+                                         PhilosophyandSocialCriticism
+                                         2024,Vol.50(1)200–215
+      The  platformization  of the                           
+                                         ©TheAuthor(s)2023   
+      public sphere  and its challenge                       
+                                         Articlereuseguidelines:
+      to democracy                       sagepub.com/journals-permissions
+                                         DOI:10.1177/01914537231203535
+                                         journals.sagepub.com/home/psc
+      Renate Fischer and Otfried Jarren                     
+      UniversityofZurich,Switzerland                         
+                                                             
+      Abstract                                               
+      Democracydependsonavividpublicsphere,whereideasdisseminateintothepublicand
+      canbediscussed–andchallenged-byeveryone.Journalismhascontributedsignificantly
+      tothis social mediation byreducingcomplexity, providing information on salient topics
+      and(planned)politicalsolutions.Thedigitaltransformationofthepublicsphereleadsto
+      newformsofmediaprovision,distribution,anduse.Journalismhasstruggledtoadaptto
+      thenewconditions.Journalisticnewsvalues,relevanttodemocracy,arebeingreplaced
+      byonesrelevanttosocialmediaplatforms’attentionseekingbusinessmodel.Weplead
+      forabroadpublicdebateabouttheongoingplatformizationandaboutpossiblepoliciesto
+      ensure a media system that serves and strengthens democracy.
+                                                             
+      Keywords                                               
+      public sphere, democracy, journalism, social media, platform regulation
+                                                             
+                                                             
+      The public sphere has changed due to advancing social differentiation, accelerating
+      digitalization processes and the institutionalization of digital platforms. Information
+      provided on digital platforms permeates the public sphere according to the platforms’
+      algorithms which are based on the rules and norms of global private-sector companies.
+      This has triggered a severe transformation of the public sphere (Jarren and Neuberger
+      2020) as existing media and journalism react on the growing importance of news ag-
+      gregators and social media for news reception. The initial hopes that platforms would
+      enable everyone to take part in the public sphere proved to be in vain: the platforms’
+      attentionseekingeconomicbusinessmodelpreventsrealinclusionandequalparticipation
+                                                             
+      Correspondingauthor:                                   
+      RenateFischer,DepartmentofCommunicationandMediaResearch,UniversityofZurich,Andreasstrasse15,
+      8050Zurich,Switzerland.                                
+      Email:renate.fischer@uzh.ch                            
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+      Fischer and Jarren                             201     
+                                                             
+                                                             
+      of all. The fragmentation of the public sphere leads to less societal orientation and in-
+      tegration.Aswewillshow,thedigitaltransformationofsocietyhasparticularlyaffected
+      journalismandthemedia.Thesetransformationprocesseshavesparkedoffdebatesabout
+      the new norms of the communication society.            
+                                                             
+      1. Demands on and functions of the public sphere as a societal
+      mediation system                                       
+      The term public sphere describes (a) the social sphere where people exchange their
+      opinions, discuss, and deliberate on public topics and (b) the process of public delib-
+      erationwhichleadstotheformationofapublicopinion(JarrenandKlinger2017;Mahl
+      andJarren2020).Itisanimportantprerequisiteofdemocracies(Krotz2019)asitenables
+      people to observe the opinion building on political and societal topics, and therefore
+      allows an introspective view on society (Imhof 2011, 28).
+        Indemocracies,apublicsphereshouldencouragecitizenstoparticipateindiscussions
+      thatshape andfurtherdevelopsociety.Peopleshouldgetinvolvedindiscussionsabout
+      political decisions to comprehend their scope and possible consequences. As such the
+      publicsphereistobeunderstoodasasystemofsocialmediation–animportantfunction
+      in today’s democracies. Democracy can be seen as an ‘ensemble of institutions’
+      (Dahrendorf and Polito 2003, 9), all of which have the goal of bringing about social
+      changelegitimatelyandwithoutviolence.Inmodern,highlydifferentiatedsocieties,the
+      public sphere is largely constituted by media (mediatization) (Donges and Jarren 2017,
+      76). The emergence of new media has always had an impact on the public sphere and
+      opinionformation.Andwitheverychangeinthemediaenvironment,thequestionarises
+      as to whether the changed public sphere is still able to fulfil all functions necessary for
+      democracy.                                             
+        Theoriesofthepublicspheredefinebasicrequirementsforpubliccommunicationand
+      canbeassignedtothreedifferentparadigms.Theyarebasedondistinctunderstandingsof
+      democracy, address different demands on the mediation system, and focus on diverse
+      aspectsoftheopinion-formingprocess(e.g.Donges2020;DongesandJarren2017,78;
+      Ferree et al. 2002; Friedrich and Jandura 2012; Martinsen 2009, 60):
+        (1) In the liberal paradigm, the public sphere serves as a representative sounding
+           boardforallissuesandopinionsonpoliticaltopics.However,majoritiesshould
+           getapropershareinpublicdiscussions.Debatesaresupposedtobefactual,and
+           professional expertise is highly valued. Because of these requirements, this
+           paradigm tends to be elite-centred and results-oriented: In theory, a majority
+           opinion emerges in the process (output) which is then taken up by politics and
+           implementedintonewpolicies.Intheliberalparadigm,thepublicspherehasto
+           ensurethatcitizensareinformedinatransparentway.Thisparadigmislinkedto
+           the model of representative democracy.            
+        (2) In the deliberative paradigm, the power of the better argument is considered
+           essential. The goal is to find a rationally based social consensus. As such, this
+           approachisfocusedonproblem-solving(throughput).Asintheliberalparadigm,
+                                                             
+                                                             
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+      202                          Philosophy and Social Criticism 50(1)
+                                                             
+                                                             
+           deliberativemodelsrequiresomeadherencetorulesofcivility.Theoutcomeof
+           the deliberations is compromise. Deliberative models are open to all kinds of
+           topicswithoneexception:fundamentalrightsarenon-negotiable(Donges2020).
+        (3) Theparticipatoryparadigmdemandsthateveryoneshouldbeinvolvedinpublic
+           decision-makingprocessesandallopinionsshouldbeconsidered.Thefocusison
+           accesstothepublicsphere(input):Everyoneshouldbeabletotakepartandhave
+           accesswithoutdiscrimination.Today’spluralsocietiesshouldbereflectedinthe
+           publicsphere,marginalizedgroupsshouldbevisible.Thatisoneofthereasons
+           whytherearehardlyanyrulesorstylerequirementsforpublicdiscussions.Inthis
+           paradigm, all opinions need to be taken into consideration and a premature
+           closureoftheopinion-formingprocessshouldbeavoided.Inthisunderstanding,
+           topicsthatwerepreviouslyassumedprivatecanalsobecomepoliticaliftheydo
+           not refer to individual cases but to parts of the population and are regarded as
+           relevant to society.                              
+        Whileparticipatoryapproachesplaceagreatemphasisonensuringtheparticipationof
+      all in the public sphere (input), deliberative approaches focus on problem-solving
+      (throughput). The liberal paradigm, on the other hand, focuses on the majority opin-
+      ion (output).                                          
+        Asasocialmediationsystem,thepublicspherealwaysassumesvariousfunctions:It
+      integrates different topics and opinions, legitimizes political decisions by informing
+      citizens about facts and debates (transparency) and thus provides a prerequisite for
+      participation (Martinsen 2009). In addition, it enables public deliberation and partici-
+      pationindiscussions.Withthesecapacities,thepublicspherecontributessignificantlyto
+      socialorientation(Imhof2011).Journalismandthemediaplayanessentialroleinthese
+      processes.                                             
+                                                             
+      2. Traditional media’s services to society             
+      Traditional media, which have institutionalized journalism, play an essential role in
+      societal mediation processes: they disseminate information, ensure public communica-
+      tion, and still play a key role in the creation of public spheres. As established organi-
+      zations,themediaprovidecontinuouslyinformationonapermanentbasiswhichallowsto
+      observe, to analyze and to evaluate processes and decisions relevant to society. Media
+      reducecomplexityandprovideorientation.Therefore,theyareregardedasakeyplayer
+      forvital(mediatized)publicspheresandthetenoroftheirreporting(=publishedopinion)
+      is equated to public opinion. Traditional media have had the power to set topics on the
+      publicagendaaswellastoshapepublicopinioninabroadersociety.Thatiswhymedia
+      havebeenconsideredtohaveastrongsocialimpact(Beck2019).Traditionalmediastill
+      permeate society with their products – not least thanks to online distribution channels.
+      However,theyprimarilyreachtheoldermembersofsociety,lesssoyoungerpeople.In
+      addition, the increasing media variety has led to very differentiated media repertoires
+      (Hasebrink 2015).                                      
+                                                             
+                                                             
+                                                             
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+      Fischer and Jarren                             203     
+                                                             
+                                                             
+        Traditional media are relevant to society in terms of social mediation as media or-
+      ganizations provide their services on a permanent basis. Information is delivered con-
+      tinuouslyandisreliable:Itisstructuredbyjournalisticprograms(e.g.politics,economics
+      andculture)andformats(e.g.report,commentaryandfeature)whichthe(older)audience
+      isfamiliar with.Thisstructure grantsorientationandgeneratesattention,bothofwhich
+      are needed to ensure follow-up communication in the media and in face-to-face con-
+      versations (Blo¨baum 1994).                            
+        Journalism has developed its own selection and presentation programs which are
+      known throughout society. This has a stabilizing effect on expectations. However,
+      criticism of the media and journalism has increased during the past years: Journalistic
+      media are defamed as Lügenpresse (Gadinger 2019; Holtz and Kimmerle 2020). Jour-
+      nalistsareaccusedofabiasedselectivity.Theseaccusationscannotsolelybeseenagainst
+      the backdrop of populism: Economization and an increasing media concentration have
+      hadconsequencesforspatialandsocialdiversityinthemedia,too.Thereisapronounced
+      focus on people in power which has always been criticized, historically as well as
+      functionally. It is one of the structural problems of journalism (Greck 2017). Conse-
+      quently, trust in media fluctuates (Blome et al. 2020). Positive signs of higher news
+      consumption and rising trust levels during the pandemic were only short-lived. As the
+      2022DigitalNewsReportshows,‘overallnewsconsumptionhasdeclinedconsiderably
+      in many countries while trust has fallen back almost everywhere’ (Newman et al.
+      2022, 10).                                             
+        Referringtothethreeparadigmsofthepublicspherepresentedabove,journalismhas
+      fulfilledthedemandsofboththeliberalandthedeliberativeparadigmswithitsselection
+      andpresentationofnews,e.g.,bypittingtopicsandopinionsofexpertsandelitesagainst
+      eachother.Journalismwithitsselectioncriteriahasstructureddebatesandhascontributed
+      largelytopublicopinionformation.Buttheseachievementsarenotsufficientregarding
+      the participatory paradigm as this paradigm postulates a broader access to public
+      communication in order to involve as many people as possible in decision-making
+      processes.Incontrast,socialmediaoffereasilyaccessiblealternativechannelstodiscuss
+      all topics publicly. Journalism and the media have lost their monopoly on gatekeeping
+      access to the public sphere.                           
+        Nevertheless, people on social media oftentimes use journalistic products or refer to
+      them.Informationprovidedbytraditionalmediacanbedisseminated,sharedwithothers,
+      commented on and evaluated on social media. Younger users obtain information about
+      current topics via platforms (Kleinen-von Ko¨nigslo¨w 2020). This has consequences for
+      media and journalism: They have lost reach and revenue in the advertising and the
+      (paying)audiencemarkets.Asaresult,theyhavealsolostculturalandpoliticalrelevance
+      aswellastheirinterpretativepower.Inaddition,therearemanypartialorsub-publicson
+      platforms which have a significant impact on the visibility of actors and topics, on the
+      course of discussions, and on opinion formation. Because of the sheer volume of in-
+      formation provided on different channels, minorities might still find it hard to reach a
+      broader audience. Due to the shift of public communication to platforms, mass media
+      seem to be expendable.                                 
+                                                             
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+      204                          Philosophy and Social Criticism 50(1)
+                                                             
+                                                             
+      2.1 The significance of mass media for public communication in a
+      changing society                                       
+      Massmediaareamongsociety’sintermediaries,asarepoliticalparties,associations,trade
+      unionsandsocialclubs(Jarren2008;Rucht2007).Intermediariestakeupconcernsfrom
+      society,processthemandcoinpolicyissues,goalsandprogramswhicharethentakenup
+      andprocessedbytheparliamentarysystemwiththeaimtodefineandimplementpolitical
+      measures.Atthesametime,intermediariescommunicatethesepoliticaldecisionsbackto
+      society,primarilyviamassmedia.Thus,politicalprocesses,decisionsandmeasurescan
+      be publicly discussed and evaluated; people can get involved in the decision-making
+      process.                                               
+        Historically,mediawerelinkedtotheintermediaries:parties,tradeunionsorchurches
+      eachhadtheirownmediatoreachtheirmembersbutalsoageneralpublic.Assuch,the
+      processofinternalopinionformationwascoupledwiththeformationofapoliticalpublic
+      opinion. With the de-coupling of intermediaries, newspapers transformed into com-
+      mercial organizations.As fromthe1960sthisbusinesspress wasprimarilyfinanced by
+      advertising.Furthereconomizationresultedinasteadilyadvancingpressconcentration.
+      Press content was supposed to be politically neutral and increasingly geared to higher
+      circulation by incorporating more entertaining features. The higher circulation and po-
+      liticalneutralityalsoservedtheinterestofadvertisers.Evenbeforetheonsetofthepress’
+      financialcrisis,whichstartedwiththeincreasinguseoftheinternet,thepressmarketwas
+      highly concentrated. Journalistic diversity was already an issue as was the inadequate
+      information supply in some political areas or economically weak regions.
+        Traditional media such as the press, radio and television were the most important
+      intermediaries – until the establishment of the internet and communication platforms.
+      Anyone who wanted to reach all members of society, both politically (citizens) or
+      economically (consumers), had to do so through mass media. Even to reach their own
+      members,intermediarieslikepartiesortradeunionsdependedonthemedia.Thecentral
+      positionofmediaandjournalismledtothetermof‘mediasociety’becausetherewasno
+      otherwayforanyonetocommunicatetoageneralaudiencewithoutthem(Meyen2009).
+      Stakeholders became dependent on the media for an effective public communication,
+      especially because of the monopoly or oligopoly structures in many media markets.
+        And for audiences, the media became the central social institution for societal ob-
+      servation. In the mediatized society, media messages construct social realities (Kuhn
+      2018,430–434)andmedialogichasbeenacrucialpowerfactorforenablingorhindering
+      social opportunities. The media has been a social, cultural and political gatekeeper –
+      without them new social movements or societal concerns could hardly reach a broader
+      audience.Thiswasnotanewphenomenonatthetime.Workershadtoestablishtheirown
+      mediatogainpublicvisibilityfortheirconcerns.Andinthe1960s,socialmovementshad
+      toestablishcounter-publicsviafreeradiostationsornewnewspaperinitiativesliketazin
+      Germany.Massmediaandjournalismhaveactedlikefiltersforcriticalinquiriestowards
+      elites.Manyoftheseinquiriesneverreachedawiderpublic,afactwhichisstillstrongly
+      criticized today. Nowadays, new political interest groups bypass traditional media by
+                                                             
+                                                             
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+      Fischer and Jarren                             205     
+                                                             
+                                                             
+      usingsocialmediabecausetheyareabletogainaccesstothepublicspherewithoutthe
+      obstacles journalism has posed before.                 
+        Therelativelyclosecouplingofthemediawithintermediarieslikepoliticalpartiesor
+      othersocialgroupshasbeenadefiningfeatureoftheintermediarysystemforalongtime,
+      andthemodelcontinuestohaveaconstitutiveeffect.Eventoday,thenationalprintmedia
+      inparticulararedescribedaspoliticallyleftorright,orevenseethemselvesasexplicitly
+      politicallyoriented,forexample,inGermany,thereistheFAZontherightorthetazonthe
+      leftofthepoliticalspectrum.Qualitymediapursueadistinguishednormativejournalistic
+      program. And for public broadcasters in Germany the coupling to all relevant
+      intermediaries has been institutionalized. Market developments in the area of national
+      quality print media, on the one hand, and guidelines for public broadcasting led to a
+      mediation structure that follows the central political and social cleavages. Thus, a dis-
+      tinction can be made between ‘left-wing’ and ‘right-wing’ media products. This media
+      structureenabledpoliticalorientation,reciprocalreferences,anddiscourse.Debateswere
+      conducted along the right-left axis, a structure that made political processes and dis-
+      cussions easier to observe (Neidhardt 2007).           
+      2.2 The structure of journalism and its contribution to society
+      Journalistic programs (e.g. regarding selection and presentation of topics) of media
+      organizationsaredeterminedbytheownersofnewspapersorthesociallyrelevantgroups
+      inthecaseofpublicbroadcasters.Togethertheyformthejournalisticsupplystructureand
+      formats (Altmeppen 2006). Over time, there has been a shift from a journalism which
+      focusedonindividualpoliticalinterests,wherejournalistsoftentimeswerealsomembers
+      ofparliament, towards an understandingof journalism as a ‘non-biased’service. At the
+      same time journalism has become a highly differentiated full-time occupation. Today,
+      more journalists work for entertainment or specialist media than for news media
+      (Dernbach 2010). In Germany, the number of journalists has been shrinking from
+      54,000in1993toaround41,220peopleworkinginjournalismin2016includingaround
+      10,000 freelancers (Steindl et al. 2017). Margreth Lünenborg and Simon Berghofer
+      (2010) determined that there were just over 6,100 political journalists in Germany in
+      2010.Theself-imageofjournalismhaschangedfromtheformergroup-centredmediation
+      roletowardsaneutralornon-biasedpresenterofnews.Inadditiontothereductioninjobs,
+      journalism studies currently observe de-professionalization, a dissolution of job
+      boundaries,anincreaseinprecarioustermsofemployment,anddecliningincomes(Wahl-
+      Jorgensen and Hanitzsch 2020). Driven by the success of platforms, traditional media
+      offer more content on various different channels, which was only possible through an
+      increase in content production. Newsrooms are now the most common form of work
+      whichdemandsbothgeneralistandhighlyspecializedskillsincludingnewtechnicalskills
+      and database management. As a result, journalistic workplaces which were formerly a
+      place of political debate, are increasingly transforming into coordination centres for
+      procurement, control of production, and distribution of content. The automatization of
+      these processes which is based on algorithms supersedes former journalistic activities.
+      Commercialpressuresgainimportance:Contentisproducedtomaximizeviews,editorial
+                                                             
+                                                             
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+      206                          Philosophy and Social Criticism 50(1)
+                                                             
+                                                             
+      analyticsreplacejournalisticrelevance,searchengineoptimizationoverridesqualityand
+      integrity.Contentofotherprovidersisre-usedandvisuallystagedonsocialmediawhich
+      reduces production cost and increases visibility of the own media brand (Lobigs 2018,
+      315–316).Duetothepressureofnativeadvertisingandincreasingthebrand’sreachon
+      social media, traditional media align their content with the immediate user behaviour.
+      ‘Socialmediaintroducenewtechno-commercialmechanismsinpubliccommunication’
+      (PoellandvanDijck2014,185).Awholesectoraswellasaprofessionareinastateof
+      upheaval, in a fundamental transformation process – outcome unknown.
+        Thedemandsonjournalismhaveincreasedsignificantlyinthisprocess.AsNeuberger
+      (2018)notes,traditionaljournalismcontinuestodiscusssalientsocietaltopicsbuthasto
+      copewithmorecomplexity:journalismhastoobserve,analyze,andevaluatelargersocial
+      contextsandmoretopicsineverbroaderfields.Onsocialmedia,peopleexpectincreased
+      audienceinvolvement,bothinproductionofcontentandinthedebateaboutthecovered
+      issues(co-production,collaboration).Thenewcommunicationpossibilitiesonplatforms
+      are said to have triggered a participatory turn or an audience turn of public communi-
+      cation. To keep up with these expectations, journalism must involve the audience to
+      maintain reachandlegitimacy,butalsohastofulfilitsfunctionofcriticism andcontrol
+      (Loosen et al. 2020).                                  
+        Whatarethecorefunctionsofjournalismunderthesetremendouslychangingsocio-
+      technical and socio-cultural conditions? Journalists and researchers have not come to a
+      final conclusion yet. It is recognized that, in addition to select and interpret issues,
+      journalistsneedtotakeintoaccountthenewlogicsofattentionandstagingoftopicsin
+      public communication due to the data-driven distribution and evaluations of posts on
+      platforms. Journalists and editors are active on social media, they run blogs or produce
+      and post videos online. In addition to traditional print and digital media products (e.g.,
+      websitesande-paper),subscribersareservedwith(sometimespersonalized)newsletters.
+      What is the purpose of journalism? Is it merely a service or a ‘gate watcher’, does it
+      moderatepubliccommunication ormerelyhelptheaudiencetonavigatethroughavast
+      amount of information? Corresponding models are being discussed for all the above
+      functions: for example, ‘participatory journalism’ (e.g. Westlund and Murschetz 2019),
+      ‘data journalism’ (e.g. Anderson 2018), and ‘civic or citizen journalism’ (e.g. Roberts
+      2019).                                                 
+        Inshort:itisnolongerenoughtoselectissuesandtopublisharticlesorfeatureswitha
+      strong emphasis on elites’ and experts’ opinions. Journalism must cope with new ex-
+      pectations. It has to fulfil the expectations of the participatory paradigm of the public
+      sphere by covering more and different people’s opinions without excluding any group
+      from public communication. This is partly at odds with previous selection rules which
+      focusedonincumbents,celebrities,andexpertswiththeaimtoformamajorityopinion.
+      This – until now – dominant selection program is not consistent with the demands for
+      political aswellassocial equalitywhichisbased oncollectivelearningandknowledge
+      management (Allen 2020) with the aim to optimize political decisions.
+                                                             
+                                                             
+                                                             
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+      Fischer and Jarren                             207     
+                                                             
+                                                             
+      3. The consequences of platformization                 
+      With online platforms, a ‘new, global social information and communication system’
+      (Jarren 2019) has been established. Mark Eisenegger (2021) describes the process of
+      platformization as the third, digital structural change of the public sphere; the recent
+      changeisthusonthesamelevelastheemergenceofmassmediaattheturnofthe19th
+      century and the economization of journalistic media, described as the second structural
+      change.Onlineplatformschangethestructureofthepublicspherewithimplicationsfor
+      actors, media products and contents – and consequences for social mediation and
+      democracy.                                             
+                                                             
+      3.1 Media and journalism’s adaption to platform logic  
+                                                             
+      Digital platformsarenewintermediaries thatconstitute, coordinate andcontrol markets
+      byofferingawidevarietyofservicessuchastheexchangeofgoods,theprovisionand
+      exchangeofinformation,andthefacilitationofcommunication,inpublicandinprivate.
+      Our focus is onplatforms that contribute tothe public sphere by providing information
+      andfacilitatingcommunication:searchengines,newsaggregators,socialmediaandvideo
+      platforms.Theseplatformscanbeseenasnew‘structure-forming,rule-settingandaction-
+      coordinating’ (Dolata 2020) intermediaries: They do not provide information services
+      themselvesbutenableotherstoplaceinformationontheplatformandcommunicatewith
+      eachother.Althoughtheydonotcontributeanycontent,theyofferoptionstothirdparties
+      fordisplayingtext,imagesandsound,aswellasalgorithmiccontrolofpublicreach.With
+      their algorithms they influence whether and how content becomes visible, they provide
+      theruleshowuserscanshare,followorratethecontributions.Platformsdeterminewhich
+      social interactions are possible and which are not. As new, private institutions they
+      determine their general terms and conditions as well as their community standards, the
+      rulesforinformationandcommunicationandwiththosewhocanusetheirservicesand
+      who is excluded.                                       
+        The new players with their new business models where users benefit from ‘free’
+      access by paying for the services with their data, have a major impact on traditional
+      media. Their core business model is based on professional selection, the supply of
+      verified information in known formats, bundled in different sections or linear distri-
+      butionofinformationforradioandtelevision.Journalismwasmainlyfinancedthrough
+      advertising revenue, but users have also paid for the services. Now, users can access
+      information for free which makes news consumption on the internet attractive. And
+      becausethereisanincreasingamountofinformationavailablefreeofcharge,peopleare
+      less willing to pay for traditional news media. Advertisers are able to target their
+      customersmoreefficientlyviaplatforms(Lobigs2018).Theseprocesseshaveledtoa
+      funding crisis for journalism even if the overall reach of their content increases
+      (Weischenberg 2018) due to the new distribution channels the platforms offer. Espe-
+      ciallyinthebeginningoftheCOVIDpandemic,freeaccesstoinformationhasincreased
+      considerably (Newman et al. 2020, 10).                 
+                                                             
+                                                             
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+      208                          Philosophy and Social Criticism 50(1)
+                                                             
+                                                             
+        Platformsarechangingthenormsandrulesofjournalism.Evenqualitymediatryto
+      expand their reach with attention-seeking posts on social media. News is provided in
+      snippets24/7:Postsinsteadofarticles,interviews,orfeatures.Mediaandjournalismhad
+      to adapt to the multiple new distribution channels all of which have their own logic.
+      Journalismgearedtoageneralaudiencecannotaffordtoforegomulti-channelactivities
+      (Dolata2020)withoutlosingentireagegroups(Newmanetal.2020).Mediabrandsneed
+      tomaintainthevisibilityoftheirbrandandtheycannotaffordtolosethegroupofyounger
+      adults.Thisrequiresanincreasingeffortbyjournalistswhohavetoadapttheircontentto
+      thelogicofthedifferentdistributionchannelswithrepercussionsfortherulesandtheway
+      of journalistic work. From the perspective of institutional theory, platforms exert an
+      institutionalpressuretoadapt(Donges2013)itsrulesofselectionandthepresentationof
+      news.Justasmassmediaonceforcedpoliticstoadapttothemediamodeofproduction,
+      platforms are now triggering a change in journalistic rules. Traditional media have
+      become ‘platform complements’ (Eisenegger 2021, 21).   
+        The changes of societal mediation are characterized by the decoupling of content
+      production,distribution,andthecontextofuse.Intraditionalmedia,journalistsproduced
+      contentwhichwasdistributedviatheirownchannels:Theaudiencegottheirnewspaper
+      inthemorningorwatchedorlistenedtonewswhichwasbroadcastedatacertaintime–
+      journalism produced content for a pipeline. On platforms, supply and demand are de-
+      contextualized.Inaddition,userswillfindprivateandpublictopicsnexttoeachother–
+      seemingly equivalent in reach and importance (Antic´ 2020). Relevance and quality of
+      contentaremanifoldandmixedwithadvertisingorpublicrelationscontent.Usersneedto
+      be media-savvy in order to distinguish the differences.
+      3.2 Increasing tabloidization and emotionalization throughout the
+      public sphere                                          
+      Thenewformsofprovision,distributionanduseofjournalisticcontenthaveavarietyof
+      effects on how traditional media outlets produce content. Now they have to produce
+      contentindifferentformats,condensedtoindividualsnippetsoftextorvideosothatthey
+      canbeeasilysharedanddisseminatedonandacrossvariousplatforms.Aseveryplatform
+      hasitsownlogic,contenthastobeadjustedaccordinglytoensurethecontentmatchesthe
+      platform’s algorithm and therefore reaches a broad audience. In traditional media,
+      content’srelevancewasdeterminedbyitssocialorpoliticalscope.Thathaschanged:as
+      journalists and the media need to reach a broad audience on the online platforms, they
+      havetoconsiderothercriteria.Relevanceonsocialmediaisrelatedtoclicks,views,likes
+      and shares. Practices we know from tabloids are now being adopted by quality media:
+      strong,emotionalheadlinesattractattention.Theorientationtowardsanattention-seeking
+      economy is increasing. Content is adapted accordingly. Ever more topics need to be
+      coveredanddistributed.Successful social mediapoststriggerattentionandexcitement.
+      Traditional media, now seeking success on platforms imitate this kind of content.
+      Research shows that emotionally charged, personalized posts generate more attention
+      thanothers.Thesameholdstrueforfakenews.Thesocialmedialogicisrubbingoffon
+                                                             
+                                                             
+                                                             
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+      Fischer and Jarren                             209     
+                                                             
+                                                             
+      journalism: journalistic news contributions have been found to be increasingly emo-
+      tionalized and personalized (Wahl-Jorgensen 2020).     
+        There have been attempts to establish news aggregators, enabling access to various
+      media brands on one platform. The U.S. has been the only country where this form of
+      news distribution has had some success. In other countries, this form of access has not
+      beenaspopular(Newmanetal.2020,34).Thatisthereasonwhy,ithasbeenconsidered
+      to institutionalize public platforms as a kind of ‘Spotify for journalism’ (Buschow and
+      Wellbrock2020).However,musiccanbelistenedtorepeatedly,buttheaudienceisrarely
+      interested in yesterday’s news. Journalists produce topical news for a certain audience,
+      relating to political areas, to specific current processes. Daily news cannot be repeated
+      endlessly, let alone be sold over and over again.      
+      3.3 Audience fragmentation and news avoidance          
+                                                             
+      Massmediahaveprovidedrelevantinformationbasedonprofessionalselectioncriteria.
+      Theyensuredthatvarioustopicsandopinionswereknowntothepublic.Buttraditional
+      media are losing their audience: In the 2020 Reuters Institute’s survey, 72% of re-
+      spondents reported that they mostly accessed news via social media, search engines,
+      mobilealerts,aggregatorsoremail.Only28%ofallrespondentssaidthattheyaccessed
+      traditionalmediadirectly.Among18to24yearoldsonly16%accessedtraditionalmedia
+      viatheirownchannels,themostcommongatewaytonewswassocialmedia(Newman
+      et al. 2020, 24).                                      
+        On social media, users take an active role by liking, sharing or commenting on
+      journalisticcontentsorbycreatingtheirownnews.Thisispossibleonsocialmediabut
+      lesssoonthewebsitesoftraditionalmedia.Socialmediawiththeirfreeaccessmeetone
+      ofthecentralrequirementsoftheparticipatoryparadigmofthepublicsphere.Thebroad
+      range of news provided by journalists and other actors and the substantial number of
+      different channels (‘platformized long-tail public sphere’ (Eisenegger 2021)) lead to
+      individualized media repertoires in which the boundaries of private and public are in-
+      creasingly blurred.                                    
+        Anothermore recentdevelopment,whichisworse, isthefact thatpeople‘choose to
+      rationorlimittheirexposureto[…]news’(Newmanetal.2022,13).Inaverage,38%of
+      allrespondentsoftheReuters’2022surveysaidtheyactivelyavoidthenews.Themain
+      reasons for news avoidance were too much news about politics or the pandemic, news
+      having a negative effect on the mood, or being worn out by the sheer amount of news
+      (p.13).                                                
+      4. The transformation of the intermediary system       
+      Atthispointintime,wecannotconclusivelyassesstheeffectsoftheinstitutionalization
+      ofplatformsontheintermediarysystem.Whatcanbedeterminedisthatweseenotmerely
+      a process of convergence, that is, the establishment of a new media in addition to the
+      existingtraditionalmedia.Platformsarenewinstitutionsintheintermediarysystemwho
+      are not (yet) pursuing their own journalistic objectives. They do not see themselves as
+                                                             
+                                                             
+                                                             
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+      210                          Philosophy and Social Criticism 50(1)
+                                                             
+                                                             
+      media, but they provide media services. However, with the increasing dominance of
+      platforms for public communication, they establish new norms and rules in the inter-
+      mediary system. Platforms have a different business model than traditional media, but
+      theirmarketentryhasstructuralandproceduraleffectsontraditionalmedia,journalism,
+      and the public sphere.                                 
+        Political journalism is losing resources as well as relevance. The financial crisis of
+      traditionalmediahasnegativeeffectsontheprofessionandtheprofession’sperformance.
+      Attempts to stabilize the media market by boosting journalistic performance or by in-
+      troducing pay walls as a new business model have not been successful so far. The
+      multitude of providers and different media products makes it hard for users to evaluate
+      singlebrandsandservices.Andmediabrands–exceptforinternationaloneslikeTheNew
+      YorkTimesorTheEconomist–aretooweaktobinduserstotheirproductsespeciallyin
+      terms of the willingness to subscribe and pay for the services. Media brands are not
+      perceived to be exclusive, because there is a wide supply of digital news. And inves-
+      tigativejournalismreachesitsaudienceviablogsorplatforms(Schrape2017).Therefore,
+      FrankLobigsandGerretvonNordheim(2014)donotaskbutclaim‘journalismisnota
+      business model.’                                       
+        Furthermore,platforms influence theway users select information. Bundled services
+      (print) or linear programs (TVand radio) are in less demand. Circulation or reach, the
+      willingness of an integral use of news provided by traditional media are in decline. It
+      remains to be seen whether journalism as a service will survive in other organizational
+      contextsthanpublishinghousesorwithotherfinancingmodelsthanbysubscriptionsor
+      donations (Pickard 2020).                              
+        Thedecontextualizationofcontent,topics,andissues,inadditiontothechangeofhow
+      peopleusemediaservicescouldtriggersocialproblems:Thehighlyindividualizedmedia
+      repertoiresmightleadtoseparateusercommunities,evensub-publics.Howdoweensure
+      societalintegrationastraditionalmediacannotordonotwanttomeetthisdemanddueto
+      economicproblems?Underthenewhighchoicemediaconditions(vanAelstetal.2017)
+      it is now up to the users to determine through their selection behaviour and their
+      willingness to pay if journalism and the traditional media will survive the current
+      turbulences.                                           
+      5.Concludingremarksonthecurrentdebateandlegalregulation
+      The influence of platforms on the intermediary system needs to be discussed from the
+      perspectiveofpublicsphereanddemocracytheories.Platformsdonotseethemselvesas
+      media,intheirpointofviewtheydonotperformapublictask.Buttheydoprovidemedia
+      services: Platforms are relevant for the formation of group, organizational, or network
+      publics.Theyprovideastagefortopicsandopinionsandenableindividualsandgroupsto
+      network. Institutionally, they influence journalism and traditional news media and ac-
+      celerate the process of individualization (Reckwitz 2019). Platforms enable the consti-
+      tution of communities and the formation of topics, both temporarily and permanently.
+      Newpublicscanbeformed(Klinger2018)byinfluencerswhocannudgetheformationof
+      groups or topics. Even hashtags can start a public discussion about a specific topic and
+                                                             
+                                                             
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+      Fischer and Jarren                             211     
+                                                             
+                                                             
+      contribute to the formation of a public opinion. Through platform metrics such as the
+      numberofhits,followers,likesorthecompilationofnewsfeedsorrecommendationlists,
+      usersgetanimpressionoftheperceivedrelevanceoftopicsorgroups.Platformscreate
+      new forms of social visibility and relevance beyond the respective online community.
+        Becauseofplatforms,thepublicsphereisbecomingmorediverseintermsofspaceand
+      time.Morepeoplegainaccess,andmoretopicsarebeingdiscussed.Theuniversalaccess
+      changestheconstitutionofthepublicsphere,itisgettingmoredynamic.However,dueto
+      thesedynamics,thevastnumberofparticipants,thediversityofperspectives,viewsand
+      interpretations as well as instant reactions, the aggregation of the underlying commu-
+      nicationtowardsapublicopinionisdifficult.Thepublicspherelosesitspowertostabilize
+      societyandtointegrateanditisbecomingincreasinglydifficulttotransformdeliberative
+      processes into political ones, as Habermas (2022) pointed out recently.
+        When the public sphere was dominated by mass media, journalism contributed
+      significantlytoanintermediarysystemthatmetthenormativerequirementsoftheliberal
+      paradigm.Itthusenabledapermanentandsystematicsocietalintrospection;societywas
+      observableandsteerabletowardsanon-violenttransformationwhichisthecoreobjective
+      of democracy according to Ralf Dahrendorf (Dahrendorf and Polito 2003). Platform-
+      izationhasestablishedabroaderaccesstothepublicspherewhich–fromtheperspective
+      of the participatory paradigm and the demands for political equality (‘epistemic egali-
+      tarism’(Allen2020))–canberegardedasfundamentallypositive.Butatthesametime,
+      thisbroadaccessleadstopathologiessuchashatespeechandtoformsofpolarizationin
+      public communication.                                  
+        Themarketentryofplatformshashadstructuralaswellasproceduralconsequences
+      forthepublicsphereandpoliticalcommunication:Platformshavefacilitatedtheaccessto
+      the public sphere (input) and have also partially democratized it. However, processing
+      topics (throughput) has become unclear and messy due to the sheer volume of topics
+      which are now discussed in public simultaneously, and aggregation has become de-
+      mandingastherearenoinstitutionalizedactorstakingcareoftheprocess.Discussionsin
+      thepublicsphereshouldleadtoaresult(publicopinionasoutput)whichcanbetakenup
+      by the political system. There are still open questions: Can individual communications
+      trigger selective effects on political decisions? What are the risks associated with the
+      increasingdynamicsofpubliccommunication?Evenifthereisadiscussionofindividual
+      phenomenaregardingthechangingstructureofthepublicsphere,thereisstillalackofa
+      systematic ongoing debate about the platforms and their effect on society.
+        The institutionalization process of platforms requires – beyond intensified
+      communication – new policies. Platforms need to be regulated to enable new forms of
+      socialmediationaswellaspersonalexpression.Anewbalancemustbestruckbetween
+      general, public concerns and individual, private concerns. To this end, the in-
+      stitutionalization process requires scientific observation and analysis as well as the
+      participationof civil societyinacritical publicdebate.Thisdebate could beintensified
+      through new social actors, both nationally and at the European level (Jarren 2018).
+      However,onlyifthediscourseistakenbeyondtheplatforms,wewillbeabletodevelopa
+      broadpublicdebate.Platformownersinstitutionallydenythedebatetotakeplaceontheir
+      own platforms. They did not respond to societal demands before political pressure,
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+      212                          Philosophy and Social Criticism 50(1)
+                                                             
+                                                             
+      parliamentary hearings and concrete regulatory measures forced them to. In the debate
+      aboutopportunitiesandthreatsofthenewstructuresofthepublicsphere,journalistsand
+      thetraditionalmediamustplayanimportantrole,inadditiontodiscoursesofthescientific
+      communityandcivilsociety(Jarren2018).However,thecrisisoftraditionalmedialimits
+      theirabilitytoinitiatebroaddebates,ingeneralbutalsoinrelationtotheongoingprocess
+      ofplatformization.Ifoneadherestotheprinciplesofliberaldemocracy,butadvocatesa
+      changeinnorms,institutions,andprocesses,thenafundamentaldebateaboutthefuture
+      constitution of society as well as the development of a ‘new public media system’
+      (Pickard 2020, 161) needs to be held.                  
+                                                             
+      Author note                                            
+                                                             
+      Thiscontributionisatranslated,updatedandextendedversionofaGerman-languagearticlewhich
+      was published in a special issue of Leviathan (2021), edited by Martin Seeliger and Sebastian
+      Sevignani.                                             
+                                                             
+      ORCID iD                                               
+      RenateFischerhttps://orcid.org/0000-0003-0584-2349    
+                                                             
+      References                                             
+      Allen, Danielle. 2020. Politische Gleichheit: Frankfurter Adorno-Vorlesungen 2017. Berlin:
+         Suhrkamp.                                           
+      Altmeppen, Klaus-Dieter. 2006. Journalismus und Medien als Organisationen: Leistungen,
+         StrukturenundManagement.Wiesbaden: VSVerlag für Sozialwissenschaften.
+      Anderson,ChristopherW.2018.ApostlesofCertainty:DataJournalismandthePoliticsofDoubt.
+         NewYork,NY: Oxford University Press.                
+      Antic, Andreas. 2020. “O¨ffentlichkeit im digitalen Wandel: Zur Aktualita¨t von John Deweys
+         O¨ffentlichkeitstheorie.”InDigitaleTransformationenderO¨ffentlichkeit,editedbyJan-Philipp
+         Kruse,andSabineMüller-Mall,19–27.Weilerswist: VelbrückWissenschaft.
+      Beck,Klaus.2019.“O¨ffnungoderAuflo¨sungdesMediensystems?”MedienJournal43(3):5–26.
+         doi:10.24989/medienjournal.v43i3.1829               
+      Blo¨baum, Bernd. 1994. Journalismus als soziales System: Geschichte, Ausdifferenzierung und
+         Verselbsta¨ndigung.Wiesbaden: VSVerlag fürSozialwissenschaften.
+      Blome, Astrid, Eberwein Tobias, and Stefanie Averbeck-Lietz, eds. 2020. Medienvertrauen:
+         Historische undaktuelle Perspektiven.Berlin, Boston: DeGruyter Saur.
+      Buschow, Christopher, and Christian-Mathias Wellbrock. 2020. Die Innovationslandschaft des
+         Journalismusin Deutschland.Düsseldorf: Landesanstalt fürMedien NRW.
+      Dahrendorf,Ralf,andAntonioPolito.2003.DieKrisenderDemokratie:EinGespra¨chmitAntonio
+         Polito.Beck’scheReihe. München:C.H. Beck.           
+      Dernbach, Beatrice. 2010. Die Vielfalt des Fachjournalismus: Eine systematische Einführung.
+         Wiesbaden: VS Verlag für Sozialwissenschaften.      
+                                                             
+                                                             
+                                                             
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+      Fischer and Jarren                             213     
+                                                             
+                                                             
+      Dolata, Ulrich. 2020. “Plattform-Regulierung. Koordination von Ma¨rkten und Kuratierung von
+         Sozialita¨t im Internet.” Berliner Journal für Soziologie 29 (3–4): 179–206. doi:10.1007/
+         s11609-020-00403-9                                  
+      Donges, Patrick. 2013. “Klassische Medien als Institutionen.” In Medien als Institutionen und
+         Organisationen,editedbyMatthiasKünzler,FranziskaOehmer,ManuelPuppis,andChristian
+         Wassmer,87–96. Baden-Baden:Nomos.                   
+      Donges,Patrick.2020.“DieRollederMedieninderErmo¨glichungoderBehinderungpolitischer
+         Partizipation.” In Partizipation für alle und alles? edited by Astrid Lorenz, Christian P.
+         Hoffmann,andUwe Hitschfeld, 283–298.Wiesbaden: SpringerFachmedien.
+      Donges,Patrick,andOtfriedJarren.2017.PolitischeKommunikationinderMediengesellschaft:
+         EineEinführung.4.Auflage.StudienbücherzurKommunikations-undMedienwissenschaft.
+         Wiesbaden: Springer VS.                             
+      Eisenegger, Mark. 2021. “Dritter, digitaler Strukturwandel der O¨ffentlichkeit als Folge der
+         Plattformisierung.” In Digitaler Strukturwandel der O¨ffentlichkeit: Historische Verortung,
+         ModelleundKonsequenzen.Mediensymposium,editedbyMarkEisenegger,MarlisPrinzing,
+         Patrik Ettinger,and RogerBlum,17–37.Wiesbaden: Springer VS.
+      Ferree,MyraMarx,WilliamA.Gamson,JürgenGerhards,andDieterRucht.2002.“FourModelsof
+         the Public Spherein ModernDemocracies.”TheoryandSociety 31: 289–324.
+      Friedrich, Katja, and Olaf Jandura. 2012. “Politikvermittlung durch Boulevardjournalismus.”
+         Publizistik 57(4): 403–417. doi:10.1007/s11616-012-0158-5.
+      Gadinger, Frank. 2019. “Lügenpresse, gesunder Volksko¨rper, tatkra¨ftiger Macher: Erza¨hlformen
+         des Populismus.” Narrative des Populismus, edited by Michael Müller, and Jørn Precht,
+         115–146. Wiesbaden: Springer.                       
+      Greck,Regina. 2017.Elita¨reVerha¨ltnisse.Wiesbaden: Springer Fachmedien.
+      Habermas,Jürgen.2022.“ReflectionsandHypothesesonaFurtherStructuralTransformationofthe
+         Political Public Sphere.” Theory, Culture & Society 39 (4): 145–171. doi:10.1177/
+         02632764221112341.                                  
+      Hasebrink, Uwe. 2015. “Kommunikationsrepertoires und digitale O¨ffentlichkeiten.” In Digitale
+         O¨ffentlichkeit(en),editedbyOliverHahn,RalfHohlfeld,andThomasKnieper,35–49.Berlin:
+         UVKVerlagsgesellschaft.                             
+      Holtz,Peter,andJoachimKimmerle.2020.““Lügenpresse”undderHostile-Media-Effekt.”InDie
+         PsychologiedesPostfaktischen:U¨berFakeNews,“Lügenpresse”,Clickbait&Co,editedby
+         Markus Appel, 21–31.Berlin, Heidelberg: Springer.   
+      Imhof, Kurt. 2011. Die Krise der O¨ffentlichkeit: Kommunikation und Medien als Faktoren des
+         sozialenWandels.Frankfurtam Main: CampusVerlag.     
+      Jarren, Otfried. 2008. “Massenmedien als Intermedia¨re: Zur anhaltenden Relevanz der Massen-
+         medien für die o¨ffentliche Kommunikation.” M&K 56 (3–4): 329–346. doi:10.5771/1615-
+         634x-2008-3-4-329.                                  
+      Jarren,Otfried.2018.“KommunikationspolitikfürdieKommunikationsgesellschaft:Verantwortungskultur
+         durchRegulierung.”AusPolitikundZeitgeschichte68(40/41):23–28.
+      Jarren, Otfried. 2019. “Fundamentale Institutionalisierung: Social Media als neue globale Kom-
+         munikationsinfrastruktur.”Publizistik 64(2): 163–179. doi:10.1007/s11616-019-00503-4.
+      Jarren, Otfried, and Ulrike Klinger. 2017. “O¨ffentlichkeit und Medien im digitalen Zeitalter:
+         zwischen Differenzierung und Neu-Institutionalisierung.” In Medienkompetenz:
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+      214                          Philosophy and Social Criticism 50(1)
+                                                             
+                                                             
+         HerausforderungfürPolitik,politischeBildungundMedienbildung,editedbyHaraldGapski,
+         Monika Oberle, andWalterStaufer.Bonn:Bundeszentrale für politische Bildung.
+      Jarren Otfried, and Christoph Neuberger, eds. 2020. Gesellschaftliche Vermittlung in der Krise:
+         MedienundPlattformenals Intermedia¨re.Baden-Baden: Nomos.
+      Kleinen-von Ko¨nigslo¨w, Katharina. 2020. “Die Individualisierung der Nachrichtennutzung als
+         Treiber der gesellschaftlichen Vermittlungskrise.” In Gesellschaftliche Vermittlung in der
+         Krise: Medien und Plattformen als Intermedia¨re, edited by Otfried Jarren, and Christoph
+         Neuberger,93–118. Baden-Baden:Nomos.                
+      Klinger,Ulrike.2018.“AufstiegderSemio¨ffentlichkeit:EinerelationalePerspektive.”Publizistik
+         63(2):245–267.doi:10.1007/s11616-018-0421-5.        
+      Krotz, Friedrich. 2019. “O¨ffentlichkeit und Demokratie unter Bedingungen eines radikalen me-
+         dialen undsozialen Wandels.”In Wandel der O¨ffentlichkeitundder Gesellschaft,editedby
+         Mark Eisenegger, Linards Udris, and Patrik Ettinger, 31–51. Wiesbaden: Springer
+         Fachmedien.                                         
+      Kuhn,Axel. 2018.Zeitschriften undMedienunterhaltung.Wiesbaden: Springer.
+      Lobigs,Frank.2018.“WirtschaftlicheProblemedesJournalismusimInternet:Verdra¨ngungsa¨ngste
+         und fehlende Erlo¨squellen.” In Journalismus im Internet: Profession, Partizipation, Tech-
+         nisierung. 2., aktualisierte und erweiterte Auflage, edited by Christian Nuernbergk, and
+         Christoph Neuberger,295–334. Wiesbaden: SpringerVS. 
+      Lobigs Frank, and Gerret von Nordheim, eds. 2014. Journalismus ist kein Gescha¨ftsmodell:
+         Aktuelle Studien zur O¨konomie und Nicht-O¨konomie des Journalismus. Reihe Medi-
+         eno¨konomie 5.Baden-Baden: Nomos.                   
+      Loosen,Wiebke,JuliusReimer,andSaschaHo¨lig.2020.“WasJournalistensollenundwollen:(In-)
+         Kongruenzenzwischenjournalistischem Rollenselbstversta¨ndnisundPublikumserwartung.”
+         Arbeitspapiere des Hans-Bredow-Instituts 49. https://www.hans-bredow-institut.de/de/
+         publikationen/was-journalisten-sollen-und-wollen    
+      Lünenborg, Margreth, and Berghofer Simon. 2010. Politikjournalistinnen und -Journalisten:
+         AktuelleBefundezuMerkmalenundEinstellungen vordemHintergrundo¨konomischerund
+         technologischer Wandlungsprozesse im deutschen Journalismus. Berlin: Deutscher Fach-
+         journalisten-Verband(DFJV).                         
+      Mahl,Daniela,andOtfriedJarren.2020.“O¨ffentlichkeit:GrundbegriffederKommunikations-und
+         Medienethik (Teil20).”Communicatio Socialis (2):223–229.
+      Martinsen,Renate.2009.“O¨ffentlichkeitinder“Mediendemokratie”-TheorienundBefundezur
+         Medialisierung von Politik.” In Politik in der Mediendemokratie. Politische Vierteljahress-
+         chriftSonderheft42/2009,editedbyFrankMarcinkowski,andBarbaraPfetsch.Wiesbaden:
+         VSVerlag für Sozialwissenschaften.                  
+      Meyen,Michael.2009.“Medialisierung.”M&K57(1):23–38.doi:10.5771/1615-634x-2009-1-23.
+      Neidhardt,Friedhelm.2007.“Massenmedienimintermedia¨renSystemmodernerDemokratien.”In
+         EntgrenzteDemokratie?editedbyOtfriedJarren,DominikLachenmeier,andAdrianSteiner,
+         33–47.Baden-Baden: Nomos.                           
+      Neuberger, Christoph. 2018. “Journalismus in der Netzwerko¨ffentlichkeit: Zum Verha¨ltnis zwi-
+         schen Profession, Partizipation und Technik.” In Journalismus im Internet: Profession,
+         Partizipation, Technisierung. 2., aktualisierte und erweiterte Auflage, edited by Christian
+         Nuernbergk,andChristoph Neuberger,11–80. Wiesbaden: SpringerVS.
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+      Fischer and Jarren                             215     
+                                                             
+                                                             
+      Newman, Nic, Richard Fletcher, Anne Schulz, Simge Andi, and Rasmus Kleis Nielsen. 2020.
+         Reuters Institute Digital News Report 2020. Oxford: Reuters Institute for the Study of
+         Journalism.                                         
+      Newman, Nic, Richard Fletcher, Craig T. Robertson, Kirsten Eddy, and Rasmus Kleis Nielsen.
+         2022.ReutersInstituteDigitalNewsReport2022.Oxford:ReutersInstitutefortheStudyof
+         Journalism.                                         
+      Pickard,Victor.2020.Democracy without Journalism?Oxford: OxfordUniversity Press.
+      Poell,Thomas,andJose´vanDijck.2014.“SocialMediaandJournalisticIndependence.”InMedia
+         Independence:WorkingwithFreedomorWorkingforFree?editedbyJamesBennett,andNiki
+         Strange, 182–201.Hoboken: Taylor andFrancis.        
+      Reckwitz, Andreas. 2019. Das Ende der Illusionen: Politik, O¨konomie und Kultur in der
+         Spa¨tmoderne.Berlin: Suhrkamp.                      
+      Roberts,Jessica.2019.“CitizenJournalism.”InTheInternationalEncyclopediaofMediaLiteracy,
+         edited byReneeHobbs,andPaulMihailidis, 1–10. Wiley. 
+      Rucht, Dieter. 2007. “Das intermedia¨re System politischer Interessenvermittlung.” In Entgrenzte
+         Demokratie? edited by Otfried Jarren, Dominik Lachenmeier, and Adrian Steiner, 19–32.
+         Baden-Baden:Nomos.                                  
+      Schrape, Jan-Felix. 2017. “Reciprocal Irritations: Social Media, Mass Media and the Public
+         Sphere.” In Society, Regulation and Governance: New Modes of Shaping Social Change?
+         edited by Regine Paul, Marc Mo¨lders, Alfons Bora, Michael Huber, and Peter Münte,
+         138–150. Cheltenham: EdwardElgarPublishing.         
+      Steindl, Nina, Corinna Lauerer, and Thomas Hanitzsch. 2017. “Journalismus in Deutschland.”
+         Publizistik 62(4): 401–423. doi:10.1007/s11616-017-0378-9.
+      van Aelst, Peter, Jesper Stro¨mba¨ck, Toril Aalberg, Esser Frank, Claes de Vreese, Jo¨rg Matthes,
+         David Hopmann, Susana Salgado, Nicolas Hube´, Agnieszka Ste˛pin´ska, Stylianos
+         Papathanassopoulos, Rosa Berganza, Guido Legnante, Carsten Reinemann, Tamir Sheafer,
+         andJamesStanyer.2017.“PoliticalCommunicationinaHigh-ChoiceMediaEnvironment:A
+         ChallengeforDemocracy?”AnnalsoftheInternationalCommunicationAssociation41(1):
+         3–27.doi:10.1080/23808985.2017.1288551.             
+      Wahl-Jorgensen,Karin.2020.“AnEmotionalTurninJournalismStudies?”DigitalJournalism8
+         (2): 175–194.doi:10.1080/21670811.2019.1697626.     
+      Wahl-JorgensenKarin,andThomasHanitzsch,eds.2020.TheHandbookofJournalismStudies.
+         2nded.NewYork: Routledge/Taylor & FrancisGroup.     
+      Weischenberg, Siegfried. 2018. Medienkrise und Medienkrieg: Brauchen wir überhaupt noch
+         Journalismus?Wiesbaden: Springer.                   
+      Westlund, Oscar, and Paul Clemens Murschetz. 2019. “Reviewing the Nexus of Participatory
+         JournalismandMediatizedEngagement.”JournalofCreativeIndustriesandCulturalStudies
+         (4): 54–73.                                         
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             

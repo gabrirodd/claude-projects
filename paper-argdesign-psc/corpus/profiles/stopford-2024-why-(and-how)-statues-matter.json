@@ -1,0 +1,74 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "stopford_2024",
+  "title": "Why (and How) Statues Matter",
+  "author": "Stopford",
+  "year": 2024,
+  "journal": "Philosophy and Social Criticism",
+
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "Opening from Rhodes Must Fall and BLM decolonial activism around statues, the paper diagnoses that popular and academic debates rest on an unexamined metaphysical presupposition: statues as singular, discrete objects innocent of the histories attached to them. This presupposition, Stopford argues, truncates the horizon of decolonial political possibility. The paper's intervention: mobilize analytic metaphysics (material constitution debate) to show statues are multiple, co-locating objects materially bound to ongoing post-colonial relations.",
+    "anchored_in": ["Rao", "Massey", "Rhodes Must Fall"],
+    "stakes_claimed": "A metaphysics of statues as co-constituting, relational objects (following Heil's material constitution analysis) provides philosophical grounding for why decolonial activists consider statues crucial — statues are not merely symbolic but are nodal points in the latticework of ongoing colonial power relations."
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["anti-decolonial metaphysics (statues as singular, innocent hunks of matter)", "liberal conception (statues as symbolic proxies of a past they are innocent of)", "heritage discourse (statues as heritage objects cut adrift from historical context)"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": false,
+    "own_position_type": "framework_construction",
+    "own_position_explicit": true,
+    "description": "The paper constructs an analytic metaphysics of statues by applying John Heil's material constitution analysis: statues are multiple, co-locating objects whose identity conditions include other objects and social practices. Applied to decolonial activism, this means statues are materially constituted through post-colonial power relations — they are 'plenipotentiaries of hegemonic psychical and libidinal energy' (Rao). The paper derives decolonial implications: removing a statue does not erase history but dissolves a node of colonial power."
+  },
+
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "Analytic metaphysics: engages material constitution debate (Heil, Wiggins, Doepke) on identity of material objects; applies this to social ontology of statues; reads decolonial activism through this metaphysical lens.",
+    "notes": "This paper is an unusual entry in the PSC corpus: it uses analytic metaphysics (material constitution) to ground decolonial political theory. The argument is fully normative — the metaphysical analysis supports a normative conclusion about the politics of statues. No empirical evidence; the decolonial cases (Cecil Rhodes statue, Colston statue in Bristol) appear as illustrative examples in the philosophical argument. Classified fully_normative with a unique methodological profile: continental-political ends, analytic-metaphysical means."
+  },
+
+  "case_type": {
+    "has_case": false,
+    "case_medium": null,
+    "case_name": null,
+    "case_function": null,
+    "case_relation_to_argument": null,
+    "case_selection_justified": false
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "decolonial theory / metaphysics / political ontology / memory politics",
+    "claim_type": "framework_proposal",
+    "closure_type": "conclusion_strong"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "framework_proposal",
+    "case_introduction",
+    "case_development",
+    "normative_derivation",
+    "conclusion_strong"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["material constitution", "co-locating objects", "colonial object", "metaphysics of statues", "hegemonic infrastructure", "decolonial possibility", "relational ontology"],
+
+  "thinkers_deployed": {
+    "central": ["Heil", "Rao", "Massey"],
+    "engaged_critically": ["anti-decolonial metaphysics", "liberal heritage discourse"],
+    "referenced_only": ["Wiggins", "Doepke", "Smith", "Gramsci (implicit via hegemony)"]
+  },
+
+  "confidence_notes": "A methodologically distinctive paper: it is the only paper in the PSC corpus that grounds a decolonial normative argument in analytic metaphysics. Classified fully_normative because the argument moves in conceptual-normative space throughout: the 'statues as multiple co-locating objects' thesis is a philosophical claim used to derive normative conclusions about decolonial activism. The case examples (Colston, Rhodes) are philosophical illustrations, not empirical cases under study. The paper has an unusual move_sequence: puzzle_diagnosis → rival_mapping (metaphysical) → framework_proposal (Heil's material constitution) → case_introduction (colonial object concept) → case_development (application to decolonial activism) → normative_derivation."
+}

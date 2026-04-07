@@ -1,0 +1,1143 @@
+[PAGE 1]
+                                                             
+                                                             
+                                                             
+                                                             
+      Article                                                
+                                                             
+                                         PhilosophyandSocialCriticism
+                      fi                 2024,Vol.50(3)507–528
+      Online  astrotur ng: A  problem                        
+                                         ©TheAuthor(s)2022   
+      beyond  disinformation                                 
+                                         Articlereuseguidelines:
+                                         sagepub.com/journals-permissions
+                                         DOI:10.1177/01914537221108467
+                                         journals.sagepub.com/home/psc
+      Jovy Chan                                             
+      UniversityofToronto,Canada                             
+      Abstract                                               
+      Coordinated inauthentic behaviours online are becoming a more serious problem
+      throughout the world. One common type of manipulative behaviour is astroturfing. It
+      happens when an entity artificially creates an impression of widespread support for a
+      product, policy, or concept, when in reality only limited support exists. Online as-
+      troturfingisoftenconsideredtobejustlikeanyothercoordinatedinauthenticbehaviour;
+      withconsiderablediscussionfocusingonhowitaggravatesthespreadoffakenewsand
+      disinformation.Thispapershowsthatastroturfingcreatesadditionalproblemsforsocial
+      media platforms and the online environment in general. The practice of astroturfing
+      exploits our natural tendency to conform to what the crowd does; and because of the
+      importance of conformity in our decision-making process, the negative consequences
+      broughtaboutbyastroturfingcanbemuchmorefar-reachingandalarmingthanjustthe
+      spread of disinformation.                              
+      Keywords                                               
+      astroturfing, conformity, coordinated inauthentic behaviour, crowd wisdom,
+      disinformation, fake news, false marketing, pluralistic ignorance, social media
+                                                             
+                                                             
+                                                             
+      1. Introduction                                        
+      Recenteventsintheworldhavehighlightedjusthowinfluentialsocialmediacanbe,both
+      inanationalcontextandinternationally.Tolistafewexamples:platformslikeTwitterand
+      Facebook played a prominent role in the events surrounding the recent US presidential
+      elections; social media and messaging platforms made possible the many decentralized
+      massproteststhathavepoppeduparoundtheglobe,fromthepro-democracymovements
+                                                             
+      Correspondingauthor:                                   
+      JovyChan,DepartmentofPhilosophy,UniversityofToronto,170St.GeorgeStreet,Room400,Toronto,
+      ONM5R2M8,Canada.                                       
+      Email:jovy.chan@mail.utoronto.ca                       
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+      508                          Philosophy and Social Criticism 50(3)
+                                                             
+                                                             
+      in Hong Kong, Thailand and Belarus to the Black Lives Matter protests in the United
+      States;andofcourse,thewholeoftheinternet,forbetterorworse,playedaroleinshaping
+      how the world responds to the COVID-19 pandemic. But with great power comes the
+      greatpotentialformanipulationandmisuse.Internettrolls,fakeaccountsandthespread
+      ofdisinformationarebecomingseriousproblems,somuchsothat4yearsagoFacebook
+      developedateamtodealwith‘coordinatedinauthenticbehaviour’(CIB),atermcoined
+      by Facebook itself (Gleicher 2018). Relatively new, CIB is not a well-defined concept
+      (Douek2020),butitgenerallyreferstoactivitiesundertakenbygroupsofpeopleworking
+      togethertomisleadothersaboutwhotheyareorwhattheyaredoing.Onecommontype
+      of such manipulative behaviour is astroturfing. This happens when an entity artificially
+      createsanimpressionthatthereiswidespreadsentimentinfavouroforagainstaproduct,
+      policy, or concept, when in actuality no such sentiment exists, at least not to the extent
+      imputed (Schill 2014). The focus of ‘Big Tech’ companies on cybersecurity seldom
+      includes consideration of astroturfing in isolation, but only as one of many inauthentic
+      behaviours in the online environment that must be prevented. Academic commentators
+      whodosingleouttheproblemofastroturfingintheirdiscussionsusuallyfocusonhowit
+      spreads fake news or disinformation.1 Astroturfing is indeed closely connected to the
+      problemofdisinformation,butitwouldbewrongtotreatitonlyassuch.Thepurposeof
+      thispaperisfirsttoproperlydefineanddistinguishastroturfingfromotherCIBs,andthen
+      toshowhowastroturfingcanbeproblematicbeyondthespreadoffalseinformation.My
+      goalistoshowthatitisadistinctproblemthatcallsforspecialattentionandwillrequire
+      its own remedy.                                        
+        Insection2,IwilldefineanddistinguishastroturfingfromotherCIBs,focusingonthe
+      wayastroturfinghingesuponourtendencytofollowthecrowd.Thus,tounderstandthe
+      effectsofastroturfing,onemustfirstunderstandhowcrowdactionandsentimentaffect
+      us.This will be addressed inSection 3, where I will analyse the crowd’s effects on our
+      decision-makingprocess.Iwillshowthatitinfluencesusintwodistinctways:itchanges
+      what we believe and it creates value for us when we conform. Understanding the in-
+      fluences will lay the groundwork for the next step in the analysis, which considers the
+      consequencesonemustsufferwhenthis‘crowd’turnsouttobeinauthentic.Thiswillbe
+      doneinSection4,whereIwilldiscusshowtheconsequencesofastroturfingaresimilarto
+      typical false marketing practices. This parallel should be quite straightforward, since
+      astroturfinginvolves,firstandforemost,somekindofdeception.Thekeyargumentofthis
+      paperissetoutinSection5,whereIwillattempttoshowhowtheproblemofastroturfing
+      couldextendfarbeyondtheissueofdisinformationandfalsemarketing.Here,Iwillbring
+      out the more alarming effects of astroturfing, how it has the potential to spread and
+      stabilize suboptimal norms within society and negatively impact the development of
+      crowd wisdom, an epistemic tool that can be highly valuable to us.
+      2. Online astroturfing                                 
+      Astroturfingisnotexclusivetotheonlineenvironment.Italsohappensinreallifewhen
+      actors are paid to attend protests, sign petitions or crash town hall meetings. Classic
+      astroturfing, as the name suggests2, refers to fake grassroots activism. It involves
+                                                             
+                                                             
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+      Chan                                           509     
+                                                             
+                                                             
+      corporations or political parties using hired agents to create the impression that a view
+      theywishtopromote haswidespreadpublicsupport(HenrieandGilde 2019).Genuine
+      grassroots movements start from the ground up, from ordinary members of the public
+      (Zickiene 2019). At the start of the movement, there is often no charismatic leader, no
+      fancy marketing campaigns and no financial incentives on offer; the only way for the
+      movement to attract participation is through the merit of its objective and ideology. A
+      decentralizedlarge-scalegrassrootsmovementisthereforeparticularlypowerfulbecause
+      itshowsthatnumerousotherwiseunconnectedandindependentindividualshaveallcome
+      together to support a common cause. This effect is precisely what astroturfing seeks to
+      emulate. It wants to create the impression that a certain opinion or message is highly
+      credible, by pretending that it comes from a large number of unconnected independent
+      individuals,wheninrealityitisalltheresultofacoordinatedeffortbroughtaboutbya
+      centralized source.                                    
+        Withtheriseoftheinternet,astroturfingpracticesincreasedexponentially.Theinternet
+      provides a low-cost, efficient and anonymised way to disseminate a huge amount of
+      informationwithinashortperiodoftime.Insteadofhavingtopayhundredsofactorsto
+      attendaprotest,acompanycanjusthireasingleindividualwithbasicprogrammingskills
+      to create millions of fake social media accounts (often referred to as ‘sock puppets’).
+      Thesefakepersonascanbeasdiverseasonemightlike,withvariousdistributionsofage,
+      gender, ethnicity, average income, geographical location, political profiles, etc. These
+      accountsaresometimesrunbyactualagentswhodeterminewhattopostandwhatactions
+      to carry out; but they can also be run by automated algorithms, such as ‘social bots’3,
+      whichtrytomimicactualhumanusers.Someofthesebotsaremorebasicandmayonly
+      carry out standard tasks such as ‘liking’ or ‘retweeting’ from specific users or posting
+      predeterminedmessages.Butthelatestsocialbotsarebecomingmoreadvancedandcan
+      even interact naturally and smoothly with other real users on social media. All of this
+      means that, with just a few clicks, a business can now easily make it seems as though
+      hundredsofindependentcustomershave‘liked’aphotoofitsnewproduct;orapolitical
+      partycanusethousandsofseeminglyauthenticaccountsto‘share’disparagingnewsofits
+      opponents.Forthesakeofclarity,inthispaper,Iusetheterm‘astroturfer’torefertothe
+      mastermindbehindthescenesorganizingthecampaign(thecorporation,politicalparty,
+      publicrelationsfirm,etc.),andwillusetheterm‘astroposter’torefertothefrontlinestaff
+      carryingouttheinstructionsandactuallycreatingcontentontheinternet,beitmanually,
+      or via sock puppets or bots.                           
+        The issue of astroturfing has received quite a bit of attention in the social, legal and
+      political literature, as well as in information technology research.4 These define as-
+      troturfing slightly differently and focus on various characteristics of the strategy. A
+      commonthreadthatrunsthroughalltheseaccountsis‘deception’.Forexample,Zhang,
+      Carpenter and Ko (2013, 2561) define online astroturfing as ‘the dissemination of de-
+      ceptiveopinionsbyimpostersposingasautonomousindividualsontheInternetwiththe
+      intentofpromotingaspecificagenda’(myemphasis).Theideaof‘deception’hereechoes
+      theconceptof‘inauthenticity’inotherCIBsfoundontheinternet.Butwhatexactlydoes
+      this‘deception’involve?NathanielGleicher,HeadofCybersecurityPolicyforFacebook
+      explainsthatmanypostsremovedforCIBarenotflaggedbecauseofthecontenttheyare
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+      510                          Philosophy and Social Criticism 50(3)
+                                                             
+                                                             
+      sharing,itmaynotbethecasethatthepoststhemselvescarryafalsestatementorapiece
+      of fake news. In the same vein, Zhang, Carpenter and Ko (2013, 2561) note that the
+      astroturfing messages can be either false or genuine. What is worth highlighting is that
+      eventhoughCIBstrategieshaveoftenbeenusedtospreadmisleadinginformationorfake
+      news,5astroturfingcaninfactinvolvestatementsandactionsthatgobeyondwhatcanbe
+      categorizedastrueorfalse.Alotoftheactivitiescarriedoutbyastropostersdonoteven
+      includesubstantivestatementsofanykind.Sometimes,theymayjustinvolve‘following’
+      aTwitteraccountor‘liking’certaintweetspostedbyapoliticalcandidate.6Othertimes,
+      the CIB could be ‘cheerleading’ for a particular entity and ‘booing’ its competitors,
+      withoutengaginginanymeaningfulonlinediscourse.7Thesearenotstrictlypropositions
+      that can be judged ‘true’ or ‘false’ in the traditional sense. The kind of ‘deception’
+      involved in astroturfing therefore does not directly stem from astroposters posting in-
+      correctinformationor‘unfacts’ontheinternet(althoughthisisacommonoccurrence).
+      Instead,therootofthedeceptionliesinthesourceandvalidationofwhatisposted.8This
+      distinction will become relevant when we turn to look at the problems created by as-
+      troturfing in Section 4 and Section 5.                 
+        DifferentCIBsusedifferentwaystomisleadtheiraudienceaboutthesourceoftheir
+      content. Sometimes an account pretends to be operating from a particular country or
+      certain parts of the world; other times a post pretends to be expressing opinions from a
+      panel of experts; in some cases, internet influencers would endorse a product without
+      disclosingthesponsorshipbackingtheactivity.Allofthesestrategiesaimatmanipulating
+      theaudience’sperceptionofthecontent’scredibility.Astroturfingisaparticulartypeof
+      CIB. What it does is to pretend that the information, beliefs and opinions posted are
+      supported by an organic and natural accumulation of unconnected regular individuals,
+      wheninfactitisanorchestratedeffortbyacentralizedentity.Thus,thedeceptionhereis
+      rooted in the inauthenticity of the apparent crowd sentiment and action. What the as-
+      tropostershavepostedmaytechnicallynotbe(orcannotbecategorizedas)‘false’,butthe
+      audience is still being deceived because how the apparent crowd action comes about is
+      inauthentic.9 In light of this, I will define online astroturfing as follows:
+        Onlineastroturfing:apracticewhereacentralizedsourcedisseminatescolludedinformation
+        ontheinternetpretendingthatsuchinformationcomesfromalargenumberofunconnected
+        individuals.                                         
+        The key thingtonotefromthedefinition isthat thenatureofastroturfing involves a
+      pretense.Assuch,itwouldbehelpfultoanalyseitseffectsundertwoseparatelayers:in
+      thefirstlayer,Iwilllookathowmajoritiesandthecrowd10typicallyaffectourdecision-
+      makingprocesses.Astroturfingpretendstocreateagenuinecrowdsentiment.Assuming
+      that it is successful in hiding its true nature, it will affect an agent’s decision-making
+      processjustlikeanycrowdactionwould.Inthefollowingsection,Iwillfirstlookathow
+      typical crowd action and sentiment can change our beliefs and behaviours. Then I will
+      turn to look at what happens when the crowd turns out to be fake; what are the con-
+      sequencesofhavingacteduponsomethingfalse–thisisthesecondlayeroftheanalysis.
+                                                             
+                                                             
+                                                             
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+      Chan                                           511     
+                                                             
+                                                             
+      The two layers are closely related but also distinct, and so must be kept separate in the
+      analysis.                                              
+                                                             
+      3. Analysing our tendency to conform                   
+      There is an abundance of studies and experiments showing that human beings have a
+      tendency to conform their actions to match those of the majority.11 This is often con-
+      sidered a problematic trait or a shortcoming in human nature. Social psychologist,
+      Solomon Asch, conducted an experiment showcasing the effects of the majority on an
+      individual’saction.Inhiscommentsontheexperiment,hefamouslynoted:‘Thatwehave
+      foundthetendencytoconformityinoursocietysostrongthatreasonablyintelligentand
+      well-meaningyoungpeoplearewillingtocallwhiteblackisamatterofconcern.Itraises
+      questions about our ways of education and about the values that guide our conduct’.
+      (Asch,1955,34)Inhisbookonconformity,CassSunstein(2019,chap.2)discusseshow
+      groups that consisted of conforming individuals are often vulnerable to information
+      cascades,wherebyalargenumberofpeopleendupthinkingordoingthesamethingasa
+      resultofthebeliefsoractionsofjustafewearlymovers(Sunstein2019,35).Heconsiders
+      information cascade the main cause of what is known as ‘bandwagon diseases’ – a
+      phenomenonwheredoctorsadoptproblematictreatmentsthathavenotbeensufficiently
+      testedbecausetheyhavethistendencytofollowwhattherestoftheircolleaguesaredoing
+      (Sunstein2019,90).Morerecently,theterm‘groupthink’gainedprominenceinpopular
+      discussion. It was a theory proposed by psychologist Irving Janis back in the 1970s,
+      investigating the kinds of antecedent conditions that would give rise to poor decision-
+      making within a group. The term has since been adapted by other disciplines and the
+      generalpublictocriticizedefectivedecision-makingduetoconformistpressureswithina
+      group (Pratkanis and Turner 2017).                     
+        Thepracticeofastroturfingtargetsthisnaturaltendencyofourstofollowthecrowd.If
+      Iaminclinedtodowhatthecrowddoes,pretendingapolicyoropinionhasthecrowd’s
+      supportwouldbeawaytomanipulatemydecisionsontheissue.Inordertoavoidsuch
+      risks arising from our tendency to conform, many people suggest individualism as the
+      solution. This is not new. Philosophers have always celebrated the uniqueness of the
+      individual, the courage to be different. Kant’s famous motto “Sapere aude! Have the
+      couragetomakeuseofyourownintellect!”(Kant1784/2008,17)highlightstheroleof
+      eachindividualman intheenlightenment.Inthe19thCentury, JohnStuart Mill praised
+      and celebrated innovations and individuality while arguing that conformity hinders
+      happiness and social progress (Mill 1859/2016, 52). If we adopt this line of thought,
+      astroturfing would not be a difficult problem to solve, at least it would not be a severe
+      enough problem to warrant regulatory intervention. Consider for example the Federal
+      TradeCommission(FTC)intheUS,whoisresponsibleforprotectingconsumersagainst
+      deceptiveandunfairbusinesspractices.ThewaytheFTCachievesthisisnot,however,to
+      enactdetailedrulesandenforceitagainsteveryinstanceofdeceptiveorunfairbehaviour.
+      This would be not be practical, nor ideal. Instead, most of the time, the FTC adopts a
+      hands-off approach and prefers self-regulation.12 More specifically, the FTC often only
+      stepsinif‘injurytotheconsumercannotreasonablybeavoided’(Leiser2016,8;Scott
+                                                             
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+      512                          Philosophy and Social Criticism 50(3)
+                                                             
+                                                             
+      2019,448).Ifindividualismwastheanswer,thenonecanimaginehowthepotentialharm
+      from astroturfing could easily and reasonably be avoided. Consumers simply have to
+      follow in Kant and Mill’s teachings; and reasonable consumers would exercise their
+      independentcriticalthinkingandconducttheirownduediligenceinsteadofjustblindly
+      follow the crowd (whether it be a real crowd or a crowd of astroposters). If these were
+      whatareasonableconsumerdoes(orshoulddo),then therewouldbenoreasonfor the
+      FTCtostepinandprohibitastroturfingpractices.13Unfortunately,theproblemisnotas
+      simpleasthat.Whatmakesastroturfingauniqueandcomplexproblemisthatcontraryto
+      popularcriticism,ourtendencytoconformisnotalwaysproblematic,andindividualism
+      isnottheultimatesolution.Infact,conformingtowhatthemajorityorthegeneralcrowd
+      doesisoftenrational,reasonable,orotherwisejustified.Andifthisisthecase,therewill
+      benosimpleformulatoavoidastroturfing.Thepurposeofthissectionistoexplainthe
+      rationality underlying our tendency to conform, which will lay the groundwork for
+      understanding the true damage that can be brought about by astroturfing practices.
+        Social psychology typically understands conformity in two distinct ways – infor-
+      mational and normative.14 Different social psychologists use these or similar terms to
+      mean slightly different things. In general, informational conformity happens when an
+      individualimitatestheactionofthecrowdbasedonthebeliefthatthecrowdhasthebest
+      andmostaccurateinformationonhowtobehaveinthegivenphysicalenvironment.On
+      theotherhand,normativeconformityhappenswhenanindividualimitatestheactionof
+      the crowd to facilitate social interaction, such as gaining acceptance within a group or
+      reinforcing her group identity. Let us look at these two types of conformity in turn.
+      Informational conformity                               
+      Withinformationalconformity,thecrowdaffectswhattheagentbelievesaboutthereal
+      world.Therationalityunderlyingthiseffectfindssupportfromthefieldsofevolutionary
+      biology, the social sciences and epistemology. Using statistical decision theory, evolu-
+      tionarybiologists,RichersonandBoyd,looksintotheeffectivenessofsociallearningina
+      variableenvironment.Theyfoundthatnaturalselectionfavoursindividualswhoimitate
+      the more common behaviour within the group rather than those who imitate randomly
+      chosen behaviours. This is because behaviours favoured by selection in a particular
+      environment will tend to be more common in that environment (Boyd and Richerson
+      2005,chap.1).Toillustrate,imagineanagent,Robinson,arrivingatastrangenewisland
+      afterashipwreckandneedingsomethingtoeat.Therearetwotypesoffruitsavailableina
+      nearbyforest,bothofwhichareunfamiliartohim.Hehasnoinformationwhatsoeveron
+      thesefruits,butheobservesthatalargegroupoflocalsispickingandeatingtheredfruit
+      and only a few isolated individuals are picking the green one. What would be the
+      reasonablechoiceofactionforRobinson?Havingnoothersourceofinformation,itcould
+      hardlybeconsideredirrationalforhimtofollowthecrowdandpicktheredfruitoverthe
+      greenone.RichersonandBoyd(2005)helpexplainwhyRobinson’sdecisiontoconform
+      to the crowd here would be rational:                   
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+      Chan                                           513     
+                                                             
+                                                             
+        “‘WheninRome,doastheRomansdo.’Thisstrategymakesgoodevolutionarysenseunder
+        abroadrangeofconditions.Anumberofprocesses,includingguidedvariation,contentbias,
+        andnaturalselection,alltendtocausetheadaptivebehaviortobecomemorecommonthan
+        maladaptive behavior. Thus, all other things being equal, imitating the most common be-
+        haviorinthepopulationisbetterthanimitatingatrandom.”(RichersonandBoyd2005,120)
+        In a similar vein, Henrich (2015, chap. 3) examines various cases of 19th Century
+      Europeanexplorersstrandedonstrangeandunfamiliarlands.Havingnoorverylimited
+      information on the new land, all cases of successful survival involved the explorers
+      imitatingwhatthelocalsdidorhavingbeeninsomewayacceptedbythelocalsintotheir
+      community.                                             
+        Findingsfromlaboratoryexperimentshavealsoshownthatpeoplerelymoreheavily
+      onevidencefromothermembersoftheirgroupovertheirownobservationsinambiguous
+      anduncertainsituations(JacobsandCampbell,1961).Whatthecrowddoesisvaluable
+      becauselearningiscostly.Thus,easilyobservablecrowdactionsprovidetheagentwith
+      low-costinformationthathelpsherunderstandtheworldandformtruebeliefsabouther
+      environment.Ormoreprecisely,crowdactionchangesherdegreesofbeliefregardingthe
+      physical world. Based on the actions of the locals, it is more likely that the red fruit is
+      edibleandcarrieshighernutritionalvalues,orthereisahigherchancethattheredfruit
+      will not lead to allergic reactions in Robinson.15 A conformity bias in social learning
+      therefore gives us an epistemic advantage (Muthukrishna, Morgan, and Henrich 2016).
+      Psychologists sometimes refer to this as our conformist heuristic – what the crowd or
+      majoritybelievesisashortcutforustodetermine,eitherconsciouslyorsubconsciously,
+      whatinformationisreliable.Andinaworldfullofuncertainties,this,togetherwithother
+      heuristics,areefficientcognitiveprocessesthatformaninvaluablepartofour‘adaptive
+      toolbox’ (Gigerenzer and Brighton 2011). The conformist heuristic, in particular, is
+      consideredtobeusefulandrationalwhentheenvironmentisrelativelystableandwhere
+      information search is costly or time-consuming (Gigerenzer and Brighton 2011, 17).
+        While conforming to the crowd is often a subconscious or heuristic process, the
+      underlyingrationalityhasalsoseensupportfromvariousmathematicalmodelsofbelief
+      formationinthefieldofepistemology.Zollman(2010)andMohseniandWilliams(2019),
+      employingdifferentmodels,bothshowedthatconformitycanincreasethereliabilityofan
+      agent’sbeliefsincertaincontexts.Thedetailsofthevariousmodelsandthecalculations
+      aretootechnicalforthescopeofthispaper,butacommonidearunsthroughalloftheir
+      arguments. Other people’s actions, statements and opinions are a kind of evidence of
+      certain facts about the world. This means that when a large number of independent
+      individuals holds the same view, it is equivalent to a large amount of independent ev-
+      idencesupportingthatbelief.Thus,inourdecision-makingprocess,takingotherpeople’s
+      beliefsandopinionsintoaccountisactuallywhatareasonableopen-mindedagentwould
+      normallydo.Afterall,whenfacedwiththesamesituation,howlikelyisitthathundreds
+      or thousands of people got it wrong and I alone figured out the right answer? It is not
+      impossible, but very unlikely.                         
+        All this is to say that informational conformity can be grounded in a rational and
+      reasonableprocessofbelief-updating.Thetendencytoconformisnotbyitsverynaturea
+                                                             
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+      514                          Philosophy and Social Criticism 50(3)
+                                                             
+                                                             
+      badthing.Anditisnotpracticaltosuggestthateachindividualshouldalways‘thinkfor
+      herself’ and not let what other people say or do influence her beliefs. Other people’s
+      actions,thoughtsandexperiencesmeansomethingtous,andfollowingthecrowdisan
+      extremely valuable epistemic tool that we all rely on when forming beliefs about the
+      physical world.                                        
+                                                             
+      Normative conformity                                   
+                                                             
+      The actions of the crowd also have a normative effect on us. Or, more precisely, con-
+      forming our actions to other members of our group in itself gives us a value, a utility.
+      Unlike informational conformity, normative conformity is not about what the agent
+      believesaboutthephysicalworld.Here,theagentcaresaboutcrowdactionsnotbecause
+      theyserveasakindofevidenceinherbeliefformation,butbecausefittinginwithpeople
+      aroundherisimportantifsheistonavigatehersocialenvironmentsuccessfully,orsoI
+      shall argue.                                           
+        Human beings are social animals and the smooth and successful running of society
+      depends on its member to coordinate and cooperate with one another. Conformity is
+      crucial in both. The difference between the two is that coordination does not involve a
+      conflictofinterest.Anobviousexampleislanguagerules.Itdoesnotreallymattertome
+      whatwordsorutterancespeopleusetodenotecertainitems,aslongaseveryoneusesthe
+      samewordstomeanthesamethingsandareabletocommunicateeffectively.Conformity
+      isclearlytherationalresponsehere,sincetheagentmaximizesherownbenefitswhenshe
+      matches her behaviour with other members of her community and coordination is
+      successful. Cooperation is trickier because it involves a conflict between personal in-
+      terests and the overall interests of the group. Consider the prisoner’s dilemma – such
+      scenarioscanbefoundeverywhereinhumansociety.Atypicalcasecouldbeworkingon
+      agroupprojectwithafewothers.Hereareafewcommonscenariosthatmayresult,where
+      ‘C’ represents cooperation and ‘D’ represents defection:
+        CC:Whereeveryonedoestheirshareofwork,andeveryonegetsagoodgrade.Letus
+           assumeeachmemberofthegroupgetsapayoffof4forthegoodgrade.Ifthereare
+           three members, the total payoff for the group would be 12.
+        DC:WhereIfailtodomyshareandothershavetodoextraworktocoverforme,the
+           groupendsuponlygettingapassinggrade.Here,letusassumeIgetapayoffof
+           4 for getting a passing grade despite being lazy. Others get a payoff of 0 each,
+           becauseeventhoughtheygetapassinggrade,theyhadtoworkextrahardforit.
+        CD:ThisjustreversestherolesinDC,whereothersslackoffbutIdotheextrawork.
+           Like the above option, others get a payoff of 4 each, while I get a payoff of 0.
+        DD: Where no one does their share of work, and the group failed the project. Even
+           though the group does not get any reward from the project, let us assume each
+           memberofthegroupgetsapayoffof1forslackingoff.Thetotalpayoffforthe
+           group would be 3.                                 
+                                                             
+                                                             
+                                                             
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+      Chan                                           515     
+                                                             
+                                                             
+        ItisobviousfromtheaboveoptionsthatImaximizemyowninterestbydefecting(i.e.
+      not doing any work in the group project) regardless of whether the others cooperate or
+      defect.Butifeverymemberofthegroupthinksinthesamewayandseekstomaximize
+      theirowninterest,thegroupwillendupatDD,whichistheworst-casescenarioforthe
+      group. Instead, the group as a whole performs best at CC when everyone cooperates.
+      Bicchieri(2005b)hasarguedthatfornorm-followers,theexistenceofacooperationnorm
+      wouldturnaprisoner’sdilemmascenariointoasimplecaseofcoordination.Theconcepts
+      ofnormandnormpsychologyarecloselyrelatedtothecurrenttopicofconformity.ButI
+      thinkthereisnoneedtoinvokethemorecomplicatedconceptofnormshereinorderto
+      understandsuchatransformation–aslongasthereisanaturaltendencytoconformtothe
+      behaviourofothers,theprisoner’sdilemmawillbecomeacaseofsimplecoordination.IfI
+      prefermatchingmyactionstotheothersinmycommunity,Iwillprefertocooperatewhen
+      otherscooperateandtodefectwhenothersdefect.Thus,CCandDDwouldbepreferable
+      to CD and DC. And since CC pays more, agents would converge on CC, thereby also
+      maximizingthegroup’soverallpayoff.16Lookingatitthisway,itmightbesaidthatthe
+      tendencytoconformisnotrational,inthesensethatitpushestheagenttowardstheoption
+      with a lower personal payoff. The agent would in fact fail to maximize her own self-
+      interestifshecooperateswhentheothersalsocooperate.Butthiscouldnotbethereason
+      whyourtendencytoconformhasreceivedsomuchcriticisminpopulardiscussion.After
+      all,thisinnatetendencytoconformiscrucialforsolvingvarioustypesofcollectiveaction
+      problemsthathaveplaguedhumansociety.17Individualswithatendencytoconformto
+      otherpeople’sactionsandexpectationsaremorelikelytogiveupapersonalbenefitforthe
+      sake of the group. From a community perspective, this is clearly something that is
+      desirable and should be encouraged. Even though normative conformity may not be
+      groundedinthemaximizationofself-interest,itcancertainlybejustifiedintermsofthe
+      greater good.                                          
+        Theaboveargumentisnottosuggestthatconformityisalwaysthecorrectresponse.
+      There are of course problematic cases where conforming is irrational and unjustified.
+      Childrenaretaughtnottoyieldtopeerpressurewhentheirfriendsofferthemacigarette.
+      Someauthorshavealsoshownthatthetendencytoconformhashinderedtheacquisition
+      of truth, especially within the scientific community (Mohseni and Williams, 2019;
+      Weatherall and O’Connor, 2020). But saying conformity could be problematic is very
+      different from saying that conformity is always problematic. This point is particularly
+      crucialwhendealingwithastroturfing.Itwouldnotbepossibletoavoidtheconsequences
+      ofastroturfingbysimplycelebratingtheindividualandnotfollowingthecrowd.Because
+      mostofthetime,doingwhatthecrowddoesisinfacttherationaljustifieddecision.Thisis
+      what makes astroturfing such a serious and tricky problem to solve – anyone can fall
+      victim to it even when they are being perfectly rational and reasonable.
+      Combining the two types of conformity                  
+      BeforeIconcludemyfirstlayeranalysisonastroturfing(i.e.concerningtheeffectsofthe
+      crowdontheagent’sdecision-makingprocess),therearesomeimportantpointstonote
+      aboutthetwokindsofconformity.Asimpliedintheabovediscussion,thetwokindsof
+                                                             
+                                                             
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+      516                          Philosophy and Social Criticism 50(3)
+                                                             
+                                                             
+      conformity are not mutually exclusive; and infact, often gohand inhand. In analysing
+      how crowd action affects the agent’s overall decision-making process, one should
+      consider how the two operate together. The subjective expected utility decision theory
+      (EU theory) calculates the total payoff an agent can expect to receive for a particular
+      action(f)anditcanbeadoptedheretoshowhowtheeffectsofthetwokindsofconformity
+      cometogether.18UndertheEUtheory,theagentwouldassignutilityvaluesu(x)toalistof
+      possible outcomes, and probability values p(H) to different possible states of the world
+      wheresuchoutcomeoccurs.Theutilityofeachpossibleoutcomeisthenmultipliedbythe
+      probability that it will occur to get an ‘expected utility’. The total expected utility for
+      action (f) is the aggregate of all these expected utilities.
+        What informational conformity changes is the probability function pðHÞ. This will
+      reflecttheagent’supdateddegreesofbeliefaftertakingintoaccounttheevidencefromthe
+      crowd.Ontheotherhand,normativeconformitywillchangethedistributionoftheutility
+      functionuðxÞ.Howitchangesdependsonmultiplefactorsandwillvaryfrompersonto
+      person. But, for the sake of simplicity and given human beings’ general tendency to
+      conform, I will just assume here that for the same action (f), it would be subjectively
+      preferabletotheagentthatthisactionbeconformingtoherpeersthannon-conforming.I
+      willrevisitEUtheoryinthefollowingsectionwhenexamininghowastroturfingaffects
+      the agent’s decision-making process.                   
+        Thisconcludesthefirstlayeranalysisofastroturfing.Ihaveexaminedtherationality
+      underlying our tendency to conform, and thus how individuals could fall victim to as-
+      troturfingeventhoughtheymayhaveactedinaperfectlyrationalway.Whathappensif
+      thecrowdactiontheagentbasedherdecisionsonturnsouttobefake?Iwillnowtryto
+      answer this in the second layer analysis.              
+      4. Astroturfing – The problem of false marketing       
+      WhenCOVID-19hittheworldinMarch2020,itbroughtunprecedentedchangestoour
+      lives.Interestingly,thepandemicalsocausedchangestothebehaviourofsocialbotson
+      Twitter. Typically, social bots account for 10 to 20% of activity on social media. But a
+      studyhasfoundthatthenumberofsocialbotsincreasedto45to60%amongallTwitter
+      userswhoengagedinCOVID-19discourse(Hao2020).Manyofthesebotspromotefake
+      news and disinformation; they also push for ending the lockdown and ‘reopening
+      America’.Letusfirstconsiderhowtheseplayintothedecision-makingprocessofareal
+      Twitteruser.SupposeIdonotwanttogetsickbutIequallywanttogotopartiesandhave
+      fun with my friends. Astroposters spread fake information online, such as conspiracy
+      theoriesthatclaimthereisactuallynovirusgoingaround.SupposeIconsideredthatthe
+      probabilityof‘IwillstaysafeifIgopartying’(letthisbehypothesis‘H’)islow.Iamnot
+      verycertainaboutthis,especiallyatthestartofthepandemicwheninformationisscarce
+      and uncertain. Given the initial uncertainty, I could quite easily be swayed by any op-
+      posing evidence. Even if I am in general quite doubtful of any information found on
+      Twitter,ifIseealargenumberofpeopleendorsingaconspiracytheory,itcouldconstitute
+      enough evidence to cause a change in my degree of belief in H. This is the effect of
+      informationalconformity.Ithoughtitmightberiskygoingouttoparties,butifitisjusta
+                                                             
+                                                             
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+      Chan                                           517     
+                                                             
+                                                             
+      conspiracy, I may think that it is actually quite safe. And of course, there is also the
+      normative side: seeing ‘#endthelockdown’ trending on Twitter, suggests that a large
+      portion of my community is not staying home, or at least wishing not to stay home.
+      Becauseofmydesiretoconform,anyactionthatinvolvesgoingoutwouldseeanincrease
+      invalue.ApplyingEUtheory,thismeansthattheCOVID-19discourseIreadonTwitter
+      pushes both u(x) and p(H) upwards in regards to going out and not staying home. The
+      utility of partying increases, and the probability of being safe while I am out also in-
+      creases, based on my subjective updated degrees of belief. The change in the total
+      expected utility can potentially change my decision from staying home to going out
+      partying.Inthisway,whattheastroturfersspreadontheinternetcanmakeadifferenceto
+      myactions.Yet,Iwouldhavebasedmydecision-makingonsomethingfalse.Theeffects
+      ofconformitycamefromacrowdthatisinauthentic.Andthisinauthenticityissimilarto
+      what one would typically encounter in false marketing. I will explain how.
+        It isactuallyabithardtopindowntheexactnatureofthis falsitythatispropagated
+      throughastroturfing.Mostofthecurrentliteratureonastroturfinglooksathowitspreads
+      fake news and criticizes astroturfing for creating uncertainty in its audience (Cho et al.
+      2011;Howard,Woolley,andCalo2018;Leiser2016;Zerback,To¨pfl,andKno¨pfle2020).
+      Yet,asIhavedefineditatthestartofthispaper,astroturfingdoesnotnecessarilyinvolve
+      fake news. In fact, creating uncertainty cannot be a fault in itself. Any information that
+      contradicts an existing opinion will create uncertainty. This in itself is neutral (and
+      sometimes can even be a good thing). Everyone agrees that spreading fake news and
+      disinformationisbad.Butwhatissodistinctiveaboutastroturfingthatisworththeextra
+      attention?Toanswerthis,letuslookatagroupofcoordinatedastroposterswhoarepaid
+      simplytopostopinionsandgenuinenews.Doesitstillinvolveakindofdeception?Yes.
+      Because the illusion of the crowd gives the information a kind of credence it does not
+      deserve. Abeliefthat isheld bya largenumber ofpeople hasa much greaterinfluence
+      thanonethatisheldbyasingleindividual;andindependentactionsfromeachmemberof
+      the community are worth much more credence than colluded actions stemming from a
+      centralizedsource.Thus,pretendingthatmanypeopleretweetedapieceofnews(whether
+      fake or not), gives it credence that it should not have otherwise. This is analogous to
+      situations in which an advertisement includes fake expert advice – I bought the new
+      toothpastebecausethedentistintheadvertisementsaysitimprovesgumhealth,however
+      thedentistturnsouttobejustanactorinalabcoat.Asaresult,Iattachedmoreweightto
+      theadvicethanIotherwiseshouldhave,regardlessofwhetherthesebeliefsandopinions
+      turn out to be correct.                                
+        Whataboutastroposterssimplytweetingandretweeting‘#endthelockdown’?Thisis
+      notreallyapieceof‘information’,itisnotevenastatementoffact,itissimplyademand
+      orrequestorexpressionofasentiment.Theproblemhereisthatthecrowdsentimentit
+      conveysisinauthentic.Astroturfersknowthatfittinginandconformingtothecrowdis
+      something valuable to many people. They therefore use it as a decoy to lure the real
+      Twitterusers in.Assuming there is noother false information atplay, theonly reason I
+      mightsupportendingthelockdownisthatalargeenoughproportionofmycommunity
+      sharesthesamesentiment.Iftherestofmycommunitythinksthatitisworththeriskof
+      the virus spreading in order to keep unemployment rates low and stock prices up, my
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+      518                          Philosophy and Social Criticism 50(3)
+                                                             
+                                                             
+      support for ending the lockdown would have a kind of democratic legitimacy. My
+      preference for ending the lockdown will increase (i.e. my utility function u(lockdown
+      ends) shifts upward), since I would like to fit in with the crowd and I also desire, to a
+      certainextent,thatothermembersofmycommunitygetwhattheywant.Butifitturnsout
+      that beyond the Twitterverse, the majority of my community in fact supports staying
+      home, my support for the cause would have been misdirected. When what I saw on
+      Twitterissimply theresult of astroturfing, #endthelockdown will infact notbe acause
+      that most of my peers find valuable; instead, it is just to the benefit of a few powerful
+      astroturferswhohavelittlerespectforpublichealth.Thisisanalogoustosituationswhere
+      consumers buy a product due to misleading advertising – I pay extra for a new phone
+      becauseoftheadvertisedcamerafunction(somethingvaluabletome),anditturnsoutthat
+      the camera does not work. Here, we thought #endthelockdown has the support from a
+      large portion of people in my community, turns out it is not so. That is a case of mis-
+      representation and a clear manipulation of normative conformity.
+        Understandingastroturfingasanalogoustofalsemarketingmeansthattherelevantloss
+      the real Twitter users suffer is similar to that of purchasing the toothpaste based on the
+      ‘dentist’adviceorthephonebasedontheadvertisedcamerafunction.Astroturferstrick
+      individualstoputtheirtrustinfakeandunreliableinformation.Butthisisnotuniqueto
+      astroturfing.MostCIBsareinonewayoranothertryingtomaketheirtargetaudiencegive
+      credence where it is not due. What deserves special attention is how astroturfing also
+      createsproblemsbeyondtheonessimilartothosearisingfromfalsemarketingpractices.
+      5. Astroturfing – The problem beyond false marketing   
+      I have examined what ‘falsity’ the astroturfer perpetrates and how it affects the agent’s
+      decision-making process. But astroturfing has a unique characteristic. If it is successful
+      andwidespreadenough,itcanturnsuchfalsityintotruth.Forexample,ifenoughpeople
+      see ‘#endthelockdown’ on Twitter and want to fit in by supporting it, the fake crowd
+      sentimentwillbeabletocreatearealsubstantialgroupofpeoplewhosupportendingthe
+      lockdown.Orsupposeenoughpeoplereadapieceoffakenewsandbelievethatitistrue:
+      althoughitwillnotmakethefakenewstrue,theaddedcredenceattachedtothispieceof
+      informationwillbecome‘proper’,inthatalargenumberofpeoplewillcometobelieve,
+      somewhatindependently,thatitistrue.Inthisway,astroturfingismorelikeaself-fulling
+      prophecy – the lie itself is able to bring about its own truth. No doubt, these are rather
+      unlikely scenarios, but these could really result from more systematic astroturfing
+      campaigns,suchastheonescarriedoutbytheChineseCommunistParty.Astroturfingin
+      China is extremely large-scale –it extends throughout the whole country and even into
+      overseas Chinese communities. It is also very well-organized, with the authorities
+      providing financial support and maintaining tight control over all major aspects of the
+      campaign.Ithasbeenestimatedthatthereareatleast280,000paidastropostersworking
+      fortheregime,19withdetailedinstructionsonwhen,whatandwheretopostonvarious
+      social media outlets (Anderson 2010; King, Pan, and Roberts 2017). One study has
+      estimated thattheseastroposterswroteapproximately448million socialmediapostsin
+      2013 alone (King, Pan, and Roberts 2017). Of course, in addition to the extensive
+                                                             
+                                                             
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+      Chan                                           519     
+                                                             
+                                                             
+      astroturfing efforts, other social and political rewards and sanctions are in place to
+      discourage dissent. But let us assume here that astroturfing plays a significant role in
+      swayingpublicopiniontowardssupportfortheCommunistParty.Whathappensinsuch
+      situations will result in something very different from false marketing.
+        Firstly,inrelationtonormativeconformity:agentswhoconformforthesakeoffitting
+      inwillbeabletoactuallyfitin.Althoughthecrowdsentimentstartedoutfake,successful
+      astroturfingefforts willturnitintoareal crowdsentiment.An agentinChinamay thus
+      findthatexpressingsupportforthegovernmentisindeedwhatalargeproportionofthe
+      populationactuallydoes,bothinsideandoutsideofsocialmedia.UnliketherealTwitter
+      userwhowasastroturfedby‘#endthelockdown’,theagentinChinawillinfactbegiven
+      what was promised: the crowd sentiment is actually there. Unfortunately, this could
+      potentiallybeworsefortheagentinthelongrun.Theoutcomeproducedissimilartowhat
+      socialpsychologistsrefertoas‘pluralisticignorance’,aphenomenonthatoftenleadsto
+      the spread of undesirable norms.                       
+        Pluralistic ignorance happens when agents mistakenly judge that their own private
+      thoughts, attitudes and feelings are different from other members of the group, even
+      though everyone’s public behaviour is identical (Bicchieri 2005a, 186). Francisco Gil-
+      White (2005) illustrates this using the example of excessive drinking among college
+      students.Imagineafreshmanattendingherfirstcollegeparty.Sheobservesthateveryone
+      elsedrinksheavily.Eventhoughsheherselfdoesnotenjoydrinking,shedecidestodoso
+      in order to fit in. Notice the inference at play in arriving at her decision to drink. The
+      observation is that everyone else is drinking heavily, she thus infers that this is what
+      everyoneelsetrulyenjoysdoing andthat thegroup endorsessuchbehaviouramong its
+      members.Yet,thisisnotavalidinferencetomake.Publiclyobservablebehaviouroften
+      doesnotreflectunderlyingattitudesandpreferences.Afterall,thefreshmanherselfcould
+      alsoendupdrinkingheavilyattheparty.Sheknowswellthatheractionsarebasedpurely
+      onsocialmotivesandarenotindicativeofherintrinsicdesiretowardsdrinking.Whythen
+      would shebelieve that thepublic actions of everyoneelse arebasedon theirrespective
+      intrinsicdesires?Thisisthesystematicmistakethatarisesinpluralisticignorance.Andif
+      enoughpeoplemakethesamemistakeasthefreshman,thefalsebeliefswouldresultin
+      widespreadpublicconformitytocertainactionsthathaveverylittleprivatesupport(Gil-
+      White2005).Examplesofpluralisticignorancearenotdifficulttofindinreallife.Inone
+      study,forexample,juvenilegangmemberswerefoundtobeprivatelyuncomfortablewith
+      the gang’s anti-social behaviour, but endorsed violence when in public because they
+      thoughttheirpeerswerefullycommittedtosuchbehaviours(Bicchieri2005a,184).Aset
+      ofstudiesin the 60s and 70sfindsthat White Americans often overestimate how much
+      private support there is for forced racial segregation among their fellow white citizens
+      (Kuran1997,78).AllthesesituationssufferfromwhatTimurKuran(1997)referstoas
+      the ‘persistence of unwanted social choices’ (Kuran 1997, 106). When the freshman
+      partakesinthenormofheavydrinkingforthesakeoffittingin,sheissendingoutasignal
+      toothersthatsheendorsestheprevailingnorm;heractioncauses othermembersofthe
+      group to further overestimate the private desires for heavy drinking. The pluralistic
+      ignorancethusreinforcesitself,andinturnhelpstheunwantedsocialchoicepersist.Even
+      though people are able to successfully fit into the group, the situation is unsatisfactory
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+      520                          Philosophy and Social Criticism 50(3)
+                                                             
+                                                             
+      because everyone is stuck at a suboptimal outcome. Privately, most individuals in the
+      groupactuallyprefersomethingelse.Thatis,ifwelookattheutilityoftheactionperse
+      (i.e.nottakingintoaccountanyutilityfromsuccessfullyfittingin),thereexistsabetter
+      option than the one that was chosen, at least for the majority of the group. If not for
+      pluralisticignorance,everyonecouldhavesuccessfullyfitintothegroupwhilstchoosing
+      the better option.                                     
+        Often, pluralistic ignorance happens unintentionally. Like when an unwanted social
+      normwaspasseddownfromagenerationlonggonebutnoonedaredtospeakupagainst
+      the well-established tradition. On the other hand, astroturfing is an intentional effort to
+      spreadundesirablenorms(ormorespecifically,normsthataredesiredbytheastroturfer
+      but not necessarily preferred by the public at large). Whereas pluralistic ignorance
+      happensbecauseagentsmakethewronginferencethatleadstofalsebeliefsaboutother
+      people’s private preferences, astroturfers wilfully imbued the online environment with
+      these false beliefs. Agents are fed false evidence about the inner attitudes, motives and
+      desires of other members of their group, creating conformist pressures from public
+      sentimentsthatarenotreallythere.ThisisexactlywhatastroturfingdoesinChina.King,
+      Pan,andRoberts(2017)findthatabout80%oftheChineseastroposters’activitiesconsist
+      ofsomesortofcheerleadingforthegovernment,spreadingpatriotism,singingpraisesand
+      generally expressing positive sentiment towards the regime. These activities do not
+      necessarily reflect the inner attitudes and opinions of the ordinary Chinese citizen. Yet,
+      individuals who are unaware of the deceptive nature of these actions and have a strong
+      desire to fit in will choose to conform, they will likewise express their support for the
+      government, online and maybe in real life. This then, could also bring the forces of
+      pluralistic ignorance into play, whereby other citizens who observed the conforming
+      behaviourwould(wrongly)inferthatitreflectsprivatesupport,unawarethatitismerelya
+      resultofastroturfing.Moreconformityoccurs,allofwhichgoesontoreinforcethefalse
+      belief about private support towards the regime. The result of this is a spread of un-
+      desirablenormsandunwantedsocialchoiceswithinthecommunity.Distraughtcitizens
+      whoprivatelywishtoraiseconcernsorexpressdissentagainstthegovernmentwilllikely
+      refrain from doing so due to the enormous conformist pressure. A leaked government
+      document noted that the intended purpose of the Chinese astroturfing activities is to
+      ‘promote unity and stability’ (King, Pan, and Roberts 2017, 489). From what is ob-
+      servable,itseemsthat,todate,theCommunistPartyhasbeenmoreorlesssuccessfulin
+      achievingthedesiredstabilitywithinChina.Butitremainshighlydoubtfulhowmuchof
+      itcomesfromauthenticprivatesupportandhowmuchofitisbasedonfalsebeliefsabout
+      private and public sentiment generated by the astroturfing campaign.20
+        Recallhowthejustificationofnormativeconformityisgroundedinsocialrelationsand
+      thegreatergood.Whenundesirablenormspersistasaresultofastroturfingandpluralistic
+      ignorance, social relations are maintained, people accept and enforce the undesirable
+      norm. There is thus no problem with fitting in or general coordination. Yet, individual
+      agentshereareactingonafalsebelief.Theydecidedtopayapersonalcostandconformto
+      abehaviourtheyprivatelyfindundesirableonlybecausetheyareunderthemisconception
+      thatitiswhatisnecessarytofitinorthatitwillbringaboutagreatergoodforthebenefitof
+                                                             
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+      Chan                                           521     
+                                                             
+                                                             
+      society as a whole. The truth is, however, that everyone is sacrificing their personal
+      preference for the benefit of a few rich and powerful astroturfers.
+        Informationalconformityoperatesdifferently.Whenweusethecrowdasevidenceto
+      update our beliefs about the world, it is less likely that astroturfing can get a whole
+      communitytobecomestuckinafalsebelief.Thisisbecause,unlikethecaseofpluralistic
+      ignorance, typically, when individuals act on a false belief, things will not work out as
+      theyexpectandthiswillusuallypromptthemtoadjusttheirbeliefsaccordingtothenew
+      evidence.Butthiscreatesanotherproblem.ConsiderYelp,thewell-knownonlinereview
+      website. It is no secret that it contains numerous fake reviews (Loten 2014). Suppose I
+      visitarestaurantbasedonthelargenumberoffive-starreviewsonYelp.Ifmyexperience
+      turnsouttofallfarbelowmyexpectations,Isufferforthisparticulardecision,andusethis
+      toupdatemyrelevantbeliefs.OnebeliefthathastobeupdatedisthecredibilityofYelp–
+      itisnotasusefulasIexpectedittobe.Nexttime,Iwillattachlessweighttotheevidence
+      basedoninformationfoundonYelp.Anyothernegativeexperiencewillreducemytrust
+      further,untilInolongerconsideranyinformationfoundonYelpuseful.Thisoutcomeis
+      what is postulated by the Technology Acceptance Model (TAM) in information system
+      theory.TAMpositsthatperceivedusefulness,amongstotherthings,isakeyvariablein
+      anticipating the acceptance and usage of information technology. More specifically, a
+      study by Salehi-Esfahani and Kang (2019) finds that perceived usefulness is the most
+      important predictor of consumers’ attitude toward restaurant review websites (such as
+      Yelp),whichinturnaffectstheconsumers’intentiontoactuallyusethewebsites.IfYelpis
+      pollutedbyfakereviews,itwillnolongerbeabletoprovidemewithusefulinformation
+      on restaurant quality. And any repeated negative dining experiences resulting from the
+      unhelpful reviews would discourage consumers from using the platform at all in the
+      future.                                                
+        ThismaynotseemtobeamatterofrealconcernifitisjustaboutYelpandchoosing
+      restaurants. But consider the increasingly important role social media played in recent
+      civilrightsmovements,includingtheArabSpring2.0,the2019IranianProtest,theBlack
+      Lives Matter movements and the Hong Kong 2019 Protest (Hu 2020). These are all
+      decentralizedmovementswherepeoplereliedheavilyonsocialmediaandonlineforums
+      for information and organization. Reliable information and popular opinions on these
+      platformscaneasilybetrackedbythenumberof‘likes’or‘upvotes’orfromlookingatthe
+      ‘trending’ content. A successful civil movement requires participants to share infor-
+      mation,reachagreementsandconvergetowardsacommoncause.Thisisnotsomething
+      easy to achieve, especially in a decentralized movement. What astroturfers do is sow
+      distrustandinstigateargumentsonsuchonlinesocialplatforms,creatinguncertainty,and
+      disruptinggenuinecommunication(Kelleretal.2019).Inthisway,protestorswillfindit
+      verydifficulttocoordinate,andtoagreeonanactionplanthathasthemostsupport.More
+      importantly,itdiminishestheusers’trustinandperceivedusefulnessofsuchplatforms.
+      Movingtoanotherplatformdoesnothelp–astroturferscanalwaysgowherethecrowd
+      goes.Astroturfingmaythusdisruptandsuppressanysuchcivilmovements,especiallyat
+      its early stage where the direction is unclear and a trusted platform available for in-
+      formationanddiscussioniscrucial.Andthisispreciselywhatsomegovernmentsdidto
+      stifledissent.Inthesummerof2019,TwitterandFacebookhadtosuspendhundredsof
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+      522                          Philosophy and Social Criticism 50(3)
+                                                             
+                                                             
+      thousands of Chinese accounts after investigations showed that they were part of some
+      coordinated state-backed operations that sow political discord about the Hong Kong
+      protests(Brown2019).Kelleretal.(2019)alsofoundthatastroturfingcampaignsbasedin
+      EgyptandtheUnitedArabEmiratesusedfakeaccountstosupportauthoritarianregimes
+      across nearly a dozen Middle East and African countries.
+        Apointthatmaybeobviousbutworthnotingisthatalertinguserstosuchastroturfing
+      practiceswouldoftenonlyaggravatetheproblem.Sometimesknowingabouttheproblem
+      can be helpful. AYelp user knowing that there are false reviews may be able to avoid
+      goingtoabadrestaurant.Aprotestorcanmaybeavoidusingawrongsloganinthenext
+      demonstration.Butthesearemerelyaddressingthe‘falsemarketing’issue.Beingaware
+      thatastroturfingpracticesexistmayinfactaccelerateabiggerproblem–itdamagesthe
+      general perceived usefulnessof the relevantsocial platform. Individuals no longer trust
+      thatitproperlyreflectspeople’sindependentbeliefsandopinions;itwillnolongerserve
+      asareliableresourcetoobtaininformationandgaugepublicsentiment.Ifusersonlyhave
+      a general awareness that astroturfing exists, but do not have any way to distinguish
+      between real from fake content, any truthful information and honest opinion that are
+      expressed on the platforms will also be doubted and lose their credibility. If no other
+      recourse is provided, it will just end up taking away an important resource where no
+      replacement seems to be available. A more alarming consequence of this is that a
+      governmentthattriestoshutdownthesecivilmovementsmaynotevenneedtoactually
+      plant astroposters on the social platforms – simply by suggesting that astroturfing
+      practicesarecommonandwidespreadonline,theymayalreadybestiflinganypotential
+      protests.                                              
+        The rationality of informational conformity and the justification for normative con-
+      formitybothstemfromtheauthenticityofcrowdactions.Inthesamewaythatnumerous
+      unconnectedindividualscomingtogethermakegrassrootsmovementsapowerfulforce,a
+      large number of independently held beliefs and opinions carry special merit. Crowd
+      wisdomisatopicthathasreceivedalotofattentionrecently,especiallysinceSurowiecki
+      (2005)’spopularbookonthetopic.Anexamplethathegivesattheopeningofhisbook
+      involves787villagersguessingtheweightofanoxinacountryfair.Whilenoneofthem
+      gottherightanswer,theaverageofalltheirguesseswasonlyoffby0.08%,aresultbetter
+      thananyindividualvillager’sbestguess.Lookingatcollectiveintelligenceontheworld
+      wideweb,Servan-Schreiber(2012)discussesthesuccessofpredictionmarkets–online
+      platforms where the public can place bets on the outcomes of future events. He finds
+      empiricaldatashowingthatthepricesinsuchmarkets,whentranslatedintoprobabilities,
+      were closely correlated withobserved event frequencies. But ofcourse, there isalso an
+      abundanceofcounterexamplesthatdemonstratesflawedcrowdreasoninganddefective
+      groupdecisions.Thestockmarketandhousingcrashof2008intheUScomestomind.
+      Marketsareoftenvulnerableto‘bubbles’,wherethecrowdmakesinaccuratejudgments
+      about stocks or future events (Sunstein 2006, 137). Caplan (2009) also gives several
+      examples of how the ‘miracle of aggregation’ can fail, particularly in areas of public
+      policiesandeconomicissues.Giventhemanyconflictingexamples,itisnosurprisethat
+      thedebateisstillongoingastowhataretherightconditionsconducivetocrowdwisdom.
+      Itwouldnotbepossibletogointoallthedetailsinthispaper.Butitwillbehelpfulforour
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+      Chan                                           523     
+                                                             
+                                                             
+      currentdiscussiontolookatafewkeyconditionsthathavebeenmorewidelydiscussed
+      and adopted.                                           
+        AnearlyargumentforhowcrowdwisdomemergescamefromCondorcetin1785.He
+      found that when jurors have to decide by a majority vote between two options, given
+      certain conditions, a larger group of jurors would be more likely to reach the correct
+      decisionthanasmallergroupofjurors.Thisisacaseofcrowdwisdom,wherethegroup
+      asawholeoutperformstheindividual;andthelargerthegroup,thebetteritsperformance.
+      Condorcetnotedthatforthistowork,afewconditionshavetobesatisfied.Theseinclude:
+      (i)thejurorsaremorelikelythannottoidentifythecorrectdecision;(ii)theirvotesare
+      statisticallyindependent;and(iii)thattheyvotesincerelyforthedecisiontheybelieveto
+      be correct (Goodin and Spiekermann 2018).21 Given human’s natural tendency to
+      conform, some of these conditions may be difficult to achieve. But this is exactly why
+      platformslikeYelpandTwitterare(ideally)suchavaluableandpromisingresourcefor
+      crowdwisdomtoemerge.Theycanpotentiallyprovideeasyaccesstoalargequantityof
+      independentdata.Ifmanagedproperly,thesekindsofplatformscouldbeareliablesource
+      of crowd wisdom, providing us with a valuable epistemic tool. Yet, the practice of
+      astroturfingposesanobvioushindranceandobstacletothis.Insteadofencouragingthe
+      sharing of independent, diverse and truthful information within the group, by its very
+      nature,astroturfingisacolludedefforttospreadfalsityandinauthenticopinionsfroma
+      single source. What astroturfing does is, therefore, to turn any chance we might get at
+      crowd wisdom into a crowd folly instead.               
+      6. Conclusion                                          
+      WhatIhavetriedtohighlightinthispaperisthatastroturfingisnotjustoneofthemany
+      CIBsthatcurrentlyplaguetheinternet.Theproblemofastroturfingisuniquebecauseof
+      how it connects to our tendency to conform. Exploiting this tendency brings about two
+      distinctive and far-reaching consequences. First, crowd sentiments are self-reinforcing
+      anddifficulttoverify.ConsidertypicalCIBs,thosethatinvolvefalsemarketingandthe
+      spreadoffakenews–assoonastheaudienceisawareoftheproblem,theycanoftenfind
+      anotherwaytocheckthecredibilityoftheinformation.IfIamnotsurewhetherafamous
+      Youtuber is expressing her own genuine opinion or if she is merely advertising a new
+      cosmetictreatment,Icangoaskmyfamilydoctorforamorereliableexpertopinionon
+      thetreatment.IfIsuspectthatanewsreportwereadonlineisfake,Icancheckitagainsta
+      fewothermorereliablenewsoutlets.Theproblemofastroturfingisuniquebecauseeven
+      ifIamawareoftheproblem,thereisnoquickandeasywaytoverifywhetherthecrowd
+      sentimentisauthentic,especiallywhenpluralisticignoranceisatplay.Inthisway,online
+      astroturfingismuchmoredangerousthanotherformsofCIBsinthatithasthepotentialto
+      spreadandstabilizesub-optimalnormsquicklyandefficiently.Second,eventhoughthe
+      exactconditionsfor when andhowcrowdwisdom mayemergeremainuncertain, there
+      havebeencaseswhereitprovestobeanextremelyvaluabletoolthathelpsusnavigatethe
+      physical and social world. With the right conditions and platform, a group of people
+      togethercanoutperformitsmostintelligentmember,achievingasumthatismorethanits
+      parts.Yet,byunderminingtrustandtamperingwiththeindependencefoundamongusers
+                                                             
+                                                             
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+      524                          Philosophy and Social Criticism 50(3)
+                                                             
+                                                             
+      onsocialmedia,onlineastroturfingruinsourchanceofdevelopingacrucialandvaluable
+      epistemicandsocialtool.Inthisway,theproblemsthatonlineastroturfingcreatesgofar
+      beyonddisinformation,falsemarketingandanyothertypicaldeceptivebehaviouronthe
+      internet.Ofcourse,theuniquenessoftheproblemalsomeansthatitwillrequireaunique
+      solution. But this will have to be a topic for another paper.
+      ORCID iD                                               
+                                                             
+      JovyChan https://orcid.org/0000-0002-9163-0328        
+      Acknowledgements                                       
+                                                             
+      In writing this paper, I am very grateful to Professor Joseph Heath for his invaluable input and
+      guidancethroughoutthewritingprocess.Iwouldalsoliketothanktheanonymousreviewerand
+      Professors Sergio Tenenbaum and Brendan de Kenessey for their helpful comments on earlier
+      versionsof this paper.                                 
+      Notes                                                  
+       1. See for example Cho et al. (2011), Leiser (2016), Howard, Woolley and Calo (2018), and
+         Zerback, To¨pflandKno¨pfle(2020).                   
+       2. Theterm‘astroturfing’comesfromthecompanynamed‘Astroturf’whosellsartificialgrassfor
+         sports gamevenues.                                  
+       3. SeeHoward, Woolley andCalo(2018)for more detailsonhow socialbots work.
+       4. See for example Zhang, Carpenter and Ko (2013), Leiser (2016), Kovic et al. (2018), and
+         Henrie andGilde(2019).                              
+       5. SeeShao etal. (2018)for examples.                  
+       6. SeeHoward, Woolley,andCalo (2018)for examples.     
+       7. SeeKing, Pan, andRoberts(2017)for examples.        
+       8. I thank theanonymous reviewerin helping me clarify thispoint.
+       9. Thisalsodistinguishesastroturfingfromanotherrelatedphenomenon–gaslighting.Although
+         bothpracticesinvolvetheuseofdeceptioninordertoinfluencethevictim’sbeliefsandactions,
+         gaslightingisprimarilyconcernedwithunderminingthevictim’sconfidenceinherownsanity
+         andjudgment,suchthatshehasnochoicebuttocompletelyrelyonanddefertothegaslighter
+         foranycrucialdecisionsthatshehastomake(Spear,2019).Astroturfing,ontheotherhand,is
+         lessconcernedwithunderminingthecognitiveabilitiesandautonomyofitsvictim.Instead,it
+         focusesonpumping upthecredibility of certain beliefsor opinions.
+      10. Theconceptsof‘majority’and‘crowd’arecloselyrelatedbutdistinct.Forthepurposesofthis
+         paper,a‘crowd’shalllooselyrefertothelargestormostsubstantivegroupofpeoplewithinan
+         agent’scommunitythatmayormaynotformthemajority(i.e.morethan50%ofthepeoplein
+         thecommunity).Undermostcircumstances,agroupthatconstitutesthemajoritywouldalso
+         constitute acrowd.                                  
+      11. See the most well-known experiments by Asch (1955) and Crutchfield (1955); and for a
+         summary of different variations of theirexperiments, see BondandSmith (1996).
+      12. ForamoredetaileddiscussionontheFTC’sapproachandhowitmayrespondtotheproblemof
+         astroturfing, seeLeiser(2016)andScott (2019).       
+                                                             
+                                                             
+
+[PAGE 19]
+                                                             
+                                                             
+                                                             
+      Chan                                           525     
+                                                             
+                                                             
+      13. IthanktheanonymousreviewerforsuggestingIlookintotheregulatoryliteratureonthispoint.
+      14. SeeClaidie´re andWhiten (2012)for moredetails onthisdichotomy.
+      15. ThisofcoursestilldependsonmanyotherfactorsthatRobinsonmightbeabletoobserve.For
+         example,whetherthegroupthatpickedtheredfruitconsistsofmostlywomen(whileRobinson
+         isaman);orifthosewhopickedtheredfruitlookssicklywhilethosewhopickedthegreen
+         oneslookhealthy.Thegeneralpointisthat,allotherfactorsbeingequal,thefruitbeingpicked
+         byalargergroupoflocalswouldhaveahigherchancethatitwillbefitforRobinson’spurpose.
+      16. Thereismuchmoretobesaidonhowwecansolvetheproblemofcooperation.Ournorm
+         psychologyandtendencytoconformareonlypartofthesolution(albeitanimportantpart).See
+         Henrich (2015), Richerson et al. (2016), and Kelly and Davis (2018) for more detailed dis-
+         cussions onthis.                                    
+      17. SeeHeathandPotter(2004)formorereal-lifeexamplesonhowourtendencytoconform,and
+         therelatedconceptsofrulesandnorms,arenecessarycomponentsinsolvingcollectiveaction
+         problems.                                           
+      18. ForagoodintroductiontoEUtheory,seeThoma(2019)andBuchak(2017).Forexamplesof
+         howEUtheorycanbeadaptedtoreflectcomformistbiases,seeMohseniandWilliams(2019)
+         andWeatherall andO’Connor (2020).                   
+      19. ThestaffpostingontheinternetfortheChineseCommunistPartyareoftenreferredtoasthe
+         50CentPartyasitisrumouredthattheyarepaid¥0.50foreachcommenttheypostonthe
+         internet supportingthe government.                  
+      20. See Kuran (1997) for an interesting discussion and examples on how the disparity between
+         publicandprivatesentimentscancauseapublicopinionbandwagonthatmaysparkunforeseen
+         revolutions.                                        
+      21. More recently, Hong and Page (2012) use a mathematical model to analyse the necessary
+         conditionsforcrowdwisdomandfindthatacognitivelydiversecrowdcanoutperformitsmost
+         intelligent individual member.                      
+      References                                             
+      Anderson, Nate. 2010. “Researcher : China Pays 280K People to Boost Its Web Image.” Ars
+         Technica,AccessedMarch26,2010.http://www.cnn.com/2010/TECH/03/26/china.astroturf/
+         index.html#                                         
+      Asch,SolomonE.1955. “OpinionsandSocial Pressure.”ScientificAmerican 193(5): 31-35.
+      Bicchieri,Cristina.2005a.“InformationalCascadesandUnpopularNorms.”InTheGrammarof
+         Society, 176-213. Cambridge: Cambridge University Press. https://doi.org/10.1017/
+         CBO9780511616037.006                                
+      Bicchieri,Cristina.2005b.“TheRulesWeLiveBy.”InTheGrammarofSociety,1-54.Cambridge:
+         CambridgeUniversity Press.https://doi.org/10.1017/CBO9780511616037.002
+      Bond,Rod,andSmith,PeterB.1996.“CultureandConformity:AMeta-AnalysisofStudiesUsing
+         Asch’s(1952b, 1956)LineJudgment Task.”Psychological Bulletin 119(1):111-137.
+      Boyd,Robert,andRicherson,PeterJ.2005.TheOriginandEvolutionofCultures.Oxford:Oxford
+         University Press.                                   
+      Brown, Dalvin. 2019. “Facebook , Twitter Remove China-Linked Accounts for Spreading Dis-
+         informationonHong KongProtests.”USAToday (Online), August20,2019.
+                                                             
+                                                             
+
+[PAGE 20]
+                                                             
+                                                             
+                                                             
+      526                          Philosophy and Social Criticism 50(3)
+                                                             
+                                                             
+      Buchak,Lara.2017.“DecisionTheory.”InTheOxfordHandbookofProbabilityandPhilosophy,
+         edited by Alan Ha´jek, and Christopher Hitchcock, 1: 706-717. Oxford: Oxford University
+         Press. https://doi.org/10.1093/oxfordhb/9780199607617.013.40
+      Caplan, Bryan. 2009. “Majorities against Utility: Implications of the Failure of the Miracle of
+         Aggregation.” Social Philosophy and Policy 26 (1): 198-211. https://doi.org/10.1017/
+         S0265052509090086                                   
+      Cho,CharlesH,Martens,MartinL,Kim,Hakkyun,andRodrigue,Michelle.2011.“Astroturfing
+         GlobalWarming:ItIsn’tAlwaysGreenerontheOtherSideoftheFence.”JournalofBusiness
+         Ethics 104(4): 571-587.https://doi.org/10.1007/s10551-011-0950-6
+      Claidière,Nicolas,andAndrew,Whiten.2012.“IntegratingtheStudyofConformityandCulturein
+         HumansandNonhumanAnimals.”PsychologicalBulletin138(1):126-45.https://doi.org/10.
+         1037/a0025868                                       
+      Crutchfield,RichardS.1955.“ConformityandCharacter.”AmericanPsychologist10(5):191-198.
+         https://doi.org/10.1037/h0040237                    
+      Douek,Evelyn.2020.“WhatDoes‘CoordinatedInauthenticBehavior’ActuallyMean?”Slate,
+         Accessed July 2, 2020. https://slate.com/technology/2020/07/coordinated-inauthentic-
+         behavior-facebook-twitter.html                      
+      Gigerenzer,Gerd,andHenry,Brighton.2011.“HomoHeuristicus:WhyBiasedMindsMakeBetter
+         Inferences.”InHeuristics,Vol.15,2-26.Oxford:OxfordUniversityPress.https://doi.org/10.
+         1093/acprof:oso/9780199744282.003.0001              
+      Gil-White,andFrancisco,J.2005.“HowConformismCreatesEthnicityCreatesConformism(and
+         Why This Matters to Lots of Things).” Monist 88 (2): 189-237. https://doi.org/10.5840/
+         monist200588211                                     
+      Gleicher,Nathaniel.2018.“CoordinatedInauthenticBehaviorExplained.”FacebookNewsroom,
+         2018.https://about.fb.com/news/2018/12/inside-feed-coordinated-inauthentic-behavior/
+      Goodin,RobertE.,andSpiekermann,Kai.2018.“TheClassicFramework.”InAnEpistemicTheory
+         of Democracy. Vol. 1. Oxford: Oxford University Press. https://doi.org/10.1093/oso/
+         9780198823452.003.0002                              
+      Hao,Karen.2020.“NearlyHalfofTwitterAccountsPushingtoReopenAmericaMayBeBots.”
+         MITTechnologyReview,AccessedMay21,2020.https://www.technologyreview.com/2020/
+         05/21/1002105/covid-bot-twitter-accounts-push-to-reopen-america/
+      Heath, Joseph, and Potter, Andrew. 2004. The Rebel Sell: Why the Culture Can’t Be Jammed.
+         Toronto: HarperCollins.                             
+      Henrich, Joseph. 2015. The Secret of Our Success: How Culture Is Driving Human Evolution,
+         DomesticatingOurSpecies,andMakingUsSmarter.Princeton:PrincetonUniversityPress.
+      Henrie,KennethM.,andChristian,Gilde.2019.“AnExaminationoftheImpactofAstroturfingon
+         Nationalism:APersuasionKnowledgePerspective.”SocialSciences8(2):38.https://doi.org/
+         10.3390/socsci8020038                               
+      Hong,Lu,andPage,ScottE.2012.“SomeMicrofoundationsofCollectiveWisdom.”InCollective
+         Wisdom, edited by Helene Landemore, and Jon Elster, 56-71. Cambridge: Cambridge Uni-
+         versity Press.https://doi.org/10.1017/CBO9780511846427.004
+      Howard, Philip N., Woolley, Samuel, and Ryan, Calo. 2018. “Algorithms, Bots, and Political
+         Communication in the US 2016 Election: The Challenge of Automated Political
+                                                             
+
+[PAGE 21]
+                                                             
+                                                             
+                                                             
+      Chan                                           527     
+                                                             
+                                                             
+         Communication for Election Law and Administration.” Journal of Information Technology
+         andPolitics15(2): 81-93. https://doi.org/10.1080/19331681.2018.1448735
+      Hu,Jane.2020.“TheSecondActofSocial-MediaActivism.”TheNewYorker,AccessedAugust3,
+         2020. https://www.newyorker.com/culture/cultural-comment/the-second-act-of-social-media-
+         activism                                            
+      Jacobs, Robert C, and Donald, T Campbell. 1961. “The Perpetuation of an Arbitrary Tradition
+         throughSeveralGenerationsofaLaboratoryMicroculture.”JournalofAbnormalandSocial
+         Psychology 62(3): 649-58.                           
+      Kant, Immanuel. 2008. “An Answer to the Question: ‘What Is Enlightenment?’” In Toward
+         Perpetual Peace and Other Writings on Politics, Peace, and History, edited by Pauline
+         Kleingeld, 17-23. New Haven: Yale University Press. https://doi.org/10.12987/
+         9780300128109                                       
+      Keller, Franziska B., Schoch, David, Stier, Sebastian, and Yang, Jung Hwan. 2019. “Political
+         AstroturfingonTwitter:HowtoCoordinateaDisinformationCampaign.”TheWashington
+         Post,Accessed October 28,2019. https://doi.org/10.1080/10584609.2019.1661888
+      Kelly,Daniel,andTaylor,Davis.2018.“SocialNormsandHumanNormativePsychology.”Social
+         PhilosophyandPolicy35(1): 54-76. https://doi.org/10.1017/S0265052518000122
+      King, Gary, Pan, Jennifer, and Roberts, Margaret E. 2017. “How the Chinese Government Fab-
+         ricates Social Media Posts for Strategic Distraction, Not Engaged Argument.” American
+         Political ScienceReview 111 (3): 484-501.https://doi.org/10.1017/S0003055417000144
+      Kovic,Marko,Rauchfleisch,Adrian,Sele,Marc,andCaspar,Christian.2018.“DigitalAstroturfing
+         inPolitics:Definition,Typology,andCountermeasures.”StudiesinCommunicationSciences
+         18(1):69-85. https://doi.org/10.24434/j.scoms.2018.01.005
+      Kuran, Timur. 1997. Private Truths, Public Lies: The Social Consequences of Preference Falsi-
+         fication.Cambridge, MA;London,England: Harvard University Press.
+      Leiser, Mark. 2016. “AstroTurfing, ‘CyberTurfing’ and Other Online Persuasion Campaigns.”
+         European Journal ofLaw andTechnology7 (1): 1-27.http://ejlt.org/article/view/501
+      Loten, Angus. 2014. “Yelp Regularly Gets Subpoenas About Users.” The Wall Street Journal,
+         Accessed April 2, 2014. https://online.wsj.com/article/
+         SB10001424052702303847804579477644289822928.html    
+      Mill,JohnStuart. 2016.On Liberty.Sweden: Wisehouse Classics.
+      Mohseni, Aydin, and Williams, Cole Randall. 2019. “Truth and Conformity on Networks.” Er-
+         kenntnis.https://doi.org/10.1007/s10670-019-00167-6 
+      Muthukrishna,Michael,Morgan,ThomasJ.H.,andHenrich,Joseph.2016.“TheWhenandWhoof
+         SocialLearningandConformistTransmission.”EvolutionandHumanBehavior37(1):10-20.
+         https://doi.org/10.1016/j.evolhumbehav.2015.05.004  
+      Pratkanis,AnthonyR.,andTurner.,MarleneE.2017.“Groupthink.”InTheSAGEEncyclopediaof
+         PoliticalBehavior,editedbyFathaliM.Moghaddam,348-350.2455TellerRoad,Thousand
+         Oaks,CA: SAGEPublications, Inc.https://doi.org/10.4135/9781483391144.n161
+      Richerson, Peter, Ryan, Baldini, Bell, Adrian V., Demps, Kathryn, Frost, Karl, Hillis, Vicken,
+         Mathew,Sarah,etal.2016.“CulturalGroupSelectionPlaysanEssentialRoleinExplaining
+         HumanCooperation:ASketchoftheEvidence.”BehavioralandBrainSciences39(2016):
+         e30.https://doi.org/10.1017/S0140525X1400106X       
+                                                             
+
+[PAGE 22]
+                                                             
+                                                             
+                                                             
+      528                          Philosophy and Social Criticism 50(3)
+                                                             
+                                                             
+      Richerson, Peter J., and Boyd., Robert 2005. Not by Genes Alone: How Culture Transformed
+         HumanEvolution. Chicago:University of Chicago Press.
+      Salehi-Esfahani, Saba, and Kang, Juhee. 2019. “Why Do You Use Yelp? Analysis of Factors
+         Influencing Customers’ Website Adoption and Dining Behavior.” International Journal of
+         HospitalityManagement78(January2018):179-188.https://doi.org/10.1016/j.ijhm.2018.12.
+         002                                                 
+      Schill,Dan.2014.“Astroturfing.”InEncyclopediaofSocialMediaandPolitics,editedbyKerric
+         Harvey, 383-385. Thousand Oaks: SAGE Publications, Inc. https://doi.org/10.4135/
+         9781452244723.n30                                   
+      Scott,MatthewJ.2019.“Rippingupthe Astroturf:Regulating Deceptive CorporateAdvertising
+         Methods.”Iowa LawReview 105(1): 431-461.            
+      Servan-Schreiber, Emile. 2012. “Prediction Markets.” In Collective Wisdom, edited by Helene
+         Landemore,andJonElster,21-37.Cambridge:CambridgeUniversityPress.https://doi.org/10.
+         1017/CBO9780511846427.002                           
+      Shao, Chengcheng, Luca Ciampaglia, Giovanni, Varol, Onur, Yang, Kai-Cheng, Flammini,
+         Alessandro,andMenczer,Filippo.2018.“TheSpreadofLow-CredibilityContentbySocial
+         Bots.”NatureCommunications 9 (1): 4787.https://doi.org/10.1038/s41467-018-06930-7
+      Spear,AndrewD.2019.“EpistemicDimensionsofGaslighting:Peer-Disagreement,Self-Trust,and
+         Epistemic Injustice.”Inquiry.April,1–24.https://doi.org/10.1080/0020174X.2019.1610051
+      Sunstein, Cass R. 2006. Infotopia : How Many Minds Produce Knowledge. New York: Oxford
+         University Press.                                   
+      Sunstein, Cass R. 2019. Conformity: The Power of Social Influences. New York: New York
+         University Press.                                   
+      Surowiecki,James.2005. TheWisdomof Crowds.1st Anchor. NewYork:Anchor Books.
+      Thoma,Johanna.2019.“DecisionTheory.”InOpenHandbookofFormalEpistemology,editedby
+         RichardPettigrew, andJonathanWeisberg.Canada: PhilPapersFoundation.
+      Weatherall, James Owen, and O’Connor, Cailin. 2020. “Conformity in Scientific Networks.”-
+         Synthese, January. https://doi.org/10.1007/s11229-019-02520-2
+      Zerback, Thomas, To¨pfl, Florian, and Kno¨pfle, Maria. 2020. “The Disconcerting Potential of
+         OnlineDisinformation:PersuasiveEffectsofAstroturfingCommentsandThreeStrategiesfor
+         Inoculation against Them.” New Media and Society. https://doi.org/10.1177/
+         1461444820908530                                    
+      Zhang, Jerry, Carpenter, Darrell, and Ko, Myung. 2013. “Online Astroturfing: A Theoretical
+         Perspective.” 19th Americas Conference on Information Systems, AMCIS 2013 - Hyper-
+         connectedWorld: Anything, Anywhere, Anytime 4:2559-2565.
+      Zickiene,Skaidre˙.2019.“GrassrootsActivismandSustainableDevelopment.”InEncyclopediaof
+         SustainabilityinHigherEducation,1-10.Cham:SpringerInternationalPublishing.https://doi.
+         org/10.1007/978-3-319-63951-2_281-2                 
+      Zollman,KevinJamesSpears.2010.“SocialStructureandtheEffectsofConformity.”Synthese172
+         (3): 317-340.https://doi.org/10.1007/s11229-008-9393-8
+                                                             
+                                                             
+                                                             
+                                                             

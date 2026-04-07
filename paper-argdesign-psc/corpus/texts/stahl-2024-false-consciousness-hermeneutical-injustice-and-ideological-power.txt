@@ -1,0 +1,1091 @@
+[PAGE 1]
+                                                             
+                                                             
+                                                             
+                                                             
+      Original Research Article                              
+                                                             
+                                         PhilosophyandSocialCriticism
+                                         2024,Vol.0(0)1–21   
+      False consciousness,                                   
+                                         ©TheAuthor(s)2024   
+      hermeneutical   injustice, and                         
+                                         Articlereuseguidelines:
+      ideological power                  sagepub.com/journals-permissions
+                                         DOI:10.1177/01914537241308133
+                                         journals.sagepub.com/home/psc
+      Titus Stahl                                           
+      UniversityofGroningen,TheNetherlands                   
+                                                             
+      Abstract                                               
+      Theoriesofideologyexplainthestabilityofunjustsocialinstitutionsbyreferencetothe
+      ways inwhich social powerundermines the epistemic agency of those subordinated by
+      them.Thehistoricallydominantmodelofideologyunderstandsitas‘falseconsciousness’,
+      thatis,asasetofsociallydistortedbeliefs.Thefalseconsciousnessmodelofideologyis,
+      however, unsatisfactory in various respects. I argue that this, in part, explains why
+      theorists have more recently turned to a competing model that understands the epi-
+      stemic constraints caused by relations of social power in terms of hermeneutical in-
+      justices. While Fricker’s theory of hermeneutical injustice avoids some implausible
+      assumptionsoffalseconsciousnesstheories,itlacks,however,aplausibleaccountofhow
+      socialpowercandistorthermeneuticalresources.Iarguethatthereisacompetingmodel
+      ofideologyintheMarxisttradition,accordingtowhichideologiesarisefromdistortions
+      of concepts that are internal to social practices; this model takes up the insights from
+      theoriesofhermeneuticalinjustices,andsupplementsthemwithaconvincing‘materialist’
+      explanation of how power, practices, and discourse are linked.
+      Keywords                                               
+      ideology, hermeneutical injustice, epistemic injustice, Marx, Karl, social epistemology
+                                                             
+                                                             
+                                                             
+      1 Introduction                                         
+                                                             
+      Oneofthecentralquestionsofanycriticalsocialtheoryiswhymembersofoppressedand
+      disadvantaged groups frequently accept norms and support institutions that undermine
+      their interests. Sometimes, the best explanation of this phenomenon is that there are no
+                                                             
+      Correspondingauthor:                                   
+      TitusStahl,UniversityofGroningen,OudeBoteringestraat52,Groningen9712GL,TheNetherlands.
+      Email:titus.stahl@rug.nl                               
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+      2                             Philosophy and Social Criticism 0(0)
+                                                             
+                                                             
+      otherrealisticchoicesavailabletothem,especiallyiftheyfacecollectiveactionproblems
+      (Finlayson2014;O’Connor2019;Rosen1996).Incaseswheretheycouldsuccessfully
+      resistorrevolt,theymayfailtodosobecausetheyareaffectedbyfailuresofrationalityor
+      lack the necessary knowledge, for various non-systematic reasons.
+        Classicalaccountsincriticalsocialtheoryarguethatthereisanotherexplanationforat
+      leastsomecasesinwhichoppressedpeopledonotpursuetheirinterestsaseffectivelyas
+      they could (Bianchin 2020, 316): oppressive and dominating social systems and
+      structures impose unjust constraints not only on the political agency of those disad-
+      vantagedbythembutalsoontheirabilitytoadequatelyunderstandandrepresenttheir
+      situation (Jugov and Ypi 2019). That is, such systems sometimes also structurally
+      constrain the epistemic agency (Dotson 2014; Lackey 2022; Pohlhaus 2021, 418) of
+      membersofsubordinatedgroups,andtheseepistemicconstraintssometimesexplainthe
+      stability of unjust institutions and practices.        
+        Marxisttheorieshavetraditionallyattemptedtoprovidesuchanexplanationwiththe
+      help of the concept of ‘ideology’. More recently, however, a competing theoretical
+      framework has become prominent in philosophy. This framework uses the concept of
+      ‘epistemic injustice’ in general and ‘hermeneutical injustice’ in particular, building on
+      Miranda Fricker’s (2007) book. Not only does Fricker describe her work on herme-
+      neuticalinjusticeasanattempttofindareplacementfortheMarxistconceptofideology
+      (Fricker 2017), but theories of hermeneutical injustice have now become the dominant
+      paradigm in attempts to understand the epistemic situation of disadvantaged groups
+      (Elling 2022, 270).                                    
+        However, while there have been scattered discussions on how theories of epistemic
+      injustice allow us to reformulate classic claims of ideology critique (Celikates 2017;
+      Elling 2022; Mills 2017), there has yet to be a systematic attempt to examine the dif-
+      ferences between both approaches (with the exception of Bufkin 2024 for the case of
+      racism).Asaresult,itisunclearwhethertheoriesofhermeneuticalinjusticeindeedaimto
+      provide explanations that compete with those of classic theories of ideology and, if so,
+      which are superior.                                    
+        In this paper, I engage in this discussion and argue for four claims: First, ideology
+      theoriesandtheoriesofhermeneuticalinjusticeoverlapinwhattheyaimtoexplainand
+      are therefore, at least to some degree, competitors (section 2). Second, a traditional
+      account in ideology theory that understands the epistemic constraints imposed by
+      ideology in terms of ‘false consciousness’ faces objections that make it implausible
+      (section 3). Theories of hermeneutical injustice have superior responses to these ob-
+      jections(section4).However,mosttheoriesofhermeneuticalinjusticelackaconvincing
+      conception of social power that could allowthem to develop a plausible account of the
+      epistemic constraints faced by subordinated groups (section 5). Fortunately, however,
+      therearealternative–albeitundertheorized–resourcesavailableintheMarxisttradition
+      of ideology theory that can be utilized to develop a theory that avoids the problems
+      confronted by the false consciousness account and the hermeneutical injustice account
+      (section 6). This theory locates the epistemic constraint in the dominance of distorted
+      conceptual resources and explains their stability by reference to the material and dis-
+      cursive power of dominant groups.                      
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+      Stahl                                           3      
+                                                             
+                                                             
+      2 Explaining voluntary servitude                       
+                                                             
+      Itisnothardtoexplainwhypeopleinsociallypowerfulpositionstendtooverestimatethe
+      degreetowhichtheirsocialprivilegereflectsdifferencesineffort,intelligence,orvirtue.
+      Bycontrast,itismuchhardertoexplainwhymembersofsubordinatedgroupsfrequently
+      accept implausible conceptions of social reality that justify their disadvantage, under-
+      miningtheircapacitytopursuetheirinterests–whatdeBoe´tie,indramaticterms,calls
+      ‘voluntary servitude’ (Boe´tie 1998). In most cases, neither an explanation that focuses
+      purelyonindividualepistemicfailuresnoranexplanationthatreferstowishfulthinking
+      or motivated reasoning seems plausible.                
+        Although it is not immediately obvious, theories of hermeneutical injustice and
+      theories of ideology are competing projects in that they both aim to offer such an ex-
+      planation. This claim is relatively uncontroversial in the case of Marxist theories of
+      ideology:Theprojectofideologytheory,asoriginallyconceivedbyMarxandEngelsin
+      the German Ideology (Marx and Engels [1846] 1976) amounts to the defense of a
+      particularexplanatoryproject,onethatexplainswhymembersofoppressedgroupsoften
+      support,apparentlyirrationally,thesocialsystemsthatdisadvantagethem.Whileitisnot
+      entirely obvious which precise explanation Marx and Engels offer, it is clear that their
+      central claim is that only a ‘materialist’ theory of ideology can explain the stability of
+      misleading and distorting conceptions of societythat do not serve theinterests of those
+      who endorse them.                                      
+        That theories of ideology in the Marxist tradition serve this explanatory function is
+      widely accepted both by their proponents and by their critics. Tommie Shelby, for ex-
+      ample,arguesthat‘[i]deologicalillusionscontributetosocialstabilityandintegrationby
+      misleading social actors about the social structure within which they live and work’
+      (Shelby2003,185).DavidLeopoldsimilarlyarguesthat‘thetheoryofideologyappears
+      to play a role in explaining a feature of class-divided societies which might otherwise
+      appear puzzling, namely, what might be called their “stability”; that is, the absence of
+      overt and serious conflict between social classes’ (Leopold 2013, 22). With very few
+      exceptions(Finlayson2014),thefunctionoftheoriesofideologyisassumedtobethatof
+      offering an explanation of the non-repressive mechanisms of the stability of social in-
+      justiceandinequality(Leopold2013,23).Inwhatfollows,Iwillarguethatthisfunction–
+      providinganexplanationoftheacceptanceorevensupportofstructuresofsubordination
+      by those disadvantaged by them – is also one of the functions that theories of herme-
+      neutical injustice aim to serve.                       
+        InFricker’s(2007)account,theprojectofatheoryofhermeneuticalinjusticeemerges
+      inthecontextofamuchbroaderconcernwiththephenomenonofepistemicinjustice.Itis
+      introducednotaspartofaprimarilyexplanatoryprojectbutaspartofamoralandpolitical
+      one.Epistemicinjustice, according toFricker,isan‘injustice[that]wrongs someonein
+      theircapacityasasubjectofknowledge,andthusinacapacityessentialtohumanvalue’
+      (Fricker 2007, 5). Because epistemic injustice wrongs a person ‘specifically in her ca-
+      pacity as a knower’ (Fricker 2007, 20), its character as an injustice is independent of
+      whether it comes with other,non-epistemic disadvantages.Hermeneuticalinjusticeasa
+      type of epistemic injustice captures the way in which ‘experiences are excluded from
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+      4                             Philosophy and Social Criticism 0(0)
+                                                             
+                                                             
+      collective understandings’ (Fricker 1999, 208). Fricker argues that hermeneutical in-
+      justices are the result of ‘collective cognitive failings’ (Fricker 1999, 208) to develop
+      appropriatetoolstounderstandexperiencesandthatwecanunderstandwhysuchfailings
+      are normatively wrong based on ‘purely epistemic considerations’ (1999, 209).
+        Itmaythereforeseemasiftheoriesofhermeneuticalinjusticepursueanaim–theaim
+      of clarifying the distinctive moral nature of specifically epistemic harms – that is or-
+      thogonal to the aims of ideology theory. On closer inspection, however, the ‘epistemic
+      harms’ofthekindthattheoriesofhermeneuticalinjusticeidentifycannotbedescribedin
+      isolation from the material and political harms to people’s capacity to pursue their in-
+      terests that are the focus of theories of ideology.    
+        To see why this is the case, consider the question of how hermeneutical injustice is
+      linkedtogroup-specificharms.Frickerarguesthat,while‘hermeneuticalgaps’–thatis,
+      theabsenceofcertainhermeneuticalresources–mayaffect,inprinciple,everyone,thatis,
+      membersofbothdominantandsubordinatedgroups(Fricker2007,151),suchgapsonly
+      generateinjusticeswhentheyfunctioninawaythat‘significantlydisadvantage[s]some
+      group(s) and not others’ (Fricker 2007, 162).          
+        But if this is the case, then these disadvantages (which turn ‘hermeneutical gaps’ into
+      instancesofinjustice)mustbenon-epistemicones,sincehermeneuticalgapsimpactpowerful
+      andpowerlesspartiesequallyonapurelyepistemiclevel.Thiscanbeshownbyexamining
+      Fricker’sparadigmaticexampleoftheconceptof‘sexualharassment’(Fricker2007,1,150–
+      51).Ifsuchaconceptismissingfromthehermeneuticalresourcesofagivensocialcontext,
+      thismeansthatthosewhoareaffectedbysexualharassmentcannotuseittounderstandtheir
+      situationandaretherebydisadvantaged.However,theepistemicdisadvantageofnothaving
+      an appropriate understanding of their situation is one that they share with perpetrators of
+      sexual harassment – after all, even though it may serve the non-epistemic interests of
+      perpetrators to remain ignorant of the best description of what they are doing, on a purely
+      epistemic level they also lack the opportunity to arrive at this knowledge.
+        Thedecisivedifferencebetweenperpetratorsandvictimsisthereforerelatednottotheir
+      epistemicinterestsbuttotheirnon-epistemicinterests:victims,incontrasttoperpetrators,need
+      anappropriateunderstandingoftheirsituationinordertobeabletoeffectivelypursuetheir
+      non-epistemic aims, such as the aim of seeing their rights respected. This means that, on
+      Fricker’s account, we cannot fully understand the significance of hermeneutical injustice
+      without understanding that it is a form of epistemic constraint that harms people in their
+      ability to effectively pursue their interests. In other words, among its other functions, any
+      theoryofhermeneuticalinjusticemustalsoservethegoalofprovidinganexplanationofwhy
+      people are sometimes undermined in their ability to effectively pursue their interests by
+      socially caused epistemic constraints. Therefore, theories of ideology and theories of her-
+      meneutical injustice are not engaged in two entirely distinct projects; they are – at least in
+      part – competitors in terms of how well they fulfil this goal.
+      3 The false consciousness model of epistemic constraint
+      Having established that ideology theory and theories of hermeneutical injustice are
+      competingprojectsintermsofthegoalofunderstandingepistemicconstraintsthataffect
+                                                             
+                                                             
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+      Stahl                                           5      
+                                                             
+                                                             
+      theabilityofthesubordinatedtopursuetheirinterests,Iwillcomparetheirrelativevirtues
+      in this regard.                                        
+        Marxistideology theories offeran explanation of the non-repressive mechanismsby
+      whichclasssocietiesensuretheirownstabilityintermsofthesociallyinducedinabilityof
+      membersofsuchsocietiestoadequatelymakesenseofthesocialcontextsinwhichthey
+      act.Accordingtoawidelyendorsedanalysis(Eagleton2007,24;Geuss1981,13;Shelby
+      2003,183;Stahl2024c),thistraditionassumesthatideologyisamatterofsociallyshared
+      ideas that meet three individually necessary and jointly sufficient conditions:
+        1. Falsity: The ideas in question are distorted in a cognitive sense; that is, they
+          inadequately represent what they are about or are otherwise epistemically
+          defective.                                         
+        2. Functionality:Theideasaresuchthat,giventhattheyarewidelyshared,theytend
+          to stabilize the hierarchical structure of a given class society in virtue of their
+          cognitive defects.                                 
+        3. Genesis:Theideasareonlywidelysharedduetotheinfluenceofanepistemically
+          unacceptable,distortingsocialfactor(thatis,notmerelybecauseoftheirapparent
+          or real justification).                            
+        Thesethreeconditionsseemtocapturethreedefiningfeaturesofsystemsofideasthat
+      Marxists and other critical social theorists typically want to describe as ideologies. In
+      particular,thefalsityconditionisnecessaryforcapturingtheideologicalcharacterofthe
+      ideasinquestion,sinceitwouldbeamistaketocall‘ideological’ideasthatarefunctional
+      for a given hierarchical order, and that may have become dominant because they are
+      functional,butwhicharestraightforwardlytrue.Similarly,thefunctionalityconditionis
+      necessarytodistinguishideologiesfromfalseideasthathavenoeffect(orevenapositive
+      effect)onhumanfreedom.Thegeneticcondition,asfarasitconcernstheemergenceof
+      ideasfromepistemicallydistortedsocialprocesses,isnecessarytodistinguishideologies
+      from ideas that emerge merely due to epistemic bad luck or incompetence (Shelby
+      2003, 174).                                            
+        Inwhatfollows,IwillfocusonaspecificinterpretationoftheseclaimsthatIcallthe
+      ‘false consciousness’ model of ideology. This interpretation is often presented as pro-
+      vidinganaturalwayofmakingsenseofthesethreecriteria.Inthissection,Iwillsketchits
+      definingelementsandbrieflysummarizecriticismsthathavebeenraisedagainstit.Iwill
+      arguethatitsdecisivedisadvantageisitsrelianceonanindividualistconceptionofsocial
+      power.                                                 
+        Theterm‘falseconsciousness’originatesfromaletterbyEngelsinwhichhedescribes
+      ideologyas‘aprocesswhichis[…]carriedoutconsciously[…]butwithaconsciousness
+      thatisspurious.Theactualmotivesbywhich[thethinker]isimpelledremainhiddenfrom
+      him’ (Engels [1893] 2004, 164). Shelby paraphrases this by saying that an ideological
+      beliefisabeliefheld‘whilebeingignorantof,orself-deceivedabout,therealmotivesfor
+      why one holds it’ (Shelby 2003, 170). Those who hold ideological beliefs typically
+      believethattheyholdthembecauseofreasonsorevidencethatsupportsthembutinfact
+      hold them for other, non-epistemic reasons or for no reasons at all, as a result of social
+                                                             
+                                                             
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+      6                             Philosophy and Social Criticism 0(0)
+                                                             
+                                                             
+      influence. Rosen similarly considers the idea that the defining feature of ideological
+      ‘irrationalitywouldbethatthepersonwhoholdsthebeliefisnotawareofthereasons–
+      the real reasons – for holding it’ (Rosen 1996, 34).   
+        Althoughnotallhistoricalsourcesusetheterm‘falseconsciousness’inthisway,this
+      model is a subtype of what is often also called a ‘doxastic’ (Haslanger 2017b) or
+      ‘cognitivist’(Stahl2013)modelofideology.Thebasicelementsofideologies,according
+      tothismodel,areindividuals’beliefs(Elster1985,462;Shelby2003,157;Stanley2015,
+      178). On this model, ideologies are structures of false beliefs that are widely held
+      throughout a society, are explained as the effects of a distorting mechanism on the
+      psychologyorepistemiccapacitiesofthosewhoholdthem,andforwhichitistruethatthe
+      individualswhoholdthemalsohavefalsesecond-orderbeliefsthatmakethemunaware
+      oftheseeffects.Inotherwords,tobeacaseoffalseconsciousness,therelevantstructureof
+      beliefsmustincorporatethe(false)beliefthatitsbeingheldbyasubjectisnottheresultof
+      the influence of a distorting social mechanism on their psychology.
+        In thecontemporary literature, various objections tothis view have been articulated.
+      For one, such a theory seems to treat ordinary people as ‘judgmental dopes’ (Celikates
+      2018,4;2017,55;Hall1986,33;Haslanger2017a)thatlackbasicepistemiccapacities
+      and that are waiting to be enlightened by ideology critics and presented with the facts.
+      Thisseemslikeanauthoritarianassumptionthatoneshouldbecarefulabout,atleastifit
+      isnot supportedby the evidence. Second, whether there isevidence for this view is far
+      fromclear.JamesC.Scottarguesthatifhistoryshowsusanything,itshowsthatordinary
+      peoplehaverevoltedmoreoftenthanwemightexpectiftheyhadaccuratebeliefsabout
+      theiractualchances,nottospeakofhowweshouldexpectpeopletobehavewheninthe
+      grip of a functional ideology (Scott 1992, 79). Contemporary accounts in social psy-
+      chology argue that the apparently irrational support of social systems by those disad-
+      vantaged by them can frequently be explained by strategic motives or by the hope to
+      enhanceone’sin-groupreputation,withouthavingtoassumefalsebeliefs(Owuamalam
+      et al. 2019).                                          
+        Third, false consciousness accounts typically lack a detailed story about the precise
+      mechanismsbywhichtheallegedfalsebeliefsaresociallycaused(forarecentattemptto
+      providesuchmechanisms,seeBianchin2020).Wheresuchastoryisgiven,itfrequently
+      focuses on psychological weaknesses that are exploited by social mechanisms. In his
+      classic account of the ‘micro-foundations’ of ideology, Jon Elster identifies adaptive
+      preferences, wishful thinking, and inferential error (which serve as means of reducing
+      dissonanceinanindividual)askeymechanisms(Elster1982).WhileShelbyarguesthat
+      people accept false beliefs because they ‘bolster our self-esteem, give us consolation,
+      lessen anxiety, reduce cognitive dissonance, increase our self-confidence, provide ca-
+      tharticrelief,giveushope,orsilenceaguiltyconscience’(Shelby2003,171),thereare
+      strongargumentsinrecentresearchthatsheddoubt ontheideathatpeople acceptfalse
+      beliefs that undermine their interests in order to minimize cognitive dissonance
+      (Owuamalam et al. 2016). Whether there are any alternatives to such an explanation
+      remains unclear, however.                              
+        Whiletheseobjectionsarewidelyacknowledged,Iwanttofocusonanotherissuethat
+      isrelatedtothemodelofpowerpresupposedbythefalseconsciousnessmodel.Itassumes
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+      Stahl                                           7      
+                                                             
+                                                             
+      that people accept ideological beliefs because features of their psychology make them
+      vulnerable to epistemically irrelevant influences. Because it identifies individual
+      weaknesses as the conduit of power, it assumes that social structures mainly reproduce
+      themselves by manipulating individuals’ beliefs. This entails two implausible claims:
+      first,theclaimthatitisamatterofluckoreffortwhycertainindividualsbecomemoreor
+      less susceptible to ideology, that is, that ideological power affects each individual
+      separately and independently; second, and relatedly, the claim that the best strategy
+      available to oppressed groups for resisting ideological constraints is one of epistemic
+      improvement, whereby they become less susceptible and adopt better beliefs.
+        The first claim is implausible since it assumes that the main conduit of ideological
+      poweristheexploitationofindividuals’irrationality,whichittakestobeperhapssocially
+      caused but ultimately indistinguishable from non-socially caused forms of irrationality
+      (Bianchin 2020;Shelby 2003).This contradictstheplausible idea that ideologies affect
+      peoplenotindividuallybutaspartofsociallysharedself-understandings,independently
+      of their epistemic virtues and competencies. The second claim is implausible since it
+      neglectsthehistoricalsignificanceofprojectsofcollectivere-interpretationandresistance
+      thatfocusnotonimprovingindividual’sepistemicqualitiesbutondevelopingnew,more
+      accurate forms of collective self-understanding. Both claims reflect an implausibly in-
+      dividualist model of power that is entailed by the idea that ideology is a matter of in-
+      dividuals’ beliefs and epistemic failures.             
+      4 The hermeneutical injustice model of epistemic constraint
+      MirandaFricker’stheoryofhermeneuticalinjusticeaddressesmanyoftheproblemsfaced
+      bythe‘falseconsciousness’modelofideology.Itconceptualizesthedistinctiveepistemic
+      disadvantagethatmembersofoppressedgroupsfacenotintermsofhavingfalsebeliefs
+      butintermsofhavingdistortedorinsufficienthermeneuticalresources.Thismeansthat
+      peoplecannotmakeadequatesenseoforproperlycommunicatetheirexperiencesbecause
+      theylackthehermeneuticalresourcesthatwouldallowthemtodoso.Ashermeneutical
+      resourcesareclearlysomethingthatcanonlybeproducedcollectively,insharedlinguistic
+      practices,beingsubjecttohermeneuticalinjusticeneednotinvolveacognitivefailingon
+      the part of the individual. Rather, it will in most cases reflect a failure of the social
+      environment.                                           
+        Thishelpstoresolvesomeissueswiththefalseconsciousnessconceptionofideology
+      outlinedabove.First,toexplainthepoliticalagencyofmembersofsubordinatedgroups
+      by reference to their hermeneutical marginalization and lack of shared hermeneutical
+      resourcesisnottotreatthemas‘dupes’andisconsistentwithassumingthattheyhaveand
+      exercise all of their epistemic capacities. Second, while the false consciousness con-
+      ception of ideology leaves it somewhat mysterious by virtue of which mechanisms a
+      socially functional set of false beliefs is ensured to obtain in the members of a subor-
+      dinatedgroup,thetheoryofhermeneuticalmarginalizationdoesnotraisethisquestion,at
+      least not initially. If we assume that participation in the construction of shared herme-
+      neuticalresourcesisstronglyinfluencedbymaterialandsymbolicprivileges–accessto
+      education, employment in professions that allow for leisure, intellectual activity and
+                                                             
+                                                             
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+      8                             Philosophy and Social Criticism 0(0)
+                                                             
+                                                             
+      accesstothepublicsphere–thenitisnothardtoexplainwhyitisoftenlikelythatthese
+      resources will overwhelmingly be shaped by the concerns of the privileged.
+        I will argue that, despite these undeniable advantages, Fricker’s theory of herme-
+      neutical injustice also faces an important problem. Her theory relies on an overly re-
+      strictive, ‘exclusionary’account ofthecauses ofthehermeneutical constraintsfacedby
+      membersofsubordinatedgroups.Suchanaccountcannotbefullyspelledoutintermsof
+      epistemic marginalization. Fricker’s theory, however, lacks the social theoretical re-
+      sources to offer an alternative account.               
+        That Fricker’s theory needs a more robust account of the epistemic constraints that
+      affect the subordinated can be seen once one takes note of an ambiguity diagnosed by
+      Rebecca Mason (2021). In her book, Fricker offers two distinct definitions of ‘herme-
+      neutical injustice’. First, she defines it as          
+        the injustice of having some significant area of one’s social experience obscured from
+        collective understanding owing to a structural identity prejudice in the collective herme-
+        neutical resource. (Fricker 2007,155)                
+        This definition emphasizes, first, the way in which structural identity prejudices are
+      part of (or contained ‘in’) collective hermeneutical resources and, second, the way in
+      which this can obscure social experience. This definition fits Fricker’s analysis of the
+      novel A Boy’s Own Story. In this novel, the gay protagonist is prevented from properly
+      understanding his homosexuality due to a socially dominant set of hermeneutical re-
+      sourcesthatconceptualizesitasa‘phase’orasa‘sickness’andthusattachesprejudicial
+      meaning to the category (Fricker 2007, 163–64).        
+        Later,however,Frickeroffersaseconddefinitionwhich,sheargues,ismore‘generic’,
+      according to which hermeneutical injustice is          
+                                                             
+        the injustice of having some significant area of one’s social experience obscured from
+        collective understanding owing tohermeneutical marginalization. (Fricker 2007,158)
+        Fricker argues that this definition captures a more generic phenomenon because it
+      coversnotonlysystematic butalsoincidental hermeneuticalinjustices. What isnotable
+      here is that this second definition also makes room for other hermeneutical injustice–
+      causing mechanisms beyond identity prejudices – namely, any mechanism that leads to
+      hermeneuticalmarginalization.AsFrickerexplains,thisdefinitionistargetedatthetype
+      ofhermeneuticalinjusticethatconsistsin‘hermeneuticalgapsorlacunas’(Fricker2007,
+      160) that render certain experiences unintelligible.   
+        This second definition, which identifies ‘gaps’ as the key element of hermeneutical
+      injustice, is central to Fricker’s analysis of the Carmita Wood example (Fricker 2007,
+      149–62).Inthisexample–thatofawomanwhoissexuallyharassedbyaprofessorbut
+      onlylatercomestounderstandherexperienceasoneofsexualharassment–itisthelack
+      ofanappropriateconcept(ofsexualharassment)whichleadstotheinjusticeinquestion.
+      While,inthesameexample,therearealsodistortedconceptsatplay(e.g.,theideathat
+      sexualharassmentfallsundertheconceptof‘flirting’),thesearenotthesourceofWood’s
+                                                             
+                                                             
+                                                             
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+      Stahl                                           9      
+                                                             
+                                                             
+      epistemic disadvantage, because she does not uncritically apply them. She fully knows
+      that they do not apply, but she has – on Fricker’s account – no alternative concept
+      available to her.                                      
+        One objection that has been raised against this account of hermeneutical injustice is
+      thatthisdescriptionseemstoassumethat,inanygivensituation,thereisonlyonepoolof
+      hermeneutical resources available (Dotson 2012, 31; Mason 2011, 300; Medina 2012,
+      103;Mills2017,105)andthatagapinthedominantsetofresourcesleavesmembersof
+      subordinatedgroupshelpless.Thisassumptionseemsnotonlytoneglectthepossibility
+      thatsubordinatedgroupsmightdevelopcompeting,subalternhermeneuticalresourcesbut
+      alsorunstheriskofmisdescribingcasesof‘willfulhermeneuticalignorance’(Pohlhaus
+      2012), where the problem is not the unavailability of hermeneutical resources but the
+      unwillingness of dominant observers to recognize these resources or to take them
+      up. Fricker has taken up this criticism in later work. There, she distinguishes between
+      ‘maximal cases’ in which concepts are genuinely unavailable and ‘minimal cases’ of
+      ‘fully functioning yet insufficiently widely shared’ (2016, 7) hermeneutical practices.
+      Thisalsoallowsfor‘midway’casesinwhichpartlydeveloped,alternativeconceptsand
+      hermeneutical ignorance intersect.                     
+        Taking up these arguments, I will distinguish between three competing ways of
+      understanding typical situations involving hermeneutical injustice. The first way (cap-
+      turingFricker’s‘maximal’cases),whichunderstandshermeneuticalinjusticeintermsof
+      thepresenceofa hermeneutical gap,assumes that members ofsubordinated groups are
+      actually unable to access hermeneutical resources that can help them to make sense of
+      their experience (perhaps because such resources do not exist). The second way, which
+      understands hermeneutical injustice in terms of hermeneutical distortion, assumes that
+      members of subordinated groups have access to resources that can help them to make
+      sense of their situation but that these resources are distorted and less helpful than they
+      ought to be. The third way (capturing Fricker’s ‘minimal’ cases), which understands
+      hermeneutical injustice in terms of willful hermeneutical ignorance, assumes that ade-
+      quate, subaltern resources exist but that they cannot be utilized by members of subor-
+      dinatedgroupstomakethemselvesunderstoodbymembersofdominantgroupsbecause
+      the subordinated do not receive sufficient uptake.     
+        Whichofthesewaysofunderstandinghermeneuticalinjusticeisbestabletoexplain
+      whichepistemicconstraintsmakemembersofsubordinatedgroupsunabletoeffectively
+      pursue their goals? Much of the discussion in the literature has focused on the first
+      understanding,thatis,anunderstandingthatrefersto‘gaps’inhermeneuticalresources.
+      This understanding is also dominant in Fricker’s initial account. However, this under-
+      standingisunlikelytoofferaproductivestrategyforexplainingimportantandstructural
+      formsofepistemicconstraint.First,itonlyproperlycapturessituationsinwhichmembers
+      of subordinated groups are genuinely confused and cannot make sense of their expe-
+      riences. This does not seem to be the paradigmatic situation in which members of
+      subordinatedgroupsfindthemselves.Itseemsmuchmorelikelythatwhilemembersof
+      subordinatedgroups have access tohermeneutical resourceswith whichtosuccessfully
+      navigatetheirsituation,theseresourcesarenotalwaysbestsuitedtopursuingtheirlong-
+      term interests.                                        
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+      10                            Philosophy and Social Criticism 0(0)
+                                                             
+                                                             
+        Second,eveniftherearegenuinehermeneuticalgapsthatleavepeopleatalosswith
+      respecttohowtounderstandtheirpredicament,westillneedtoexplainwhythisdoesnot
+      prompt them, as one would expect, to immediately construct alternative hermeneutical
+      resources(Celikates2017,59).Whiletherewillcertainlybesituationswhere(duetotheir
+      inability to communicate with one another, for example) it is genuinely impossible for
+      members of a subordinated group to collectively construct alternative hermeneutical
+      resources, these are likely to be the minority. Of course, certain social factors – for
+      example, the need to engage in hard labour or a lack of opportunity to deliberate
+      collectively–canalsoslowdowntheconstructionofsubalternhermeneuticalresources;
+      aslong as we donot assume that members of subordinated groups areintrinsically less
+      capable of constructing hermeneutical resources, however, this is unlikely to be an
+      enduring impediment to their collective attempts at self-understanding.
+        The ‘gap’ model therefore leaves it mysterious why, at least in standard cases, her-
+      meneutical epistemic constraints persist. As a result, understanding hermeneutical in-
+      justice in terms of a ‘gap’ is unlikely to yield a fruitful explanation of the epistemic
+      constraintsthataretypicallyresponsibleforthefactthatmembersofsubordinatedgroups
+      are restricted in their ability to effectively pursue their own interests.
+        Similar objections can be raised to the third, ‘willful hermeneutical ignorance’ un-
+      derstanding. According to this understanding, hermeneutical injustice is fully or partly
+      caused not by hermeneutical gaps but by the willful or non-willful hermeneutical ig-
+      norance (Fricker 2016; Medina 2012; Pohlhaus 2012) of the powerful. It is unclear,
+      however,whetherthisunderstandingcanofferafullexplanationofthestabilityofsocial
+      subordination. Even if we assume that members of dominant groups systematically
+      pretend that the speech acts of members of subordinated groups (and thus their expe-
+      riences)areincomprehensibletothemoriftheyisolatethemselvesfromsuchspeechacts
+      totheextentthattheygenuinelyneveracquiretheabilitytounderstandthem,thismerely
+      blocks one particular strategy for social change: the strategy of achieving change by
+      successfully convincing or persuading powerful groups on the basis of a shared un-
+      derstandingoftheexperienceofthesubordinated.Itdoesnotaffectmanyotherstrategies
+      thatsubordinatedgroupsmayuse,suchasbargaining,imposingcostsontheiroppressors,
+      violent resistance, or the building of counter-institutions. Therefore, an account of this
+      type–althoughitcertainlydescribesanimportantformofepistemicinjustice–isnotwell
+      suitedtoexplainallepistemicconstraintsthatareresponsibleforthefactthatmembersof
+      subordinatedgroupsarerestrictedintheirabilitytoeffectivelypursuetheirowninterests.
+        This leaves the second understanding, which assumes neither that members of sub-
+      ordinated groups face a gap in hermeneutical resources nor that they have access to
+      adequate subaltern hermeneutical resources that are ‘merely’ not taken up by others. It
+      ratherassumesthatthehermeneuticalresourcesavailabletothesubordinatedonlyallow
+      them to conceptualize their experiences in distorted terms, for example, in a dominant
+      vocabulary that is unsuited to an appropriate self-understanding because it incorporates
+      misleading, prejudicial assumptions.                   
+        This understandinghastheadvantagethat itincludesmore than thenarrow range of
+      caseswheremembersofsubordinatedgroupsaregenuinelyunabletomakesenseoftheir
+      experiences. It also allows us to understand how hermeneutical injustice can impose
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+      Stahl                                          11      
+                                                             
+                                                             
+      substantive practical constraints not only by ruling out a particular resistance or social
+      change strategy but by impacting the ability of the subordinated to adequately con-
+      ceptualizetheirsituationand,onthatbasis,tochoosethemostpromisingstrategyinthe
+      firstplace.Therefore,anunderstandingofhermeneuticalconstraintsasdistortionmust–
+      paceFricker–beacentralpartofanyplausibleexplanatorymodeloftheepistemicfactors
+      involved in social subordination.                      
+                                                             
+      5. Hermeneutical marginalization                       
+      If the ‘distortion’ model is to play a central role in the explanatory parts of a theory of
+      hermeneuticalinjustice,thattheoryneedstoofferanaccountofthemechanismsbywhich
+      suchdistortionsariseandpersistandhowtheyareconnectedtowidersocialpracticesand
+      structures. Clearly, we should reject any approach that explains such distortions by
+      reference to non-socially caused epistemic deficiencies on the part of those who are
+      affectedbythem.Ifpeople’srelianceonunhelpfulhermeneuticalresourcesweremerelya
+      result of their incompetence or their inability to construct better resources, and if the
+      deficienciestheydisplayasknowerswerenotexplainedbythelargersocialstructuresin
+      whichtheyfindthemselves,itwouldperhapsbeunjusttodenythemgreaterassistancein
+      overcomingtheirdisadvantages.Buttheirincompetenceorinability,initself,wouldnot
+      be an injustice.                                       
+        Fortunately,thisisnotwhatFrickerargues.Accordingtoher,hermeneuticalinjustice
+      is connected to social power insofar as structures of social power often lead to ‘her-
+      meneutical marginalization’, a mechanism by which material social disadvantage is
+      transformed into hermeneutical disadvantage. Fricker writes:
+        Indeed,forsystematiccases,thehermeneuticalmarginalizationentailsmarginalizationofa
+        socio-economicsort,sinceitentailsnon-participationinprofessionsthatmakeforsignificant
+        hermeneutical participation(journalism, politics, law,andso on).(Fricker 2007,156)
+        Inbrief,peoplewhoaredisadvantagedbyvirtueofclass,gender,orracearelesslikely
+      to be in positions of influence in the construction of hermeneutical resources. Because
+      theyareunderrepresentedinthesepositions,sociallydominantresourceswillmostlikely
+      belackinginconceptsthathelpthemmakesenseoftheparticularexperiencestheyhave
+      invirtueoftheirsocialposition,andthustheywillsufferhermeneuticalinjustice,withthe
+      accompanyingdisadvantagesregardingtheirabilitytoeffectivelypursue theirinterests.
+        This explanation is unsatisfactory, however. To begin with, Fricker seems to over-
+      estimate the role of middle-class professions in the construction of collective herme-
+      neutical resources. Historically, many socially subordinated social groups have clearly
+      succeededinproducingrichandintricatevocabulariesandculturalresourcestohelpmake
+      sense of their situation, independently of their members’ access to certain professions.
+      Currently, popular culture and social media offer members of subordinated groups un-
+      precedented opportunities to engage in collective hermeneutical innovation, to a large
+      degree independently of their access to formal education. As a result, unless we im-
+      plausiblyassumethatpeoplecanonlyuseconceptstomakesenseoftheirsituationonce
+                                                             
+                                                             
+                                                             
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+      12                            Philosophy and Social Criticism 0(0)
+                                                             
+                                                             
+      those concepts have been taken up by college-educated professionals, it is unclear why
+      there should be any hermeneutical marginalization at all in contemporary society.
+        Furthermore,Frickerseemstoassumethatideologicalpoweressentiallyfunctionsby
+      excluding people from access to certain kinds of social positions and opportunities.
+      Explainingepistemicconstraintasresultingmerelyfromexclusionsuggeststhat,oncea
+      sufficientnumberofindividualshavegainedaccesstothesepositionsandopportunities,
+      they will more or less automatically begin to construct the needed hermeneutical re-
+      sources,atleastifthereisnofurtherconstraint.Whiledominantgroupsmaycontributeto
+      hermeneutical gaps by motivated ignorance, we can assume that the subordinated are
+      motivated to fill those gaps and thus will – seemingly – always be able to develop
+      adequate concepts, given the opportunity. In other words, on Fricker’s theory, social
+      powerdoesnotdirectlyshapehermeneuticalresources;itonlyaffectsthemindirectly,by
+      restricting who can participate in their construction or in employing them (while I am
+      focussingonFrickerinthisarticle,thefocusonexclusionisalsosharedbyauthorssuchas
+      Dotson 2014).                                          
+        Thisreflectsanoverlynarrowunderstandingofhermeneuticalpower,however–one
+      that assumes that, as soon as all restrictions on participation are removed, people will
+      alwaysbeabletotransparentlyshapetheirhermeneuticalresourcessuchthattheyserve
+      their interests. It is also implausible insofar as it neglects the extent to which herme-
+      neuticalinjusticecanbeperpetuated notbyexcluding membersofsubordinatedgroups
+      but precisely by including them in hermeneutical practices that are structured by the
+      interestsofthepowerful(Doan2018,14).Inotherwords,the‘exclusion’modelassumes
+      thatinclusionintheconstructionofhermeneuticalresourcesisalwayspositive,suchthat
+      it is always in everyone’s interest to be involved.    
+        As a result of employing this narrow model of social power, Fricker’s account of
+      hermeneutical injustice remains incapable of fully spelling out how hermeneutical in-
+      justicesareperpetuatedandstabilizedthroughdistortionsofthehermeneuticalresources
+      on which members of subordinated groups rely. Consequently, it cannot answer the
+      explanatory demand of clarifying how hermeneutical injustices contribute to the stabi-
+      lization of social systems of subordination and oppression.
+      6 Hermeneutical constraint and material social power   
+      Thus far, I have argued that neither the false consciousness model of ideology nor
+      Fricker’stheoryofhermeneuticalinjusticefullysucceedsindevelopingaframeworkthat
+      adequately explains the epistemic constraints that contribute to making members of
+      subordinated groups unable to pursue their interests effectively. In this section, I will
+      argue that there is an alternative to the ‘false consciousness’ model in the tradition of
+      ideology theory that offers an attractive account of how power shapes and distorts the
+      constructionofhermeneuticalresources.Iwillbeginbyintroducinganideathatliesatthe
+      heart ofthis alternative:theidea that ideologies are amatter offlawed concepts(6.1). I
+      thenshowthatthealternativeIidentifyoffersaspecificallymaterialistexplanationofhow
+      flawedconceptscanbecomedominant(6.2).Onthisbasis,Idevelopaproposalforanon-
+      doxastic conception of ideology (6.3).                 
+                                                             
+                                                             
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+      Stahl                                          13      
+                                                             
+                                                             
+      6.1 Ideologies and flawed concepts                     
+                                                             
+      AsIhaveargued,amajordifferencebetweenthefalseconsciousnessmodelofideology
+      and theories of hermeneutical injustice is that the latter locate the epistemic constraints
+      faced by members of subordinated groups not in their false beliefs but in defects in the
+      socially shared hermeneutical resources they can employ. While the notion of a ‘her-
+      meneuticalresource’hasnotbeenspelledoutinmuchdetailintheliteraturesofar,itis
+      naturaltoconsiderconceptsanimportantelementofacontext’shermeneuticalresources
+      (Mason 2021, 248; Pohlhaus 2012, 718).                 
+        If we assume that, at least sometimes, people can be disadvantaged in virtue of the
+      conceptsthatasharedlanguagemakesavailable,thisconnectstheoriesofhermeneutical
+      injusticetoawidelysharedideainthetheoryofideology:thenotionthatideologiesare,at
+      leastsometimes,amatterofdistortedconceptualresources.Inthisregard,manycritical
+      social theories explicitly identify gender concepts, racial concepts, the conceptual
+      frameworkofindividualresponsibilityormeritocracy,andmorespecificconceptssuchas
+      heroism (Stanley 2015, 1–3), cowardice, and ‘super-predator’ (Stanley 2015, 95) as
+      ideological and criticize them on that basis.          
+        Butwhatmakesaconcept(orasetofconceptualresources)ideological?JasonStanley
+      (2015,206)arguesthatconceptscanbe‘flawed’onthreedimensions.First,buildingon
+      aninferentialsemantics,wemaysaythatconceptsincorporateprinciplesofinferenceand
+      thatflawed conceptslicense inferences tofalsebeliefs. Forexample,a communitymay
+      usetheconcept‘coward’suchthatapplyingitiswarrantedifapersonisunpreparedtorisk
+      theirpersonalsafetytoliveuptomoralorsocialexpectations,andsuchthatthejudgement
+      that someone is a coward licenses an inference to the judgement that he or she is de-
+      spicable.Thisinferenceisfalse,however,sincepeoplecanblamelesslybeunabletotake
+      oncertainrisksduetotheirpsychologicalconstitution.Theconcept‘coward’istherefore
+      flawed, and a community may reasonably choose to refrain from using it altogether.
+      Second, concepts can be empty if they refer to properties of states of affairs that never
+      obtain(intheexamplethatStanley(2015,205)takesfromSojournerTruth,theconceptof
+      a‘lady’,whichdenotesafemalepersonwhoisconstitutivelyinneedofmaleprotection,
+      does not apply to any actual women). Finally, a concept can be flawed insofar as it
+      impedestheacquisitionofknowledge–forexample,categorizationsthatdonotleadtothe
+      discoveryofinterestingsharedfeatures.Oneexamplemaybetheconceptof‘extremism’
+      as applied to political beliefs. This concept genuinely captures one feature of all such
+      beliefs–theirdistancefrommajoritybeliefs–butnotonethatallowsforthediscoveryof
+      further shared features.                               
+        Giventhisnotionofflawedconcepts,wecanmakesenseoftheideathatwhilethosein
+      thegripofanideologymayhavetruebeliefsandbeepistemicallycompetent,thefactthat
+      theyformulatetheirtruebeliefsthroughflawedconceptsmaystillunderminetheirability
+      to effectively pursue their interests. For example, people may try to understand the
+      structuralfeaturesoftheireconomicsituationmostlyintermsofpsychologicalconcepts–
+      intermsofhowwelltheydischargetheirindividualresponsibility,intermsoftheirgritor
+      perseverance,orintermsofthegreedorstinginessofothers.Theseconceptswilloften
+      help them to formulate correct local explanations (Jane’s boss really denied her a raise
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+      14                            Philosophy and Social Criticism 0(0)
+                                                             
+                                                             
+      becauseheonlycaresaboutmoney;BobreallyislesssuccessfulthanAnnabecauseheis
+      less motivated), without, however, disclosing explanatorily more powerful global or
+      structural features of their situation.                
+        On the basis of these considerations, I propose that we should revise the ‘false
+      consciousness’modelofideologybydroppingtheideathatideologyisamatteroffalse
+      (first-andsecond-order)beliefsandbyreplacingitwiththeideathatideologyisamatter
+      ofdistortedconceptualresources(thatthenservetoexplainthefalsebeliefsthatthosein
+      the grip of an ideology hold).                         
+      6.2Amaterialistexplanationofthedominanceofflawedconceptualresources
+                                                             
+      That a concept is flawed in this sense is not sufficient to make it ideological, however.
+      First, not all flawed concepts undermine people’s ability to pursue their own interests.
+      Those in dominant positions often benefit from understanding themselves in terms that
+      makeitharderforthemtocomprehendmoralcriticismoftheiractionsorthathelpthemto
+      conceptualizetheiragencyinwaysthatalignwiththeirself-image.Second,mostofthe
+      conceptsthatpeopleusetounderstandsocialrealityareflawedtosomeextent.Therefore,
+      equatingideologywithflawedconceptsislikelytobroadenthescopeofideologytheory
+      tothe point that it encompasses any widely shared set of conceptualresources (Stanley
+      2015, 208).                                            
+        Toavoidthis,weshouldcall‘ideological’onlythoseflawedconceptstheacceptance
+      of which is caused by some normatively problematic social mechanism that selects
+      conceptual resources which are functional for a given (or emerging) social order. The
+      mechanisminquestionmustbeonethatallowsustounderstandwhy–givenourgeneral
+      abilitytocomeupwithnewconceptsandhermeneuticalresources–thosedisadvantaged
+      bythefact that aset offlawed conceptualresourcesissociallydominant donotsimply
+      adoptcompeting,subalternconceptualresources.Ofcourse,weshouldnottrytoofferan
+      explanationthatentailsthatitisstrictlyimpossibleforpeopletodevelopsuchconceptual
+      resources.Inalloftheparadigmaticcasesofideology,suchasracist,sexistorinequality-
+      legitimating ideologies, people have, throughout history, frequently developed alterna-
+      tive,non-ideologicalconceptualresources.Whatanideologytheoryhastoexplainiswhy,
+      even when such alternative resources exist, they are often not adopted by all of those
+      whose interests they could serve (and often only by a minority).
+        Expanding on earlier work (Stahl 2013, 2024a, 2024b, 2024c), I will suggest the
+      following explanation: ideologies are distorted conceptual resources that become and
+      remainsociallydominant(a)becausetheyareinaspecificwayappropriateandhelpfulto
+      the subordinated, and (b) because they are protected against challenges by socially
+      enforced discursive rules.                             
+        ThisexplanationbuildsontheMarxisttraditionofideologycritique,inparticularon
+      Marx and Engels’s The German Ideology. In contrast to many belief-focused interpre-
+      tationsoftheirtheory,MarxandEngels’soriginaltextidentifieslanguageasanimportant
+      conduitofideology.MarxandEngelsargue,inparticular,that‘languageispractical,real
+      consciousness [… it] only arises from the need, the necessity, of intercourse with other
+      men’(MarxandEngels[1846]1976,43–44).Thekeyinsighthereistheideaofattending
+                                                             
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+      Stahl                                          15      
+                                                             
+                                                             
+      tothepracticalfunctionofconcepts.Humans,MarxandEngelsargue,developconcepts
+      forthepurposeofcommunicatingwithothersinthecontextofcooperativepracticesof
+      materialreproduction.Theirconceptswillthereforebeshapedbytheirusefulnessforthis
+      purpose.                                               
+        Evenifonedoesnotacceptthatthisclaimholdstrueforallconcepts,itisplausibleto
+      assumethatatleastsomeofourconceptualresourceshavetheshapetheydobecausethey
+      allow us to navigate social practices in which we are engaged with others. Within such
+      practices,itisanadvantageforusifallmemberscanuseconceptstodrawdistinctionsin
+      more or less the same way, which helps them to coordinate their actions.
+        MarxandEngelsbuildonthispragmatistpointwhentheyargue,inasecondstep,that
+      ideologicalconceptsemergeinaparticularformofpractice,namely,onecharacterizedby
+      hierarchy and a division of labor (Marx and Engels [1846] 1976, 44–45). While some
+      socialpracticesareegalitarianinthateveryonesharesatleastsomeoftheirpurposesand
+      thusallparticipantsaremotivatedtofindconceptsthatareusefulforcoordinatingaction
+      towards realizing genuinely shared goals, in hierarchical practices those in power typ-
+      icallydeterminethepurposeofthepracticeinquestionandthusalsoindirectlydetermine
+      which concepts are needed in such a practice – those concepts that are suitable for
+      comprehendingtheirpurposesandforcoordinatingtheactionsnecessarytoachievethem.
+        Inhierarchicalpractices,itistypicallyintheimmediateinterestofthosesubjectedto
+      thepowerofotherstobeabletosuccessfullynavigatethem.Thisoftenmeanssucceeding
+      in doing what those in power want them to do. In a racist society, for example, sub-
+      ordinated groups have an interest in being able to apply racial terms so as to match the
+      understanding of the dominant groups. In hierarchically organized workplaces, em-
+      ployeeshaveaninterestinunderstandingthemeaningofgoalssetbytheirmanagers.In
+      these instances, the use of a given set of conceptual resources can be practically ap-
+      propriate if people need to make use of these resources to successfully participate in a
+      practicewhosepurposesaredeterminedbyothers.Thesameholdsforpracticesinwhich
+      dominationandhierarchyareenforcednotdirectlythroughinterpersonalrelationshipsbut
+      bystructuralmechanismsthatreproduceinequalities,suchthatcertainpowerdifferences
+      are systematically reproduced. That a given set of flawed conceptual resources is
+      practically appropriate within a given social (hierarchical or other) practice is itself an
+      outcome of exercises of social power – in particular, of those actions that create and
+      sustain social practices that are best navigated when using flawed concepts.
+        Thefirstsocialmechanismthatexplainswhyideologicalconceptspersistbuildsonthe
+      fact that people need them to make sense of what they need to do in their immediate
+      situation, even when these concepts are not helpful for their understanding of the
+      possibilityofresistingtheirsubordination(seealsoBufkin2024,14).Thisisnottheonly
+      explanationthatwecanextractfromMarxandEngels’stheory,however.Byreferringto
+      thedivisionofmateriallabourasemergingintandemwiththeconceptualanddiscursive
+      domination of social groups, they also suggest another, complementary mechanism of
+      ideological power.                                     
+        In many cases of hierarchically organized practices, there will be norms within the
+      practice that directly govern whether and how participants are allowed to attempt to
+      change, discard or introduce concepts into the discursive parts of the practice. In other
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+      16                            Philosophy and Social Criticism 0(0)
+                                                             
+                                                             
+      words,wecandescribeallpracticesthathaveadiscursivedimension(asmostpractices
+      do)asbeingstructurednotonlybyfirst-ordersemanticnormsthatdeterminethemeaning
+      of concepts but also by second-order norms that govern their revision (Stahl 2024c).
+        Someofthesesecond-ordernormsmaybesuchthattheymakechallengestothefirst-
+      ordernormsofthepracticenotonlydifficultbutalsoinappropriate.Insuchpractices–
+      thatis,inpracticesinwhichopportunitiesforchallengeandcontestationareblocked–the
+      conceptual resources that are most appropriate for making sense of the cooperative
+      activitythatthepracticeprescribesareresourcesthatdonotincorporatethepossibilityof
+      such challenge and contestation and are thus flawed since they obscure an important
+      aspect of the practice. This suggests another reason why ideologically distorted con-
+      ceptual resources are often stable. Marx and Engels at least suggest a materialist ex-
+      planationforthisstability:controlovermaterialresourcesoftentranslatestosocialcontrol
+      overnormsandnorminterpretations,andthustocontroloversuchsecond-ordernormsof
+      discourse.                                             
+        Takingthissecondmechanismintoaccount,amaterialistconceptionofideologymay
+      offer the following explanation for the existence and stability of distorted conceptual
+      resources and their uptake by subordinated groups:     
+        (a) Membersofsubordinatedgroupsareregularlyforcedtoparticipateincooperative
+           practices that are structured by forms of power.  
+        (b) In many cases, these practices are internally governed by flawed conceptual
+           resources that only reflect the interests of powerful groups but which are nev-
+           erthelesspracticallyappropriateinthattheyenableallparticipantstonavigatethe
+           practice.                                         
+        (c) Inatleastsomeofthepracticesthatmeetconditions(a)and(b),therearesocially
+           enforced second-order rules that prohibit revising the semantic content of the
+           existing resources.                               
+        (d) Asaresultof(a)–(c),intheabsenceofcollectiveresistance,thoseinvolvedinthe
+           relevantpracticeswillbeunabletoindividuallyconstructcompetingconceptual
+           resources,oriftheydoso,theresultingresourcesareunlikelytobeacceptedor
+           adopted by others.                                
+        I will call those practices that meet conditions (a)–(d) ideological practices.
+        Asanexampleofanideologicalpractice,imagineasocietyinwhichtheonlyallowed
+      expressionofgenderidentityisonethatcorrespondstoperceivedbiologicalsex.Insucha
+      society,manypeoplewill‘successfully’navigatetherulesoftheirpracticesbyemploying
+      abiologicallyessentialistconceptofgenderidentity(‘successfully’inthesensethatthey
+      willnotviolateanysocialexpectations).Eventhoughallmembersofsuchasocietymay
+      in principle be capable of developing a less flawed concept of gender identity, if
+      practically challenging the link between perceived sex and gender identity is socially
+      prohibited,thenthepracticalvalueofdevelopingsuchaconceptwillbeverylimitedin
+      the absence of a collective challenge to these prohibitions.
+        Thisillustratesthefollowingpoint:Whilesomeideologicalconceptualresourcesare
+      relativelylocalizedtospecificsocialpractices,centralideologiesofmodernsociety,such
+                                                             
+                                                             
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+      Stahl                                          17      
+                                                             
+                                                             
+      as those connected to race, gender, and the justification of inequality, are deeply em-
+      bedded in a range of social institutions. It is therefore likely that the flawed conceptual
+      resourcesthatlieattheheartoftheseideologiesalsoaffectotherconceptualresourcesin
+      an indirect way. Therefore, if one adopts a radically revised understanding of any par-
+      ticular practically relevant concept in such a network, this will typically affect one’s
+      understanding of other practically relevant concepts as well. Getting rid of a flawed
+      concept in one domain can therefore, paradoxically, leave one less capable of making
+      sense of a whole range of social practices. This is the case whenever the concepts
+      necessary for navigating them successfully are embedded in a network for which the
+      flawed concept is central.                             
+        Such a central role can plausibly be claimed for concepts such as race, gender, and
+      those normative concepts that reflect widespread intuitions about class and economic
+      achievement. In all these domains, flawed versions of such concepts have historically
+      originated from hierarchical practices in which some participants had (or continue to
+      have) more material and discursive power, in which dominant groups (at least in part)
+      enforced rules that ruled out or discouraged certain kinds of challenges, and in which
+      flawed conceptual resources therefore became practically appropriate for successfully
+      navigating the practice. In addition, these central practices are such that the roles and
+      identities they establish are fundamental to a broad range of secondary practices
+      throughout the main institutions and contexts of society.
+        ThemechanismthatIhavedescribedcanaccountforthecontinueddominanceofsuch
+      flawed concepts and for the epistemic constraints that arise from that dominance – and
+      thus, indirectly, for the fact that, due to these constraints, those subordinated by social
+      powersometimesdonotresistitaseffectivelyastheycould.Incontrasttothemechanism
+      assumed by most theories of false consciousness, however, this explanation does not
+      presume that social forces lead to psychological distortions that undermine people’s
+      epistemic or rational capacities. In the absence of collective resistance, people who
+      continuetoemployflawedconceptsfortheirself-understandingdonotactirrationally.In
+      contrasttothemechanismofhermeneuticalexclusionproposedbyFricker,thisaccount
+      doesnotpresupposethatthosewholackanappropriateunderstandingoftheirsituation
+      arenecessarilyuneducatedorexcludedfrompublicdiscourse;nordoesitassumethatthe
+      problem is merely one of the ignorance of the powerful. Rather than exclusion, the
+      proposed model identifies inclusion under terms of inequality as the main basis for the
+      dominance of ideological conceptual resources.         
+      6.3 Ideology without ‘false consciousness’             
+      IntermsofthemodelIhavediscussedthusfar,forasetofconceptualresourcestocount
+      as ideological it must                                 
+        (a) be flawed in the sense of systematically obscuring certain important features of
+           social reality;                                   
+        (b) be such that, if it structures the cognitive relation of members of subordinated
+           groups to their social environment, it will tend to undermine their capacity to
+                                                             
+                                                             
+                                                             
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+      18                            Philosophy and Social Criticism 0(0)
+                                                             
+                                                             
+           developanappropriateunderstandingoftheirsituationthatcanguidestrategies
+           for collective, structural change; and            
+        (c) be such that the fact that it is taken up by members of subordinated groups is
+           explained, at least to a significant degree, by the fact that it is practically ap-
+           propriateforunderstandingtheirsocialsituation(andfordevelopingstrategiesfor
+           individuallyadaptingtoit)andbythefactthatthesecond-orderrulesgoverning
+           thepracticeinwhichitisembeddedlimitpeople’sindividualabilitytochallenge
+           its constituent elements.                         
+        This entails that the dominance of a given ideological set of conceptual resources is
+      ultimately explained by the fact that people find themselves in social contexts that are
+      structured by fundamental rules that have isolated themselves from challenges by
+      constituting modes ofinteraction inwhich suchchallenges are notonly illegitimate but
+      often structurally impossible in the absence of organized political resistance.
+        This model has the following advantages over the ‘false consciousness’ model of
+      ideology:First,itdoesnotentailthatmembersofsubordinatedgroupshaveoverallfalse
+      beliefs about their situation (or false second-order beliefs), as it operates at the level of
+      concepts, not beliefs. It therefore avoids the charge of authoritarianism. Second, it
+      provides a plausible account of the mechanisms of ideology. It must only assume that
+      peoplewillcontinuetoadoptcertainconceptualresourcesthatarealreadywidelyshared
+      in their social environment so long as those conceptual resources allow them to make
+      sense of and practically come to terms with their situation. This explanation neither
+      impliestheconsciousmanipulationofpeople’sbeliefsbyadominantgroupnorrelieson
+      theideathatideologiesexploitcognitiveweaknessesorareexplainedbysociallyinduced
+      irrationality.Third,itoffersaplausiblealternativetothefunctionalistthesis,butonethat
+      stillexplainswhyoppressivesocialstructurestypicallypromoteunderstandingsthattend
+      to increase their stability. This is because ideological social practices are governed by
+      rules that make certain kinds of challenges inappropriate.
+        Compared with the explanatory program endorsed by theories of hermeneutical in-
+      justice, this model aligns with the idea that the main epistemic constraint faced by
+      membersofsubordinatedgroupshastodowiththefactthatsociallysharedhermeneutical
+      resources are unhelpful for making sense of their situation. However, what this model
+      takes to be the central case of such a constraint is not the existence of a hermeneutical
+      ‘gap’ that leads to agents’ genuine confusion or that results from the exclusion of
+      membersofsubordinatedgroups,asindividuals,fromtheconstructionofhermeneutical
+      resources. Rather, it assumes that the epistemic constraint in question results from the
+      need to make sense of social practices that are effectively structured by the conceptual
+      resources of others.                                   
+      7 Conclusion                                           
+      Asanalternativetothe‘falseconsciousness’modelofideology,Ihavedevelopedamodel
+      ofideologyasasociallycauseddistortionofconceptualresources.Thismodelcanmake
+      senseofthebasicpremisesofideologytheorieswithoutadoptingtheundesirablefeatures
+                                                             
+                                                             
+                                                             
+
+[PAGE 19]
+                                                             
+                                                             
+                                                             
+      Stahl                                          19      
+                                                             
+                                                             
+      ofthe‘falseconsciousnessmodel’.Ittakesupfromtheoriesofhermeneuticalinjusticethe
+      idea that the epistemic constraints that oppressed groups face are often a matter of
+      distortedconceptualresources.IncontrasttoFricker’stheory,however,itoffersawider
+      and more plausible model of social power that takes epistemic constraints seriously
+      withoutlocatingtheminthedefectsofmembersofoppressedgroups.Insteadofthinking
+      of hermeneutical injustice exclusively in terms of exclusion, it offers a materialist ex-
+      planation for the persistence of ideologically distorted concepts. Such an explanation
+      locates the source of ideological distortions in social power and recognizesthe ways in
+      whichsuchsocialpowercanbeemployedtostabilizesociallysharedconcepts.Indoing
+      so, it offers a less individualistic and sociologically more powerful analysis of the link
+      between ideology, discourse and social practice.       
+      ORCID iD                                               
+      TitusStahl https://orcid.org/0000-0001-6537-2196      
+                                                             
+      Note                                                   
+      I am grateful to audiences at the Universities of Oldenburg and Groningen for many helpful
+      discussions, andtoCarolyn Bensonfor help with editingthe manuscript.
+                                                             
+      References                                             
+      Bianchin,Matteo.2020.“ExplainingIdeology:MechanismsandMetaphysics.”Philosophyofthe
+         Social Sciences50(4):313–37.https://doi.org/10.1177/0048393120917758
+      Boe´tie,EtienneDeLA.1998.ThePoliticsofObedience:TheDiscourseofVoluntaryServitude.
+         BlackRose Books.                                    
+      Bufkin, Sarah (2024) Racism, Epistemic Injustice, and Ideology Critique. Philosophy & Social
+         Criticism 1–25.Availableat: https://doi.org/10.1177/01914537241244824
+      Celikates,Robin.2017.“EpistemischeUngerechtigkeit,LoopingeffekteundIdeologiekritik.Eine
+         sozialphilosophischePerspektive.”WestEnd.NeueZeitschriftFürSozialforschung2:53–72.
+      Celikates, Robin. 2018. Critique as Social Practice: Critical Theory and Social Self-Under-
+         standing.Rowman & Littlefield International.        
+      Doan,Michael(2018)ResistingStructuralEpistemicInjustice.FeministPhilosophyQuarterly4(4).
+         Available at:https://doi.org/10.5206/fpq/2018.4.6230
+      Dotson, Kristie. 2012. “A Cautionary Tale: On Limiting Epistemic Oppression.” Frontiers: A
+         Journal ofWomen Studies 33(1): 24–47. https://doi.org/10.5250/fronjwomestud.33.1.0024
+      Dotson, Kristie. 2014. “Conceptualizing Epistemic Oppression.” Social Epistemology 28 (2):
+         115–38. https://doi.org/10.1080/02691728.2013.782585
+      Eagleton, Terry.2007.Ideology: AnIntroduction.Verso.   
+      Elling, Eskil. 2022. “Reconstructing the Distorted Experience of Oppression: Hermeneutical In-
+         justice and Ideology.” Constellations 29 (3): 269–82. https://doi.org/10.1111/1467-8675.
+         12576                                               
+      Elster,Jon.1982.“Belief,Bias,andIdeology.”InRationalityandRelativism,editedbyJonElster,
+         andMartin Hollis,123–48. BasilBlackwell.            
+      Elster,Jon. 1985.Making Senseof Marx.Cambridge University Press.
+                                                             
+                                                             
+
+[PAGE 20]
+                                                             
+                                                             
+                                                             
+      20                            Philosophy and Social Criticism 0(0)
+                                                             
+                                                             
+      Engels, Friedrich. (1893) 2004. “Engels to Franz Mehring, 14 July 1893.” In Collected Works:
+         Letters 1892-1895, 50:163–67.Collected Works. Lawrence& Wishart Ltd.
+      Finlayson,Lorna.2014.“OnMountainsandMolehills:Problems,Non-problems,andtheIdeology
+         of Ideology.”Constellations22(1): 135–46.https://doi.org/10.1111/1467-8675.12129
+      Fricker,Miranda.1999.“EpistemicOppressionandEpistemicPrivilege.”CanadianJournalof
+         Philosophy 29 (Supplement): 191–210. https://doi.org/10.1080/00455091.1999.
+         10716836                                            
+      Fricker,Miranda.2007.EpistemicInjustice:PowerandtheEthicsofKnowing.OxfordUniversity
+         Press.                                              
+      Fricker,Miranda.2016.“EpistemicInjusticeandthePreservationofIgnorance.”InTheEpistemic
+         Dimensions of Ignorance, edited by Martijn Blaauw, and Rik Peels, 160–77. Cambridge
+         University Press. https://doi.org/10.1017/9780511820076.010
+      Fricker,Miranda.2017.“EvolvingConceptsofEpistemicInjustice.”InTheRoutledgeHandbookof
+         EpistemicInjustice,edited byIanJamesKidd, Jose´ Medina,andGailePohlhausJr,53–60.
+         Routledge. https://doi.org/10.4324/9781315212043-5  
+      Geuss, Raymond.1981.TheIdeaof a CriticalTheory.Cambridge University Press.
+      Hall, Stuart. 1986. “The Problem of Ideology-Marxism without Guarantees.” Journal of Com-
+         municationInquiry 10(2): 28–44.https://doi.org/10.1177/019685998601000203
+      Haslanger,Sally. 2017a.Critical TheoryandPractice.VanGorcum.
+      Haslanger, Sally. 2017b. “Racism, Ideology, and Social Movements.” Res Philosophica 94 (1):
+         1–22.https://doi.org/10.11612/resphil.1547          
+      Jugov,Tamara,andLeaYpi.2019.“StructuralInjustice,EpistemicOpacity,andtheResponsibilities
+         of the Oppressed.” Journal of Social Psychology 50 (1): 7–27. https://doi.org/10.1111/josp.
+         12268                                               
+      Lackey, Jennifer. 2022. “Eyewitness Testimony and Epistemic Agency.” Nouˆs 56 (3): 696–715.
+         https://doi.org/10.1111/nous.12380                  
+      Leopold,David.2013.“MarxismandIdeology:FromMarxtoAlthusser.”InTheOxfordHandbook
+         ofPoliticalIdeologies,editedbyMichaelFreeden,andMarcStears,20–37.OxfordUniversity
+         Press. https://doi.org/10.1093/oxfordhb/9780199585977.013.0021
+      Marx,Karl,andEngelsFriedrich.(1846)1976.“TheGermanIdeology.”InCollectedWorks:1845-
+         47,19-539.Collected Works 5.International Publishers.
+      Mason,Rebecca.2011.“TwoKindsofUnknowing.”Hypatia26(2):294–307.https://doi.org/10.
+         1111/j.1527-2001.2011.01175.x                       
+      Mason, Rebecca. 2021. “Hermeneutical Injustice.” In The Routledge Handbook of Social and
+         Political Philosophy of Language, 247–58. Routledge. https://doi.org/10.4324/
+         9781003164869-19                                    
+      Medina,Jose´.2012.TheEpistemologyofResistance:GenderandRacialOppression,Epistemic
+         Injustice, andResistant Imaginations. OxfordUniversity Press.
+      Mills,CharlesW.2017.“Ideology.”InTheRoutledgeHandbookofEpistemicInjustice,editedby
+         IanJamesKidd,Jose´Medina,andGailePohlhausJr,100–111.Routledge.https://doi.org/10.
+         4324/9781315212043-10                               
+      Owuamalam, Chuma Kevin, Mark Rubin, and Spears Russell. 2016. “The System Justification
+         Conundrum: Re-examining the Cognitive Dissonance Basis for System Justification.”
+         Frontiers in Psychology7: 1889.https://doi.org/10.3389/fpsyg.2016.01889
+
+[PAGE 21]
+                                                             
+                                                             
+                                                             
+      Stahl                                          21      
+                                                             
+                                                             
+      Owuamalam,ChumaKevin,MarkRubin,andSpearsRussell.2019.“Revisiting25YearsofSystem
+         MotivationExplanationforSystemJustificationfromthePerspectiveofSocialIdentityModel
+         ofSystemAttitudes.”BritishJournalofSocialPsychology58(2):362–81.https://doi.org/10.
+         1111/bjso.12285                                     
+      O’Connor, Cailin. 2019. The Origins of Unfairness: Social Categories and Cultural Evolution.
+         Oxford University Press.                            
+      Pohlhaus, Gaile Jr. 2012. “Relational Knowing and Epistemic Injustice: Toward a Theory of
+         ‘Willful Hermeneutical Ignorance.” Hypatia 27 (4): 715–35. https://doi.org/10.1111/j.1527-
+         2001.2011.01222.x                                   
+      Pohlhaus, Gaile. 2021. “Epistemic Oppression, Ignorance, and Resistance.” In The Oxford
+         HandbookofFeministPhilosophy,editedbyA´sta,andKimQ.Hall.OxfordUniversityPress.
+         https://doi.org/10.1093/oxfordhb/9780190628925.013.33
+      Rosen, Michael. 1996. “On Voluntary Servitude.” In False Consciousness and the Theory of
+         Ideology. Polity.                                   
+      Scott,JamesC.1992.DominationandtheArtsofResistance:HiddenTranscripts.YaleUniversity
+         Press.                                              
+      Shelby,Tommie.2003.“Ideology,Racism,andCriticalSocialTheory.”PhilosophicalForum34
+         (2): 153–88.https://doi.org/10.1111/1467-9191.00132 
+      Stahl, Titus. 2013 In Ideologiekritik als Kritik sozialer Praktiken. Eine expressivistische Re-
+         konstruktionderKritikfalschenBewusstseins,editedbyNachMarx,RahelJaeggi,andDaniel
+         Loick, 228–54.Suhrkamp.                             
+      Stahl, Titus. 2024a. “Ideological Hope.” Critical Review of International Social and Political
+         Philosophy27(6): 952–73.https://doi.org/10.1080/13698230.2024.2344384
+      Stahl,Titus.2024b.“IdeologyasMisrecognition.”GlobalDiscourse14(1):20–39.https://doi.org/
+         10.1332/20437897Y2023D000000025                     
+      Stahl,Titus.2024c.“What(IfAnything)IsIdeologicalaboutIdealTheory?”EuropeanJournalof
+         Political Theory23(2): 135–58.https://doi.org/10.1177/14748851221107198
+      Stanley,Jason. 2015.How PropagandaWorks.PrincetonUniversity Press.
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             

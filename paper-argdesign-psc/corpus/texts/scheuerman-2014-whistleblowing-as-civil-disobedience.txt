@@ -1,0 +1,1039 @@
+[PAGE 1]
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+       Article                                               
+                                                             
+                                            PhilosophyandSocialCriticism
+                                             2014,Vol.40(7)609–628
+       Whistleblowing    as  civil                           
+                                              ªTheAuthor(s)2014
+                                             Reprintsandpermission:
+       disobedience:   The  case        sagepub.co.uk/journalsPermissions.nav
+                                          DOI:10.1177/0191453714537263
+       of Edward   Snowden                       psc.sagepub.com
+       William E. Scheuerman                                 
+       IndianaUniversity,USA                                 
+                                                             
+                                                             
+       Abstract                                              
+       Themediahoop-laaboutEdwardSnowdenhasobscuredalessflashyyetmorevital–andphilo-
+       sophicallyrelevant–partofthestory,namelythemoralandpoliticalseriousnesswithwhichhe
+       actedtomakethehithertocovertscopeandscaleofNSAsurveillancepublicknowledge.Here
+       IarguethatweshouldinterpretSnowden’sactionsasmeetingmostofthedemandingtestsout-
+       linedinsophisticated politicalthinkingaboutcivildisobedience.LikeThoreau,Gandhi,Kingand
+       countless other (forgotten) grass-roots activists, Snowden has in fact articulated a powerful
+       defenseofwhyhewasmorallyobligatedtoengageinpoliticallymotivatedlaw-breaking.Hehas
+       also undertaken impressive efforts to explain how his actions are distinguishable from ordinary
+       criminality,andwhytheyneednotculminateinrecklesslawlessness.Infact,hisexamplecanper-
+       hapshelpusadvanceliberalanddemocraticideasaboutcivildisobedience.First,ithighlightssound
+       reasonswhy,pacetheorthodoxview,theacceptanceofpunishmentbythoseengagingincivildis-
+       obedienceshouldnotbeseenasapreconditionofitslegitimacy.Second,Snowdenremindsusthat
+       oursisanerainwhichintensifiedglobalizationprocessesdirectlyshapeeveryfeatureofpolitical
+       existence.Defendersofcivildisobedienceneedtoupdatetheirreflectionsaccordingly.
+       Keywords                                              
+       Civildisobedience,ruleoflaw,EdwardSnowden,surveillance,whistleblowing
+                                                             
+       Edward Snowden’s June 2013 revelations about National Security Agency (NSA) sur-
+       veillance have dominated global media news coverage like few events in recent years.
+       Aherotosomeandatraitortoyetothers,hisexplosivedisclosuresaboutUSspyinghave
+       alsounleashed,asheclearlyhoped,aworldwidepoliticaldebateaboutstatesurveillance
+       in the context of technological advances whose implications most policy-makers, let
+       alone ordinary people, can barely fathom. Hardly a week haspassed without headline-
+                                                             
+       Correspondingauthor:                                  
+       WilliamE.Scheuerman,IndianaUniversity,Woodburn358,1100E.7thStreet,Bloomington,IN47405,USA.
+       Email:wscheuer@indiana.edu                            
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+      610                            Philosophy and Social Criticism 40(7)
+                                                             
+      grabbingreportsabouttheleaks,typicallyfollowedbypredictableexpressionsofpolar-
+      izedeliteandpublicreactions.Mainstreammediaoutletshavepaintedavividportraitof
+      Snowden’spersonalbackgroundandcareer,supplementedwiththeusualdoseofexpert
+      commentary.Theyhavealsoofferedareadyforumforpoliticiansandpunditseagerto
+      proffer sound bites deriding and even attacking Snowden, as well as possibilities for
+      vociferouscritical responsesfromthose–oft-timeslocatedabroad,andviewingthem-
+      selvesasvictimsratherthanbeneficiariesofNSAsurveillance–moresympathetictohis
+      cause.                                                 
+        Unfortunately,themediahoop-lahasobscuredalessflashyyetmorevitalpartofthe
+      story,namelythemoralandpoliticalseriousnesswithwhichSnowdenactedtomakethe
+      hithertocovertscopeandscaleofNSAsurveillancepublicknowledge.Aswenowknow,
+      andasSnowdenapparentlyanticipated,hisdecisiontodosohascomeatahugepersonal
+      cost, leaving him – after the Obama administration abruptly cancelled his passport,
+      thereby rendering him effectively stateless – dependent on the discretion of a govern-
+      mentmorefocusedonflexingwhatremainsofitsweakeningmusclesasaglobalpower
+      than ending troublesome high-tech spying. Sadly, one of our most eloquent critics of
+      statesurveillancenowfindshimself,partlybecauseoftheObamaadministration’sdra-
+      conianresponse, at thewhim ofa formerKGBspymaster.1    
+        Even though media sources have reported extensively both on his quest for asylum
+      and on his travails in Putin’s Russia, they have failed to impart a satisfactory sense of
+      the weighty moral and political reflections which apparently induced the then
+      29-year-old Snowden to give up his six-figure salary and comfortable life in Hawaii.
+      As Ihopetoshow,Snowden’s public declarations– andespecially anilluminating yet
+      neglected statement he made at the Moscow airport on 12 July 2013 when reluctantly
+      accepting Russia’s offer of asylum2 – demonstrate that Snowden has thought long and
+      hard about the fundamental question of when and how citizens of a liberal democratic
+      state aremorally andpolitically obligedtoviolate thelaw.
+        A 19th-century critic of militarism and slavery, Henry David Thoreau, is widely,
+      albeit somewhat misleadingly, credited with having coined the term ‘civil disobe-
+      dience’.3Atleastsincethemiddleofthelastcentury,whenMahatmaGandhiandMartin
+      Luther King mesmerized global public attention by articulating robust defenses of
+      non-violent law-breaking,4 political activists in many different national contexts have
+      creatively adapted their ideas and techniques to local conditions. For their part, major
+      politicaltheoristsandphilosophers–includingbothliberalslikeJohnRawlsandradical
+      democrats like Ju¨rgen Habermas – have struggled to make sense of the novel protest
+      form,andespeciallytheexactconditionsunderwhichcivildisobedienceshouldbeseen
+      asanindispensablefeatureofamatureliberalanddemocraticpoliticalculture.Themed-
+      ia’sgeneralfailuretoreportonSnowden’sunexpectedcontributionstothatdebatenot-
+      withstanding,they deserve ourcareful attention.        
+        Here I argue that we should interpret Snowden’s actions as meeting most of the
+      demanding tests outlined in sophisticated political thinking about civil disobedience.
+      To be sure, some have already described his actions as an example of legitimate civil
+      disobedience.5However,theyhave yetsufficiently tojustifythisview,which willstill
+      strike many of Snowden’s critics as counter-intuitive and tendentious. Like Thoreau,
+      Gandhi, King and countless other grass-roots activists Snowden has in fact articulated
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+       Scheuerman                                    611     
+                                                             
+       apowerfuldefenseofwhyhewasmorallyobligatedtoengageinpoliticallymotivated
+       law-breaking.Hehasalsoundertakenimpressiveeffortstoexplainhowhisactionsare
+       distinguishablefromordinarycriminality,andwhytheyneednotculminateinreckless
+       lawlessness. In fact, his example can perhaps help us advance liberal and democratic
+       ideasaboutcivildisobedience.First,ithighlightssoundreasonswhy,pacetheorthodox
+       view,theacceptanceofpunishmentbythoseengagingincivildisobedienceshouldnot
+       beseenasapreconditionofitslegitimacy.Second,Snowdenremindsusthatoursisan
+       erainwhichintensifiedglobalizationprocessesdirectlyshapeeveryfeatureofpolitical
+       existence.Defendersofcivildisobedienceneedtoupdatetheirreflectionsaccordingly.
+                                                             
+       Snowden as civil disobedient                          
+       Ifwestartwiththeusualtextbookdefinitionofcivildisobedienceasa‘public,nonvio-
+       lent, conscientious yet political act contrary to the law usually done with the aim of
+       bringing about a change in the law or policies of the government’, we can interpret
+       Snowden’s revelations asfalling underits rubric.6     
+        From the outset, Snowdenanticipated that his revelations about the NSA (where he
+       wasemployedbeforejoiningoneofitsprivatecontractors,BoozAllenHamilton),would
+       immediatelybetakenbytheUSgovernmentasevidence‘thatIhavebrokentheEspio-
+       nageActandhelpedourenemies’.7InanearlyinterviewwiththeGuardianjournalists
+       who helped break the story, Snowden not only predicted that he would be accused of
+       illegality,espionageandeventreason,butalsothattheUSgovernmentwouldmarshal
+       its imposing power resources to discredit and severely punish him.8 More recently, he
+       hasconceded that hesignedthe standard obligatory government classified information
+       non-disclosure agreement, and that his actions thus might be construed as a violation
+       of a ‘civil contract’ he entered into with the US government.9 In short, he has always
+       acknowledgedthattheUSgovernmentwouldlikelydescribehisactionsasillegal,while
+       conceding thatithassome legalleg tostand on.          
+        In fact, the US government immediately responded to the NSA leaks by revoking
+       Snowden’spassportandthenaggressivelydeterringanumberofforeigncountriesfrom
+       grantingasylum,effectivelyleavinghimwithnochoiceexceptRussianexile.Attorney
+       General Eric Holder also then promptly announced that Snowden would be charged
+       withviolationsoftheEspionageAct.10AsSnowdenprescientlypredicted,andasithad
+       previously donewhen confronted with other high-profile whistleblowers (for example,
+       Thomas Andrew Drake11 and Bradley Manning), the Obama administration decided
+       tothrow the(law) bookat him.                          
+        More important for our immediate purposes here, Snowden’s actions represent an
+       example of what the philosopher Hugo Adam Bedau once helpfully characterized as
+       indirect yet potentially legitimate resistance or civil disobedience, undertaken at ‘one
+       (or even several) remove(s), e.g. blacks violate a trespass ordinance to protest racial
+       injustice’,incontrasttodirectdisobediencetypicallyaimedatpreventingtheeffective
+       enforcement of a law seen as unfair or unjust (e.g. blacks violating segregation sta-
+       tutes).12 Though Snowden admits to having violated the standard government non-
+       disclosure agreement, and even though he is skeptical of Attorney General Holder’s
+       recoursetotheEspionageAct,hismaintargetremainsexistingUSpoliciesundergirding
+                                                             
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+      612                            Philosophy and Social Criticism 40(7)
+                                                             
+      NSAsurveillance.Hehasviolatedprohibitionsonwhistleblowingonlybecausedoing
+      sooffersaneffective–andinhisview:necessary–waytobringtheinjusticesofUS
+      surveillancepoliciestopublicattention,notbecausehenecessarilyaspirestodiscredit
+      eithergovernmentnon-disclosurerulesortheEspionageAct.Heevenhasgonesofar
+      astoclaimthat‘IamnottryingtobringdowntheNSA,[butinstead]Iamworkingto
+      improve the NSA’ by making sure that it abides by proper legal and constitutional
+      limits.13                                              
+        This basic position was already sketched out by Snowden at the Moscow airport,
+      where he explained why he felt morally and legally obliged to pursue acts likely to be
+      perceivedas‘contrarytothelaw’.Mostobviously,hiswasanopenandpublicinterven-
+      tion, for the very simple reason, he observed, that it entailed ‘a moral decision to tell
+      thepublicaboutspyingthataffectsallofus’,imperativeifpoliciesaboutwhichmost
+      people–andevenmostelitepoliticalactors–remainedinthedarkwerefinallytogain
+      public attention. Addressing not only his fellow US citizens but others around the
+      globe,Snowden‘tookwhatheknewtothepublic,sowhataffectsallofuscanbedis-
+      cussedbyallofusinthelightofday’.Becausehehopedtogeneratebroadawareness
+      aboutexistingsurveillancepoliciesalongwiththenecessityoffar-reachingreform,his
+      act’spubliccharacterwasessentialtothataim.Asheremarkedinaseparateconversa-
+      tion with the Guardian reporters, ‘[m]y sole motive is to inform the public as to that
+      which is done in their name and that which is done against them’.14
+        Snowden’sMoscowstatementsimultaneouslyappealedbothtoUSconstitutionaland
+      internationalhumanrightslaw,boldlyassertingthatexistingNSAprogramsconstitute‘a
+      seriousviolationofthelaw’,includingtheFourthandFifthAmendmentstotheUSCon-
+      stitution (prohibiting unreasonable searches and seizures, and guaranteeing basic due
+      process),article12oftheUniversalDeclarationofHumanRights(providingbasiclegal
+      security),andvariousotherstatutesandtreatiesbanninglegallyuncheckedstatesurveil-
+      lance,whichheviewstheNSAashavingrecklesslypursued.15Snowdenishardlycon-
+      doningillegalityorlawlessnessintoto.Onthecontrary,hehasregularlyinsistedthathe
+      isupholdingfundamentallawsandbasicrights,whichinhisviewrightlytrumpanyfide-
+      lity owedtoUSwhistleblowing statutesandregulations.    
+        Likemanyearliercivildisobedients,Snowdenthuscondonestheviolationoflocalor
+      particular laws andstatutes solely because oftheir incongruitywith higher– andmore
+      fundamental – law. In a Washington Post interview conducted in December 2013, he
+      reiteratedtheclaimthathisobligationstotheUSConstitutionoverrideanymere‘civil
+      contract’, i.e. the government non-disclosure agreement he signed: when such agree-
+      ments conflictwith constitutional law, we areobliged toviolate them.16
+        AgainstthosewhoviewNSAactivitiesasbasicallylawfulandthereforelegitimate,
+      theMoscowstatementassertsthattheirmainlegalfoundationremainsthesecretrulings
+      ofthecontroversialForeignIntelligenceSurveillanceCourt(FISC),‘whichtheworldis
+      notpermitted tosee’.ElsewhereSnowdenhasbeenquotedasopposingwhathepoint-
+      edly dubs ‘the federation of secret law, unequal pardon, and irresistible executive
+      power’.17 Secret jurisprudence, arbitrary power and burgeoning executive discretion
+      gohandinhandandneedtobecountered.Givenwhatwenowknowaboutthelaxjudi-
+      cialoversightoftheNSA,withtheFISC’sownchiefjudgehavingforthrightlyconceded
+      thatthecourtisbadlyequippedtoperformitsjob,andwithevidencesuggestingthatthe
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+       Scheuerman                                    613     
+                                                             
+       NSAoft-timesblatantlyignoredthecourt’srulings,18Snowden’sworrieshereseem,at
+       the least,credible.19                                 
+        TheillegalityofNSAspyingwascompounded,theMoscowstatementcontinues,by
+       theObamaadministration’sdecisiontoplacehimonno-flylistsandtherebypreventfor-
+       eigncountriesfromgrantingasylum.Thisincluded‘theunprecedentedstepofordering
+       militaryalliestogroundaLatinAmericanpresident’splane’.20AccordingtoSnowden,
+       thismoveconstitutedanattackon‘thebasicrightssharedbyeveryperson,everynation,
+       tolivefreefrompersecution,andtoseekandenjoyasylum’,asguaranteedbyahostof
+       humanrights treaties towhich the USgovernment formallysubscribes.
+        In striking contrast to the open and public character of his actions, the secrecy in
+       whichNSAintelligence-gatheringhasbeenshroudedallegedlycorrupts‘themostbasic
+       notionofjustice–thatitmustbeseentobedone.Theimmoralcannotbemademoral
+       throughuseofsecretlaws’(Snowden’sMoscowstatement).Publicityisfundamentalto
+       theruleoflawandconstitutionalgovernment,whereassecretlawtendstobecorrosive,
+       asitrisksundulyveilinggovernmentactionfrombothindividualandcollectivescrutiny.
+       AsthelegaltheoristLonFulleroncesimilarlynotedinhisclassicTheMoralityofLaw,
+       secretlawsandcourtsprovideaneasycoverforarbitraryandimmoralstateaction.21Not
+       surprisingly,theyremainafavoritedeviceforthosewhowouldprefertokeepunjustand
+       evenheinousactionsfromthepubliceye.Secretlawtendstoproliferateinauthoritarian
+       regimes.                                              
+        Tobesure,andasSnowdenmightconcede,somegovernmentactivitiesmayneedto
+       beveiledfromdirectpublicscrutiny;everyliberaldemocracycarvesoutsomeplacefor
+       government secrecy in the context of national security. Yet secrecy still poses a prin-
+       cipled threattoanypolitical order committedtobasic liberal anddemocratic values.22
+        Snowden’smainclaim,inshort,isthathisactionsnotonlyprotectfundamental–but
+       nowsystematicallyendangered–rightsandlaws,butthattheyalsodirectlyembodycore
+       legalvirtues(forexample,publicityandopenness)onwhichanylegitimateliberaland
+       democratic legal order depends. In contrast, NSA data-gathering and surveillance, as
+       wellastheObamaadministration’sheavy-handedresponsetohisprotests,makeamock-
+       ery ofsuch virtues.                                   
+       Recipe for lawlessness?                               
+       Snowden’s position is still unlikely to satisfy anyone worried about the familiar dan-
+       gersofrecklessandpotentiallydestructiveillegality.Arenotcitizensofamoreorless
+       well-functioning liberal democracy obliged to respect laws based on normal political
+       channels? What is to prevent them from irresponsibly abrogating laws and policies
+       they happen to deem unsatisfactory in the name of some vague ‘higher’ law?
+        The familiar answer from modern liberal and democratic theory is that politically
+       motivated law-breaking needs to pass a number of tough additional tests. Snowden’s
+       commentsattheMoscowairportandelsewhereshowthathehasmadeagoodfaitheffort
+       todoso.                                               
+        Significantly, it seems ungenerous to deny that his actions, whatever one’s overall
+       assessment of their political merits, are morally serious and thusconscientious, resting
+       on what the Moscow statement described as a ‘moral decision’ deriving ‘from what
+                                                             
+                                                             
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+      614                            Philosophy and Social Criticism 40(7)
+                                                             
+      Ibelievedright’,andwhatnowappearstohavebeenalengthyperiodofinternalmoral
+      reflection,orwhatGandhiandKingfamouslydescribedas‘self-purification’.His‘will-
+      ingnesstoactinpublicandtoofferexplanationstootherpeoplesuggestalsoawilling-
+      nesstoreflectuponandworryaboutthepossibleconsequences’,whichsurelyatteststo
+      hismoralseriousness.23Thefactthathismoralreflectionshavecosthimwhatheaptly
+      characterized as a comfortable ‘life in paradise’ with his family (i.e. a job reportedly
+      earning him 200 k annually in Hawaii, where he resided with his partner) belies the
+      accusation of ‘narcissism’ leveled at him by some major journalists and media pun-
+      dits,24asdoeshisrefusaltoenrichhimselfbysellingUSsecretsorpartneringwithfor-
+      eigngovernments.Onthecontrary,hisunusuallyselflessactionsseemtodemonstrate
+      amorallypraiseworthywillingnesstosacrificetheprivateforthepublicgood.Ifthisin
+      fact constitutes immoral narcissism, contemporary democracies probably could use
+      some more of it.                                       
+        IntheJune2013conversationwithGuardianjournalists,Snowdenalsoclaimsto‘have
+      carefullyevaluatedeverysingledocumentIdisclosedtoensurethateachwasinthepublic
+      interest’,inparttoavoid‘harmingpeople’.25Infact,Snowden’sactionshavebeennon-
+      violent,preciselybecausetheyconstitute‘disobediencetolawwithinthelimitsoffidelity
+      to law’.26 His aim is obviously neither violent criminality nor revolution, but instead a
+      peaceful transformation of US policy –and even the NSA itself – so that it might better
+      accordwithhisinterpretationsofboththeUSConstitutionandinternationallaw.AsSnow-
+      den implicitly grasps, non-violence is essential to this project because injury and harm
+      clash withtheoverall objectiveofpersuadingother political actorsofinjustices in need
+      of correction: coercion and force would deny others their basic rights, undermining the
+      very possibility of political agency on which democratic persuasion rests. Non-violence
+      isessentialtowhatBedauaptlydescribedasan‘idealpolitical discourse’predicated on
+      free-wheeling rational exchange, tolerance and patience along the lines any public-
+      mindedresponsiblecivildisobedienthopestoinstigate.27   
+        Tobesure,Snowden’scritics–includingbothPresidentObamaandPrimeMinister
+      Cameron–haveaccusedhimofplacingpeopleinharm’sway,ifonlybyincreasingthe
+      oddsofcatastrophic terrorist attacks.28Yetthe evidence adducedby governmentsthus
+      farinsupportofthispositionseemspaltry,asmanyobserversandevenaconservative
+      USfederaljudgehavepointedout.29Reasonableobserversmightlegitimatelydisagree
+      aboutthelikelylong-termpoliticalconsequencesofSnowden’sactions.Yetthisisprob-
+      ablytrueforallsignificantpoliticalactivity,whichinevitablygeneratesunexpectedand
+      oft-times unforeseeable consequences.30 Similar criticisms were once directed against
+      what are now more or less universally praised as exemplars of successful civil disobe-
+      dience:evenKingwasaccusedof‘inciting’violencebecausehisownnon-violentacts
+      presumably would produce a violent backlash from segregationists. The obvious prob-
+      lemwiththecriticism,however,isthatitrenderedKingoddlyculpablefortheirrespon-
+      sibilityandviolentdispositionofhisracistopponents.Asherightlycountered:‘Isn’tthis
+      likecondemningtherobbedmanbecausehispossessionofmoneyprecipitatedtheevil
+      act ofrobbery?’31                                      
+        No political actor can reasonably be held responsible for all of her or his act’s una-
+      voidably manifold long-term consequences, even though she or he should be expected
+      to ponder their likely character and minimize unnecessary harm to others. If Snowden
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+       Scheuerman                                    615     
+                                                             
+       has in reality devoted careful attention to the question of which documents should be
+       leakedsoastoavoidsuchharm,asheclaims,heprobablyhasmetthistest.Untilgov-
+       ernmentsprovidesomeunambiguousevidencetothecontrary,thereissimplynoapriori
+       reason toassume thatSnowdenhasdirectly endangeredanyone.
+        Intherecentscholarlydebate,boththosewhoprovideanadamantlyliberalglosson
+       civildisobedience,andthoseseekingtogiveitamoredirectlydemocraticandrepubli-
+       can face, insist that its legitimacy is necessarily limited to a special case of injustices,
+       whataliberalphilosopherlikeJohnRawlsfamouslydubbed‘seriousinfringements’and
+       ‘blatantviolations’ofbasicliberalrights,32orrecentandmorerobustlydemocraticand
+       republicantheoristsdescribeasfundamentalthreatstothepoliticalprocess,incontrastto
+       merepolicydisagreementsvis-a`-visgoverningpoliticalmajorities.Meetingthedemand-
+       ing tests outlined by both liberal and republican theorists of civil disobedience, Snow-
+       den’s actions provide fodder for both sides in the debate. Simultaneously, they
+       provideausefulreminderthatsharplystylizedscholarlyattemptstocontrastdemocratic
+       (orrepublican)tocompetingliberalmodelsofcivildisobediencearelikelytogetusonly
+       sofarwhenappliedtoreal-lifeexamples.Inaliberaldemocraticpoliticalcontext,ele-
+       ments ofboth willtypicallyfuse together.              
+        On the one hand, Snowden views his acts as justified by what he holds to be sus-
+       tainedattacksonlong-standingcorerights,andespeciallytheFourthandFifthAmend-
+       ments to the US Constitution. In sync with the standard liberal model of civil
+       disobedience,hisactionscanbeinterpretedasrepresentinganattempttocounterseri-
+       ous and indeed systemic infringements of basic liberties. Politically defensive in
+       nature, they also follow the liberal model by seemingly emanating from a (solitary)
+       individual, whose internal voice of conscience demands that the actor heed its call
+       regardless of social costs or consequences.33         
+        Ontheotherhand,Snowden’sactsalsofittherepublicanview,whichenvisionscivil
+       disobedienceasajointorcollectiveundertakingbypoliticalactorsworkinginconcert,
+       outfitted with express political purposes.34 As noted, his main goal has always been to
+       ignitepublicdebate,andhoweversolitaryhemayappear,Snowden’sishardlythevoice
+       ofanisolatedmoralagentunconcernedwithpublicaffairsorthecommongood.Inter-
+       estingly, his appeals toindividual conscience also lack the overtreligious tones found,
+       forexample,inparallelstatementsfromGandhiandKing:hisseemstobeasecularand
+       basically politicalconscience.                        
+        In the republican view, civil disobedience’s main function is to challenge political
+       complacencybybringingpublicattentiontoissuesthatmayneverhavebeenmeaning-
+       fullydeliberatedaboutinthefirstplace,orwhereanoverduere-examinationofpolicyis
+       stymiedbyprivilegedvestedinterestsandinstitutionalstasis.This‘mayoccurbecause
+       the policy was never approved by the democratic sovereign at all but instead arose in
+       someotherway,asthroughaslowandunattendedtransformationofaninitiallyverydif-
+       ferentpolicy’.35Forrepublicans,thechiefdilemmaisoftennotthatapoliticalmajority
+       has approved legislation that violates individual rights, as the competing liberal model
+       typically suggests. Instead, the requisite public debate and exchange perhaps never
+       occurred, and institutional inertia, rather than a recent legislative decision by a self-
+       consciouspoliticalmajority,haphazardlydrivesgovernmentactionperhapstangentially
+       linked to some previous – but now outdated – expression of the popular will. For the
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+      616                            Philosophy and Social Criticism 40(7)
+                                                             
+      republican, civil disobedience is legitimate only when there are pressing reasons for
+      believing that a polity has failed to engage vital issues, or its political institutions and
+      theirdominantplayershaveeffectivelyconspiredtokeepthepublicfromtakingafresh
+      lookatexistingpolicy.Solelyinsettingsplaguedbyfar-reachingpoliticalapathyand/or
+      institutional inertiais non-violent law-breakinga justifiable strategy.
+        Snowden’s actions arguably pass this test as well. As noted, their open and public
+      character stems from the quest to provoke debate in a context where he accurately
+      judgedthatmassandeveneliteignoranceaboutgovernmentspyingwasubiquitous.His
+      Moscow statement aptly characterizes US surveillance policies as affecting ‘all of us’,
+      andthusofbroadcommonandperhapsuniversalinterest.Asheanticipated,hisrevela-
+      tionsquicklyprovedexplosive,chieflybecauseonlyatinygroupofnationalsecurityand
+      politicaleliteswasfamiliarwiththestunningscopeandscaleofNSAactivities,whose
+      legalfoundationspartlyconsistofjudicialrulingsdatingbackto1979–inotherwords,
+      well before computers transformed communication and information technology –
+      exempting from the Fourth Amendment meta-data collected by telephone companies.
+      The‘slowandunattended’evolutionofsuchincreasinglyobsolescentrulingsintoalegal
+      veneer for massive full-scale NSA spying indeed raises difficult questions for demo-
+      cratic legitimacy.36                                   
+        In the June 2013 Guardian conversation, Snowden also recalled his frustration fol-
+      lowingBarackObama’s2008electionatthefailuretoreversehisconservativepredeces-
+      sor’s intrusive surveillance policies: Snowden ‘watched as Obama advanced the very
+      policies that I thought would be reined in’, despite Obama’s campaign promises to do
+      otherwise,andwhatinitiallyappearedtobeauniversalconsensusthatObamainreality
+      waspursuing major changes inUScounter-terrorism policy.
+        Facedwiththetaskoftaminggovernmentsurveillance,themuch-toutedUSsystem
+      of institutional checks and balances has in fact performed erratically in the aftermath
+      of the 9/11 terrorist attacks.37 Even though President Bush periodically assured the
+      American people that his administration was engaging in domestic surveillance only
+      when in possession of a judicial warrant, in reality it aggressively initiated warrantless
+      domesticspying.Whennewsoftheadministration’sillegalactionsfinallyreachedCon-
+      gress, it responded, but arguably only by providing some of the administration’s more
+      controversialpolicieswithastrongerlegislativebase,andbyimmunizinglargetelecom-
+      munications companies that had cooperated with executive illegality. For its part, the
+      secret FISC court has pretty much given the NSA a free hand,rarely challenging even
+      someoftheNSA’smostfar-reachingassertionsofauthority.InSnowden’saptphrase,
+      the FISA court hasregularly served asa ‘graveyard of judgment’.38Rather than effec-
+      tivelyreininginexecutivepower,thethreebranchesofgovernmenthaveeffectivelycol-
+      luded with one another to condone massive domestic and foreign surveillance while
+      excusing wrongdoers.39 Nor have regular attempts by human rights organizations to
+      focuspublicattentionontheresultingdangersgainedmuchtractioninWashington,DC.
+        Observingthistroublesomedownwardspiralatclosequarters,Snowdendecidedthat
+      ‘youcan’twaitaroundforsomeoneelsetoact.Ihadbeenlookingforleaders,butIrea-
+      lized that leadership is about being the first to act.’40 He only reached this conclusion,
+      however,afterpoliticalleadersfailedevenatmakingNSAspyingathemeforbroadpub-
+      licdiscussion.                                         
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+       Scheuerman                                    617     
+                                                             
+        Snowden has thus also satisfied what we might describe as the ‘last resort’ test for
+       legitimatecivildisobedience:itrepresentsanacceptablepossibleoptiononlyafternor-
+       mal political and legal channels have been exhausted, or in situations characterized by
+       Rawls aswhere                                         
+                                                             
+         ... thelegalmeansofredresshaveprovedofnoavail.Thus,forexample,theexistingpolit-
+        icalpartieshaveshownthemselvesindifferenttotheclaimsoftheminorityorhaveproved
+        unwillingtoaccommodatethem.Attemptstohavethelawsrepealedhavebeenignoredand
+        legalprotestsanddemonstrationshavehadnosuccess.41    
+       With some evident justification, Snowden believes that the failure of the US polity to
+       counterNSAspyingconstitutesascenarioofjustthistype,andthatheconsequentlyhad
+       nochoiceasaconscientiousandpublic-mindedcitizenbuttoleaktheuglyfactsofNSA
+       spying. What alternatives were in fact available to him? A donation to the American
+       Civil Liberties Union (ACLU) or Human Rights Watch? A letter to his congressional
+       representative,orperhapsPresidentObamahimself?Ormaybeacollegialconversation
+       withhissuperiors?Interestingly,Snowdenclaimstohavesharedhismisgivingswithhis
+       bosses.However,theyignoredhim,‘almostcertainlybecausetheagencyanditsleaders
+       don’t consider these collection programs to be an abuse’. 42 In light of the effectively
+       non-existent legal protections provided to whistleblowing private contractors working
+       for the NSA, as the New York Times has rightly concluded, ‘Mr. Snowden was clearly
+       justified in believing that the only way to blow the whistle on this kind of intelligence
+       gathering wastoexpose it tothepublic’.43              
+        Eventhosewithamorebenignassessmentofourpoliticalsystem’srecentoperations
+       shouldrecall Rawls’additional provisothat             
+         ... [s]omecasesmaybesoextremethattheremaybenodutytousefirstonlylegalmeans
+        ofpoliticalopposition.If,forexample,thelegislatureweretoenactsomeoutrageousvio-
+        lationofequalliberty,saybyforbiddingthereligionofaweakanddefenselessminority,we
+        surelycouldnotexpectthatsecttoopposethelawbynormalpoliticalprocedures.44
+       Tobesure,NSAspyingdiffersinsomeimportantwaysfromopenlydiscriminatorylaws
+       againstdefenselessminorities.However,soundargumentscouldstillbeadducedforbut-
+       tressingtheviewthatuncheckedNSAsurveillanceisprovingdisturbinglyruinousofour
+       mostfundamental liberties.                            
+                                                             
+                                                             
+       Civil disobedience without penalties?                 
+       Despitetheconventionalwisdomthatcivildisobedientsshouldacceptthelegalramifi-
+       cations of their actions, Snowden fled the United States and has since refused to turn
+       himselfintoUSauthorities.Thisscenarioposessomeobviousproblemsforanyattempt
+       tointerprethisdeedsasalegitimatecaseofcivildisobedience.ForGandhi,non-violence
+       demanded ‘voluntary submission to the penalty for non-cooperation with evil’.45
+       Kingfamouslypenneda‘LetterfromaBirminghamJail’,nota‘LetterontheRunfrom
+       aBirmingham Jail’.                                    
+                                                             
+                                                             
+                                                             
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+      618                            Philosophy and Social Criticism 40(7)
+                                                             
+        Yetascriticalvoicesinaprotractedlegalandphilosophicaldebatehavealreadypos-
+      ited,thestandardgroundsforassentingtopunishmentasanunavoidableconsequenceof
+      civildisobedienceareperhapslessair-tightthantypicallygetrecognized.46Snowden’s
+      example,inmyview,helpsbuttressthatdissentingposition.Inanyevent,USofficials
+      areobligedtoofferclemencytoSnowden.Theexorbitantpenaltiestheypresentlyhope
+      toexact are simplyinappropriate.                       
+        Those who insist that civil disobedience entails enduring its legal repercussions
+      typically offer up a potent – yet ultimately unwieldy – brew of principled along with
+      strategicandtacticalreasons.Mostfundamentally,theyarguethatundergoingpunish-
+      ment allows for law-breakers to evince what King described as the ‘very highest
+      respect for law’.47 By accepting punishment even for an unjust law, law-breakers
+      expresstheirfidelityto thegeneralideaoflegalityortheruleoflaw,aswellastheir
+      appreciationforthebasiclegitimacyofagivenlegalorconstitutionalorderasawhole.
+      In contrast to the criminal or revolutionary, both of whom presumably lack such an
+      appreciationandthustrytoavoidgettingcaughtwhenviolatingthelaw,aresponsible
+      civil disobedient anticipates criminal prosecution and its consequences, their poten-
+      tially unjust character notwithstanding.               
+        Typically,thisstockargumentthengetsfusedwiththerelatednotionthatcivildis-
+      obediencemustbeopenorpublic,which–aswehavealreadyseen–playsadecisive
+      role in distinguishing it from competing varieties of illegality. King, for example,
+      famously suggested that willingly accepting ‘the penalty by staying in jail to arouse
+      theconscienceofthecommunity’wasessentialto‘openly,lovingly’breakingthelaw,
+      whichhejuxtaposedtotheactsofhatefulsegregationistswhoconspiratoriallytorched
+      black churches under the cover of darkness and then did everything in their power to
+      avoidprosecution.48Academictheoristsofcivildisobediencehavedefendedthepun-
+      ishment requirement in even more unabashedly strategic or tactical terms. Accepting
+      punishmentishowlaw-breakersprovideconcreteevidenceoftheirunselfishnessand
+      public-mindedness,theirmoralseriousnessandtheintensityoftheirconcerns,andalso
+      theirmoralandpoliticalsincerity.49Ononeview,theyshouldneitherexpectnorseek
+      specialtreatmentbecausefidelitytotheruleoflawdemandsstrictlegalgeneralityand
+      thereforenon-discrimination.Becauseoftheircommitmenttotheideaoflegalityand
+      theoveralllegitimacyoftheexistinglegalorder,itwouldpresumablybeinconsistent
+      toexpectbettertreatmentthanothers–includingordinarycriminals–whohavebro-
+      ken the law.50                                         
+        Accordingtotheconventionalview,criminalpunishmentalsoservesafruitfuldeter-
+      rent function: without its looming specter, the costs of even well-considered law-
+      breaking would be unduly cheapened.51 Irresponsible illegality lacking in the requisite
+      dose ofmoral seriousnessmight ensue.                   
+        ThisbasicaccountrestsonarichintellectualtraditionarguablygoingbacktoPlato’s
+      Crito.Atcloserexamination,however,itraisesasmanyquestionsasitpurportstoanswer.
+        Mostimmediately,tothedegreethattheargumentsprofferedarechieflystrategicor
+      tacticalincharacter,theyalsoimplythatdissentinglaw-breakersmightfollowalterna-
+      tivepathsinorder tobringabout thedesired moraland political results.
+        Exiled to Putin’s Russia, with no likelihood of returning home on the horizon, has
+      Snowden not already provided sufficient evidence of his moral seriousness and
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+       Scheuerman                                    619     
+                                                             
+       public-mindedness?ThoughhehasneverappearedinaUScourtroom,theopenandpub-
+       lic character of his actions can hardly be denied. Even absent judicial proceedings and
+       criminalpunishment,theycontinuetorivetpublicattention,generatingamassiveworld-
+       widedebatenotonlyaboutUSsurveillance,butalsoaboutthemoralresponsibilitiesof
+       individualsinanageofunprecedentedtechnologicalpossibilitiesforstatesurveillance.
+       Can we be so sure that better or even equivalent results would have been achieved if
+       Snowden had remained in the USA and effectively assented to the Obama administra-
+       tion’s classification ofhis deeds asfalling underthe Espionage Act?
+        As for the thesis that punishment serves a necessary deterrent function, it hardly
+       seems self-evident that Snowden’s example will lead any time soon to a dramatic
+       increase in irresponsible and morally intemperate law-breaking. On the contrary, the
+       wholeworldcannowclearlyseewhathehasbeenforcedtosacrifice,andthathismoral
+       decision has come at an exceedingly high personal cost – even absent criminal
+       punishment –mostofus wouldnotwillinglybear.           
+        Nor is it even clear that previous practitioners of civil disobedience followed this
+       orthodoxviewofpunishment.Thoreauneitheradvertisedhisillegalactsnorsoughtpun-
+       ishmentforthem;hisreaderswilllookinvainforacelebratorydescriptionofthelegal
+       penaltymetedouttohimbyhisMassachusettsjailers.52Gandhiacceptedthelegalreper-
+       cussionsofhisacts,yetsurelynotbecauseofanimplicitrespectforthegenerallegiti-
+       macyorunderlyingframeworkofBritishcoloniallawinIndia,whichhedespised.53And
+       whentheoverallframeworkofaspecificlegalorderisincreasinglypollutedbycorrosive
+       formsofsecretlawandcourtrulings,asSnowdenbelievesisthecaseforUSlaw,canwe
+       besurethatacceptinglegalpunishmentwillbuttresstheruleoflawandnotinsteadhelp
+       buryit?                                               
+        Though rarely mentioned in the literature, the core intuition that the acceptance of
+       legalpenaltiesisintimatelyrelatedtorespectforthelawmakessenseonlyifdisobedi-
+       entscancountoncriminalproceedingsembodyingbasicrule-of-lawvirtues.54Evasion
+       ofpunishmentshouldprobablyremaintheexceptiontothenorm.However,ifpeaceful
+       law-breakersfaceasituationwherethereis‘norightofpublictrial,andnopossibilityof
+       usingpunishmentforpublicitypurposes,orifpunishmentsweremadedraconianinorder
+       topreventdissentersfrompublicizingtheirviews’,thenevasioncouldprovejustifiedfor
+       the simple reason that it might best guarantee the requisite publicity.55 When criminal
+       proceedingsrestonvagueandpoorlydefinedlegalnorms,sufferfromexcessivepoliti-
+       cization so as to impair the possibility of a fair trial, and regularly mete out draconian
+       sentences,thenaconscientiousdisobedient’sdecisiontoescapethemispotentiallysup-
+       portiveand notdestructive of therule oflaw.           
+        Unfortunately, as the German jurist Reinhard Merkel has similarly observed, such
+       concernsaredisturbinglypertinenttotheObamaadministration’sdecisiontoprosecute
+       Snowden under the Espionage Act, an infamous statute whose main political accom-
+       plishment has arguably been its inadvertent contributions to the creation of the
+       20th-century US civil liberties movements.56 Since the First World War, when it func-
+       tionedasan‘efficienttoolfortheblanketsuppressionofantiwarviews’,theEspionage
+       Act has allowed the executive branch to clamp down on unwanted dissident voices, in
+       ways oft-times soon recognized as both legally dubious and politically counterproduc-
+       tive.57 As former Yale University President Benno Schmidt chronicled in a landmark
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+      620                            Philosophy and Social Criticism 40(7)
+                                                             
+      co-authoredColumbiaLawReviewsurvey,theActisriddledwithvagueandoft-times
+      incomprehensible statutory language, providing the executive with what amounts to
+      arbitrarypoweroverastunningrangeofactivitieslooselyrelatedtotheundefinedterrain
+      of‘nationalsecurity’.58Becausetheidealofruleoflawiscongenitallytiedtothequest
+      for far-reaching doses of both clarity and consistency in the law, the Espionage Act is
+      inconsonantwithit.Notsurprisingly,Schmidtandothershavearguedthatitisprobably
+      unconstitutional.                                      
+        In part because of its myriad legal failings, most presidents have been reluctant to
+      enforce the Espionage Act, though PresidentObama – for reasons still being debated
+      among political observers – has been far more aggressive than his predecessors in
+      doing so, with a definite increase in its employment occurring on his watch. Among
+      liberal-mindedlawprofessorsandcivillibertarians,thisdevelopmenthasunderstand-
+      ably proven contentious. Another prominent recent whistleblower just prosecuted
+      under the Espionage Act, Chelsea (formerly: Bradley) Manning, is now serving a
+      35 years’ sentence.                                    
+        TheenigmaathandgoeswellbeyondtheEspionageAct’swidelynotedlegalfailings.
+      AsSnowdeniswellaware,andastheManningcasesurelyhelpedremindhim,whistle-
+      blowersinthecontextofthenationalsecurityapparatusenjoyfewreallegalprotections
+      andguarantees.Ascivillibertariansandothershavenoted,theirlegalstatusisprecarious
+      atbest,andthatareamostdirectlyrelevanttohiscase,basicrule-of-lawvirtuesremain
+      underdeveloped.59Andjustincaseofanyremaininglegalambiguity,AttorneyGeneral
+      HolderhasconsistentlymadeitclearthattheUSgovernmentalreadyconsidersSnowden
+      guiltyascharged,andthatitwillfightferociouslyforhimtoreceiveatleast30years’–
+      andprobablylife–imprisonment.IsitanywonderthatSnowdenquicklydecidedthathis
+      chances ofa fair trialinthe USAwere close tonil?60     
+        Pace the Obama administration’s hard line approach, major public voices in the
+      USA–includingtheNewYorkTimeseditorialstaff–havecalledonObamatoencour-
+      ageSnowdentoreturnhomeinexchangeforapromiseofclemencyorevenamnesty.61
+      The long-standing debate on civil disobedience suggests some pressing reasons why
+      this would represent both a humane and an intellectually sound course of action.
+        All legal systems – and especiallythe US system – provide roomfor leniency inthe
+      law’sapplication.Prosecutorsandjudgesregularlyallowforpleabargaining,thereduction
+      of charges, or the mitigation of penalties when faced with special circumstances (e.g. a
+      youngorinexperiencedoffender,extremepoverty,orotherspecialcircumstances).62The
+      orthodoxviewthatdisobedientsshouldnotbetreateddifferentlyfromordinarycriminals
+      obscuresthecrucialpointthattheyaredifferent:Snowdendidnotbreakthelawforprivate
+      gainortoaidforeignterrorists,butinsteadtobringgrossviolationsofthelawtotheatten-
+      tionofhiscompatriotsinordertohelpgenerateoverduepublicdebate.TheObamaadmin-
+      istration’s decision to enforce the Espionage Act against him just as it would against
+      ‘ordinary’spiesmayinitiallyseemtorepresentapraiseworthycommitmenttolegalrigor
+      andnon-discrimination.Inreality,itconstitutesaglaringexampleofspuriouslegalgen-
+      eralityincongruentwithbasiclegalandconstitutionalideals.
+        The simplistic view apparently endorsed by the administration that ‘the law is the
+      law’–andhencethatSnowden’sactsrequirestrictprosecution–alsodownplaysthefact
+      that he has repeatedly explained why his actions were similarly required by
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+       Scheuerman                                    621     
+                                                             
+       constitutionalandinternationallaw.Obviously,theObamaadministrationdoesnotshare
+       Snowden’slegalviews,butmanyothersintheUSAandelsewherenowapparentlydo,in
+       partbecausehehassoforcefullyoutlinedthem.Attheveryleast,therearesoundreasons
+       whyreasonablepeoplemightdisagreeabouthowstatesurveillanceisbestregulatedby
+       both the US Constitution and various international agreements to which the USA is a
+       party.Wefaceasituationwhere‘thelawisuncertain,inthesensethataplausiblecase
+       canbemadeonbothsides’.63AsthelatelegalphilosopherRonaldDworkinwroteinan
+       earlieryetstillimmediatelygermanecontext,‘thenacitizenwhofollowshisownjudg-
+       ment is not behaving unfairly’.64 Since liberal democracy should not only permit but
+       encouragecitizenstocultivatetheirownjudgmentsaboutcomplexconstitutionalissues,
+       andbecausefidelitytothelawcannotbeequatedwithblindloyaltytoaparticularpolit-
+       icalofficial’soreveninstitution’slegalviews,‘ourgovernmenthasaspecialresponsi-
+       bility to try to protect him, and soften his predicament, whenever it can do so without
+       great damage to other policies’.65 Of course, no government can guarantee blanket
+       immunity to those who violate the law in the name of conscience. ‘But it does follow
+       thatwhenthe practicalreasonsfor prosecutingarerelativelyweakinaparticularcase,
+       orcan bemet inotherways,the pathoffairness lies in tolerance.’66
+        HavingrevealedthatNSAofficialsregularlybrokethelaw,andhavingthenbrilliantly
+       succeededatignitingamuchneededpoliticaldebateaboutthemodernsurveillancestate,
+       EdwardSnowdendeservesbetterthanRussianexileor30yearsinaUSprison.
+       Civil disobedience in a global age                    
+                                                             
+       OneofthemoststrikingtraitsofSnowden’sMoscowstatementisthedegreetowhichit
+       acknowledgesthedirectlyglobalparametersofcontemporarylawandpolitics.Hisstate-
+       mentappealstotheUSConstitution,asnotedabove,butalsototheUniversalDeclaration
+       ofHumanRightsandeventheLawofNationsandthelegalprincipleofnon-refoulement,
+       which prohibits countries from rendering victims of persecution to their persecutors.
+       According to Snowden,AttorneyGeneral Holder’s attempttoforce HongKonginJune
+       2013toreturnhimtotheUSAthusalsorepresentedaviolationofinternationallaw.He
+       evenreferencestheNurembergTrialsandtheillustriousrulingthat
+         ... [i]ndividualshaveinternationaldutieswhichtranscendthenationalobligationsofobe-
+        dience. Therefore individual citizens have the duty to violate domestic laws to prevent
+        crimesagainstpeaceandhumanityfromoccurring.          
+       SnowdennotonlyapparentlybelievesthatheactedinaccordancewiththeNuremberg
+       principles, butthathis actionshave been conducive tointernational peace.
+        Finally,theMoscow declaration directlyaddresses notjustUScitizensbutaglobal
+       public:‘Iaskedtheworldforjustice.’Snowdenspecificallylaudsthegovernmentsand
+       peoplesofRussia,Venezuela,Bolivia,NicaraguaandEcuador–eachofwhichsoughtto
+       granthimasylum,beforefacinganastybacklashfromtheUSA–forhaving‘earnedthe
+       respectoftheworld’.SincetheJune2013leaks,andwithremarkableefficacy,Snowden
+       has in fact successfully mobilized not only specific national publics, but an emerging
+       worldwide public, insupportofhis cause.               
+                                                             
+                                                             
+                                                             
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+      622                            Philosophy and Social Criticism 40(7)
+                                                             
+        Fromoneperspective,thisstrategyisfamiliarfromtheannalsofmoderncivildisobe-
+      dience. Gandhi and King also sought to influence foreign governments and favorably
+      shapenascentglobalpublicopinion,whilealsoperiodicallyappealingtosupranational
+      political norms and moral values. During the Vietnam War, politically motivated law-
+      breakersintheanti-warmovementsimilarlydescribedtheNurembergTrialsasoffering
+      abasis fora ‘higher’lawwhich they envisioned assuperordinate toUSlaw.67
+        Yet it remains difficult to deny that Snowden’s statement also evinces some sig-
+      nificant novelty. Even if earlier civil disobedients hinted at our increasingly global
+      condition, Snowden takes it as a given, as his comparatively direct and detailed
+      appeal to international law effectively attests. Revealingly, Snowden’s actions not
+      only have had astonishingly immediate worldwide political ramifications, but he
+      is suitably more attuned than his historical predecessors to the prominence of key
+      global political and legal innovations, some of which now offer a useful launching
+      pad for checking unjust state action. International human rights lawyers probably
+      risk conflating their normative wishes with political realities when describing ours
+      as a new system of global ‘humanity’s law’, where human security consistently
+      trumps state or national security.68 By the same token, it would be equally mislead-
+      ing to obfuscate the ways in which supranational political and legal institutions –
+      including the emerging human rights regime – are now core pillars of the evolving
+      global order. Even if the global system remains messy and contradictory – too often
+      driven by old-fashioned power politics, even when faced with shared tasks suggest-
+      ing its obsolescence – its main features nonetheless rest on some identifiably cosmo-
+      politan moral and political aspirations.69             
+        ThisobservationpointstoanalternativereadingofSnowden’sactionsandtheirrele-
+      vancetothequestionofwhethercivildisobedients shouldberequiredtosubmitthem-
+      selvestocriminalprosecution.Crucially,hehasneverclaimedthatheshouldbeimmune
+      frompunishment.Instead,asnoted,hehaschieflyaccusedtheUSgovernmentoftrying
+      todeny hima fair trial.In addition,he hasrepeatedly insisted that his actions are con-
+      sonant with international law, whereas the USA – by spying on foreign countries and
+      closeallies,andthenbyviolatingthoserightsaccordedhimunderitasanasylumsee-
+      ker–hasregularlyabrogatedit.AsSnowdenobviouslyunderstands,however,hehasno
+      realchanceofeffectivelyvalidatingthelegalityofhispositiongiventhemassivepower
+      inequalities plaguing the existing global order. We stilllack a sufficiently independent
+      globallegal systeminwhich Snowdenandothers couldfreelyandopenlydefendtheir
+      legal claims, and where they and other vulnerable global political actors might have a
+      reasonable chance ofdefeating major global playersina courtoflaw.
+        Giventhatinstitutionallacuna,Snowdenperhapsconcluded,hisonlyrealoptionwas
+      to seek political asylum. Yet implicitly, his actions point to an important constructive
+      politicaltask:weneedtobuildastrongergloballegalandespeciallyhumanrightssys-
+      tem,wheretherightsofthosewhotakeonthegreatpowersgarnerrealprotection,and
+      wherethebigboysandgirlsonthe(global)playgroundwouldbeforcedtorespectthe
+      samerulesasthesmallboysandgirls.Ifsuchasystemwereoperative,andifitwereable
+      tosecuretherequisitedoseoflegalandconstitutionalattributeslikelytobemissingfrom
+      USlegalproceedingsundertheEspionageAct,Snowdenwouldprobablybeobligedto
+      appear before it, andthusalso accept thepossibility ofanyhypothetical penalties.
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+       Scheuerman                                    623     
+                                                             
+        Yetwelacksuchagloballegalsystem,andnoneseemslikelytoemergeinthenear
+       future: our playground bullies prefer the status quo. In the meantime, we are forced to
+       acceptmakeshiftsolutions,recognizingboththeirpoliticalnecessityandoft-timesunsa-
+       tisfactorynormativecharacter.SoUSAmericansshoulddemandoftheObamaadmin-
+       istration thatit treatSnowden withclemency.           
+        PoliticianselsewherewhohavetappedintopublicangeraboutUSspyingforpolitical
+       gainneedtobackuptheirrhetoricwithdeeds:ifUSofficialsrefusetoshowclemency
+       towardsSnowden,heshouldstillhavesomewheretogobesidesPutin’sRussia.Evenif
+       President Obama and Attorney General Holder fail to do the right thing, world leaders
+       elsewhere should be expected to do so: they should allow Edward Snowden to stay in
+       their countries.                                      
+        His contributions to the democracy and the rule of law, in striking juxtaposition to
+       thosewho have tried tosilence him,remainauspicious.   
+                                                             
+       Addendum                                              
+       ‘Statement by Edward Snowden to Human Rights Groups at Moscow’s Sheremetyevo
+       Airport’[Friday 12 July2013,15:00 UTC]:               
+                                                             
+        Hello.MynameisEdSnowden.Alittleoveronemonthago,Ihadfamily,ahomeinpara-
+        dise,andIlivedingreatcomfort.Ialsohadthecapabilitywithoutanywarranttosearchfor,
+        seize,andreadyourcommunications. Anyone’scommunicationsatanytime.Thatisthe
+        powertochangepeople’sfates.                          
+        Itisalsoaseriousviolationofthelaw.The4thand5thAmendmentstotheConstitutionof
+        mycountry,Article12oftheUniversalDeclarationofHumanRights,andnumeroussta-
+        tutes and treaties forbid such systems of massive, pervasive surveillance. While the US
+        Constitutionmarkstheseprogramsasillegal,mygovernmentarguesthatsecretcourtrul-
+        ings,whichtheworldisnotpermittedtosee,somehowlegitimizeanillegalaffair.These
+        rulingssimplycorruptthemostbasicnotionofjustice–thatitmustbeseentobedone.The
+        immoralcannotbemademoralthroughtheuseofsecretlaw.    
+        IbelieveintheprincipledeclaredatNurembergin1945:‘Individualshaveinternationalduties
+        whichtranscendthenationalobligationsofobedience.Thereforeindividualcitizenshavethe
+        dutytoviolatedomesticlawstopreventcrimesagainstpeaceandhumanityfromoccurring.’
+        Accordingly,IdidwhatIbelievedrightandbeganacampaigntocorrectthiswrongdoing.I
+        didnotseektoenrichmyself.IdidnotseektosellUSsecrets.Ididnotpartnerwithany
+        foreigngovernmenttoguaranteemysafety.Instead,ItookwhatIknewtothepublic,so
+        whataffectsallofuscanbediscussedbyallofusinthelightofday,andIaskedtheworld
+        forjustice.                                          
+        Thatmoraldecisiontotellthepublicaboutspyingthataffectsallofushasbeencostlybutit
+        wastherightthingtodoandIhavenoregrets.               
+        Sincethattime,thegovernmentandintelligenceservicesoftheUnitedStatesofAmerica
+        haveattemptedtomakeanexampleofme,awarningtoallotherswhomightspeakoutasI
+        have.Ihavebeenmadestatelessandhoundedformyactofpoliticalexpression.TheUnited
+                                                             
+                                                             
+                                                             
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+      624                            Philosophy and Social Criticism 40(7)
+                                                             
+        StatesGovernmenthasplacedmeonno-flylists.ItdemandedHongKongreturnmeoutside
+        oftheframeworkofitslaws,indirectviolationoftheprincipleofnon-refoulement–the
+        Law of Nations. It has threatened with sanctions countries who would stand up for my
+        humanrightsandtheUNasylumsystem.Ithaseventakentheunprecedentedstepoforder-
+        ingmilitaryalliestogroundaLatinAmericanpresident’splaneinsearchforapoliticalrefu-
+        gee.ThesedangerousescalationsrepresentathreatnotjusttothedignityofLatinAmerica,
+        buttothebasicrightssharedbyeveryperson,everynation,tolivefreefrompersecution,
+        andtoseekandenjoyasylum.                             
+        Yeteveninthefaceofthishistoricallydisproportionateaggression,countriesaroundthe
+        worldhaveofferedsupportandasylum.Thesenations,includingRussia,Venezuela,Boli-
+        via, Nicaragua, and Ecuador have my gratitude and respect for being the first to stand
+        againsthumanrightsviolationscarriedoutbythepowerfulratherthanthepowerless.By
+        refusing to compromise their principles in the face of intimidation, they have earned the
+        respect of the world. It is my intention to travel to each of these countries to extend my
+        personalthankstotheirpeopleandleaders.               
+        I announce today my formal acceptance of all offers of support or asylum I have been
+        extendedandallothersthatmaybeofferedinthefuture.With,forexample,thegrantof
+        asylum provided by Venezuela’s President Maduro, my asylee status is now formal, and
+        nostatehasabasisbywhichtolimitorinterferewithmyrighttoenjoythatasylum.As
+        wehaveseen,however,somegovernmentsinWesternEuropeanandNorthAmericanstates
+        have demonstrated a willingness to act outside the law, and this behavior persists today.
+        ThisunlawfulthreatmakesitimpossibleformetotraveltoLatinAmericaandenjoythe
+        asylumgrantedthereinaccordancewithoursharedrights.   
+        Thiswillingnessbypowerfulstatestoactextra-legallyrepresentsathreattoallofus,andmust
+        notbeallowedtosucceed.Accordingly,Iaskforyourassistanceinrequestingguaranteesof
+        safepassagefromtherelevantnationsinsecuringmytraveltoLatinAmerica,aswellasrequest-
+        ingasyluminRussiauntilsuchtimeasthesestatesaccedetolawandmylegaltravelispermit-
+        ted.IwillbesubmittingmyrequesttoRussiatoday,andhopeitwillbeacceptedfavorably.
+        Ifyouhaveanyquestions,IwillanswerwhatIcan.           
+        Thankyou.                                            
+      (Accessed 9January 2014 @:http://wikileaks.org/Statement-from...)
+                                                             
+      Notes                                                  
+      1. The evidence, in fact, suggests that President Putin – a former KGB agent in the German
+        DemocraticRepublic–isenviousofUSsurveillancecapacities,andthatthepredictableresult
+        willbeadestructivearmsracehere,asinsomanyotherareasoflong-standingUS–Russia
+        powerrivalry.                                        
+      2. Thatstatementisreprintedattheendofthisarticle.ItisalsoreadilyavailableonYouTube,
+        accessible@:http://www.youtube.com/watch?v¼1fCb_1Z1zQ8
+      3. In fact, an unnamed editor chose the term for a posthumously published version (1866) of
+        Thoreau’sfamous(1849)essay,‘ResistancetoCivilGovernment’,whichwasretitled‘Civil
+        Disobedience’. In the immediate aftermath of the US Civil War, the original title probably
+                                                             
+                                                             
+                                                             
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+       Scheuerman                                    625     
+                                                             
+         seemed too incendiary! See Lewis Perry, Civil Disobedience: An American Tradition
+         (NewHaven,CT:YaleUniversityPress,2013),p.65.        
+       4. For a discussion, see Bidyut Chakrabarty, Confluence of Thought: Mahatma Gandhi and
+         MartinLutherKing(NewYork:OxfordUniversityPress,2013).
+       5. TheHamburglawprofessorReinhardMerkelhasofferedamoresustaineddefenseofSnow-
+         denonthebasisofliberaltheoriesofcivildisobedience,includingJohnRawls’;seeDavid
+         Hugendick,‘SnowdensStrafewa¨reexistenzvernichtend [Snowden’s Punishment WouldBe
+         Devastating][interviewwithReinhardMerkel],DieZeit(27June2013),accessed30January
+         2014,@:www.zeit.de.Someinterpretativedifferencesnotwithstanding,whatfollowsnotonly
+         iscongruentwithMerkel’simportantinsights,butalsocanbereadasanattempttoprovidea
+         firmerbasisforthem.                                 
+       6. JohnRawls,‘DefinitionandJustificationofCivilDisobedience’,inHugoAdamBedau(ed.)
+         CivilDisobedienceinFocus(NewYork:Routledge,1991),pp.103–21(p.104).
+       7. QuotedinGlennGreenwald,EwenMacAskillandLaraPoitras,‘EdwardSnowden:theWhis-
+         tleblower behind the NSA Surveillance Revelations’, Guardian (9 June 2013), accessed 10
+         August2013,@:www.theguardian.com                    
+       8. ibid.                                              
+       9. BartonGellman, ‘Edward Snowden,after Months ofNSA Revelations, Says His Mission’s
+         Accomplished’, Washington Post (23 December 2013), accessed 24 December 2013, @:
+         www.washingtonpost.com                              
+       10. SeethediscussionbelowoftheEspionageAct’slegalpathologies.Snowdenhasbeencharged
+         with the theft of government property and the unauthorized communication of classified
+         information.                                        
+       11. Drakewasahigh-levelNSAofficialwhosimilarlybelievedthathisagencywascommitting
+         crimes,who–likeSnowden–leakedinformationaboutitssurveillancepoliciestothemedia.
+         HewaschargedundertheEspionageAct,beforetheObamaadministration–intheimmediate
+         aftermathofa22May201160Minutesreportonthecase–droppedmostcharges.Snowden
+         appearstohaveplayedcloseattentiontoDrake’scaseandespeciallytheObamaadministra-
+         tion’s attempt to prosecute him under the Espionage Act; see Luke Harding, The Snowden
+         Files(NewYork:Vintage,2014),pp.51–2.                
+       12. HugoAdamBedau,‘CivilDisobedienceandPersonalResponsibilityforInjustice’,inBedau
+         (ed.)CivilDisobedienceinFocus,pp.49–68(p.50).       
+       13. QuotedinGellman,‘EdwardSnowden,afterMonthsofNSARevelations’.
+       14. QuotedinGreenwaldetal.,‘EdwardSnowden:theWhistleblower’,accessed10August2013,
+         @:www.theguardian.com                               
+       15. This critical assessment of NSA policy, by theway, is shared by former Vice-President Al
+         Goreandafederaljudge,RichardLeon,appointedbyformerPresidentW.Bush.SeeJudge
+         RichardLeon’scommentsinKlaymanv.Obama.Civ.No.13-0851.USDistrictCourtforthe
+         DistrictofColumbia(16December2013).                 
+       16. Gellman,‘EdwardSnowden,afterMonthsofNSARevelations’.
+       17. QuotedinGreenwaldetal.,‘EdwardSnowden:theWhistleblower’.
+       18. CarolD.Leonnig,‘Court:AbilitytoPoliceUSSpyingLimited’,WashingtonPost(15August
+         2013),accessed15December2013,@:www.washingtonpost.com.SeealsoCharlesSavage,
+         ‘SecretCourtRebukedN.S.A.onSurveillance’,NewYorkTimes(21August2013),accessed
+         15December2013,@:www.nytimes.com                    
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+      626                            Philosophy and Social Criticism 40(7)
+                                                             
+      19. Similar concerns have been echoed in statements by civil libertarian and human rights
+        organizations.                                       
+      20. SuspectedoftransportingSnowdentoBolivia,on3July2013anaeroplanecarryingitspres-
+        identwasforcedtolandinAustria,allegedlybecauseofUSpoliticalpressure.
+      21. LonL.Fuller,TheMoralityofLaw(NewHaven,CT:YaleUniversityPress,1964),pp.40–1,
+        157–9.                                               
+      22. NorbertoBobbio,TheFutureofDemocracy,trans.RobertGriffin(Minneapolis:Universityof
+        MinnesotaPress,1987),pp.79–97.                       
+      23. Michael Walzer, Obligations: Essays on Disobedience, War, and Citizenship (New York:
+        Simon&Schuster,1970),p.20.                           
+      24. OnCBS’‘FacetheNation’,airedonSunday16June2013,BobSchieffercalledSnowdena
+        narcissist. For a more cultivated audience, Jeffrey Toobin did so as well; see his ‘Edward
+        SnowdenisNoHero’,NewYorker(10June2013),accessed10August2013,@:www.new
+        yorker/com.SeanWilentz,in‘OperationMayhem’,NewRepublic(3February2014):14–25,
+        notesthatSnowdenhasendorsedright-leaninganti-statist‘libertarian’views,asdoesamore
+        sympatheticobserver,Harding,TheSnowdenFiles.         
+      25. QuotedinGreenwaldetal.,‘EdwardSnowden:theWhistleblower’.
+      26. Rawls,‘DefinitionandJustification’,p.106.          
+      27. HugoAdamBedau,‘Introduction’,inBedau(ed.)CivilDisobedienceinFocus,pp.1–12(p.8).
+      28. Snowden’s leaks show that the GCHQ (Government Communications Headquarters), a
+        British intelligence agency, has engaged in spying and has consistently served as the
+        NSA’senthusiasticjuniorpartner.Speakingbeforeparliamenton15October2013,Prime
+        MinisterDavidCameroncriticizedtheGuardianforpublishingSnowden’sstory,accusingits
+        writersandSnowdenofendangeringnationalsecurityandhanding‘theadvantagetotheter-
+        rorists’.TheBritishnewspaperhasbeensubjectedtointrusivegovernmentsearches;seeAlan
+        Rusbridger, ‘The Snowden Leaks and the Public’, New York Review (21 November 2013):
+        31–4.InaninterviewwiththeNewYorker,Obama accusedSnowdenof‘puttingour people
+        atrisk’;seeDavidRemnick,‘GoingtheDistance:OnandofftheRoadwithBarackObama’,
+        New Yorker (27 January 2014), accessed 27 January 2014, @: www.newyorker.com
+      29. Klayman v. Obama. Civ. No. 13-0851. US District Court for the District of Columbia
+        (16December2013).                                    
+      30. Ontheirreversibilityandunpredictabilityofpoliticalaction,seethenowclassicdiscussionby
+        Hannah Arendt, The Human Condition (Chicago, IL: Chicago University Press, 1958), pp.
+        175–247,andesp.236–47.                               
+      31. MartinLutherKing,‘LetterfromaBirminghamJail’,inBedau(ed.)CivilDisobediencein
+        Focus, pp. 68–84 (p. 76). As King correctly added: ‘[S]ociety must protect the robbed and
+        punishtherobber.’                                    
+      32. Rawls,‘DefinitionandJustification’,pp.108–9.       
+      33. ThisdescriptionofthecompetingliberalandrepublicanmodelsdrawsonJeanL.Cohenand
+        Andrew Arato, Civil Society and Political Theory (Cambridge, MA: MIT Press, 1992), pp.
+        564–604.RepresentativesoftheliberalpositionincludeRawlsandalsoRonaldDworkinin
+        hisTakingRightsSeriously(Cambridge,MA:HarvardUniversityPress,1977),pp.206–22.
+      34. ApowerfulstatementofthisviewwasformulatedbyHannahArendt,CrisesoftheRepublic
+        (NewYork:HarcourtBraceJovanovich,1973),pp.49–102.Aself-identifiedrepublicanthe-
+        ory of civil disobedience has also been developed in Daniel Markovits, ‘Democratic
+
+[PAGE 19]
+                                                             
+                                                             
+                                                             
+       Scheuerman                                    627     
+                                                             
+         Disobedience’,YaleLawJournal114(2005):1897–1952.Elementsofitoverlapwitharecent
+         democratic-deliberativeaccount;seeWillSmith,‘CivilDisobedienceandthePublicSphere’,
+         JournalofPoliticalPhilosophy19(2)(2011):145–66),inspiredbyJu¨rgenHabermas.
+       35. Markovits,‘DemocraticDisobedience’,p.1933.        
+       36. Forasummaryoftheoverallstory,seeRyanLizza,‘StateofDeception:WhyWon’tthePres-
+         identReinintheIntelligenceCommunity?’,NewYorker(16December2013):48–61.
+       37. Foracontraryview,seeJackGoldsmith,PowerandConstraint:TheAccountablePresidency
+         After9/11(NewYork:Norton,2012).ForacriticalresponsetoGoldsmith,seemy‘Obama’s
+         WaronTerror’,ConstitutionalCommentary28(Spring2013):519–38.
+       38. QuotedinGellman,‘EdwardSnowden,afterMonths’.ofNSARevelations’.
+       39. JonathanSchell,‘TheSurveillanceNet’,TheNation(8–15July2013):3–6.
+       40. QuotedinGreenwaldetal.,‘EdwardSnowden:theWhistleblower’,accessed10August2013,
+         @:www.theguardian.com                               
+       41. Rawls,‘DefinitionandJustification’,p.110.         
+       42. Editors,‘EdwardSnowden,Whistle-Blower:ConsideringtheValueofhisLeaks,HeShould
+         BeOfferedClemencyoraPleaBargain’,NewYorkTimes(2January2014):A18.TheNSA
+         hasdisputedthisclaim.                               
+       43. ibid.                                             
+       44. Rawls,‘DefinitionandJustification’,p.110.         
+       45. MohandasKaramchandGandhi,‘Nonviolence’,inJeffrieG.Murphy(ed.)CivilDisobedience
+         andViolence(Belmont,CA.:Wadsworth,1971),pp.93–102(p.93).
+       46. See the recent debate between David Lefkowitz, ‘On a Moral Right to Civil Disobe-
+         dience’, Ethics 117(2) (2007): 202–33, and Kimberley Brownlee ‘Penalizing Public Dis-
+         obedience’, Ethics 118(4) (2008): 711–16. Its key insight is to assert that criminal
+         punishment necessarily contains elements of moral disapprobation inappropriate to the
+         legal treatment of civil disobedients.              
+       47. King,‘LetterfromaBirminghamJail’,p.74.Theideathattheacceptanceofalegalpenalty
+         demonstratesrespectforthelawwasalsothenquicklyendorsedbymanyacademics.See,for
+         example,Bedau,‘Introduction’,p.8;CarlCohen,‘CivilDisobedienceandtheLaw’,Rutgers
+         LawReview21(1)(1966):5–7;Rawls,‘DefinitionandJustification’,pp.106–7.Foracritical
+         discussion,seeGeneG.James,‘TheOrthodoxTheoryofCivilDisobedience’,SocialTheory
+         andPractice2(4)(1973):475–98.                       
+       48. King,‘LetterfromaBirminghamJail’,p.74.            
+       49. Bedau,‘Introduction’,p.8;Cohen,‘CivilDisobedienceandtheLaw’:5–7;Rawls,‘Definition
+         andJustification’,pp.106–7;Smith,‘CivilDisobedienceandthePublicSphere’:161–3.
+       50. Cohen,‘CivilDisobedienceandtheLaw’,5–7;James,‘TheOrthodoxTheory’:491–5.
+       51. Forexample,seeSmith,‘CivilDisobedienceandthePublicSphere’:163.
+       52. HenryD.Thoreau,‘ResistancetoCivilGovernment’,inHowardZinn(ed.)TheHigherLaw:
+         ThoreauonCivilDisobedienceandReform(Princeton,NJ:PrincetonUniversityPress,2004),
+         pp.63–90.                                           
+       53. AsnotedbyHannahArendt,‘CivilDisobedience’,inherCrisesoftheRepublic(NewYork:
+         HarcourtBrace Jovanovich, 1972),pp.49–102(p.77),aninteresting criticoftheorthodox
+         view that civil disobedients should necessarily accept criminal punishment. She hoped that
+         itwould‘bepossibletofindarecognizednicheforcivildisobedienceinourinstitutionsof
+         government’(ibid.,p.99).                            
+
+[PAGE 20]
+                                                             
+                                                             
+                                                             
+      628                            Philosophy and Social Criticism 40(7)
+                                                             
+      54. Theruleoflaw,ofcourse,isanunavoidablycontestedconcept.Forausefuloverview,however,
+        seeBrianZ.Tamanaha,OntheRuleofLaw:History,Politics,Theory(Cambridge:Cambridge
+        UniversityPress,2004).                               
+      55. PeterSinger,DemocracyandDisobedience(Oxford:ClarendonPress,1973),pp.83–4.
+      56. TheEspionageActprovokedthecreationoftheNationalCivilLibertiesBureau,forerunnerto
+        theAmericanCivilLibertiesUnion(ACLU).                
+      57. GeoffreyR.Stone,PerilousTimes:FreeSpeechinWartime:FromtheSeditionActof1787to
+        theWaronTerrorism(NewYork:Norton,2004),p.173.        
+      58. HaroldEdgarandBennoC.Schmidt,Jr,‘TheEspionageStatutesandPublicationofDefense
+        Information’,ColumbiaLawReview73(5)(1973):929–1087.  
+      59. The ACLU and Human Rights Watch, for example, have used his case as a rallying cry
+        for strengthening whistleblowing protections in the context of national security. For a
+        detailed scholarly account of the existing legal regime, see David E. Pozen, ‘The Leaky
+        Leviathan: Why the Government Condemns and Condones Unlawful Disclosures of
+        Information’, Harvard Law Review (forthcoming).      
+      60. Interestingly, Edward Snowden’s father, Lon Snowden, initially hoped that his son would
+        returnhometofacecriminalproceedings.However,theObamaadministration’sapparentpre-
+        sumptionofguiltledhimtochangehisviews;see‘EdwardSnowdenBetterOffinRussiathan
+        US,HisFatherSays’,Guardian(26July2013),accessed15August2013,@:www.theguar-
+        dian.com.Thefactthatleadingpoliticianshaveregularlydescribedhissonatraitor,andthat
+        somehave evenpubliclyjoked aboutthepossibility ofassassinating him,has probablynot
+        inspiredmuchconfidenceeither.                        
+      61. Editors,‘EdwardSnowden,Whistle-Blower’.            
+      62. Dworkin,TakingRightsSeriously,p.207.               
+      63. ibid.,p.215.                                       
+      64. ibid.                                              
+      65. ibid.                                              
+      66. ibid.,pp.215–16.                                   
+      67. Harrop Freeman, ‘Response to Carl Cohen’, Rutgers Law Review 21(1) (1966): 17–27;
+        TelfordTaylor,NurembergandVietnam:AnAmericanTragedy(NewYork:Bantam,1971).
+      68. RutiG.Teitel,Humanity’sLaw(NewYork:OxfordUniversityPress,2011).
+      69. David Held, Democracy and the Global Order: From the Modern State to Cosmopolitan
+        Governance (Stanford, CA: Stanford University Press, 1995).
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             

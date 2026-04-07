@@ -1,0 +1,63 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "jenkins_2023",
+  "title": "Understanding and Evaluating Populist Strategy",
+  "author": "Jenkins",
+  "year": 2023,
+  "journal": "Philosophy and Social Criticism",
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "Existing accounts define populism by a specific set of tactics (hijacking institutions, clientelism, friend-enemy rhetoric) supposedly flowing directly from populist ideas. But this conflates the ideational and strategic levels — the same orientation can justify very different tactics. The puzzle: how do we identify populist strategy without falling into a fixed tactics-based definition?",
+    "anchored_in": ["Mudde and Kaltwasser", "Laclau", "Mouffe"],
+    "stakes_claimed": "Populist strategy is best understood as whatever range of tactics political actors use who accept a specific orientation: that elite-people enmity defines political life, creates expanded moral permissions, and requires resisting elite revanchism. This orientation, not any specific tactic, is what makes strategy populist."
+  },
+  "theoretical_positioning": {
+    "rivals_engaged": ["ideational approach to populism (Mudde-Kaltwasser)", "tactical-definition approaches", "Laclauian discourse theory"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": true,
+    "own_position_type": "framework_proposal",
+    "own_position_explicit": true,
+    "description": "The paper critiques tactical definitions of populism (immanent critique: they mistake contingent expressions for necessary features) and constructs an orientation-based account: populist strategy flows from three components of the populist orientation (people-elite enmity, institutional ambivalence, elite revanchism), which justify a flexible range of strategies."
+  },
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": null,
+    "notes": "Fully normative analytical political philosophy. References to populist movements (Chávez, Trump, Orbán) are illustrative examples, not empirical cases."
+  },
+  "case_type": {
+    "has_case": false,
+    "case_medium": "none",
+    "case_name": null,
+    "case_function": null,
+    "case_relation_to_argument": null,
+    "case_selection_justified": false
+  },
+  "normative_stake": {
+    "level": "medium",
+    "domain": "political theory / populism / democratic theory",
+    "claim_type": "prescriptive",
+    "closure_type": "conclusion_strong"
+  },
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "immanent_critique",
+    "framework_proposal",
+    "conceptual_distinction",
+    "conclusion_strong"
+  ],
+  "reflexive_move": false,
+  "key_concepts": ["populist orientation", "populist strategy", "people-elite enmity", "institutional ambivalence", "elite revanchism", "expanded moral permissions"],
+  "thinkers_deployed": {
+    "central": ["Mudde and Kaltwasser"],
+    "engaged_critically": ["tactical-definition approaches"],
+    "referenced_only": ["Laclau", "Mouffe", "Weyland"]
+  },
+  "confidence_notes": "Type 2a (dialectical synthesis): critique of tactical-definition approaches, positive orientation-based account proposed. Strong conclusion. Analytic political philosophy style."
+}

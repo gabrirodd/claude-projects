@@ -1,0 +1,1403 @@
+[PAGE 1]
+                                                             
+                                                             
+                                                             
+                                                             
+      Article                                                
+                                                             
+                                         PhilosophyandSocialCriticism
+                                         2025,Vol.51(10)1703–1729
+      Antonio  Negri, Spinoza,  Marx,                        
+                                         ©TheAuthor(s)2025   
+      and  Digital Capitalism                                
+                                         Articlereuseguidelines:
+                                         sagepub.com/journals-permissions
+                                         DOI:10.1177/01914537241308108
+                                         journals.sagepub.com/home/psc
+      Christian Fuchs                                       
+      PaderbornUniversity,Germany                            
+      Abstract                                               
+      This paper asks: How can Spinoza help us to better understand digital capitalism? The
+      articleengagescriticallyandconstructivelywiththephilosophiesofSpinoza,Marx,Hegel,
+      and Antonio Negri in order to combine elements from their works. It focuses on a
+      particular aspectofdigitalcapitalism,namelytheantagonismbetweendigitallabourand
+      digitalcapital.Spinozadidnotdirectlyanalyseclassrelations.Nonetheless,hisphilosophy
+      can help us to indirectly analyse contemporary capitalism. This paper undertakes an
+      analysisofdigitalcapitalismbytakingSpinoza’sconceptsofpoweraspotentiaandpotestas
+      asastartingpoint.AntonioNegrihasstressedthedialecticofpotentiaandpotestasaspart
+      oftheanalysisofclassandcapitalism.ThispaperconnectsSpinozatoMarx’sandNegri’s
+      analyses of capitalism and the working class. It analyses digital capitalism’s antagonisms
+      betweendigitallabouranddigitalcapital,digitalcommoditiesanddigitalcommons,andthe
+      networked digital productive forces and the digital relations of production as the an-
+      tagonism between digital potentia and digital potestas.
+      Keywords                                               
+      Spinoza, Marx, Antonio Negri, digital capitalism, digital labour, digital potentia, digital
+      potestas, digital power, immaterial labour, potestas, potentia, working class
+                                                             
+                                                             
+      I Introduction                                         
+                                                             
+      ThispaperaskshowselectedaspectsofSpinoza’sworkscanhelpustobetterunderstand
+      digitalcapitalism.TalkingaboutcapitalismrequiresustotakeaMarxistperspectiveand
+      to link Spinoza to Marx. In Marxist theory, Antoni Negri is the major theorist who has
+      beeninspiredbybothSpinozaandMarxandhasbasedonthesefoundationscontributed
+      totheanalysisofcommunicationandthedigitalincapitalismbyestablishingandfurther
+                                                             
+      Correspondingauthor:                                   
+      ChristianFuchs,PaderbornUniversity,WarburgerStr100,Paderborn33098,Germany.
+      Email:christian.fuchs@uni-paderborn.de                 
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+      1704                         Philosophy and Social Criticism 51(10)
+                                                             
+                                                             
+      developingcategoriessuchasthegeneralintellect,immateriallabour,theinformatisation
+      and postmodernisation of production, and cognitive capitalism. In Marxist theory and
+      philosophy,thereisingeneralnotmuchfocusontheanalysisofthedigitalinsocietyand
+      capitalism. Rather, there is much more focus on other important topics such as crisis
+      dynamics,financialisation,neoliberalism,classanalysis,etc.withouttouchingonissues
+      havingtodowiththemediaanddigitaltechnologies.Negri’sworksandtheworksheco-
+      authored together with Michael Hardt are an exception to the rule as they integrate
+      analyses of information, communication, and the digital into the analysis of capitalism.
+        Given Negri’s importance for a Marxist–Spinozist analysis of digital and commu-
+      nicative capitalism, this paper draws particularly on Antoni Negri’s Spinoza interpre-
+      tation.ThearticleengagescriticallyandconstructivelywithbothSpinoza’sandAntonio
+      Negri’s works in order to reflect on the question: How can Spinoza help us to better
+      understanddigitalcapitalism?HardtandNegri’sworksconstituteaprominentandwidely
+      readSpinoza-inspiredphilosophicalapproach,whichjustifiesthatparticularattentionis
+      given to them.                                         
+        This paper gives particular attention to one important aspect of digital capitalism,
+      namely the antagonism between digital labour and digital capital. This means that its
+      focus is on class in digital capitalism. There is a multitude of phenomena that make up
+      digital capitalism. The work at hand can only focus on a selected dimension, without
+      claimingthattheantagonismbetweendigitallabouranddigitalcapitalistheonlyaspect
+      of digital capitalism that requires analysis.          
+        The paper proceeds in the following methodological manner. It starts with a more
+      general discussion, namely an analysis of how Marxist authors have used Spinoza to
+      analysecommunication.Thisanalysisshowsthatthusfarlittlefocushasbeengiventothe
+      Spinozistanalysisofcommunicationincapitalism.Therestofthepapertriestocontribute
+      toovercomingthisknowledgegapbyengagingwithbothSpinoza’sandNegri’sworks.
+      Todoso,wefocus onthenotionofpowerinsection3.AreadingofbothSpinozaand
+      Negri suggests that Spinoza’s notion of power as potentia and potestas is an important
+      startingpointfortheanalysisofcommunicationincapitalismanddigitalcapitalism.We
+      know from Marx that there is no capitalism without capital’s exploitation of surplus-
+      value-generating labour. Labour-power is the heart of capitalism as it produces capital.
+      Therefore,Marxwritesthatcapitalexists‘onlyinconnectionwith’labouras‘not-capital’
+      (Marx 1857/1858, 274) that is ‘the living source of value’ (296). Advancing from the
+      abstracttotheconcrete,theanalysisthereforeproceedswithafocusonlabour-powerand
+      the relationship of labour and power in the capitalist economy (section 4). Further
+      concretisingtheanalysis,wefocusontherelationshipbetweenlabourinpowerindigital
+      capitalism’seconomy).Thetherebyadvancedanalysisofdigitalcapitalismisbasedona
+      combinationofSpinoza,Marx,andNegri.Theanalysisofdigitalcapitalismisconducted
+      in three steps organised in three sections: the class relation between digital capital and
+      digitallabourisanalysedintermsofdigitalpotestasanddigitalpotentia(section5),the
+      notionofimmateriallabouriscriticallyexamined(section6),andtheantagonismbetween
+      the productive forces and the relations of production is set in the context of digital
+      capitalism(section7).Whatholdsthesethreesectionstogetheristhecombinedfocuson
+      theantagonismbetweendigitalpotestasanddigitalpotentia.Finally,someconclusions
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+      Fuchs                                         1705     
+                                                             
+                                                             
+      aredrawn(section8).Thepaperstartswiththemostgeneralaspectsandproceedstomore
+      concrete ones.Thismeans thatit followstheepistemologicalmethodthat Marx termed
+      theadvancementfromtheabstracttotheconcrete.ForMarx,theadvancementfromthe
+      abstracttotheconcreteisPoliticalEconomy’smethod(see(Marx1857/1858,100–108).
+      He argues that the concrete ‘is concrete because it is the concentration of many deter-
+      minations,henceunityofthediverse’(Marx1857/1858,101).Inordertoanalysedigital
+      capitalismasaconcretecontemporaryorganisationalformofthecapitalistformationof
+      societyandthecapitalistmodeofproduction,weneedtoadvancefromSpinozaviaMarx
+      to Negri and from power to labour-power and digital labour.
+        ThenovelaspectoftheapproachtakeninthispaperisthatitthinkstogetherSpinoza,
+      Marx, and Negri in order to analyse the class relationship between digital capital and
+      digital labour as a power relationship that involves both digital potentia and digital
+      potestas. These are categories that have not been introduced in other works.
+        Thispaperisatheorypaper,whichmeansthatitusestheoryconstructionasamethod.
+      My understanding of theory uses dialectical philosophy as a method and epistemology.
+      Specifically, this means that I engage with previous works by other authors that are
+      relevant to the discussed topics, work through them, and conduct a philosophical Auf-
+      hebung (sublation) of these works. Aufhebung as a dialectical method includes the
+      elimination of knowledge (Aufhebung as Eliminierung), the preservation of knowledge
+      (AufhebungasBewahrung),andtheupliftingofknowledgetoanewlevel(Aufhebungas
+      Ho¨herheben).                                          
+        In the Science of Logic, Hegel outlines the rich meanings of the term Aufhebung:
+        “Tosublate[Aufheben]andbeingsublated[dasAufgehobene](theidealized[dasIdeelle])
+        constitute one of the most important concepts of philosophy. It is a fundamental determi-
+        nationthatrepeatedlyoccurseverywhereinit,themeaningofwhichmustbegraspedwith
+        precisionandespeciallydistinguishedfromnothing.–Whatissublateddoesnottherebyturn
+        into nothing. Nothing is the immediate; something sublated is on the contrary something
+        mediated;itissomethingnon-existentbutasaresultthathasproceededfromabeing;itstill
+        hasinitself,therefore,thedeterminatenessfromwhichitderives.TheGerman‘aufheben’
+        (‘tosublate’inEnglish)hasatwofoldmeaninginthelanguage:itequallymeans‘tokeep,’‘to
+        preserve,’and‘tocausetocease,’‘toputanendto.’Even‘topreserve’alreadyincludesa
+        negativenote,namelythatsomething,inordertoberetained,isremovedfromitsimmediacy
+        andhencefromanexistencewhichisopentoexternalinfluences.–Thatwhichissublatedis
+        thussomethingatthesametimepreserved,somethingthathaslostitsimmediacybuthasnot
+        cometonothingforthat.–Thesetwodefinitionsof‘tosublate‘canbecitedastwodictionary
+        meaningsoftheword.Butitmuststrikeoneasremarkablethatalanguagehascometouse
+        oneandthesamewordfortwooppositemeanings.Forspeculativethoughtitisgratifyingto
+        findwordsthat haveinthemselves aspeculative meaning”(Hegel 2010, 81-82).
+        Inthispaper,Aufhebungisusedasamethodologicalprocedure.Ieliminateknowledge
+      fromthediscussedworksandapproachesthatdoesnothelptogaininsightsintodigital
+      capitalism,whichmeansIdonotfocusonsuchknowledgeinthediscussion.Incontrast,
+      elementsthathelpustobetterunderstanddigitalcapitalismarepreservedandatthesame
+                                                             
+                                                             
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+      1706                         Philosophy and Social Criticism 51(10)
+                                                             
+                                                             
+      time transformed and reconstructed so that they together make up a new, qualitatively
+      differentlevelofanalysisthatcontainsnew,emergentknowledgeaboutdigitalcapitalism
+      thatcannotbereducedtotheknowledgecontainedintheworksthatformthefoundation
+      of this article and the novel knowledge produced by it.
+                                                             
+      II How Not to Relate Spinoza’s Philosophy to Communication
+      The digital is an aspect of the emergence of new means of information and commu-
+      nicationthatarenotjustmeansofconsumptionbutalsomeansofproduction.Therefore,
+      relating Spinoza to digital capital and digital labour is an aspect of the philosophy of
+      communication.NotmuchhasbeenwrittenonSpinozaandthedigital.Incriticalsocial
+      theory,thereareimportantexceptions,suchastheessaysbyKalpokas(2021)andFinelli
+      (2021).1ThereisamoreestablishedandmorediscussedbodyofliteratureonSpinozaand
+      communication.Asastartingpointofourdiscussion,wewanttohavealookatsecondary
+      literature that has discussed how we can use Spinoza to think about communication.
+        Spinoza lived in the Netherlands in the 17th century, a time when colonialism, ag-
+      riculturalproduction,and(sea)trade(grain,timber,salt,wool,linen,hemp,beer,liquor,
+      fish,sugar,tobacco,tar,soap,silk,yarn,iron,glass,chemicals,diamonds,needles,etc.)
+      dominated the Dutch economy (Thalheimer 1928). Therefore, he obviously could not
+      analyse the digital economy. But even when a thinker does not directly address a
+      contemporaryissue,hisideasmightindirectlyandbasedonareinterpretationandfurther
+      developmenthelpustobetterunderstandcontemporarysociety.Doingsorequiressetting
+      suchathinkerinrelationtootherthinkers.ForaSpinozistanalysisofdigitalcapitalism,
+      anarticulationofSpinoza’sthoughtwithMarxandNegriishelpful.Therefore,webriefly
+      want to give an overview of how contemporary authors have related Spinoza to com-
+      munication.Therearethreelogicsthatcanbefoundinsuchworks:(a)thefocusonthe
+      communication of bodies innature, (b) human imagination,and (c) freedom ofspeech.
+      We focus on some key works on Spinoza and communication, especially Matthew
+      S. May’s (2009) essay ‘Spinoza and class struggle’ published in the journal Commu-
+      nicationandCritical/CulturalStudies,ToniNegri’s(2017)bookSpinoza:ThenandNow
+      whereherelatesthenotionofimmateriallabourtoSpinoza’swork,whichisevidentfrom
+      oneofthebook’schaptertitles–‘ReflectionsontheImmaterial:Spinoza,Marx…and
+      Today’ (Negri 2017, chapter 7), E´tienne Balibar’s (2008) book Spinoza and Politics
+      (Balibar 2008) that contains the chapter ‘Politics and communication’ (Balibar 2008,
+      chapter5),andBalibar’sessay‘Spinoza’sThreeGodsandtheModesofCommunication’
+      (Balibar 2012).                                        
+        First(a),thereistheargumentthatthecommunicationofbodiesthatSpinozadescribes
+      isafoundationfor explaining class struggles (May 2009).May writes that ‘Marx reads
+      labor power in the same way that Spinoza reads substance’ (May 2009, 205) and that
+      Spinozasees‘thebodyascompositional’,whichisthe‘basisforaSpinozistapproachto
+      classstruggle’.Workers’refusaltoworkmaybe‘translatedpracticallyintoanynumberof
+      practicesofnon-collaborationprovidedthattheyaredeployedwithaneyetowardaffects
+      astheanonymousforcesthatcommunicateacrossbodiesastheyencounterandtransform
+      eachotherinaprocessofrevolutionarycomposition’(207).Mayarguesthatjustlikein
+                                                             
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+      Fuchs                                         1707     
+                                                             
+                                                             
+      Spinoza’s works bodies ‘communicate’, in a workers’ rebellion, workers’ bodies com-
+      municateandformarevolutionarysubject.Thisconnectionisveryfar-fetched.Spinoza
+      didnottalkaboutlabourandclassstruggles.Hisnotionofthecommunicationofobjectsis
+      notagoodstartingpointforthinkingaboutlabourstruggles.Furthermore,toarguethatall
+      sorts of objects ‘communicate’ anthropomorphises nature and does not adequately
+      distinguish between human and non-human matter.        
+        Second(b),someapproachesarguethatSpinoza’snotionofimaginationcanbeusedto
+      justify the notion of immaterial labour (Negri 2017, chapter 6). Negri (2017) takes
+      Spinoza’snotionofimaginationasastartingpoint.Hewritesabout‘imagination,whichI
+      andSpinozacanqualifywiththeadjective“immaterial”:thatofmakingpresenttous,and
+      disposingtowardsaction,thethingsweface.Commonnotions,whichareconstructedby
+      reason and imagination, thus become a constituent power’ (Negri 2017, 63).
+        In his works, Spinoza says, for example, that ‘the human mind is able to imagine
+      simultaneously and distinctly as many bodies as there are images that can be formed
+      simultaneouslyinitsbody’(Spinoza1677/2002,266).Hewritesthatimaginationmeans
+      that we form notions from ‘symbols. For example, from having heard or read certain
+      wordswecallthingstomindandweformcertainideasofthemsimilartothosethrough
+      which we imagine things’ (Spinoza 1677/2002, 267). Spinoza uses the notion of
+      imagination in the context of images and calling things to mind, but not the terms
+      ‘immaterial’ and ‘immateriality’. There is no real connection between imagination and
+      immaterial labour.                                     
+        Both Spinoza’s notions of the ‘communication’ of bodies and imagination are not
+      suited for the analysis of communication in capitalism. The first argument’s logic is
+      focusedongeneralobjectsinnature(whichincludessociety),thatis,anaturalisticlogic.
+      The second argument’s logic is based on a particular feature of the human individual’s
+      mind, namely imagination. Both logics are too abstract and, therefore, not suited for
+      explaining aspects of communication in capitalism.     
+        Third(c),thereisafocusonSpinoza’snotionoffreedomofspeech(Balibar2008).The
+      ‘essentialelementinSpinoza’sconceptionofdemocracyisfreedomofcommunication’
+      (Balibar 2008, 98). Balibar says that ‘Spinoza’s philosophy is, in a strong sense of the
+      term,aphilosophyofcommunication’(101;seealsoBalibar2012,1989).ForSpinoza,
+      desireisthehumanbeing’sessence.‘Nowdesireistheveryessence,ornature,ofeach
+      individual insofar as that is conceived as determined by some given state of its con-
+      stitutiontodosomething’(Spinoza1677/2002,308).Spinozadoesnotseparatethebody
+      andthemind,ratherforhimthehumanbeingisonlyaunitythroughsoulandbody.The
+      implicationisthatsocialrelationsbetweenhumansareatthesametimerelationsbetween
+      human minds and human bodies (Balibar 2008, 106–107). Ideas and affects (joy or
+      sadness,loveorhate,hopeorfear,etc.)accompanyeachother(108).ForSpinoza,there
+      arethreetypesofknowledge:reason,imagination,andintuition(109).Democracyisfor
+      Spinoza constituted by the freedom of expression and the expression of political ideas
+      (114) as well as the ‘circulation of information’ (121) in the public sphere.
+        Freedom of speech is a question of politics and democracy, which are important
+      aspects of society. Balibar does not relate Spinoza’s notion of freedom of speech to
+      capitalism,butstayspurelyfocusedontherealmofpolitics,whichisontheonehandno
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+      1708                         Philosophy and Social Criticism 51(10)
+                                                             
+                                                             
+      surprisebecausehisbookholdsthetitleSpinozaandPolitics,butontheotherhandisa
+      surprise because Balibarhas ahistoryasMarxistpolitical economist. Balibarmakes an
+      argumentatthelevelatthelevelofsociety,whichisprogressincomparisontothefirst
+      andsecondlogicsthatarefocusedonnature,respectively,theindividual.Missingisthe
+      insightthatalsothemarketcanlimitfreedomofspeech.Evidentexamplesarecapitalist
+      press monopolies that give media owners the power to privilege particular interests in
+      reportingandthepopularityofthetabloidpressthatsimplifiesanddistortsnews,which
+      limitsfreedomofspeech.SuchargumentscanbefoundinHabermas’(1991)analysisof
+      thestructural transformation ofthe public sphere butnot inBalibar’s book onSpinoza.
+      Freedomofspeechcertainlyisaveryimportanttopic.However,givenitspoliticalnature,
+      itisnotsowellsuitedasastartingpointfortheanalysisofcapitalism’spoliticaleconomy.
+        All three discussed strategies fail to relate Spinoza properly to the analysis of capi-
+      talism.Afourth,morepromising,strategyisthatwestartfromSpinoza’snotionofpower.
+      III Power as Potestas and Potentia                     
+      Toni Negri has convincingly shown that there are two notions of power in Spinoza’s
+      writings. In Spinoza’s works, there is ‘the separation between potentia and potestas,
+      powerandPower’(Negri2004,15).Negristressesthatthisdistinctionisbestvisiblein
+      Spinoza’sPoliticalTreatise(Tractatuspoliticus,TP).‘IntheTPthisdevelopmentreaches
+      itsconclusion.TherelationshipbetweenPowerandpoweriscompletelyoverturned:only
+      power, by constituting itself: only the power of the many, by making itself collective
+      constitution,canfoundaPower.Inthisframework,Powerisnotseenasasubstance,but
+      ratherastheproductofaprocessaimedatcollectiveconstitution,aprocessthatisalways
+      reopened by the power of the multitudo’ (Negri 2004, 15). ‘Most European languages
+      have two words for power – potestas and potentia in Latin, pouvoir and puissance in
+      French, poder and potencia in Spanish, Macht and Vermo¨gen in German – whereas
+      English has only one. This might seem at first sight an example of the poverty of the
+      English language, and in the past we have tried to remedy it rather inelegantly with
+      capitalization, distinguishing between Power and power, using Power to name the
+      vertical, centralized ruling powers, capitalist command, and biopower while employing
+      powerforthehorizontalprocessesofresistance,theforceoflivinglabor,andthecreative
+      aspects of biopolitics’ (Hardt and Negri 2017, 70).    
+        InthePoliticalTreatise,SpinozaspeaksofpotestasasPowerfromabove,dictatorial
+      Power(dictoriapotestas):‘Sosincedictatorialpower[dictoriapotestas]isabsolute,itis
+      bound to be a terror to all, especially if, as is here required, there is a fixed time for a
+      dictatortobeappointed’(Spinoza1675-1677/2002,747–748).Arguingmoregenerally,
+      SpinozadefinesPowerasexertingdominationandcontroloversomeone(subpotestate
+      habere):                                               
+        “Furthermore,itfollowsthateverymanissubjecttoanother’srightforaslongasheisinthe
+        other’spower,andheisincontrolofhisownrighttotheextentthathecanrepelallforce,take
+        whatevervengeancehepleasesforinjurydonetohim,and,ingeneral,liveashechoosesto
+        live.Onemanhasanotherinhispowerifheholdshiminbonds,orhasdeprivedhimofthe
+                                                             
+                                                             
+                                                             
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+      Fuchs                                         1709     
+                                                             
+                                                             
+        armsandmeansofself-defenceorescape,orhasterrorisedhim,orhassoattachedtheotherto
+        himselfbybenefitconferredthatthemanwouldratherpleasehisbenefactorthanhimselfand
+        liveastheotherwouldwishratherthanathisownchoosing.Hewhoholdsanotherinhis
+        powerinthefirstorsecondwayholdsonlytheother’sbody,nothismind;inthethirdor
+        fourthwayhehasmadetheother’sbodyandhismindsubjecttohisownright,butonlyas
+        longasfearorhopeendures.Whenoneortheotherisremoved,themanremainsincontrolof
+        hisownright.Thefacultyofjudgment,too,canbesubjecttoanother’srighttotheextentthat
+        onemancanbedeceivedbyanother.Henceitfollowsthatthemindisfullyincontrolofitself
+        only to the extentthat itcanuse reason aright”(Spinoza1675-1677/2002, 685-686).
+        Spinozaheredistinguishesbetweentwobasicmeansofdomination,namelytheuseof
+      violencethatthreatenstocreatebodilyandpsychologicalharmandtheuseofideology
+      that tries to manipulate human consciousness in the interest of the dominant group.
+        Spinoza opposes Power (potestas) to the multitude’s power (potentia). ‘The same
+      powerthattheyneedinordertobegintoexist,theyalsoneedinordertocontinuetoexist’
+      (Spinoza 1675-1677/2002, 683). Potentia means that humans ‘hold their rights in
+      common’. Potentia is the multitude’s power, ‘the power of a people’ (potentia multi-
+      tudinis). ‘This right, which is defined by the power of a people, is usually called sov-
+      ereignty’(Spinoza1675-1677/2002,687).‘Ifthischargebelongstoacouncilcomposed
+      ofthepeopleingeneral,thenthestateiscalledademocracy’(Spinoza1675-1677/2002,
+      687).Inadictatorship,thereissupremePowerthatisdetachedfromanddominates the
+      multitude. In a democracy, ‘the supreme Power is fully constituted by the power of the
+      multitude’, and Power is ‘constituent Power, completely and freely constituted by the
+      power of the multitude’ (Hardt 1991, xvi).             
+        InhisinterpretationofSpinoza,ToniNegristressesthatallpowerrequiresafoundation
+      thatworksbottom-up,whichiswhathetermsconstituentpower(potentia)thatisopposed
+      toanddialecticallyrelatedtoconstitutedpower(potestas).Powerfromabove(potestas)is
+      always the product of power from below. “In other words, the new cooperating and
+      immaterial subject of society expresses itself essentially through constituent power.
+      Constituentpoweragainstconstitutedpower,constituentpowerassingularsubjectivity,
+      as productivity and cooperation, that asks how to be situated in society - and how to
+      develop its own creativity. Democracy thus appears as constituent power. It is a power
+      expressed by the multitude of singular subjects that excludes every transfer of powers”
+      (HardtandNegri1994,310).JasonRead(2022,chapter10)stressesthatNegriinterprets
+      Spinoza by applying the notion of power as potential (potentia) to living labour: Au-
+      tonomousMarxismstressesthatcapitalisconstitutedbyandemergesfromtheworking
+      classandthatthe‘startingpointmustbelabourandnotcapital’(Read2022,220).Read
+      (2022,221-222)pointsoutthatNegriarguesthatthecapitalisteconomyisbasedonthe
+      antagonisms between labour/capital, living labour/dead labour, life/death, wealth/
+      poverty, etc.                                          
+        In his Ethics, Spinoza simply opposes pain to pleasure, hate to love, fear to hope,
+      despair to confidence, and disappointment to joy (Spinoza 1677/2002, 287–288). But
+      there is no transformative project of social and class struggles that he identifies as im-
+      portantforsuchsocietaltransformations.Struggleandpraxisdonotfeatureprominently.
+                                                             
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+      1710                         Philosophy and Social Criticism 51(10)
+                                                             
+                                                             
+      In the Political Treatise, Spinoza conceives of potentia as the multitude’s power from
+      below. Toni Negri has interpreted this power as a concept of class and social struggle.
+      Negri(2017,chapter9)notesthatitisnotknowledgeandwisdom,asSpinozaandGoethe
+      assumed,thathelpsovercomefear.Rather,‘onlystruggle[…]willgiveusawayoutof
+      fear’ (Negri 2017, 107). He says that the ‘hatred of the bourgeois against the workers’
+      (Negri 2017, 120) has to turn into the ‘hatred of the proletariat against the exploitative
+      tyrant’asaconditionforemancipation(121).Hatredasasocietalcondition‘canturninto
+      lovethroughtheconstructionofthecommonbythemultitude’(123).‘Today,inanepoch
+      characterized by the crisis of capitalism, this rupture between (capitalistic) relations of
+      production and (proletarian) productive forces has again reached a point of extreme
+      tension. Potestas and potential are presented as an absolute antagonism’ (Negri
+      1991b, 229).                                           
+        Power on the one hand often is used to mean control and domination. On the other
+      hand,thereisthenotionofempowerment,whichimpliesgrassrootspower,theoppressed
+      andtheexploitedgroups’socialstruggles,etc.Inwell-establishedconceptsofpower,the
+      SpinozistdualityanddialecticofpowerandPowerareoftennotpresent.Forexample,in
+      oneofthemostfamousdefinitionsofpower,MaxWeberdoesnotadequatelydistinguish
+      betweenpoweranddomination.Forhim,poweristhe‘chanceofamanoranumberof
+      mentorealizetheirownwillinasocialactionevenagainsttheresistanceofotherswho
+      are participating in the action’ (Weber 1978, 926). He defines domination as the
+      ‘probabilitythatcertainspecificcommands(orallcommands)willbeobeyedbyagiven
+      groupofpeople’(Weber1978,212).Weber’sdefinitionimpliesthatpowerissomething
+      thatisnecessarilycoercivelydefendedbyonegroupagainstothergroups.Thisalsomeans
+      an unbridgeable gap and relationship of domination between the powerful and the
+      powerless. Weber’s definitions of power and domination are overlapping and strongly
+      related,whichmeansthathedoesnotmakeclearthedifferencebetweenthetwonotions.
+        Foucaultisweakinprovidingprecisedefinitions.Theonethingheisrememberedfor
+      concerning power is that he stresses that power is not simply Power that ‘represses’
+      (Foucault1977,250).HeaddsthatPower‘producesthings,itinducespleasure,itforms
+      knowledge,itproducesdiscourse;itmustbeconsideredasaproductivenetworkwhich
+      runsthroughtheentiresocialbodymuchmorethananegativeinstancewhosefunctionis
+      repression’(Foucault1980,119).InfluencedbyNietzsche,Foucaultseemstoassumethat
+      everyone has a will to Power and that Power is not just exerted by the powerful but
+      requiresalsosubjectswhosubmittoPower,obeyit,trytobecomethenewcontrollersof
+      Power,etc.‘Ifpowerwereneveranythingbutrepressiveifitneverdidanythingbutsay
+      no,doyoureallythinkweshouldmanagetoobeyit?’(Foucault1980,119).ForFoucault,
+      Powerisrelatedtohumanbodies,sexuality,consciousness,andeverydaylife.Forhim,a
+      societywithoutdominationisnotpossible.Insuchanihilisticconceptionofsociety,there
+      canjustbethedeconstructionofandchallengetodominantPowerbygroupswhowantto
+      gain Power and define new truths.                      
+        Negri’s interpretation of Spinoza in contrast to Weber and Foucault stresses the di-
+      alecticofpowerandPower.ThereisnoPowerwithoutpowerthatconstitutes/produces
+      andreproducesPower.GiventhatPowercannotexistwithoutasocietalpowerbase,this
+      basethatactsfrombelowreproducesPower.Italwayshasthepotentialtochallengeand
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+      Fuchs                                         1711     
+                                                             
+                                                             
+      radicallytransformsociety,aswellastoabolishthedominantPowersaswellasPowerin
+      general.Collectiveresistanceisnotanautomatismbutalwaysapotential,whichiswhy
+      powerispotentiaandtransformativepotential.ArulingclassorgroupenforcesPoweras
+      domination with means such as violence, the state, markets, and ideology. Power is
+      reproducedintheformofhegemonyfrombelow,whichmeansthattheindividualsand
+      groupslivinginsocietyacceptthedominantrulesandenactthemintheireverydaylives.
+      TherebytheireverydaypracticesthatareaformofpowerreproducePower.Atthesame
+      time, they have the power potential (potentia) to collectively say ‘no’ and to transform
+      society or those parts of it they are unhappy with.    
+        Having focused on the question of power in Spinoza’s philosophy, we can next ask
+      what the roles of power and Power are in capitalism.   
+      IV Power and Labour in the Capitalist Economy          
+                                                             
+      Capitalism is a societal formation (Gesellschaftsformation) that is based on the accu-
+      mulation of capital in the economic sphere, decision-power in the political sphere, and
+      reputation in the cultural sphere (Fuchs 2022). A Structuralist interpretation of Marx
+      proceeds by analysing the capitalist economy by focussing on commodities, money,
+      capital, absolute surplus value, relative surplus value, capital accumulation, primitive
+      accumulation, etc. It focuses on economic Power in capitalism and at best derives the
+      analysisoftheworkingclassfromtheanalysisofcapital.Itoverlooksthatthereisalsothe
+      power of the working class that needs to be understood right from the start. Wherever
+      therearecapitalandcommodities,thereislabourthatproducescapital,commodities,and
+      surplusvalue.MarxindeedbeginstheanalysisofcapitalisminCapitalVolumeIwiththe
+      Structuralistsuggestionthattheinvestigationofthecapitalistmodeofproduction‘begins
+      by analyzing the commodity’ (Marx 1867, 125). He then introduces use-value and
+      exchange-value as the commodity’s two dimensions. After that, he says that if ‘we set
+      aside the use-value belonging to the physical bodies of commodities, just one quality
+      remains: they are products of labor’ (Marx 1867, 16) and that commodities are an ex-
+      pression of ‘abstract human labor’ (Marx 1867, 16). This means that together with the
+      Structuralistelementofthecommodity,MarxintroducestheHumanistelementoflabour
+      in his analysis of the capitalist economy. Marx’s analysis of capitalism starts with the
+      analysisofthe‘twofactorsofthecommodity:use-valueandvalue’(section1.1inCapital
+      Volume I’s chapter 1), followed by the analysis of ‘the double character of the labour
+      embodiedincommodities’(section1.2inchapter1):concreteworkandabstractlabour.
+      Furthermore, Capital Volume I’s first chapter also contains an analysis of commodity
+      fetishism (section 1.4), which is not accidental. Section 1.4 relates the analysis of
+      commoditiesandlabour:Capitalistproductionhidestheclassrelationsandhumanlabour
+      behind things so that capitalism does not appear as a class system but as an immense
+      collectionofthings(commodities,money,andcapital).Themostimportantsociological
+      insight we can learn from Marx is that everything in society is a social and societal
+      relation.Capitalandcommoditiesarenotthingsbutsocialandsocietalrelations.Capital
+      isarelationbetweencapitalandlabour.Foranalysingthecapitalistmodeofproduction,
+      weneedtobringtogetheratonceHumanistandStructuralistanalysis.Thismeansthatwe
+                                                             
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+      1712                         Philosophy and Social Criticism 51(10)
+                                                             
+                                                             
+      needtoanalysethecapitalisteconomyasaclasssystem,asystemofclassrelationsand
+      associated practices and struggles.                    
+        Tosaythatwhereverthereiscapitalthereislabourmeansthatwhereverthereiscapital
+      there is the exploitation of labour by capital in class relations. Expressed in Spinozist
+      terms:WhereverthereistheeconomicPowerofcapital,thereisthepoweroftheworking
+      classthatproducescapitalandsurplusvalue.TheeconomicPowerofcapitalisbasedon
+      andproducedbytheeconomicpoweroflabour.Thedialecticofworking-classpowerand
+      capital’s Power is most powerfully expressed by Marx in a passage in the Grundrisse:
+        “Separationofpropertyfromlabourappearsasthenecessarylawofthisexchangebetween
+        capitalandlabour.Labourpositedasnot-capitalassuchis:(1)not-objectifiedlabour[nicht-
+        vergegensta¨ndlichte Arbeit], conceived negatively (itself still objective; the not-objective
+        itselfinobjectiveform).Assuchitisnot-raw-material,not-instrumentoflabour,not-raw-
+        product:labourseparatedfromallmeansandobjectsoflabour,fromitsentireobjectivity.
+        Thislivinglabour,existingasanabstractionfromthesemomentsofitsactualreality(also,
+        not-value);thiscompletedenudation,purelysubjectiveexistenceoflabour,strippedofall
+        objectivity. Labour as absolute poverty: poverty not as shortage, but as total exclusion of
+        objective wealth. Or also as the existing not-value, and hence purely objective use value,
+        existingwithoutmediation,thisobjectivitycanonlybeanobjectivitynotseparatedfromthe
+        person: only an objectivity coinciding with his immediate bodily existence. Since the ob-
+        jectivityispurelyimmediate,itisjustasmuchdirectnot-objectivity.Inotherwords,notan
+        objectivitywhichfallsoutsidetheimmediatepresence[Dasein]oftheindividualhimself.(2)
+        Not-objectifiedlabour,not-value,conceivedpositively,orasanegativityinrelationtoitself,
+        isthenot-objectified,hencenon-objective,i.e.subjectiveexistenceoflabouritself.Labour
+        notasanobject,butasactivity;notasitselfvalue,butasthelivingsourceofvalue.[Namely,
+        it is] general wealth (in contrast to capital in which it exists objectively, as reality) as the
+        generalpossibilityofthesame,whichprovesitselfassuchinaction.Thus,itisnotatall
+        contradictory,or,rather,thein-every-waymutuallycontradictorystatementsthatlabouris
+        absolutepovertyasobject,ononeside,andis,ontheotherside,thegeneralpossibilityof
+        wealthassubjectandasactivity,arereciprocallydeterminedandfollowfromtheessenceof
+        labour,suchasitispresupposedbycapitalasitscontradictionandasitscontradictorybeing,
+        andsuchas it, in turn,presupposescapital”(Marx1857/1858,295-296).
+        Marxhereforcefullyarguesthattheclassantagonismbetweencapitalandlabourisan
+      antagonismbetweentheeconomicPowerofcapitalandtheeconomicpoweroflabourso
+      thatlabour’spower(labour-powerinpractice)produceswealththatcapitalbecauseofits
+      Power(thecontrolandownershipofthemeansofproductionthatdisempowerslabour’s
+      ownershipandseparatestheworkingclassfromthecontrolofthesemeans)appropriates
+      andownssothatlabourisatthesametimepoverty.Incapitalism,labourisatthesame
+      time, as Marx says, the ‘general possibility of wealth’ and ‘absolute poverty’. Mario
+      Tronti (2019, 214) points out that Marx in this passage foregrounds labour’s ‘wholly
+      contradictory’character,‘preciselyduetothefactthatlabouritselfisacontradiction of
+      capital – and, even before that, a contradiction for itself’. Toni Negri stresses that this
+      passagemeansthatMarxstresseslabourasthe‘potentialofallwealth’(Negri1991a,69).
+                                                             
+                                                             
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+      Fuchs                                         1713     
+                                                             
+                                                             
+      The ‘abstract collectivity of labor is subjective power (potenza)’ (Negri 1991a, 70).
+      Labour is ‘a general power (potenza)’ (Negri 1991a, 70).
+        Thepoweroflabouristhatitis‘thegeneralproductiveforceofwealth;activitywhich
+      increases wealth’ (Marx 1857/1858, 307). In the work process, ‘the main force of
+      production’ is ‘the human being himself’ (422). But in capitalism, capital ‘is the all-
+      dominatingeconomicpowerofbourgeoissociety’(107).Asaconsequenceofcapitalist
+      class relations, the economic Power of capital results in conditions where the working
+      class‘surrendersitscreativepower’tocapital(307).The‘creativepowerof[…]labour
+      establishesitselfasthepowerofcapital,asanalienpowerconfronting’labour(307).‘The
+      collectivepoweroflabour,itscharacterassociallabour,isthereforethecollectivepower
+      of capital’ (585).                                     
+        Inclassrelations,theworkingclassisatthesametimethepowerfulproducerofwealth
+      andthedisempoweredclassofthedispossessedthatisstrippedofownershipandforcedto
+      sell its labour-power as a commodity and to produce surplus-value in order to survive.
+      Capital’s economic Power depends on the working class’ power to create wealth.
+      Therefore, the working class is not just disempowered and dispossessed by capital but
+      alsohasthepowertobringdowncapitalbystoppingtowork.Thestrikeistheworking
+      class’powerofresistanceagainstcapital.Inthiscontext,HardtandNegristressthatthe
+      poweroftheworkingclasstocreatewealthandcapital’sdependenceonlabourisalsoa
+      threat to capital: ‘Like Machiavelli and Spinoza, Marx links the proletariat’s poverty
+      directly to its power in the sense that living labor is “the general possibility of material
+      wealth”incapitalistsociety.[…]Marxconceivesthisexplosivecombinationofpoverty
+      andpowerastheultimatethreattoprivateproperty,onewhichresidesatitsveryheart’
+      (Hardt and Negri 2009, 54).                            
+        Working-class struggles and working-class resistance are, however, no automatisms,
+      but economic potentia, a mere potential. There is the danger of over-optimism, of as-
+      suming that the working class must resist and does resist by necessity. In some for-
+      mulations,HardtandNegriseemtoassumethatthereisanautomatismofrevolutionary
+      subjectivity. For example, ‘This double character of poverty and possibility defines the
+      subjectivityoflaborincreasinglyclearlyintheimmaterialparadigm.Thewealthitcreates
+      istakenaway,andthisisthesourceofitsantagonism.Yetitretainsitscapacitytoproduce
+      wealth, and this is its power. In this combination of antagonism and power lies the
+      makingsofarevolutionarysubjectivity’(HardtandNegri2004,153).Thispassagecanbe
+      read as meaning that revolutionary praxis emanates automatically from capitalism’s
+      antagonistic class relations.                          
+        Suchover-optimismcanalsobefoundinsomepassagesofMarioTronti’sworkswho
+      writes,forexample,that‘theincessantdevelopmentoftheproductiveforcescannotbut
+      provoketheincessantdevelopmentofthegreatestproductiveforce,theworkingclassas
+      revolutionary class’ (Tronti 2019, 32). The formulation that capitalist development
+      ‘cannotbutprovoke’thedevelopmentofthe‘revolutionaryclass’canbereadasmeaning
+      that revolutionary developments emerge by necessity. But such formulations are also
+      corrected by more careful formulations such as the one that the ‘working class within
+      capitalism is the only irresolvable contradiction of capitalism – or, better, it becomes
+      irresolvable the moment it self-organises as revolutionary class’ (Tronti 2019, 34).
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+      1714                         Philosophy and Social Criticism 51(10)
+                                                             
+                                                             
+      Working class struggles are a mere potential that becomes a powerful reality when the
+      working class organises itself by going on strike, creating self-managed companies,
+      making political demands for better working conditions, etc. Having focused on labour
+      andpowerincapitalism,wewillnextdiscusspowerandlabourindigitalcapitalismbased
+      onthecombinationofSpinoza,Marx,andNegri.Thiswillbeaccomplishedinthreesteps
+      byanalysingthedigitalclassrelationasdigitalpotestasanddigitalpotentia(section5),
+      the notion of ‘immaterial’ labour (section 6), and the antagonism between the digital
+      relationsofproductionandthedigitalproductiveforces(section7).Whatholdstogether
+      andconnectstheanalysesthatfollowinsections5,6,and7asaredthreadistheinsight
+      thatthecombinationofSpinoza,Marx,andNegriprovidesagoodunderstandingofclass
+      relations and capitalism as a dialectic of working-class potentia and capital’s potestas,
+      whichwereconceptualiseastheantagonismbetweendigitalpotentiaanddigitalpotestas.
+      Next, we will therefore focus on a section that engages based on the combination of
+      Spinoza,Marx,andNegriwiththeanalysisoftheclassrelationbetweendigitallabourand
+      digital capital.                                       
+                                                             
+      V Digital Capitalism 1: Digital Class Relations as Digital Potestas
+      and Digital Potentia                                   
+      Digitalcapitalismisadimension,aspect,anddimensionof21st-centurycapitalistsociety.
+      Digital capitalism means aspects of the capitalist societal formation where digital
+      technologies mediate the accumulation of capital in the capitalist economy, the accu-
+      mulationofdecision-powerinthepoliticalsystem,andtheaccumulationofreputationin
+      theculturalsystem(Fuchs2022).Digitalcapitalisthestructuraleconomicdimensionof
+      digital capitalism. Digital capital is digital potestas, economic Power in the digital
+      capitalist economy that is imposed on workers, consumers, citizens, and society from
+      above. Digital potestas dominates and exploits digital potentia, that is, digital labour’s
+      potentials. Digitalcapital isaform ofexploitation anddomination,apoliticaleconomy
+      thatconstitutesandgovernstheclassrelationbetweentheownersandorganisersofthe
+      digitalmeansofproductionandthosewhoasdigitalworkersproduceandputtousethese
+      meansofproductioninordertocreatedigitalcommodities.Digitalcapitaliscapitalthat
+      takesontheformofdigitalcommodities.Digitalcapitalappearsinsocialformssuchas
+      digital advertising capital (Google/Alphabet, Facebook/Meta Platforms, ByteDance/
+      TikTok, etc.), software capital (Microsoft, Oracle, etc.), digital hardware capital (Ap-
+      ple’s iPhone, Taiwan Semiconductor, Cisco Systems, Hon Hai Precision, Intel, etc.),
+      telecommunications capital (Verizon Communications, China Mobile, Deutsche Tele-
+      kom, Comcast, Nippon Telegraph and Telephone, Charter Communications, China
+      Telecom,AT&T,etc.),digitalmerchant’scapital(Amazon,Alibaba,etc.),digitalfinance
+      capital(PayPal,eBay,etc.),etc.Thismeansthatdigitalcapitalisaunityindiversity.All
+      thecompaniesjustlistedhaveincommonthattheyturnthedigitalintocommoditiesand
+      digitalcapitalandforproducingdigitalcommoditiesexploitavarietyofformsoflabour.
+      However, the digital commodity takes on a variety of forms and capital accumulation
+      models.                                                
+                                                             
+                                                             
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+      Fuchs                                         1715     
+                                                             
+                                                             
+        Digital capital is a powerful capital faction in the contemporary capitalist economy.
+      The two main geographical locations of digital capital’s headquarters are the USA and
+      China(Fuchs2021).Oneofthefeaturesofdigitaltechnologiesandnetworkedcomputer
+      systemsisthattheysupportnetworkingandhelptranscendboundaries,includingspatio-
+      temporalboundaries,whichiswhydigitalcapitaloperatestransnationally,internationally,
+      and globally.                                          
+        From Spinoza, we learn that potestas requires potentia. From Marx, we learn that
+      capitalism should be analysed as a class system, which requires uniting Humanist and
+      Structuralistanalysis.FromNegri,welearnthatlabouraspotentiaandpowerconstitutes
+      capital’sPowerandpotestas,whichimpliesthattheworkingclassisnotjustalienatedbut
+      holdsthepowertodisruptandbringdowncapitalbyrefusingtoworkintheformofthe
+      strike action. Analysing digital capitalism in a Spinozist–Marxian–Negrian way means
+      stressing that the Power of digital capital (digital potestas), that is, the accumulation of
+      digitalcapital,istheproductofdigitallabour(digitalpotentia).Digitallabourproduces
+      digitalcapital. Thereisnodigital capital without digitallabour.Digitallabour islabour
+      that produces digital commodities, that is, commodities that take on digital forms. The
+      digital working class includes all workers who contribute to the production of digital
+      commodities.                                           
+        Labourispotentiabecauseitconstantlyrealiseseconomicpotentialsthatasconstant
+      work result in use-values and as abstract labour produce commodities. Economic po-
+      tentials are turned into capitalist actualities in the form of commodities’ use-values,
+      values, and exchange-values. Digital labour as digital potentia produces a variety and
+      differentformsofdigitalcommoditiesanddigitalcapital.Thismeansthatdigitalpotentia
+      producesdigitalpotestas.Justliketherearedifferentformsofdigitalcapital,thereisalso
+      avarietyofformsofdigitallabourthatisorganisedintheformofaninternationaldivision
+      of digital labour (Fuchs 2014, 2015):                  
+        · Extractivedigitallabourislabourthatextractsmineralsoutofwhichcomponentsof
+          digital hardware are created.                      
+        · Industrialdigitallabourislabourthatmanufacturesandassemblesdigitalhardware.
+        · Digitalknowledgelabourislabourthatusesdigitalhardwareforproducingdigital
+          content and digital knowledge such as software, websites, digital music, digital
+          videos, digital images, digital games, digital animations, data, meta-data, social
+          data, etc.                                         
+        · Digitalservicelabourislabourthatusesdigitalhardwareanddigitalsoftwarefor
+          producingservicessuchasthedeliveryoffoodandparcels,thetransportofhumans
+          from location A to location B by taxi, care work, the delivery of parcels to cus-
+          tomerswhoorderedcommoditiesonline,onlineattentiontodigitaladvertising,call
+          centrelabour,contentmoderation(thedigitalcleaners),etc.Digitalservicelabour
+          doesnotcreatedigitalcontentbutawiderangeofservicesthatareproducedwith
+          the help of digital means of production.           
+        · Digital disposal labour is labour that decomposes electronic waste in order to
+          extract components and precious metals that are reused.
+                                                             
+                                                             
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+      1716                         Philosophy and Social Criticism 51(10)
+                                                             
+                                                             
+        This list shows that for the digital capitalist economy to exist, a variety of forms of
+      digitallabourthatareallexploitedbydigitalcapitalisneeded.Thediverseformsofdigital
+      labourhaveincommonthattheyareallexploitedbydigitalcapital.Theydifferintermsof
+      thedigitalcommoditiestheyproduceandtheconcreteformtheclassrelationtakeson.For
+      example, Silicon Valley software engineers are highly paid and heavily overworked
+      wage-workers.Theyfaceamanagementstylethatstressesthatsoftwareproductionisa
+      cultureoffun,self-determination,andself-fulfilment,whichresultsinaheavycultureof
+      overtimeanddigitalworkerswhotendtothinkandfeellikemanagersbutsufferfromthe
+      lackoffreetimeandfriendshipsandlifeoutsideofthecompany(Fuchs2024).Incontrast,
+      ChinesehardwareassemblersinFoxconnfactoriesaredigitalworkerswhofaceTaylorist
+      managementmethodsthatworkwithsurveillance,threats,andpunishmentsinadditionto
+      relatively low wages (Chan et al. 2020; Qiu 2017). For using a computer and a mobile
+      phone, both types of digital labour, the play labour of the Silicon Valley software en-
+      gineers and the labour of Foxconn workers, who face ‘bloody Taylorization’ (Lipietz
+      1987,76),arerequiredsothatdigitalcapitalexploitsavarietyofformsofdigitallabour
+      that have in common that they produce digital capital. 
+        Digital labour has an internationally networked character, which means that digital
+      knowledgelabourthatcreatesdigitalcontentanddigitalservicelabourarebasedonand
+      cannot exist without extractive and industrial digital labour. The result of one type of
+      digitallabourentersasameansofproductionintootherformsofdigitallabour.Onetype
+      of digital potentia calls forth and in objectified form enters into another type of digital
+      potentia.Mostdigitalworkersdonotknoweachotheranddonotencountereachother.
+      Their labour is related via an anonymous international division of digital labour that
+      creates the Power of digital capital. While digital capital is networked and organised
+      globally, digital labour is as such dispersed, anonymous, fragmented, and unorganised.
+        Giventhatentireeconomiesandthecapitalistworldeconomydependondigitalcapital
+      thatiscreatedbyworkersintheinternationaldivisionofdigitallabour,thedigitalworkers
+      oftheworldpossesstremendouspower(digitalpotentia),thatis,thepotentialtobringthe
+      world economyandthedigitaleconomytoahaltwhen theygoonstrike.Whendigital
+      workers become a digital working class in-and-for-itself they realise their power po-
+      tentialstoresistdigitalcapital.Digitalworkersbecomeanorganisedandself-organising
+      digitalworkingclasswhentheyorganisecollectivelyasapoliticalsubjectagainstdigital
+      capitalintheformofdigitallabourunions,digitallabourrefusals,digitallabourstrikes,
+      self-mangeddigitalworkerco-operatives,andpolitical demandssuchasthetaxation of
+      digitalcapital,wageincreases,andlabourtimereductionwithfullwagecompensationfor
+      digital workers, a social wage for unpaid digital labour in the form of an unconditional
+      basic income guarantee, etc. The Power of digital capital, that is, the accumulation of
+      digital capital, is produced by digital labour’s power to create digital wealth. Digital
+      wealth is, however, privately owned and therefore primarily benefits the digital bour-
+      geoisie.Ittakesontheformofdigitalcapital,digitalwealththatbenefitsthepocketsofthe
+      few.Thedigitalworkingclasshasatremendouspowerpotentialtoresistandappropriate
+      digital capital so that it is turned into digital wealth and digital commons for all that
+      benefit all.                                           
+                                                             
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+      Fuchs                                         1717     
+                                                             
+                                                             
+        Theworkingclass’power,itspotentia,entailsthatinproducingcapitalitcantakethe
+      action to refuse production, to go on strike. To stop production is the working class’
+      politicalpotential.Todoso,itmustbecomeacritical,class-consciousforcethatopposes
+      capital’sPower (potestas).Thedigitalworking class asdigitalpotentiahasthepolitical
+      power to stop producing the Power of digital capital by going on a digital strike and
+      refusing to do digital labour. In digital class struggles, digital labour as politically or-
+      ganiseddigitalpotentiahasthepowertoquestionandpracticallycriticisedigitalcapital’s
+      potestas. This requires new forms of (digital) class struggles and (digital) strikes.
+        Digital labour is based on traditional and relatively new forms of labour. Extractive
+      digital labour is traditional agricultural labour where humans work directly with and in
+      nature from which they extract minerals. Industrial digital labour and digital disposal
+      labour are forms of manufacturing labour. They are often organised in Taylorist and
+      Fordist ways that feature highly coercive forms of labour control. Digital knowledge
+      labour and digital service labour feature relatively new forms of labour. They form the
+      realmwherenewmanagementtechniquessuchasso-called‘participatory’management
+      are often applied. Such management experiments that are new forms of absolute and
+      relative surplus value production are possible in these new realms of labour because
+      digitalknowledgelabour(a)featureshighlyskilledlabourthathassignificantdegreesof
+      creativity,self-reliance,andself-realisation,(b)requiresahighlevelofco-operation,and
+      is(c)basedonthehumanbrainasameansofproduction.Asaconsequence,suchlabour
+      involvesahighdegreeofaffectivitywhereworkersidentifypositivelywiththeproducts
+      they produce and see these products as part of their selves.
+        Autonomist Marxist theorists such as Hardt/Negri and Lazzarato have analysed the
+      subjectivityoflabourintheageofdigitalcapitalism as‘immaterial labour’.Inthenext
+      section, we will focus on this category.               
+      VI Digital Capitalism 2: ‘Immaterial’ Labour           
+      HardtandNegriseedigitalknowledgelabouranddigitalservice labouraspartofwhat
+      theycall‘immateriallabour’.TheybuildonMaurizioLazzarato(1996,132),whodefined
+      immaterial labour as ‘labor that produces the informational and cultural content of the
+      commodity’.Theydefineimmateriallabouras‘laborthatproducesanimmaterialgood,
+      suchasaservice,aculturalproduct,knowledge,orcommunication’(Hardt&Negri2000,
+      290);‘laborthatproducesimmaterialproducts,suchasinformation,knowledges,ideas,
+      images, relationships, and affects’. (Hardt & Negri 2004, 65); labour ‘that creates im-
+      materialproducts,suchasknowledge,information,communication,arelationship,oran
+      emotional response’ (Hardt and Negri 2004, 108).       
+        Hardt and Negri (2004, 108) distinguish between two forms of immaterial labour:
+      intellectual labour and affectual labour: ‘The first form refers to labor that is primarily
+      intellectual or linguistic, such as problem solving, symbolic and analytical tasks, and
+      linguistic expressions. This kind of immaterial labor produces ideas, symbols, codes,
+      texts,linguisticfigures,images,andothersuchproducts.Wecalltheotherprincipleform
+      of immaterial labor “affective labor.” Unlike emotions, which are mental phenomena,
+      affectsreferequallytobodyandmind.Infact,affects,suchasjoyandsadness,revealthe
+                                                             
+                                                             
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+      1718                         Philosophy and Social Criticism 51(10)
+                                                             
+                                                             
+      presentstateoflifeintheentireorganism,expressingacertainstateofthebodyalongwith
+      a certain mode of thinking. Affective labor, then, is labor that produces or manipulates
+      affectssuchasafeelingofease,well-being,satisfaction,excitement,orpassion.Onecan
+      recognize affective labor, for example, in the work of legal assistants, flight attendants,
+      and fast food workers (service with a smile)’.         
+        Immaterial labour is a misnomer because the term suggests that materiality means
+      physicality.Theconceptimpliesthatmatterandspiritaretwoopposedsubstances,which
+      is a dualistic conception of the world. Immaterial labour is also a quite non-Spinozist
+      concept.ForSpinoza,‘intheuniversethereisonlyonesubstance,andthisisabsolutely
+      infinite’ (Spinoza 1677/2002, 224); there is ‘no other substance but God’ (224); and
+      Nature is God (‘the eternal and infinite being, whom we call God, or Nature’, Spinoza
+      1677/2002,321).Takingthesepropositionstogethermeansthatnatureissubstanceand
+      thatallmatteremergesfromandispartofnature.AgainsthisownSpinozistphilosophical
+      base and Spinoza’s materialist monism, Negri implicitly and perhaps unwillingly sep-
+      arates spirit and matter, mind and body, intellect and physicality.
+        SpinozaisamaterialistmonistwhostandsincontrasttoDescartes’substancedualism
+      wheretherearetwosubstances,themindandphysicalbodies.Spinozaquestionsdualist
+      solutionstothemind/bodyproblem.Forhim,thereis‘theunionofMindandBody’;‘the
+      humanMindisunitedtotheBody’(Spinoza1677/2002,251).Negri1991b,xvii)himself
+      acknowledgesthat‘SpinozafoundsModernmaterialisminitshighestform’.ForSpinoza,
+      thereistheextendedsubstancethatisalsocalled‘corporealsubstance’andthe‘thinking
+      substance’(Spinoza2002,208).Thelatterconsistsof‘humanminds’(208)andis‘matter
+      ofthehumancondition’(10-11).ForSpinoza,thehumanmindisnotseparatefromnature
+      andmatter,butonespecificformofmatterandnature.Therefore,itisbettertoavoidthe
+      term‘immateriality’andtospeakofknowledgelabourorinformationallabourinsteadof
+      ‘immateriallabour’.JasonRead(2024)stressesinthiscontextthatwhatconnectsMarx
+      and Spinoza is that both see politics as immanent to the economy and the economy as
+      immanent to politics as well as the material immanent to the mental and the mental
+      immanent to the material. Read calls this the double shift between the economy and
+      politics,thematerialandthemental,thebodyandthemind.Thesepairsofcategoriesare
+      ‘twodifferentwaysofunderstandingthesamething’;thereisthe‘identityandnonidentity
+      ofmindandbody,habits,andtheimagination’(Read2024,8).Thinkingthisassumption
+      to the end, Raymond Williams (1977, 190) has formulated the approach of Cultural
+      Materialism that argues that ideas and the ‘modes of consciousness are material’
+      (Williams1977,190;foradiscussionoftherelevanceofCulturalMaterialismintheage
+      of digital capitalism, see Fuchs 2017 & Fuchs 2023).   
+        What Hardt and Negri term ‘immaterial labour’ should better be referred to as
+      knowledgelabour.Knowledgelabourismoregeneralthandigitallabour.Italsoincludes,
+      for example, the labour of actors performing a theatre play live or the labour of a sales
+      assistant who tries to convince customers in a shop that they should buy certain com-
+      moditiesbyarguingthatthepurchasewillpositivelyenhancetheiridentitiesandstyle,etc.
+      WhilealldigitalknowledgelabourandalldigitalservicelabourarewhatHardtandNegri
+      term‘immaterial’labour,notall‘immaterial’labourisdigital.Digitalisation,however,in
+      onewayoranotherinfluencesmostformsofcontemporarylabour.Digitalworkersarenot
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+      Fuchs                                         1719     
+                                                             
+                                                             
+      partofanimmaterialworkingclassbutratheroftheworkingclassfactionofknowledge
+      workers who not just produce digital commodities but all sorts of informational com-
+      modities. Knowledge workers as potentia produce knowledge capital that as potestas
+      dominates and exploits knowledge labour. Knowledge labour, however, also has the
+      political potential to undermine knowledge capital by refusing labour and politically
+      organising,whichmakesthequestion‘Willknowledgeworkersoftheworldunite?’that
+      was first posed by Vincent Mosco and Catherine McKercher (2009) a key political
+      question of knowledge and informational capitalism.    
+        Hardt and Negri (2004, 108) write that most ‘actual jobs involving immaterial labor
+      combinethesetwoforms’ofimmateriallabour,namelyintellectualandaffectuallabour.
+      Many forms of highly skilled digital knowledge labour do not just create digital
+      knowledge products but are also highly affectual in character. Although conceptually
+      confusing,HardtandNegri’snotionofimmateriallabourpointsinanimportantdirection,
+      namelytheimportanceoffocussingonhowcapitalincontemporarycapitalismmanages
+      workers’ emotions and affects. This means that many digital knowledge workers feel a
+      special affectual connection to their labour and their products of labour. They see
+      themselvesasartistswhoarehighlycreativeandwhohaveajobthatisfunandaformof
+      pleasure. They feel privileged and have an artistic ethos. Typically, digital knowledge
+      workersdescribetheirlabourinthefollowingways:Youare‘beingpaidforyourhobby’
+      (Gill2007,14);‘It’sahobbyandworkcombined’(Gill2007,14);‘Itissomuchfun’(Gill
+      2007, 14).                                             
+        Indigitalknowledgelabour,thePowerofdigitalcapital(digitalpotestas)appearstobe
+      invisibletoworkers.Exploitationandself-exploitationdonotfeelalienatedbutlikefun,
+      self-fulfilment, play, and pleasure.In digital knowledge labour, the boundaries between
+      labourandplay,labourtimeandleisuretime,theworkplaceandthehome,productionand
+      consumption,professionalismandhobby,etc.areoftenblurredandindistinguishable.It
+      is, therefore, no surprise that such labour has been one of the primary sites where new
+      management methods that organise the workplace as a playground, stress teamwork,
+      participation, informality, fun, co-operation, self-determined start times of labour, etc.
+      havebeenexplored(BoltanskiandChiapello2005).Asaconsequence,digitalknowledge
+      labourisoftenatthesametimehighlyself-fulfillingandhighlystressful.Undercapitalist
+      conditions,itislabourthatisatthesametimepleasurablebutinducesthepainofapoor
+      work-life balance.                                     
+        Digital knowledge labour is often project-based: ‘In the new world, anything is
+      possible,sincecreativity,reactivity,andflexibilityarethenewwatchwords.Nownoone
+      isrestrictedbybelongingtoadepartmentorwhollysubjecttotheboss’sauthority,forall
+      boundariesmaybetransgressedthroughthepowerofprojects’(BoltanskiandChiapello
+      2005, 90). Precisely because it presents itself as opposed to Taylorist forms of man-
+      agementandasaformofhumanemanagement,post-Fordistmanagementissoinhumane.
+      Ituses fun andtheaffectualattachmentofworkers totheir labour asmeans ofabsolute
+      surplus value production (overtime, longer working times) and relative surplus value
+      production(higherintensityandproductivityoflabour).‘TheTaylorizationofworkdoes
+      indeedconsistintreatinghumanbeingslikemachines.Butpreciselybecausetheypertain
+      toanautomation ofhuman beings,therudimentary characterof themethods employed
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+      1720                         Philosophy and Social Criticism 51(10)
+                                                             
+                                                             
+      doesnotallowthemorehumanpropertiesofhumanbeings–theiremotions,theirmoral
+      sense, theirhonour,theirinventive capacity– tobeplaced directly intheservice ofthe
+      pursuit of profit. Conversely, the new mechanisms, which demand greater commitment
+      and rely on a more sophisticated ergonomics, integrating the contributions of post-
+      behaviourist psychology and the cognitive sciences, precisely because they are more
+      humane in a way, also penetrate more deeply into people’s inner selves – people are
+      expected to “give” themselves to their work – and facilitate and instrumentalization of
+      human beings in their most specifically human dimensions’ (Boltanski and Chiapello
+      2005, 98).                                             
+        Digital knowledge labour appears to be fun, self-fulfilment, pleasurable, and self-
+      determined.Atthesametime,itcreatesanewformofpovertyasaformofsocialpain,
+      namely social poverty where humans work long hours, do not have enough time for
+      hobbies,friends,andfamily,haveapoorwork-lifebalance,etc.Post-Fordistmanagement
+      methods work by blurring the affectual boundaries between pleasure and pain, joy and
+      sadness,loveandhate,hopeandfear,despairandconfidence,etc.Spinoza(1677/2002)
+      definesthehumanbeingasanemotionalbeingandstressesthat“emotionsarerelatedto
+      desire,pleasureorpain“(Spinoza1677/2002,310).Post-FordistmanagementisSpinozist
+      managementinthatitmanagesaffectsandtriestointegrateworkers’entiresubjectivity,
+      including theiraffects,emotions,andmindsintothelabour process.Digital potestas as
+      capitalistmanagementformtargetsdigitallabour’semotions,feelings,minds,andaffects.
+      Digitalcapitalistmanagementisamongotherthingsalsoaffectualmanagement.Building
+      on Spinoza and Marx, Jason Read (2024, 84) argues that contemporary capitalism
+      ‘reorients pleasure toward work’ and ‘the pleasure of employment itself’. Post-Fordist
+      management is a type of management that works by ideology and, in contrast to Tay-
+      lorism,notprimarilybyviolence,strictrules,andpunishment.Post-Fordistmanagement
+      integrates,disembeds,encourages,supports,rewards,etc.inordertopositivelyappealto
+      andmanageworkers’affects.Itisaffectualmanagementthattargetsworkers’affectsin
+      order to try to make them work longer and more productively.
+        ‘Now desire is the very essence, or nature, of each individual insofar as that is
+      conceivedasdeterminedbysomegivenstateofitsconstitutiontodosomething’(Spinoza
+      1677/2002, 308).IfwhatSpinoza says istrue, thenhumansstrive toconductworkthat
+      they find self-fulfilling, purposeful, and pleasurable. As a consequence, creative and
+      artisticworkisdesirable,whichexplainswhymanyyoungpeopletodaywanttoworkin
+      the realms of culture and the media.                   
+        Google is a typical example of a digital corporation that uses new management
+      methods.Itsofficecomplexesoftenlooklikeplaygroundsandaffectsaremanagedbythe
+      integrationofleisurefacilities,restaurants,freefood,informality,invitedspeakers,team-
+      building activities, etc.                              
+        Glassdoor is a platform that features company reviews. I searched for Google job
+      reviewsonGlassdoor.TheperiodIfocusedonwasfromthestartofJanuaryuntiltheend
+      ofMay2023.Iselectedallpostingsthatcontainedthekeyword‘hour*’,whichresultedin
+      145 postings about working hours at Google. 112 out of the 145 comments (77.2%)
+      criticisedpoorwork-lifebalanceandlongworkinghoursatGoogle.Herearesometypical
+      commentsbyGoogleworkers:‘Longhourstiringandstressful’;‘toxicworkculturethat
+
+[PAGE 19]
+                                                             
+                                                             
+                                                             
+      Fuchs                                         1721     
+                                                             
+                                                             
+      leavespeopleworkingallhours.Recentlayoffshaveleftpeopleatalllevelsafraidtosay
+      no,makingeverythingworse’;‘Iguesstheold“Don’tbeevil”mantradiedalongtime
+      agohere.Getreadytoworklonghoursandhavenovacation time,too’;‘Lotsofhours
+      AlwaysworkingNeveroff’;‘Badmanagersandlonghours’;‘Highpressureenvironment
+      andlonghours’;‘Peoplewhopushbackononlyworking100%ofthetimeareseenas
+      “notateamplayer.”Don’tbefooled–freelunches,remoteworksetups,andmassagesare
+      justwaystokeepyouoverworking’;‘horriblework-lifebalanceandbadhours’;‘Work
+      lotsofhours.Meetingsalldayandeveningsspentfollowingupinemail.Constantfires
+      thatdisruptyourdayandeverythingisurgent’;‘mentallydraininglonghoursnoworklife
+      balance’; ‘Advice to Management: More time off’.       
+        Googleworkersarehighlypaidandsociallypoor.Manyofthemarerichinmonetary
+      termsbutpoorinsocialterms.Theylackfreetimeandtimeforsocialrelationsoutsidethe
+      company. Google management uses the strategy of absolute surplus value production.
+      Management does everything to get workers to stay in the office and work long hours.
+        Networked digital technologies support the transcendence of boundaries. They are
+      boundary-transcendingtechnologies.Withthehelpofdigitaltechnologies,consumersof
+      informationbecomeproducersofinformation.Byutilisingdigitaltechnologies,workers
+      can work from home and from everywhere. Mobile phones, tablets, and laptops are
+      mobile offices. As a consequence, it is easier for management to attempt to blur the
+      boundaries between home/office, labour/play, labour time/leisure time, etc. The long-
+      hourscultureisnotbuiltintodigitaltechnologiesorthedigitalindustriesassuch.Rather,
+      managers in the capitalist digital media industries create working conditions that tran-
+      scend socialboundaries sothat digital workers, who utilise digital media asameans of
+      production and produce digital commodities, are coerced into working long hours, ig-
+      noring the boundaries between labour and leisure, etc. and produce ever more surplus
+      value. The long-hours culture is a strategy of absolute surplus value production, which
+      meansthelengtheningoftheworkingday.Giventhatdigitalmediasupportnetworking
+      and boundary-transcendence, management strategies that utilise networking and
+      boundary-transcendence as methods of absolute and relative surplus value production
+      mightbeusedparticularlyfrequentlyinthedigitalindustries.Digitalknowledgeworkers
+      requiresocialnetworkingaspartoftheirskills,whichiswhytheymightbeparticularly
+      pronetotranscendsocialboundaries(betweenlabour/leisure,home/workplace,pleasure/
+      pain,etc.)intheirlabourpracticeswhentheyarehailedbynetwork-basedandboundary-
+      transcending management strategies.                    
+        One key aspect of a Marxian analysis of capitalism is the investigation of the an-
+      tagonism between the productive forces and the relations of production. In digital
+      capitalism, thisquestionneedstobeposedconcerningdigitalcapitalanddigitallabour.
+      VII Digital Capitalism 3: The Antagonism Between the (Digital)
+      Relations of Production and the (Digital Productive) Forces
+      A key feature of the capitalist economy is what Marx (1867; 1857/1858) terms the
+      antagonism between the relations of production and the productive forces. The devel-
+      opmentoftheproductiveforcesontheonehandmakeslabourmoreproductivewhereby
+                                                             
+                                                             
+
+[PAGE 20]
+                                                             
+                                                             
+                                                             
+      1722                         Philosophy and Social Criticism 51(10)
+                                                             
+                                                             
+      thelatter’sexploitationisdeepened.Ontheotherhand,thedevelopmentoftheproductive
+      forcesoftenadvancesthesocialisationoflabour,itsco-operativecharacter,aswellasthe
+      potentialsforthesocialmanagementofcompanies,thecollectiveownershipofthemeans
+      of production, and the reduction of necessary labour time to a minimum.
+        Marxstressesthatincapitalism,theantagonismbetweentheproductiveforcesandthe
+      relations of production advances the economy’s crisis tendencies: ‘The growing in-
+      compatibility between the productive development of society and its hitherto existing
+      relations of production expresses itself in bitter contradictions, crises, spasms’ (Marx
+      1857/1858, 749). At the same time, new potentials for a socialist economy of the
+      commonsemerge.Digitaltechnologiestendtoincreaselabourproductivity,whichunder
+      capitalistconditionsresultsinantagonismsaroundlabour-time.Forexample,whilesome
+      work long hours, others are precarious workers or unemployed.
+        Informationisnotusedupduringconsumption.Itcanbesimultaneouslyconsumedby
+      manyindividuals(non-rivalrousconsumption).Itcanbeeasilyandcheaplycopied.Itis
+      difficult to exclude individuals from access to information (non-exclusion). Digital
+      networkssupportthecheapandeasyglobalcopyingandspreadingofinformation.Inthe
+      digital age, the specific characteristics of digital information undermine the private
+      property character of digital commodities. While digital capital develops new capital
+      accumulation strategies, it always faces the danger of users and consumers copying
+      informationwithoutpayingforitandturningdigitalinformationanddigitaltechnologies
+      into common goods that are not commodities and are available to everyone without
+      payment. Digital capitalism’s economy therefore not only contains an antagonism be-
+      tweendigitalcapitalanddigitallabourbutrelatedtoitalsoanantagonismbetweendigital
+      commodities and the digital commons. The networked, boundary-transcending, non-
+      rivalrous, non-exclusionary character of the digital advances at the same time digital
+      commodification and potentials for digital commonification. The antagonism between
+      digitalcommoditiesandthedigitalcommonsisanexpressionoftheantagonismbetween
+      the digital relations of production (the class relation between digital labour and digital
+      capital) and the networked digital productive forces.  
+        Digital labour is an expression of the mentalisation of the productive forces. In
+      knowledge labour, the brain is a key means of production. Marx anticipated the
+      emergenceof knowledge labour as an important productive force when he wrotein the
+      Grundrisse that as part of the development of fixed capital, the ‘general intellect’, by
+      whichhemeans‘generalsocialknowledge’,becomes‘adirectforceofproduction’(Marx
+      1857/1858,706).Thebrainasameansofproductionismoredifficulttosubsumeunder
+      capital and to be controlled by capital than machines, buildings, and other physical
+      resources.Thebrainisphysicallyattachedtothehumanbodyand,asSpinozaknew,not
+      detachablefromthebody.Knowledgelabourisincontrasttoindustrialandagricultural
+      labourbrain-drivenandstronglybrain-based.Knowledgeisaproductofthehumanmind.
+      Therefore,thedigitalmeansofproductioncanbemoreeasilyself-managedinthedigital
+      knowledgeindustrythanintraditionalindustries.Self-managedlabourinawayisalready
+      present in digital knowledge labour’s ethos of self-fulfilled labour. This quest for cre-
+      ativity andself-fulfilmenthastodo with the fact thatthe brain isutilised asameans of
+      productionindigitalknowledgelabour.Thereisarelativelyhighleveloffreelancelabour
+
+[PAGE 21]
+                                                             
+                                                             
+                                                             
+      Fuchs                                         1723     
+                                                             
+                                                             
+      amongdigitalknowledgeworkers.In2023,with320,000workers,thearts,literatureand
+      media sector was by far the largest freelance sector in the UK2. In 2020, there were
+      2.152millionone-personcompaniesinGermany.Threehundredandfifty-sixthousands
+      ofthem(16.5%)werelocatedinacademicandtechnologicalservices,168thousandinthe
+      information and communication industry, and 155 thousand in art, entertainment, and
+      recreation. This means that taken together, there were 679,000 cultural freelancers that
+      accounted for 31.6% of Germany’s one-person companies4.
+        Freelanceworkersmanagethemselvesandexploitthemselves.Onecaninterprettheir
+      strangeclassstatusontheonehandbysayingfreelancersareparticularlypronetoshare
+      neoliberal management ideology. On the other hand, one can also interpret their class
+      status by saying that freelancers are particularly prone to embrace the notions of the
+      commons and self-managed companies that transcend capitalism. Perhaps both inter-
+      pretations are true and false at the same time. Digital knowledge workers who are
+      freelancersembracetheideaofself-management,whichcantakeontwoforms,namely
+      (a)capitalistself-managementintheformoffor-profitfreelancecompaniesthatembrace
+      capitalaccumulationandprivatepropertyand(b)socialistself-managementintheformof
+      not-for-profit companies that embrace the commons and collective ownership.
+        The antagonism between the networked digital productive forces and the digital
+      relations of production has resulted in the dominance of a variety of digital capitalist
+      corporations that together control a significant share of global profits. Digital capital’s
+      Power (digital potestas) has again and again been challenged by socialist forms of
+      production such as platform co-operatives, Creative Commons, Wikipedia, Diamond
+      OpenAccess,not-for-profitInternetplatforms,publicserviceInternetplatforms,etc.(see
+      Fuchs 2021, 2024) that have the potential to be and become important digital class
+      struggleprojects,aspectsofdigitalpotentiaaspoliticallyorganiseddigitallabour.Digital
+      socialism is a power movement, a digital potentia that challenges digital capitalism
+      (Fuchs 2020).                                          
+        Intheestablishmentofalternativestothecapitalistdigitalgiants,creatingthesoftware
+      infrastructure needed is neither difficult nor expensive. In the digital media landscape,
+      consumersareproducersofinformation,andithasbecomerelativelyeasyforeveryoneto
+      establishnewmeansofproduction.Whiletraditionallyitwasdifficultandexpensiveto
+      establish a new radio or television station or newspaper, it is neither complicated nor
+      difficult nor expensive to create your own podcast, YouTube channel, blog, or Internet
+      platform.Thedigitalmeansofproductionaremoreeasilyaccessibleandproduciblethan
+      thetraditionalmeansofproduction,etc.Thereis,however,ashiftofpowerawayfromthe
+      control of themeans ofcommunication asa means ofproductiontowards thepower of
+      attention and visibility. Platforms such as YouTube, Google, TikTok, WhatsApp, In-
+      stagram,andFacebookaresowidelyusedandhelptoaccumulatedigitalcapital.Thesix
+      platformsjustmentionedareamongthe15mostaccessedInternetplatformsintheworld3.
+      They are owned by three of the world’s largest transnational digital corporations (Meta
+      Platforms: WhatsApp, Instagram, Facebook; Alphabet: YouTube, Google; ByteDance:
+      TikTok).Thesethreecorporationshaveincommonthattheyprimarilyderiveprofitfrom
+      digital advertising (see Fuchs 2024).                  
+                                                             
+
+[PAGE 22]
+                                                             
+                                                             
+                                                             
+      1724                         Philosophy and Social Criticism 51(10)
+                                                             
+                                                             
+        Anyone can today create a new Internet platform, but the difficulty lies in attracting
+      userstoit.Digitalcapital’sPower(digitalpotestas)–itsprofitsandmonopolycharacter–
+      hastodowiththeattentionandvisibilitythatdominantdigitalplatformsenable.Butthe
+      Powerofdigitalcapitalisbasedonthepoweroftheuserstogiveattentiontoandmake
+      visible digital content on the Internet. This means that users whose attention is an im-
+      portantresourceandmeansofproductionhavethepowertoboycottdigitalcapital.Inthe
+      case of advertising-financed platforms, a user boycott is a digital labour strike (Fuchs
+      2021, 2024). Without users, Google’s and Meta’s capital accumulation collapses. The
+      establishmentandstrugglefordigitalcapitalismontheonehandfacesdigitalmonopolies
+      as a hindrance and problem that keeps alternatives from growing. On the other hand,
+      digital labour struggles have the power to block digital capital. As a consequence, the
+      establishmentofalternative,not-for-profitdigitalcommonsprojectsshouldbeintegrated
+      withdigitallabourstruggles.Forexample,digitalplatformworkerswhogoonstriketo
+      demandhigherwagesandbetterworkingconditionsareanidealsubjectforprojectsthat
+      arebasedonaswitchofdigitallabourtoanot-for-profit,socialised,union-basedplatform
+      co-operative that competes with digital capital.       
+        Not-for-profitdigitalprojectsthattakeonformssuchasCreativeCommons,platform
+      co-operatives, public service Internet platforms, digital commons, etc. have the digital
+      potentiatochallengedigitalcapital’sPower.Todoso,theyneedtobeandbecomepartof
+      digital class struggles, new forms of (digital) strikes that blur the boundaries between
+      labour protests/consumer protests, the labour movement/the consumer protection
+      movement, socialist advocacy/privacy advocacy, etc.    
+        InSpinoza’stime,societieswereagriculturalsocieties,whichmeansthatlandwasthe
+      mostimportantmeansofproduction.‘Thusthelandandwhateverisfixedtoitintheway
+      we have described is especially the public property of the commonwealth, that is, of all
+      thosewhobytheirunitedstrengthcanclaimit,orofhimtowhomallhavedelegatedthe
+      powertoclaimit’(Spinoza1675–1677/2002,716).WecanonlyspeculateonhowSpinoza
+      would have argued about the digital means of production as an economic resource. Ex-
+      trapolating his idea ofthe commongoodto21st-centurydigital capitalism implies thata
+      commonwealth requires the commonalisation of digital infrastructures such as Internet
+      platforms so that digital platforms and information are no longer private goods yielding
+      profits for the capitalist class but common goods. In such a system, ‘the production of
+      commodities by means of commodities’ (de Peuter and Dyer-Witheford 2010, 44) is re-
+      placedbythe‘circulationofthecommon’thatconnects‘eco-social,labour,andnetworked
+      commonstoreinforceandenableoneanother’(dePeuterandDyer-Witheford2010,45).
+        For Toni Negri, the emergence of what he terms immaterial labour means ‘that the
+      producer(theworkerorproletarian,intellectualormateriallabour-power)reappropriated
+      the tool of production, which increasingly is called the brain’ (Negri 2003, 144). Negri
+      (2019)arguesthatwhattakesplacetodayinthedigitalmedialandscapeistheworkers’
+      appropriationoffixeddigitalcapital:‘Whenweseetoday’syoungpeopleabsorbedinthe
+      commons,determinedbytheirmachinicengagementsincooperation,wemustrecognise
+      that their very existence is resistance. Whether we are aware of it or not, they produce
+      resistance’(Negri2019,213).Negriistoooptimistic.Thereisnoautomaticresistanceof
+      digitalworkersagainstdigitalcapital.Thedigitalmeansofproductionanddigitallabour
+
+[PAGE 23]
+                                                             
+                                                             
+                                                             
+      Fuchs                                         1725     
+                                                             
+                                                             
+      havepowerpotentialsforresistance(digitalpotentia)thatareonlyrealisedandactivated
+      through and in class struggles and social struggles. Only in so far as digital labour
+      struggles emerge, digital capital is questioned and opposed.
+                                                             
+      VIII Conclusion                                        
+      This paper asked: How can Spinoza help us to better understand digital capitalism?
+      Spinozahasnotdirectlytheorisedclass.Attemptstocreateindirectconnectionsbetween
+      Spinoza’sphilosophyandtheanalysisofcommunicationincapitalismhave,forexample,
+      taken Spinoza’s notions of the communication of bodies, imagination, and freedom of
+      speechasastartingpoint.Itwaspointedoutthatsuchconnectionsarefar-fetched.Inorder
+      to theorise digital capitalism with Spinoza, we need to update Spinoza via Marx and
+      Negri.                                                 
+        IsuggestedthattheanalysisofdigitalcaptialismshouldfocusonSpinoza’sanalysisof
+      poweraspotestasandpotentiathatAntonioNegrihasforegroundedinsomeofhisworks.
+      Inthecapitalisteconomy,thedominantpowerofcapitalthatisexertedfromabove(Power
+      with ‘P’) in the form of accumulation processes and commodification is produced and
+      reproduced by the power of the working class from below (power with ‘p’). Marx has
+      analysedthedialecticofeconomicPowerandpowerincapitalismbyarguingthatlabour
+      andtheworkingclassareatthesametimegeneralpovertyandthegeneralpossibilityof
+      wealth.Theconsequenceisthatwemustthinkofcapitalismnotjustintermsofcapital
+      structuresbutalsointermsoflabourpracticesthataredialecticallymediated.Giventhe
+      poweroftheworkingclassincapitalism,thereisnoautomatismofresistancetocapital
+      butalwaysthepowerpotential thatworkersgoonstrike,opposeandovercomecapital.
+        ThedialecticofeconomicpowerandeconomicPowertakesonspecificformsindigital
+      capitalism. Digital labour produces digital capital. There is no digital capital without
+      digitallabour.Digitalcapitalisdigitalpotestas,economicPowerinthedigitalcapitalist
+      economy that is imposed on workers, consumers, citizens, and society from above.
+      Digitalpotestasdominatesandexploitsdigitalpotentia,thatis,digitallabour’spotentials.
+      Digital capital is a form of exploitation and domination, a political economy that con-
+      stitutes and governs the class relation between the owners and organisers of the digital
+      meansofproductionandthosewhoasdigitalworkersproduceandputtousethesemeans
+      of production in order to create digital commodities. Analysing digital capitalism in a
+      Spinozist–Marxian–NegrianwaymeansstressingthatthePowerofdigitalcapital(digital
+      potestas), that is, the accumulation of digital capital, is the product of digital labour
+      (digital potentia).                                    
+        Digital labour includes a variety of social forms such as extractive digital labour,
+      industrial digital labour, digital knowledge labour, digital service labour, and digital
+      disposallabour.Labourispotentiabecauseitconstantlyrealiseseconomicpotentialsthat
+      as constant work result in use-values and as abstract labour produce commodities.
+      Economicpotentialsareturnedintocapitalistactualitiesintheformofcommodities’use-
+      values,values,andexchange-values.Digitallabourasdigitalpotentiaproducesavariety
+      and different forms of digital commodities and digital capital. This means that digital
+      potentia produces digital potestas.                    
+                                                             
+
+[PAGE 24]
+                                                             
+                                                             
+                                                             
+      1726                         Philosophy and Social Criticism 51(10)
+                                                             
+                                                             
+        Given that Spinoza advances a materialist monism and opposes substance dualism,
+      digital knowledge labour is a more suited and more Spinozist term than immaterial
+      (digital)labour.Theanalysisoftheantagonismbetweendigitallabouranddigitalcapital
+      astheantagonismbetweendigitalpotentiaanddigitalpotestasissuperiortothedualist
+      category of immaterial labour that, other than Spinoza’s materialist monism, separates
+      ideasfromphysicality.Digitallabourisnotpartofanimmaterialworkingclassbutofthe
+      working class’ faction of knowledge workers.           
+        Although conceptually confusing,HardtandNegri’s notionofimmateriallabour
+      pointsinanimportantdirection,namelytheimportanceoffocussingonhowcapital
+      incontemporarycapitalismmanagesworkers’emotionsandaffects.Digitalpotestas
+      ascapitalistmanagementformtargetsdigitallabour’semotions,feelings,minds,and
+      affects. Digital capitalist management is among other things also affectual man-
+      agement. Digital knowledge labour is associated with the brain as general intellect
+      andmeansofproduction,thehighaffectivityoflabour,andthetranscendenceofthe
+      boundariesbetweenproduction/consumption,labourtime/leisuretime,office/home,
+      alienation/fun,labour/play,pain/pleasure,etc.Digitalknowledgelabourisatypeof
+      labour that has been highly targeted by digital capital’s new management strategies
+      that try to create more surplus value by trying to manipulate workers’ affects and
+      integrate workers’ entire subjectivity, including their affects, emotions, and minds,
+      into the labour process. As a consequence, many digital knowledge workers are
+      highly paid workers and socially poor individuals who work long hours and have
+      poor work-life balance.                                
+        Digital capitalism is based on an antagonism between digital labour and digital
+      capital, an antagonism between the digital class relations of production and the
+      networkeddigitalproductiveforces,andanantagonismbetweendigitalcommodities
+      and the digital commons. Digital capitalism has not just advanced new forms of
+      exploitationbutalsonewpotentialsforthedevelopmentofworking-classpotentiain
+      the form of digital working-class struggles and digital commons projects that
+      question,oppose,andtranscenddigitalcapitalanddigitalcapitalism.Digitalworking
+      class potentia does not emerge automatically. It is a mere potential for resistance to
+      digital capital that needs to be activated in and through class struggles and political
+      organisation.                                          
+        Not-for-profitdigitalprojectsthattakeonformssuchasCreativeCommons,platform
+      co-operatives, public service Internet platforms, digital commons, etc. have the digital
+      potentiatochallengedigitalcapital’sPower.Todoso,theyneedtobeandbecomepartof
+      digital class struggles, new forms of (digital) strikes that blur the boundaries between
+      labour protests/consumer protests, the labour movement/the consumer protection
+      movement,socialistadvocacy/privacyadvocacy,etc.Thedigitalmeansofproductionand
+      digitallabourhavepowerpotentialsforresistance(digitalpotentia)thatareonlyrealised
+      and activated through and in class struggles and social struggles.
+        Spinoza’s philosophy is a fruitful inspiration for the critical analysis of digital cap-
+      italism.Thefocusonhisnotionofpowerisjustoneofthepromisinglinesofthinking.
+      Other topics, such as, for example, Spinoza’s notion of ideology and the connections
+                                                             
+
+[PAGE 25]
+                                                             
+                                                             
+                                                             
+      Fuchs                                         1727     
+                                                             
+                                                             
+      betweenthephilosophiesofHegelandSpinozaarefurthertopicsthatpromiseinteresting
+      and important foundations for future analyses of digital capitalism.
+                                                             
+      Declaration of conflicting interests                   
+      Theauthor(s)declarednopotentialconflictsofinterestwithrespecttotheresearch,authorship,and/
+      orpublication of thisarticle.                          
+                                                             
+      Funding                                                
+      Theauthor(s)receivednofinancialsupportfortheresearch,authorship,and/orpublicationofthis
+      article.                                               
+                                                             
+      ORCID iD                                               
+      ChristianFuchs https://orcid.org/0000-0003-0589-4579  
+                                                             
+      Notes                                                  
+      1. Kalpokas(2021)arguesthat‘Spinoza’sideasonmonism,causalityandaffectiveinteractionsas
+        the essenceof the realityof everything’(719)have gainednewimportance in the digitalage
+        wherethereare‘complexagglomerationsinvolvingtheindividual,otheronlineusers,code,data,
+        digitalsignals,devicesandgadgetsofvariouskindsandcommunicationsinfrastructure,allof
+        themjointlybutonlyprecariouslysustainingakindofselfthatshouldbebetterconceivedofas
+        post-human’ (704–705), which would make the combination of Spinoza’s thought and post-
+        humanistphilosophyimportant.Finelli(2021)stressesthatSpinoza’sEthicsconnectsbodyand
+        mindandestablished‘amaterialistic-corporealconceptionofthedistinctionbetweengoodand
+        evil’ and a ‘materialistic ethics of feeling’ (18) that considers good what increases human
+        feelingsofhappinessandbadwhatincreaseshumanfeelingsofsadness.Hearguesthattherise
+        ofdigitaltechnologieshasbroughtaboutthethirdgreattransformationofsociety.Accordingto
+        Finelli,thistransformationhas,however,beenaccompaniedbytheriseofadigitaltechnological
+        determinism,anideologythatclaimsthattheworldcanbereducedtocomputationandwhere
+        ‘humanintelligenceitselfisconsideredasacomputationalmachine’(20).Spinoza,Finellisays,
+        gainsnewimportanceforchallengingthisideologybecauseheremindsusthatknowledgeisnot
+        digitaldatabutemergesfrominformation,includingdigitaldata,whenitis‘deeplyconnected
+        with feeling’ (21).                                  
+      2. Data source: https://www.statista.com/statistics/711419/united-kingdom-freelancing-
+        professionals-type-of-work/, accessedonJanuary3,2024.
+      3. Datasource: https://www.similarweb.com/de/top-websites/,accessed onOctober 7,2024.
+      4. Data source: https://www.destatis.de/DE/Themen/Arbeit/Arbeitsmarkt/Erwerbstaetigkeit/
+        Tabellen/EWT-Corona-Betriebsgroesse.html,accessed onJanuary3,2024.
+      References                                             
+      Balibar,E´. 2008. SpinozaandPolitics. London:Verso.    
+      Balibar,E´.2012.“Spinoza’sThreeGodsandtheModesofCommunication.”EuropeanJournalof
+         Philosophy20(1): 26–49.https://doi.org/10.1111/j.1468-0378.2012.00511.x
+                                                             
+                                                             
+                                                             
+
+[PAGE 26]
+                                                             
+                                                             
+                                                             
+      1728                         Philosophy and Social Criticism 51(10)
+                                                             
+                                                             
+      Balibar, E´., Ted Stolze, and Emilia Giancotti. 1989. “Spinoza, the anti-Orwell: The Fear of the
+         Masses.”Rethinking Marxism2 (3): 104–139.https://doi.org/10.1080/08935698908657878
+      Boltanski,L.,andE` Chiapello.2005. TheNew Spiritof Capitalism.London: Verso.
+      Chan, J., M. Selden, and N. Pun. 2020. Dying for an iPhone. Apple, Foxconn, and the Lives of
+         China’sWorkers. Chicago, IL:Haymarket.              
+      dePeuter,G.,andN.Dyer-Witheford.2010.“CommonsandCooperatives.”Affinities:AJournalof
+         RadicalTheory,Culture,andAction 4(1): 30–56.        
+      Finelli,R.2021.“Marx,SpinozaandtheNewTechnologies.”InternationalGramsciJournal4(2):
+         3–24.https://ro.uow.edu.au/gramsci/vol4/iss2/4/     
+      Foucault,M. 1977.Discipline andPunish.NewYork:Vintage. 
+      Foucault,M.1980.Power/Knowledge:SelectedInterviewsandOtherWritings,1972-77.Brighton:
+         Harvester.                                          
+      Fuchs,C. 2014.Digital LabourandKarl Marx.NewYork: Routledge.
+      Fuchs,C. 2015.CultureandEconomy in theAge ofSocial Media. NewYork:Routledge.
+      Fuchs,C.2017.“RaymondWilliams’CommunicativeMaterialism.”EuropeanJournalofCultural
+         Studies 20(6): 744–762. https://doi.org/10.1177/1367549417732998
+      Fuchs,C.2020.CommunicativeSocialism/DigitalSocialism.tripleC:Communication,Capitalism
+         &Critique 18(1): 1–31. Available at:https://doi.org/10.31269/triplec.v18i1.1144
+      Fuchs,C. 2021.Social Media: ACritical Introduction.3rd ed. London:Sage.
+      Fuchs,C. 2022.Digital Capitalism.London:Routledge.     
+      Fuchs,C.2023.“TheProblemsofBase/superstructureandIdeologyintheWorksofStuartHall,
+         GeorgLuka´cs,andRaymondWilliams.”TheCommunicationReview,OnlineFirst.https://doi.
+         org/10.1080/10714421.2023.2242068                   
+      Fuchs,C. 2024.Social Media: ACritical Introduction.4th ed. London:Sage.
+      Gill,R.2007.TechnobohemiansortheNewCybertariat?NewMediaWorkinAmsterdamaDecade
+         afterthe Web. Amsterdam: Institute of Network Cultures.
+      Habermas,J.1991.TheStructuralTransformationofthePublicSphere.AnInquiryintoaCategory
+         ofBourgeois Society. Cambridge, MA:MITPress.        
+      Hardt, M. 1991. “Translator’s Foreword.” In The Savage Anomaly. The Power of Spinoza’s
+         Metaphysics and Politics, edited by A. Negri. Minneapolis, MN: University of Minnesota
+         Press, xi–xvi.                                      
+      Hardt,M.,andA.Negri.1994.LaborofDionysus.ACritiqueoftheState-Form.Minneapolis,MN:
+         University of Minnesota Press.                      
+      Hardt, M.,andA.Negri. 2000. Empire.Cambridge, MA:Harvard University Press.
+      Hardt,M.,andA.Negri.2004.Multitude.WarandDemocracyintheAgeofEmpire.NewYork:
+         Penguin.                                            
+      Hardt,M.,andA.Negri.2009.Commonwealth.Cambridge,MA:TheBelknapPressofHarvard
+         University Press.                                   
+      Hardt, M.,andA.Negri. 2017. Assembly.Oxford: Oxford University Press.
+      Hegel,G.W.F.2010.The Scienceof Logic.Cambridge: CambridgeUniversity Press.
+      Kalpokas, I. 2021. “Towards an Affective Philosophy of the Digital: Posthumanism, Hybrid
+         AgglomerationsandSpinoza.”PhilosophyandSocialCriticism47(6):702–722.https://doi.
+         org/10.1177/0191453720916522                        
+                                                             
+
+[PAGE 27]
+                                                             
+                                                             
+                                                             
+      Fuchs                                         1729     
+                                                             
+                                                             
+      Lazzarato,M.1996.“Immaterial Labor.”InRadicalThoughtinItaly,editedbyP.VirnoandM.
+         Hardt, 132–146. Minneapolis, MN:University of Minnesota Press.
+      Lipietz,A.1987. MiragesandMiracles. TheCrises of GlobalFordism. London:Verson.
+      Marx,K.1857/1858. Grundrisse.London: Penguin.          
+      Marx,K.1867.Capital Volume 1.Princeton, NJ:PrincetonUniversity Press.
+      May,M.S.2009.“SpinozaandClassStruggle.”CommunicationandCritical/CulturalStudies
+         6 (2): 204–208. https://doi.org/10.1080/14791420902867948
+      Mosco,V.,andC.McKercher.2009.TheLaboringofCommunication.WillKnowledgeWorkersof
+         the WorldUnite?Lanham, MD:Lexington.                
+      Negri, A.1991a. MarxbeyondMarx. Lessonsonthe Grundrisse. NewYork:Autonomedia.
+      Negri, A. 1991b. The Savage Anomaly. The Powerof Spinoza’s Metaphysics and Politics. Min-
+         neapolis,MN:University ofMinnesota Press.           
+      Negri, A.2003. Timefor Revolution.NewYork: Continuum.  
+      Negri, A. 2004. Subversive Spinoza: (Un)contemporary Variations. Manchester: Manchester
+         University Press.                                   
+      Negri, A.2017. Spinoza: ThenandNow. EssaysVolume 3.Cambridge: Polity.
+      Negri, A. 2019. “The Appropriation of Fixed Capital: a Metaphor?” In Digital Objects, Digital
+         Subjects:InterdisciplinaryPerspectivesonCapitalism,LabourandPoliticsintheAgeofBig
+         Data,editedbyD.ChandlerandC.Fuchs,205–214.London:UniversityofWestminsterPress.
+         https://doi.org/10.16997/book29.r                   
+      Qiu,J.L.2017.GoodbyeiSlave.AManifestoforDigitalAbolition.Champaign,IL:Universityof
+         Illinois Press.                                     
+      Read,J.2022.The Production of Subjectivity.Leiden:Brill.
+      Read,J.2024.The DoubleShift. Spinoza andMarxonthePolitics of Work.London:Verso.
+      Spinoza,B.de.1675-1677/2002.PoliticalTreatise.InM.L.Morgan(Ed.),SpinozaCompleteWorks
+         (pp.676–754).Indianapolis,IN: Hackett.              
+      Spinoza,B.de.1677/2002.Ethics.InM.L.Morgan(Ed.),SpinozaCompleteWorks(pp.213–382).
+         Indianapolis,IN:Hackett.                            
+      Spinoza,B. de. 2002.In: M.L. Morgan(ed). Complete Works.Indianapolis, IN:Hackett.
+      Thalheimer, A. 1928. “Die Klassenverha¨ltnisse und die Klassenka¨mpfe in den Niederlanden zur
+         ZeitSpinozas.”InSpinozasStellunginderVorgeschichtedesDialektischenMaterialismus,
+         editedbyA.ThalheimerandA.M.Deborin,11–39.Vienna:VerlagfürLiteraturundPolitik.
+      Tronti, M.2019. Workers andCapital.London:Verso.       
+      Weber,M.1978. EconomyandSociety.Berkeley,CA: University of California Press.
+      Williams,R. 1977. MarxismandLiterature.Oxford: Oxford University Press.
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             

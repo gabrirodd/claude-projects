@@ -1,0 +1,1039 @@
+[PAGE 1]
+                                                             
+                                                             
+                                                             
+                                                             
+      Article                                                
+                                                             
+                                         PhilosophyandSocialCriticism
+                                         2025,Vol.51(9)1548–1567
+      Towards   a decolonial political                       
+                                         ©TheAuthor(s)2024   
+      theory: Thinking  from the zone                        
+                                         Articlereuseguidelines:
+      of nonbeing                        sagepub.com/journals-permissions
+                                         DOI:10.1177/01914537241229055
+                                         journals.sagepub.com/home/psc
+      Charles des Portes                                    
+      UniversityofLeeds,UK                                   
+                                                             
+      Abstract                                               
+      Thisarticle offerstooutlineadirection foradecolonialpoliticaltheory basedonAime´
+      Ce´saire’s and Frantz Fanon’s thoughts. In doing so, I will first discuss some work of
+      comparative political theory that could be associated with an attempt to decolonize
+      political theory. Rather than a systematic critique of these works, this article aims to
+      outlinesomeoftheirlimitsfromadecolonialperspective,suchastheirembedmentina
+      continentalontology/logic,andtheirover-emphasisonmethodologythatcanleadtoan
+      instrumental account of politics. In contrast, I will argue for a decolonial existential
+      political theory that grounds its investigation in what Frantz Fanon called ‘the zone of
+      nonbeing’andthattakespoliticsasfirstphilosophy.Tomakemypoint,IwilldiscussAime´
+      Ce´saire’s Letter to Maurice Thorez and Frantz Fanon’s Political Theory of the Damne´s.
+                                                             
+      Keywords                                               
+      decolonialthought,phenomenology,existentialphilosophy,politicaltheory,comparative
+      political theory                                       
+                                                             
+                                                             
+      In 2015, Charles Mills published an article proposing to decolonize Western political
+      philosophy.ThisimportanttextfocusedontheAnglophoneanalytictraditionofpolitical
+      philosophy and one of its most prominent proponents, John Rawls. In his essay, Mills
+      criticized the analytic philosophers’ turning away from issues such as imperialism and
+      colonialism,whichwereimportantthemesofthecontinentaltradition,withauthorssuch
+      as Jean-Paul Sartre and Hannah Arendt. Moreover, Mills proposed to acknowledge the
+      racial dimensions of the canon and to unsettle the coloniality1 of Rawls’ normative
+      assumptions.Inotherwords,hisworkwasaboutcritiquingtheEurocentrismof(analytic)
+                                                             
+      Correspondingauthor:                                   
+      CharlesdesPortes,SchoolofPoliticsandInternationalStudies,UniversityofLeeds,LeedsLS29JT,UK.
+      Email:C.desPortes@leeds.ac.uk                          
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+      des Portes                                    1549     
+                                                             
+                                                             
+                                                             
+      political philosophy. Attention to the coloniality of Euromodern political theory and
+      Western political concepts and categories is not new and has been pursued by several
+      scholars since Anibal Quijano’s canonical article on the coloniality of power (Quijano
+      1992; Quijano and Ennis 2000). Following from this, decolonial thinkers have coined
+      conceptsandtheoriessuchasthecolonialityofbeing,thecolonialityofhumanrights,and
+      thecolonialityofgender(Lugones2016;Maldonado-Torres2007,2017).Inotherwords,
+      the point is to unsettle the underside or dark side of Modernity (Dussel and Mendieta
+      1998; Mignolo 2011). Yet, some theorists like David Meyer Temin argue that decolo-
+      nizing a discipline such as political theory must go beyond undoing Eurocentrism. For
+      him,‘thedecolonizationofpolitical,social,andculturaltheoryhaslargelyproceededas
+      an enterprise directed at a critique of the parochial viewpoints of Western political
+      theorizing’(Temin2023,236).Inotherwords,forTemin,decolonialtheory,inpractice,
+      often represents only an epistemological critique of the Eurocentric universalism of
+      political concepts. Using the example of developmentalism and the work of Walter
+      Rodney,Teminthusarguesthattheprojectof‘decolonizing’shouldconsistofaneffort‘to
+      rework developmental categories in service of worldly projects of decolonization in
+      practice’ (2023, 236). From Charles Mills and Walter Mignolo to David Meyer Temin,
+      then,thedisputeisaboutthemeaningof‘decolonizing’.Accordingly,andasIwilldiscuss
+      in this article, those disputes address metatheoretical matters as they delve into the
+      question of the formulation of a theory by interrogating its foundations.
+        More generally, it could be argued that these attempts to decolonize political theory
+      havebeencarriedoutwithinanewformofpoliticaltheorycalledcomparativepolitical
+      theory(CPT).Indeed,CPThasbeendevelopedforseveraldecadeswiththepromise‘to
+      correctpoliticaltheory’sparochialism’(Ilieva2022,698).Thisisanattempttodiversify,
+      expand and pluralize political theory by using a comparative method. According to
+      Evgenia Ilieva, CPT pursues two agendas. The first one seeks ‘to transform the disci-
+      plinary mainstream of political theory into a less geo-culturally exclusive landscape’,
+      willing‘toexplodetheboundariesandpracticeofpoliticaltheory’.Thesecondonedoes
+      not aim ‘to transform political theory per se but merely to create a space for encounter
+      withinwhichothertraditionscanbemeaningfullyengaged’(Ilieva2022,700).Thesetwo
+      agendas are thus metatheoretical and epistemological. They respectively aim to change
+      the landscape of knowledge (production) by expanding it, and in the same move, to
+      provincializeEuropeandNorthAmerica,andcreatethepossibilityofaWest/Non-West
+      dialogue without reproducing epistemic colonialism. These agendas can take different
+      formssuchasthecritiqueofEurocentrismalongthelinesofEdwardSaid’sOrientalism
+      (2003).ItcanalsotaketheformofrevisitingaconceptfromaGlobalSouthperspective
+      such as Temin’s account of development from the perspective of Walter Rodney that I
+      mentioned above. Or it can be illustrated by the attempt to go beyond the critique of
+      Eurocentrismbybuildingapracticalpoliticaltheoryofdecolonizationbasedontheanti-
+      colonial politics of Fanon and Gandhi (Getachew 2019; Getachewand Mantena 2021),
+      creating a South-South dialogue. However, some scholars such as Sanjay Seth (2020)
+      argues that political theory is inherently Western and the very fact of deparochializing
+      politicaltheorytendstoimposeaWesternviewonnon-Westernthinkerswhichresultsina
+      distortion of the understanding of non-Western traditions and thoughts. From the
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+      1550                         Philosophy and Social Criticism 51(9)
+                                                             
+                                                             
+      perspectiveofthecreolizationofpoliticaltheory,JaneGordonarguesthat‘comparative
+      political theory still needs geopolitical-spatial designators of the “near” and the “far”’
+      (J.A. Gordon 2014, 210) even if it can seek to overpass it by creating a dialogue.
+      Therefore,theneedtocreatean‘inter-civilizationaldialogue’(Bowden2008;Dallmayr
+      andManoochehri2007;J.A.Gordon2014)paradoxicallyrigidifiesthecategoriesitseeks
+      toovercome.Followinginthefootstepsoftheseworks,thisarticlewillofferacritiqueof
+      someworkfromcomparativepoliticaltheoristsandproposeanalternativedirectionfora
+      decolonial political theory. To be clear, this is not a rejection of CPT per se but an
+      emphasis on what I consider to be some of its limits from a decolonial perspective.
+        To elucidate this, I will first look at Fred Dallmayr’s and Farah Godrej’s work to
+      highlightsomeofthoselimitations.Mymainpointwillbethatthereisatransformationof
+      political-social problems (colonial geography) into methodological problems. Conse-
+      quently,Iwillarguethattheyofferamethodologicalsolutiontoacolonial-political-social
+      problem. In other words, those works are embedded in what Nelson Maldonado-Torres
+      calledacontinentalontology/logic(Maldonado-Torres2006).Incontrast,thisarticlewill
+      suggest an alternative direction topolitical theory. Todevelop this new direction, I will
+      lookatAime´ Ce´saire’sLettertoMauriceThorez(1956)andargueforapoliticaltheory
+      thattakespoliticsratherthanepistemologyasfirstphilosophy.Ultimately,thearticlewill
+      lookatwhatIcallFrantzFanon’spoliticaltheoryofthedamne´sandargueforadecolonial
+      political theory that entertains a phenomenal relationship to reality. In other words, the
+      article will outline an existential decolonial political theory based on Frantz Fanon and
+      Aime´ Ce´saire.                                        
+      Comparison as method                                   
+      Comparative Political Theory was created as a way to deparochialize and criticize Po-
+      litical Theory’s Eurocentrism. However, this field is broad and heterogeneous. Indeed,
+      somecompetinginterpretationsexistaswellasinternalcritiques.Theproblemsraisedby
+      comparative political theorists can be as diverse as how to translate a concept into a
+      context and vice versa, how to create a dialogue between different conceptual geneal-
+      ogies,etc.Basically,howtodealwiththeWest/non-Westcomparison,inordertoextend
+      or transform political theory’s geo-cultural landscape, as Ilieva’s characterization of
+      CPT’sagendatestifies.Thepurposeofthisarticleisnottoprovideasystematiccritiqueof
+      CPTbutrathertoseeifitsmostbasicparadigm,namelyacomparisonthattakestheform
+      ofdialogue,canbeseenasusefulforadecolonialpoliticaltheory.Indoingso,Iwillfocus
+      on two main authors of that field, Fred Dallmayr who participated to its creation and
+      problematization,aswellasFarahGodrejwhopushedfurthertheproblematizationoftwo
+      binariesconstitutivetoCPT,namelySelf/OtherandWest/non-West.Iwillarguethatthose
+      authorsmainlysuggestmethodologicallysolvingtheproblemofWest/non-Westdialogue
+      and division without digging into its political foundations and implications. Indeed, as
+      AndrewMarchargues,‘comparisonmustbe,inthefirstplace,amethod’(March2009,
+      537).Accordingly,thissectionwillfollowthehypothesisthatCPTtransformsapolitical
+      problem (West/non-West divide) into a methodological problem by the very move of
+      willingnesstosolvethisproblemmethodologically.Iwillultimatelyarguethatitleadsto
+                                                             
+                                                             
+
+[PAGE 4]
+                                                             
+                                                             
+      des Portes                                    1551     
+                                                             
+                                                             
+                                                             
+      (1) a displacement of politics that is now considered as a means-end and (2) a dis-
+      placement of the initial problem that concerns decolonial theorists, namely, the racial/
+      colonialdivisionoftheworld,hencetheWest/non-Westdivide.Toelucidatethis,Iwill
+      showthattheproblemoflocationcanbeexplainedbywhatIthinktobeCPTcontinental
+      logic/ontology.Thereafter,Iwilllookathowthisproblemisdealtwithmethodologically,
+      which leads to an instrumental conception of politics. 
+        Asitshouldbeclearbynow,thespecificityofCPTistheimportanceofexpandingthe
+      theoreticaldialoguebeyondtheEurocentricWesternmonologue.AndbecauseCPT,asa
+      project,isconstitutedbythisobjective,itisdependentonaspecificcartography,onethat
+      dividestheWestandtherestinaWest/non-WestorGlobalNorth/GlobalSouthaxis.Let
+      mefirstexemplifythisstatementbylookingatFredDallmayr’swork.Hispropositionofa
+      comparativepoliticaltheoryemerged‘incontrasttohegemonicandimperialistmodesof
+      theorizing’, to suggest a dialogical and hermeneutic theory which relies ‘on mutual
+      interpretation’ (Dallmayr 2004, 249). Dallmayr found the philosophical inspiration for
+      this opening of the West towards the rest in Continental Philosophy, and mainly in the
+      work of Martin Heidegger and Hans-Georg Gadamer. Indeed, following those authors,
+      Dallmayr takes hermeneutics as ‘an understanding through an intensive dialogue, or
+      encounter […] between self and other’ (2004, 250–1). Another source of inspiration is
+      found in Charles Taylor’s multiculturalism which highlights ‘dialogical encounter and
+      recognition’(Dallmayr2004,252).Theaimofthisrelationalontologyistomovetowards
+      a universalism that takes into account cultural differences and takes the question of
+      ‘otherness’ seriously. In other words, this Self-Other ontology that guides Dallmayr’s
+      workaswellasothertheoristsassumesalogicofrecognitionofdifferencesthatwillshape
+      thedialogicalrelationbetweentheSelfandtheOther.FromDallmayr’sperspective,CPT
+      is conceived as a dialogical practice that is marked by cross- and inter-cultural under-
+      standings(2004,249).However,asonecanimagine,thisdialogicallogicisnotbetween
+      twodifferentWesternthinkersorcultures,atleastnotinCPT.Indeed,whilethemethod
+      couldbeappliedtoit,thepointisnottocreateacross-culturaldialoguebetweenAnglo-
+      American and French Continental philosophy. In Dallmayr’s word, we must take the
+      world,inits‘ongoingprocessofglobalization’,asa‘globalvillage’(2004,249).While,
+      within the frame of CPT, this approach is valuable to deparochialize political theory as
+      well as to displace its Eurocentrism, from a decolonial perspective, I believe that this
+      approachisproblematicbecauseitremainsembeddedinacontinentallogic,meaningthat
+      it reifies the West/non-West as an almost natural cartography, where we just need to
+      acknowledge and mutually learn from our differences.   
+        Let me start by saying that this cartography has a history; it is not a pure data or a
+      natural law that transcends history. Indeed, the West/non-West map is inherited from
+      colonialconquestscharacterizedbytheexploitationandappropriationoflands,resources,
+      andpeople.Priortothat,othergeographiesororganizationsoflocationsthatdidnotput
+      Europeatitscenter,oreveninthenorth existed (L.R. Gordon2011;Sonneborn2006).
+      Fromthatperspective,geographyisnotonlyaboutlatitudeandlongitudebutalsoabout
+      the political organization of the world and the relationship between different locations
+      (Rose-Redwoodetal.2020).Forinstance,theWestisalsoapoliticalcategory.AsWalter
+      Mignoloargues,‘cartographyappropriatedspaceinthenameofgeography’(2011,185).
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+      1552                         Philosophy and Social Criticism 51(9)
+                                                             
+                                                             
+      On the other hand, by looking at the work of the 16th-century geographer Abraham
+      Ortelius, Monica Matei-Chesnoiu argues that geography is a practice that ‘orders and
+      represents physical, social, and imaginative worlds’ (2012, 13). From that perspective,
+      Matei-Chesnoiu follows, geography and cartographies are instruments that rationalize
+      our understanding of the world (2012). Accordingly, the comparison in CPT can be
+      considered as a shifting of the geographical framing of comparison, and not a shift in
+      cartography. Or to put it differently, it is not a shifting of what Lewis Gordon calls the
+      geographyofreason(L.R.Gordon2011).Indeed,byrationalizingourunderstandingof
+      the world, ‘location’ is understood from a certain geographical perspective as a disci-
+      plinarytruththatnarratestheWest/non-Westdivideasanaturalgeographicaldivideand
+      hidesitspoliticaldimension.Therefore,itallowsitsreification.Indeed,cartographyisnot
+      justaneutralzero-pointofobservation‘fromwhichtheworldcanbenamed’,butitwas
+      ‘tied to a strategy of military and ideological control over other populations’ (Castro-
+      Gómez 2021, 199).                                      
+        The shift in location is operated within what Maldonado-Torres called a continental
+      ontology or logic (2006, 2011). Here, I understand ‘continental ontology’ both as a
+      specific philosophical traditionandas aspecificmappingoftheworld.Moreover, Iput
+      that both are related to each other. Indeed, for instance, Dallmayr extensively refers to
+      Gadamer,whoisamajornameofcontinentalphilosophy,fortwomainreasons.First,for
+      his hermeneutic approach, and second to mention his observation of the world as a
+      ‘worldwide network of communications’, understood as a ‘unity in diversity’, after the
+      independence of formerly colonized countries (Dallmayr 2009, 32–3). In that sense,
+      GadamerexemplifieswhatMaldonado-Torresunderstandbycontinentallogic,asbotha
+      philosophical tradition and a colonial cartography. The problem with the continental
+      ontology is that it tends to take continents (Europe, Asia, Africa, etc.) as natural geo-
+      graphicalcoordinatesinwhichpeoplehappentolive.Indeed,thereareWesternthinkers
+      and non-Western thinkers. However, what is forgotten here, is that the West/non-West
+      locations are political. For instance, as Nelson Maldonado-Torres reminds us, ‘African
+      unitywasfor[Fanon]strictlyapoliticalprojectdrivenbyinterestsindecolonization,not
+      an ontological reality’ (2006, 3). Therefore, a continental ontology creates a symmetry
+      betweenlocationsastheybotharedifferentfromeachother.Inthatsense,itisa‘unityin
+      diversity’ as Dallmayr said (2009, 33), following Gadamer.
+        Fromthatperspective,ageographicsymmetrydisplacesapoliticalasymmetry.Andit
+      ispreciselywhatgeographicalrationalizationisabout,makingitseemsasiftheWestand
+      non-Westarepurelynaturalgeographicallocations.Thesymmetrymakesitseemthat
+      thenon-WestwasanOtherthatistobeunderstoodtocreateadialoguewithitsOther
+      whichistheWest.Inthatsense,‘Self’and‘Other’areinterchangeablepositions.Here
+      wefindDallmayr’sreferencetoTaylor’srecognitionofdifferences.However,asIsaid
+      earlier, thisgeographical distinction is the result ofcolonialism and is still a sign ofa
+      (neo)colonialpartitionoftheworld.Moreover,ifone follows Enrique Dussel(1995),
+      colonialism is less a pure antagonism between colonized and colonizers (Self-Other)
+      than a totalization, understood as an eclipse of the Other, of Alterity, within one
+      paradigm. Indeed, colonized people do not exist without colonizers, and conversely.
+      Therefore, the non-West is not to be understood as the Other of the West, but as its
+
+[PAGE 6]
+                                                             
+                                                             
+      des Portes                                    1553     
+                                                             
+                                                             
+                                                             
+      ‘constitutive sub-other’ (Maldonado-Torres 2006, 4). To put it differently, the West is
+      constitutiveofthenon-Westasmuchasthelatterisconstitutiveoftheformer.Yet,thisco-
+      constitutionisnotsymmetricalbutarelationshipofexploitation-ofresources,lands,and
+      people. As Lewis Gordon put it, ‘the black is […] indigenous to a world that rejects
+      blacks’(2023,132).Thatsaid,Iwanttoillustratehowthisproblemoflocationissolved,
+      or intended to get solved, by focussing on the work of Farah Godrej who relies on
+      Dallmayr.Myargumentisthatbecauseofthiscontinentallogicthatdisplacesacolonial
+      political geography to a cartography of natural spaces, the dialogical problem of the
+      recognitionofdifferences,orbasicallythequestionofhowtocreateaunityindiversityis
+      solved by the means of method. Accordingly, I believe that this does not address the
+      problem of the colonial geography but reifies it.      
+        It has already been highlighted by some scholars such as Roxanne Euben that
+      comparative political theory ‘has been accompanied by a disproportionate focus on
+      methodology’ (2022, 3). Indeed, when we look at recent and less recent academic
+      productions, there is a heavy focus on how to do comparative political theory, or
+      consideringtheancientGreeketymologyofmethod,methodos(μέθoδoς),literallywhat
+      waytofollowtopursueresearchinCPT.Someargueforahermeneuticcircletocreatea
+      West/non-West dialogue (Godrej 2011; Ilieva 2015, 2022), others for a critical and re-
+      constructive paradigm (Getachew and Mantena 2021), and some for a contextualized
+      approach (Little 2018), amongst other methods. Indeed, Ilieva explains the sometimes-
+      conflicting approaches within CPTas a commitment to find ‘more adequate methods’
+      (2022,699),regardingthedifferentchallengesposedbyCPT.RoxanneEubencalledthis
+      overemphasis a ‘methodological machine’ that aims to make political theory ‘more
+      hospitabletoquantification’(2022,4)and,mostimportantly,closertotheothersubfields2
+      of political science that we find in North American universities. Following Lewis
+      Gordon’swork,thiswaytoflattenpoliticaltheorysoitcanfitbetterinpoliticalscience,in
+      general,couldbeassociatedwithanontologizationofthediscipline.Andthisisprecisely
+      the point of what Gordon called disciplinary decadence which is ‘the ontologizing or
+      reificationofadiscipline’(2006,4),asthesearchforadisciplinarypurity.Inotherwords,
+      by overly focussing on method, the expansion of political theory into comparative
+      political theory would paradoxically be a way to rigidify the discipline itself. Here, my
+      purposeistotakeseriouslyandextendEuben’sthesisonthe‘methodologicalmachine’by
+      saying that this overemphasis on method tends to put epistemology as first philosophy.
+        The problem is not to look at method as such but to put epistemology as the first
+      philosophy.Fromthatperspective,thenon-WesternthoughtsthatCPTaimstodiscover,
+      explain,andaddtoknowledge,becometheproblemofinquiry.DuBoisarguedthatblack
+      people were not only a problem to theorize or to know about, but also people having
+      problems. Following the same idea, the dialogical logic of recognition, non-Western
+      thinkers are not viewed as thinkers facing problems, but as a problem to solve. For
+      Lewis Gordon, ‘they [non-Western thinkers here] become extraneous to its [the system]
+      functioninspiteofhavingalreadybeengeneratedbysuchfunctions’(2011,97).Toputit
+      differently,politicaltheorygeneratesnon-Westernthinkersandthoughtsasextraneous,so
+      the problem of contemporary political theory is how to deal with this externality or ex-
+      teriority.Inotherwords,thefirstproblemismethodological:‘Howtodealwithdifference?’.
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+      1554                         Philosophy and Social Criticism 51(9)
+                                                             
+                                                             
+        Toillustratethatpoint,letmefocusontwoimportantmethodologicalpointsmadeby
+      Farah Godrej in her book Cosmopolitan Political Thought (2011). The work of Farah
+      Godrej is interesting in that it actively problematizes the ‘West/non-West’ and ‘Self/
+      Other’ binaries by bringing a cosmopolitan approach to comparative political theory.
+      Following Fred Dallmayr, she suggests a hermeneutic approach to Otherness that is, I
+      believe,bestillustratedbyherideasof‘self-dislocation’and‘self-relocation’.According
+      to her, the former is a ‘metaphorical dislocation of the self from the comforts of dis-
+      ciplinary home and training, from settled practices of intellectual production, and from
+      settled vantage points about such production’. In other words, it is a reflection of one’s
+      own practice ‘from within the very civilizations that confront us with their otherness’
+      (Godrej 2011, 38–9). On the other hand, the self-relocation ‘allows one to resituate
+      oneselfwithinfamiliardebateswithareconstitutedvisionthatbringsnewmethodological
+      andsubstantiveinsightstobearonthem’(Godrej2011,75).Toputitdifferently,itisa
+      waytobringanewvisiontoone’sdisciplinaryhome.Thismethodologywasofferedby
+      Godrej to answer a possible problem of mistranslation and misinterpretation in com-
+      parativepoliticaltheory(2011,51).Therefore,thisdialecticbetweenself-dislocationand
+      relocationisaresponsetotheproblemof‘howtodealwiththeexternalityofnon-Western
+      thought’ that I mentioned above.                       
+        Thisentailsthequestion:canmethodsolveapoliticalproblem?Fromthatperspective,
+      CPTbearstherisktobecomeadisciplinethatismainlyconcernedwithmethodsandthe
+      assessment of those methods. By focussing on methodology, the inquiry focuses on a
+      potentialspecificrelationshiptoreality.However,thisoveremphasisonmethodbearsthe
+      paradoxicalrisktoleavereality,understoodasexistence,aside.ThisiswhyFanon(2015,
+      5)urgedustoleavemethodsbehindtofocusonthelivedexperience,butIwilldiscuss
+      that later. Indeed, method posits a law, a norm, to respect because ‘it is governed by
+      repeatability,asafunctionofexperimentationandprediction’(L.R.Gordon2006,44–5).
+      Alawpredictswhatitwillrealize;therefore,itneedsasetofnorms,ifnotontologies,that
+      are true every time. For example, creating the best way to conduct a West/non-West
+      dialogue postulates a homogeneity of the West/non-West, that does not consider non-
+      WesternelementsintheWestandconversely,especiallyifonetakesthecaseofinternal
+      colonialism.3 To be clear, my purpose is not to say that CPTcannot be useful, but my
+      claim is that this overemphasis on method is limited when it comes to a decolonial
+      politicaltheory,alsobecauseoftherelationshipthatisentertainedbetweenmethodand
+      politics.                                              
+        Thetendencytoputmethodasanormcanbetranslatedintoaninstrumentalaccountof
+      politicsaswell,preciselybecauseamethodmakesexplicitaspecificrelationshiptoreality
+      that is potentially considered the best or more accurate. Following Bonnie Honig’s
+      formula (1993), Roxanne Euben argues that this over-emphasis on method operated a
+      displacementofpolitics,whichis‘adisplacementofthelocusofpoliticsfromtheworld
+      oflaypeopleandpracticestothatofacademics’(2022,5).Basically,politicsbecomesa
+      methodological problem. Here, I want to suggest that this normative and instrumental
+      accountofpoliticsleadstoleavingthelivedexperience,orthephenomenalreality,aside.
+      Indeed, the ‘methodological machine’ entails a certain rationalization of politics that
+      changesitslocusfromthelivedexperiencetoadisciplinarymethod.Moreover,thisfocus
+
+[PAGE 8]
+                                                             
+                                                             
+      des Portes                                    1555     
+                                                             
+                                                             
+                                                             
+      onmethodisnotunfamiliartothehistoryofphilosophyandknowledge.Atthebeginning
+      of Euromodernity, some philosophers felt the need to depart from the scholastic Aris-
+      totelianism and articulate a practical dimension to philosophy. At the intersection of
+      scientia and techne, philosophy was conceived to solve practical problems by using
+      ‘systematic procedure, or method’ (Kisner 2005, 138). In other words, epistemology
+      became the first philosophy.                           
+        Inarecentarticle,AdomGetachewandKarunaMantenaaimedatconstitutingananti-
+      colonialpoliticaltheoryasacriticalandreconstructiveprojectbyrelyingonGandhi’sand
+      Fanon’s work, acknowledging their different geo-political situation and theoretical ap-
+      proaches. Yet, for the authors, both Fanon and Gandhi are committed to a critical and
+      reconstructiveapproach.Briefly,theirprojectcouldbeassociatedwithapoliticaltheory
+      of decolonization that takes the question of imperialism seriously from a non-Western
+      perspective. Their work is about going beyond the focus on Eurocentrism that can
+      sometimes be present in comparative political theory to propose a paradigm that takes
+      critique and reconstruction into account by looking at different authors, from different
+      locations.Inotherwords,thecritiqueofEurocentrismisassociatedwithanenlargement
+      of political theory’s horizons to also offer a new scope in understanding imperialism,
+      decolonization as well as anti-colonial nationalism (Getachew 2019). It is, in a certain
+      way,ameanstoputtogetherthetwoagendasofCPTthatIdescribedpreviously(p.2).
+      However,Ibelievethatanelementismissingintheequation,moreprecisely,whatFanon
+      calledl’expe´rienceve´cue(thelivedexperience)inBlackSkin,WhiteMasks(2015).For
+      GetachewandMantena,Fanon’saccountoftheproblemofEurocentrismistiedto‘how
+      theenthrallmenttoWesterncategoriesmakesitimpossibletoproperlycognizealternative
+      futuresandenunciatestrategiesneededtoattainthem’,fromthatperspective,theysubmit
+      that Fanon’s critique is associated to ‘analytical and political models that properly
+      corresponded to the specificities of the (post)colonial context’ (Getachew and Mantena
+      2021,367).However,thisunderstandingofananalytic-politicalmodelthatwouldgivea
+      politicalstrategytofollowisproblematicbecauseitmissesFanon’saccountofthelived
+      experiencethatcannotbereducedtoananalytic-politicalmodel,amethod.Itcreatesan
+      accountofpoliticswhereamodelimpliesfollowingaspecificstrategytobeattained.In
+      thatcase,politicsisunderstoodaspoiesis,itisameans-endactivityratherthanapraxis.
+      Thinking from the zone of nonbeing                     
+      Sofar,Idescribedandcriticizedsometheoriesthatcouldbeassociatedwithagestureof
+      decolonizationbyraisingpointssuchasitscontinentallogicaswellastheoveremphasis
+      on method that displaces the locus of politics to method. In other words, a political
+      problem becomes a methodological problem. In what follows, I will sketch another
+      directionforadecolonialpoliticaltheorythatcanbesummarizedbytheformula‘thinking
+      from the zone of nonbeing’. In doing so, I will specify what I understand by ‘zone of
+      nonbeing’ by looking at Frantz Fanon’s account of it, and I will argue for a ‘post-
+      continental’ direction to political theory.            
+        InBlackSkin,WhiteMasks,Fanondefinedthezoneofnonbeingas‘anextraordinarily
+      sterileandaridregion,anutterlynakeddeclivitywhereanauthenticupheavalcanbeborn’
+                                                             
+                                                             
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+      1556                         Philosophy and Social Criticism 51(9)
+                                                             
+                                                             
+      (2015, 2). This citation says two things, 1) it describes the zone of nonbeing and 2) it
+      outlines its potential agency, in terms of praxis. Here, I will focus on the first part and
+      discussthesecondlater.TherehavebeenseveralinterpretationsofwhatFanonmeantby
+      ‘zone of nonbeing’ (Hook 2020; Sexton 2016; Sithole 2016; Thame 2011). However,
+      thereissortofaconsensusoverthefactthatitwasreferringtothecolonialracistprocess
+      ofdehumanization.ThisfactcouldbesupportedbyanotherpointmadebyFanonwhere
+      hestatedthat‘theblackmanhasnoontologicalresistanceintheeyesofthewhiteman’
+      (2015, 83). Accordingly, the zone of nonbeing would be the zone of the lack of being.
+      Now, there are two different ways to interpret that. First, from the Sartrean perspective
+      whereexistenceprecedesessenceandwherethelackofbeing,ofsubstance,isthevery
+      condition of being-for-itself as opposed to being-in-itself.4 However, this interpretation
+      wouldmissthatthereisnoontologicalresistanceintheeyesofthewhiteman.Hence,the
+      lackofbeingiscreated.ThiscouldechowhatNelsonMaldonado-Torresarguedaboutthe
+      coloniality of being. Namely, the very construction of humanity (being) by the West
+      dependsonabelow-humanity(nonbeing),soaprocessofdehumanization(Maldonado-
+      Torres2007).Moreprecisely,itreferstowhathecalledthesub-ontologicaldifferenceas
+      the‘differencebetweenBeingandwhatliesbelowBeing’(Maldonado-Torres2007,254).
+      Accordingly,LewisGordonputthat‘thisbelow-Otherness[…is]thezoneofnonbeing’
+      (2007,10).Therefore,thezoneofnon/beingcanbedescribedastwodifferentmodesof
+      existence or being in- and of-the-world.5 Moreover, the relationship between the two
+      cannot be thought of as a Self-Other relationship. Indeed, thinking from the zone of
+      nonbeingisnottothinkofalterity,buttolookatthisbelow-Otherness,thisnon-Beingas
+      both something constitutive of Being as well as the impossibility of Otherness. This is
+      whythereisaneedforwhatLewisGordoncalledashiftingofthegeographyofreason.
+      Because looking at below-Otherness implies a metatheoretical and philosophical shift.
+        Accordingly, my main aim is to (re)introduce to the category of lived experience,
+      understoodphenomenologically,thatisnotcentralinComparativePoliticalTheory,and
+      to make it central to a decolonial political theory. However, one could argue that this
+      phenomenal account of reality is still embedded in the continental logic, even if Fanon
+      gaveanon-Westernaccountofit.Indeed,fromwhatIhavesaidsofar,andmysuggestion
+      tofocusonthelivedexperience,onecouldarguethatIintendtodisplacepoliticaltheory
+      fromananalytictoacontinentallogicortradition.Asamatteroffact,onecouldalsoask
+      why I want to push a continental political theory that would be decolonial. To answer
+      these concerns, I will argue for a post-continental approach that could be illustrated by
+      what Fanon called the ‘zone of nonbeing’.              
+        In Black Skin, White Masks, Fanon argued that every ontology is unrealizable in a
+      colonizedandcivilizedsociety.Basically,ontologycannotexplainthelivedexperienceof
+      the colonized (Fanon 2015, 107–8). Indeed, throughout his book, Fanon showed how
+      Hegel’s‘BeingforOther’andSartre’saccountofthenegritude(reducedtoamomentof
+      classstruggle)werenotappropriatetounderstandthelivedexperienceoftheblackman.
+      His critique of ontology is directed at what could be called continental ontologies, or
+      ontologiesthatbelongtothetraditionofcontinentalphilosophy.ForNelsonMaldonado-
+      Torres, Fanon’s theorizing is post-continental as he worked ‘to overcome continental
+      thought’accordingto‘insightintotherealitiesofcolonizedcontextsandlivedrealities’
+
+[PAGE 10]
+                                                             
+                                                             
+      des Portes                                    1557     
+                                                             
+                                                             
+                                                             
+      (2006,4).Whatisinterestinghereisthatthezoneofnonbeingisnotonlyageographical
+      spacebutacontextualizedlivedreality,oradisposition(desPortes2022).Inotherwords,
+      itisamodeofexistence.Fromthatperspective,apost-continentalphilosophyisnotonly
+      concerned with geographical brandings, since ‘Asia’, ‘Africa’ can also be framed or
+      understoodintermsofcontinentalontologyasisthecaseinHegel(2012),Kant(2013),or
+      Heidegger’s ontological nationalism (Maldonado-Torres 2004).
+        Acritiqueofcontinentallogiccouldthenbeassociatedwithwhatiscalledacritiqueof
+      Eurocentrism. However, by mainly focussing on that, it seems as if there would be a
+      continentalandanon-continentalunderstandingofaspecificgeography,oraEurocentric
+      and a non-Eurocentric understanding. However, if one still follows Enrique Dussel,
+      colonialismislessapureantagonismbetweencolonizedandcolonizersbutatotalization,
+      understoodasaneclipseoftheOther,ofAlterity,withinoneparadigm.Indeed,colonized
+      people do not exist without colonizers, and conversely. Hence, the dilemma is not
+      continental vs. non-continental. In other words, the dilemma is not Eurocentrism vs.
+      Afrocentrism but a ‘post-continental philosophy [built] on this departure from the
+      continentallogic, thus helping todemythologize the idea ofcontinents andputforward
+      decolonized [or/and, I would add, decolonial] conceptions of space, time, subjectivity’
+      (Maldonado-Torres 2006, 3). Therefore, a decolonial political theory does not only
+      change the location but also the geographical (ontological) logic, the metageography
+      (Lewis and Wigen 1997). And I believe that what I call ‘thinking from the zone of
+      nonbeing’ is a departure from the continental logic that would say ‘thinking from the
+      West/non-West’.Inotherwords,itrequiresashiftingofthegeographyofreason.Indeed,
+      whatFanoncalledthezoneofnonbeingistheperfectgroundforitpreciselybecauseit
+      rejects the ontologies of Being, as non-applicable to those who are within the zone of
+      nonbeing. Hence, Being is not to be understood from the perspective of Being (conti-
+      nental philosophy), but from the one of nonbeing (post-continental philosophy), and it
+      exceedstheWest/non-Westdivide.Indeed,Beingandnon-Beingcanbefoundwithinthe
+      samelocation,ifonetakesabusinthesegregatedUSAwithdifferentplacesforblackand
+      white people. Accordingly, I suggest sketching a decolonial political theory that is in-
+      terested in modes of existence in the zone of nonbeing, taken as the ground where
+      decolonial politics happens, not only as a project to follow but also as praxeis.
+        Tosummarize,thezoneofnonbeingisnotjustageographicallocation,anopportunity
+      torevisitthecanonsofpoliticalthought,orthelocationofthetheorizationofanormative
+      decolonial model out of it, but an existential disposition where the decolonial can be
+      theorizedandunderstoodwithinthecolonial,orasdirectlyaddressingit.Indeed,theidea
+      of coloniality does not only uncover Eurocentrism, but it also postulates that the or-
+      ganizationoftheworldisstillcolonialinitsstructuration.Therefore,forsomethingtobe
+      ‘decolonial’ it does not necessarily need to get ‘decolonized’. For example, marronage
+      can be seen as a decolonial praxis that still happens in a colonial world.6 Yet, those
+      decolonial praxeis question the continental ontology, the colonial organization of the
+      world,andthereforetheydisplaceitandwithintheveryaction,theyopenthepossibility
+      ofnewgeographies.InFanon’sdefinition,inthezoneofnonbeing,‘anauthenticupheaval
+      canbeborn’(2015,2).Inotherwords,itisthegroundofpossibility-orthepremises-ofa
+      counter-world, such as marronage was for Sylvia Wynter (Wynter 1970, 124).
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+      1558                         Philosophy and Social Criticism 51(9)
+                                                             
+                                                             
+        Before going further, I want to specify what I mean by ‘the zone of nonbeing as an
+      existentialdisposition’.Here,IfollowLewisGordon’sdistinctionbetweenexistentialism
+      and existential philosophy. For him, ‘the body of literature that constitutes European
+      existentialism is but one continent’s response [continental philosophy] to a set of
+      problems that date from the moment human beings faced problems of anguish and
+      despair’(2000,7).Hence,existential philosophy,ortheexistentialapproach,cannotbe
+      reduced toaspecifictradition anditslocation,itisrather a waytoaddressproblems of
+      freedom, agency, or sociality ‘through a focus on the human condition’ (L.R. Gordon
+      2000, 7). Therefore, a post-continental investigation of the zone of nonbeing offers a
+      specificwayofinvestigatingcertainproblems,whichalsoentailsadifferentrelationship
+      toreality.Inacertainway,anexistentialapproachwouldlookatdifferentpraxeissuchas
+      freedomorviolenceandseehowtheyenlightenourunderstandingofcolonialismandthe
+      possibility of its dismantlement, or the decolonial modes of being and organization,
+      decolonialsocialitywithinacolonialsociety.Alltheseproblemsassumeadifferentway
+      tolookat,toinvestigate,and,asIsaid,adifferentrelationshiptoreality,lessnormative
+      and more phenomenal.7                                  
+      Political theory of the                                
+                        Damne´s                              
+      TosummarizewhatIhavesaidpreviously,thepoliticaltheorythatIamcallingforentails
+      an alternative relationship to reality, that takes its distance from the overemphasis on
+      methodandaninstrumentalaccountofpolitics,becausethestudyofthehumanworldis
+      non-static, it is not a set of causalities or natural law, but a set of human actions which
+      cannotbepredicted.Thisiswhy,forFanon,methodneedstobelefttothebotanistandthe
+      mathematician(Fanon2015,5).Heinsteadchosetofocusonwhathecalled,following
+      the phenomenological tradition, the lived experience. Precisely because this phenome-
+      nological focus allows the thinker to ‘suspend’ ontological assumptions to offer a dif-
+      ferent account of reality, more phenomenal. Here, two ‘suspensions’, if you will, are
+      needed. The suspension of the ontological account of politics as instrumental and the
+      suspensionofcontinentalontology.Accordingly,Iwillsketchanalternativedirectionfor
+      a decolonial political theory that needs to take politics as first philosophy rather than
+      epistemology. I will make my point by showing how Aime´ Ce´saire emphasized the
+      importance of politics and how Frantz Fanon illustrated the ‘thinking from the zone of
+      nonbeing’bybuildingapoliticaltheoryofthedamne´s(damned).Namely,heshowcased
+      theconstitutionofarevolutionarysubjectfromthezoneofnonbeing(thedamne´s).This
+      accountofthedamne´scouldalsobetakenastypicalofadecolonialpraxisinacolonial
+      world. This means, that a political theory of the damne´s would not be about the de-
+      colonization of praxis but about decolonial praxeis. In that sense, the focus on politics
+      rather than epistemology makes the decolonial, as a political action, precede decolo-
+      nization and not the other way around.                 
+        InExistentiaAfricana,LewisGordonarguesthatDuBoiscreatedahumanisticsocial
+      science,inotherwords,asocialsciencethatputshumanbeingsashumanbeingsatthe
+      center of the investigation. This statement echoes what I said earlier about seeing non-
+      Western thoughts as a problem to solve that also creates an instrumental relationship
+                                                             
+
+[PAGE 12]
+                                                             
+                                                             
+      des Portes                                    1559     
+                                                             
+                                                             
+                                                             
+      between theory and practice by seeing politics as a means-end activity. As I argued
+      previously, the political problem is the continental logic, namely, the colonial/racial
+      structurationoftheworldthatcouldbeassimilatedtowhatDuBoiscalled‘thecolorline’
+      (2008).Toputitdifferently,thequestionwemustfacenowismetatheoretical.Following
+      LewisGordon,themetatheoreticalquestionweansweredis‘Howtheoryisformulated?’
+      (2000,79)Indeed,theproblemwouldbetoseethenon-WestasaproblemofOthernessto
+      solve. In contrast, the decolonial political theory that I suggest proposes a different
+      metatheoretical approach, that does not intend to methodologically solve a political
+      problem.Ratheritisonethat,ifyouwill,looksatpoliticalresponsestopoliticalproblems.
+      AsmuchasLewisGordonhighlightedDuBois’insistenceonstudyingblackpeopleas
+      havingproblemsratherthanproblematicpeople,Aime´Ce´sairefollowed,whatIconsider
+      asimilarapproachinhisLettertoMauriceThorez,whichishisresignationletterfromthe
+      French Communist Party (PCF). To elucidate this, I will show how Aime´ Ce´saire ad-
+      dresses the problematic dimensions of the zone of nonbeing. Basically, what are the
+      problems ofpeopleinthatzoneandwhatarethepotentialresponses? Inotherwords,I
+      will define what could be the metatheoretical basis of a decolonial political theory that
+      looks at the zone of nonbeing.                         
+        InhisLettertoThorez,Ce´sairedescribedtwoproblemswiththeFrenchCommunist
+      Party (PCF). First, he talked about Stalinism and the relationship of the party with the
+      people who have communism as an aspiration. He argued that this relationship trans-
+      formedanideal,adream(socialism)intoanightmare(Stalinism).Itisbasicallyacritique
+      ofStalinismandbureaucracy,aswellastheincapacityofthePCFtomakeitsautocritique.
+      ThisfirstproblemcouldbeseenasinternaltothePCF.However,Ce´saireraisedanother
+      related problem that concerns those who are in the zone of nonbeing. He talked about
+      problemsthatarerelatedto‘hisqualityofamanofcolor’(Ce´saire1956).Morethanthat,
+      Ce´sairedescribedtwodifferentways,tracks,orpaths.Heopposedhis‘ways’[voies]to
+      those of French communism that cannot be confused. This statement comes from a
+      consciousness, what one could call a racial or colonized consciousness of a specific
+      disposition,amodeofbeinginandof-the-world,inthezoneofnonbeing.Thismodeof
+      existencecannotbeconfusedwiththeonefromthezoneofbeingpreciselybecauseofits
+      singularities.Ce´sairetalksaboutwhatcouldbeconsideredasfoursingularitiesofthezone
+      of nonbeing. One concerns its location (zone of nonbeing), one is social and political
+      (specificsocialandpoliticalproblems),oneishistorical(colonization,enslavement),and
+      another is cultural. Following up on that, Ce´saire mentioned a principal question or
+      questioning specific to the zone of nonbeing, that almost encompasses the four above-
+      mentioned dimensions: the colonial question, which ‘cannot be treated as a part of a
+      biggerwhole’(Ce´saire1956).Here,thereisanexplicitcritiqueofclassreductionism,but
+      onecouldalsoseeanimplicitcritiqueofwhatImentionedearlier.Indeed,whatIcalled
+      thenon-Westasapoliticalproblemtomethodologicallysolveentailsaconsideration.It
+      openstothequestion‘Whydoesthisproblemneedtogetmethodologicallysolved,
+      andforwhatpurpose?’.Onecouldsay,thisproblemneedstogetsolvedtocreatea
+      dialogue. For instance, in her book Cosmopolitan Political Thought, Farah Godrej
+      suggested looking at Gandhi’s account of non-violence which could be useful to
+      solve Western problems. It is a way to find non-Western solutions to Western
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+      1560                         Philosophy and Social Criticism 51(9)
+                                                             
+                                                             
+      problems (Godrej 2011, 73). However, this instrumental way of seeing the rela-
+      tionship between knowledge and practice can be related to the class reductionism
+      that Ce´saire criticized. As much as race is seen as something that could help class
+      struggletomoveforward,amomentofclassstruggle8ifyouwill,here,non-Western
+      thoughts and practices are seen as a moment of Western thoughts or practices.
+      However, Ce´saire’s letter suggests another relationship between knowledge and
+      practice, or theory and politics.                      
+        Thatsaid,nowIwanttoemphasizeanimportantphilosophicaldimensionoftheletter.
+      Moreprecisely,thedimensionthatenlightensaspecificrelationshipbetweenpracticeand
+      knowledge for Ce´saire. In an article, Nelson Maldonado-Torres argued that Ce´saire
+      constructedananti-orcounter-CartesiansystemthathecalledCesairianmediation.For
+      Maldonado-Torres, the Discourse on Colonialism is ‘the response of a black colonial
+      subject to the Cartesian project’ (2016, 438). In other words, Ce´saire offers another
+      method, a new discourse on method that radically differs from Descartes because he
+      introduced ‘a new type of critical reason, which rest on the “clarity” that colonized
+      subjects have of the perversity of theEuropean civilization project’ (Maldonado-Torres
+      2016, 438). However, while I am sympathetic to Maldonado-Torres’ argument, I think
+      that Ce´saire’s move is more fundamental than a new discourse on method. Indeed, by
+      placing Ce´saire’s work on the epistemological ground of Descartes, I believe that a
+      fundamentalphilosophicalswitchoperatedbyCe´saireisoccluded,namely,thechangeof
+      firstphilosophy.Moreprecisely,IbelievethatCe´sairemadepolitics9asfirstphilosophy
+      instead of epistemology. The problem of placing epistemology as first philosophy has
+      been discussed extensively above. The question of first philosophy is related to the
+      question of truth. For Aristotle, metaphysics was the first philosophy as ‘the human
+      attainmentoftruthisanachievementthatgoesbeyondanyphysicalprocess’(Sokolowski
+      2010,6).Ontheotherhand,forDescartes,epistemologywasthefirstphilosophy,which
+      would mean that the attainment of truth is achieved through method. This is why, ac-
+      cording to what I have said previously, political problems are to be solved by meth-
+      odological means. Following that, philosophers such as Heidegger suggested putting
+      ontologyasfirstphilosophy,andotherslikeLevinas,proposedethicsasfirstphilosophy,
+      butthatisnotthesubjectmatterhere.Now,IwanttosuggestthattheLettertoMaurice
+      Thorez describes more explicitly than the Discourse on Colonialism politics as first
+      philosophy.                                            
+        Intheletter,Aime´Ce´saireadvocatedaCopernicanrevolutioncharacterizedbywhathe
+      calleda‘righttoinitiative’[droita`l’initiative].Thisrighttoinitiativeismainlypoliticalin
+      Ce´saire’s letter but it could also be considered from a theoretical perspective. Indeed,
+      specificpoliticalproblems(colonization)aretobeaddressedpoliticallyandtheoretically
+      fromthezoneofnonbeing.Inotherwords,peopleinthezoneofnonbeingareconsidered
+      as people having problems and addressing them, rather than problematic people.
+      Moreover, this right to initiative is, for Ce´saire, attached to responsibility. Namely, to
+      attunethoughtsandactions‘tothepoliticalrealitiesofMartinique’(Kemedjio2010,89),
+      so to the zone of nonbeing. What is expressed here is the coincidence of theory and
+      practice in their mode of being in- and of-the-world. This statement goes against the
+      constitutionof apurelynormative theory that wouldmake therelationshipbetween the
+
+[PAGE 14]
+                                                             
+                                                             
+      des Portes                                    1561     
+                                                             
+                                                             
+                                                             
+      bios theoretikos and the bios politikos instrumental. Moreover, this instrumental rela-
+      tionship assumes a separation between the two since a theory can be implemented in
+      different contexts. Some could argue that rather than a pure imposition, there is a
+      translation of theory to different contexts. Yet, in Ce´saire’s, there is a coincidence of
+      thoughtandaction,thinking/theorizingcannotbesimplytranslatedinadifferentcontext
+      astheFrench‘bonjour’istranslatedinto‘hola’or‘buenosmanana’inSpanishdepending
+      on the context. Rather, here the translation entails an actualization of the thought itself
+      precisely because of its co-dependency to action. Therefore, it cannot be reduced to a
+      methodologicalproblemasautonomousfromaction.Thequestionoftruthisrelatedtothe
+      oneofpolitical actionin itsopenness. AsI said, it goesagainstthepurelyinstrumental
+      view of politics. A specific theory is not something to be applied, the translation goes
+      together with an actualization that could potentially totally transform the theory. To il-
+      lustratethatpoint,onecouldlookatFanon’scritiqueofHegel’sontologyofbeing-withas
+      I argued previously. In Black Skin, White Masks, Fanon argued that Hegel’s ontology
+      cannot be used to understand black existence nor the possibility of black liberation
+      precisely because the white/black relationship cannot be reduced to Hegel’s ontology
+      which presupposes a white/white relationship. Therefore, thinking phenomenologically
+      aboutthebeing-withaswellasthepossibilityofliberationneedsanactualization,or,as
+      Fanonargued,adeparturefrom(Hegel’s)ontologyingeneral,thatcouldtaketheformof
+      whatLewisGordoncalledanontologicalsuspension(2000,79).Hence,thequestionis
+      lessaboutthe‘how’oftranslationingeneralbutmorefundamentallyaboutwhatcanand
+      cannot be translated. Following Ce´saire’s letter, Marxism can only be translated to the
+      price of its transformation/actualization precisely because some elements of Marxism
+      cannot be translated. This point has been raised by Sylvia Wynter and can also be il-
+      lustratedbytheBlackMarxisttraditionandCedricRobinson’sworkonracialcapitalism
+      (Myers 2022; Robinson 2021).                           
+        Ibelievethatthedisplacementofepistemologyforpoliticsismadepossibleprecisely
+      becauseofthedisplacementofthemetatheoreticalquestionintheLetter.Byseeingthe
+      (ex)colonized not as a problem but as people having problems, the problem is not
+      primarily methodological but political. Precisely because the colonial division of the
+      world isnot naturalizedbutproblematized as being political. ThisCesairian meditation
+      couldbeassociatedwithwhatFrantzFanoncalled‘sociogeny’.Indeed,asIsaidbefore,
+      Fanonurgedustoleavemethodsasidetostudythesocialworld,preciselybecausehuman
+      actionscreatetheworldandnotasetofcausalities.Thereisasocio-genesisoftheworld.
+      However,thatsaid,Fanonalsoaddedanimportantaccounttothezoneofnonbeing,its
+      inhabitants, the damne´s. Indeed, within a continental logic or ontology, there is a
+      ‘forgetfulnessofthedamned’(Maldonado-Torres2004,36).Therefore,foradecolonial
+      politicaltheorytoputpoliticsasfirstphilosophymeanstolookatthedamne´sinthezone
+      ofnonbeing.Thereisthepossibilitytolookatthepoliticalaspoliticalactionalternatively.
+      Indeed,becausedamnationhasanon-dialecticalcharacter(Maldonado-Torres2004,42),
+      thelogicofself-otherdoesnotworkandpoliticstakesanotherperspective.Thiscanbe
+      visibleinwhatIcallFanon’spoliticaltheoryofthedamne´s.Indeed,inTheWretchedof
+      the Earth (2002), Fanon described the emergence of a new revolutionary subject and
+      praxis, especially through his account of violence. Looking at the question of violence
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+      1562                         Philosophy and Social Criticism 51(9)
+                                                             
+                                                             
+      fromtheperspectiveofepistemologywouldbetoaskwhetherviolenceisnecessaryora
+      goodmethodornottoachievepoliticalends.However,lookingfromtheperspectiveof
+      politicsasfirstphilosophyoffersanotherstance.AsLewisGordonargues,inthezoneof
+      nonbeing,thedebateisnotabout‘violenceornonviolence’preciselybecause‘thereisno
+      roomtoappearnonviolently’(2007,11).Therefore,lookingatthequestionofviolence
+      from the perspective of the zone of nonbeing gives a different account of reality and
+      politicalaction.Itisnotaboutthejustificationorlegitimationofviolence.Thequestion
+      wouldbe,whatdoesviolence,asapoliticalaction,oraswhatFanoncalledthe‘absolute
+      praxis’ tells us about reality.                        
+        Accordingly, I intend to suggest another account of political reality that could be
+      consideredphenomenal.Ihavealreadymentionedthe‘livedexperience’extensively,but
+      IwillfocusmoresystematicallyonitbylookingatFanon’saccountofviolence.AsNeil
+      Roberts argues, Fanon’s account of violence cannot be taken as instrumental (Roberts
+      2004).Indeed,Fanon’sinterestwasnotinastrategic/instrumentaltheoryofviolence10but
+      inthenatureortherealityoftheconstitutionofviolenceintheAlgeriancontext(Fanon
+      2002,72).Thisentailsadifferentrelationshiptoreality.Therealityofviolence,forFanon,
+      istobefoundinlivedexperience,notonlyasasetofempiricaldataorasamaterialityof
+      colonialismbutalsophenomenally.Inotherwords,thequestionsare:whatdoescolonial
+      violence do to the colonized existence? How does violence inform their being-in-the-
+      world?Indeed,inthechapterOnViolenceinTheWretchedoftheEarth,Fanonshowed
+      that thinking about colonialism is not only a systematic thinking about institutions, the
+      state, or government. Colonialism goes deep down to the bodily level, it affects and
+      changesthebodyofthecolonizedaswellhis/herbodyschemaandbodyimage,meaning
+      his/her possibility of motion in the world (Ataria and Tanaka 2020; des Portes 2023).
+      Fanon used a bodily metaphor to describe the being in the world of the colonized, as a
+      being in the zone of nonbeing. His description of the muscular tetany of the colonized
+      goeshandinhandwiththedescriptionofasquattingcity.Colonialismisnotjustamode
+      of being in-the-world, but also of-the-world.          
+        Asamatteroffact,thechapteronviolencecouldbedividedintotwoparts,oneonthe
+      cityandoneonthecolonizedinhis/herembodiment.Inotherwords,Fanondescribesthe
+      modeofbeingdisposedofthecolonized.Fromthatperspective,Fanondoesnotonlyoffer
+      amodeloranormativeaccountofcolonialismbutaphenomenaloneaswell.Thismeans
+      that politics is an action that informs and transforms the individual in relation to the
+      collectiveandtheworld.Hedoesnotunderstandpoliticsasamodeltofollow,but,inthat
+      case,astheprocessofmutationofcolonialviolence(Ajari2014,237).Fanonhighlighted
+      the raw embodied phenomenal reality of colonialism which echoes his formula ‘O my
+      body,makemeamanwhoalwaysquestions’(2015,181).This‘IamembodiedthereforeI
+      think’displacestheCartesian‘IthinkthereforeIam’byplacingtheprimacyonembodied
+      existence,andinthatcaseinitspoliticaldimension.However,itdoesnotmeanthatthere
+      are no material and empirical dimensions to colonialism, but as Lewis Gordon argued,
+      ‘violence is fundamentally subjective apprehension of objective reality’ (1996, 303).
+      Therefore,colonialismisnotjustapolitico-legalrelationshipbutamodeofexistencethat
+      has its own temporality, embodiment, and possibilities of upheaval. That second di-
+      mension of the zone of nonbeing, as a zone where an upheaval can happen, relates to
+
+[PAGE 16]
+                                                             
+                                                             
+      des Portes                                    1563     
+                                                             
+                                                             
+                                                             
+      Ce´saire’srighttoinitiativeasitlooksathowtheseinitiatives,thesepoliticalactions,both
+      makeusunderstandtherealityofcolonialismandhowtheyshaperealityandcreatenew
+      formsoflife.Tosummarize,apoliticaltheoryofthedamne´sisonethatplacespoliticsa
+      firstphilosophyandthatdoesnotthinkoftheBeing-withintermsofSelf-Otherdialectic
+      butlooksatpoliticalphenomenatoenlightenrealityoranunderstandingofreality.Itis
+      notanepistemicpriorityonpositionalitylikestandpointepistemology,butapriorityput
+      uponpoliticalactionas1)responsetopoliticalproblemsand2)asthegenesisofsocial
+      realityandphenomena.Inotherwords,itisnottheindividualthatgivesprivilegedaccess
+      to political action and phenomena, but those political phenomena/actions that give
+      privileged access to the relationship of the individual to others and the world.
+        Throughout this article, I suggested giving an alternative direction for a decolonial
+      politicaltheory.Indoingso,IanalyzedwhatIconsidertobesomelimitsofComparative
+      Political Theory from a decolonial perspective, which are its continental logic and its
+      overfocus on methodology. As a result, I argued against the tendency to give method-
+      ological solutions to political problems by turning these political problems into meth-
+      odologicalones.Accordingly,Isuggestedputtingpoliticsratherthanepistemologyasfirst
+      philosophy. By grounding my work on Aime´ Ce´saire and Frantz Fanon, I argued for a
+      politicaltheorythatlooksfromthezoneofnonbeingasagroundforthinkingprecisely
+      because it goes beyond the continental logic. My aim was not to reject Comparative
+      Political Theory but to propose an alternative way to look at reality from a decolonial
+      perspective, in order to outline an existential decolonial political theory. I believe that
+      these different approaches are complementary. If as Karl Jaspers (2010) had it, there is
+      always more to reality, then a phenomenal account of reality is non-exclusive to an
+      empirical, normative, or materialist one.              
+      ORCID iD                                               
+      Charlesdes Portes https://orcid.org/0000-0002-8232-5110.
+                                                             
+      Notes                                                  
+       1. Theconceptof‘coloniality’wascoinedbyAnibalQuijano,itreferstothestillexisting/ongoing
+         structure of colonialism after the formal decolonisation ofex-colonised countries.
+       2. Depending on the institutions, the subfields are American Politics, Comparative Politics,
+         Political Behaviour,PoliticalMethodology,andInternational Relations.
+       3. ForAdam Burgos,‘Internal colonialism is,simply,the idea that acolonized population can
+         existwithinthestatetowhichitostensiblyalreadybelongs,asacommunitycolonizedbyother
+         members of the samesociety rather than byaforeign invader’ (2023, 136).
+       4. For Sartre, the being-in-itself corresponds to a substance and the for-itself to pure existence
+         withoutsubstance,tothenothingnessfromwhichaconsciousnessprojectitselfinthefuture.
+         Forinstance,achairisabeing-in-itself,however,thehumanbeingisafor-itself,andtheylivein
+         badfaithwhentheyescapethefreedomofthefor-itself,tofindsecurityinthein-itself.Inother
+         words,whentheirlifeisruledbyapreconceivedroletofollowleavingnospaceforfreedom.
+         SeeSartre’sexample ofthe waiter inL’eˆtreet lene´ant(Gallimard, 1943).
+                                                             
+                                                             
+                                                             
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+      1564                         Philosophy and Social Criticism 51(9)
+                                                             
+                                                             
+       5. ThisdistinctioncomesfromMauriceMerleau-Ponty.Humanbeingsarenotonlyin-the-world
+         like aplate is onatable but also of-the-world as theyare partof it.
+       6. See(Roberts 2015)                                  
+       7. Aphenomenologicalaccountofrealityisaboutthe‘how’ofourbeingintheworldwithothers,
+         howweexperiencetheworldwearein.Accordingly,‘phenomenaarethewaysinwhichwe
+         findourselvesbeinginrelationtotheworldthroughourday-to-dayliving’(Vagle2018,20).
+       8. SeeFanon’s critiqueof Sartre’sBlack Orpheusin White Skin,Black Masks.
+       9. Here I understandpolitics as anaction thathas decolonization as ahorizon.
+      10. Bystrategic/instrumentalviolence,Imeanviolenceasameans-endactivity.See(Ajari2014).
+      References                                             
+                                                             
+      Ajari, Norman. 2014. “Race et violence : Frantz Fanon a` l’e´preuve du postcolonial.”. PhD,
+         Universite´ Toulouse leMirail - Toulouse II, theses.hal.science. https://theses.hal.science/tel-
+         01338946                                            
+      Ataria,Yochai,andTanaka,Shogo.2020.“WhenBodyImageTakesovertheBodySchema:The
+         CaseofFrantzFanon.”HumanStudies43.no.4:653–665.DOI:10.1007/s10746-020-09543-
+         6.                                                  
+      Bowden,Brett.2008.“TheEbbandFlowofPeoples,Ideas,andInnovationsintheRiverofInter-
+         civilizationalRelations:TowardaGlobalHistoryofPoliticalThought.”InWesternPolitical
+         ThoughtinDialoguewithAsia,editedbyTakashiShogimen,andCaryJ.Nederman,87–108.
+         Lanham,MD:Lexington Books.                          
+      Burgos, Adam. 2023. “Internal Colonialism and Democracy.” Philosophy Today 67. no. 1:
+         135–152. DOI:10.5840/philtoday202327472.            
+      Castro-Gómez, S. 2021. Zero-Point Hubris. Science, Race, and Enlightenment in Eighteenth-
+         CenturyLatin America. Lanham,MD:Rowman & Littlefield.
+      Ce´saire, Aime´. 1956. “La lettre a` Maurice Thorez.” L’Humanite´. https://www.humanite.fr/node/
+         488777                                              
+      Dallmayr,Fred.2004.“BeyondMonologue:ForaComparativePoliticalTheory.”Perspectiveson
+         Politics 2.no.02. DOI: 10.1017/s1537592704040137.   
+      Dallmayr,Fred.2009.“Hermeneuticsandinter-culturaldialog:linkingtheoryandpractice.”Ethics
+         &Global Politics2. no.1: 23–39.DOI: 10.3402/egp.v2i1.1937.
+      Dallmayr, Fred, and Manoochehri, Abbas. 2007. Civilizational Dialogue and Political Thought:
+         TehranPapers.Lanham,MD:Lexington Books.             
+      desPortes,Charles.2022.“HannahArendt’sHiddenPhenomenologyoftheBody.”HumanStudies
+         45.no. 1:139–156. DOI: 10.1007/s10746-021-09614-2.  
+      desPortes,Charles.2023.FreedomPrecedesLiberation:HannahArendt,Feminism&Coloniality.
+         Leeds:PhD, University of Leeds.                     
+      DuBois,W.E.B.2008.The Soulsof BlackFolk.Oxford: OxfordWorld’s Classics.
+      Dussel, Enrique. 1995. The Invention of the Americas: Eclipse of “the Other” and the Myth of
+         Modernity.New York: Continuum Intl PubGroup.Translated byMichael D.Barber.
+      Dussel,Enrique,andMendieta,Eduardo.1998.TheUndersideofModernity:Apel,Ricoeur,Rorty,
+         Taylor,&the Philosophy ofLiberation. Indexededitioned. NewJersey: Humanities Press.
+                                                             
+                                                             
+
+[PAGE 18]
+                                                             
+                                                             
+      des Portes                                    1565     
+                                                             
+                                                             
+                                                             
+      Euben, Roxanne L. 2022. ““Comparative Political Theory” and the Displacement of Politics.”
+         Philosophy and Global Affairs. DOI: 10.5840/pga202282925. https://www.pdcnet.org/pdc/
+         bvdb.nsf/purchase?openform&fp=pga&id=pga_2022_0999_8_29_25
+      Fanon,Frantz. 2002. TheWretchedof the Earth.NewYork: Grove Press.
+      Fanon,Frantz. 2015. BlackSkin, WhiteMasks.London:Pluto Press.
+      Getachew,Adom. 2019.Worldmaking afterEmpire. Princeton: PrincetonUniversity Press.
+      Getachew, Adom, and Mantena, Karuna. 2021. “Anticolonialism and the Decolonization of Po-
+         liticalTheory.”CriticalTimes4,no.3:359–388.DOI:10.1215/26410478-9355193.https://
+         read.dukeupress.edu/critical-times/article/4/3/359/173563/Anticolonialism-and-the-
+         Decolonization-of                                   
+      Godrej,Farah.2011.CosmopolitanPoliticalThought:Method,Practice,Discipline.Oxford,NY:
+         Oxford University Press.                            
+      Gordon,JaneAnna. 2014. Creolizing Political Theory: Reading Rousseauthrough Fanon. New
+         York:Fordham University Press.                      
+      Gordon,LewisR.1996.“Fanon’sTragicRevolutionaryViolence.”InFanon:ACriticalReader,
+         edited by Lewis Gordon, T. Denean Sharpley-Whiting, and Renee T. White, 372. Oxford:
+         Wiley.                                              
+      Gordon,LewisR.2000.ExistentiaAfricana:UnderstandingAfricanaExistentialThought.1sted.
+         NewYork: Routledge.                                 
+      Gordon,LewisR.2006.DisciplinaryDecadence:LivingThoughtinTryingTimes.1sted.Boulder,
+         CO:Routledge.                                       
+      Gordon, Lewis R. 2007. “Through the Hellish Zone of Nonbeing: Thinking through Fanon, Di-
+         saster,andtheDamnedoftheEarth.”HumanArchitecture:JournaloftheSociologyofSelf-
+         Knowledge 5.no.3. https://scholarworks.umb.edu/humanarchitecture/vol5/iss3/3
+      Gordon,LewisR.2011.“ShiftingtheGeographyofReasoninanAgeofDisciplinaryDecadence.”
+         Transmodernity:JournalofPeripheralCulturalProductionoftheLuso-HispanicWorld1,no.
+         2) DOI: 10.5070/T412011810. https://escholarship.org/uc/item/218618vj
+      Gordon,LewisR.2023.FearofBlackConsciousness:LewisR.Gordon.1sted.London:Penguin.
+      Hegel,GeorgWilhelmFriedrich.2012.LecturesonthePhilosophyofWorldHistory.Cambridge:
+         CambridgeUniversity Press.                          
+      Honig,Bonnie.1993.PoliticalTheoryandtheDisplacementofPolitics.Ithaca:CornellUniversity
+         Press.                                              
+      Hook,Derek.2020.“FanonviaLacan,or:DecolonizationbyPsychoanalyticMeans…?”Journal
+         oftheBritishSocietyforPhenomenology51.no.4:305–319.DOI:10.1080/00071773.2020.
+         1732575.                                            
+      Ilieva,Evgenia.2015.“PhilosophicalHermeneuticsandComparativePoliticalTheory.”Journalof
+         DialogueStudies3,no.2:5–30.DOI:10.55207/SPPP2454.https://www.dialoguestudies.org/
+         wp-content/uploads/2016/02/Journal-of-Dialogue-Studies_Vol-3_No-2_Philosophical_
+         Hermeneutics_and_Comparative_Political_Theory.pdf   
+      Ilieva,Evgenia.2022.“ComparativePoliticalTheoryandHeterology.”Sophia61.no.4:697–725.
+         DOI: 10.1007/s11841-021-00841-9.                    
+      Jaspers,Karl. 2010. PhilosophyofExistence. Philadelphia: University of PennsylvaniaPress.
+      Kant,Immanuel. 2013.Lectures onAnthropology.Cambridge: Cambridge University Press.
+                                                             
+
+[PAGE 19]
+                                                             
+                                                             
+                                                             
+      1566                         Philosophy and Social Criticism 51(9)
+                                                             
+                                                             
+      Kemedjio,Cilas.2010.“Aime´Ce´saire’sLettertoMauriceThorez:ThePracticeofDecolonization.”
+         Research in African Literatures 41, no. 1: 87–108. DOI: 10.2979/ral.2010.41.1.87. https://
+         www.jstor.org/stable/10.2979/ral.2010.41.1.87       
+      Kisner,J.Matthew.2005.“RationalismandMethod.”InACompaniontoRationalism,editedby
+         AlanNelson, 137–155. Malden,MA; Oxford:JohnWiley & Sons,Ltd.
+      Lewis,MartinW.,andWigen,Ka¨ren.1997.TheMythofContinents:ACritiqueofMetageography.
+         Berkeley:The University of California Press.        
+      Little, Adrian. 2018. “Contextualizing Concepts: The Methodology of Comparative Political
+         Theory.” The Review of Politics 80, no. 1: 87–113. DOI: 10.1017/S003467051700078X.
+         https://www.cambridge.org/core/journals/review-of-politics/article/abs/contextualizing-
+         concepts-the-methodology-of-comparative-political-theory/F32B34E964B6D530C9DCC2D
+         88B1B728E                                           
+      Lugones,Maria. 2016. “The Coloniality of Gender.”In The Palgrave Handbookof Gender and
+         Development: Critical Engagements in Feminist Theory and Practice, edited by Wendy
+         Harcourt, 13–33. London:Palgrave MacmillanUK.       
+      Maldonado-Torres, Nelson. 2006. “Post-continental Philosophy: Its Definition, Contours, and
+         FundamentalSources.”Worlds & KnowledgesOtherwise: 1–29.
+      Maldonado-Torres, Nelson. 2007. “On the Coloniality of Being.” Cultural Studies 21, no. 2-3:
+         240–270. DOI: 10.1080/09502380601162548. https://www.tandfonline.com/doi/full/10.
+         1080/09502380601162548                              
+      Maldonado-Torres, Nelson. 2011. “Thinking through the Decolonial Turn: Post-continental In-
+         terventionsinTheory,Philosophy,andCritique—AnIntroduction.”Transmodernity:Journal
+         of Peripheral Cultural Production of the Luso-Hispanic World 1, no. 2. DOI: 10.5070/
+         T412011805.https://escholarship.org/uc/item/59w8j02x
+      Maldonado-Torres, Nelson. 2016. “Ce´saire’s Gift and the Decolonial Turn.” DOI: 10.1215/
+         9780822374367-024. https://read.dukeupress.edu/books/book/2237/chapter-abstract/280978/
+         Cesaire-s-Gift-and-the-Decolonial-Turn?redirectedFrom=fulltext
+      Maldonado-Torres, Nelson. 2017. “On the Coloniality of Human Rights.” Revista Cr´ıtica de
+         Cieˆncias Sociais 114: 117–136. DOI: 10.4000/rccs.6793. https://journals.openedition.org/
+         rccs/6793                                           
+      Maldonado-Torres, Nelson. 2004. “The topology of being and the geopolitics of knowledge:
+         Modernity,empire,coloniality.”City8,no.1:29–56.DOI:10.1080/1360481042000199787.
+         https://www.tandfonline.com/doi/full/10.1080/1360481042000199787
+      March,AndrewF.2009.“WhatIsComparativePoliticalTheory?”TheReviewofPolitics71.no.4:
+         531–565. https://www.jstor.org/stable/25655863      
+      Matei-Chesnoiu, M. 2012. Re-imagining Western European Geography in English Renaissance
+         Drama.London: PalgraveMacMillan.                    
+      Mignolo, Walter D. 2011. The Darker Side of Western Modernity: Global Futures, Decolonial
+         Options. Illustrated edition. Durham: DukeUniversity Press.
+      Myers,Joshua. 2022.OfBlack Study.London: PlutoPress.   
+      Quijano, Anibal. 1992. “Colonialidad y Modernidad/Racionalidad.” Peru´ Ind´ıgena 13. no. 29:
+         11–20.                                              
+      Quijano, Anibal, and Ennis, Michael. 2000. “Coloniality of Power, Eurocentrism, and Latin
+         America.”Nepantla:Views from South 1.no.3: 533–580. 
+
+[PAGE 20]
+                                                             
+                                                             
+      des Portes                                    1567     
+                                                             
+                                                             
+                                                             
+      Roberts,Neil.2004.“Fanon,Sartre,Violence,andFreedom.”SartreStudiesInternational10.no.2:
+         139–160. https://www.jstor.org/stable/23512882      
+      Roberts,Neil. 2015. Freedom as Marronage.Chicago: TheUniversity ofChicago Press.
+      Robinson,CedricJ.2021.BlackMarxism:TheMakingoftheBlackRadicalTradition.London:
+         PenguinClassics.                                    
+      Rose-Redwood,Reuben,BluBarnd,Natchee,Hetoeve˙hotohke’eLucchesi,Annita,Dias,Sharon,
+         and Patrick, Wil. 2020. “Decolonizing the Map: Recentering Indigenous Mappings.” Car-
+         tographica:TheInternationalJournalforGeographicInformationandGeovisualization55
+         (3): 151-162. https://doi.org/10.3138/cart.53.3.intro. https://utpjournals.press/doi/abs/10.
+         3138/cart.53.3.intro                                
+      Said,Edward. 2003.Orientalism.London: PenguinBooks.    
+      Seth, Sanjay. 2020. “A Postcolonial Critique of Comparative Political Theory.” In The Oxford
+         Handbook of Comparative Political Theory, edited by Leigh K. Jenco, Murad Idris, and
+         MeganC. Thomas, 620–637.Oxford: OxfordUniversity Press.
+      Sexton,Jared.2016.“Thesociallifeofsocialdeath:Onafro-pessimismandblackoptimism.”In
+         Time, Temporality andViolence in InternationalRelations.London:Routledge.
+      Sithole,Tendayi.2016.“TheConceptoftheBlackSubjectinFanon.”JournalofBlackStudies47.
+         no.1: 24–40.DOI: 10.1177/0021934715609913.          
+      Sokolowski, Robert. 2010. “Husserl on First Philosophy.” In Philosophy, Phenomenology, Sci-
+         ences:EssaysinCommemorationofEdmundHusserl,editedbyFilipMattens,HanneJacobs,
+         andCarloIerna, 3–23.Dordrecht: SpringerNetherlands. Phaenomenologica.
+      Sonneborn,Liz.2006. Averroes.Illustrated editioned. NewYork:Rosen Central.
+      Temin, David Myer. 2023. “Development in Decolonization: Walter Rodney, Third World De-
+         velopmentalism, and “Decolonizing Political Theory”.” American Political Science Review
+         117, no. 1: 235–248. https://www.cambridge.org/core/journals/american-political-science-
+         review/article/development-in-decolonization-walter-rodney-third-world-developmentalism-
+         and-decolonizing-political-theory/4C0EDB32FB2D7C70340EE21B7C222151. DOI: 10.
+         1017/S0003055422000570.                             
+      Thame, Maziki. 2011. “Reading Violence and Postcolonial Decolonization through Fanon: The
+         Caseof Jamaica.”TheJournal of PanAfricanStudies 4,no. 7:75–93.
+      Vagle,MarkD.2018. CraftingPhenomenological Research.NewYork: Routledge.
+      Wynter,Sylvia.1970.“BlackMetamorphosis:NewNativesinaNewWorld.”Unpublishedwork.
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             

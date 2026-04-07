@@ -1,0 +1,76 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "ruwe_2026",
+  "title": "Black Male Disposability and the Dark Side of Canadian Multiculturalism",
+  "author": "Ruwe",
+  "year": 2026,
+  "journal": "Philosophy and Social Criticism",
+
+  "opening_move": {
+    "type": "empirical_presentation",
+    "description": "Opens with the 2016 UN Working Group of Experts on People of African Descent report on Canada, documenting stark racial disparities in education, poverty, and criminal justice outcomes for African Canadians. The puzzle: given Canada's reputation for multiculturalism and diversity, how do Black males experience such systematic disadvantage? The paper introduces the Racial Subjugated Male Thesis (RSMT) as the analytical framework.",
+    "anchored_in": ["UN Working Group 2017", "Curry (RSMT)", "Du Bois (epigraph)"],
+    "stakes_claimed": "Black male disposability is not a policy failure of Canadian multiculturalism but a constitutive feature of it: the framework's celebration of difference paradoxically produces ontological exclusion of Black males through child welfare, education, employment, and criminal justice — requiring not institutional reform but philosophical rupture."
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["liberal multiculturalism (Kymlicka)", "recognition theory", "standard minority rights frameworks"],
+    "engagement_structure": "immanent_critique_and_extension",
+    "immanent_critique": true,
+    "own_position_type": "framework_construction",
+    "own_position_explicit": true,
+    "description": "The paper applies RSMT (Tommy Curry's framework developed in the US context) to Canadian multiculturalism for the first time. RSMT asserts that racialized maleness produces a 'phantom' category — Black manhood as phantasm constructed by societal imagination. Applied to Canada, RSMT reveals how multiculturalism's language of inclusion produces ontological exclusion of Black males through four institutional sectors. The paper critiques liberal minority rights frameworks (Kymlicka) as unable to account for this paradox."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_qualitative_empirical",
+    "secondary": null,
+    "empirical_evidence_present": true,
+    "empirical_evidence_role": "constitutive",
+    "quantitative_methods": null,
+    "qualitative_methods": "Critical interpretive methodology combining philosophical frameworks (RSMT, Africana philosophy, critical race theory) with institutional analysis across four sectors: child welfare (removal statistics, 'unruly Black male child phantom'), education (streaming/tracking data, criminalization), criminal justice (over-representation in policing and incarceration), employment (economic exclusion). Uses qualitative sociology, policy analysis, and critical race studies literature.",
+    "data_sources": ["UN Working Group 2017 report on African Canadians", "Canadian child welfare statistics", "educational streaming/tracking research (Canadian context)", "criminal justice over-representation data", "employment discrimination research on Black Canadian males", "Africana philosophy / Black Male Studies secondary literature"],
+    "interpretive_methods": "Application of RSMT phantom categories to Canadian institutional sectors; critical reading of Canadian Multiculturalism Act and official discourse; genealogical connection between Ottoman/colonial practices and contemporary Canadian multiculturalism.",
+    "notes": "The empirical evidence (institutional data across four sectors) is constitutive: the RSMT application cannot be made without it. The paper is normative_with_qualitative_empirical with constitutive evidence role. The theoretical contribution is the first systematic application of RSMT to the Canadian context — methodological innovation by crossing US-developed framework with Canadian multicultural ideology. Normative conclusion: philosophical rupture, not reform."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "contemporary_phenomenon",
+    "case_name": "Black male disposability in Canadian multiculturalism — four institutional sectors",
+    "case_function": "constitutive",
+    "case_relation_to_argument": "evidential_basis",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "race / multiculturalism / political philosophy / Africana philosophy",
+    "claim_type": "critical_diagnostic",
+    "closure_type": "conclusion_strong"
+  },
+
+  "move_sequence": [
+    "empirical_presentation",
+    "puzzle_diagnosis",
+    "framework_proposal",
+    "rival_mapping",
+    "immanent_critique",
+    "case_introduction",
+    "case_development",
+    "normative_derivation",
+    "conclusion_strong"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["Black male disposability", "Racial Subjugated Male Thesis (RSMT)", "phantom categories", "ontological exclusion", "Canadian multiculturalism", "philosophical rupture", "unruly/unteachable/criminal Black male phantoms"],
+
+  "thinkers_deployed": {
+    "central": ["Curry", "Kymlicka", "Bannerji"],
+    "engaged_critically": ["Kymlicka (liberal multiculturalism)", "standard recognition theory"],
+    "referenced_only": ["Du Bois", "Foster", "Walcott", "Kitossa", "Davis", "Crichlow"]
+  },
+
+  "confidence_notes": "Normative_with_qualitative_empirical with constitutive evidence role. The four-sector institutional analysis (child welfare, education, criminal justice, employment) is the backbone of the argument. The paper's move_sequence begins empirically (UN report) but the framing is primarily philosophical. This is one of the most empirically anchored papers in the PSC corpus after miyake_2021, tirkkonen_tietjen_2025, and fourie_2022. The normative conclusion (philosophical rupture, not reform) is strong and programmatic. The RSMT framework is an interpretive lens applied to qualitative-institutional evidence."
+}

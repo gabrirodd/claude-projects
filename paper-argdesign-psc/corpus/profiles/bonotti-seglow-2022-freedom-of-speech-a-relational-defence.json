@@ -1,0 +1,64 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "bonotti_seglow_2022",
+  "title": "Freedom of Speech: A Relational Defence",
+  "author": "Bonotti and Seglow",
+  "year": 2022,
+  "journal": "Philosophy and Social Criticism",
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "The literature on free speech focuses on limits and regulation but has not advanced its normative foundations significantly in decades. Three classic approaches (truth, autonomy, democracy) each fail to satisfy four intuitive desiderata for an adequate theory of free speech.",
+    "anchored_in": ["Mill", "Shiffrin", "Dworkin"],
+    "stakes_claimed": "A new relational view — grounding free speech's value in the recognition speakers accord each other, and its limits in republican non-domination — better satisfies all four desiderata and has productive implications for hate speech and fake news."
+  },
+  "theoretical_positioning": {
+    "rivals_engaged": ["truth-based free speech theory (Mill)", "autonomy-based theory", "democracy-based theory"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": true,
+    "own_position_type": "synthesis",
+    "own_position_explicit": true,
+    "description": "Each classic theory is evaluated against four desiderata (specialness, stringency, no internal balancing, opportunity). Each fails on at least two counts. The relational view synthesizes recognition theory (Hegel/Honneth tradition) with republican liberty (non-dominated co-exercisable) to meet all four, then illustrates implications for hate speech and fake news."
+  },
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": null,
+    "notes": "Analytic political philosophy. Argument proceeds through desiderata-construction, critical evaluation of existing theories, and positive construction of the relational view. Hate speech and fake news are used as illustrative applications, not empirical cases."
+  },
+  "case_type": {
+    "has_case": false,
+    "case_medium": "none",
+    "case_name": null,
+    "case_function": null,
+    "case_relation_to_argument": null,
+    "case_selection_justified": false
+  },
+  "normative_stake": {
+    "level": "high",
+    "domain": "political philosophy / freedom of speech / liberal theory",
+    "claim_type": "reconstructive_prescriptive",
+    "closure_type": "conclusion_strong"
+  },
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "immanent_critique",
+    "framework_proposal",
+    "conceptual_distinction",
+    "normative_derivation",
+    "conclusion_strong"
+  ],
+  "reflexive_move": false,
+  "key_concepts": ["relational free speech", "recognition", "non-dominated co-exercisable liberty", "specialness", "stringency", "internal balancing", "opportunity"],
+  "thinkers_deployed": {
+    "central": ["Mill", "Shiffrin", "Rawls"],
+    "engaged_critically": ["Mill", "autonomy theorists", "democracy theorists"],
+    "referenced_only": ["Dworkin", "Honneth", "Pettit", "Fraser"]
+  },
+  "confidence_notes": "Classic Type 2a (dialectical synthesis): three rivals evaluated and found wanting, new framework proposed that satisfies the desiderata. Analytic political philosophy style closer to standard phil. journals, but within PSC's normative-critical range. Strong conclusion because the relational view is fully specified and applied. Note: this paper differs from the TCS corpus papers in using formal desiderata and analytic argument structure rather than Continental critical theory idiom — a PSC-specific variant."
+}

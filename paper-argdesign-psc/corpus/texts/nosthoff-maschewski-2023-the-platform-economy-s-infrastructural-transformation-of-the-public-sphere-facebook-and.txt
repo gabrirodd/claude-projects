@@ -1,0 +1,1143 @@
+[PAGE 1]
+                                                             
+                                                             
+                                                             
+                                                             
+      Article                                                
+                                                             
+                                         PhilosophyandSocialCriticism
+                              ’          2024,Vol.50(1)178–199
+      The  platform  economy   s                             
+                                         ©TheAuthor(s)2023   
+      infrastructural transformation                         
+                                         Articlereuseguidelines:
+      of the public sphere: Facebook     sagepub.com/journals-permissions
+                                         DOI:10.1177/01914537231203536
+                                         journals.sagepub.com/home/psc
+      and  Cambridge   Analytica                             
+      revisited                                              
+      Anna-Verena Nosthoff                                  
+      LondonSchoolofEconomicsandPoliticalScience,UK          
+      Felix Maschewski                                       
+      Humboldt-Universita¨tzuBerlin,Germany                  
+                                                             
+                                                             
+                                                             
+      Abstract                                               
+      From a socio-theoretical and media-theoretical perspective, this article analyses ex-
+      emplary practices and structural characteristics of contemporary digital political cam-
+      paigningtoillustrateatransformationofthepublicspherethroughtheplatformeconomy.
+      The article first examines Cambridge Analytica and reconstructs its operational pro-
+      cedure,which,farfrominvolvingexceptionallynewdigitalcampaignpractices,turnsout
+      to be quite standard. It then evaluates the role of Facebook as an enabling ‘affective
+      infrastructure’,technologicallyorchestratingprocessesofpoliticalopinion-formation.Of
+      specialconcernarevarioustacticsof‘feedbackpropaganda’andalgorithmic-baseduser
+      engagementthatreflect,atamoretheoreticallevel,themergingofsurveillance-capitalist
+      commercialization with a cybernetic logic of communication. The article proposes that
+      thistechno-economicdynamicreflectsacontinuationofthestructuraltransformationof
+      the public sphere. What Jürgen Habermas had analysed in terms of an economic fab-
+      ricationofthepublicsphereinthe1960sisnowadvancinginamoreradicalform,andona
+      more programmatic basis, through the algorithmic architecture of social media. As the
+      authorsargue,thisprocesswilleventuallyleadtoanewformof‘infrastructuralpower’.
+                                                             
+                                                             
+                                                             
+      Correspondingauthor:                                   
+      Anna-VerenaNosthoff,TheLondonSchoolofEconomicsandPoliticalScience,HoughtonStreet,London
+      WC2A2AE,USA.                                           
+      Email:a.nosthoff@lse.ac.uk                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+      Nosthoff and Maschewski                        179     
+                                                             
+                                                             
+                                                             
+      Keywords                                               
+      digital campaigning, public sphere, social media, Facebook, Cambridge Analytica,
+      Habermas, cybernetics, digital capitalism, voter targeting, infrastructural power
+                                                             
+                                                             
+                                                             
+      Introduction: On Facebook and ‘snake oil salespeople’1 
+      On30December2019,AndrewBosworth–formerFacebookvicepresident(VP)ofAds
+      and Business and today VP of AR/VR – wrote a memo to his staff on his internal
+      Facebook page, sharing some ‘Thoughts for 2020’. In his post, ‘Boz’ – who had per-
+      sonally been responsible for political ads during the 2016 US presidential campaign –
+      reflectedonrecentyearsandnoted,withregardtoDonaldTrump’selectionvictory:‘He
+      got elected because he ran the single best digital ad campaign I’ve ever seen from any
+      advertiser’. He also referred to a company that has gained extensive notoriety since:
+      Cambridge Analytica (CA).                              
+        BosworthdedicatedasubstantialportionofhisstatementtoCA.Ontheonehand,he
+      established, in sober analytical terms:                
+        “Thecompany[…]startedbyrunningsurveysonFacebooktogetinformationaboutpeople.
+        It later pivoted to be an advertising company, part of our Facebook Marketing Partner
+        program, who other companies could hire to run their ads. Their claim to fame was psy-
+        chographictargeting.[…];theiradsperformednobetterthananyothermarketingpartner.”
+                                                             
+        Ontheotherhand,hischoiceoflanguagetorefertothiscompany,whichproducedthe
+      greatest data scandal in Facebook’s company history and forced Mark Zuckerberg to
+      appearbeforeallkindsofspecialinquirycommittees,wasinsomeinstancesalittlemore
+      emotional:                                             
+        “In practical terms, Cambridge Analytica is a total non-event. They were snake oil sales-
+        people.Thetoolstheyuseddidn’twork,andthescaletheyusedthematwasn’tmeaningful.
+        Every claim theyhave madeabout themselvesis garbage.”
+                                                             
+        Bosworth’smemo,whichwaswidelyliked,sharedandcommentedupon,providedan
+      intriguing insight into Facebook’s internal corporate communications. Not only did it
+      show,intermsofitscontent,thatsomeformofinternalaccountabilityactuallyexisted:as
+      ‘Boz’ admitted, ‘we were late […] on data security, misinformation, and foreign in-
+      terference’.TheunderminingofCA’srolealsodrewattentiontoanotherfactor,namely,
+      thesignificanceofFacebook’sownplatform.‘SowasFacebookresponsibleforDonald
+      Trump getting elected? I think the answer is yes’.2    
+        This statement already contains the hint that the social network is more than a mere
+      information broker or intermediary of individual communication. The ‘advertising
+      platform’3 increasingly functions as an infrastructure4 of public opinion-formation and
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+      180                          Philosophy and Social Criticism 50(1)
+                                                             
+                                                             
+      meta medium for the digitally transformed ‘industry of political marketing’,5 the pro-
+      grammatic preconditions and effects of which shall be subjected to a more detailed
+      reflection in what follows. To start off, the case of CA is reconstructed from a media-
+      technicalandmedia-theoreticalperspective–notasanattempttoaddafurtherdiscursive
+      facet to this company’s controversial psychographic microtargeting,6 but in order to
+      investigateCA’sestablished‘standardcampaignpractices’7andthusthemechanismsof
+      theFacebookplatform’soperation.Theaimistoillustrate,atamorefundamentallevel,
+      howFacebookcontrolsanaffectiveinfrastructurethatcombines‘surveillance-capitalist’8
+      commercializationwithacyberneticlogicofcontrol.Notonlydoesthisfusiontransform
+      political campaigning,butthenetwork inducesatechno-economicdynamicthatcanbe
+      interpretedasthecontinuationorintensificationofthe(infra-)structuraltransformationof
+      the public sphere through the mechanisms of the platform economy. What Jürgen
+      Habermasanalysedastheimbuingwithpower[Vermachtung]andmanufacturingofthe
+      publicsphereasearlyasthe1960s,iscontinuedhereatthepriorlevelofacybernetically
+      orientedplatform,threateningtoeventuallymanifestitselfasa‘programmedabsenceof
+      alternatives’.                                         
+      The (standard) case of Cambridge Analytica             
+      InMarch2018,theGuardianandtheNewYorkTimespublishedinvestigativereportsona
+      ‘dataleak’atFacebook.TogetherwithwhistleblowerChristopherWylie,theyturnedthe
+      globalpublicspotlightonthecompanyCA–aspin-offoftheStrategicCommunication
+      LaboratoriesGroup(SCL).9IttranspiredthatCAhadgainedaccesstothepersonaldataof
+      87 million Facebook users via Facebook’s ‘Friends API’ and the quiz app thisi-
+      syourdigitallife,developedbybehaviouralpsychologistAleksandrKogan,andthenused
+      this information to compile personality profiles and utilize them during the Trump
+      campaignin2016.EventhoughtheuseofdataprovidedbythirdpartiessuchasCAhad
+      constitutedaviolationofFacebook’stermsofusesince2015,thecompanywasable,until
+      itwasexposed,topresentitselfasasupposedspecialistforpsychographicmicrotargeting
+      (the targeted appeal to individuals based on psychological criteria). This, even while
+      advertisingitskeyroleintheMAGAcampaignandindicatingthatitoperateddatabases
+      which had each accumulated some 5000 data points (DP) on 230 million Americans.10
+      FacebookwasmadeawareofCA’sviolationofitsrulesasearlyas2015,butneglectedits
+      supervisory duties. As a result, a global scandal would gradually unfold, which again
+      turnedthespotlightontheissue–alongsidequestionsofcommercialuserprofiling–of
+      data privacy and data protection in social media.11    
+        Inthiscontext,CA’spracticeshavebecomethefocalpointofratherbinarydebates,12
+      in which one side identifies the company as the ultimate incarnation of digital voter
+      manipulation13 and the other – as in the case of Bosworth – considers it as a hyped-up
+      marketingfirmwhosemethodsconsistofnomorethan‘snakeoil’or‘bullshit’.14Inlight
+      of the current state of facts as well as the investigation of the British Information
+      Commissioner’s Office (ICO), a more differentiated picture emerges: contrary to in-
+      formation provided by CA itself, it is rather implausible that the company conducted
+                                                             
+                                                             
+                                                             
+
+[PAGE 4]
+                                                             
+                                                             
+      Nosthoff and Maschewski                        181     
+                                                             
+                                                             
+                                                             
+      systematicpsychographicmicrotargetingyetpossessed‘psychographicinventories’15of
+      aroundtenDPfor30millionindividuals.Itisthusunlikelythatthecompanyengagedin
+      any large-scale modelling, but instead, in the run-up to the 2016 election, conducted
+      somewhatcrudeexperimentsontheresponsivesegmentationoftargetgroups.16Further
+      figures also required correcting: the bulk of consumer and voter data used by CAwere
+      commerciallyavailable,andtheirextentanddata-pointaccumulationhadtoberatedwell
+      belowtheadvertisedfigures–thenumberofindividualsrecordedwasonly160millionat
+      most, while the number of DP apparently never exceeded 3,000.
+        WhatisremarkableabouttheICOreportisthat,althoughthedatasetsmayhavebeen
+      quite substantial, they reveal hardly any exceptional practice at all. Instead, it is em-
+      phasized that CA almost exclusively, and certainly extensively, applied ‘commonly
+      available technology’ and ‘widely used algorithms for data visualization, analysis and
+      predictive modelling’17 – and, if anything, may have supplemented its data with those
+      from Facebook (570 DP on 30 million individuals, accumulated via Kogan’s app).
+      Correspondingly,CAmustbelargelyregardedasthenormofdigitalcampaigning.Yet,
+      this casts the established practices of political marketing in an even poorer light, and
+      ultimately highlights how public opinion-forming or electoral campaigning are being
+      rearranged (including technologically) via the meta medium Facebook. Although –
+      despite the firm’s own common self-portrayal – CAwas anything but the secret mas-
+      termind behind the MAGA campaign, the company actually did costrue a vital media-
+      technical link and– even apart from data analysisand modelling – was involvedin the
+      orchestration of election ads, as discussed in detail in the following section.
+      Digital campaigning and informative engagement         
+      As is well-known, Facebook has developed a surveillance-capitalist infrastructure that
+      allows marketing companies like CA to identify, bundle and target users according to
+      ‘relevant information’18 (gender, place of residence, preferences, etc.). For the Trump
+      election campaign, CA developed an additional dashboard named ‘Siphon’ which
+      recorded in real time any specific campaign ad’s performance, impressions and inter-
+      actions(webpagevisitsetc.)bothaccordingtosegmentations(rangingfrom‘persuaded’
+      to‘persuadables’, from ‘Hispanic’to ‘African American’) and interms of costs.19 This
+      way,theanalyticaltoolenabledtheMAGAteamtoconductadata-basedfine-tuningof
+      thecampaign,andthehierarchizationandselectionofindividualadcycles.Thisopened
+      up a certain scope for strategic corrections: as soon as a message was seen to have
+      insufficientimpact,failingtogeneratearesponse,additionaladslotscouldbepurchased
+      via Siphon so as to accelerate the dissemination of an ad or extend its reach, including
+      beyond public visibility, with Facebook offering what it then called ‘dark posts’: indi-
+      vidualized, non-public messages shown only to preselected users.20
+        This segmented, algorithm-based, and – in the words of Habermas – ‘temporarily
+      manufactured political public sphere’,21 primarily followed economic parameters in
+      particular: the costs of these campaigns ranged from $10,000 to $100,000 and totalled
+      about$44millionin2016alone(whiletheClintoncampaigninvestedsome$28million).
+                                                             
+                                                             
+                                                             
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+      182                          Philosophy and Social Criticism 50(1)
+                                                             
+                                                             
+      Throughthis,multipleadvariants(differingintermsofcolourdesign,slogansetc.)were
+      circulatedthatfocussedespeciallyon‘engagement’.22Asex-CAstaffmemberBrittany
+      Kaiser, writes:                                        
+        “Forexample,ifthecampaignputoutavideo[…]itcouldputmoneybehindafewdifferent
+        versionsoftheadandwatchitsperformanceinrealtimetodeterminehowmanypeoplewere
+        watching,whethertheypausedthevideo,andwhethertheyfinishedwatchingthevideo.Did
+        they click through linksattached toit […]? Didthey sharethe content with others?”23
+                                                             
+        The focus on engagement rates reflects the influence of Facebook, which has turned
+      politicaladvertising–justlikecommercialadvertising–intoabusinessofactivation,of
+      maintaining ‘economies of action’.24 Facebook does not sell advertisers mere ad slots,
+      likeinprintmedia,inorder tounidirectionallyand uniformly addressamass audience;
+      rather,itsellsacertaingroup-specificoutput,orchestratedviathenewsfeedalgorithm,for
+      example,webpagevisitsorlikes.Thisprocessitselfisbothsimpleandautomated:Once
+      anadvertiserhasidentified,orsegmenteda‘keytargetgroup’,Facebookscansforprofiles
+      thatshowsimilarpreferences,usingtoolssuchas‘Custom’or‘LookalikeAudience’.It
+      thusgeneratescorrelations,aswellasseekingtoinitiate–throughplatformproductslike
+      sponsoredor(inthepast)darkposts,orviasurveysorlotteries–aprocessthatgenerates
+      clicks,shares,commentsandthusacycleofconstantinformation-harvesting.Inthecase
+      oftheMAGAcampaign,thismighthaveincludedadsforarally,an‘OfficialApproval
+      Poll’,oraraffletowinaMAGAcap,wherebyanyoneinterestedwouldentertheirphone
+      numberandemailorstreetaddress.25Thisway,theteamaccumulateddatathatenableda
+      morepersonalappealandanimprovedcoordinationoffunds–withgreaterinvestments
+      promising a higher degree of activity.                 
+        Forthemostpart,adswerecreatedthatwoulddisplay–asisnotuncommoninadigital
+      ‘culturebetweenoverproductionandrecombination’26–onlyslightlydiffering,butinany
+      case, individualized content. This was done in order to prompt a lasting phatic en-
+      gagementamongTrumpfollowers.Boththedesignofadsandtheissuestheyaddressed
+      relied more on machine work than on editorial skills; they were based on user profiles,
+      preferencesandcharacteristics,asaresultofwhichtheseadswereplacedintherespective
+      newsfeedsinafragmentedbutnonethelessstandardizedmanner.Onthewhole,theTrump
+      campaign ran around 5.9 million ad variants on Facebook in 2016 – compared to the
+      Clintoncampaign’s66,000.Atthesametime,84percentoftheadssolicitedvotersfor
+      someformofactivity(e.g.donations),whereasonlyabouthalfofClinton’sadsfocussed
+      on such requests.27 The bulk of CA’s work consisted of rather conventional digital
+      campaigning: the company did not have to conduct a psychographic screening of the
+      electorateinordertocommunicatecampaignmessages.Indeed,CAlargelydrewonthe
+      ad mechanisms of platforms like Facebook, their modes of demographic segmentation
+      andservicesthatservedtocreateatargetgroup-specifickindofpermanentbackground
+      noise.28 Besides these informative feedback loops, which aimed at ‘a mood of con-
+      formity’,29 CA also focused on feeding a programmatic polarization premised on the
+      massaging of affects.                                  
+                                                             
+                                                             
+
+[PAGE 6]
+                                                             
+                                                             
+      Nosthoff and Maschewski                        183     
+                                                             
+                                                             
+                                                             
+      Antagonistic network affects: Decontextualization      
+      and demobilization                                     
+      ThestrikingaspectaboutCA’scampaigningactivitieswasthatitwastakingadvantageof
+      thealgorithm-basedadvertisingplacementonFacebook,whichprivilegesnotthehighest
+      bidderbuttheadthatwill–mostlikely–provokemoreattention,thatis,feedback.With
+      this functional logic of an attention economy, orengagement economy operating in the
+      background,thedatacompanycreated election adsguided lessbytheideals ofrational
+      discoursethanbythe‘affectivepoliticsofdigitalmedia’.30Theaim,atalltimes,wasto
+      orchestrate ‘network affects’,31 and thus to generate emotional feedback which was
+      primarily expressed via images, videos and memes – Facebook’s algorithm prioritizes
+      audio-visual content over text – and were virally shared via the connective, constant
+      renewalofinformationflows.Intheprocess,CAlargelyappealedtoanaggressivefriend-
+      or-foe mindset that served to distinguish the Trump campaign or set it into contrast,
+      relyingondecontextualizationwhenitcametoimage-textcompositions(fakenewsetc.).
+      It thus deployed a logic of ‘filter clash’,32 that is, an intentional collision of political
+      positions.                                             
+        One of CA’s particularly catchy ads was a heavily edited video of a campaign ap-
+      pearance by Michelle Obama: in the original, from during her husband’s campaign in
+      2007,shehademphasizedthateventhoughthefamilywascurrentlyimmersedintherace
+      totheWhiteHouse,thetwodaughters’educationstillhadpriority,because,afterall:‘If
+      youcan’trunyourownhouse,youcertainly can’truntheWhiteHouse’.CAthentook
+      theseremarksoutofcontextandrecombinedthem,directedthemagainstHillaryClinton,
+      andpublicizedthemunderthetitle‘Can’tRunHerOwnHouse’.Apartfromdenouncing
+      Clinton’starnishedfamily values,thecompanywasalsoapplyingacertainsexism–as
+      Bill Clinton’s Lewinsky affair was hinted at – thereby conveying the impression that it
+      wasnotonly‘Democrat-against-Democrat’butalso‘woman-against-woman’.33Theaim
+      ofthisframingwastoincreasethelikelihoodthatDemocratswhoprioritizedconservative
+      familyvaluesovertheirdislikeofTrumpwouldnotidentifywithClintonandthuswould
+      refrain from voting for her.34 Similar strategies were pursued through videos in which
+      ClintonreferredtoTrumpsupportersasa‘basketofdeplorables’ortomembersofyouth
+      gangsas‘superpredators’(1996).35Suchadswerespecificallyplacedinthenewsfeedsof
+      AfricanAmericansinswingstates,intendedtoserveafirm‘deterrence’36orevenvoter
+      suppression.Theywerecorrelated,asSamuelWoolleyandDouglasGuilbeaultnote,with
+      ‘lessconventionalgoals:tosowconfusion,togiveafalseimpressionofonlinesupport,to
+      attack and defame the opposition, and to spread illegitimate news reports’.37
+        WhileBarackObamahadalreadyusedplatformslikeFacebooktomobilizevoters,38
+      and his campaign had always sought to use the ‘positive culture of affects’,39 CA’s ads
+      frequently focusedontheexact opposite, namely,inducing ‘negativeaffects’.40Affects
+      like disgust, fear or anger were specifically targeted – negative feedback is easier to
+      generate and thus less costly, and it spreads more quickly and more widely in social
+      networks.41 Another focus were efforts aimed at actuating spirals of indignation, at
+      concentrating‘irritabilities’42onsocialmedia:afterall,theadsplacedweresupposedto
+      havebothaninwardeffect–thatis,boostingtheactivationofthefriend,theRepublican
+                                                             
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+      184                          Philosophy and Social Criticism 50(1)
+                                                             
+                                                             
+      voterbase–andanoutwardone–thedeactivationoftheenemy,thedemobilizationofthe
+      opposition.43Fromthisperspective,theaimwaslesstoturnDemocraticintoRepublican
+      voters – as has often been insinuated in the public debate44 – but rather to apply an-
+      tagonistic strategies heightening the ‘us vs. them’ division and undermining the legiti-
+      macy of opponents’ demands.45                          
+        In this sense, the campaigns underscore that CA used the variable differentiation of
+      communicationintermsofimage,text,videoormemenotonlyforinformationextraction
+      butalsoforpromptingaffects,inordertofeedpolarization.Theythusmainlyservedthe
+      programmaticdevelopmentofapopulismthatreliesongroup-dynamicsratherthanmass
+      ones.Ontheonehand,networkprocesseswerepursuedthataimedattheformationand
+      engagement of communities of affect, that is, ‘particular collectives’ and, connected to
+      this, ‘the promise of an immediacy of political participation’.46 On the other hand, CA
+      alsopursuedtheexactopposite,thatis,democraticde-participation,akindofcalculated
+      de-politicization.Thisambivalentcorrelationitselfrevealshowthecompanytransposed
+      Facebook’scommercial,affectiveformsofcommunicationtothepoliticalrealmandhow
+      it deployed the platform-economy mechanisms of ‘rating’ and ‘interaction’ for the
+      purposes of heightening antagonisms. In short: ‘Facebook has built an algorithmic ad-
+      buyingsystemwithamercenarydrivetowardresults,andTrump’scampaignexploitsit
+      tirelessly’.47                                         
+      The affective infrastructure: Facebook’s interactive platform
+      experimentalism                                        
+      ThatCA’sadvertisingstrategies,asoutlinedabove,havelongsincebecomebusinessas
+      usualisunderscoredbythefactthatthecompanywasworkingon‘affectheuristics’48–
+      thatis,theproductionofaffectonspecificFacebookgroups–alreadyin2014.Atamore
+      basic level, the significance of Facebook’s infrastructure is also reflected here, as it is
+      preciselytheprogrammedobjectiveofthenewsfeedalgorithmthatallowsforpolarizing
+      selectedtargetgroups,thatis,deployingtheplatformasa‘radicalizationmachine’.49Asa
+      case in point, Wylie describes the significant change in the newsfeed that a like for the
+      ‘Proud Boys’ prompted in contrast to liking such sites as Walmart, because ‘liking an
+      extreme group […] marks the user as distinct from others in such a way that a rec-
+      ommendationenginewillprioritizethesetopicsforpersonalization’and‘starttofunnel
+      the user similar stories and pages—all to increase engagement’.50
+        Alongside harnessing such modes of personalization, the infrastructurally immanent
+      ‘affective feedback loops’51 of the newsfeed were also used for activation: that is,
+      mechanisms‘bywhichaffectcirculatesfromtheuser,intothealgorithmicallydetermined
+      product, which returns “desired” content back to the user’.52 Wylie, too, explains these
+      ‘ludic loops’ as ‘“variable reinforcement schedules” […] that create anticipation, but
+      wheretheendrewardistoounpredictable[…]toplanaround’—meaning,methodsthat
+      create a personalized, informative ecosystem and provoke a ‘self-reinforcing cycle of
+      uncertainty, anticipation and feedback’. As a result, Wylie states, the platform operates
+      withthe‘randomnessofaslotmachine’.53Userattentionistobeadditionallyabsorbed
+      throughflashingmessages,livevideos,photos,aswellasbyappslikethe‘pull-to-refresh
+                                                             
+                                                             
+
+[PAGE 8]
+                                                             
+                                                             
+      Nosthoff and Maschewski                        185     
+                                                             
+                                                             
+                                                             
+      mechanism’(mediatedviatheapp’sbufferingorloadingsymbol).54Contentismadeto
+      havetheeffectofrewards,andthe‘infinitescroll’downtheendlessnewsfeedexpresses
+      the oft-cited ‘fear of missing out’ (FOMO).55          
+        Facebook’sfoundingpresidentSeanParkeralreadyencapsulatedthemainobjectiveof
+      hiscompany’s‘socialinfrastructure’(Zuckerberg)inthequestion,‘Howdoweconsume
+      asmuchofyourtimeandconsciousattentionaspossible?’,construingthe‘like’buttonas
+      ‘a social-validation feedback loop’, emphasizing the ‘dopamine hits’ it triggered and
+      definingitasamechanismwhich‘[exploits]avulnerabilityinhumanpsychology’.56The
+      network’s affective structure follows a behaviourist and behavioural economics-based
+      rationale. Through its interface design it seeks to increase the likelihood of a certain
+      behaviour,pre-structurespacesofactionandreactioninamachine-readableform(from
+      the ‘wow emoticon’ to the angrier variants). Indeed, the various tools such as push
+      messagesand‘poking’arequiteliterallyreminiscentof‘nudging’,thatpush‘intheright
+      direction’57 whereby the desired behaviour, which, incidentally, must be constantly
+      elicited, is that which generates information.58 Facebook makes those platform instru-
+      mentsavailabletoawiderangeofpoliticalactors;thecorporationlikestocitethisfactin
+      order to portray itself as politically unbiased – correspondingly, in 2016, Zuckerberg
+      denied any interference with the US election, insisting that Facebook is a neutral ‘tech
+      company’,asopposedtoacontent-based‘mediacompany’.59Themorenuancedinsight
+      that technology could theoretically be conceived of as neutral but that Facebook in
+      particularneveractsmerelyasaneutraltechnologicalmediumoperatinginisolationfrom
+      anyspecificinterestsorlogicsissubstantiatednotonlybytheplatform’sfundamentally
+      profit-oriented nature but especially by its programmatic-interactive experiments.
+        Forexample,in-houseresearchwasconductedtofindwaystoinfluenceuserbehaviour
+      by redesigning the interface and/or newsfeed. In the context of the ‘61-Million-Person-
+      ExperimentinSocialInfluenceandPoliticalMobilization’duringthe2016congressional
+      elections,agroupofFacebookuserswerenotonlyprovidedwiththeoptionofclickingon
+      an ‘I-voted button’on their screen but also shown informationon whether their friends
+      had voted. According to Facebook’s researchers, the effect of the ‘social message’ was
+      that the probability of users seeking information about their polling stations rose by
+      0.26percent andthelikelihoodofuserscasting theirvote increasedby0.39percent–
+      whichtranslatedintoanadditional340,000votes.60Inanotherexperimenton‘emotional
+      contagion’,61 Facebook was able to prove in 2014 that users produced more negative
+      feedback as soon as their newsfeed contained fewer posts, thereby showing that it was
+      abletoinfluenceuserbehaviourthroughthealgorithmiccurationofcontent.Inretrospect,
+      these experimental designs reflect an interactive ‘platform experimentalism’,62 which
+      seeks to make the company’s own – scientifically founded – tools available to both
+      businesses and political interest groups.63As Wyliewrites,Facebook was ‘frequentlya
+      supporter of this psychological research’, granted academic researchers like Kogan
+      ‘privileged’ access to its users’ private data – and certainly not simply so for altruistic
+      reasons–andhadalreadyin2012filedforaUSpatentfor‘Determininguserpersonality
+      characteristics from social networking system communications and characteristics’.64
+        In the scholarly literature on political communication, platforms are often concep-
+      tualized merely as neutral distribution channels.65 Yet, experiments in strategic
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+      186                          Philosophy and Social Criticism 50(1)
+                                                             
+                                                             
+      advertisingintheengagementeconomyhighlighttherealitythatFacebook,withitsprofit-
+      focused motive, contradicts such interpretations. The platform is anything but a mere
+      mediumforsenderandreceiver.Instead,itformsitsownmodeof–bothchannelledand
+      channelling – communication, converts network effects into network affects, and
+      forcefully applies its commercial mechanisms, often in combination with cybernetic
+      mechanisms.                                            
+                                                             
+      Cyberneticcommunicationandthelogicoffeedbackpropaganda 
+      In looking at the infrastructure of Facebook, we can identify the stimulation of ‘social
+      contagioneffects’66throughthefeedbacklogic,effectsthattranslatedigitalcommunities
+      into ‘nervous systems’, and we may thus conclude, more generally, the merging of
+      commercializationwithcyberneticlogicsofcontrol.67Fromthisangle,thesocialnetwork
+      denotes a place where news – regardless of whether it is true or fake – can be scaled
+      (indeed,escalated)athighspeed,therebypromptingaproductivedynamicthatisessential
+      for the (information) system Facebook: hence, for the latter, the value added of an af-
+      fective polarization (see CA) arises not so much from supposedly pluralistic disagree-
+      ment.Theobjectiveis,rather,theclassiccyberneticquestforexploitableinformationand
+      communication,thechannellingandaccelerationofitsflowrate(likes,shares,etc.),that
+      is, a constant circulation that isperpetually readjusted through a controlling, automated
+      curationofthenewsfeed.Whatdevelopsis‘communication-breedingcommunication’,68
+      independently reproducing itself and intensifying in a virtually infinite recursive loop.
+        Actors such as CA represent, at best, variables in the function of the platform, the
+      expression ofacybernetic-capitalistinfrastructurethatprovidestheprogrammaticbasis
+      for feedback propaganda. This latter includes the placing of interaction-enticing ads,
+      whosereach(seeSiphondashboard)istestedandcontrolledinrealtimeinexperimental
+      feedbacksettings,andwhicharegearedtowardsvariabilityandvirality.Atthesametime,
+      it harnesses users as forwarding hubs for polarizing election ads.69 Gary Coby, Digital
+      DirectoroftheTrumpcampaignin2016,explainswhathecalls‘A/Btestingonsteroids’:
+      ‘They[Facebook]haveanadvantageofaplatformthathasusersthatareconditionedto
+      click and engage and give you feedback. […] On any given day… the campaign was
+      running 40,000 to 50,000 variants of its ads, testing how they performed in different
+      formats’.70 The cybernetic logic thus encompasses an ‘experimental epistemology’
+      (McCulloch),itisrecursiveworkinprogress,constantlycreatingnewoutputs,whichare
+      fedintothesystemasinputsandtherebycreatenewoutputs–entirelyalongthelinesof
+      the homoeostatic system which relies on constant activity and commotion for produc-
+      tivity, that is, for its survival.                     
+        This dynamic not only reflects Norbert Wiener’s early definition of feedback – ‘the
+      controlofasystembyreinsertingintothesystemtheresultsofitsperformance’71–but
+      alsopointstoacyberneticconceptofcommunication:afterall,forFacebook,thevalueof
+      amessageliesnotsomuchinitsactualsubstance,butratherinitsformalinformational
+      content. The platform thus updates Claude Shannon’s decision theory-based commu-
+      nicationmodel,whichemphasizedtheprocesscharacterandfrictionlessmanageabilityof
+      information flows. In the Foreword to Shannon’s The Mathematical Theory of
+                                                             
+
+[PAGE 10]
+                                                             
+                                                             
+      Nosthoff and Maschewski                        187     
+                                                             
+                                                             
+                                                             
+      Communication, his colleague Warren Weaver underscores the focus on calculus and
+      operativity, not on sense or semantics, by pointing out that it is irrelevant from the
+      perspectiveofinformationtechnologywhetheramessagecomprisestheentireBibletext
+      or simply the word ‘yes’.72 And neither was CA’s choice of ad variants based on the
+      qualityofthecontent:allthatmatteredwastheiraffectiveandactivatingpotential,thatis,
+      whetherornottheygeneratedinformationandfollow-upcommunication.Theselection
+      ofany particular message was not made based ontruth contentbut rathervalued in the
+      currency of engagement. This reduction of communication to mathematical parameters
+      ultimatelynotonlyexplainsthecyberneticmachinery’sdisinterestinregulatingcontent,
+      butturnsitintoanidealinterfaceforpolarizingpractices–infactevenprivilegingsuch
+      practices in the context of fluid newsfeeds.           
+      Cybernetic governmentality                             
+                                                             
+      Apart fromthecybernetisation ofcommunicative action,thecase ofCAalsoillustrates
+      the cybernetization of subjects, which is addressed here in terms of the ‘best possible
+      conductorofsocialcommunication,thelocusofaninfinitefeedbackloop’.73Infact,early
+      cybernetics proceeded from an image of subjects not as reflective but as adaptively
+      reacting actors that adjust to changing environments. Both Wiener and W. Ross Ashby
+      alreadyduringthe1940sand‘50sturnedtheirattentiontothe‘adaptivebehaviour’74of
+      individualsandsystems,albeitwithdifferingemphases.Theydidsosometimebeforethe
+      scholar of cybernetic politics Eberhard Lang asserted individuals’ existential political
+      ‘need for instructions’, which ‘behavioural research’75 helped to accommodate. The
+      subjectthusappearedasbehaviouristicallyprimedblackbox,whichmatterednotinterms
+      ofintrinsicmotivation orexistential psychology,but,ifatall,with regardtoregistrable
+      andquantifiableinputsandoutputs.This,alreadydecadesbeforebehaviouralresearchers
+      likeKoganenlightenedusaboutthepotentialsofsocialnetworksthroughtheirdata-based
+      experiments.76                                         
+        Likewise, Facebook does not burden itself with speculations on the potential in-
+      tentionalityofanaction,butconcernsitselfwithcorrelationsandmeasurablepatterns,a
+      kind of ‘psychology without the psyche’ (Hans Jonas) that makes it possible to infer
+      charactertraits,preferencesorexpectablevotingbehaviour.Theaimisthereforesimplyto
+      valorizequantifiablebehaviourand,ifneedbe,toadjustthestimuliinsuchawaythatthey
+      haveanaffectiveimpactand,bybeingfedintoacommunicativecircuit,enablefeedback.
+      Facebook’s transformation of communication into an algorithmically readable, mathe-
+      maticallyformulatedoperationessentiallyputsintoconcretetermswhatTiqqundescribes
+      asthe‘cybernetichypothesis’:77theclaimthatmodesofsocialbehaviourcanbeshaped,
+      ormodelledviafeedbackloops.Inthiscontext,Tiqqunidentifiesasubjectdeprivedofall
+      substance whose actions can be adjusted by shaping their environments. The Facebook
+      platform features similar programmes of attempted ‘behavior modification’78 as it de-
+      codesandanalysesitsusers’behaviourpatternsandstructurestheminaccordancewith
+      emotional cybernetics – and therefore, in a way, governs them.
+        If we define government along the lines of Michel Foucault, as ‘a total structure of
+      actionsbroughttobearuponpossibleactions’,asasettingwhich‘incites,[…]induces,
+                                                             
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+      188                          Philosophy and Social Criticism 50(1)
+                                                             
+                                                             
+      […] seduces’,79 then Facebook’s platform marks the establishment of a new art of
+      governmentsuigeneris–acyberneticgovernmentality.Itmaynotpursueanydefinitive
+      courseintermsofpoliticalpartisanship,butitisgearedtowardsgeneratingfeedback,the
+      communicationflowssovitalforitsbusinessmodel,andtowardsthesovereigncontrolof
+      thechannels.Thatsaid,itshouldbeemphasizedthatFacebook’scyberneticallystructured
+      communication by no means creates a digital machine a` gouverner, as early critics of
+      cybernetizationwereconcerned,whichmovesthemassesatthepushofabutton–or,asis
+      often suggested, even ‘hacks’ voters.80 Today’s control reflexes are more subtle, rarely
+      unidirectional, and focus—given their reach—on systematic productivity under the
+      bannerofaconstantfeedbackdynamic.ItisthereforeonlylogicalforFacebooktohave
+      no interest whatsoever in the hierarchical registers of suppressing communication so
+      typical of classic propaganda. Instead, the codes of communicative evolvement are
+      orchestrated via ‘information control’.81              
+        Hence, the cybernetic art of government relies on the constant expansion of com-
+      munication channels, indeed of the platform logic. It crucially depends on the infra-
+      structure incessantly supplying ever-more affective stimuli, an ever-greater variety of
+      options and nudges, so that when a problem – a disruption, or, in cybernetic terms, an
+      instance of noise – arises, substantial restrictions in the form of excommunications (as
+      withTrumpinJanuary2021),seldomlyoccur.Theobjective,atalltimes,isthecirculation
+      ofinformationandthe(atbest,homoeostaticallystabilizing)self-regulation,asaresultof
+      which any new crisis – or increasing demands with regard to content regulation – is
+      responded to merely by devising new tools which aim to generate further responsive
+      networking (even the incorporation of users in the process of content moderation via
+      offering the opportunity to ‘flag’ content can be read as an instance of information
+      generation).Inthissystemofobjectives,thediktatofinformativeconnectivityhasalways
+      beenparalleledbytheaffirmationofaspecificformofcommunication,whichconstrues,
+      designs and structures individual and public opinion-forming itself as a sequence of
+      machine-readable, commercializable signals and choices.
+      The platform economy’s infrastructural transformation of the
+      public sphere                                          
+      The ‘social infrastructure’ called Facebook potentiates what Habermas refers to as the
+      ‘transformation of the public sphere’s political function’ that accompanies the
+      manufacturing of the public sphere and its being imbued with power [Vermachtung].82
+      The philosopher famously diagnoses ‘a kind of refeudalization’83 of the public sphere
+      withaviewtoitscommercialization(includinginthecontextoftheemergent‘opinion-
+      molding services’84 and the increasingly dominant field of public relations), and traces
+      how,fromthe19thcentury,thispublicspherewasincreasinglyshapedbyprivatebusiness
+      interestsviathebusinesspress.WithregardtotheroleofplatformssuchasFacebookand
+      marketingfirmslikeCA,wecanobserveacontinuation,orevenanintensificationofthis
+      ‘structural transformation of the public sphere’, following the logic of the platform
+      economy. Social networks long managed to portray themselves as the incarnation of a
+      radically democratic pluralism, as trailblazers of ‘equal access’ and a digital ‘culture of
+                                                             
+                                                             
+
+[PAGE 12]
+                                                             
+                                                             
+      Nosthoff and Maschewski                        189     
+                                                             
+                                                             
+                                                             
+      participation’ – one in which matters of public interest could, it was claimed, be freely
+      discussedwithoutanyformsofdomination.Yet,todaythereisnoquestion–despiteall
+      ‘emancipatory potential’that Habermas concedes even to the new digital public sphere
+      that has been freed of ‘admission requirements’85 – that these intermediaries not only
+      accelerate the commercialization of the public sphere, but also concentrate power
+      structures at a programmatic level.                    
+        From a media-technical perspective, the platform economy’s infrastructural trans-
+      formation crucially rests on cybernetic mechanisms which establish a dialectic of en-
+      gagementandcontrolinordertotherebyenableafragmentationofthepublicsphere,as
+      illustrated here with a view to Facebook and CA. In the process, the platform, firmly
+      rootedinthefeedbacklogicasitis,controlsahighlyresponsiveinfrastructurewhich,in
+      contrast to the unidirectionally emitting mass media like print or TV, curates specific
+      contents – adhering to the concept of fluid inputs and outputs – via reactance and
+      performance,andconstantlyreadjustsandoptimizesinformationflows.Theshiftsinthe
+      digital manufacturing of the public sphere thus become apparent at the level of algo-
+      rithmic sorting of news contents by the gatekeeper Facebook,86 and thereby in the re-
+      placementofclassicmedia’sfilterfunctionbyautomatedpracticesofratingandselection
+      such as the newsfeed algorithm.87 Consequently, Facebook acts as a pre-existing, pre-
+      selecting program architecture that decides which content and which public sphere is
+      showntowhom,andwhen.Atthesametime,giventheproprietaryshield–Facebook’s
+      newsfeedalgorithmremainsabusinesssecret–andtheconstantprogrammaticrevisionof
+      the code, neither are the selection mechanisms publicly transparent nor do content
+      moderators’ decisions always follow consistent or transparent criteria.88
+        Yet, if news are increasingly programmed and sorted according to the patterns of
+      personal interactions and preferences rather than social relevance or rationality, and
+      users–orvoters–are‘attendedto’,atbest,as‘keytargetgroups’oraudiences,thenthere
+      isarisk–and,morerecently,Habermashasinfactconcededasmuch–thatacollective
+      frameofreferenceforpoliticalopinion-forminggetslost89andisreplacedwithsituational
+      affect.Beyondthenormativehorizonofadeliberative,transparentdiscourse,therealso
+      seems to be an immanent ‘establishment of a multiplicity of parallel public spheres’,
+      which,‘inextremecases’canerode‘thecommonbasisforadebatebetweensubjects’.90
+      This dynamic is growing in scope precisely with regard to Facebook – see also CA’s
+      demobilization strategies.                             
+      The programmed lack of alternatives and infrastructural power
+      Against this backdrop, the Facebook platform constitutes a ‘persuasive technology’, an
+      intrusiveprogramarchitecture,whichstructuresthe(political)publicspheremainlyalong
+      the principles of the attention or engagement economy and in-forms it via connective
+      immediacy – understood here, in a somewhat reductionist manner, as click-based par-
+      ticipation[Teilnahme],asopposedtoparticipativeinclusioninthesenseofpartaking[the
+      broaderdimension involved inTeilhabe,insenseofhaving ashare insth].91Underthe
+      bannerofcyberneticgovernmentality’sformsofinteraction,itabsolutizesandmonetizes
+      not only specific modes of information and communication, but also increasingly
+                                                             
+                                                             
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+      190                          Philosophy and Social Criticism 50(1)
+                                                             
+                                                             
+      manifestsaswhatcanbedescribedasaprogrammedlackofalternatives.Afterall,‘the
+      ultimate objective of Internet companies such as Facebook’, as William Davies sum-
+      marizesthegoalsofthe‘gatekeeperplatforms’92fromSiliconValley,‘istoprovidethe
+      infrastructurethroughwhichhumansencountertheworld.[…]Accordingtothisvision,
+      when the mind wants to know something, it will go to Google; when it wants to
+      communicate with someone, it will turn to Facebook’.93 
+        This same aspect has consequences for the political arena, too: if a party wishes to
+      reach itsvotersanddisseminate itspositions andagenda inourdigitalpresentday,it is
+      forced to adapt to the platform’s logics, codes and experiments – as is also suggested,
+      incidentally, in the Bosworth memo.94 Facebook is therefore anything but an unbiased
+      company or neutral medium; rather, it acts as a para-democratic infrastructure95 whose
+      monopoly increasingly arises from an epistemic predominance, that is, from its tech-
+      nologicalknow-howitself.Afterall,theplatform’sprogrammedlackofalternativesalso
+      engulfs both the expertise of political or public opinion-formation and the structure of
+      electioncampaigns,asthereisoneparticularactorwho,thankstothemosteffectivetools,
+      isparticularlywellinformedonjustabouteverything:thatis,theplatformarchitect.This
+      isascenarioinwhichFacebooknotonlyfunctionsasdistributionchannelbutalsoactsas
+      consultant,andinwhichitappearsplausiblethatdigitalcampaigningteamswillbemade
+      obsolete in the short to mid-term, because their work is outsourced entirely to the
+      platforms.96 It would therefore seem only logical, in an age of ‘technology-intensive
+      campaigning’,97thatthecorporations’expertsactivelyadvertisetheirproductstopolitical
+      parties, that the campaigns collaborate closely with Facebook, and that ‘symbiotic re-
+      lationship[s]’98 may even develop between political actors and Silicon Valley. Corre-
+      spondingly, Kreiss and McGregor concluded – not too long after Trump’s election in
+      2016 – we are witnessing a rising dominance of ‘click-bait campaign ads, where the
+      technologicalabilityandincentivetomonetizeengagementbybothfirmsandcampaigns
+      leads to increasingly sensationalized and targeted political communication’.99
+        This tendency was demonstrated and indeed carried further by the modes of com-
+      munication that dominated the 2020 US presidential campaign – owing not least to the
+      riseofalong-sincegloballyactive‘influenceindustry’.100EvenFacebook’sconcession
+      that it would allow users to deactivate election ads reflects a cybernetic-capitalist ob-
+      jective,aseachchoicerepresentsanadditional,lucrativepieceofinformationandfeeds
+      intouserprofiles.Apartfromageneralsuspensionofcalculatedtargeting–andeventhe
+      7-day ban on political advertising right before the US election marks an exception that
+      provestherule–everythingissupposedtoremainwithintheplatform’scontrolloop,and
+      sothefocusisalwaysonsystemicself-regulationratherthanexternallegislation.Eventhe
+      ‘deplatforming’ of Trump in the wake of the attack on the Capitol, which is as under-
+      standable as it appeared necessary at the time, underscores this logic. Facebook has
+      carriedtheprivatizationofthepublicspheretoapointatwhichtheplatform,asameta
+      medium (not to be confused with the company’s new name), develops its own infra-
+      structuralpower,whichsets(community)standards,thatis,theconstitutiveframeofits
+      various publics,101 and in exceptional cases decides, direct-technocratically, on a user’s
+      exclusion.102 In this way, the platform not only sorts relevance in accordance with
+      engagementperformanceandpreparestheproprietary,algorithmicspaceforthe‘arcane
+
+[PAGE 14]
+                                                             
+                                                             
+      Nosthoff and Maschewski                        191     
+                                                             
+                                                             
+                                                             
+      policies of special interests’,103 as already addressed by Habermas, but it in fact de-
+      termines,asthe‘gatekeeperplatform’thatitis,whatisdisplayedtousers,when,howand
+      bywhom,whilecontrollingoverallaccess.104Inotherwords:sovereignishewhodecides
+      on the communicative norm.                             
+        Theplatformeconomy’sinfrastructuraltransformationofthepublicspherethusalso
+      promptsanintensificationoftheHabermasiandiagnosis,inthesensethatevenbeyondthe
+      public sphere’s economization and its ‘transformation […] into a medium of advertis-
+      ing’105 the contours of Facebook’s monopoly as a meta medium become apparent.106
+      From this angle, the (standard) case of CA does not only cast light on particular de-
+      velopments in political campaigning. Rather, it represents a company-specific, pro-
+      grammatic power configuration, which closely intermeshes economic interests and
+      cyberneticlogicsofcommunication.Ittherebysubjectsthe(political)publicspheretoits
+      code, indeed with an increasingly lasting effect, via a prior infrastructural level, and
+      centralizes it in accordance with the platform logic.  
+        In their prudent pursuit of self-interest, the producers of the platform managed for a
+      long time to propagate a public image of themselves as neutral tech companies, which
+      model the public sphere, as Habermas puts it, as the ‘cybernetic dream of a virtually
+      instinctiveself-stabilization’107andre-programcommunicativeexchange.However,the
+      portrayal of social media as ‘learning organisms’ (Zuckerberg) with a non-partisan
+      mission can hardly gloss over the fact that, in the surveillance-capitalist application of
+      cyberneticlogicstopublicopinion-forming,‘thevaluesystemwould[contract][…]toa
+      setofrulesforthemaximizationofpowerandcomfort’.108Correspondingly–notleast
+      withaviewtotheplatformoperators’botchedattemptstoregaincontroloverantagonistic
+      network affects through algorithmic tools – what Habermas established as early as the
+      1960s is even more valid today: ‘This challenge of technology cannot be met with
+      technology alone’.109                                  
+      ORCID iD                                               
+      Anna-VerenaNosthoffhttps://orcid.org/0000-0003-0890-2511
+      Notes                                                  
+        1. This article is a translated and modified version of the article ‘Der plattformo¨konomische
+         InfrastrukturwandelderO¨ffentlichkeit:FacebookundCambridgeAnalyticarevisited’,which
+         waspublishedinaspecialissueofthejournalLeviathanin2021.Thisversionisbasedona
+         translation byJan-Peter Herrmann.                   
+        2. Bosworth 2020.                                    
+        3. SeeSrnicek 2017,pp. 50ff.                         
+        4. Thenotionoftheplatformasaninfrastructure,or‘infrastructuralizedplatform’(Plantinetal.
+         2018,p.298)advancedinthisarticleadherestothedefinitionputforwardbyDanielKreiss
+         undShannonMcGregor:‘Asinfrastructure,theplatformsthesefirmssupportarewidely(and
+         publicly) accessible and provide the basis of a generally invisible context for everyday
+         sociality,evenastheseinfrastructures,asplatforms,aredynamic,competitive,private,and
+         commercialized’.(Kreiss, McGregor 2017,p. 19).      
+                                                             
+                                                             
+                                                             
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+      192                          Philosophy and Social Criticism 50(1)
+                                                             
+                                                             
+        5. Habermas 1991,p. 216.                             
+        6. SeeNosthoff,Maschewski 2017.                      
+        7. Avirganetal.2018.                                 
+        8. Zuboff2019.                                       
+        9. The article, ‘Ich habe nur gezeigt, dass es die Bombe gibt’ (‘I only showed that the bomb
+         exists’),byHannesGrasseggerandMikaelKrogerusinDasMagazin,subsequentlypublished
+         inEnglishas‘TheDataThatTurnedtheWorldUpsideDown’,turnedinternationalattention
+         toCAasearlyasDecember2016,promptinganincipientdebateonpersonalizedtargeting,the
+         possibilitiesofpoliticalinfluenceonsocialmedia,andFacebook’sunderlyingaccumulation
+         of user data (see Grassegger, Krogerus2016;Nosthoff,Maschewski 2017).
+       10. SeeNix 2016.                                      
+       11. SeeCadwalladr 2018;Rosenberget al.2018.           
+       12. Onthe dynamic of the debate, seeNosthoff,Maschewski 2018.
+       13. SeeAnderson, Horvath2017.                         
+       14. Karpf 2016.                                       
+       15. SeeInformation Commissioner’s Office(ICO) 2020,p. 13.
+       16. SeeKaiser2019,p.232ff.AccordingtoKaiser,CAfoundoutthroughitsowntestsbasedon
+         the‘OCEAN’BigFivemodel(seeKosinskietal.2015)thatuserswhohadbeenidentifiedas
+         ‘highlyneurotic’andleanedtowardsvotingRepublicancouldbereachedmostefficientlyby
+         frightening narratives.                             
+       17. ICO 2020,p. 16.                                   
+       18. Kaiser 2019,p.225.                                
+       19. Seeibid.                                          
+       20. Green,Issenberg2016.                              
+       21. Habermas,1991,p.216.                              
+       22. SeeFrier 2018.                                    
+       23. ibid., p.226.                                     
+       24. SeeZuboff2019,pp.296ff.Also: Tufekci 2014or Kreiss2016.
+       25. Thisformofcommunicationisparticularlysuccessfulintermsofincreasingvoterturn-out
+         anddonations (see Baldwin-Philippi 2019).           
+       26. Reckwitz 2017, p.238(translation amended).        
+       27. SeeFrier 2018.                                    
+       28. Trump’selectioncampaignin2020alsodisplayedsuchpatterns:inthecontextofarallyin
+         January 2020 advertised on Facebook, only 3.6 per cent of the 1,800 ad variants specified
+         individual groupsmoreclosely in demographicterms (see Bogost; Madrigal 2020).
+       29. Habermas,Transformation,p.195.                    
+       30. Boler,Davis2020.                                  
+       31. SeeMaschewski,Nosthoff2019,p.60.Inthiscontext,the‘networkaffects’correspondtothe
+         definitionputforwardbyMeganBolerandElisabethDavis,whoconstrueaffectsas‘emotions
+         on the move’ and place a special focus on the relationality: ‘Affect may be understood as
+         emotionsthatarecollectivelyorintersubjectivelymanifested,experienced,andmobilized,out
+         of the “private,” individual realm and into shared, even public spaces, which may then be
+         channeled intomovement(s)’. (Boler, Davis2018,p. 81).
+       32. Po¨rksen2018,pp.116ff.                            
+
+[PAGE 16]
+                                                             
+                                                             
+      Nosthoff and Maschewski                        193     
+                                                             
+                                                             
+                                                             
+       33. Kaiser 2019,p.233.                                
+       34. Seeibid., p.231f.                                 
+       35. See ibid., p. 228ff. In autumn 2020, the British broadcaster Channel4 conducted an inves-
+         tigationofthecampaign;astheGuardianreported:‘InMichigan,astatethatTrumpwonby
+         10,000 votes,15%ofvoters areblack.Butthey represented33%of the specialdeterrence
+         category in the secret database, meaning black voters were apparently disproportionately
+         targeted byanti-Clinton ads’ (Sabbagh 2020).        
+       36. Kaiser 2019,p.222.                                
+       37. Woolley,Guilbeault 2017,p.5.                      
+       38. SeeTufekci 2014.                                  
+       39. Reckwitz 2017, p.270.                             
+       40. ibid.                                             
+       41. SeeLanier 2018,p. 28f.;also: Vosoughi et al.2018. 
+       42. Po¨rksen2018(translation amended).                
+       43. SeeKaiser2019,p.218.Theeffectivenessofthismethodcannotbeverifiedempirically,as
+         CA’sdataarekeptunderwraps(seeKreiss2017).Thatsaid,reactionsintheformofopen
+         protestagainstClinton,includingbyBlackLivesMatteractivists,wereindeedrecorded(see
+         Gearan, Phillip2016).                               
+       44. SeeResnick 2018.                                  
+       45. SeeMouffe2005,p.20.AstheattackontheCapitolinJanuary2021seemstohaveproven,
+         social media undermine what Mouffe defines as the very task of democratic politics: ‘to
+         transform antagonism into agonism’. CA’s campaigns also highlight that the means of the
+         platform economy at times cause the exact opposite. Mouffe points out an indispensable
+         requirementforafunctioningdemocracycapableofdealingwithconflict,namelythesharing
+         of ‘acommon symbolicspace within whichthe conflict takes place’ (ibid.).
+       46. Vogl 2021,p.176(translation amended).             
+       47. Bogost, Madrigal 2020.                            
+       48. Wylie 2019,p.67.                                  
+       49. Ebner 2019.                                       
+       50. Wylie 2019,p.120.                                 
+       51. Papacharissi 2015,p.23.                           
+       52. Boler,Davis2018,p.76.                             
+       53. Wylie 2019,pp. 120–21.                            
+       54. SeeLewis 2018.                                    
+       55. SeePo¨rksen2018,p. 121.                           
+       56. Parker,quotedin Solon2017.                        
+       57. Thaler,Sunstein 2009(translation amended).        
+       58. SeeMaschewski, Nosthoff2019,pp.62f.               
+       59. Zuckerberg,quotedinWagner2016.Foracriticaltreatment,seeNosthoff,Maschewski2019,
+         pp.77f. andVogl2021,p.130.                          
+       60. Bondet al.2012.;for acritical treatment, see Zuboff2019,p.296ff.
+       61. Kramer et al.2014.                                
+       62. Maschewski, Nosthoff2019.                         
+       63. SeeZuboff2019,pp.297f.; Kreiss,McGregor 2017.     
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+      194                          Philosophy and Social Criticism 50(1)
+                                                             
+                                                             
+       64. Wylie 2019,p.96.                                  
+       65. SeeStromer-Galley 2014;Weekset al.2015.           
+       66. Bondet al.2012,p.295.                             
+       67. Oncybernetic capitalism, see Tiqqun 2010or Buckermann et al.2017.
+       68. Mersch2013, p.41(translation amended).            
+       69. Inthissense,feedbackpropagandacannotbereducedto‘computationalpropaganda’inthe
+         senseofautomatedbots(seeWoolley,Guilbeault2017),foritalsoincludessuchphenomena
+         as the so-called ‘fakeengagement’(see Wong2021).    
+       70. Quoted inKreiss, McGregor 2017, p.20.             
+       71. Wiener 1985, p.71.                                
+       72. SeeWeaver 1963,p.9.                               
+       73. Tiqqun2010,p.10.                                  
+       74. SeeAshby 1960[1952]; onWiener’s earlier understanding,see Bigelow et al.1943.
+       75. Lang 1970,p.63.                                   
+       76. In thisregard, seealso Kosinski et al.2015; for acritical treatment, see Richterich 2018.
+       77. Tiqqun2010,p.5.                                   
+       78. Zuboff2019,pp. 296ff.                             
+       79. Foucault1982,p.789.                               
+       80. Hersh 2015.                                       
+       81. Staab2019,p.177.                                  
+       82. Habermas 1991, p. 181. Habermas has recently reassessed his earlier account of the trans-
+         formation of thepublic spherevis-a`-vis current digital networks, see Habermas2022.
+       83. Habermas 1991,p.142.                              
+       84. Habermas 1991,p. 195.                             
+       85. Habermas 2020b,p. 108(translation amended).       
+       86. SeeStark, Magin 2019,pp. 386f.                    
+       87. SeeHabermas 2020a., p.27;Vogl 2021, p.127.        
+       88. For a more detailed discussion of content moderation and the associated problems, see
+         Gillespie 2018, pp.111–40.                          
+       89. SeeHabermas 2020a,p.27.                           
+       90. Reckwitz 2017, p.269,(translation amended).       
+       91. SeeMersch 2013,p.52.                              
+       92. Pie´tron, Staab2021,p. 99.                        
+       93. Davies 2018,p.186.                                
+       94. Theriseofpoliticalinfluencercampaigning,whichispredominantespeciallyonMeta’s–and
+         thus,Facebook’s sisterplatform – Instagram,attests tothis logicas well.
+       95. SeeVogl 2021,p. 117.                              
+       96. SeeKreiss, McGregor 2017, p.19.                   
+       97. Kreiss2016.                                       
+       98. Kaiser 2019,p.223.                                
+       99. Kreiss, McGregor 2017,p. 19.                      
+      100. Tactical Tech2019.                                
+      101. SinceOctober2020,Facebookhasbeenadvisedonmattersconcerningcontentmoderationby
+         a specially installed independent Oversight Board. Trump’s deplatforming was initially
+
+[PAGE 18]
+                                                             
+                                                             
+      Nosthoff and Maschewski                        195     
+                                                             
+                                                             
+                                                             
+         enactedbytheplatformitself,buttheboardsubsequentlyconfirmeditinMayof2021and
+         extendedthe banfor twomore yearsuntil 7January 2023.
+      102. SeeMaschewski, Nosthoff2021.                      
+      103. Habermas 1974,p. 55.                              
+      104. SeeStaab 2019,p. 223.                             
+      105. Habermas 1991,p. 189.                             
+      106. Thistendencyisalsoaggravatedbythefactthatestablishedmediaincreasinglydependon
+         ‘social’ media in order to even reach an audience and are more and more often being
+         subsidizedbytheplatforms–inthisregard,itisGoogle,alongsideFacebook,thathasstood
+         out more recently.See Dachwitz; Fanta2020.          
+      107. Habermas 1989,p. 186.                             
+      108. ibid.                                             
+      109. ibid.                                             
+      References                                             
+      Anderson,Berit,andHorvath,Brett.2017.TheRiseoftheWeaponizedAIPropagandaMachine.
+         https://medium.com/join-scout/the-rise-of-the-weaponized-ai-propaganda-machine-
+         86dac61668b.Accessed 0914,2020.                     
+      Ashby,W.Ross.1960[1952].DesignforaBrain.TheOriginsofAdaptiveBehaviour.London:
+         Wiley.                                              
+      Avirgan,Jody,Kreiss, Daniel, andMelone, Claire.2018.Politics Podcast:What theCambridge
+         AnalyticaStoryIsReallyabout.https://fivethirtyeight.com/features/politics-podcast-what-the-
+         cambridge-analytica-story-is-really-about/.Accessed 0914,2020.
+      Baldwin-Philippi, Jessica. 2019. “Data Campaigning: Between Empirics and Assumptions.” In-
+         ternet PolicyReview 8,no. 4:1–16. Accessed 0313,2021.doi:10.14763/2019.4.1433.
+      Bigelow,Julian,Rosenblueth,Arturo,andWiener,Norbert.1943.“Behavior,Purpose,Teleology.”
+         Philosophyof Science10: 18–24.                      
+      Bogost, Ian, and Madrigal, Alexis C. 2020. How Facebook Works for Trump. https://www.
+         theatlantic.com/technology/archive/2020/04/how-facebooks-ad-technology-helps-trump-win/
+         606403/.Accessed 0914, 2020.                        
+      Boler,Megan,andDavis,Elisabeth.2018.“TheAffectivePoliticsofthe“Post-Truth”Era:Feeling
+         RulesandNetworkedSubjectivity.”Emotion,Space andSociety 27: 75–85.
+      Boler,Megan,andDavis,Elisabeth2020.“Introduction:PropagandabyOtherMeans.”InAffective
+         Politics ofDigital Media,id. (ed.),1–50.NewYork; London:Routledge.
+      Bond,RobertM.,ChristopherJ.Fariss,JasonJ.Jones,AdamD.IKramer,CameronMarlow,Jaime
+         E.Settle,andJamesH.Fowler,2012.“A61-Million-PersonExperimentinSocialInfluence
+         andPoliticalMobilization.”Nature489: 295–298.       
+      Bosworth,Andrew.2020.LordoftheRings,2020andStuffedOreos:ReadtheAndrewBosworth
+         Memo. https://www.nytimes.com/2020/01/07/technology/facebook-andrew-bosworth-memo.
+         html. Accessed 0914,2020.                           
+      Buckermann, Paul, Koppenburger, Anne, and Schaupp, Simon. 2017. Kybernetik, Kapitalismus,
+         Revolutionen.Münster: Unrast.                       
+                                                             
+                                                             
+                                                             
+
+[PAGE 19]
+                                                             
+                                                             
+                                                             
+      196                          Philosophy and Social Criticism 50(1)
+                                                             
+                                                             
+      Cadwalladr, Carole. 2018. ‘I Made Steve Bannon’s Psychological Warfare Tool’. https://www.
+         theguardian.com/news/2018/mar/17/data-war-whistleblower-christopher-wylie-faceook-nix-
+         bannon-trump. Accessed 0914, 2020.                  
+      Davies,William.2018.NervousStates.HowFeelingTookovertheWorld.London:JonathanCape.
+      Ebner, Julia. 2019.Radikalisierungsmaschinen.Berlin: Suhrkamp.
+      Fanta,Alex,andDachwitz,Ingo2020.Medienma¨zenGoogle.OBS-Arbeitsheft103.Frankfurtam
+         Main:Otto-Brenner-Stiftung.                         
+      Frier,Sarah.2018.Trump’sCampaignSaiditWasBetteratFacebook.FacebookAgrees.https://
+         www.bloomberg.com/news/articles/2018-04-03/trump-s-campaign-said-it-was-better-at-
+         facebook-facebook-agrees. Accessed 0914, 2020.      
+      Foucault,Michel.1982.“TheSubjectandPower.”CriticalInquiry8,no.4(Summer):777–795.
+      Gillespie, Tarleton. 2018. Custodians of the Internet. Platforms, Content Moderation and the
+         HiddenDecisions thatShapeSocial Media. NewHaven; London:Yale University Press.
+      Grassegger,Hannes,andKrogerus,Mikael.2016.Ichhabenurgezeigt,dassesdieBombegibt.
+         https://www.tagesanzeiger.ch/ausland/europa/diese-firma-weiss-was-sie-denken/story/
+         17474918. Accessed 0605, 2021.                      
+      Green,Joshua,andIssenberg,Sasha.2016.InsidetheTrumpBunker.WithDaystoGo.https://www.
+         bloomberg.com/news/articles/2016-10-27/inside-the-trump-bunker-with-12-days-to-go. Ac-
+         cessed0914,2020.                                    
+      Hersh,EitanD.2015.Hacking the Electorate. NewYork:Cambridge University Press.
+      Habermas,Jürgen.1989.“TechnologyandScienceas“Ideology”.”InTowardaRationalSociety.
+         StudentProtest,Science,AndPolitics,editedbyJ.Habermas,andJeremyJ.Shapiro,81–122.
+         Boston,MA: BeaconPress.                             
+      Habermas,Jürgen.1974.“ThePublicSphere:AnEncyclopediaArticle.”NewGermanCritique3
+         (Autumn): 49–55.                                    
+      Habermas, Jürgen. 1991. The Structural Transformation of the Public Sphere. Cambridge, MA:
+         MITPress.                                           
+      Habermas, Jürgen. 2020a. “Moralischer Universalismus in Zeiten Politischer Regression.” In
+         Leviathan48,no.1:7–28.[“MoralUniversalisminatimeofpoliticalregression—Jürgen
+         Habermasinaninterviewabouttheworldtodayandhislife’swork,transl.byFrederikcan
+         Gelder, April 2020, available at: https://www.researchgate.net/publication/340903038_
+         translation_Jurgen_Habermas_Moral_Universalism_in_a_time_of_political_regression_-_
+         Jurgen_Habermas_in_an_interview_about_the_world_today_and_his_life’s_work_
+         interview_of_Jan_2020. Accessed March18,2023.       
+      Habermas,Jürgen.2020b.“WarumNichtLesen?”InWarumLesen.Mindestens24Gründe,edited
+         byKatharinaRaabe, andFrankWegner, 99–123.Berlin: Suhrkamp.
+      Habermas,Jürgen.2022.“ReflectionsandHypothesesonaFurtherStructuralTransformationofthe
+         Political Public Sphere.” Theory, Culture & Society 39, no. 4: 145–171. Accessed April 7,
+         2023.doi:10.1177/02632764221112341.                 
+      InformationCommissioner’sOffice.2020.ICOInvestigationintoUseofPersonalInformationand
+         PoliticalInfluence.https://ico.org.uk/media/action-weve-taken/2618383/20201002_ico-o-ed-
+         l-rtl-0181_to-julian-knight-mp.pdf.Accessed January9,2021.
+      Kaiser,Brittany.2019.Targeted:MyinsideStoryofCambridgeAnalyticaandHowTrump,Brexit
+         andFacebookBrokeDemocracy.London:Harper Collins.    
+
+[PAGE 20]
+                                                             
+                                                             
+      Nosthoff and Maschewski                        197     
+                                                             
+                                                             
+                                                             
+      Karpf,David.2016.PreparingfortheCampaignTechBullshitSeason.https://civichall.org/civicist/
+         preparing-campaign-tech-bullshit-season/.Accessed September 14,2020.
+      Kramer, Adam, Guillory, Jamie E., and Hancock, Jeffrey T. 2014. “Experimental Evidence of
+         Massive-ScaleEmotionalcontagionthroughsocialnetworks.”PNAS111,no.24:8788–8790.
+      Kosinski,Michal,WuYouyou,andDavidStillwell.2015.“Computer-BasedPersonalityJudgments
+         areMoreAccurate Than ThoseMadebyHumans.”PNAS 112,no.4: 1036–1040.
+      Kreiss,Daniel. 2016. Prototype Politics. Oxford:Oxford University Press.
+      Kreiss, Daniel, and McGregor, Shannon C. 2017. “Technology Firms shape political Communi-
+         cation:TheWorkofMicrosoft,Facebook,Twitter,andGooglewithCampaignsDuringthe
+         2016U.S.PresidentialCycle.”PoliticalCommunication35,no.2:155–177.AccessedJuly2,
+         2021.doi:10.1080/10584609.2017.1364814.             
+      Kreiss,Daniel.2017.“Micro-Targeting,theQuantifiedPersuasion.”InternetPolicyReview6,no.4:
+         1–14.Accessed 0313, 2021.doi:10.14763/2017.4.774.   
+      Lang,Eberhard.1970. Zueiner kybernetischenStaatslehre.Salzburg:Pustet.
+      Lanier,Jaron.2018.ZehnGründe,warumdudeineSocialMediaAccountssofortlo¨schenmusst.
+         Hamburg: Hoffmann undCampe.                         
+      Lewis, Paul. 2017. ‘Our Minds Can Be Hijacked’: The Tech Insiders Who Fear a Smartphone
+         Dystopia. https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-
+         silicon-valley-dystopia.Accessed 0914,2020.         
+      Maschewski, Felix, and Nosthoff, Anna-Verena. 2018. Facebook lo¨schen oder Facebook reg-
+         ulieren?AnmerkungenzuraktuellenAufregungumCambridgeAnalytica&Co.https://www.
+         rosalux.de/publikation/id/38734/facebook-loeschen-oder-facebook-regulieren. Accessed 5 6,
+         2021.                                               
+      Maschewski, Felix, and Nosthoff, Anna-Verena. 2019. “Netzwerkaffekte. U¨ber Facebook als
+         kybernetische Regierungsmaschine und das Verschwinden des Subjekts.” In Affekt Macht
+         Netz. Auf dem Weg zu einer Sozialtheorie der Digitalen Gesellschaft, edited by Rainer
+         Mühlhoff, AnjaBrejak, andJan Slaby,55–80.Bielefeld: transcript.
+      Maschewski,Felix,andNosthoff,Anna-Verena.2021.DieMachtderMetamedien.https://www.
+         philomag.de/artikel/die-macht-der-metamedien.Accessed 0212,2021.
+      Mouffe, Chantal.2005. Onthe Political.London/New York: Routledge.
+      Mersch,Dieter.2013.OrdoAbChao.Zürich:Diaphanes.        
+      Nosthoff,Anna-Verena,andMaschewski,Felix.2017.OrderfromNoise:OnCambridgeAnalytica,
+         Cybernetic Governance and the Technopolitical Imaginary. https://publicseminar.org/2017/
+         03/order-from-noise/.Accessed January09, 2021.      
+      Nosthoff,Anna-Verena,andMaschewski,Felix.2019.“TheObsolescenceofPolitics:Rereading
+         GüntherAnders’sCritiqueofCyberneticGovernanceandIntegralPowerintheDigitalAge.”
+         Thesis Eleven153, no.1: 75–93.                      
+      Nix, Alexander 2016. The Power of Big Data and Psychographics. https://www.youtube.com/
+         watch?v=n8Dd5aVXLCc (Accessed 14September 2020).    
+      Papacharissi,Zizi.2015.AffectivePublics:Sentiment,Technology,andPolitics.Oxford;NewYork:
+         Oxford University Press.                            
+      Pie´tron,Dominik,andStaab,Philipp.2021.“EUGegenBigTech:DasEndederGesetzlosigkeit?”
+         Bla¨tter fürdeutsche undInternationale Politik 2,no. 2021:95–101.
+                                                             
+
+[PAGE 21]
+                                                             
+                                                             
+                                                             
+      198                          Philosophy and Social Criticism 50(1)
+                                                             
+                                                             
+      Plantin, Jean-Christoph, Lagoze, Carl, Edwards, Paul N., and Sandvig, Christian. 2018. “Infra-
+         structureStudiesMeetPlatformStudiesintheAgeofGoogleandFacebook.”NewMedia&
+         Society 20,no. 1:293–310.                           
+      Po¨rksen, Bernhard. 2018. Die große Gereiztheit. Wege aus der kollektiven Erregung. München:
+         Hanser.                                             
+      Resnick,Brian.2018.CambridgeAnalytica’s‘psychographicMicrotargeting’:What’sBullshitand
+         What’s Legit. https://www.vox.com/science-and-health/2018/3/23/17152564/cambridge-
+         analytica-psychographic-microtargeting-what. Accessed 0914, 2020.
+      Reckwitz,Andreas.2017. DieGesellschaft derSingularita¨ten.Berlin: Suhrkamp.
+      Richterich, Annika. 2018. “How Data-Driven Research Fuelled the Cambridge Analytica Con-
+         troversy.”PACO 11,no. 2:528–543.                    
+      Rosenberg, Matthew, Confessore, Nicholas, and Cadwalladr, Carole. 2018. How Trump Consul-
+         tants Exploited the Facebook Data of Millions. https://www.nytimes.com/2018/03/17/us/
+         politics/cambridge-analytica-trump-campaign.html.Accessed 0109,2021.
+      Srnicek,Nick 2017.Platform Capitalism (Theory Redux),Cambridge: Polity.
+      Solon,Olivia. 2017.Ex-Facebook PresidentSeanParker: Site MadetoExploit Human ‘vulner-
+         ability’. https://www.theguardian.com/technology/2017/nov/09/facebook-sean-parker-
+         vulnerability-brain-psychology.Accessed 0914,2020.  
+      Staab, Philipp. 2019. Digitaler Kapitalismus. Markt und Herrschaft in der O¨konomie der Un-
+         knappheit.Berlin: Suhrkamp.                         
+      Sabbagh,Dan.2020.Trump2016Campaign‘targeted3.5mBlackAmericanstoDeterThemfrom
+         Voting’. https://www.theguardian.com/us-news/2020/sep/28/trump-2016-campaign-targeted-
+         35m-black-americans-to-deter-them-from-voting.Accessed 1 09,2020.
+      Stark, Birgit, and Magin, Melanie. 2019. “Neuer Strukturwandel der O¨ffentlichkeit durch In-
+         formationsintermedia¨re: Wie Facebook, Google & Co. die Medien und den Journalismus
+         vera¨ndern.” In Wandel der O¨ffentlichkeit und Gesellschaft, edited by Mark byEisenegger,
+         LinardsUdris, andPatrik Ettinger, 377–406.Wiesbaden: SpringerVS.
+      Stromer-Galley,Jennifer.2014.PresidentialCampaigningintheInternetAge.NewYork:Oxford
+         University Press.                                   
+      Sunstein,Cass,andThaler,Richard.2009.Nudge.WieManKlugeEntscheidungenAnsto¨ßt.Berlin:
+         Econ.                                               
+      TacticalTech.2019.PersonalData.PoliticalPersuasion.InsidetheInfluenceIndustry.https://cdn.
+         ttc.io/s/tacticaltech.org/methods_guidebook_A4_spread_web_Ed2.pdf.Accessed109,2020.
+      Tiqqun.2010.TheCyberneticHypothesis.London/Cambridge,MA:Semiotext.(e)(Retrievedon
+         18Marchfrom:https://theanarchistlibrary.org/library/tiqqun-the-cybernetic-hypothesis.pdf).
+      Tufekci, Zeynep. 2014. “Engineering the Public: Big Data, Surveillance and Computational
+         Politics.”First Monday19,no. 7:Accessed 0313, 2021.doi:10.5210/fm.v19i7.4901.
+      Vosoughi,Soroush,Roy,Deb,andAral,Sinan.2018.“TheSpreadofTrueandFalseNewsOnline.”
+         Science359, no.6380: 1146–1151.                     
+      Wagner,Kurt. 2016.Mark Zuckerberg SaysIt’s ‘crazy’to ThinkFake News Stories Got Donald
+         Trump Elected. https://www.vox.com/2016/11/11/13596792/facebook-fake-news-mark-
+         zuckerberg-donald-trump.Accessed 0914,2020.         
+                                                             
+                                                             
+
+[PAGE 22]
+                                                             
+                                                             
+      Nosthoff and Maschewski                        199     
+                                                             
+                                                             
+                                                             
+      Weaver,Warren.1963.“RecentContributionstotheMathematicalTheoryofCommunication.”In
+         TheMathematicalTheoryofCommunication,editedbyClaudeShannon,andWarrenWeaver,
+         1–28.Urbana; Chicago:University ofIllinois Press.   
+      Weeks,BrainE.,Ardèvol-Abreu,Alberto,andGildeZu´ñiga,Homero.2015.“OnlineInfluence?
+         Social Media Use, Opinion Leadership, and Political Persuasion.” International Journal of
+         PublicOpinionResearch29, no.2: 214–239.             
+      Vogl,Joseph.2021.KapitalundRessentiment.EinekurzeTheoriederGegenwart.München:C.H.
+         Beck.                                               
+      Wiener,Norbert. 1950.TheHuman Useof HumanBeings. Cambridge, MA:Riverside Press.
+      Wong, Julia Carrie. 2021. How Facebook Let Fake Engagement Distort Global Politics: A
+         Whistleblowers Account. https://www.theguardian.com/technology/2021/apr/12/facebook-
+         fake-engagement-whistleblower-sophie-zhang. Accessed 0414,2021.
+      Woolley,SamuelC.,andGuilbeault,DouglasR.2017.ComputationalPropagandaintheUnited
+         StatesofAmerica:ManufacturingConsensusOnline.http://comprop.oii.ox.ac.uk/wp-content/
+         uploads/sites/89/2017/06/Comprop-USA.pdf. Accessed 0914,2020.
+      Wylie, Christopher. 2019. Mindf*ck. Cambridge Analytica and the Plot to Break America. New
+         York:Random House.                                  
+      Zuboff,Shoshana.2019. TheAgeof Surveillance Capitalism.London:Profile.
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             

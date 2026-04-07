@@ -1,0 +1,1195 @@
+[PAGE 1]
+                                                             
+                                                             
+                                                             
+                                                             
+      Original Research Article                              
+                                                             
+                                         PhilosophyandSocialCriticism
+                                         2025,Vol.0(0)1–23   
+      The  hegemonic   world  picture:                       
+                                         ©TheAuthor(s)2025   
+      Representation,  post-truth, and                       
+                                         Articlereuseguidelines:
+      arti fi cial intelligence          sagepub.com/journals-permissions
+                                         DOI:10.1177/01914537251374951
+                                         journals.sagepub.com/home/psc
+      Michaelangelo Anastasiou                              
+      UniversityofNicosia,Cyprus                             
+                                                             
+      Abstract                                               
+      Thepresentarticlecontributestorecentscholarshipon‘post-truth’politics.Itemploysa
+      semiotic approach that traces the onslaught of ‘post-truth’ politics to the logic of AI-
+      powered communication systems. AI-powered digital communications expedite infor-
+      mationflows,leadingtothecomplexificationandambiguationofrepresentation,whichis
+      leveraged in the form of political rhetoric in the service of factional interests and
+      hegemonic ambitions. From this perspective, post-truth politics involve the symbolic
+      consolidationofdisparate(digital)representationsvis-a`-vis‘totalrepresentations’where
+      ‘a part’ comes to represent ‘the whole’. By lacking propositional specificity, total rep-
+      resentationsexceedonadefactobasisconventionaltruthverificationstandardsandare
+      implicated in the alignment of factional interests and political outlooks by contingently
+      fixing the free-flow of information in digital communications. The article concludes by
+      situatingitsfindingswithincurrentdebatesonde-democratization,directingattentionto
+      how rhetorical representations can be leveraged in the service of democracy.
+      Keywords                                               
+      post-truth, representation, artificial intelligence, democracy, rhetoric, digital public
+      sphere, politics, hegemony                             
+                                                             
+                                                             
+                                                             
+      I Introduction                                         
+      Therehavebeenscoresofstudiesinrecentyearsthathavecenteredonwhathasbroadly
+      been labeled ‘post-truth politics’. Key findings indicate a general epistemic shift in the
+      publicsphere,wherescientificandexpertknowledgesystemsareincreasinglydisplaced
+                                                             
+      Correspondingauthor:                                   
+      MichaelangeloAnastasiou,DigitalTransitions&Society,UniversityofNicosia,HumanitiesBuilding,203a,46
+      MakedonitissasAvenue,CY-2417,P.O.Box24005,CY-1700,Nicosia,Cyprus.
+      Email:anastasiouma@gmail.com                           
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+      2                             Philosophy and Social Criticism 0(0)
+                                                             
+                                                             
+      by‘disinformation’,‘fakenews’,‘conspiracytheories’and,morerecently,‘deepfakes’.
+      Thesetrendsareexacerbatedbynoveldigitalinstruments,predominantlyassociatedwith
+      socialmediaand(generative)artificialintelligence.Asanoutcome,‘conventional’truth
+      verificationsystemsareincreasinglydelegitimizedand‘alternative’truthclaimscirculate,
+      raisingprofoundquestionsaboutthetrajectoryofcontemporarypolitics.Byundermining
+      social consensus, ‘post-truth’ politics have obstructed effective responses to social,
+      political, and environmental problems that necessitate urgent collective intervention.
+        Conventionalcritiquesof‘post-truth’politicsemploya(quasi)objectivistoutlookthat
+      takes the notion of ‘post-truth’ at face value. They are typically underpinned by com-
+      mitment to rationalism and empiricism, where expertise, reason, science, etc. are
+      counterposed to the presumed emotionalism of ‘post-truth’ politics. By extension, they
+      oftenacquireapronouncedmoralistic(ifnotpolemic)tone,where‘post-truth’politicsare
+      admonished on the basis of their presumed irrationalism. These critiques, however,
+      beholdrestrictedpoliticalefficacy.Theunderlyingcommitmenttorationalismessentially
+      reducestheanalyticparameters toquestions ofempirical verification—whatis‘right or
+      wrong’.Thesolutionto‘post-truth’isthusposedintermsofanurgentcallingtorealign
+      ‘fact’ and ‘ideas’, in all their manifestations (statements, representations, institutional
+      processes, outlooks, etc.).                            
+        The present article contributes to these discussions in a two-fold manner. First, it
+      directs inquiry towhether absolute conceptionsoftruthamounttoanattainablegoal. It
+      doessobyscrutinizingtheessentialistprincipleofrationalandempiricalcorrespondence
+      (between ‘fact’ and ‘representation’). The guiding question is whether the dichotomy
+      between‘true’and‘false’representationcanbesubstantiatedagainstanexaminationof
+      the ontology of representation. By examining how contemporary social and political
+      thoughthavedestabilizedtheessentialistparadigm,thepresentarticleconcludesthatany
+      process of representation is constitutively ambiguous. Thus, there can be, strictly
+      speaking, no distinction between ‘true’ and ‘false’ representations. Building on these
+      theoretical foundations, it is demonstrated that the constitution of power relations ger-
+      minateswithinrepresentationalambiguity.Inshort,hegemonicambitionsareactualized
+      through the employment of ambiguous rhetorical modalities—what is termed ‘total
+      representations’—that‘speakto’theinterestsofparticularsocialandpoliticalidentities.
+        These theoretical premises are then related to the socio-political coordinates of the
+      digital public sphere. It is argued that (AI powered) digital communication systems
+      exacerbaterepresentationalcomplexificationandambiguity.Thisambiguityispolitically
+      leveragedintheformofrhetoric,whereby‘sloganesque’representationsareemployedin
+      aheuristicfashion,intheserviceoffactionalpoliticalinterests.Inthissense,hegemonic
+      ambitions in the digital public sphere are seen as ‘mirroring’ the logic of AI-powered
+      mediatizedcommunication.Byimplication,aneffectivecounter-offensiveto‘post-truth’
+      politics would notmerely involve a realignmentof ‘fact’ and ‘representation’. It would
+      involve epistemic and political strategies that work through the logic of representation,
+      wherebyrepresentationalambiguity,intheformofrhetoric,isleveragedintheserviceof
+      democracy.                                             
+        The article concludes by situating its findings within current debates on de-
+      democratization, the relationship between postmodernism and the Far Right and crises
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+      Anastasiou                                      3      
+                                                             
+                                                             
+      indemocraticrepresentation.Contrarytoscholarlyorthodoxy,whichlamentsthelossof
+      ‘truth’ and ‘science’, advocating for their restoration as key political compasses, the
+      presentarticleoffersinsightintothepoliticalutilityofrhetoric,directingattentiontohow
+      it can be used to advance democratic ambitions.        
+                                                             
+      II Representation in social and political thought      
+      Formostofitstrajectory,Westernscholarshipwasfundamentallyguidedbythedoctrine
+      ofessentialism,whichpositsthattheultimatelyrealityofideasandobjectsisgovernedby
+      an ‘internal’ and unchanging essence that can be made intelligible (Laclau and Mouffe
+      1987).AndwhileessentialismassumesadiversityofformsintheWesternphilosophical
+      canon, the implication is that the innermost identity of an object or idea can find an
+      unadulteratedexpressioninmeaningorcontemplation(LaclauandMouffe1987).There
+      can thus be, on some level, or under certain circumstances of empirical or rational
+      verification,aone-to-onecorrespondencebetween‘object/idea’and‘thought/language’,
+      or logical coherence between ‘thought/language’ and systemic patterns (Laclau and
+      Mouffe 1987, 2001).                                    
+        Classical metaphysics, as well as modern social and political thought were either
+      explicitly or implicitly guided by the tenets of correspondence and coherence theory of
+      truth.Thiswasexpressedinvarioustheoreticalquests,whichsoughttodecipher,among
+      manyothers:‘theessenceofman’(Aristotle,2000;Descartes,2008;Kant,2002,2007;
+      Leibniz,2007;Locke,2003;Marx,1978a;Plato,2004;Rousseau,1999),‘theessenceof
+      God’(Kant,1992;Leibniz,2007;Locke,2003),‘theessenceofnature’(Aristotle,1992;
+      Leibniz, 2007; Marx, 1978a), ‘the essence of things’ (Aristotle 1992, 1998; Leibniz,
+      2007), ‘laws of historical motion’ (Hegel, 1977; Marx, 1978a, 1978c), etc. Indeed, the
+      Enlightenment’s promise, especially in its rationalist and empiricist variants, took es-
+      sentialismasanepistemologicalstartingpoint(HorkheimerandAdorno,2002).Oncethe
+      innermostessenceofRealityandthusTruthwasdiscovered,humanexperiencecouldbe
+      ordered according to essential predicates and be harmonious with itself (Comte, 2009;
+      Hegel, 1977; Kant, 1996; Marx, 1978b).                 
+        Within the essentialist paradigm, the notion of representation was often cast with
+      reference to the principle of verifiability, which was predicated on the long-standing
+      epistemological distinction between ‘essences’ and ‘appearances’, as well as ‘essences’
+      and‘representation’.Arepresentationmirroringtheessentialcoordinatesofanobserved
+      fact, idea, or systemic pattern would be deemed to be a true or accurate representation.
+      Conversely,aninaccuraterepresentationwouldbeconsideredtobeafalserepresentation.
+      The Marxian notion of ‘false consciousness’ famously falls under the latter category.
+      Ideologywas,byextension,understoodtobean‘inverted’(i.e.,false)representationof
+      reality: The ideas of the ruling class prevented the working class from acknowledging
+      their‘true’conditionsofexistence.Emancipationwouldbyextensionentailaprocessof
+      ‘alignment’betweenapresumablyessentialrealityandworkingclassconsciousness(‘as
+      class for itself’). In contemporary politics, we are seeing novel manifestations of this
+      logic,namely,people’sdecisiontoabstainfromvotingbecause‘politicianssayonething
+      butdoanother’.Inthissense,whatpoliticianssayareseenasfalserepresentationsofwhat
+                                                             
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+      4                             Philosophy and Social Criticism 0(0)
+                                                             
+                                                             
+      theydo.Butthequestionshouldberaised:Doesthisperspective,whichfocusesonthe
+      principle of rational and/or empirical verification, preclude us from other modes of
+      epistemic inquiry?                                     
+        Letusproceedbycontrastingtwodivergentunderstandingsof‘truth’.Thefirstisthe
+      correspondence theory of truth, as outlined above: Any fact, object, idea, or process is
+      governedbyaninherentessencethatcanfindanaccurateandunadulteratedexpressionin
+      intelligible thoughtor language. The pragmatic perspective (James, 1922), on the other
+      hand,understandstruthintermsofutilityandeffect:Therelevanceofthepolitician’slie
+      does not only concern its empirical verifiability, but the effects that it engenders.
+      Pragmatism gave a much-needed impetus to epistemological outlooks that had already
+      beenbrewinginearlysociology,whichultimatelyfoundtheirutmostexpressioninsocial
+      constructivism vis-a`-vis the dual input of phenomenology and symbolic interactionism
+      (Berger and Luckmann 1966; Blumer, 1969; Mead, 1962; Schutz, 1967).
+        RejectingtheprinciplesofRealismandIdealism,constructivistsholdthat‘reality’and
+      thus‘truth’donotlieinanobjective‘external’realm‘waitingtobediscovered’.Rather,
+      ‘truth’ is culturally constructed through the mediation of symbolic exchanges between
+      agents. A low salary can be seen by one person as ‘opportunity’ and by another as
+      ‘exploitation’, depending on their respective social standpoints. Neither evaluation is
+      ‘truer’, in the strict sense of the term, but socially constructed cultural precepts that are
+      disseminatedinthesocialfabric.Theimplicationtobedrawnasfarasourunderstanding
+      of representation goes is that, from a pragmatic standpoint, representations are not
+      evaluatedintermsoftheirideationalcoherence,ortheircorrespondencetoanobjective
+      reality, but in terms of the social and political effects that they engender.
+        Pragmatic and constructivist readings of reality have increasingly penetrated con-
+      temporarysocialandpoliticalthoughtand,despiteepistemologicaldivergences,foundan
+      effectivecounterpartinthepost-foundationaltenetsofpoststructuralistandpostmodern
+      thought (see Critchley et al., 1996; Shalin, 1993). The poststructuralist turn in con-
+      temporary social and political thought is rooted in the sequential destabilization of es-
+      sentialist reasoning in formal scholarship. While I cannot be exhaustive in the present
+      article, I will identify what I consider to be some of the key theoretical ‘moments’ that
+      introduceddisruptiveeffectswithinthedominantessentialistparadigmthathaslongheld
+      the distinction between ‘essence’ and (false) ‘representation’.
+        Relevanttheoreticalbreakthroughswereadvancedinthephenomenologicaltradition
+      with the work of Husserl (1980) who blurred the distinction between ‘essence’ and
+      ‘appearance’,throughhisnotionof‘phenomena’.Theimplicationhereisthat‘essences’,
+      to the extent that they do exist, can only be accessed through their phenomenal ap-
+      pearance,whichis‘adorned’by‘doxa’(commonsenseknowledge).Theimplicationsthat
+      werealreadygerminatinginphenomenologicalthoughtwouldfindtheirmostdeveloped
+      expression in the work of Heidegger (1999) who, being guided Nietzsche’s anti-
+      essentialist assault (see Heidegger, 1977) asserted that essences could only manifest
+      through language. In this sense, language was understood as an ontological plane that
+      enabled the presencing of Being—the ontological, as such. Language was thus under-
+      stood,notmerelyasanadornmentofessences,butassomethingthatallowsanessenceto
+      come into appearance. The appearance that essences assume, however, manifest
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+      Anastasiou                                      5      
+                                                             
+                                                             
+      according to the hermeneutic structure, which is invariably historically embedded and
+      subject to flux. ‘Essences’, thus appear differentially in each historic epoch.
+        The Heideggerian assault on classical metaphysics would find its most effective
+      counterpart in contemporary linguistics and poststructuralism (see Derrida, 1993). The
+      linguistic take on reality asserts that reality, being, existence, etc. is not only channeled
+      through, but constituted through language (Laclau Ernesto, 2007a). These efforts were
+      pioneeredbytheworkofFerdinanddeSaussure(1966)whodemonstratedthatthereare
+      nopositivetermsinlanguage,inthesensethatnolinguistictermcanbeunderstoodsolely
+      in reference to itself. Language is composed by a series of shifting signs that are only
+      intelligibleintermsoftheiroppositionalandassociationaldifference—forexample,Iam
+      amanbecauseIamnotawoman,becauseIamafather,becauseIamabrother,becauseI
+      dress and behave in ‘masculine’ ways, etc. In this sense, what something is cannot be
+      reducedtoanypresumed‘internalessentialcore’.Rather,itsidentityreflectsthetotalsum
+      ofitslinguisticandthereforemeaningfulassociations,whichareinvariablyunstableand
+      subject to flux (see Laclau Ernesto, 2007a). By extension, ‘representation’ is not to be
+      understoodasan‘attempt’toeitherreplicateorexpressanysortofunderlyingessenceor
+      coherentstructure,butasthatwhichconstitutestheveryidentityoffacts,ideas,objects,or
+      processes. As Laclau and Mouffe succinctly articulate it
+        There are not two planes, one of essences and the other of appearances, since there is no
+        possibilityoffixinganultimateliteralsenseforwhichthesymbolicwouldbeasecondand
+        derived plane of signification. Society and social agents lack any essence, and their regu-
+        laritiesmerelyconsistoftherelativeandprecariousformsoffixationwhichaccompanythe
+        establishment of acertain order(Laclau andMouffe 2001, 98).
+        Reality,therefore,isrepresentation,whetherweunderstandrepresentationintermsof
+      languageorcommunicationmedia(seeHall,1997).Assessedfromthisperspective,the
+      totality of language, and therefore representations, is not seen as an epiphenomenal
+      expression of underlying essences, but as an ontological ground through which social
+      reality is constituted.                                
+        A caveat here is warranted. The poststructuralist ‘assault’ on essentialism (and
+      classical metaphysics more broadly) is gravely misinterpreted and misconstrued, by
+      proponentsandcriticsalike(Critchleyetal.,1996;Latour,2004).Poststructuralismdoes
+      notconsistinacruderejectionof‘truth’,norrecourseintoana¨ıveconstructionistlogic,
+      purportingthatallstandpointsare‘equal’because‘everythingismadeup’(seeLaclauand
+      Mouffe 1987, 85-86). Rather, poststructuralism directs attention to the inherent limita-
+      tionsoftruthverificationclaims(andbyextensionscience).Theissueconcerns,notthe
+      existence of truth, as such, but whether there can be seamless correspondence between
+      ‘observation/thought’and‘language’,giventheinherentpropertiesoflanguage(Laclau
+      and Mouffe 1987).                                      
+        This is one of the fundamental points of divergence between constructivists, which
+      adhere to an interpretivist understanding of reality (and thus scientific empiricism), and
+      poststructuralists, which emphasize the inherent limits of scientific observation on ac-
+      count of language’s inherent ambiguity. As thoroughly demonstrated by contemporary
+                                                             
+                                                             
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+      6                             Philosophy and Social Criticism 0(0)
+                                                             
+                                                             
+      linguistics and poststructuralism, language is fundamentally undercut by rhetorical di-
+      mensionsthatundermineliterality(Barthes,1972;Jakobson,2003;Lacan,2006;Laclau,
+      2014). In short, the inherent polysemy of meaningful terms invokes symbolic repre-
+      sentations that exceed what is denoted. As an example, if I say that ‘nuclear weapons
+      safeguard thesecurity of thenation’, Iamnotmerelydenoting apresumable ‘fact’, but
+      symbolicallyinvoking,amongothers,awholearrayofnormativeassumptionsaboutthe
+      social and political ordering of the nation-state: That a presumably undivided people
+      defined according to national criteria occupies a delimited and historically identifiable
+      territory,whoseadministrativeworkingsaretaskedtothestate,whichhasthelegitimate
+      functionofsecuringthesurvivalofthenationalcommunitythroughmilitarytechnology.
+      Thisiswhatpoststructuralistsmeanwhentheysaythatthereisan‘excess’inlanguage
+      that cannot be grounded in literal representation. Ergo, as a proponent of nuclear non-
+      proliferation,Imaycontestthevalidityofthestatement‘nuclearweaponssafeguardthe
+      securityofthenation’byinvokingtheinherentdangersofnuclearweaponsandthethreat
+      ofanuclearholocaust. Ihave contestedwhatisdenoted. However, myargumentisnot
+      exhaustive,preciselybecauseitdoesnotaddresstheunderlyingandunsaidnarrativesthat
+      underpin the initial line of argumentation—its hidden structure will elude my counter-
+      offensive, limiting its efficacy.                      
+        The same limitations are evident when assessing the validity of political discourses
+      fromascientificstandpoint.WhenDonaldTrumpsaysthatmigrantswillwalkintoyour
+      kitchenandcutyourthroat,Icanonacolloquiallevelcallbullshit.Icaneveninvokethe
+      logicofstatisticalreasoning,whichseesnocausalrelationshipbetweenimmigrationand
+      violent crimes. But as forms of contestation, both approaches are bound to encounter
+      limits. Trump’s statement, strictly speaking, is not amenable to scientific scrutiny, on
+      account of its rhetorical modularity: Which migrants are we talking about? Are we
+      referring to a specific racial, ethnic, religious, economic category? Does the ‘threat’
+      involvethecaseofone,several,alot,allmigrants?Doesthestatementinvokeageneral
+      tendency,aspecificevent,anindividualpremonition?Trump’sstatement,insidiousasit
+      is,isplaguedwith‘vagueness’,perhapsintentionallyso,thuseludingscientificscrutiny,
+      which presupposes propositional specification. And therein lies its political utility.
+        This discussion reveals the full thrust of the poststructuralist critique: If reality is
+      channeled through language and language is inherently ambiguous on account of po-
+      lysemyand‘rhetoricalmodularity’,observationcannotbesubjecttoapodicticmodesof
+      verification (Laclau, 2014). The appeal here to the intricacies of language does not
+      invalidate empiricism. It reinforces and renews it by broadening its operational scope,
+      allowinganalyststopeerdeeperintothehiddenstructuresthatunderpinrepresentations
+      (Anastasiou, 2022; Laclau Ernesto, 2007a; Laclau and Mouffe, 2001). This enables
+      inquiry into the latter’s condition of possibility, as well as the effects they exercise,
+      without invalidating the question of empirical verifiability, which can of course be ad-
+      dressedfromwithinparticulardiscursivelocations(e.g.,scientificmethods).Aneffective
+      deconstruction of Trumpian rhetoric, for instance, allows us to (a) decode its political
+      appeal,byrevealingitsunderlyingrepresentationalstructure;(b)decipherhowandwhy
+      itshiddenrepresentationalintricaciesneutralizeattemptsofresistance;(c)considerhow
+                                                             
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+      Anastasiou                                      7      
+                                                             
+                                                             
+      thesocio-historicalcontextenablesandfortifiesitasapoliticalpossibility;and(d)assess
+      or even predict its political effects.                 
+        This renewed empirical orientation opens up epistemic possibilities that are directly
+      related to the question of politics and power, allowing us to resituate the relevance of
+      empiricism within the framework of contemporary socio-political developments and
+      challenges. Given thatmyultimategoal istoimpart aneffectivecritique of‘post-truth’
+      politics, it is paramount to proceed by investigating the relationship between repre-
+      sentation, politics, and power.                        
+      III Representation, politics, and power                
+                                                             
+      The fundamental premise to be deduced from the preceding discussion is that the total
+      sum of social experience is constituted through language, which is inherently repre-
+      sentational. As perceptive schemas, representations operate as social and political
+      compassesthatdirecthumanbehavior,values,andattitudes.Theyareimplicated,through
+      andthrough,inoureverydaydecisions,conceptionsof‘theself’and‘theother’andinthe
+      structuration of subjectivities (Hall, 1997). They formulate distinctions and boundaries,
+      directemotions,incubatedesires,fosterworld-views,andanimatecorporealsubjectivities
+      insocialandpoliticalactivity(Ahmed,2014;Butler,2011;GlynosandStavrakakis2008;
+      Hall, 1997).                                           
+        Politics, which involve the ordering of social relations, hinge on the articulation of
+      representations, such that they result in the uneven distribution of power (Hall, 1997;
+      Laclau and Mouffe 2001). Semiotics and discourse theory, more generally, have been
+      particularly effective in revealing the (often hidden) political underpinnings of repre-
+      sentations, carving out novel paths for epistemic and critical inquiry (Hall, 1997).
+      Theoretical concepts associated with this tradition, such as ‘stereotyping’, ‘othering’,
+      ‘naturalizing’,etc.,havebeenremarkablyfruitfulinthisregardandhavesincepenetrated
+      everyday political discourse and emancipatory politics.
+        But how do particular representations become dominant and how do they overcome
+      oppositional cultural and political currents? This question has been at the center of
+      poststructuralist inquiry, which has effectively decoded the subversive qualities of
+      representationbypeeringintotherelationshipbetween‘particularity’and‘universality’
+      (LaclauandMouffe2001).Inshort,representationsbecomeculturallydominantwhen‘a
+      part’iseffectivelyconstructedandsociallydisseminatedasarepresentationof‘awhole’.
+      Byobfuscating the constitutive plurality ofthesocialworld,these total representations
+      direct or subsume oppositional cultural currents by effectuating a world in accordance
+      with their image.                                      
+        Let me proceed with some anecdotal considerations. Upon returning to my home
+      country from North America, where I had lived for twelve years, nearly all of my ac-
+      quaintanceswereshockedatmydecisiontoreturn.Iwas,timeandtimeagainmetwith
+      the following trite encounter: ‘Why did you come back? I would have never chosen to
+      come back’! In their minds, the U.S. constituted an ideal, where one could potentially
+      haveunmitigatedaccesstodiverseprofessionalprospects,highincome,arichsociallife,
+      entertainment,etc.Granted,therewasjustsome‘truth’totheirestimations,buttheywere
+                                                             
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+      8                             Philosophy and Social Criticism 0(0)
+                                                             
+                                                             
+      certainly and fundamentally incomplete. When compared to other developed countries,
+      theU.S.topsthelistonawidearrayofsocialproblems,notleastpovertyrates.Sociallife
+      canoftenbedeficient,particularlyinurbancentersduetoalackofstablecommunitiesand
+      thedominanceofindividualism.Stablesocialrelationshipsareoftenhardtocomebydue
+      to the U.S.’s incredible social dynamism and geographical mobility, etc.
+        Interestingly,itwasnotthecasethatmyacquaintanceswereunawareofthedeficient
+      aspects of U.S. society. They did, nonetheless, espouse a perspective that was closely
+      associatedwiththeso-called‘Americandream’.Wecanthusverywellstatethatcertain
+      ‘positive’aspectsoftheU.S.had‘trumped’(punintended!)its‘negative’aspects.So,in
+      essence,oneformofrepresentationhadsupersededandsubvertedothers.Asanoutcome,
+      particular representations of the U.S. had come to represent it as a totality. These total
+      representations were ‘generalized’ beyond their ‘origin’, thus ‘overriding’ other (op-
+      positional) representations. In this sense, ‘a part’ had come to represent ‘the whole’, a
+      process coinciding with Laclau and Mouffe’s (2001) definition of hegemony.
+        Asvariousworkshaveshown,thisrepresentationalmodality—therhetoricalformof
+      synecdoche—inheres in the very logic of language (Laclau, 2014; Stavrakakis, 2014,
+      506).Whatinterestsme,however,arethevariouspowereffectsthatareanimatedbysuch
+      processes of representation. Let us reconsider the case of the U.S. The U.S. is a highly
+      pluralisticsociety,beinggovernedbyethnic,linguistic,racial,class,etc.diversity.Yetthe
+      nominalcategory‘American’representsallidentitiesasiftheywereequivalent(Laclau
+      andMouffe2001,127–34).Theinvocationofthenationalidentity(i.e.,American)thus
+      overshadows society’s constitutive plurality. But does the total representation of
+      ‘American’serve, to a greater extent, the interests of particular groups? When MAGA
+      aficionados invoke the notion of the ‘real American’, as an example, they implicitly
+      invoke a ‘nativist’ conception of identity symbolically associated with whiteness, thus
+      subverting outlooks, identities and political demands tied to cultural plurality.
+        Theeffectsthatareenabledbythisactofrepresentationaremultidimensional.Asjust
+      one example, a voter might be less likely to vote for a black woman for Congress,
+      preciselybecausetherepresentationofthe‘blackwoman’mightbeperceived,onsome
+      level,eitherconsciouslyorunconsciously,asbeingincompatiblewith‘American’.These
+      arethediscursivelogicsatplaythatunderlie(implicit)formsofdiscrimination.Butitis
+      important to note that representations are interwoven in a very complex fashion with
+      multilayered perceptive schemas. For many U.S. citizens, ‘American’ might be sym-
+      bolically equivalent with ‘unfettered capitalism’, ‘individual liberty’, ‘American ex-
+      ceptionalism’, ‘strong military’, etc. In other words, the hegemonic representations that
+      constitutepeople’sperceptionscometoreferencedifferentialschemasandlifemodalities
+      that are presumably equivalent with the category that symbolizes the totality, that is,
+      ‘American’.                                            
+        Thetotalsumofthese representationsconjureupwhatmightbecalledahegemonic
+      worldpicture,thatis,aparticularorderingofperceptionsandthereforeactions,according
+      to dominant forms of representation that come to be saturated with affect (Stavrakakis,
+      2007;Z ˇ izˇek, 1993).I should beclear thatIusethetermhegemonic to emphasize that
+      these dominant representations speak, to a larger extent, to the interests of particular
+      identities. One can very easily see, as an example, how the association of ‘American
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+      Anastasiou                                      9      
+                                                             
+                                                             
+      interests’ with ‘military intervention’ serves the economic interests of the military
+      industrialcomplex.Goingbacktomyacquaintances’reactionuponmyreturntomyhome
+      country, one can say that they desired to live in the U.S. because of particular represen-
+      tationsthat,byvirtueofvariousfactors(e.g.,globalandsocialmedia)hadcometodominate
+      perceptionsbeyondtheU.S.:TheU.S.appearedas‘thelandofopportunity’.Ahegemonic
+      worldpicturehadthuscometomaterializeand,byextension,animatepeople’sperceptions
+      and actions. The effective dissemination and, therefore, hegemonization of this world
+      pictureisoneoftheprincipalenginesthatdrivesAmericaneconomicinterests,forexample,
+      the U.S. fashion, entertainment, technology industries, etc.
+        This discussion reveals that the incubation of political desires hinges on the gener-
+      alization oftotalrepresentations.Bysubvertingoppositionalideas,totalrepresentations
+      effectuate a steering of political imaginaries and desires that can be leveraged in the
+      interestsofparticularpolitical,economic,andsocialfactions.Theeffectivegeneralization
+      oftotalrepresentations—aprocessthatisdefactounderpinnedbyrhetoricallogic—thus
+      results in the constitution of power relations. As a theoretical leeway, this discussion
+      allows us to situate the coordinates of ‘post-truth’ politics in a new light, directing at-
+      tention to their underlying rhetorical and hegemonic underpinnings.
+      IVPost-truth,the digital publicsphere, and artificial intelligence
+      Thepresentsectionsituatestheabove-noteddeductionswithintheframeworkofcurrent
+      and anticipated socio-political developments connected to advancements in digital
+      technologies and (generative) Artificial Intelligence (AI). ‘Post-truth’ has recently
+      emergedasaprimeissueofpoliticalcontention,receivingscholarly(McIntyre,2018),as
+      well as journalistic scrutiny (Davis, 2017; D’Ancona, 2017).
+        Conventionalreadingssuggestthat,particularlyoverthepastdecade,therehasbeena
+      seismic epistemic shift (Hoggan-Kloubert and Hoggan 2023). The legitimacy of expert
+      knowledge, the scientific medium and factual verification, as bases for truth are in-
+      creasingly being undermined. In their stead, what is making sway is the profuse cir-
+      culationof‘disinformation’,‘fakenews’,and‘conspiracytheories’(Conradetal.,2023;
+      Iyengar and Massey 2019).                              
+        Thishasresultedinanassociatedbacklash,fromscholarsandpoliticalinstitutionalists,
+      whichadvocatefortherestorationoftruthstandardswithrecoursetorationality,science,
+      education, effective governance, and citizen responsibility (Barton, 2019; Hoggan-
+      Kloubert and Hoggan 2023; Lazer et al., 2018; McIntyre, 2018). Relatedly, defenders
+      ofscientificorthodoxyhavemadeconcentratedattemptsinassociating‘post-truth’with
+      the rise of populism (e.g., Dahlgren, 2018, 24; Suiter, 2016). As Venizelos (2024, 92)
+      suggests, ‘This alarmist trend was accelerated with the “double shock” of the BREXIT
+      referendumintheUKandtheelectionofDonaldTrumpintheUSin2016,andreceiveda
+      further boost with the COVID-19 healthcare crisis—during which “populism” was as-
+      sociated with anti-science positions, vaccine skepticism and so on’.
+        Thesediscussionsconventionallyfocusontheeffectsofdigitallymediatedexchanges
+      betweenagentswithinawidearrayofnoveldigitalinstruments,includingsocialmedia,
+      onlineforums,onlineblogs,andsoon(Dahlgren,2018;Salgado,2018).Theinternet,ina
+                                                             
+                                                             
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+      10                            Philosophy and Social Criticism 0(0)
+                                                             
+                                                             
+      sense,isidentifiedasthe‘originalculprit’,thatis,astheprime-mostformoftechnology
+      facilitating post-truth. The argument holds that the transition from traditional mass, to
+      socialmedia,createscompetingpublicspheresthatareemployingdivergentstandardsof
+      truth verification (Habermas, 2023). Contrary to traditional media, which rely on pro-
+      fessional staff and experts for establishing truth standards, social media platforms in
+      principleempoweralluserstobeindependentand‘equal’authors,intheabsenceoffact
+      verificationstandards(Habermas,2023).Correspondingly,thecirculationofinformation
+      and discourses with unpredictable, unverifiable and even harmful content proliferates
+      (Habermas,2023).Notsurprisingly,thesedevelopmentshaveaddedlayersofcomplexity
+      to discussions about epistemic democratization (Dahlgren, 2018; Fuller, 2016; Latour,
+      2004; Sismondo, 2017).                                 
+        TheconversationhasbeenfurtheramplifiedbytheonslaughtofautomatedAIsystems
+      thathavebeenstealthilyembeddedinawidearrayofdigitalinstruments,notleastsocial
+      mediaplatforms,which,usingavarietyoftechniqueseffectivelyframeusers’experience,
+      ifnotnefariouslydirectingusers’behavior(Zuboff,2019;Pasquale,2015;Elliott,2022,
+      12-13).Thenotionof‘algorithmicgovernmentality’provestobeparticularlyeffectivein
+      revealing the associated socio-political effects (Rouvroy and Berns 2013). By con-
+      structinguser‘digitaldoubles’aroundawidecollectionofdatapoints,onlineplatforms
+      seektomaximizeengagementwiththebroaderaimofleveraginguserengagementforad
+      revenue.Theseprocessesarenotunderpinnedbyanyunderlyingcommitmentto‘truth’or
+      ‘ethics’, but by capital accumulation imperatives: Anything is fair game so long as ad
+      revenue increases.                                     
+        Itistruethattherehavebeenattemptsbyvarioussocialmediaplatformstointroduce
+      content moderation standards. However, content moderation has only been marginally
+      effective in fending off ‘disinformation’ campaigns, not least hate speech, which often
+      manifestsinanimplicitfashion,undertheguiseof‘freespeech’.Tocitearelevantreallife
+      example,FacebookhasbeenremarkablyintransigentinremovingpoststhatIhavefound
+      to be blatantly erroneous and clear examples of hate speech. In other words, content
+      moderation standards are themselves subject to interpretation, if not underpinned by
+      ideological commitments. What is more, social media platforms are increasingly at-
+      tenuatingmoderationstandards,asevidencedbyX,followingElonMusk’stakeover,and
+      Facebook, following Donald Trump’s election. In other words, there emerges no con-
+      sensusinthedigitalpublicsphereastowhatconstitutes‘truth’,orevenwhatthestandards
+      for establishing ‘truth’ should be. What is consequently effectuated is an uneven cir-
+      culation of free-flowing information that is constantly proliferating and which yields
+      divergent ‘truth’standards.                            
+        The impetus of predictive AI systems is at the same time fostering what is often
+      referred to as ‘echo chambers’ (see Terren and Borge 2021), where users are directed
+      towardsspecificdigitalcontentonthebasisoftheirdigitaldataprofile.Thisoccursinthe
+      formofcontentrecommendation,ads,notifications,etc.whicharepredicatedonthe‘rank
+      and file’ logic of predictive AI systems. In essence, an automated hierarchy of recom-
+      mendationsisprovidedtousers,basedontheirpresumed‘preferences’.Thisveryoften
+      resultsina‘feedbackloop’thatreinforcesuserproclivities,wherebyusersaredirectedto
+      ‘digital chambers’ that mirror their beliefs, preferences, and biases. Conversely, user
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+      Anastasiou                                     11      
+                                                             
+                                                             
+      engagement with alternative or competing narratives is curtailed. These processual
+      dynamicsareveryoftenthoughttofacilitateextremismandpolarization(HongandKim
+      2016; McCoy, Rahman, and Somer 2018), fostering what is sometimes referred to as
+      ‘fragmented’ digital public spheres (Habermas, 2023).  
+        ThissituationisfurtherexacerbatedbythewideavailabilityofgenerativeAIsystems,
+      which make possible the seamless generation of (often remarkably realistic) digital
+      content (image, audio, text, and video). This has led to a further proliferation of in-
+      formationflowsinthedigitalpublicsphere,oftenintheformofhighlycontestedmaterial,
+      including ‘deep fakes’. These ‘digital tokens’ are circulated as either affirmations of
+      particulartruthclaims,orascounter-truthstootherwiseestablishedtruthclaims.Butitis
+      importanttonotethat,giventheincreasingcirculationofinformationinthedigitalpublic
+      sphere,truthclaimscanonlyproliferate.Thiscanmeannothingelsethanthebroadening
+      of the field of political contestation, something that has been registered in recent dis-
+      cussions on the ‘digital culture wars’ (Finlayson et al., 2022).
+        Discourse theory can offer illuminating insight to the above-noted social trends, by
+      peeringintothequalitativeaspectsofdigitalcommunicationtechnologies,whichinvolve
+      the complexification of representation. A key contribution of poststructuralist discourse
+      theory concerns the floating nature of signs, in the sense that meaning is not fully
+      subsumed by its relational context (Laclau and Mouffe 2001, 111–14). It ‘resist’ being
+      fully grounded within a particular discursive ‘location’ and is thus subject to re-
+      articulations. Consider, as an example, how the term ‘Jesus’ might play out in the
+      digitalpublicsphere.Asarepresentation,itisatoncefirmlyembeddedwithinthespiritual
+      tradition of Christianity, but its discursive ‘excess’ allows it to be reframed in myriad
+      novel directions: ‘Jesus’ can be recast as an enemy within atheist chatrooms, it can be
+      recastasanoblereferenceinChristianheavymetalsongsonSpotify,itcanberecastasa
+      popularmemelikenedtoChuckNorris,itcanappearasakeysignifierinAI-generated
+      music videos of Barron Trump, etc. In other words, the level of empirical expedience
+      (Anastasiou, 2024) enabled by digitalities allows for a productive proliferation and
+      circulation of representations associated with ‘Jesus’.
+        This,atonce,yieldstwopossibilities:(a)themeaningof‘Jesus’becomesincreasingly
+      ambiguousandthrownintoflux,asitbecomesall-the-morepolysemic;and(b)‘Jesus’can
+      effectively ‘capture’ all the more meaningful complexes, as its symbolic chain of
+      equivalence broadens in scope. This dual possibility potentiates various types of rhe-
+      torical constructions, including synecdochic representations, where ‘a part’ comes to
+      represent‘thewhole’:‘Jesus’,asaparticularrepresentation,cansymbolicallyconsolidate
+      a larger symbolic gamut by symbolically circumscribing it (Laclau, 2007b, 2014). The
+      politicaldeploymentof‘Jesus’willthusnotonlysymbolicallyinvokeaspiritualtradition,
+      but,potentially,abroadrangeoffree-floatingmeaningful-affectiverepresentationsinthe
+      form of digital content (music, memes, AI-generated images and videos, tweets, etc.).
+      ‘Jesus’canthusemergeasatotalrepresentationforthesedigitaldisparities.Thisprocess
+      isdefacto‘post-truth’inthesensethattheinvocationof‘Jesus’,asatotalrepresentation,
+      by default encapsulates a broad range of representations that do not conform to con-
+      ventional truth verification standards. They can include poetic representations, vague
+      argumentativelogics,unsubstantiatedcorrelations,half-truths,conspiracytheories,deep
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+      12                            Philosophy and Social Criticism 0(0)
+                                                             
+                                                             
+      fakes,scientificdenialisms,etc.Inotherwords,rhetoric,asamodalityofrepresentation
+      implicated in the consolidation of symbolic (digital) disparities, exceeds, by its very
+      nature, the propositional specificity that scientific standards presuppose (see ‘Repre-
+      sentation in Social and Political Thought’ section). Total representations are symbolic
+      me´langes that do not follow standards of rationality—they can consolidate representa-
+      tionsofanysort,whether‘rational’or‘irrational’.Thesepotentialities,ofcourse,donot
+      merely involve the term ‘Jesus’, but a broad range of representations that are firmly
+      embedded in contemporary political discourse, including, among many others: ‘de-
+      mocracy’, ‘nation’, ‘wokism’, ‘freedom’, ‘justice’, ‘gender’, etc. Representations in the
+      ageofnovel(AIpowered)digitaltechnologiesarebecomingincreasinglyoverdetermined
+      (Althusser, 1967; Freud, 1955; Laclau and Mouffe 2001).
+        Thesepremisesallowustosituatethesignificanceof‘post-truth’politicswithinnovel
+      epistemic inquiries, which center, not on the question of factual validity, but on the
+      question of political efficacy. There is growing discussion lately concerning the con-
+      ceptualausterityofpoliticalcommunication.Politicalleaders,aswellasordinaryfolkin
+      theircapacity asonline‘contentcreators’areincreasinglyemployingslogan-like (total)
+      representations that bypass conventional standards of ‘rationality’ and ‘science’, by
+      conceptually exceeding propositional and argumentative specificity. Political slogans
+      such as ‘Make America Great Again’, ‘immigrants go home’, ‘#metoo’, ‘Black Lives
+      Matter’, and ‘All Lives Matter’, all reflect this logic. As do conceptually austere dis-
+      cussions,memes,AI-generatedcontent,etc.thatfollowobscureargumentativepathsthat
+      hark back to presumable ‘enemies’ vis-a`-vis the neo-platitudes of ‘wokism’, ‘cultural
+      Marxism’, and ‘gender ideology’. I have attempted to invoke examples from multiple
+      sidesofthepoliticaldivide,butitisthecasethattheimpetustowardsthe‘sloganization’
+      of politics is driven in larger part by the political Far Right.
+        The sloganization of politics is conventionally critiqued by appeals to ‘objectivity’,
+      ‘rationality’, and ‘science’, a practice replete in Left-wing and particularly Liberal
+      discourse. The prime political strategy consists in casting the Far Right as a politically
+      irrationalactorthatissteepedinemotion,lies,andextremism(Venizelos,2024,103).We
+      allsawhowthislineofcontentionplayedoutintherecentU.S.elections.Indeed,Donald
+      Trumpmanagedtomaterializeamoderatelydecisivewin,despiterepeatedlybeingcastas
+      aliar.Wecandebatethe(non)truthbasisofTrump’sclaimsalldaylong,butthatistomiss
+      thebroaderpicturewithregardtothepoliticallogicunderpinningtheFarRight’spolitical
+      ascent. In an increasingly technologically inter-connected world (Castells, 2009; Rosa,
+      2013), where the free-flow of information proliferates vis-a`-vis automated AI systems
+      (Kalpokas, 2019), truth claims are increasingly rhetorically modulated on account of
+      representational complexity and ambiguity. What becomes politically effective in this
+      context is not ‘rational’ contestation, but the employment of highly formalized repre-
+      sentations that operate not against representational complexity, but through it. As
+      Chantal Mouffe so aptly articulates                    
+        Itisparticularlyimportantinthepresentconjuncture,characterizedasitisbyanincreasing
+        disaffectiontowardsdemocracy,tounderstandhowastrongadhesiontodemocraticvalues
+        and institutions can be established and that rationalism constitutes an obstacle to such
+                                                             
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+      Anastasiou                                     13      
+                                                             
+                                                             
+        understanding. It is necessaryto realize that itis not byoffering sophisticated rational ar-
+        guments nor by making context-transcendent truth claims about the superiority of liberal
+        democracy that democratic values can be fostered. The creation of democratic forms of
+        individuality is a question of identification with democratic values and this is a complex
+        process that takes place through a diversity of practices, discourses and language games.
+        (Mouffe,1996,5)                                      
+        Thenameofthegameisrhetoric,which,fromthestandpointofsemiotics,involvesthe
+      consolidation of meaningful complexes through processes of representational ‘simpli-
+      fication’(Laclau,2014).Consider,asanexample,howexcludedpopulationsoftenappeal
+      tothenotionof‘thepeople’asatotalrepresentationtoadvanceparticularisticdemocratic
+      claims. In so doing, the excluded population is not cast as an ‘outsider’ wanting ‘in-
+      clusion’,butasarepresentativeof‘thepeople’asawhole(Stavrakakis,2014,506).This
+      mode of contestation does not appeal to the complexity of experience, to the minute
+      details of public policy, nor does it appeal explicitly to the factual realities of historical
+      oppression.Itpiercesthroughthesemeaningfulnuancesbyappropriatinglarger-than-life
+      andaffect-riddenrepresentationsthatareembodiedinthereferentof‘thepeople’.Most
+      importantly, it is the conceptual ambiguity of ‘the people’, as a representation of the
+      ‘plebeian part’ and the ‘communal whole’ that enables contingent political alignments
+      between excluded and included populations.             
+        Asaveryimportantcaveat,Ishouldhereemphasizethattotalrepresentationsdonot
+      effacerepresentationalcomplexity,whichis,onsomelevel,embodiedin‘themessage’.
+      Rather, representational complexity is partially subverted as it facilitates what Roland
+      Barthes (1972, 113) calls a ‘2nd order semiological system’. A 2nd order semiological
+      system emerges by ‘piggy-backing’ on existing representations. Much like the order of
+      ‘supplementation’,asdetailedbyDerrida(2001),itsubvertsitsmeaningfulpredicatesby
+      conjuringupnovelrepresentationsthatemergefrontandcenter.Thiscanonlymeanthat
+      representationalcomplexityand,thus,ambiguity,aretheconditionofpossibilityoftotal
+      representations. As Barthes (1972, 120) notes, with reference to the rhetorical order of
+      myth,‘paradoxicalitmayseem,mythhidesnothing:itsfunctionistodistort,nottomake
+      disappear’.                                            
+        Theexacerbationofrepresentationalambiguityinthedigitalpublicsphereoccasions
+      modalitiesofcompetitionthatcenteron‘thecontrolofpoliticallanguage’ina‘questfor
+      finality and decisiveness’ (Freeden, 2013, 22, 72). In this quest, rhetoric—and total
+      representations in particular—can be an incredibly effective political compass, by
+      contingently fixing the meaning of representations. They can reinforce a ‘fantasy of
+      mastery and coherence’ and endow ‘the world with seemingly undeniable sense and
+      purpose’ (Kalpokas, 2019, 4). Seen in this light, the utility of rhetoric proves to be a
+      particularlypotentpoliticaltool,being,inasense,the‘antidote’tothecomplexificationof
+      representation in the digital public sphere.           
+        Rhetorical formalism has the added potential of symbolically consolidating diverse
+      political demands, which may be associated, divergent and even ‘contradictory’. In his
+      variousdiscussionsofpolitics,Laclau(2005,2014,2007b)hashighlightedhowrhetoric,
+      particularlyintheformoftotalrepresentationscanoperateasasymbolic‘replacement’
+                                                             
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+      14                            Philosophy and Social Criticism 0(0)
+                                                             
+                                                             
+      for heterogeneous demands, thus fostering a ‘chain of equivalence’ between otherwise
+      disparateidentities.Thepoliticalsuccessof‘BlackLivesMatter’reflectsthisunderlying
+      logic. The rhetorical formalism of ‘Black Lives Matter’, as a total representation,
+      consolidated abroadrange of heterogeneous identities that werenotnecessarily from a
+      ‘factual’standpointvictimsofracializedpoliceviolence.Itbecamea‘rhetoricalplatform’
+      thatcametoexpressavarietyofgrievancesinvolvingnotonlyracializedpoliceviolence,
+      butbroaderissuesofjustice.Thesymbolic‘chainofequivalence’of‘BlackLivesMatter’
+      cut through the digital public sphere, incorporating identities and discourses of justice
+      from all around the globe. It emerged as a decisive, incisive, not least divisive ‘world
+      picture’ that facilitated in the most radical way the consolidation of convergent and
+      divergent democratic imaginaries.                      
+        Itbecomesclearthatintheageofdigitalcommunicationand(generative)AI,whichis
+      characterizedbyimmediacyincommunication,appealstoconventionsofrationalismand
+      empiricismhavemarginalutilityinconsolidatingpoliticalcapital.Thisisthekeypremise
+      established in this article, both on epistemological grounds, as detailed in previous
+      sections, as well as onsociological grounds, asdetailedinthe present section. Inshort,
+      ‘truth’,asapoliticalconstructionthatexercisessocialeffects,isestablishedwithinvaried
+      powergamesthatunfoldthroughtheemploymentofrhetoric,involvingveryoftentotal
+      representations that disproportionately benefit some identities to the expense of others
+      (hegemony).                                            
+        Inlightoftheseobservations,itwouldnotbeanexaggerationtosuggestthatwewere
+      always‘post-truth’,butthatthedimensionof‘post-truth’,asapoliticalpracticeinscribed
+      inrhetoricalpossibilitiesacquiresallthemorepoliticalpowerinthecontemporarydigital
+      milieu. This realization does not consist in an endorsement of ‘post-truth’, but in a
+      theoretical and empirical deduction that outpours from the very logic of contemporary
+      socio-political developments. Thus, an effective democratic counter-offensive to Far
+      Right‘post-truth’politicswouldentailthearticulation ofnovelhegemoniccoordinates,
+      whereby‘totalrepresentations’arearticulatedinaccordancewithdemocraticprinciples,
+      desires, and imaginaries. What is necessitated is the articulation of a democratic world
+      picture.                                               
+      V Conclusion: Democracy in a post-truth era            
+      In his 2018 monograph, Post-Truth, Lee McIntyre advances a brazen polemic against
+      postmodernism,whichheidentifiesastherootofFarRightpost-truthpolitics.Inhisown
+      words:‘Whatwouldanapplicationofpostmodernismtopost-truthpoliticslooklike?It
+      looks a lot like the world we now inhabit’ (McIntyre, 2018, 144). McIntyre’s key ar-
+      gumentisthatpostmodernistcritiquesofobjectivityandscienceopenedthefloodgatesfor
+      an anti-scientific (Far Right) advance. While the text does not provide a systematic
+      examination of postmodernism, it does present some convincing arguments that are
+      predicated on three empirical highlights.              
+        The first zeroes in on Phillip Johnson’s postmodernist sensibilities, which, admittedly,
+      facilitatedhisroleasoneofthefoundersof‘IntelligentDesign’(McIntyre,2018,136–41).
+      ThesecondandmoststrikingisBrunoLatour’s(2004)famouslamentofscience,which,in
+                                                             
+                                                             
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+      Anastasiou                                     15      
+                                                             
+                                                             
+      atwistofirony,advancesacritiqueofconstructivism(McIntyre,2018,141–43).Thethird
+      invokes the example of conspiracy theorist and Trump aficionado Mike Cernovich, who
+      openlyadmitstohavingreadandtacticallyemployedpostmodernthoughtinhispolitical
+      endeavors (McIntyre, 2018, 148–50). Admonishing ‘the Left’ for delving into obscure
+      postmodernlogicsandignoringtheirlogicalconclusion,McIntyre(2018,144)directsthe
+      following provocative inquiry to the reader: ‘[H]ow does the left fight back against
+      rightwingideologywithoutusingfacts?Thisisthecostofplayingwithideasasiftheyhad
+      no consequences’.                                      
+        I could contest McIntyre on a variety of points, not least his superficial survey of
+      postmodernism and his employment of sweeping generalizations under the guise of
+      unitary categories (‘the Left’, ‘postmodernists’, etc.). But engaging in a deconstructive
+      practiceisnotmypriorityhere.Iwouldliketosituatethediscussionwithintheframework
+      of the present article. Let us be explicit here by asking whether post-truth politics need
+      postmodernismasan epistemic compass, orwhetherrelativism,asany otherdiscursive
+      ‘tool’ can be employed as a political weapon. Consider how appeals to ‘rationality’,
+      ‘objectivity’,and‘science’areequallyemployedbyde-democratizingforces.Inarecent
+      interview, libertarian-turned-far-right technology mogul Peter Thiel (2025) described
+      Trump’sreelectionas‘miraculous’,becauseitcounteredthe‘demographicdeterminism
+      ofidentitypolitics,whereyoudonotvotebasedonreasonorargument,butyouvoteon
+      subrational factors like your gender, or your race, or your sexual orientation, or, other
+      thingslikethat’.WecanadditionallyconsiderhowAIsystemsareincorporatedinawide
+      array of state and corporate instruments that are in direct violation of democratic
+      principles and fundamental rights: Predictive policing, profiling, surveillance, autono-
+      mous lethal weapons, etc. These are the things the Far Right is in love with and all are
+      legitimized in the name of science, progress, and objectivity.
+        Even more relevant is the Far Right’s unwavering (if not obsessive) commitment to
+      essentializedconceptionsoftruthandidentity,whethernational,religious,civilizational,
+      gender,etc.Thenationalistand‘anti-woke’offensiveamountstoanexplicitrejectionof
+      relativism,whichtheFarRightassociateswithsocialliberalismandpostmodernism.Seen
+      from this perspective, postmodernism would correlate to the Far Right’s ‘internal ene-
+      my’—a connection that neo-Far Right gurus, such as Jordan Peterson, are never shy to
+      make.TheFarRight’soccasionalappealtorelativismisnothingmorethanacontingent
+      politicalstrategythatisdiscardedassoonasitceasestobeusefulandwhichinvariably
+      harks back to essentialized conceptions of culture and identity. As an example, the in-
+      famous Far Right philosopher Aleksandr Dugin has repeatedly disavowed post-
+      modernism… in his defense of cultural relativism! In other words, all ‘epistemic
+      weapons’canbeemployedintoday’ssocio-digitalmilieu,solongastheyareeffectively
+      skewed in the service of particular ideological orientations and particular political
+      interests.                                             
+        The ‘ease’ by which anything can be distorted towards any ideological direction
+      (considerFarRightappealstohumanrightsandfreespeech!)reflectsnothingmorethan
+      the overdetermined character of the contemporary digital-and-AI milieu, which has
+      dislodgedallrepresentationsfromtheir‘origin’andreshuffledthem.Theoverdetermined
+      character of the digital public sphere allows all representations to be decoupled,
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+      16                            Philosophy and Social Criticism 0(0)
+                                                             
+                                                             
+      reformulated,rhetoricallymodulated,flippedontheirhead,andsoon.Bythesametoken,
+      theFarRightisbarredfromanycritiquethatwouldappealtothepresumed‘inconsistency
+      ofargumentation’whenitsdiscoursetip-toesbetweenabsolutistandrelativistprinciples.
+      Appeals to the ‘internal inconsistency’, ‘contradiction’, and ‘hypocrisy’ of political
+      positions bear limited political efficacy when the whole meaningful order is likewise
+      subject to flux. In fact, it is the joker-like character of the Far Right that underpins its
+      political success. By effectively ‘arresting’ the flow of representations, including dis-
+      courses of the Left, and recasting them in accordance with its own principles, the Far
+      Righthaseffectivelymanagedtoconstructadiversealliance,rangingfromworkingclass
+      actorsto‘technofeudalists’(Varoufakis,2023),inthelikesofElonMuskandPeterThiel.
+        Aneffectivecounter-offensivetoFarRightpoliticswould,byextension,bepredicated
+      on the socio-political coordinates of the system at play. The creative employment of
+      counter-rhetoric, in the service of democratic ideals represents a first step of incision.
+      There have been various calls for a democratic populism (Mouffe, 2018; Stavrakakis,
+      2014) that would employ populist rhetoric (‘the people’ vs ‘the establishment’) in the
+      service ofadvancing democratic ideals.Political parties Podemos(Spain)and SYRIZA
+      (Greece)consciouslyemployedthispoliticalstrategy,whichfacilitatedtoaconsiderable
+      extenttheirrisetopower(Custodi,2021;StavrakakisandKatsambekis2014).Thecaseof
+      Podemosisparticularlyintriguingonaccountofthefactthatitcreativelyemployedanti-
+      elitist and patriotic rhetoric fashioned according to democratic values. But alas, demo-
+      cratic populism reached its impasse with the concurrent downfall of Podemos and
+      SYRIZA, raising important questions about its political limits (see Stavrakakis, 2021).
+        Democraticpopulismisnotapanacea.Itis,rather,justonemodeofcontestationthat
+      presupposes particular conditions of possibility (Laclau, 2005). In light of this, it is
+      necessarytoconsiderthepoliticalutilityofrhetoricbeyondthepopulistlogic—asamode
+      of contestation that can be deployed at any time and for whatever purpose. What are
+      progressive’s rhetorical responses to Far Right anti-immigrant rhetoric (‘they took our
+      jobs’,‘theyrapeandsteal’,‘IslamizationofEurope’)?Whatareprogressive’srhetorical
+      responsestodangerouslogicsemployedintheso-called—andrhetoricallyframed—‘race
+      toAI’?DowehaveananswertotherhetoricalheuristicsoftheestablishmentandtheFar
+      Right, which claim that ‘if we don’t get there first, China will’? Do we have rhetorical
+      responses to (often blatantly erroneous) anti-trans logics that assume centrality in the
+      impressively effective ‘anti-woke’ offensive? Forget about the intricacies. Give me a
+      sling-shot answer that I can remember. The rhetorical stock of democratic forces is
+      remarkably austere. Democratic forces are still ensnared in drawn-out analyses and
+      discussions that appeal to the principles of ‘internal rationality’ and the intricacies of
+      scientific observation. In this regard, ‘seizing the memes of production’ (Bown and
+      Bristow 2019) amounts to a necessary political strategy.
+        Mostimportantly,democraticrhetoricalschemasneedtoassumeagenerativefunction
+      that extends beyond the logic of existing representations, in what would essentially
+      amounttoaneffectiveframingoftheparametersofcontestation.Toputitsimply,reactive
+      politicsarenotenough.Democraticforcesneedtoensnarethemselvesinmultimodalacts
+      of(digital)culturalproductionvis-a`-visrhetoriconallfronts,beituser-generatedcontent,
+      memes, AI-generated content, without of course excluding traditional/conventional
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+      Anastasiou                                     17      
+                                                             
+                                                             
+      political repertoires. The task here consists in steering cultural coordinates by contin-
+      uously producing and institutionalizing, where possible, ‘total representations’ that are
+      fashioned according to democratic values.              
+        Atthispoint,Iwouldliketocitearelevantexample,whichdisplaysinthemostdirect
+      way the sway and efficacy of political rhetoric. In the run-up to the 2008 election,
+      Republican candidateMitt Romney advanced anassault onBarack Obama’shealthcare
+      coverage program, which the former derisively labeled ‘Obamacare’. Eighteen days
+      before the election, Obama advanced a decisive rhetorical counter-offensive that ef-
+      fectively reframed the whole parameters of the discussion. Invoking the presumable
+      medical condition of ‘Romnesia’, Obama cited, in the most simplistic and nonchalant
+      way,allofRomney’spolicyflip-flops:‘Mr.SeverelyConservativewantsyoutothinkhe
+      was severelykiddingabouteverything he said thelast year […]We’vegotta name this
+      condition that he’s going through. I think it’s called Romnesia […] I’m not a medical
+      doctor,butIdowannagooversomeofthesymptomswithya,becauseIwannamakesure
+      nobody else catches it’ (Obama, 2008). He proceeds:    
+        Ifyousayyou’reforequalpayforequalwork,butyoukeeprefusingtosaywhetherornot
+        you’dsignabillthatprotectsequalpayforequalwork,youmighthaveRomnesia[…]Ifyou
+        sayyou’llprotectawoman’srighttochoosebutyoustandupinaprimarydebateandsaidthat
+        you’d be delighted to sign a law outlawing that right to choose in all cases, man, you’ve
+        definitelygotRomnesia[…]IfyousayearlierintheyearI’mgonnagiveataxcuttothetop
+        1percentandtheninadebateyousayIdon’tknowanythingaboutgivingtaxcutstorich
+        folks, you need to get a thermometer, take your temperature, ‘cause you probably got
+        Romnesia. (Obama,2008)                               
+        Extending the rhetorical logic to a series of other examples, Obama reached his
+      rhetorical apexby reclaiming theterm ‘Obamacare’inthe mosteffectiveway possible,
+      whilecompletelyshatteringRomney’soffensivewithoutmakinganyfactualreferencesto
+      hishealthcarecoverageprogram:‘AndifyoucomedownwithacaseofRomnesiaand
+      you can’t seem to remember the policies that are still on your website, or the promises
+      you’vemadeoverthesixyearsyou’vebeenrunningforpresident,here’sthegoodnews:
+      Obamacarecoverspre-existingconditions!’(Obama,2008).Irrespectiveofwhetherone
+      is in agreement or not with Obama’s policies, one cannot deny his mastery of political
+      rhetoric, which to a considerable extent facilitated his (out of nowhere) rise to power.
+        This bring us to a key ethical issue that warrants address. Should democratic forces
+      follow the steps of the Far Right by indulging in disinformation, fake news, and deep
+      fakes?Myestimationisthatthiswouldamounttoaself-defeatingstrategy.Thechallenge
+      consistsinemployingeffectivepoliticalrhetoricwithoutunderminingrequisitestandards
+      of ‘truth’ and ‘fact’, even in the way they are conventionally understood. A forward-
+      looking democratic offensive should pride itself on its ‘truthiness’, thus differentiating
+      itself from the complete arbitrariness of non-democratic political forces. Lies and con-
+      spiracies should be exposed through creative processes of subversion, whereby ‘their’
+      rhetoric succumbs to the logic of ‘ours’. The general outlook should not consist in a
+      fatalismsubjecttothelogicofexistingsociologicalcoordinates(Baudrillard,1994),but,
+                                                             
+                                                             
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+      18                            Philosophy and Social Criticism 0(0)
+                                                             
+                                                             
+      rather, a creative leveraging of the possibilities it provides. This brings me to my next
+      point.                                                 
+        Should‘rationaldeliberation’,‘analyticrigor’,and‘science’bedoneawaywith?After
+      all,mywholearticleiscenteredonthepoliticalutilityofrhetoric,inwhatmightappearas
+      anuncriticalextolmentofthepoliticsofrhetoric.Letmebeclearhere,rhetoricisjustone
+      politicaltoolamongmany.Thereexistmanyspacesinthe(digital)publicsphere,where
+      ‘rational deliberation’ and ‘scientific discourse’ can exercise political effects. A demo-
+      craticoffensivecanonlybenefitbyincludinginitsarsenalasmanytoolsaspossible.To
+      this end, the function of rhetoric will be crucial in weaving together ‘sloganesque’ and
+      ‘rationalist’ modes of contestation, as their frontiers will require common discursive
+      referents. This presupposes blurring the distinction between ‘expert’, ‘political’, and
+      ‘poetic’ discourse, where the politician becomes the expert, the expert becomes the
+      politicianandbothbecomepoets.Thechallengeconsistsinarticulatingnovelhegemonic
+      structures through total representations, which would effectively ‘arrest’ the flow of
+      informationinthe(digital)publicsphereandmoldittothelogicofdemocracy.Asthese
+      thoughts aredraftedonlyadayafterthetragic passingofthegreatMichaelBurawoy,I
+      cannot help but renew the call for a ‘public sociology’ (and beyond) that would be
+      fashioned according to the challenges and coordinates of our time.
+        Thesepotentialitiescanaddamuch-neededimpetustosocialcritique,whichisallthe
+      moredisplacedbytherelativistandabsolutistwhimsofpost-truthpolitics.Muchhasbeen
+      writtenoverthelasttwodecadesaboutthedemocraticdeficit(Habermas,2003;Norris,
+      2011). However, little has been written about its relation to systemic complexity and
+      political rhetoric. It is my estimation that the architectural complexity of contemporary
+      political institutions occasions a diversity of political demands. These demands, which
+      may be associated, divergent, or even contradictory, cannot be referentially exhausted
+      either during, or after electoral processes. Nor can there be a coherent institutional re-
+      sponsetothesedemandsgiventheirinherentdiversity.Rather,politicalactors‘respond’
+      to these demands in the form of affectively charged rhetoric that occasions a sense of
+      partial fulfillmentthat isdefacto deferredadinfinitum (see Stavrakakis, 2007:196–98).
+      An effective social critique can offer redemptive potentials. By peering into and de-
+      constructing political rhetoric, we are enabled in ‘reactivating’ hidden (i.e., subverted)
+      politicaldemands.Whatseemslikeablindappealto‘nationalsecurity’mightinfactbe
+      masking myriad political demands, including calls for economic equality, a better
+      healthcaresystem,arobustwelfarestate,betterschools,etc.Indeconstructingthewhims
+      of rhetoric, we are enabled in bringing these demands ‘out of the shadows’ and accord
+      them the legitimacy they rightly deserve. The challenge here consists in re-inscribing
+      these demands within rhetorical modalities that appeal to democratic imaginaries—a
+      processpresupposingtheconstructionofademocraticworldpicturethatcanfacilitateour
+      march towards an open democratic horizon.              
+      Declaration of conflicting interests                   
+      Theauthor(s)declarednopotentialconflictsofinterestwithrespecttotheresearch,authorship,and/
+      orpublication of thisarticle.                          
+                                                             
+                                                             
+
+[PAGE 19]
+                                                             
+                                                             
+                                                             
+      Anastasiou                                     19      
+                                                             
+                                                             
+      Funding                                                
+      Theauthor(s)receivednofinancialsupportfortheresearch,authorship,and/orpublicationofthis
+      article.                                               
+                                                             
+      ORCID iD                                               
+      Michaelangelo Anastasiouhttps://orcid.org/0000-0002-4932-188X
+                                                             
+      References                                             
+      Ahmed,Sara. 2014.TheCultural Politics ofEmotion. 2nded.EdinburghUniversity Press.
+      Althusser,Louis. 1967. “Contradiction andOverdetermination.”New Left Review 41: 15–35.
+      Anastasiou,Michaelangelo.2022.NationalismandHegemony:TheConsolidationoftheNationin
+         Social andPolitical Life. Routledge.                
+      Anastasiou, Michaelangelo. 2024. “Populism and the Mirror of Technology.” In Populism and
+         Time: Temporalities of a Disruptive Politics, edited by Andy Knott, 126–47. Edinburgh
+         University Press.                                   
+      Aristotle.1992.Physics:BooksIandII.TranslatedbyWilliamCharlton.Oxford,England:Oxford
+         University Press.                                   
+      Aristotle. 1998. Metaphysics. Translated by Hugh Lawson-Tancred. London, England: Penguin
+         Books.                                              
+      Aristotle. 2000. Nicomachean Ethics. Edited and translated by Roger Crisp, Ethics. Cambridge
+         University Press.                                   
+      Barthes,Roland.1972.Mythologies.TranslatedbyAnnetteLavers.BooksAbroad.TheNoonday
+         Press.                                              
+      Barton,ColinC.2019.“CriticalLiteracyinthePost-TruthMediaLandscape.”PolicyFuturesin
+         Education17(8): 1024-36.https://doi.org/10.1177/1478210319831569
+      Baudrillard,Jean. 1994.Simulacra andSimulation.University of Michigan PPress.
+      Berger, Peter, andThomas Luckmann. 1966.The Social Construction of Reality: Treatise in the
+         Sociology ofKnowledge.PenguinBooks.                 
+      Blumer,Herbert.1969.SymbolicInteractionism:PerspectiveandMethod.UniversityofCalifornia
+         Press.                                              
+      Bown, Alfie, and Dan Bristow. 2019. Post Memes: Seizing the Memes of Production. Punctum
+         Books. https://punctumbooks.com/titles/post-memes-seizing-the-memes-of-production/
+      Butler, Judith. 2011. Bodies that Matter: On the Discursive Limits of “Sex”. Routledge. https://
+         www.routledge.com/Bodies-That-Matter-On-the-Discursive-Limits-of-Sex/Butler/p/book/
+         9780203828274                                       
+      Castells, Manuel.2009. CommunicationPower. OxfordUniversity Press.
+      Comte, Auguste. 2009. A General View of Positivism. Translated by J. H. Bridges. Cambridge
+         University Press. https://www.cambridge.org/9781108000642
+      Conrad,Maximilian,GuðmundurHa´lfdanarson,AsiminaMichailidou,CharlotteGalpin,andNiko
+         Pyrho¨nen.2023.EuropeintheAgeofPost-TruthPolitics:Populism,Disinformationandthe
+         PublicSphere.PalgraveMacmillan.                     
+      Critchley,Simon,JacquesDerrida,ErnestoLaclau,andRichardRorty.1996.Deconstructionand
+         Pragmatism, editedbyChantal Mouffe. Routledge.      
+                                                             
+
+[PAGE 20]
+                                                             
+                                                             
+                                                             
+      20                            Philosophy and Social Criticism 0(0)
+                                                             
+                                                             
+      Custodi,Jacopo.2021.“NationalismandPopulismontheLeft:TheCaseofPodemos.”Nationsand
+         Nationalism 27(3): 705–20.https://doi.org/10.1111/nana.12663
+      Dahlgren, Peter (2018) Media, Knowledge and Trust: The Deepening Epistemic Crisis of De-
+         mocracy. Javnost - The Public 25(1–2): 20–27. Available at: https://doi.org/10.1080/
+         13183222.2018.1418819                               
+      Davis,Evan.2017.Post-truth:WhyWeHaveReachedPeakBullshitandwhatWeCanDoaboutit.
+         Little, Brown.                                      
+      Derrida,Jacques.1993.“Structure,Sign,andPlayintheDiscourseoftheHumanSciences.”InA
+         PostmodernReader,editedbyJosephNatoliandLindaHutcheon,Vol.1.StateUniversityof
+         NewYork.                                            
+      Derrida, Jacques. 2001.WritingandDifference.Routledge. 
+      Descartes,Rene.2008.MeditationsonFirstPhilosophy.TranslatedbyMichaelMoriarty.Oxford
+         University Press.                                   
+      D’Ancona,Matthew.2017.PostTruth:TheNewWaronTruthandHowtoFightBack.EburyPress.
+      Elliott,Anthony.2022.“TheComplexSystemsofAI:RecentTrajectoriesofSocialTheory.”InThe
+         RoutledgeSocial ScienceHandbookof AI,edited byAnthonyElliott, 3–16. Routledge.
+      Finlayson, Alan, Annie Kelly, Rob Topinka, and Ben Little. 2022. “Digital Culture Wars: Un-
+         derstandingtheFarRight’sOnlinePowerbase.”Soundings81(81):43–64.https://doi.org/10.
+         3898/soun:81.03.2022                                
+      Freeden,Michael(2013)ThePoliticalTheoryofPoliticalThinking:TheAnatomyofaPractice.
+         Oxford University Press.                            
+      Freud,Sigmund.1955.TheInterpretationofDreams:TheCompleteandDefinitiveText.Editedand
+         translated byJamesStrachey. BasicBooks.             
+      Fuller, Steve. 2016. “Embrace the Inner Fox: Post-Truth as the STS Symmetry Principle Uni-
+         versalized.”Social Epistemology Review andReply Collective, December 25, 2016.https://
+         social-epistemology.com/2016/12/25/embrace-the-inner-fox-post-truth-as-the-sts-symmetry-
+         principle-universalized-steve-fuller/               
+      Glynos, Jason, and Yannis Stavrakakis. 2008. “Lacan and Political Subjectivity: Fantasy and
+         EnjoymentinPsychoanalysisandPoliticalTheory.”Subjectivity24(1):256–74.https://doi.
+         org/10.1057/sub.2008.23                             
+      Habermas, Jurgen (2003) Making Sense of the EU: Toward a Cosmopolitan Europe. Journal of
+         Democracy 14(4):86–100.Available at: https://doi.org/10.1353/jod.2003.0077
+      Habermas,Jurgen. 2023.A NewStructural Transformation of thePublic Sphere.Polity Press.
+      Hall, Stuart (1997) The Work of Representation. In: Stuart Hall (ed). Representation: Cultural
+         RepresentationsandSignifying Practices. Sage,13–74. 
+      Hegel,G.W.F.1977.PhenomenologyofSpirit.TranslatedbyA.V.Miller.OxfordUniversityPress.
+      Heidegger,Martin.1977.“TheWordofNietzsche:‘GodIsDead’.”InTheQuestionConcerning
+         TechnologyandOther Essays,Translated byWilliam Lovitt, 53–112.Garland.
+      Heidegger, Martin. 1999. Contributions to Philosophy (From Enowning). Translated by Parvis
+         EmadandKenneth Maly.Indiana University Press.       
+      Hoggan-Kloubert,Tetyana,andChadHoggan.2023.“Post-TruthasanEpistemicCrisis:TheNeed
+         forRationality,Autonomy,andPluralism.”AdultEducationQuarterly73(1):3–20.https://
+         doi.org/10.1177/07417136221080424                   
+                                                             
+
+[PAGE 21]
+                                                             
+                                                             
+                                                             
+      Anastasiou                                     21      
+                                                             
+                                                             
+      Hong,Sounman,andSunHyoungKim.2016.“PoliticalPolarizationonTwitter:Implicationsfor
+         theUseofSocialMediainDigitalGovernments.”GovernmentInformationQuarterly33(4):
+         777–82.https://doi.org/10.1016/j.giq.2016.04.007    
+      Horkheimer,Max,andTheodorW.Adorno(2002)TheConceptofEnlightenment.In:GunzelinS.
+         Noerr(ed).DialecticofEnlightenment:PhilosophicalFragments.StanfordUniversityPress,
+         1–34.                                               
+      Husserl, Edmund. 1980. “First Book: General Introduction to a Pure Phenomenology.” In Ideas
+         PertainingtoaPurePhenomenologyandtoaPhenomenologicalPhilosophy.Translatedby
+         F.Kersten, Vol.2.Martinus NijhoffPublishers.        
+      Iyengar,Shanto,andDouglasS.Massey.2019.“ScientificCommunicationinaPost-TruthSociety.”
+         ProceedingsoftheNationalAcademyofSciencesoftheUnitedStatesofAmerica116(16):
+         7656–61. https://doi.org/10.1073/pnas.1805868115    
+      Jakobson,Roman.2003.“TheMetaphoricandMetonymicPole.”InMetaphorandMetonymyin
+         Comparison and Contrast, edited by Rene Dirven and Ralf Porings, 41–47. Mouton de
+         Gruyter.                                            
+      James,William.1922.Pragmatism:ANameforSomeOldWaysofThinking.Longmans,Greenand
+         Co.                                                 
+      Kalpokas,Ignas.2019.APoliticalTheoryofPost-Truth.PalgraveMacmillan.https://doi.org/10.
+         1007/978-3-319-97713-3                              
+      Kant, Immanuel. 1992. “The Only Possible Argument in Support of a Demonstration of the
+         Existence of God (1763).” In Theoretical Philosophy 1755-1770, edited and translated by
+         DavidWalford andRalf Meerbote, 107–202. CambridgeUniversity Press.
+      Kant,Immanuel(1996)AnAnswertotheQuestion:WhatIsEnlightenment?In:MaryJ.Gregor
+         (ed).Practical Philosophy. CambridgeUniversity Press, 11–22.
+      Kant, Immanuel. 2002. Critique of Practical Reason, Translated by Werner S. Pluhar. Hackett
+         Publishing.                                         
+      Kant,Immanuel(2007)In:NicholasWalker(ed).CritiqueofJudgement.OxfordUniversityPress.
+      Lacan,Jacques(2006)TheInstanceoftheLetterintheUnconsciousorReasonsinceFreud.In:
+         BruceFink,HeloiseFink,andRussellCrigg(eds).E´crits.W.W.Norton&Company,412–39.
+      Laclau,Ernesto. 2005.On PopulistReason. Verso.         
+      LaclauErnesto(2007a)Discourse.In:E.GoodinRobert,PhilipPettit,andPoggeThomas(eds).A
+         Companion toContemporary PoliticalPhilosophy.Blackwell, 541–7.
+      Laclau,Ernesto. 2007b.Emancipation(S).Verso.           
+      Laclau,Ernesto. 2014.TheRhetorical Foundationsof Society.Verso.
+      Laclau,Ernesto,andChantalMouffe.1987.“Post-MarxismwithoutApologies.”NewLeftReview
+         166: 79–106.                                        
+      Laclau,Ernesto,andChantalMouffe.2001.HegemonyandSocialistStrategy:TowardsaRadical
+         Democratic Politics.2nded. Verso.                   
+      Latour,Bruno(2004)WhyHasCritiqueRunOutofSteam?FromMattersofFacttoMattersof
+         Concern.Critical Inquiry 30(2):225–48.              
+      Lazer, David M. J., Matthew A. Baum, Yochai Benkler, Adam J. Berinsky, Kelly M. Greenhill,
+         FilippoMenczer,MiriamJ.Metzger,BrendanNyhan,GordonPennycook,DavidRothschild,
+         MichaelSchudson,StevenA.Sloman,CassR.Sunstein,EmilyA.Thorson,DuncanJ.Watts,
+                                                             
+
+[PAGE 22]
+                                                             
+                                                             
+                                                             
+      22                            Philosophy and Social Criticism 0(0)
+                                                             
+                                                             
+         andJonathanL.Zittrain2018.“TheScienceofFakeNews:AddressingFakeNewsRequiresa
+         Multidisciplinary Effort.”Science 359: 1094–6.https://doi.org/10.1126/science.aao2998
+      Leibniz,G.W.2007.“DiscourseonMetaphysics.”https://www.earlymoderntexts.com/assets/pdfs/
+         leibniz1686d.pdf                                    
+      Locke,John.2003InTwoTreatisesofGovernmentandaLetterConcerningToleration,editedby
+         IanShapiro. Yale University Press.                  
+      Marx, Karl. 1978a. “Economic and Philosophic Manuscripts of 1844.” translated by Martin
+         Milligan InTheMarx-Engels Reader,edited byRobertC.Tucker.2nded.W.W.Norton&
+         Company.                                            
+      Marx,Karl.1978b.“ManifestooftheCommunistParty.”InTheMarx-EngelsReader.2nded.W.W.
+         Norton& Company.                                    
+      Marx, Karl. 1978c. “The German Ideology: Part I.” translated by S. Ryazanskaya In The Marx-
+         EngelsReader,edited byRobertTucker. 2nded. W.W.Norton& Company.
+      McCoy,Jennifer,TahminaRahman,andMuratSomer.2018.“PolarizationandtheGlobalCrisisof
+         Democracy: Common Patterns, Dynamics, and Pernicious Consequences for Democratic
+         Polities.” American Behavioral Scientist 62 (1): 16–42. https://doi.org/10.1177/
+         0002764218759576                                    
+      McIntyre,Lee.2018. Post-truth.MIT Press.               
+      Mead,George.1962.Mind,SelfandSociety:FromtheStandpointofaSocialBehaviorist,editedby
+         CharlesMorris. University ofChicago Press.          
+      Mouffe, Chantal. 1996. “Deconstruction, Pragmatism and the Politics of Democracy.” In De-
+         construction andPragmatism,edited byChantalMouffe.Routledge.
+      Mouffe, Chantal.2018. Fora Left Populism.Verso.        
+      Norris,Pippa.2011.DemocraticDeficit:CriticalCitizensRevisited.CambridgeUniversityPress.
+      Obama,Barack.2008.“ObamacareCoversPre-existingConditions.”YouTubevideo;Uploadedby
+         JosephCrews,October 19,2012. https://www.youtube.com/watch?v=Z36bFlSt54k
+      Pasquale, Frank. 2015. The Black Box Society: The Secret Algorithms that Control Money and
+         Information. Harvard University Press.              
+      Plato.2004.Republic.Translated byC. D.C. Reeve.Hackett Publishing Company.
+      Rosa, Hartmut. 2013. Social Acceleration: A New Theory of Modernity. Translated by Jonathan
+         Trejo-Mathys. Columbia University Press.            
+      Rousseau,Jean-Jacques.1999.DiscourseonPoliticalEconomyandtheSocialContract.Translated
+         byChristopher Betts.Oxford University Press.        
+      Rouvroy, Antoinette, and Thomas Berns. 2013. “Algorithmic Governmentality and Prospects of
+         Emancipation.”Re´seaux 177(1):163–96.               
+      Salgado,Susana.2018.“OnlineMediaImpactonPolitics.ViewsonPost-TruthPoliticsandPost-
+         Postmodernism.”InternationalJournalofMediaandCulturalPolitics14(3):317–31.https://
+         doi.org/10.1386/MACP.14.3.317_1                     
+      Saussure,Ferdinandde.1966.CourseinGeneralLinguistics.CharlesBally,AlbertSechehaye,and
+         AlbertRiedlinger. Translated byWadeBaskin. McGraw-Hill.
+      Schutz,Alfred.1967.ThePhenomenologyoftheSocialWorld.TranslatedbyGeorgeWalshand
+         Fredrick Lehnert.Northwestern University Press.     
+      Shalin, Dmitri N. 1993. “Modernity, Postmodernism, and Pragmatist Inquiry: An Introduction.”
+         SymbolicInteraction 16(4): 303–32.https://doi.org/10.1525/si.1993.16.4.303
+
+[PAGE 23]
+                                                             
+                                                             
+                                                             
+      Anastasiou                                     23      
+                                                             
+                                                             
+      Sismondo, Sergio. 2017. “Post-truth?” Social Studies of Science 47 (1): 3–6. https://doi.org/10.
+         1177/0306312717692076                               
+      Stavrakakis, Yannis (2007) Enjoying the Nation: A Success Story? The Lacanian Left: Psycho-
+         analysis,Theory, Politics.EdinburghUniversity Press, 189–210.
+      Stavrakakis, Yannis. 2014. “The Return of ‘The People’: Populism and Anti-populism in the
+         ShadowoftheEuropeanCrisis.”Constellations21(4):505–17.https://doi.org/10.1111/1467-
+         8675.12127                                          
+      Stavrakakis,Yannis.2021.“The(Discursive)Limitsof(Left)Populism.”JournalofLanguageand
+         Politics 20(1): 162–77.                             
+      Stavrakakis, Yannis, and Giorgos Katsambekis. 2014. “Left-Wing Populism in the European
+         Periphery:TheCaseofSYRIZA.”JournalofPoliticalIdeologies19(2):119–42.https://doi.
+         org/10.1080/13569317.2014.909266                    
+      Suiter, Jane. 2016. “Post-Truth Politics.” Political Insight 7 (3): 25–27. https://doi.org/10.1177/
+         2041905816680417                                    
+      Terren,Ludovic,andRosaBorge.2021.“EchoChambersonSocialMedia:ASystematicReviewof
+         the Literature.” Review of Communication Research 9: 100–18. https://doi.org/10.12840/
+         ISSN.2255-4165.028                                  
+      Thiel,Peter.2025.“TheRealReasonTechIsSwingingtotheRight&ItIsn’tWhatYouThink|
+         Peter Thiel.” YouTube video; Uploaded by The Rubin Report. March 3 2025. https://www.
+         youtube.com/watch?v=IeiIV5G1vrk                     
+      Varoufakis,Yanis.2023. Technofeudalism: What KilledCapitalism.Vintage.
+      Venizelos, Giorgos. 2024. “(Anti-)Populism and Post-Truth.” In Post-truth Populism: A New
+         Political Paradigm, edited by Saul Newman and Maximilian Conrad, 91-118. Palgrave
+         Macmillan.                                          
+      Z ˇ izˇek,Slavoj(1993)EnjoyYourNationasYourelf!.TarryingwiththeNegative:Kant,Hegeland
+         the Critiqueof Ideology.Duke University Press,200–238.
+      Zuboff,Shoshana.2019. TheAgeof Surveillance Capitalism.PublicAffairs.
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             

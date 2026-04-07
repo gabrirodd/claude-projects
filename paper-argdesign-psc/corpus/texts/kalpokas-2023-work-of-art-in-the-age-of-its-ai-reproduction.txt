@@ -1,0 +1,987 @@
+[PAGE 1]
+                                                             
+                                                             
+                                                             
+                                                             
+      Article                                                
+                                                             
+                                         PhilosophyandSocialCriticism
+                                         2025,Vol.51(8)1268–1286
+      Work   of art in the Age of Its AI                     
+                                         ©TheAuthor(s)2023   
+      Reproduction                                           
+                                         Articlereuseguidelines:
+                                         sagepub.com/journals-permissions
+                                         DOI:10.1177/01914537231184490
+                                         journals.sagepub.com/home/psc
+      Ignas Kalpokas                                        
+      VytautasMagnusUniversity,Lithuania                     
+      LCCInternationalUniversity,Lithuania                   
+      Abstract                                               
+      FromaBenjaminianpointofview,AI-generatedartisdistinctfromboth‘traditional’art
+      andtechnologicallyenabledreproduction,forexample,photographyandfilm.Insteadof
+      meremechanicalrepresentationoftheworldasitispresentedtoadevice,AI-generated
+      art involves identification and inventive representation of data patterns. This specific
+      modeofdata-basedgenerationexceedsmeresurface-levelmimicryandenablesdeeper
+      meaning,namely,aninsightintothecollectiveunconsciousofthesociety.Inthisway,AI-
+      generatedartisneverdetachedfromsocietyandthepredominantsocialconditionswhile
+      also reflecting the technology-induced transformations that today’s societies are un-
+      dergoing. Thus, AI-generated art can be seen as capable of partly reversing the loss of
+      auratic capacities that hand ensued with mechanical reproduction. Still, as a matter of
+      continuity,AI-generatedworksenablethemaximisationofexhibitionvalueandcapacity
+      for audience enjoyment, rendering AI-generated art perfect for the age of increasing
+      distraction.                                           
+      Keywords                                               
+      AIart,aura,creativity,data,exhibitionvalue,mechanicalreproduction,WalterBenjamin
+                                                             
+                                                             
+      To paraphrase the opening sentence of The Work of Art in the Age of Its Mechanical
+      Reproducibility,whenBenjaminundertookhiscritiqueofmechanicalreproduction,this
+      modewasstillinitsinfancy.1Ofcourse,hewasabletotraceahistoryofreproducibility
+      all the way from founding and stamping to photography and film. Nevertheless, the
+      experienceonwhichBenjamincouldrelypalesincomparisonwiththemushroomingof
+                                                             
+                                                             
+      Correspondingauthor:                                   
+      IgnasKalpokas,DepartmentofPublicCommunication,VytautasMagnusUniversity,V.Putvinskiostr.23-608,
+      LT-44243,Kaunas,Lithuania.                             
+      Email:ignas.kalpokas@vdu.lt                            
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+      Kalpokas                                      1269     
+                                                             
+                                                             
+                                                             
+      photo and video content first with digitalisation and, in particular, with the internet and
+      socialmedia.Moreover,wecurrentlystandattheinfancyofyetanotherrevolution–that
+      ofAI-generatedart,withthelatterbeingboundtogrowinbothqualityanddiversity.The
+      rapidemergenceandmainstreamisationofthisnewkindofcontentandthenewmodeof
+      itsproduction(generativeAImodels)alreadynecessitateaconsiderationofitsart-ness,
+      effect and function.                                   
+        It is often asserted that due to the growing power of artificial intelligence, the de-
+      velopmentofaproperdistinctformofmachinecreativitythatgoesbeyondmeremimicry
+      ofhumancreativeoutputisimminent.2Ofcourse,suchclaimsaretobeseenwithinthe
+      broader context of AI promotionalism, whereby machine capacities are presented as
+      universal solutions to the world’s most pressing problems and capable of substituting
+      humansineffectivelyalldomains.Nevertheless,oneshouldbewaryofsuchgrandand
+      hubristic claims and not fall for what Morozov has already years ago dubbed techno-
+      logical solutionism.3 Still, with the popularisation of text, image and video synthesis,
+      debatesaroundcreativityandthe‘art-ness’ofAI-generatedcontenthavesuddenlybeen
+      renderedextremelyacute.Simultaneously,theemergenceofsuchtechnologiesopensupa
+      further question that had already manifested its significance in Benjamin’s time: that of
+      technology’simpactontheidea,statusandfunctionofartandtherelativestandingofsuch
+      newwaysof(re)producingtheworld.Inparticular,thispertainstothechangingvalueand
+      societalsignificanceoftheworkofartassuch,withthemovetowardsexhibitionvalue
+      seen here as a key factor. Hence, while not intended as a direct update or an explicit
+      continuationofBenjamin’swork,thisarticlepresentsaBenjamin-informedanalysisofthe
+      statusofAI-generatedworks(ofart).Ofcourse,thereisarichandongoingdebateover
+      theadequacyoftheterm‘art’asappliedtoAI-generatedcontent.Whilefullengagement
+      with this debate is beyond the scope of this article, it is assumed that its actual status
+      notwithstanding,asubsetofAI-generatedcontentfunctionsasartinawaycomparableto
+      that of, for example, photography in Benjamin’s time.  
+        Thisarticleopenswithadiscussionofthenoveltyanddata-basedembeddednessof
+      AI-generated art as well as its relationship to human creativity. The status of AI-
+      generated art is located in-between reproduction and inventiveness. Next, attention
+      shiftstowardsthepositionofAI-generatedartvis-a`-viswhatBenjamincallsthe‘aura’
+      of the work of art, identifying the ways in which AI-generated art is situated in and
+      reflectiveofhistoricalandculturalcircumstances.Thediscussionsubsequentlyshifts
+      towardsBenjamin’sideaofthegrowingcentralityofexhibitionvalueofart:asAIis
+      generally at its best when optimising tasks, it is shown how the optimisation of
+      exhibition value is among the key premises of AI-generated art. The final section,
+      then, deals with matters of authenticity and human relationship with AI-generated
+      works.Notably,farfrommerereceptionandperception,suchrelationshipisalsoseen
+      toentailademocratisationofthecreativeprocess.Ultimately,AI-generatedworksare
+      understood to have the capacity of making visible the collective unconscious of
+      today’ssocieties–therichlayersofdata,artificialagentsandhumansthemselves–in
+      ways that are both adjacent to and dissimilar from the revelatory capacity that
+      Benjamin had ascribed to film.                         
+                                                             
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+      1270                         Philosophy and Social Criticism 51(8)
+                                                             
+                                                             
+      The complex relationship between human and AI creativity
+      It is next to impossible to discuss completely new ways of art creation without simul-
+      taneously rethinking the underlying conditions for the origination and enjoyment of
+      artisticworks.Indeed,Benjaminraisesacrucialpointbyobservingthatdiscussionsover
+      theart-nessof,first,photographyand,subsequently,filmhadmissedsomethingfromthe
+      very beginning: an account of how the technologies of mechanical reproduction have
+      ‘transformedtheentirenatureofart’altogether.4Hence,insteadofstretchingoldconcepts
+      andideasoriginallydevelopedforhuman-createdworksofarttomechanicalcaptureand
+      reproductionoftheworld,therewasaneedtodevelopnewconcepts–whichBenjamin
+      himselfdidwithgreatinsight.Crucially,thesameneedforaleapofconceptualthought
+      alsoappliestoworksproducedbyAI.Likephotographyandfilm,AIartismaterialisedby
+      fixing a snapshot onto a medium, either analogue or, more recently, digital. However,
+      unlikethesetwo,AI-generatedcontentdoesnotaffixthatwhichispresentedinfrontofa
+      device in a material form but, instead, a snapshot of data patterns that it has identified
+      duringthetrainingstage,thatis,wheningestingandanalysingsetsofdataonwhichthe
+      futureperformanceoftheAImodelwillbebased.Likehuman-createdart,AI-generated
+      worksrepresentasynthesisofworld-knowledgeandinvention;however,unlikehuman
+      artists, AI-generators acquire world-knowledge as sets of data and, therefore, their in-
+      ventiveness is a matter of identifying novel ways of combining and extrapolating from
+      this data.                                             
+        Indeed, extremely large sets of data scraped from across the internet are at the very
+      heartofgenerative–and,indeed,any–AI;thespecificityofgenerativeAI,though,liesin
+      itsabilitytogobeyondmererecognitionofpatternsinsuchdataandpredictionoffuture
+      occurrences based on such patterns and move towards more complex tasks, such as
+      generating new content.5 This is not to say that pattern recognition and prediction are
+      superseded–instead,theyremaincentralbecausegenerativeAIproducescontentbyway
+      of putting data-derived predictions to a medium. Such predictions could pertain to the
+      distributionofpixels,sequencesofwordsorsoundsetc.However,thereismoretosuch
+      predictionthanmereimitationbecausethecontentgeneratedtendstobequalitativelynew
+      andunliketheexamplesinthetrainingdatabecausethecontentsofthetrainingdataset
+      are restructured and not merely rearticulated.6 Therein, it could be argues, lies the
+      modicumofcreativityingenerativeAI,withoutprejudicetotheongoingdebatesastothe
+      actual agency (human or artificial) behind the processes of content generation.
+        Notably,asZeilingerasserts,AI‘hasthepotentialtoreshapetheaesthetic,cultural,and
+      socio-economicvalencesoftheconceptofcreativity’,thussimultaneouslydestabilising
+      thefigureoftheauthor.7Indeed,authorshipinthetraditionalsensehasalwaysbeentied
+      withtheideaofahumanpersonbehindthework.IncaseofAIgeneration,meanwhile,
+      evenifthereisahumanpersoninvolved(tinkeringwithtrainingdataandparametersor
+      sometimesdoingaslittleasprovidingaprompt),theendresultisultimatelydetermined
+      byAI.Afterall,asTurnernotes,thecorepremiseofAIisanautonomous‘abilityofanon-
+      naturalentitytomakechoicesinanevaluativeprocess’.8ItisoftenassumedthatonceAI
+      has been trained on the sample material and has learned the core principles of artwork
+      generation,itcanbeheldtobesufficientlycreativetoproducenewart.9Inaway,thisis
+                                                             
+
+[PAGE 4]
+                                                             
+                                                             
+      Kalpokas                                      1271     
+                                                             
+                                                             
+                                                             
+      notdissimilarfromthewayhumanslearnfromtheirmentors,peers,greatmastersandthe
+      broad history of art.10 Nevertheless, AI-generated content still is a work of art of a
+      completelynovelkind.Thetaskis,therefore,todeterminethecharacteristicsofthisnew
+      art form.                                              
+        AI-generatedcontentisalwaysembeddedinthesensethatsuchtoolslearnfromdata
+      samples,whichmightbeaspecificsetofpreviousworksor,muchmorebroadly,scraped
+      contents of the Web. Arriagada, for example, underscores the matter even further by
+      stressing that AI-generated art ‘is fundamentally based on Big Data, which is the most
+      socialthingwehave’.11ThesocialityofBigDatamust,however,beunderstoodinavery
+      specific sense. Instead of offering universal transparency and unbounded predictive
+      capacities,asstipulatednotonlyinprogressivistaccountsofdigitaltechnologybutalsoin
+      criticalaccountsoftheever-growingpoweroftechnologycompanies,12bigdatashould
+      beseenasperforminganintertwiningfunction.Inotherwords,BigDataareconstantly
+      multiplied as endless digital decorporealisations of the world while simultaneously
+      challenging the traditional Western understanding of human primacy13 and, instead,
+      moving towards an understanding of life as ‘an ongoing composition in which humans
+      and non-humans participate’.14 In this way, everyday realities acquire a ‘more-than-
+      human’ character, onemarked byassemblages and interembodiments ofhuman, digital
+      (dataandalgorithms/AI)andphysicalsummands.15Undersuchconditions,asBraidotti
+      stresses, presence is best defined in terms of affective capacity – one that knows no
+      boundaries but, instead, traverses across different modes of existence.16 Following this
+      approach–whichcanbelooselydefinedandposthumanist–AI-generatedartisbasedon
+      ever-morphing recursive relationships whereby flows and modifications of data act as
+      socio-technicalglue,neverstablebutalwaysintheprocessofaffectingandbeingaffected
+      in return.                                             
+        Inthisway,AI-generatedartisnevercompletelymachinicanddetachedfromhuman
+      experience – instead, it is permanently interwoven with human experience and ex-
+      pressionsoftheworld.Afterall,AIcreativitybeingbasedondata,itscorefunctionisto
+      rearrangeallofthesebitsinawaythatissimultaneouslynovelbutstillrecognisabletoa
+      humanaudience.Likewise,creativitythatistherebylearnedismachinicinthewayitis
+      performed but not as a matter of specific machinic aesthetics or sensitivities – because
+      theresimplyisnosuchthingasindependentmachineaestheticsorsensitivities(atleastfor
+      now),andeveniftherewere,machinesarenotthetargetaudience–atleastaslongthey
+      donothavepurchasingpoweroftheirown.Consequently,machineaestheticsarebound
+      to, at least for the time being, remain human-centric, in terms of both learning and the
+      intendedaudience.However,itispreciselythiscapacitytoemulatehumancreativitythat
+      also acts as a source of perceived threat to humans, particularly to human artists who
+      wouldseetheirlivelihoodsthreatened.17Still,thethreatwouldonlybecomeimminentif
+      therewasalsoasimultaneouschangeinsocietalperceptionsofart–similartothatwhich
+      had taken place alongside the emergence of mechanical reproduction so as to render
+      photography and film artistically and commercially viable.
+        Of course, not everyone is sold on the idea of machine creativity: after all, it is a
+      legitimate observation that AI lacks consciousness and intent and, therefore, cannot be
+      seen as creative in the human sense.18 It is indeed the case that the generative tools of
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+      1272                         Philosophy and Social Criticism 51(8)
+                                                             
+                                                             
+      todayarenotmakingindependentmacro-leveldecisions(whethertocreateornot,what
+      thesubjectmattershouldbe,whatstyletoadoptetc.).Onthemezzo-andmicro-levels,
+      nevertheless, the heavy lifting is done by the AI. Overall, this removal of the need for
+      humanstocarryouttheirideasinfull(from theinitial thoughtallthewaytoafinished
+      item)canbeexpectedtoleadtoasignificantgrowthintheamountofcontent.Thisgrowth
+      wouldalsoinstigateanexplosioninthevolumeofAI-generatedcontent.Still,thisdoes
+      not mean that such changes would spell the end of human creativity or that art would
+      becomecompletelyubiquitous.Justlikephotographyistodayanestablishedartformbut
+      noteveryphotoonetakeswiththeirsmartphoneisconsideredtobeart,soonlyafraction
+      ofallAI-generatedcreativecontentwillbeconsideredtobesuitableforinclusioninthe
+      ‘art’ category. Nevertheless, controversies to that end are already present, with AI-
+      generated artwork being capable of winning art competitions against human artists.19
+        As Benjamin notes, ‘[i]n principle, a work of art has always been reproducible’ but
+      withacrucial caveat:notably,‘[m]an-madeartifactscould alwaysbeimitatedbymen’;
+      meanwhile, mechanical reproduction, according to him, ‘represents something new’.20
+      AI-generatedcontent,inturn,representssomethingin-between:ontheonehand,thereis
+      anelementofmachinicseriality,wherebydatapatternsinthetrainingsetsareidentified
+      and restructured into ne, yet recognisable, forms but, on the other hand, AI does not
+      replicatetheworldfromsomedetachedvantagepointbut,instead,generatesoutputonthe
+      basis of and thus renders visible a very specific type of reality – objects, styles and
+      likenessesastheyappearindata.Forthisreason,itmightevenbepossibletosaythatAI-
+      generatedartistrulytheartofthetimes:justlikeartisgenerallyreflectiveofthesociety
+      andofitsrelationshipwithtechnologyandthenaturalworld,AI-generatedartisreflective
+      oftoday’sdominantmodeofengagementwiththeworld–datawithwhichhumansare
+      intimatelyenmeshed.Bymakingthelayersofdataandtrendsandpatternsthereinvisible,
+      AI-generatedartrevealsthecollectiveunconsciousoftoday’ssociety,includingitsdeep
+      human-machineentanglement.ThatmightinitselfbeasourceofvaluepertainingtoAI-
+      generatedcontent–arevelatorycapacitytorendervisibletheactualdigitallyenmeshed
+      and entangled conditions of life in contemporary societies.21
+        Theabovedoesnotnecessarilyhavetoamounttotechnologicalprogressivism:instead
+      of data as an external objective essence, one should, instead, focus on ‘relational con-
+      nections,affectiveforcesandagentialcapacities’arisingfromtheassemblagesofhumans
+      anddata.22Crucially,theintroductionofAIunderscoresaspecificallyposthumanelement
+      byintroducinganew–artificial–kindofagencyintothemutuallyaffectivehuman-data
+      interactions, turning them into a triangular interaction of humans, data and AI.23 As
+      Lupton argues, such assemblages ‘can be viewed as ever-changing forms of lively
+      materialities’,24whichisafarcryfromtheprogressivistunderstandingofdataanalyticsas
+      a quasi-magical tool that makes societies visible to an external gaze (perhaps best
+      epitomised byPeter Thiel’sborrowingofhis data analytics companyname –Palantir –
+      from The Lord of the Rings). Instead, focus shifts onto ‘the indeterminacy of the dis-
+      tinctions between human and nonhuman that human-data assemblages enact’.25 In this
+      way, AI tools are revealed to dwell within humans as major elements within cognitive
+      processesandcausalchainswhilehumansdoalsodwellinbothdigitalagentsanddataas
+      datafiedsubjectsbutalsoassourcesofmachinelearning.26Moreover,suchrelationships
+
+[PAGE 6]
+                                                             
+                                                             
+      Kalpokas                                      1273     
+                                                             
+                                                             
+                                                             
+      are never static but, instead, operating in constant recursive loops as no action, data-
+      ficationprocessandautomateddecisioniseverpure,standaloneanduncontaminatedbut
+      is, instead, based on multiple similar instances that had occurred prior.27 Therefore, the
+      collectiveunconsciousuncoveredandmadevisiblebygenerativeAIisneverarevelation
+      of some real and objective essence but, instead, a glimpse of the interconnected as-
+      semblages that underlie societies today.               
+        Notably,asZeilingerobservesinhisdefenceofAIcreativity,‘imitation,mimicry,and
+      copyingformthecoreofhowhumanagentsacquirelanguage,learnacraft,and,indeed,
+      createart’.28Benjaminalsoappearstohavebeenlargelyinfavourofsuchaview,citing
+      themakingofreplicas‘bypupilsinpracticeoftheircraft’asoneoftheinstancesofhuman
+      reproductionofart.29Ofcourse,photographythenisseenasperhapsthemostsignificant
+      additiontoreproductioncapacities.Nevertheless,theemergenceofAI-generatedworks
+      raisesafurtherissuewithregardstoreproducibility:itispossibletoassertthatgeneration
+      by AI is mere ‘making’, that is, reproduction of data patterns, which is significantly
+      inferiortocreativityproper.30Followingtheaboveargument,whilehumansdoengagein
+      copying when acquiring a new skill, once the latter is achieved, they move towards
+      independent self-sufficient creation. While engagement with the criticism of the ideas
+      pertainingtosuchallegedlymonadicexistenceofhumanartistsisbeyondthescopeofthis
+      article, it must be stressed that such strictly individual focus deflects attention from the
+      way in which human personality as well as social and cultural imprints that are all
+      necessarytoartisticoutputaregroundedintherichinterrelationsandnetworksthatembed
+      every individual within their lived environment. In particular, the striving for human
+      autonomyandself-sufficiencyand,therefore,denialofinterrelatednessarecriticisedby
+      posthumanistscholarsonthebasisofsuchananthropocentricviewbeingdiscriminatory
+      andonlyrevealingabiasedworldviewofaprivilegedminorityintheWest.31According
+      to Benjamin, photography had ‘freed the hand of the most important artistic functions
+      which henceforth devolved only upon the eye looking into a lens’.32 While, to some
+      extent, the collaboration between the human and the machine is preserved even in AI-
+      generated works,33 the end-goal, at least for those developing and marketing the tech-
+      nology,ismachineautonomyincreativity.WithAI-generatedart,inturn,boththehand
+      andtheeyearetobefreed,withtheendresultsolelysubjectedtomachinicprocessesof
+      generationas‘humanshavenoimmediatebearingontheprocessofproduction’.34Here,
+      focusshiftstowards‘developingmachineprocessandmachinecreativity’asopposedto
+      simplymimickinghumancreativity.35Withtheinclusionofdeeplearninginparticular,AI
+      generatorsincreasinglyacquiretheplasticityandindependentform-seekingthathadthus
+      farbeenseenascharacteristicofthehumanbrain.36Inthisway,itisclaimed,noveland
+      creative works can be generated with no humans being directly responsible for them.37
+      Onceagain,therealcurrencybehindsuchstatementsneedstobecarefullyconsideredand
+      evaluated, particularly with regards to instigation: as stressed above, regardless of how
+      independentlythecreativeprocessitselfwouldrun,itstillneedstobestartedanddirected
+      by humans and it still serves human aesthetic (and consumption) needs. Hence, AI-
+      generatedartremainshuman-centricatbothends:decisiontocreateandappreciationof
+      the end result.                                        
+                                                             
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+      1274                         Philosophy and Social Criticism 51(8)
+                                                             
+                                                             
+      Locating AI-generated works between auratic and exhibition
+      value                                                  
+      For Benjamin, a crucial feature that is lacking in reproductions, however perfect, is the
+      original work’s ‘presence in time and space, its unique existence at the place where it
+      happens to be’.38 Of course, reproductions have the benefit of bringing artistic works
+      closer to the person enjoying them – such as a photograph of a building or a musical
+      recordingthatcomeoutoftheiroriginalcontextsintoone’slivingroom.39Anycapture
+      andreproduction,however,canonlycomeatacost–thetakingawayofauthenticityand
+      the aforementioned situatedness in time and place; as Benjamin famously puts it, as a
+      resultofthisdisplacement,‘thatwhichwithersintheageofmechanicalreproductionis
+      theauraoftheworkofart’.40Indeed,itiskeytotheBenjaminianunderstandingthat‘[t]he
+      uniqueness of a work of art is inseparable from its being imbedded in the fabric of
+      tradition’ which, while changeable and prone to reconstituting how any given work is
+      perceived and interpreted, nevertheless, accumulates as the aura of that work.41
+        Itmustbeacknowledgedthattheauraisacomplexandmultifacetedconceptthatlacks
+      stability within Benjamin’s oeuvre, in particular with regards to its relation with me-
+      chanical reproducibility, such as in photography. In important ways, one can witness a
+      clearnostalgicaspecttoit,asindescribing‘astatewhichhadalreadybecomeobsolete’.42
+      In conventional terms, aura is lost when authenticity and uniqueness are replaced with
+      seriality and replication, not just of the work itself (e.g. one can produce numerous
+      photographsfromthesamenegative)butalsooftheideologicalandmaterialsetting(with
+      Benjamin’s particular focus being on the staged bourgeoisstudio portraits).43 In fact, it
+      transpiresthatauracanemergeagainstandincontrasttotheparticularsetting,asinan
+      encounterwiththesubjectofanotherwisemundaneandserialphotographthatrefusesto
+      bereducibletoconvention.Generally,theaurareferstothataspectoftheobjectthatgoes
+      beyond even if the artefact as such is within reach – the situatedness and history of the
+      object that make them unique and more than mere representation or mere following of
+      artistic or ideological convention.44 It is the experience of the object; a quasi-human
+      relationship of gaze laid and returned45 – what might, in today’s terms, be called a
+      parasocialrelationship.Acrucialcaseinpointhereisthe‘imaginaryencounterbetween
+      viewerandimage’.46Thereisareciprocityoftheencounterbetweentheobjectandthe
+      individualinteractingwithit,asmanifestedinthelayingandreturnofthegaze:ratherthan
+      being located in the very act of reproduction, mechanical or otherwise, the aura of the
+      workisinthespecificityoftheaudienceencounter.47Suchencounter,then,‘breaksdown
+      rigidboundariesbetweenselfandother,creatingaplayofidentificationbetweenviewer
+      andimage’.48Itis,ofcourse,anopenquestionastowhethersuchabreakwithconvention
+      andabilitytoreturnthegazecanbeattributedtoAI-generatedcontentbecausethatwould
+      necessitateasignificantamountofagency.AsforBenjamin,hehadalreadydeniedsuch
+      capacitytophotographicequipment.49Nevertheless,AI-generatedcontentdoesfulfilthe
+      aspectofsituatednessintimeandplace;andastheauraisarelationaltrait,itcanstillbe
+      read into AI-generated objects by the audiences.       
+        Meanwhile, AI art enthusiasts would downplay any doubt regarding the artistic ad-
+      equacy of AI-generated content, not least by proclaiming such doubt to be merely
+                                                             
+
+[PAGE 8]
+                                                             
+                                                             
+      Kalpokas                                      1275     
+                                                             
+                                                             
+                                                             
+      ‘a temptation to cling to romantic notions of creativity and innovation, praising human
+      genius that created real art’ – a sort of Luddite position.50 Overall, however, the latter
+      position itself appears to be rather defensive, effectively implying that although fully
+      fledgedautonomouscreativitycannot(atleastasyet)beachievedbymachines,perhapsit
+      isbecauseithadneverexistedinthefirstplace.Nevertheless,suchanentrenchmentdoes
+      not have to happen in the first place. In fact, there is an argument to be made that AI-
+      generatedworkspossessadegreeofsituatednessandembeddedness–atleasttoagreater
+      extent than, for example, photography. While not necessarily manifesting auratic
+      qualities,preciselyasaresultoftheirdata-basednature,AI-generatedworkspossessthe
+      capacityofreflectingtheirtimeandplaceand,inacertainway,tradition.Admittedly,for
+      example,AubryusestheirownversionoftheBenjaminianargument–namely,that‘[a]rt
+      isafluctuatingdomainofhumanlifethatisutterlyintertwinedwithculture,technology,
+      andhistory’–withtheaimofdiscardingtheveryideaof‘art-ness’ofAI-generatedart.
+      Nevertheless, the opposite can, in fact, be deduced from such claims: namely, that AI-
+      generated art is fundamentally entwined with and part of today’s culture and society,
+      situatedataprecisemomentinhistorythroughbothitsfocusonthedatarecordandits
+      reflectionof thedominant technology oftheday.51As pertheabove,suchworksmake
+      visibletheunderlyingessenceofthecontemporarysociety–recursiveinterrelationships
+      betweendatafromthemultipleuploadsandinteractionsthatweengageinonline,digital
+      artefacts (AI agents in particular) and humans themselves. Hence, contrary to photog-
+      raphy,whichmerelycapturesandreproduceswhateverhappenstobeinfrontofthelens,
+      AIcreativityhasarevelatoryaspecttoit,bringingforththedeeper,invisiblestrataoflife
+      atthisparticularmomentintime–includingthemultiplesocietalbiasesinherentinthe
+      datafromwhichthegeneratorlearnsaboutthe(humanandnon-human)world.52Inthis
+      way, while AI-generated content as such cannot have a critical purpose, it is entirely
+      possiblefortheaudiencetoascribeacriticalreading,thusturningsuchoutputintoatool
+      for social criticism through the content-audience relationship.
+        Asalreadyevidentfromtheabove,questionsareraised–andwithgoodmerit–with
+      regards to AI-generated output vis-a`-vis common understandings of creativity and,
+      therefore,art.WhilethedevelopmentofafullyfledgedaccountofAIcreativityisbeyond
+      the scope of this article, it must be stressed that the position embraced here is critical
+      towards mainstream anthropocentric (or, rather, Western-centric) accounts of creativity.
+      Indeed, creativity, as Stephensen observes, is permanently embroiled in what could be
+      calleda‘definitiongame’,thatis,aconstantprojectofrearticulationinlightofchanging
+      economicandpoliticalconcernsaswellasresearchagendas,andnotsomethingobjective
+      orpregiven.53Tothiseffect,therecanbenosuchthingasanaturalorneutraldefinitionof
+      creativity(orassertionoftheabsencethereof).ForHenriksen,CreelyandMehtaaswell,
+      creativity is interpreted as ‘a fundamentally politicized concept’, one that is less about
+      processesandartefactsandmoreabouttheexertionandnormalisationofpoweroverwho
+      andwhatcountsascreativeand,therefore,valuable(and,likewise,whoandwhatcanbe
+      discardedasworthless).54Ithasthusservedasatoolforerasureofnon-Westerncultures
+      and indigenous views on creativity, while even within the West, women, for example,
+      have for centuries been largely denied the status of creative agents; the same strategy
+      couldthenbeseenasmanifestingitselfwithregardstoAI-generatedcontent.55Moreover,
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+      1276                         Philosophy and Social Criticism 51(8)
+                                                             
+                                                             
+      as such Western-centric politics of creativity has been further entrenched by becoming
+      entangledwithpopularunderstandingsoffundamentalhumanattributes,resistancetoAI
+      creativitybecomesan(almost)automaticdefensivereaction.56Still,theprecedingisnot
+      intended to suggest that AI-generated content is by definition creative and, therefore,
+      potentiallyclassifiableasart,justliketodaymosthuman-createdphotoorvideocontent,
+      intended for uploading to social media or just mindlessly produced, contains at best a
+      modicum of creativity and can hardly be ascribed the status of artistic works. Never-
+      theless, the implication is that AI-generated content can in principle be creative and,
+      therefore,amounttoaworkofart,albeitusuallywithadifferentsocietalfunctionthanthe
+      more ‘traditional’ artworks.                           
+        Cruciallytoelucidatingtheabovefunction,Benjaminnotesthattheworkofarthasits
+      origininritual–aheritagethat,heclaims,remainsattheveryleastimplicit:forexample,
+      this ‘original use value’ remains ‘recognizable as secularized ritual even in the most
+      profaneformsofthecultofbeauty’.57Mechanicalreproduction,meanwhile,separatesthe
+      workofartfromritual,shiftingemphasisfrom‘cultvalue’to‘exhibitionvalue’.58Sucha
+      shiftiscertainlyfundamentalandsignifiesacompletechangeinfunction:whatfirstwasa
+      moveawayfromanobjectofmagictoanobjectofart,nowhasturnedintoascriptionof
+      exhibition value to which the artistic function could become accidental.59 Something
+      similarisechoedbyManovichwithregardstoAI-generatedcontentintermsofapotential
+      dissociationofAI-generatedartandcreativity.60Thelatterpoint,nevertheless,needstobe
+      partlyobjectedinthesamewayBenjamincriticisedthestretchingoftheoldconceptsto
+      completelynewtypesofexpression.Insteadofdissociation,amoreproductivealternative
+      wouldbetoreconsidercreativityasanancillaryfeatureintendedtomaximiseexhibition
+      valueifnotinexchangeformonetaryreward,thenatleastasageneratorofsocialvalue,
+      whichintoday’ssocietiesareperhapsmostprominentlyreflectedthroughviewsandlikes.
+      Tothiseffect,itmightseem,AI-generatedartwouldcontinuethetrendofdisenchantment
+      andexhibitionfocusasidentifiedbyBenjaminbutwithoutcompletelylosingcreativity
+      out of sight.                                          
+        Inthesamevein,thereisachangeintheappreciationofaworkofart,withitshifting
+      towardseasyandunchallengingenjoymentas‘[t]heconventionalisuncriticallyenjoyed,
+      andthetrulynewiscriticizedwithaversion’.61Unsurprisinglyinthiscontext,AIcreative
+      outputisatitsmostappealingtotheaudienceswhenitisjustslightlydifferentfromthe
+      broadercontextbutnottoomuchsothataudienceexpectationsarenotviolated.62After
+      all, it is becoming clear that AI is capable of generating results that are simultaneously
+      novelandpleasant,63andserialisingsuchcapacitytranspirestobethegoalofAI-powered
+      generativesystems.Inthisway,itisnotdifficulttoassumethatart-nessisintheeyesof
+      theaudienceandnotintheobjectivequalitiesoftheworkitself64–atleast,onceagain,if
+      one accepts the Benjaminian argument of a shift towards exhibition value as a key
+      consideration. Here, again, creativity is found to be in the form of developing and
+      implementing novel attention – and reception – maximising ways of rendering data
+      patterns visible.                                      
+        Theshifttowardstheexhibitionvalueoftheworkofartisalsoclearlyvisibleinthe
+      corresponding shift towards art as (intellectual) property. In this way, art leaves the
+      domain of creativity and enters the economic domain, becoming a form of capital.65
+
+[PAGE 10]
+                                                             
+                                                             
+      Kalpokas                                      1277     
+                                                             
+                                                             
+                                                             
+      Symptomatically,then,thecoreargumentsofthoseproposingprotectionofAI-generated
+      artinawayatleastsimilar(ifnotanalogous)tohuman-producedworksfocusontheneed
+      forinvestorsinAItechnologiestoreapaprofit.66Likewise,onecanincreasinglywitness
+      art following a path trodden by other forms of digital content – one that leads towards
+      platformisation.67 Here, again in line with Benjamin’s foresight, artistic function has
+      become secondary to return on investment and its precondition – exhibition value.
+      However, there are still ways in which the situation here is less than straightforward
+      because, at least to some extent, AI also works as re-enchantment. Notably, there is a
+      ratherprevalenttendencytounderstandAIin(quasi-)religiousterms,fromawaitingsome
+      sortofdivineintervention(suchasthearrivalofsuperintelligentAI)toascribingmachine
+      creativitythepowertoleadtowardssalvation.68Hence,contemporarysocietyseemstobe
+      prone to ‘deification of AI’ through ascription of intent and (almost) supernatural
+      powers.69 In creativity, for example, AI can thus be seen as a source of superhuman
+      fantasy and inspiration while the revelatory nature of art-from-data generation can be
+      understood, at least from an industry perspective, as an almost supernatural insight.70
+        Oneshould,however,bescepticalaboutunbridledpromotionalismeither:suchfocus
+      on supposedly higher insight from a hierarchically superior vantage point would only
+      meansubstitutionofonesetofbiasedassumptions(anthropocentrism)withitsopposite.
+      Instead,oneshouldseetheinputofAIpreciselyinthemore-than-humansensediscussed
+      above:asademonstrationofhowsocialpractices‘arealwayssituatedinthelivelywebof
+      interdependencies’.71 Only in this way is it possible to move beyond the narrative of
+      competitionbetweenhumansandmachinesandoptforamoreegalitarian,interdependent
+      relationship.72Hence,onceagain,generativeAIcapacitiesshouldbestbeseenintermsof
+      expansion of the breadth of interconnectivity and interactivity rather than temporal or
+      qualitative substitution. Quantitative change (the growing ubiquity of AI-generated
+      output) is, of course a very different matter and a driving force behind the platform-
+      isationofAI-generatedcontentinthebroadsense,but,asinotherkindsofplatforms,it
+      has little to do with artistic endeavours properly conceived.
+        Nevertheless, while in the past the above acts of insight would have been singular
+      occurrences, AI-generated content unavoidably has an element of seriality to it. Pho-
+      tography also has rendered authenticity and the idea of one work as ‘the original’
+      nonsensical as any number of prints, all of the same quality (and manifesting the same
+      lineage from theactof reproduction, that is, taking of the photo as such) could now be
+      produced.73ThisisalsothemainreasonwhyAI-generatedworkscannothavefullauratic
+      quality: despite being embedded in the fabric of culture and society, they nevertheless
+      retaintheimpossibilityofdistinguishinganoriginalfromacopyastheycanbemultiplied
+      with only a few clicks. Admittedly, there are also attempts to change that equality of
+      digital artefacts, for example, through the use of Non-Fungible Tokens (NFTs). By
+      associatingaparticularitemwithablockchainentryandprovidinganindelibletraceof
+      ownership,NFTspurporttoreproducetheideaoftheoriginal,alongsidethematerialistic
+      aspirationsofanartcollector,thussimultaneouslycapitalisingonsupposedauthenticity
+      andexhibitionvalue(throughcreatingartificialscarcity).Nevertheless,suchattemptsare
+      better seen as artificial means of monetising investor desire for exclusivity rather than
+      changes to the nature of the digital work itself.      
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+      1278                         Philosophy and Social Criticism 51(8)
+                                                             
+                                                             
+      AI-generated works as a set of optimisations           
+      Benjaminstresseshowtheauraoftheworkofartislostparticularlyinfilm(contraryto,
+      say, a theatre performance), since it is shot in a non-linear manner, cut and then re-
+      assembled from multiple isolated pieces, visually devoid of technology and yet com-
+      pletelypermeatedbyit;moreover,film,accordingtoBenjamin,lacksthedirect,always
+      one-off,interactionwiththeaudiencewithinwhichthesituatedness(authenticity)ofthe
+      performancelies.74ThisisnotentirelydifferentfromDuSautoy’scriticismofalgorithmic
+      creativity: for him, proper creation only happens as a ‘meeting of minds’, that is, when
+      thereisroomforaudience’sco-creationwiththeartistwhilethereisnosuchspacevis-
+      a`-visan artificial entity.75 On theother hand, it canbe arguedthat thedisappearance of
+      aurainfilmpertainsto,notleast,themismatchbetweenthemodeoftheworld’spresence
+      and the mode of its representation. In a world that is physical-first, technological rep-
+      resentation,cuttingandpastingconstitutedanendresultthatwasdevoidofauthenticity
+      andacapacityforthegazetoberesteduponandreturnedwhilealso,bybeingmalleable,
+      easily conforming with the conventional – all detrimental to an auratic encounter. In a
+      worldthatisdigital-first,meanwhile,digitalrenderingofcreativeendeavoursconstitutes
+      perhapsthesoleauthenticwayofrepresentation(and,giventhenatureandscopeofdata,
+      likelytheonlyfeasiblewayofrepresentation).AsBenjaminwriteswithregardstofilm,
+      ‘[t]the equipment-free aspect of reality here has become the height of artifice’.76
+      Meanwhile,theuseofAImarksachangeinthesensethatthereisevennocontraptionof
+      realitytobehidden–but,instead,enmeshmentsofhumans,dataanddigitaltechnologies.
+        Afurthertransformation,accordingtoBenjamin,pertainstotheproliferationofworks
+      themselves:fromfewcreatorsfacinglargeaudiencestoanincreasingcapacityofevery
+      individual to express themselves.77 Such an assertion, of course, sounds even more
+      familiarintimesofsocialmedia.Indeed,technologicaltransformationsandanassociated
+      changeinsocialhabitsduringtherecentdecadeshavemadethecreationand(particularly
+      given Benjamin’s comments on the emergence of ‘exhibition value’) display of me-
+      chanicalreproductionsoftheworldseeminglybanal.GenerativeAIcapacitiesmaywell
+      venture into the same domain, democratising the production of art and making it an
+      everyday occurrence.78 This is not dissimilar from the effect that smartphone-mounted
+      camerashavehadonphotography,takingthelatterwaybeyondthelevelofproliferation
+      that Benjamin would have imagined. While cameras as such, and subsequently their
+      increasingubiquityandintegrationintophones,dronesandelsewherehavedemocratised
+      reproduction of the world, AI-generated art does something similar with what goes
+      beyond mere reproduction and representation. Paintings, sketches, collages etc. have
+      always necessitated a human hand, along with specific skill and ability. AI has de-
+      mocratisedthecapacitiesofcontentcreationsothatanyonewitheasy-to-usetoolscould
+      generateworksthathadpreviouslybeenassociatedwithahumantouchaswellasa(high)
+      level of skill and ability.                            
+        Whatisnotablehere,though,istheirruptionoftechnologyintotheworkofartinaway
+      whichissimultaneouslyplainandhidden:ontheonehand,itisplainbecausetechnology
+      istheessenceandsubstanceofthework;ontheotherhand,itishiddenbecausethatwhich
+      passes for exhibitionally valuable (popularity becoming the ultimate criterion) is that
+                                                             
+
+[PAGE 12]
+                                                             
+                                                             
+      Kalpokas                                      1279     
+                                                             
+                                                             
+                                                             
+      which enables the viewer to forget, or at least to conveniently ignore, the absence of
+      humaninvolvement.Attheveryleast,evenwhentechnologicalinvolvementisplainand
+      well-known, the techno-centricity of today’s societies has likely resulted in a desensi-
+      tisation of audiences to AI being embedded ever more deeply into the fabric of the
+      everyday. Again, exhibition value becomes the core consideration, as opposed origin.
+      Indeed, popularity and public enjoyment were seen as new and emergent value criteria
+      already by Benjamin79 and have only increased in prominence since.
+        Onemorechangeintermsofrelationshiptoanunderlyingrealitycanbeinferredfrom
+      comparing AI with Benjamin’s contrasting of the painter and the cameraman. For him,
+      while‘[t]hepaintermaintainsinhisworkanaturaldistancefromreality,thecameraman
+      penetrates deeply into its web’.80 AI, meanwhile, goes both ways: simultaneously
+      penetration(bydiggingthroughdatatoproducearepresentationinferredtherefrom)and
+      distance (building an artifice rather than direct representation). Likewise, Benjamin
+      asserts,while‘[thepicture]ofthepainterisatotalone,thatofthecameramanconsistsof
+      multiplefragmentswhichareassembledunderanewlaw’.81Here,again,bothaspectsare
+      manifested in AI generation: assembly from bits (data) but from a total inventive per-
+      spective rather than minuscule ordering of a plot or a tightly framed shot.
+        In addition, Benjamin does read psychoanalytic capacities into mechanical repro-
+      ductionofreality,particularlyinfilm,throughtechnologicalcapacitiessuchasclose-up
+      andslowmotionwhichareseenaspotentiallyrevealingglimpsesintotheunconsciousby
+      makingvisiblewhatwouldnormallyescapethenakedeye.82AI,meanwhile,elevatesthis
+      excavation work to the collective level by allowing a glimpse into the collective un-
+      consciousdiggingacrossthecomplexinterrelationshipsofhumans,dataandtechnology.
+      Onceagain,elementsandaspectsthatwouldotherwiseescapethenakedeyearerendered
+      visible,revealingthedata-basedcollectiveunconsciousofcontemporarysocieties.Thus,
+      AI-generated art acquires a revelatory capacity of sorts. Zeilinger claims to offer an
+      explanationbyassertingthatAI-generatedworksareperhapsbestunderstoodas‘copies
+      withoutoriginals’inaBaudrillardiansense,creatingasimulacrumofthereal(fromthe
+      datacrunchedandanalysedandpatternsthusidentified)butwithoutactuallyreferringto
+      anythingbeyonditself.83That,however,isamisleadinginterpretation.Instead,theobject
+      of reference (data), being digital and only available to be parsed by AI tools, tends to
+      escapehumanattention,therebycreatingtheillusionofAI-generatedworksassimulacra.
+        Hence,amorecomplexaccountoftherevelatorycapacityofAI-generatedcontentis
+      necessary–onethataccountsforthecomplexinterrelationshipsbetweenhumans,AIand
+      data. It must be stressed, at the risk of repetition, that ‘the world is not composed of
+      preexisting and already-formed entities awaiting discovery’ either by the humans
+      themselvesorbytoolsandothermeanscreatedbythem(suchassuchasdata-crunching
+      algorithms); instead, the very practices of knowing and revealing such entities ‘play a
+      constitutivepartinbringingtheirobjectsofstudyintoexistence’.84Inaddition,onemust
+      inquire to whom things are revealed and in relation to whom any knowledge and un-
+      derstanding is formed as the post-anthropocentric framework espoused in this article
+      ‘displacesthenotionofspecieshierarchyandofasingle,commonstandardfor“Man”as
+      themeasureofallthings’.85Closelyrelatedwiththeprecedingisthewidespreadpushfor
+      transparencyandagainstalgorithmsandAIagentsactingas‘blackboxes’thatonecannot
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+      1280                         Philosophy and Social Criticism 51(8)
+                                                             
+                                                             
+      seethrough.AsstressedbyDewandre,transparencyinthiscontextbecomes‘agroundfor
+      experiencing autonomy and control’.86 Against that, adopting a much more vulnerable
+      position of a ‘relational self’87 would entail relinquishing the desire for autonomy and
+      power through supposedly neutral knowledge. Hence, the revelatory capacity of AI-
+      generated content and its ability to make visible the collective unconscious of con-
+      temporary society lies in the complexity and impurity of representation. Just like the
+      unconscious does not manifest itself verbatim, so AI-generated content brings forth the
+      messyinterrelationshipsofagentsthatare,atleastpartially,opaquetoeachother:humans
+      areneverfullydatafiedand,inasmuchastheyare,datacapturediffersbetweenthediverse
+      sets of tools, techniques and platforms. The pathway towards particular decisions or
+      contentitemschurnedoutbyAIisofteninexplicable,andthepotentialforevernewuses
+      of data is hard to exhaust. In a way, it is the ever-present likelihood of errors, glitches,
+      deformations and hallucinations in AI-generated content that signifies its revelatory
+      potential vis-a`-vis the complexity of today’s societies.
+        The above, however, does not automatically mean that such revelatory capacity is
+      generally appreciated. What AI shares with mechanical reproduction is not only the
+      importance of exhibition value but also that their reception takes place ‘in a state of
+      distraction’.88Ifanything,ittranspiresthatthedistractionhasonlyincreasedasaresultof
+      the ever-growing abundance of digital content available online. For this reason, the
+      attentionavailabletoanyworkofarthasshrunk,meaningthatthereisaneedtomaximise
+      impact.Crucially,beingalwaysinformedbydata,AI-basedgeneratorscanalsolearnand
+      adaptthemselvestoemergingtrendsandchangesinpublictasteandperception,thereby
+      optimisingtheiroutputformaximumexhibitionvalue.89Moreover,AI-generatedworks
+      challengetheparadigmthatartissomethingstableandidenticaltoall.Ofcourse,arthas
+      neverbeenidenticaltoallinthesensethatithastypicallybeenunderstoodandinterpreted
+      differentlyby different peopleand at different times. Nevertheless, they would all have
+      encountered the same work (withering and deterioration notwithstanding). Meanwhile,
+      AI-generated content can, at least in principle, be adapted to the data of the individual
+      accessing it,therebyincreasingappeal.Inaslightly differentdomain,meanwhile,AIis
+      also enabling personalisation of mass culture in ways ranging from content moderation
+      (selection anddisplay ofparticularitems) topersonalised generation, thatis, generators
+      adaptingtothepreferencesandstyleoftheiruser.90Hence,ittranspires,AIisincreasingly
+      poised to take over the entirety of individuals’ cultural and aesthetic experience.
+        It is, therefore, no surprise that AI begins to be seen as a potential competitor in the
+      artisticfieldaswell.Indeed,theautomationandjobssubstitutiondiscoursewasinitially
+      focusedonthemoremanualandtediousjobs.Nevertheless,itisbecomingevidentthatAI
+      iscapableofpushing‘traditional’creatorsoutofthemarket.91Thismightnotbethecase
+      with the high-end art market (at least not in the short term). Nevertheless, it is easy to
+      imaginethoseworkinginthecreativeindustriesaswellaslessestablishedartistsbeingat
+      risk of automation. While it is correct that photography, contrary to the original fears,
+      never ended up replacing painting, AI-generated art is more like painting than pho-
+      tographyis.Afterall,photographyisaboutcaptureandreproducibilityinthestrictsense,
+      whereas AI generation is a matter of data pattern rearrangement and reassortment that
+      uncovers things beyond visibility.                     
+
+[PAGE 14]
+                                                             
+                                                             
+      Kalpokas                                      1281     
+                                                             
+                                                             
+                                                             
+      Conclusion                                             
+      The debate pertaining to the ‘art-ness’ of AI-generated content notwithstanding, it
+      transpiresthatatleastanaffinitybetweenhumanandAI-generatedartcanbeestablished.
+      Ofcourse,theseareworksofanentirelydifferentkind,butsowasphotographyandfilm
+      inBenjamin’stime.Itisalsoworthnotingthatthequestionof‘art-ness’isonlyrelevantto
+      a small fraction of the content generated by AI (even should one narrow the scope of
+      discussion down to the two types that at the time of writing are attracting the most
+      attention–imagesandtext);afterall,toagaindrawananalogywithphotography,while
+      photographs abound, particularly on social media, only a very small fraction of them
+      wouldmeaningfullyinvitediscussioninartisticterms.Nevertheless,theveryintroduction
+      of AI-generated artistic artefacts constitutes a shift that needs further conceptualisation.
+        Overall, it transpires that while AI-generated art represents a continuation and even
+      intensificationofsomeofthetrendsidentifiedbyBenjamin,itbynomeansconstitutesa
+      linear progression. In fact, in important ways, AI-generated art stands in-between ‘tra-
+      ditional’ art and Benjamin’s take on photography and film. Notably, AI art is societally
+      embeddedinthesensethatitisbasedondatageneratedbyhumansocieties.Inthisway,at
+      leastsomeaspectsofauthenticityandauraticqualityareretained.Likewise,AI-generated
+      art has a revelatory quality, making visible the layers of the collective unconscious of
+      today’ssocieties–thatis,datapatterns–inawaythatisinlinewiththepsychoanalytic
+      capacities that Benjamin saw in photography and film. More generally, it is possible to
+      claimthatwhileBenjaminsawphotographyand,evenmoreso,filmasamatterofartifice,
+      AI-generatedartconstitutesperhapsthemostgenuinerepresentationoftoday’ssocieties
+      characterised by the enmeshment of humans, data and digital tools.
+        Nevertheless,continuity-wise,AI-generatedart’soptimisationtowardsmaximisingits
+      exhibitionvalueisnoteworthy.Moreover,itmustalsobekeptinmindthatsuchartisstill
+      anthropocentricintermsofitsaesthetics:notonlyitlearnsfromhumansbutalsothetarget
+      market are humans. Hence, the difference is less in terms of the technical aspect of
+      creation,sinceitretainsahumanorientation(justlikebothapaintingandaphotograph
+      are human-oriented) but, instead, the source and manner of representation: while the
+      earliertechnologicaltools(suchasthephotoorvideocamera)merelyreproducewhatis
+      setbeforethem,AI-generatedartcomprisesofnovelrepresentationsof(theworldseenas)
+      data, human and AI assemblages.                        
+      ORCID iD                                               
+      IgnasKalpokashttps://orcid.org/0000-0003-1110-5185    
+      Notes                                                  
+                                                             
+       1. SeeBenjamin (1964,217).                            
+       2. See, for example,Kapur andAnsari (2022).           
+       3. Morozov(2014).                                     
+       4. Benjamin (1964, 227).                              
+       5. Routley(2023);Davenport andMittal 2022.            
+                                                             
+                                                             
+                                                             
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+      1282                         Philosophy and Social Criticism 51(8)
+                                                             
+                                                             
+       6. Floridi (2023); Pavlik (2023).                     
+       7. Zeilinger (2021,3–4).                              
+       8. Turner(2019,16).                                   
+       9. On the conceptualisation of artificial authorship, see Brown (2018); on the creative and art-
+         makingcapacitiesofAI,seeMazzoneandElgammal(2019);foracritiqueofanthropocentric
+         conceptions of authorship, see Arriagada (2020); for adiscussion of the problems raised by
+         creative AI vis-a`-viscurrent copyright doctrines, see Dornis(2020).
+      10. Brown (2018, 25–26).                               
+      11. Arriagada (2020, 403).                             
+      12. See, perhapsmost notably,Zuboff(2019).             
+      13. Mauthner (2019).                                   
+      14. Neyland (2019,11).                                 
+      15. Lupton(2020,14).                                   
+      16. Braidotti (2019,45).                               
+      17. See, for example,Gervais (2020).                   
+      18. Zurth(2021).                                       
+      19. See, for example,Roose (2022); Glynn(2023).        
+      20. Benjamin (1964, 218).                              
+      21. Santos(2022).                                      
+      22. Lupton(2020,77).                                   
+      23. Mahon(2018, 80–81).                                
+      24. Lupton(2020,14).                                   
+      25. Lupton(2020,17).                                   
+      26. Amoore (2019,163).                                 
+      27. Beer (2022).                                       
+      28. Zeilinger (2021,15).                               
+      29. Benjamin (1964, 220).                              
+      30. Brown (2021, 44).                                  
+      31. See, for example,Braidotti (2019);Lupton(2020);Kalpokas (2021).
+      32. Benjamin (1964, 219).                              
+      33. Bolojan(2022).                                     
+      34. Dornis(2020,7).                                    
+      35. Mazzone andElgammal (2019,5).                      
+      36. Koh(2022).                                         
+      37. Ornes(2019);ondissociatingcreativityfromhumanagency,seealso,forexample,Lee(2022).
+      38. Benjamin (1964, 220).                              
+      39. Benjamin (1964, 221).                              
+      40. Benjamin (1964, 221).                              
+      41. Benjamin (1964, 223).                              
+      42. Duttlinger (2008, 80); the nostalgic aspect is also strongly stressed by Bolter and David
+         (2006, 25).                                         
+      43. Duttlinger (2008).                                 
+      44. Bolter andDavid (2006).                            
+      45. Benjamin (2003).                                   
+
+[PAGE 16]
+                                                             
+                                                             
+      Kalpokas                                      1283     
+                                                             
+                                                             
+                                                             
+      46. Duttlinger (2008, 84).                             
+      47. Duttlinger (2008).                                 
+      48. Duttlinger (2008, 97).                             
+      49. Benjamin (2003).                                   
+      50. Lim (2018, 816–817).                               
+      51. Aubry (2021,30).                                   
+      52. Santos(2022).                                      
+      53. Stephensen (2022).                                 
+      54. Henriksen,Creely andMehta (2022,466).              
+      55. Henriksen,Creely andMehta (2022).                  
+      56. Millet et al.(2023).                               
+      57. Benjamin (1964, 224).                              
+      58. Benjamin (1964, 224).                              
+      59. Benjamin (1964, 225).                              
+      60. Manovich(2022, 65).                                
+      61. Benjamin (1964, 234).                              
+      62. Elgammal et al.(2017); Hong (2021);Hong, PengandWilliams (2021).
+      63. Miller(2019,311).                                  
+      64. Audry andIppolito(2019);Natale andHenrickson(2022).
+      65. Cohen (2011).                                      
+      66. See, characteristically, Brown (2018); Lim (2018);Bisoyi (2022).
+      67. Pepi(2020); Jin (2021).                            
+      68. Geraci (2008,149).                                 
+      69. Singler (2020, 945);seealso Giuliano (2020).       
+      70. CrespoandMcCormick (2022).                         
+      71. Cieleme˛cka, andDaigle (2019,81).                  
+      72. Coeckelbergh(2020,42).                             
+      73. Benjamin (1964, 224).                              
+      74. Benjamin (1964).                                   
+      75. DuSautoy (2020); Brown (2021,9).                   
+      76. Benjamin (1964, 233).                              
+      77. Benjamin (1964, 231–232).                          
+      78. Brown (2021, 300).                                 
+      79. Benjamin (1964, 234).                              
+      80. Benjamin (1964, 233).                              
+      81. Benjamin (1964, 234).                              
+      82. Benjamin (1964, 237).                              
+      83. Zeilinger (2021,16).                               
+      84. Mauthner (2019, 671).                              
+      85. Braidotti (2013,67).                               
+      86. Dewandre (2020,4).                                 
+      87. Dewandre (2020,13).                                
+      88. Benjamin (1964, 240).                              
+      89. Ko¨bisandMossink (2021,2); Kapur andAnsari(2022).  
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+      1284                         Philosophy and Social Criticism 51(8)
+                                                             
+                                                             
+      90. Jin (2021,10).                                     
+      91. Jin (2021,66–67); seealso Aubry(2021,31).          
+                                                             
+      References                                             
+      Arriagada, Leonardo. 2020. “CG-Art: Demystifying the Anthropocentric Bias of Artistic Crea-
+         tivity.”ConnectionScience 32,no.4: 398–405.         
+      Amoore,Louise.2019.“DoubtandtheAlgorithm:OnthePartialAccountsofMachineLearning.”
+         Theory, Culture&Society 36, no.6: 147–69.           
+      Aubry,Sofian.2021.ArtintheAgeofMachineLearning.Cambridge,MAandLondon:TheMIT
+         Press.                                              
+      Audry,Sofian,andIppolito,Jon.2019.“CanArtificialIntelligenceMakeArtWithoutArtists?Ask
+         the Viewer.”Arts 8: 1–80.                           
+      Beer,David.2022.TheProblemofResearchingaRecursiveSociety:Algorithms,DataCoilsand
+         the Looping of the Social. Big Data & Society 9, no. 2. https://doi.org/10.1177/
+         20539517221104997                                   
+      Benjamin,Walter.1964. “The Work of Artin the Age of Its Mechanical Reproducibility.”inIl-
+         luminations,edited byHannah Arendt, 217–51. NewYork:Schocken Books.
+      Benjamin, Walter. 2003. “On some Motifs in Baudelaire.” in Selected Writings, edited by
+         Michael W.Jennings, 314–55.Cambridge, MA:Belknap.   
+      Bisoyi, Akanksha. 2022. “Ownership, Liability, Patentability, and Creativity Issues in Artificial
+         Intelligence.”Information Security Journal: AGlobalPerspective 31,no. 4:377–86.
+      Bolojan,Daniel.2022.“CreativeAI:AugmentingDesignPotency.”ArchitecturalDesign92,no.3:
+         22–27.                                              
+      Bolter,JayDavid,MacIntyre,Blair,Gandy,Maribeth,andSchweitzer,Petra.2006.“NewMedia
+         andthePermanentCrisisofAura.”Convergence:TheInternationalJournalofResearchInto
+         New Media Technologies 12,no. 1:21–39.              
+      Braidotti, Rossi.2013. ThePosthuman. CambridgeandMalden: Polity Press.
+      Braidotti, Rossi.2019. Posthuman Knowledge.Cambridge andMedford: Polity.
+      Brown,NinaI.2018.“ArtificialAuthors:ACaseforCopyrightinComputer-GeneratedWorks.”
+         Columbia ScienceandTechnologyLaw Review 20,no. 1:1–41.
+      Brown,Oliver.2021.BeyondtheCreativeSpecies:MakingMachinesthatMakeArtandMusic.
+         Cambridge, MA:The MITPress.                         
+      Cieleme˛cka, Olga, and Daigle, Christine. 2019. “Posthuman Sustainability: An Ethos for Our
+         Anthropocenic Future.”Theory,Culture&Society 36, no.7–8: 67–87.
+      Coeckelbergh,Mark. 2020. AIEthics.Cambridge, MA andLondon:The MITPress.
+      Cohen,JulieE.2011.“CopyrightasPropertyinthePost-IndustrialEconomy:AResearchAgenda.”
+         WisconsinLaw Review 2:141–66.                       
+      Crespo,Sofia,andMacCormick,Feileacan.2022.“AugmentingDigitalNature:GenerativeArtasa
+         Constructive Feedback Loop.”ArchitecturalDesign 92,no. 3:54–9.
+      Davenport,ThomasH.,andMittal,Nitin.2022.“HowGenerativeAIIsChangingCreativeWork.”
+         Harvard Business Review. https://hbr.org/2022/11/how-generative-ai-is-changing-creative-
+         work                                                
+                                                             
+                                                             
+
+[PAGE 18]
+                                                             
+                                                             
+      Kalpokas                                      1285     
+                                                             
+                                                             
+                                                             
+      Dewandre,Nicole.2020.“BigData:FromModernFearstoEnlightenedandVigilantEmbraceof
+         NewBeginnings.”BigData& Society. https://doi.org/10.1177/2053951720936708
+      Dornis,TimW.2020.“ArtificialCreativity:EmergentWorksandtheVoidinCurrentCopyright
+         Doctrine.”Yale Journal of Law& Technology22: 1–60.  
+      Du Sautoy, Marcus. 2020. The Creativity Code: How AI is Learning to Write, Paint and Think.
+         London:4th Estate.                                  
+      Duttlinger,Carolin.2008.“ImaginaryEncounters:WalterBenjaminandtheAuraofPhotography.”
+         PoeticsToday29, no.1: 79–101.                       
+      Elgammal, Ahmed, Bingchen, Liu, Mohamed, Elhoseiny, and Marian, Mazzone. 2017. “CAN:
+         CreativeAdversarialNetworksGenerating‘Art’byLearningAboutStylesandDeviatingfrom
+         Style Norms.”arXiv. https://arxiv.org/abs/1706.07068
+      Floridi,Luciano.2023.“AIasAgencyWithoutIntelligence:OnChatGPT,LargeLanguageModers,
+         andOtherGenerative Models.”Philosophy& Technology36, no.15: 1–7.
+      Geraci, Robert M. 2008. “Apocalyptic AI: Religion and the Promise of Artificial Intelligence.”
+         Journal ofthe American Academy ofReligion 76,no.1: 138–66.
+      Gervais, DanielJ.2020. “TheMachine as Author.”Iowa LawReview 105: 2053–2106.
+      Giuliano, Roberto Musa. 2020. “Echoes of Myth and Magic in the Language of Artificial Intel-
+         ligence.”AI&Society 35:1009–1024.                   
+      Glynn,Paul.2023.SonyWorldPhotographyAward2023:WinnerRefusesAwardafterRevealingAI
+         Creation. BBC.https://www.bbc.com/news/entertainment-arts-65296763
+      Henriksen,Danah,Creely,Edwin,andMehta,Rohit.2022.“RethinkingthePoliticsofCreativity:
+         Posthumanism,Indigeneity,andCreativityBeyondtheWesternAnthropocene.”Qualitative
+         Inquiry 25,no.5: 465–75.                            
+      Hong,Joo-Wha.2021.“ArtificialIntelligence(AI),Don’tSurpriseMeandStayinYourLane:An
+         Experimental Testingof PerceivingHumanlikePerformances of AI.”HumanBehaviorand
+         Emerging Technologies 3, no.5: 1023–32.             
+      Hong,Joo-Wha,Peng,Quiyao,andWilliams,Dmitri.2021.“AreYouReadyforArtificialMozart
+         orSkrillex?AnexperimentTestingExpectancyViolationTheoryandAIMusic.”NewMedia
+         &Society 23, no.7: 1920–35.                         
+      Jin,DalYong.2021.ArtificialIntelligenceinCulturalProduction:CriticalPerspectivesonDigital
+         Platforms.London:Routledge.                         
+      Kalpokas, Ignas. 2021. Malleable, Digital, and Posthuman: A Permanently Beta Life. Bingley:
+         Emerald.                                            
+      Kapur, Anandana, and Ansari, Nagma Sahi. 2022. “Coding Reality: Implications of AI for
+         Documentary Media.”Studies in DocumentaryFilm 16,no. 2:174–85.
+      Ko¨bis, Nils, and Mossink, Luca D. 2021. “Artificial Intelligence versus Maya Angelou: Experi-
+         mentalEvidencethatPeopleCannotDifferentiateAI-GeneratedfromHuman-WrittenPoetry.”
+         Computers inHuman Behavior114: 1–13.                
+      Koh,Immanuel.2022.“ArchitecturalPlasticity:TheAestheticsofNeuralSampling.”Architectural
+         Design92, no.3: 86–93.                              
+      Lee,Hye-Kyung.2022.“RethinkingCreativity:CreativeIndustries,AIandEverydayCreativity.”
+         Media,Culture& Society 44,no. 3:601–612.            
+      Lim,Daryl.2018.“AI&IP:Innovation&CreativityinanAgeofAcceleratedChange.”AkronLaw
+         Review 52,no. 3:813–76.                             
+
+[PAGE 19]
+                                                             
+                                                             
+                                                             
+      1286                         Philosophy and Social Criticism 51(8)
+                                                             
+                                                             
+      Lupton,Deborah. 2020.Data Selves.Cambridge andMedford: Polity.
+      Mahon, Peter. 2018. Posthumanism: A Guide for the Perplexed. London and New York:
+         Bloomsbury.                                         
+      Manovich,Lev.2022. “AI& Myths ofCreativity.”Architectural Design92,no. 3:60–5.
+      Mauthner,NatashaS.2019.“TowardaPosthumanistEthicsofQualitativeResearchinaBigData
+         Era.”American Behavioral Scientist 63,no. 6:669–98. 
+      Mazzone, Marian, and Elgammal, Ahmed. 2019. “Art, Creativity, and the Potential of Artificial
+         Intelligence.”Arts8: 1–9.                           
+      Miller,ArthurI.2019.TheArtistintheMachine:TheWorldofAI-PoweredCreativity.Cambridge,
+         MA:The MITPress.                                    
+      Millet, Kobe, Buehler, Florian, Du, Guanzhong, and Kokkoris, Michail D. 2023. “Defending
+         Humankind: Anthropocentric Bias in the Appreciation of AI Art.” Computers in Human
+         Behavior143: 1–9.                                   
+      Morozov,Evgeny.2014.ToSaveEverything,ClickHere:TheFollyofTechnologicalSolutionism.
+         NewYork: Public Affairs.                            
+      Natale,Simone,andHenrickson,Leah.2022.“TheLovelaceEffect:PerceptionsofCreativityin
+         Machines.”NewMedia & Society. https://doi.org/10.1177/14614448221077278
+      Ornes, Stephen. 2019. “Computers Take Art in New Directions, Challenging the Meaning of
+         ‘Creativity.”Proceedings ofthe National Academyof Sciences116, no.11: 4760–63.
+      Pepi,Mike.2020,May6.HowDoesaHumanCritiqueArtMadebyAI?ArtNews.https://www.
+         artnews.com/art-in-america/features/creative-ai-art-criticism-1202686003/
+      Roose, Kevin. 2022, September 2. An A.I.-Generated Picture Won an Art Prize. Artists Aren’t
+         Happy.TheNewYorkTimes,https://www.nytimes.com/2022/09/02/technology/ai-artificial-
+         intelligence-artists.html                           
+      Routley,Nick.2023.WhatIsGenerativeAI?AnAIExplains.WorldEconomicForum.https://www.
+         weforum.org/agenda/2023/02/generative-ai-explain-algorithms-work/
+      Santos, Romano. 2022, November 8. Can AI-Generated Art Replace Creative Humans? Vice,
+         https://www.vice.com/en/article/epzkwm/artificial-intelligence-art-creatives-ai
+      Singler,Beth.2020.“‘BlessedbytheAlgorithm’:TheisticConceptionsofArtificialIntelligencein
+         OnlineDiscourse.”AI &Society 35: 945–55.            
+      Stephensen,JanLøhmann.2022.“ArtificialCreativity:BeyondtheHuman,orBeyondDefinition?”
+         Transformations 36: 19–37.                          
+      Turner,Jacob.2019.RobotRules:RegulatingArtificialIntelligence.London:PalgraveMacmillan.
+      Zeilinger,Martin. 2021.“Generative Adversarial CopyMachines.”CultureMachine20: 1–23.
+      Zuboff,Shoshana.2019.TheAgeofSurveillanceCapitalism:TheFightforaHumanFutureatthe
+         New FrontierofPower. London:ProfileBooks.           
+      Zurth,Patrick.2021.“ArtificialCreativity?ACaseAgainstCopyrightProtectionforAI-Generated
+         Works.”UCLA Journal ofLaw andTechnology25, no.2:1–18.
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             

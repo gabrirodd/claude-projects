@@ -1,0 +1,61 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "brunkhorst_2023",
+  "title": "The Public Sphere and Democracy in Transformation: Continuing the Debate – An Introduction",
+  "author": "Brunkhorst, Seeliger, Sevignani",
+  "year": 2023,
+  "journal": "Philosophy and Social Criticism",
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "All dimensions of the current 'tragedy of democracy' — technocracy, populism, environmental devastation, material asymmetry — share a common reference point: the public sphere. This special issue introduction argues for that thesis and maps how contributors address the nexus of democracy and public sphere.",
+    "anchored_in": ["Habermas", "Brown", "Streeck", "Piketty"],
+    "stakes_claimed": "The public sphere is the central site for understanding democratic decline and the central requirement for democratic recovery."
+  },
+  "theoretical_positioning": {
+    "rivals_engaged": ["technocratic governance (Bogner)", "populist mobilization accounts"],
+    "engagement_structure": "friendly_amendment",
+    "immanent_critique": false,
+    "own_position_type": "framework_proposal",
+    "own_position_explicit": true,
+    "description": "The introduction maps four dimensions of 'the public' (res publica, political authority benchmark, popular will expression, communicative space) via Rinken's taxonomy, then argues all current democratic pathologies converge on public sphere diagnosis. It orients the special issue rather than advancing a thesis of its own."
+  },
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": null,
+    "notes": "Special-issue introduction. Maps the intellectual landscape, identifies the central concept (public sphere), and orients contributors. No original argument beyond the integrating thesis."
+  },
+  "case_type": {
+    "has_case": false,
+    "case_medium": "none",
+    "case_name": null,
+    "case_function": null,
+    "case_relation_to_argument": null,
+    "case_selection_justified": false
+  },
+  "normative_stake": {
+    "level": "medium",
+    "domain": "democratic theory / public sphere",
+    "claim_type": "critical_diagnostic",
+    "closure_type": "research_agenda"
+  },
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "conceptual_distinction",
+    "framework_proposal",
+    "conclusion_open"
+  ],
+  "reflexive_move": false,
+  "key_concepts": ["public sphere", "democracy", "tragedy of democracy", "mediatization", "technocracy", "communicative action"],
+  "thinkers_deployed": {
+    "central": ["Habermas", "Rinken"],
+    "engaged_critically": [],
+    "referenced_only": ["Brown", "Streeck", "Bogner", "Piketty", "Butler"]
+  },
+  "confidence_notes": "Type 1 (special-issue introduction): orients the special issue, maps the public sphere concept, identifies the unifying thesis (public sphere as common reference point of democratic crisis), research_agenda closure. Identical genre and structure to seeliger-sevignani_2022 in the TCS corpus."
+}

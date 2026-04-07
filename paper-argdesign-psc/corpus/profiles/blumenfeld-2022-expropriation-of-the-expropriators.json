@@ -1,0 +1,64 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "blumenfeld_2022",
+  "title": "Expropriation of the Expropriators",
+  "author": "Blumenfeld",
+  "year": 2022,
+  "journal": "Philosophy and Social Criticism",
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "Marx's phrase 'expropriation of the expropriators' is famous but rarely analysed: Marxists read it either as objective historical tendency (determinism) or as revolutionary political praxis (voluntarism), without resolving the tension. The paper argues it does both — and that resolving this tension is philosophically and politically essential.",
+    "anchored_in": ["Marx (Capital Vol. I)", "Marx (Civil War in France)"],
+    "stakes_claimed": "Understanding expropriation correctly allows us to ground contemporary struggles (housing, climate, work) in Marx's immanent logic of capitalist self-expropriation rather than in external moral demands."
+  },
+  "theoretical_positioning": {
+    "rivals_engaged": ["deterministic Marxism (expropriation as objective tendency)", "voluntarist Marxism (expropriation as political praxis)"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": false,
+    "own_position_type": "synthesis",
+    "own_position_explicit": true,
+    "description": "The paper synthesizes the two Marxist readings by grounding revolutionary praxis within the objective dynamics of capital's self-expropriation. Drawing on close reading of Marx's texts (Capital, Civil War in France, Grundrisse), it argues that the active (subjective) and passive (objective) meanings of expropriation are mediated and mutually dependent."
+  },
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "Close textual reading of Marx (Capital Vol. I, Civil War in France, Grundrisse, Economic Manuscripts); analysis of legal frameworks of expropriation (illustrative, not constitutive).",
+    "notes": "The legal expropriation section is illustrative background — real content is immanent reading of Marx's texts. The contemporary applications (housing, climate, work) in the conclusion are programmatic normative derivations, not empirical analysis. Classified fully_normative: the argument moves entirely within Marx's conceptual framework."
+  },
+  "case_type": {
+    "has_case": false,
+    "case_medium": "none",
+    "case_name": null,
+    "case_function": null,
+    "case_relation_to_argument": null,
+    "case_selection_justified": false
+  },
+  "normative_stake": {
+    "level": "high",
+    "domain": "Marxist political theory / property / revolution",
+    "claim_type": "reconstructive_prescriptive",
+    "closure_type": "conclusion_strong"
+  },
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "genealogical_reconstruction",
+    "conceptual_distinction",
+    "framework_proposal",
+    "normative_derivation",
+    "conclusion_strong"
+  ],
+  "reflexive_move": false,
+  "key_concepts": ["expropriation of expropriators", "primitive accumulation", "negation of negation", "capitalist self-expropriation", "revolutionary praxis", "immanent tendency"],
+  "thinkers_deployed": {
+    "central": ["Marx"],
+    "engaged_critically": ["determinist Marxism", "voluntarist Marxism"],
+    "referenced_only": ["Hegel", "Engels", "Harvey", "Holloway"]
+  },
+  "confidence_notes": "Type 2b (genealogical deepening variant): close reading of Marx as genealogical reconstruction of the concept, followed by synthesis of determinism/voluntarism antinomy, strong prescriptive conclusion. The philosophical text (Marx) is used as resource not as interpretive case — the paper's argument is about what Marx means and how to apply it, not about reading Marx as a cultural object that generates the argument."
+}

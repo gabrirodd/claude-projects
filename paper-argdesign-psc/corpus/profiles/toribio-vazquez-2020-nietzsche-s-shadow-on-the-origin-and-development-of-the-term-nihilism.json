@@ -1,0 +1,72 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "toribio_vazquez_2020",
+  "title": "Nietzsche's Shadow: On the Origin and Development of the Term Nihilism",
+  "author": "Toribio Vazquez",
+  "year": 2020,
+  "journal": "Philosophy and Social Criticism",
+
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "Opens from the paradox of nihilism: a term that is both widely used and fundamentally contested in meaning. Despite Nietzsche's role as the iconic 'philosopher of nihilism,' posthumous uses of the word deviate sharply from his own determinations — and Nietzsche's reputation itself misunderstands what he meant by nihilism. The paper offers a genealogy to clarify the term's prevalence and ambiguity.",
+    "anchored_in": ["Heidegger", "Adorno", "Nietzsche"],
+    "stakes_claimed": "The term 'nihilism' entered philosophy through Jacobi's critique of Fichte, was popularized by Russian political nihilism, and was reconstructed by Nietzsche in a sense that posthumous users largely abandoned — resulting in systematic conceptual confusion that the genealogy aims to clarify."
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["popular and academic conflations of nihilism", "Nietzsche scholarship that misreads his conception", "reactionary/political uses of 'nihilism' as a slur"],
+    "engagement_structure": "genealogical_reconstruction",
+    "immanent_critique": false,
+    "own_position_type": "critical_reconstruction",
+    "own_position_explicit": true,
+    "description": "The paper traces the genealogy of 'nihilism' through three phases: (1) pre-Nietzschean uses (Jacobi, Stirner, Russian political nihilism); (2) Nietzsche's early conception (revaluation of values, nihilism as diagnosis of European civilization, not celebration); (3) 20th century posthumous uses that deviate from Nietzsche's own meaning. The paper shows that Nietzsche is the 'founder of discursivity' on nihilism but also the figure whose specific meaning is most systematically misunderstood."
+  },
+
+  "epistemic_mode": {
+    "primary": "purely_interpretive_hermeneutic",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": ["Nietzsche's early works (The Gay Science, Thus Spoke Zarathustra, The Will to Power fragments)", "Jacobi's writings", "Foucault (implicit)", "Heidegger on nihilism", "Adorno on nihilism", "20th century uses in philosophy, politics, and mass culture"],
+    "interpretive_methods": "Conceptual genealogy: traces a term's history through multiple contexts and usages; identifies semantic shifts; reconstructs the 'authentic' Nietzschean usage against which deviations are measured.",
+    "notes": "Purely_interpretive_hermeneutic: the paper is a conceptual genealogy making no prescriptive claims. Its normative implication — that we should understand nihilism more carefully — is implicit but not stated as a normative conclusion. Closely related to sharpe_2025 (which reconstructs Camus's distinctive conception against the same confusion) and kastrinakis_2024 (Adorno-Nietzsche textual genealogy)."
+  },
+
+  "case_type": {
+    "has_case": false,
+    "case_medium": null,
+    "case_name": null,
+    "case_function": null,
+    "case_relation_to_argument": null,
+    "case_selection_justified": false
+  },
+
+  "normative_stake": {
+    "level": "low",
+    "domain": "philosophy / intellectual history / nihilism / Nietzsche",
+    "claim_type": "reconstructive_descriptive",
+    "closure_type": "conclusion_open"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "case_development",
+    "conceptual_distinction",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["nihilism", "founder of discursivity", "revaluation of values", "Russian political nihilism", "Jacobi's epistemological nihilism", "posthumous misreadings of Nietzsche"],
+
+  "thinkers_deployed": {
+    "central": ["Nietzsche", "Jacobi"],
+    "engaged_critically": ["posthumous misreaders of Nietzsche"],
+    "referenced_only": ["Heidegger", "Adorno", "Stirner", "Turgenev", "Critchley", "Stewart", "Weller"]
+  },
+
+  "confidence_notes": "Shortest and most compressed of the PSC hermeneutic papers. Purely genealogical-descriptive: traces term history without normative application. The normative_stake is low because the paper does not claim implications for present political theory or practice. The move_sequence is minimal. Compare to sharpe_2025 (similar genealogical reconstruction but more elaborate and with higher normative stake — Camus is positioned as a neglected resource for the present). High confidence in purely_interpretive_hermeneutic classification."
+}

@@ -1,0 +1,63 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "d_cruz_2024",
+  "title": "Foucault's Naturalism: The Importance of Scientific Epistemology for the Genealogical Method",
+  "author": "D'Cruz",
+  "year": 2024,
+  "journal": "Philosophy and Social Criticism",
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "Foucault's work has long been suspected of reducing knowledge to power and collapsing into relativism. These concerns presuppose a misunderstanding: Foucault does occasionally make normative epistemological judgements, and it is unclear what secures the descriptive rigour of genealogy. Two outstanding questions require resolution.",
+    "anchored_in": ["standard relativism objection to Foucault", "French philosophy of science tradition"],
+    "stakes_claimed": "Foucault's respect for natural science and his modelling of genealogy on empirical inquiry are what secure both his normative epistemological judgements and the descriptive rigour of his method — making him a 'naturalist' in a specific sense."
+  },
+  "theoretical_positioning": {
+    "rivals_engaged": ["relativist reading of Foucault", "purely power/knowledge reading"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": false,
+    "own_position_type": "internal_reconstruction",
+    "own_position_explicit": true,
+    "description": "The paper offers a novel reconstruction of Foucault's methodology emphasising his respect for natural science (Bachelard, Canguilhem tradition). It argues Foucault's normative epistemological judgements about the human sciences presuppose a standard derived from his engagement with scientific epistemology; and genealogy's descriptive rigour is secured by modelling it on empirical inquiry."
+  },
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "Close reading of Foucault's methodological texts (Archaeology of Knowledge, The Order of Things, genealogical works); situating within French history and philosophy of science (Bachelard, Canguilhem, Cavaillès).",
+    "notes": "This is a different paper from d-cruz-2025-what-demarcates-necropolitics which was in the TCS corpus. This PSC paper is a close internal reconstruction of Foucault's methodology. Fully normative."
+  },
+  "case_type": {
+    "has_case": false,
+    "case_medium": "none",
+    "case_name": null,
+    "case_function": null,
+    "case_relation_to_argument": null,
+    "case_selection_justified": false
+  },
+  "normative_stake": {
+    "level": "medium",
+    "domain": "philosophy of social science / methodology / Foucault",
+    "claim_type": "reconstructive",
+    "closure_type": "conclusion_strong"
+  },
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "genealogical_reconstruction",
+    "framework_proposal",
+    "conceptual_distinction",
+    "conclusion_strong"
+  ],
+  "reflexive_move": false,
+  "key_concepts": ["naturalism", "genealogical method", "scientific epistemology", "historico-critical project", "Bachelard-Canguilhem tradition", "normative epistemology", "empirical rigour"],
+  "thinkers_deployed": {
+    "central": ["Foucault", "Bachelard", "Canguilhem"],
+    "engaged_critically": ["relativist Foucault interpreters"],
+    "referenced_only": ["Cavaillès", "Dreyfus and Rabinow", "Gutting"]
+  },
+  "confidence_notes": "Type 2 (internal reconstruction variant): rather than critiquing rivals and proposing an alternative, the paper reconstructs what Foucault actually does to defuse the relativism objection. The normative work is methodological rather than political-normative. Strong conclusion."
+}

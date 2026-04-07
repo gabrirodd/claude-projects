@@ -1,0 +1,75 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "loick_2023",
+  "title": "Fugitive Freedom and Radical Care: Towards a Standpoint Theory of Normativity",
+  "author": "Loick",
+  "year": 2023,
+  "journal": "Philosophy and Social Criticism",
+
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "Opening with Césaire's 'boomerang' metaphor for the moral corruption that domination inflicts on the dominator, the paper diagnoses a gap in standpoint theory: while epistemic standpoint theories are well-developed (Mills, Fricker), there is no parallel standpoint theory of normativity. The puzzle: if domination distorts not only epistemic but also normative capacities, oppressed groups may have normative advantages — but this has not been theorized.",
+    "anchored_in": ["Césaire", "Mills", "Hegel"],
+    "stakes_claimed": "A normative standpoint theory grounded in two heterogeneous traditions — the Black Radical Tradition (fugitive freedom) and feminist care ethics — can provide a theory of how political struggle enables oppressed groups to develop superior normative orientations."
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["epistemic standpoint theory (Mills, Fricker)", "liberal impartiality accounts of normativity", "universalist ethics that ignore social situatedness"],
+    "engagement_structure": "extension_and_synthesis",
+    "immanent_critique": false,
+    "own_position_type": "framework_construction",
+    "own_position_explicit": true,
+    "description": "The paper extends and synthesizes. It extends epistemic standpoint theory (Mills' 'moral ignorance' thesis) into a normative domain. It synthesizes two traditions — the Black Radical Tradition on fugitive freedom (Harriet Tubman, Frederick Douglass, Angela Davis) and feminist care ethics (Gilligan, Noddings, Held) — arguing both are grounded in similar presuppositions (political struggle provoked by social contradictions). The paper builds a framework by identifying three aspects: passive conditions enabling normative advantage; active development through struggle; translation into emancipatory practice."
+  },
+
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "Conceptual-genealogical: reads key texts of the Black Radical Tradition (Tubman, Douglass, Davis) and feminist care ethics as philosophical sources for theorizing normative standpoints. Uses Hegel's master-servant dialectic as structural resource.",
+    "notes": "The paper engages historical figures and practices (Harriet Tubman's Underground Railroad, feminist care theory) not as empirical cases but as philosophical resources for conceptual construction. This is fully_normative because the argument moves entirely within conceptual and normative space — the examples are philosophical touchstones, not empirical evidence."
+  },
+
+  "case_type": {
+    "has_case": false,
+    "case_medium": null,
+    "case_name": null,
+    "case_function": null,
+    "case_relation_to_argument": null,
+    "case_selection_justified": false
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "normative theory / standpoint theory / critical theory / abolition / care ethics",
+    "claim_type": "framework_proposal",
+    "closure_type": "conclusion_open"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "framework_proposal",
+    "case_introduction",
+    "case_development",
+    "conceptual_distinction",
+    "normative_derivation",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["normative standpoint theory", "fugitive freedom", "radical care", "normative blockage", "normative advantage", "political struggle as normativity generator", "boomerang effect of domination"],
+
+  "thinkers_deployed": {
+    "central": ["Mills", "Césaire", "Hegel", "Tubman", "Davis", "Gilligan"],
+    "engaged_critically": ["epistemic standpoint theory (Fricker)", "liberal normativity"],
+    "referenced_only": ["Celikates", "Medina", "Noddings", "Held", "hooks", "Pineda"]
+  },
+
+  "confidence_notes": "Classified fully_normative because the references to Tubman, Douglass, and care practice are conceptual resources for framework construction, not empirical cases. The move_sequence includes case_introduction/case_development because these traditions are introduced and developed as philosophical materials — analogous to how other fully_normative papers use thinkers as conceptual resources. The paper is a Type 2b variant (reconstruction of two traditions into a new synthesis) but with a novel architecture: synthesizing Black Radical Tradition + feminist care ethics into a standpoint theory of normativity. This makes it distinctive within the PSC corpus."
+}

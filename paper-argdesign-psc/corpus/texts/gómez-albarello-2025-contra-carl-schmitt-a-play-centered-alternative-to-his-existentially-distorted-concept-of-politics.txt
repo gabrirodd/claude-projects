@@ -1,0 +1,1403 @@
+[PAGE 1]
+                                                             
+                                                             
+                                                             
+                                                             
+      Article                                                
+                                                             
+                                         PhilosophyandSocialCriticism
+      Contra                             2025,Vol.51(10)1571–1597
+              Carl Schmitt: A                                
+                                         ©TheAuthor(s)2025   
+      play-centered  alternative to his                      
+                                         Articlereuseguidelines:
+      existentially distorted concept    sagepub.com/journals-permissions
+                                         DOI:10.1177/01914537251377659
+                                         journals.sagepub.com/home/psc
+      of politics                                            
+      Juan Gabriel Gómez Albarello                          
+      UniversidadNacionaldeColombia,Contra                   
+                                                             
+                                                             
+      Abstract                                               
+      Inthisarticle,IshowthatCarlSchmitt’sconceptualizationofthepoliticalcanbeseenasa
+      skewed phenomenological analysis. From this point of view, it becomes clear why he
+      claims the essence ofthe political lies inthedistinction between friend andenemy,and
+      whythisisbynomeansitsinvariantelement.Tothisend,Ireviewancientandmodern
+      usesoftheadjectivepolitical,hisquestionableapproachtotherelationshipbetweenrule
+      and exception, and his biased reading of conflict, social cohesion, and political activity.
+      Schmitt also carries out an existentialist distortion of the modern experience of the
+      political based on the metaphors of enmity and war, which he found in various of his
+      predecessors.Yethe ignores those derived from sports competition. I then show that,
+      following Johan Huizinga’s work, a more general concept of the political refers to play
+      according to which politics is norm-bounded. Finally, I show the implications of the
+      previous analysis.                                     
+      Keywords                                               
+      Carl Schmitt, Johan Huizinga, metaphors, phenomenology, play, politics
+                                                             
+                                                             
+      Thenotorietyandinfluenceofaworkusuallydependnotonlyonitsownmeritsbutalso
+      onthewayinwhichtheaudienceswhoreceiveitinterpretanduseit.Toacertainextent,
+      these two elements go hand in hand. An audience finds a work meritorious because it
+      providesthemwithtoolswithwhichtounderstandtheproblemstheyfaceand,therefore,
+      solve them. However, it may happen that such a work is much less meritorious than it
+                                                             
+      Correspondingauthor:                                   
+      JuanGabrielGómezAlbarello,InstitutodeEstudiosPol´ıticosyRelacionesInternacionales,delaUniversidad
+      NacionaldeColombia,–EdificioManuelAnc´ızar,Oficina3031,Contra.
+      Email:jggomeza@unal.edu.co                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+      1572                         Philosophy and Social Criticism 51(10)
+                                                             
+                                                             
+      appearstobebecausetheanalysesitcontainsarequitebiased.Thesebiasesmaynotbe
+      evident.Itisinfactthankstothesebiasesthataworkcangainunexpectedinfluenceand
+      notoriety.                                             
+        SuchisthecasewithCarlSchmitt’sTheConceptofthePolitical(2007),aworkwhose
+      first version was published in 1927 (2018). For a long period, only a limited group of
+      scholars devoted sufficient attention to it, due to its author’s association with the Nazi
+      regime. It was in theperiodfollowing theend of theCold War that The Concept of the
+      Political began to arouse much greater interest. Müller (2003) observes that Schmitt’s
+      thoughthasbeenglobalized,inpartthankstoleft-wingthinkerswhohavefoundinittools
+      to question the liberal order. Indeed, intellectuals who criticize the depoliticization of
+      liberal societies, and also those who direct their salvos against the international order
+      basedonliberalprinciples,havecontributedenormouslytotheglobalizationofSchmitt’s
+      work.Thisisthecase,forexample,ofChineseandRussianintellectualswhohavefound
+      initatheoreticalarsenaltoquestionthecurrentworldorder(Lewis2020;XieandPatapan
+      2020;Zheng2012).However,thespectrumofSchmitt’sinfluenceismuchbroader.Italso
+      includes those in the West who have found a new compass in his work, for example,
+      billionaire Peter Thiel (2007) and even numerous laypeople attracted by his work.1
+        Inthispaper,Ihavefocusedontheauthor’sthesis,thatis,onthecriteriabywhichwe
+      can distinguish what is specifically political, as well as on some of the implications
+      derivedfromthatthesis.Iwouldliketoemphasize,however,thatthediscussionaboutThe
+      Concept of the Political concerns not only the way in which we constitute the proper
+      object of political studies but also the frameworks for interpreting political activity
+      employedbythoseinvolvedinit.Hence,therelevanceofthediscussioncarriedoutinthis
+      paper.                                                 
+        Here I would like to show, first, that Schmitt’s thesis is based on a biased phe-
+      nomenological analysis. With the remarkable exception of Martin Jay (2010, 79),
+      Schmitt’sprobableuseofthephenomenologicalmethodisavirtuallyignoredaspectin
+      the literature on The Concept of the Political. In the first section, I show the type of
+      phenomenologicalanalysisthatthisthinkermayhavecarriedout.Inthesecondsection,I
+      showthatifSchmitthadpaidmoreattentiontothevarietyinwhichthepoliticalappears,
+      hewouldhavehadtoabandonhisattempttofinditsessenceinthedistinctionbetween
+      friend and enemy. The reputed cogency of his analysis results from his neglect of this
+      varietybasedonaquestionablethesisabouttherelationshipbetweenruleandexception.
+      Inthethirdsection,IshowthatSchmitt’sthesisisbasedonanequallybiasedreadingof
+      the relationship between conflict, social cohesion, and political activity. In the fourth
+      section, I draw on phenomenological analysis to show that Schmitt carries out an ex-
+      istentialist distortion of the modern experience of the political. His assertion that ‘[t]he
+      conceptsoffriendandenemymustbetakenhereintheirconcrete,existentialsense,notas
+      metaphorsorsymbols(...)’(Schmitt2007,27)mustbereadagainstthebackgroundofthe
+      works of some of his predecessors who used the metaphorical language of enmity and
+      war. Against this background, it becomes apparent that Schmitt ignored all those met-
+      aphors that do not belong to the language of enmity and war but to that of sports
+      competition.Thislastsetofmetaphorsservestoemphasizethatthislanguagewasalways
+      limited by reference to rules and referees. Hence, one can affirm that a more general
+
+[PAGE 3]
+                                                             
+                                                             
+      Gómez Albarello                               1573     
+                                                             
+                                                             
+                                                             
+      conceptofthepoliticalreferstoplay,asthehistorianJohanHuizinga(1955)postulatesin
+      his book Homo Ludens. Finally, in the fifth section, I show the implications of the
+      previous analysis for the definition of the political and the constitution of our object of
+      study.                                                 
+                                                             
+      Schmitt and the phenomenological method                
+      AdistinctivefeatureofSchmitt’sconceptualanalysisisthatitfocusesonasubstantivized
+      adjective,notanounperse,suchasjusticeordemocracy.Schmittimpliesthathischoice
+      isjustifiedbythefactthatthepoliticalhasaspecificitythatthenoun‘politics’lacks,an
+      argumentheonlymadeexplicitmuchlaterintheprologuehewrotetotheItalianedition
+      of his work (2018, 51–52). However, there are several passages in The Concept of the
+      Political in which politics and the political operate as interchangeable terms.2
+        ForSchmitt,substantivizingtheadjective‘political’isnotasuperfluousexercise.He
+      seekstoavoidunderstandingthepoliticalasamerethematicarea(Sachgebiet),especially
+      ifitislimitedtomattersrelatedtotheState(Schmitt2007,19–20and26).Thisisastatic
+      viewofthepolitical,sotospeak.Schmitt,onthecontrary,seekstocaptureitsdynamic
+      dimension.Therefore,whenhe(2007,49and53)speaksofthepoliticalsphere,hehasin
+      mindthefieldofactionthatemergeswherevertherearecollectiveentitiesthatactwitha
+      specificorientation.Thisorientationconsistsinrecognizingthattheantagonisminwhich
+      theyareengaged,whateveritsmotives,hasacquiredsuchintensitythatithasgivenriseto
+      a grouping of friends and enemies, so that involvement in a concrete and existential
+      strugglebecomesarealpossibility (Schmitt2007,37).Ifapeopleweretofearthatthis
+      possibilitymightcometrueandthereforerenounceddistinguishingbetweenfriendsand
+      enemies, then they would cease to exist in the political sphere, says Schmitt; another
+      people would take their place and make that distinction (2007, 52).
+        Under the influence of Max Weber3 (1948a, 123, 1948b, 147, 1948c, 323–328),
+      Schmittconceivesoftheworldintermsofspheresofvalue,eachwithitsownprinciples
+      and rules for assessing the world within them. It is worth noting that Schmitt builds on
+      Weber’sargumentthateachspherehasitsownlegalityorlogic,sinceheassertsthatwhat
+      separatesonespherefromtheothersistherelevantcriterionformakingdistinctionsand,
+      consequently,decisions.4Inmorality,itiswhatallowsustodistinguishbetweengoodand
+      evil;inaesthetics,betweenbeautifulandugly;ineconomics,betweenusefulandharmful,
+      orbetweenprofitableandunprofitable(Schmitt2007,26).Eachspherethereforehasits
+      owncommunicationcode.ForSchmitt,politicsalsohasitsowncriteria;thatis,itisbased
+      ondistinctionsthatareindependentofthosethatgovernotherspheres.Identifyingthese
+      distinctions is grasping the essence of politics.      
+        Several authors argue that Schmitt does not formulate the concept of the political in
+      termsofessence(Galli1996,742;Sluga2014,130–1;Szabó2006,32).Textualevidence
+      indicatesotherwise:Schmittreferstotheessence(wesen)ofthepoliticalsixtimes(2007,
+      19,20,30,34,45,and49–inthe2018Germanedition,whichcollatesthe1927,1932,
+      and1933versions,thecorrespondingpagesare56,92,103–4,138–9,140–1,and154–5).
+      Understanding Schmitt’s method for defining the political also undermines the afore-
+      mentionedinterpretations.IarguethatSchmittreliedonaphenomenologicalanalysisand
+                                                             
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+      1574                         Philosophy and Social Criticism 51(10)
+                                                             
+                                                             
+      therefore conducted it in terms of an essence. This approach also helps clarify how he
+      shows what the invariant element of the political is. I admit from the outset that this
+      assertionisnotconclusive.However,Iwouldliketoofferseveralindicationsthatpointin
+      this direction.                                        
+        Schmitt questions the way his contemporaries approach the political because, in his
+      view,theytendtogetlostinemptyphrasesandviciouscircles.Tothis‘natural’attitude,in
+      terms of the phenomenological tradition, Schmitt counterposes a return to things
+      themselves,asHusserl(2001,252)advocatesinhisLogicalInvestigations.Thereduction
+      ofthepoliticaltothefriend-enemydistinctionconsistsofreturning(zurückführen)toits
+      most authentic meaning.5 This is a meaning that is present in everyday language, even
+      in situations where awareness of the extreme case is absent, that is, when the struggle
+      assumesitsmostintenseform(Schmitt2007,26and30).Theessenceofthepoliticalis
+      not,then,somethingthat,platonicallyspeaking,liesbeyondtheappearancesofpolitics.
+      This essence corresponds, in the terms of phenomenological analysis, to the invariant
+      element in everything that appears to us as political.6
+        Husserl (2001, 9) argues that content isolated or separated in this way must be
+      subjectedtoaseriesofunlimitedvariationsinordertoverifywhetheritremainsconstant.
+      Schmitt resorts to a similar procedure: through two analyses of political language, he
+      seeks to verify that this invariant element is the friend-enemy distinction. The first one
+      consists of taking into account the polemical sense of political concepts. According to
+      Schmitt(2007,30),ifoneseparatesthemfromtheconcretesituationsinwhichagrouping
+      of friends and enemies has occurred, then they become ‘empty and ghostlike abstrac-
+      tions’.Inotherwords,ifaconceptispolitical,thenitsmeaningisinextricablylinkedtoa
+      polemic, understood not as a mere controversy but, in its most original sense, as the
+      confrontationbetweenthosewhohaveabellicose,hostileattitude.AccordingtoGiovanni
+      Sartori(1989,69),thisisanunfoundedexaggeration,sincemanypolemicsarefarfrom
+      ‘leading to pólemos, to actual warfare’.               
+        The second linguistic analysis shows that depoliticizing a given issue means sup-
+      pressing the antagonism of political parties (Schmitt 2007, 30–32). In this respect,
+      discussions about the depoliticization of the judiciary and the civil service would be
+      revealing of the antagonistic character of the political to which Schmitt alludes (for
+      example,inFrance,Vivien1859,36;inItaly,Minghetti1881,105and178;intheUnited
+      States, Curtis 1893, 57, 132, 292; Foulke 1919, 21, 62, 65; Schurz 1913, 149, 375).
+      However, these latter authors simultaneously articulated a sense of the political distinct
+      fromthatofantagonism:thatofpoliticalmorality(Curtis1893,120;Foulke,100;Schurz
+      1913,22,99,236),bywhichtheygivetounderstandthattheyconceivedthepoliticalas
+      anactivitynecessarilylimitedbyrules;Vivien(1859,33)alsoalludestoasimilarsense,
+      when he refers to the wisest and truest politics.      
+        WebermaywellhavebeentheinspirationforSchmitttouseofthephenomenological
+      method.7ContrarytoDonaldMcIntosh’s(1997,342)assertionthatthereisnoevidence
+      that Edmund Husserl’s thought had any direct influence on Weber, Kenneth R. Muse
+      (1981)showsthatWeberfoundinHusserl’sworkthetoolswithwhichhecouldrefinethe
+      interpretive method of sociology; thanks to Husserl, he was able to free it from psy-
+      chologismandthusovercomethelimitationshefoundintheworkofWilhelmDiltheyand
+
+[PAGE 5]
+                                                             
+                                                             
+      Gómez Albarello                               1575     
+                                                             
+                                                             
+                                                             
+      also of Heinrich Rickert (on this point, see also Segre 2004, 80–1). The concept of the
+      ideal type can be considered a methodological achievement accomplished thanks to
+      phenomenology (Muse 1981, 102–103). In Weber’s methodological writings, there are
+      sevenreferencestoHusserl’swork;inSchmitt’s,thereisnotasingleone.However,asI
+      showedabove,Schmitt’sargumentcanbereconstructedintermsofaquestioningofthe
+      naturalattitudeofhiscontemporaries,areturntotheessenceofthepolitical,aswellasa
+      testing of that analysis by means of a functional equivalent of eidetic variation and
+      intersubjective corroboration (Gallagher and Zahavi 2021, 26–30).
+      A biased phenomenological analysis                     
+                                                             
+      Schmitt (2007, 35) argues that a world without the distinction between friends and
+      enemieswouldbeaworldwithoutpolitics.Thismeansthathisthesisabouttheessenceof
+      the concept fully encompasses the field of relations of the political, both spatially and
+      temporally.Itisworthnotingthat,inquestioningthe‘state=politics’equationinthefirst
+      partofhisessay(Schmitt2007,22–23),hedescribesatransformationofthemodernstate,
+      notofpolitics.Thetransformationfromtheabsolutestate,throughtheneutralstate,tothe
+      totalstate,wouldnothavealteredthecharacterofpoliticsatall.Inthelatersectionsofhis
+      essay,Schmittdoesnotindicatethathisconceptofpoliticsislimitedtothemodernera.
+      Rather,itmightserveasaguidingthreadfromantiquitytothepresentday.Inagreement
+      withthisapproach,DavidR.Wenger (2004,84)maintainsthattheconnectionbetween
+      communityformationandconflictisevident,althoughtheconnectionbetweenpolemos
+      (struggle, dispute) and politeia (governance, state organization) remains an unresolved
+      etymologicalquestion.SuchargumentsreflectSchmitt’sbiasandtheprofounddistortion
+      it introduces into the understanding of the historical evolution of the concept of the
+      political.InordertomakeSchmitt’sbiasbecomeapparent,itisworthreviewingancient
+      and modern uses of the adjective political that he purposefully overlooked.
+        Indeed,inancientAthens,governmentwasconsideredpolitical,‘whentheconstitution
+      ofacityisconstructedontheprinciplethatitsmembersareequalsandpeers,thecitizens
+      thinkitproperthattheyshouldholdofficebyturns’(Aristotle1279a8–212009,99).Inan
+      earlier passage, Aristotle (1277b7) emphasizes the similarity of citizens not only in
+      lineage but also in liberty. Such a regime aims at the common good. By contrast, a
+      despoticregimeisonethatlooksaftertheinterestsofitsrulersalone.Thisdistinctionwas
+      commonplaceintheworkofmedievalscholarsafterWilliamofMoerbeke’stranslationof
+      thePolitics(Blythe1992;Rubinstein1992).Thisoppositionbetweenthepoliticalandthe
+      despoticremainedaliveuntilMachiavelli,whouseditinhisDiscoursesonLivy.There
+      this theorist (1996, 20, 23, 51, 61, 111 and 123) makes six references to the ‘form of
+      political life’, a concept that alludes to the government in which citizens participate
+      orientedtowardsthecommongood;onlyononeoccasion(BookI,chapter25)doeshe
+      extendittothemonarchicalgovernment,buteveninthiscaseitmustbeunderstoodas
+      one subject to laws and the consent of the citizens.   
+        Itisagreatironythat,becauseofMachiavelli,wecalleverytypeofregimepolitical,
+      evenatotalitarianone.Thischangehastodowithanotherdimensionoftheconceptofthe
+      political,thistimeappliedtotheartofgoverning.AfterthepublicationofThePrince,the
+                                                             
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+      1576                         Philosophy and Social Criticism 51(10)
+                                                             
+                                                             
+      science of politics changed its meaning: from intelligence to cunning, ‘from virtuous
+      sciencetotechnologyofpowerbeyondgoodandevil’(Sternberger1983,10).Thisisa
+      change for which the Florentine theorist is not responsible. His art of the state is a
+      transitoryandsubordinatecomponentofhisconceptionofpolitics.Itsmeaningremains
+      linked to the classical conception. Indeed,            
+        The vivere politico –Maurizio Viroli (1992, 486) writes– is a specific form of political
+        organizationthatprecludestyrannyanddespoticruleandisincompatiblewiththestateof
+        someone:ifacitizenorapartysucceedsindominatingthelawsandthemagistrates,onecan
+        nolonger speakof arepublic.                          
+                                                             
+        AccordingtoVirolihimself,Machiavellineversoughttoconstructanewconception
+      ofpoliticsanddiscardtheoldoneastheartofgoverningthecity.However,hisworkgave
+      rise to a radical transformation in political language. Schmitt takes this transformed
+      languageasgivenandmistakenlyconsidersitscategoriesaseternal.Hence,heconsiders
+      thelinkbetweenprotectionandobedienceeternal,andoffersnotoolsforunderstanding
+      why the ancient Greek sense of politics and freedom, which is clearly present even in
+      Machiavelli,correspondedinitsnegativedimensiontothatofnotbeingdominatedand
+      notdominating,andinitspositivedimensiontothespaceestablishedbymanyinwhich
+      everyonemovesamongequals(Arendt2005,117).8Whatisatstakehereisnotmerelythe
+      historicalcontentofaconceptbutalsothecogencyofapoliticalconceptionthatmakes
+      the decision-making process depend on citizen participation and deliberation. Schmitt
+      obscures this horizontal dimension in favor of a vertical one according to which the
+      priority is the making of decisions, not how they are made.
+        Schmittnotonlydistortsourunderstandingoftheancientusesofthepolitical.Healso
+      mystifiesinhisanalysiseverythingthat,eveninthepoliticsofhistime,wouldhaveforced
+      himtoreconsidertheinvariantelementintheessenceofpolitics.Thisisthecasewiththe
+      conceptofpoliticalfreedominhisConstitutionalTheory(2008,203–207).Accordingto
+      Schmitt,genuinelyfundamentalrightsarethosethatprotecttheprivatesphereinwhich
+      the individual exercises their freedom. Once the exercise of rights such as freedom of
+      speechandofthepress,aswellastherightofassemblyandassociation,transcendsthe
+      sphereofprivaterelations,theircharacteristransformed,astheylosetheabsolutenature
+      oftheprotectionowedtothembytheState.If,inaddition,theygiverisetotheformation
+      of coalitions or associations that fight against one another, their exercise reaches the
+      thresholdofthepoliticalandtheylosetheircharacterasfundamentalrightsoffreedom.
+      Alongsidetheserightsaredemocraticrightssuchasequalitybeforethelaw,therightto
+      petition,therighttovote,andequalaccesstopublicofficeaccordingtoability.Sincethese
+      arerightswithinthestate,theycannotbeextendedtoforeigners,asotherwise,thiswould
+      erode the distinction between friends and enemies.     
+        Thereis,ofcourse,anotherwayoflookingatpoliticalfreedom.First,itistheexercise
+      of citizens’ power over things they hold in common, including the guarantee of their
+      individual rights. The exclusion of foreigners is the consequence of not sharing what
+      citizens hold in common, not necessarily of considering them as potential enemies.
+      Second,theexerciseofpoliticalfreedomisinherenttothemoraldignityofeachmember
+                                                             
+
+[PAGE 7]
+                                                             
+                                                             
+      Gómez Albarello                               1577     
+                                                             
+                                                             
+                                                             
+      ofthepoliticalcommunitybecause,bygoingbeyondthemereenjoymentoftheirprivate
+      interests, they can develop faculties without which the destiny of the human species
+      would be servitude and lethargy. As Benjamin Constant (1988, 327) puts it,
+                                                             
+        Politicalliberty,bysubmittingtoallcitizens,withoutexception,thecareandassessmentof
+        their most sacred interests, enlarges their spirit, ennobles their thoughts, and establishes
+        amongthemakindofintellectualequalitywhichformsthegloryandpowerofapeople.9
+        Those, on the other hand, who conceive of freedom exclusively as the absence of
+      interference in their individual sphere might accept a concept of the political that con-
+      strictstherelationshipofindividualstoauthoritytothenexusofprotectionandobedience,
+      asSchmittdoes(2007,52);indeed,agoodnumberdosobyabdicatingdecision-making
+      toauthority,inexchangeforitsparingcitizensalltheirworries,‘exceptthoseofobeying
+      and paying’! (Constant 1988, 326) An alternative conception of freedom as non-
+      domination necessarily evokes another concept of the political. No matter how far re-
+      moved the classical sense of politics may be from our experience, it reappears as a
+      necessaryimplicationofpoliticalfreedom.Thisisahistoricalandconceptualcontinuity
+      thatanauthoritarianconceptionsuchasSchmitt’sobscuresinhisanalysisofthepolitical.
+        There is an additional implication of political freedom for our understanding of the
+      politicalthattakesusinadirectionoppositetothatindicatedbySchmitt:itisthatwhich
+      links it to the notion of compromise. Machiavelli (1996, 16–7) cleverly foresaw that a
+      pluralistic society in which its members enjoy political freedom will be the scene of
+      continuousandintenseconflicts.Theiroutcomecouldbetheonetheyhadinhisnative
+      Florence, where each party sought to eliminate its opponents, or the one they had in
+      Rome, where they gave rise to new and better laws (Machiavelli 1906, 160–1). Ac-
+      companiedbytheawarenessofpreservingthecommonspaceinwhichpoliticalfreedom
+      isexercised,thisleadstocompromise,sinceagreementbetweenopposingpartiesisthe
+      only way to preserve that space. This allows us to understand Thomas B. Macaulay’s
+      (1861,186)assertionthat‘[t]heessenceofpoliticsiscompromise’.Onecanclarifythat
+      compromisedoesnotexhausttheessenceofpolitics.Whatonecouldnotdoisdowithout
+      it, as Schmitt does.                                   
+        Schmitt could claim that he responded in advance to these criticisms in the second
+      sectionofhiswork.Indeed,thisauthor(2007,26)maintainsthatitdoesnotprovidean
+      ‘exhaustive definition of the political, nor a description of its content, but rather a de-
+      termination of its concept in the sense of a criterion’. This criterion does not become
+      apparent until the most extreme and decisive case. This exceptional situation is what
+      revealstheauthenticcoreofpolitics,saysSchmitt(2007,35).Thenormalsituation,onthe
+      contrary, clouds our understanding of the phenomenon. What makes one situation dif-
+      ferentfromtheotheristhescopeofthedecision-makingprocess,specifically,thedecision
+      aboutfriendsandenemies.AccordingtoSchmitt,thedecisionisanactofthewill,which
+      hasnopresuppositions;itdependsonlyonitself.However,thisdecisionisthebasisofthe
+      political order and, therefore, of normality. Therefore, if one wanted to understand the
+      ordinary course of politics, one would have to start from the exceptional case.
+                                                             
+                                                             
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+      1578                         Philosophy and Social Criticism 51(10)
+                                                             
+                                                             
+        Burkhard Conrad (2008, 157–165) persuasively shows that Schmitt’s analytical
+      strategyis,infact,aquestionablerhetoricalredescriptionofSørenKierkegaard’sconcept
+      ofthe‘moment’(ofdecision).Thisredescriptionservesadualfunction:ontheonehand,
+      it conceals the lack of evidence and plausibility of his decisionism; on the other, it
+      transforms the political decision regarding the exceptional situation into a pseudo-
+      theological phenomenon. In effect, Schmitt transforms the original theological con-
+      ceptintoasecularandpoliticalone,butatthesametimeheimbuesitwithanexistential
+      connotation that evokes the original concept. Conrad further points out that Schmitt’s
+      redescriptionofthe‘momentofdecision’isquitebiased,strippingitofitscomplexity.In
+      Kierkegaard (1983, 227), the general and the exception are part of a dialectic, one of
+      whose moments is the reconciliation of the legitimate exception in the general. The
+      exceptionalmomentoffaithinChristisdialecticallylinkedtocontinuityandhistory.In
+      this way, the exception and the general form a set of checks and balances whose re-
+      descriptioninpoliticaltermswouldrequiretakingintoaccountthediscontinuousnature
+      of the decision, but without opposing it to reasoning, discourse, and debate. This ob-
+      servation confirms what was said above. The biased nature of Schmitt’s analysis is
+      disorientingbecauseithighlightsonedimensionofthepolitical,thedecision,atthecost
+      of obscuring and denying another, discourse and debate.
+      A biased reading of the relationship between conflict, social
+      cohesion and political activity                        
+                                                             
+      IncontrasttotheextensiveliteratureontherelationshipbetweenWeberandSchmitt,his
+      relationship with other of his predecessors, specifically Georg Simmel, James Bryce,
+      Mosei Ostrogorsky, and Robert Michels, remains a virtually unexplored topic. Ellen
+      Kennedy (2004, 40), one of the few scholars to have addressed it, argues that the so-
+      ciological studies of Michels and Ostrogorsky had no influence on the jurist from
+      Plettenberg. In this section, as well as in the next, I would like to show that it is worth
+      reexamining Schmitt’s relationship with some of his predecessors.
+        WolfgangJ.Mommsen(1987,126)reportsthatWeberintroducedMichelstothework
+      ofBryceandOstrogorsky.WebermostlikelyintroducedSchmitttotheworkofthelatter
+      three,andeventothatofSimmel,forwhomWeberhadagreatadmiration(Weber1972).
+      In Schmitt’s work, however, there are no references to Simmel; in his opuscule on the
+      crisis of parliamentary democracy (Schmitt 1985, 20) there is only one mention of the
+      work of Ostrogorsky and that of Michels, and in his constitutional theory, published
+      5yearslater,therearethreereferencestothatofBryce(Schmitt2008,255–56and277).In
+      contrast to the numerous references to the authors with whom he polemicized, Schmitt
+      scarcelymentionsthosewhoexercisedadecisiveinfluenceonhiswork,asisthecasewith
+      Søren Kierkegaard, referred to merely as ‘a Protestant theologian’ in his Political
+      Theology(Schmitt2005,15).IfonelooksatthecontentofSchmitt’swork,onecansee
+      that the trace of Simmel, Bryce, Ostrogorsky, and Michels is noticeable in two very
+      importantrespects:first,inhisinterpretationofconflictasamechanismforformingsocial
+      cohesion, andsecond, intheevidenceof enmity asanessential feature of politics. This
+                                                             
+                                                             
+
+[PAGE 9]
+                                                             
+                                                             
+      Gómez Albarello                               1579     
+                                                             
+                                                             
+                                                             
+      evidenceis,inreality,asIwillshowinthefollowingsection,anexistentialistdistortionof
+      the common sense of politics in the modern age.        
+        InthechapterofhisSociologydevotedtoconflict,Simmelarguesthatconflictcanhave
+      the effect of intensifying social cohesion. According to Simmel (1955, 98–9), in an
+      external conflict, internal elements of the group that would blur its distinction from its
+      external enemy tend to be eliminated, which contributes to reinforcing existing unity.
+      Conflict‘mayalsobringpersonsandgroupstogetherwhichhaveotherwisenothingtodo
+      with each other’, says Simmel. Usually inclined toward microsociological analysis,
+      Simmel illustrates the operation of this mechanism with macrosociological examples
+      takenfromtheformationofnationalstates,aswellasconfederationsandfederationsof
+      states.ThefirsttypecorrespondstotheformationoftheFrenchstatethankstoitsstruggle
+      againstEnglandandoftheSpanishstateagainsttheMoors;thesecond,theformationof
+      the Achaean League against Macedonia, the Swiss Confederation against Austria, the
+      NetherlandsagainstSpain,andtheUnitedStatesinitsWarofIndependence.Tothisset,
+      Simmel adds the then recently created German Reich (Simmel 1955, 100).
+        SimmelfurtherbringsupaperceptiveobservationbyMontesquieu(1989,116)about
+      theunifyingeffectofconflict:‘Acertainkindofconfidenceisthegloryandsecurityofa
+      monarchy, but, by contrast, a republic must dread something’.10 Simmel (1955, 106)
+      explains the operation of this mechanism as follows:   
+        Monarchy itself sees to it that possibly antagonistic elements are held together. But when
+        such elements have nobody above them to enforce their unity but instead enjoy relative
+        sovereignty,theywilleasilybreakapartunlessadangersharedbyallforcesthemtogether.
+        Evidently,suchadangercanlastandcanguaranteeapermanentgroupstructureonlybya
+        permanent threatof conflict, rather than through asingle,openfight.
+        It’s understandable that, in the Weimar Republic, this analysis appealed to many
+      reactionaries.Indeed,withouttheunifyingfigureoftheKaiser,Germanycouldfindinthe
+      fightagainstanexternalenemytheunifyingforcethatthenewregime,whichwasplagued
+      by deep divisions, apparently could not provide.       
+        PerhapsthesharpnessofSimmel’sapproachwasnotenoughtoreducethediversityof
+      the political to the distinction between friends and enemies. The impetus for such a
+      reductioncouldhavecomefromamuchlessrefined,butpoliticallymoreuseful,theory:
+      Robert Michels’s theory of solidarity. In the third chapter of his Probleme der Sozial-
+      philosophie, the socialist theorist states,            
+        Theheavenlyflowerofsolidaritygrowsandthrivesonlyonthevolcanicsoilofconflicting
+        interests. (...) The solidarity of the human race, like the community of interests of social
+        classes,isautopiabecauseitpresupposesthesolutionofessentialproblems,someofwhich
+        are stillunsolvedandsome of which arecompletely insoluble.] (Michels 1914,55)
+        In a conclusive way, Michels (1914, 56) states that ‘one is only in solidarity against
+      someone else’ and, a little further on, he proposes that the intensity of the solidarity
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+      1580                         Philosophy and Social Criticism 51(10)
+                                                             
+                                                             
+      experienced by a group increases or decreases according to whether the antagonisms
+      increase or decrease.                                  
+        It is possible to discern an echo of this approach in Schmitt’s conception of the re-
+      lationshipbetweenconflictandsocialcohesion.AccordingtotheoralexchangewithLeo
+      Strauss,whichthelatterrecordedinhissecondlettertoSchmitt,thePlettenbergjurist’s
+      basic conviction is that human nature contains a primary tendency to form exclusive
+      groups.Therefore,everyhumanassociationimpliesseparationfromotherhumanbeings.
+      ‘The tendency to separate (and therewith the grouping of humanity into friends and
+      enemies)isgivenwithhumannature;itisinthissensedestiny,period’.Thiswouldbethe
+      foundation upon which domination would be built. In other words, human beings can
+      formaunittoestablishpoliticalauthority,buttheycanonlyuniteiftheydoso‘against–
+      against other men’ (Meier 1995, 124–5).                
+        Veryearlyon,HermannHellerquestionedthemeritofthisthesis.Heller(2000,258)
+      reproachesSchmittforviewingpoliticsfromastaticperspective,thatis,thatofthestatus
+      achievedbyapeopleafterhavingfoughtandannihilatedthosewhothreatenedtheirway
+      oflife.Schmitt,however,coulddrawontheideasofSimmelandMichelsinhispossible
+      reply.First,apermanentthreatofconflictgivespoliticsadynamiccharacter.Second,this
+      permanentthreatcanbefoundinthelackofsolutionstomanyproblems.Heller,however,
+      isrightinarguingthattheprocessbywhichthestatecomestobeandremainsaunityof
+      pluralityisnotreducibletoantagonismwithexternalenemies.Thisisnottheonlycause
+      ofagroup’ssocialcohesion;itcanbeobtainedandmaintainedthroughcompromisesand
+      agreements,whicharenolesspolitical.Furthermore,itisnotnecessarytopostulateatype
+      of partial solidarity, such as the community of unsatisfied interests, a` la Michels, to
+      achievethebasicsocialhomogeneitythatallowsforthepoliticalunityofapluralsociety.
+      Hence, it can be said that Schmitt derives his conception of the political from a biased
+      reading of the relationship between conflict and social cohesion.
+      An existentialist distortion of the common sense of the political
+      KariPalonen(1998,229)questionsthewayinwhichSchmittaddressesthecontingency
+      of action in the political sphere. According to this author, Schmitt deplores the inde-
+      terminate nature of the openness of political situations and demands their prompt res-
+      olution, unlikeWeber,whosees inthisopennessalternativesfor action;hence, Schmitt
+      seeks to reduce the uncertainty that threatens order through the friend-enemy scheme.
+      This is one way of addressing the existentialist distortion of the political. Another is to
+      questionthewayinwhichSchmitt,intheshadowofhispredecessors,specificallyBryce,
+      Ostrogorski, and Michels, took for granted the reality of the political as it becomes
+      realized and expressed through the network of common-sense categories. A very im-
+      portant part of this network is formed by metaphors of war and enmity; another, less
+      prominentpart,bymetaphorsofsportsactivity.Schmitttookthefirstset,andignoredthe
+      second, to construct a political existentialism that, far from providing clarity on the
+      concept of the political, mystifies it.                
+        Schmittcouldhaveresortedtothephenomenologicalepoche´,thatis,thesuspensionof
+      beliefintherealityoftheworld,asameansofovercomingthenaturalattitudethattakes
+                                                             
+                                                             
+
+[PAGE 11]
+                                                             
+                                                             
+      Gómez Albarello                               1581     
+                                                             
+                                                             
+                                                             
+      thepoliticalcategoriesofthemodernworldasgiven,notsociallyconstructed.Instead,he
+      carriedoutanothertypeofepoche´,whatAlfredSchütz(1945,551)calledtheepoche´ of
+      thenaturalattitude.Indeed,whatSchmittbracketedwasthedoubtthat‘theworldandits
+      objects might be otherwise than it appears to him’. Not only that. By ignoring the
+      metaphors derived from sports, Schmitt offers us an incomplete and misinterpreted
+      versionofthiscommonsenseofthepoliticalinthemodernage.Hadhemadetheeffortto
+      findtheconnectionbetweenthesemetaphorsandthoseofwarandenmity,hewouldthen
+      havehadtoconstructhisconceptofthepoliticalonanentirelydifferentbasis,thatofplay,
+      understoodinthiscaseascontention,thatis,thestruggleforsomething,thatsomething
+      being collectively binding decisions with authority—a proposition I will justify in the
+      nextsection.Instead,Schmitt(2007,27)claimstheconceptsoffriendandenemyshould
+      notbetakenasmetaphorsorsymbolsbutintheirconcreteandexistentialsense.Inthis
+      way,heconfoundstheattributionofmeaningmadebyspeakersinverydifferentcontexts
+      bycollapsingthepolysemyoftheaforementionedmetaphorsintoasingledimension:that
+      of a fight to the death. Indeed, where political confrontations are bounded by rules and
+      mediatedbyreferees,metaphorsofwarandenmityoftenappearintandemwiththoseof
+      sportingactivity.ToquestionSchmitt’smystification,itisnecessarytotakenoticeofboth
+      setsofmetaphorsastheyappearintheworksofBryce,Ostrogorski,andMichels.They
+      arecertainlynottheonlyonesinwhichthosemetaphorsfeatureprominently,buttheyare
+      theonesthatdirectlyilluminateSchmitt’sworkbecauseoftheirrelationshipwithWeber.
+        DespitethedifferencesbetweenBryceandOstrogorski,ontheonehand,andMichels,
+      on the other, these three authors share a vision of politics in which confrontation is the
+      centralexperience;furthermore,theyarguethatitsoutcomedependsontheeffectiveness
+      oftheorganizationemployedbythoseinvolvedtoachievetheirobjectives.InBryceand
+      Ostrogorsky, the event that makes this confrontation manifest is elections, which are
+      referredtoasbattles(Bryce1895,136,199,200;Ostrogorski1903,I,193,240,301,412,
+      428; II, 19, 255, 263, 625 and 1919, 124, 172, 212, 300, 308) and occasionally as a
+      battlefield (Bryce 1895, 197–8; Ostrogorsky, 163, 317). Bryce also refers to electoral
+      warfare,partisanwarfare–inthesenseofpartywarfare,andpoliticalwarfare(1895,136,
+      132, 54, and 75, respectively). Ostrogorski (1903), for his part, makes a much more
+      extensiveuseofthetermwar.Inadditiontousingtheexpression‘partywarfare’(II,261),
+      he also uses the expressions ‘war cry’ (I, 481 and II, 69), ‘war funds’ or ‘treasures’ (I,
+      586 and II, 139), war preparations (I, 449), ‘war material’ (I, 442), ‘war torch’ (II, 37),
+      ‘warcouncils’(II,239),‘warmachine’(I,410)andqualitiesoftheelectoralmanofwar(I,
+      318),aswellas‘warwithouttruceormercy’(II,36),‘deafandbitterwaragainstrivals’
+      (II,23),the‘weaponsofparliamentarywar’(I,388),the‘waragainstmoneypower’(II,
+      24)andthe‘holywaragainstthecorruptionofpoliticians’(II,364).Theepitomeofthis
+      warlikeconceptionofpoliticsistheideathateventhefactionswithineachparty,which
+      resorttofraudandstratagems,‘acceptinadvancetheeffectsoftheproverb:Inwarasin
+      wars’ (II, 203).                                       
+        Michels(1915,5)referstoelectoralstruggles,buthisattentiongravitatesaroundthe
+      classantagonismsforwhichpartiesserveasameansofexpression,aswellastointernal
+      struggles within parties. Weber’s pupil does not abound in references to war, like Os-
+      trogorsky.However,inthefirstparagraphofchapterthreeofhisbookonpoliticalparties,
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+      1582                         Philosophy and Social Criticism 51(10)
+                                                             
+                                                             
+      Michels(1915,41)formulatesapropositionwhoseechoesareclearlydiscernibleinthe
+      workofthesociologistHansFreyer,inthepolymathOswaldSpenglerand,ofcourse,in
+      Carl Schmitt: ‘the various aggregates of modern political life (…) are in a perpetual
+      condition of latent war’. The first two paraphrase Clausewitz’s dictum and claim that
+      politics (Freyer 1926, 142) or peace (Spengler 1933, 24) is the continuation of war by
+      other means. Schmitt’s(1992, 82; 2007,34) argumentthat waristhe presupposition of
+      politics is more subtle and more in keeping with Michels’s.11
+        ItshouldbeaddedthatthetitleoftheaforementionedthirdchapterofMichels’sbookis
+      ‘The modern democratic party as a fighting party, dominated by militarist ideas and
+      methods’. As I already showed, this is an idea that Bryce and Ostrogorski express
+      numeroustimesthroughouttheirwork,butwithoutemphasizingitasMichelsdoes.The
+      way this socialist theorist does so evokes the colonial achievements of the European
+      empires:                                               
+        Afightingpartyneedsahierarchicalstructure.Intheabsenceofsuchastructure,theparty
+        will becomparabletoasavageandshapeless negroarmy,whichisunabletowithstanda
+        single-welldisciplinedandwell-drilledbatallionofEuropeansoldiers.(Michels1915,42)12
+        BothBryceandOstrogorskynotethetransformationofthemeaningofpoliticsbrought
+      aboutbyelectoralcompetitionandpartyaction.AccordingtoBryce(1895,111and138),
+      ‘politicsismerelyameansforgettinganddistributingplaces’;ithasbeenturnedinto‘the
+      artofdistributingsalariessoastosecurethemaximumofsupportfromfriendswiththe
+      minimumofoffensetoopponents’.Ostrogorski(1903,II,186and327)makesasimilar
+      point,claimingthatpoliticshasbeenreducedtoabusiness,oneinwhich,asinanyother,
+      some people buy objects of value and others sell them, and neither expects to give
+      anything for nothing.                                  
+        This conception of politics is what Schmitt (2007, 30) finds reduced to banal forms
+      ‘which assume parasite- and caricature-like configurations’. However, even in this
+      conception of politics, claims the theorist from Plettenberg,the language used by those
+      involved reflects that its essence is characterized by the presence of a concrete antag-
+      onism.AsIwillshowbelow,BryceandOstrogorskisupposedlyexpressedthislanguage
+      ofenmity,inthesenseSchmittreferstoit.However,thisauthor’sreadingismisleading
+      because it only takes into account one of the aspects of political activity that these two
+      authorscapturedintheirworkand,furthermore,doessoinawaythatcompletelydistorts
+      its meaning.                                           
+        Brycenotesthatrivalpartiesandevenfactionswithinthepartythatfightforcontrolare
+      enemies (1895, 132 and 381). The same author reports that the promoters of alcohol
+      prohibitionandcivilservicereformrefertotheiropponentsasenemies(43and173)and
+      that machine politicians see them as such (116). This same character is held by ethnic
+      groupsthatarepartofthesocialbaseoftheDemocraticandRepublicanparties:theIrish
+      andAfricanAmericans,respectively(35).Ostrogorskyisfullofreferencestomembersof
+      rivalpartiesasenemies(1903,I,159,173,206,258,350,355,449,474,485,561;1903,
+      II,23,44,45,46,89,201,209,331,362,386,578;1910,10,22,23,114,216,241);the
+      sametermisusedbythosewhoopposecivilservicereform(1903,II,166,439,442,448,
+                                                             
+                                                             
+
+[PAGE 13]
+                                                             
+                                                             
+      Gómez Albarello                               1583     
+                                                             
+                                                             
+                                                             
+      453; 1910, 310). Michels also frequently refers to the opponent as an enemy, but in
+      accordance with a conception of politics very different from that of Bryce and Os-
+      trogorsky, which corresponds, in Schmitt’s terms, to the awareness of the extreme sit-
+      uation. However, it is a specific type of antagonism: that which pits the bourgeoisie
+      againsttheproletariat.Inthissense,whenMichelsreferstotheenemy,itistheworking
+      class’s or its party’s (1915, 81, 158, 224, 236, 242, 256, 281, 306, 312, 317–8, 369,
+      372 and 394).                                          
+        ThereisanotheraspectinwhichtheworksofBryceandOstrogorski,ontheonehand,
+      and that of Michels, on the other, differ very significantly. The first two record several
+      metaphorsthatexpresstheconceptionthatpoliticsisplayinthesenseofcompetitionor
+      combat.Thesemetaphorscanbegroupedthematically;eachsetemphasizesanaspectof
+      political activity and allows it to be framed within concepts already familiar to the
+      speakers.Oncetheygainedcurrency,themetaphorsofcompetition,ontheonehand,and
+      combat, on the other, facilitated the circulation of new ones, which were added to the
+      existing ones and consolidated a framework for interpreting reality. The first is ‘run for
+      office’; this expression stands in sharp contrastto the previous one ‘stand for office’. It
+      was coined at the beginning of the nineteenth century, when candidates began to
+      campaignproperlyspeaking.13Alittlelater,‘runaheadoftheticket’cameintouse,andat
+      theendofthenineteenthcentury,‘runningmate’(SperberandTrittschuh1962,384).The
+      metaphorof‘runningforoffice’facilitatedtheuseofanother:thatofelectoralcompetition
+      asahorserace.Thankstothis,theexpressions‘clearthetrack’,‘fly[leave]thetrack’,and
+      ‘walkoverthetrack’cameintouse(SperberandTrittschuh1962,83,160,and476).The
+      metaphorthatappears,andprominently,inbothBryce(1895,187–202)andOstrogorski
+      (1903,II,130,235,246,255,256,419)is‘darkhorse’:‘Apoliticianwhowithlittleorno
+      advance notice is selected as a candidate’ (Sperber and Trittschuh 1962, 112–3).
+        BryceandOstrogorskialsorecordthemetaphorofthe‘politicalarena’,anexpression
+      whoseusespread fromthesecond decade ofthenineteenthcenturyonwards, which,in
+      turn, attracted another: ‘gladiator’ (Sperber and Trittschuh 1962, 21). In Bryce’s work,
+      this expression is mentioned only five times (Bryce 1895, 43, 69, 234, 383, 396); in
+      Ostrogorski,thirteentimes(1903,I,235,489,524,584;II,153,224,295,306,346,406,
+      566,652,680).Tothisnumbermustbeaddedthetwelvetimes(I,496,522;II,83,255,
+      272,289,319,357,429,441,450,565)thattheexpression‘enterthefight’(inFrench,in
+      the original, entrer ou descendre en lice) appears, which, in the English edition of his
+      work,issometimestranslatedas‘enterthearena’,whichwouldbeitsequivalent.Thelice
+      was the palisade within which equestrian competitions and knightly tournaments were
+      usually held. Ostrogorsky also occasionally uses the expression ‘gladiators’ (I, 236; II,
+      295,677).Michels(1915,6),onthecontrary,usesonlyonceoneofthesemetaphors:that
+      of the electoral arena.                                
+        If,asSchmitt(2007,33)claims,theeffectivecontentofthemetaphoricallanguageof
+      warandenmityweretheawarenessof‘therealpossibilityofphysicalkilling’,thenthe
+      enemycouldnotbetreated,accordingtothemetaphorsofcompetitionandcombat,either
+      asacompetitororasanadversary.Hewouldalwaysbetheonewhohastobeeliminated,
+      as Herbert Marcuse (1968, 36) and Johan Huizinga (1955, 209) incisively pointed out.
+      Thisinterpretationmayseemextreme,butitcorrespondstotheoriginalmeaningofhostis
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+      1584                         Philosophy and Social Criticism 51(10)
+                                                             
+                                                             
+      aspublicenemy,towhichSchmitt(2007,28–9)appealstoclarifytheconceptofenmity.
+      Indeed, the Roman Senate’s decision to declare a citizen an enemy of the republic au-
+      thorizedanyonewhofoundhimtokillhimwithimpunityorbringhimbeforetheconsuls,
+      having confiscated his property, as Appian (1964, 113) observes in his chronicle of the
+      civilwars.Thisdeclarationofhostisis,moreover,anintegralpartofthefinalperiodofthe
+      republic, in which the resort to violence was normalized and justified as a means of
+      silencing thevoices ofthepopularesinconflict with theoptimates (Flower 2009;Steel
+      2023).Schmittcouldarguethatwhatwasdistinctiveaboutthisperiodwaspreciselythe
+      awareness of the extreme case, but such a conceptualization does not allow us to un-
+      derstand thepolitical dynamics ofeithertheRoman Republicbeforeitscrisis orthat of
+      modern political regimes based on electoral competition. It does not matter that the
+      contenderscalleachotherenemies.Iftheirinvolvementintheconflictisalsoexpressed
+      throughmetaphorsofcompetitionandcombat,thentheinterpretiveframesofreference
+      refer to play and, consequently, to rules and arbiters.
+        After the Second World War, on the side of the defeated, Schmitt progressively at-
+      tenuated this extreme implication until he admitted an addition to his concept of the
+      enemy,proposedbyJulienFreundandGeorgeSchwab.Indeed,inExCaptivitateSalus,
+      Schmitt (2017, 70–1) argues that the objectivity of the enemy’s power gives rise to a
+      particularreciprocalrecognition:anacknowledgmentofacknowledgment,whichmeans
+      thatthecontentoftheconceptoftheenemy,contrarytowhattheologianspropose,isnot
+      that of its destruction. In The Nomos of the Earth, Schmitt (2003) develops the impli-
+      cationsofthereciprocalrecognitionofjustenemies(iustushostes)thatheenunciatesin
+      Ex Captivitate Salus. Finally, in his 1963 prologue to The Concept of the Political, the
+      juristfromPlettenberg(Schmitt2018,47–8)arguesthatitisnecessarytorecognizethree
+      typesofenemies:conventional,real,orabsolute,aswellastorelativizeenmityinorderto
+      delimitwar.Schmitt(2007,53–54)mightarguethatthesedevelopmentsfollowlogically
+      from his conception of the political world—indeed, of the international sphere—as a
+      pluriverse, as well as from his critique of discriminatory wars waged in the name of
+      humanity.However,itisworthrememberingthatbeforethewar,Schmitt(1940b,271–2)
+      accusedHuizingaandotherintellectualssuchasSigmundFreud,KarlBarth,andThomas
+      Mannofresortingtotheconceptsof‘culture,progress,education,apoliticalscience,and
+      othersimilarideasaseffectivemeansinthefightagainstastrongReichinthecenterof
+      Europe’,anargumentthatcanbereadinconjunctionwithhisearlierarticle‘TotalEnemy,
+      Total War, and Total State’ (Schmitt 1940a). Whether one leans toward one or another
+      interpretation of the implications of the original concept of the enemy in Schmitt, his
+      existentialist distortion of the political remains highly debatable.
+        Schmitt (2007, 27–8) argues that part of the existential meaning of taking part in a
+      conflictisthatonlythoseinvolvedcandeterminewhatisatstake.Thisdeterminationis
+      not made according to prior normative criteria—which, by their ideality, are on a level
+      analogoustothatoffictions;nordoesitadmitthejudgmentofadisinterestedorimpartial
+      thirdparty.Itisadecisionthathasnofoundationotherthantheexistentialsituationitself.
+      In his Political Theology, Schmitt (205) had claimed a specific genealogy for this de-
+      cisionism:first,Hobbes,withhispostulatethatitisauthoritythatmakesthelaw,nottruth
+      (or reason); second, the reactionary thinkers Joseph de Maistre, Louis de Bonald, and
+
+[PAGE 15]
+                                                             
+                                                             
+      Gómez Albarello                               1585     
+                                                             
+                                                             
+                                                             
+      DonosoCorte´s.However,asKarlLo¨with(1984,40)observes,Schmitt’sdecisionismis
+      ‘occasional’ because ‘it lacks not only the religious and metaphysical foundations of
+      previous centuries, but also the humanitarian moral ones’; therefore, the content of the
+      decision ‘is only the product of the contingent occasio of the political situation of the
+      moment (...)’.                                         
+        Theapparentautonomousnatureofthefriend-enemydistinctionisacorrelateofthis
+      decisionism. Both are nourished by Schmitt’s existentialist distortion. Within this
+      framework,theautonomyofpoliticsmeansthatwhoeverdecidesinthesphereofconflicts
+      that have reached their maximum intensity must do so regardless of all other criteria,
+      especially ethical ones. At the antipodes of this existentialism is that of Emmanuel
+      Le´vinas,whoconsiderstheOther’ssummationtorespond(Levinas1986,353)tobethe
+      mostbasicexperienceofthehumanbeings,sofundamentalthatitimpliesaffirmingthe
+      priority of ethics over metaphysics (Levinas 1989). Thus, it is possible to oppose
+      Schmitt’spoliticalexistentialismwithonethataffirmstheprinciplethatthehumanbeing
+      isforthehumanbeing,againstonethatmaintainsthatthehumanbeingisawolfforthe
+      humanbeing(Levinas1985,80).AsMiguelAbensour(1998)haspointedout,Levinas’s
+      political existentialism is a genuine ‘counter-Hobbes’ – and one might add, a counter-
+      Schmitt–oneaccordingtowhichthereisalwaysanethicalcriterionforevaluatingany
+      political situation.14                                 
+        OnecanreachasimilarconclusionbasedonJohanHuizinga’sanalysis,anauthorwho
+      developed his ideas about play partly in a polemic with Carl Schmitt (Rydin 2024; De
+      Vugt 2017). Indeed, when viewing politics through the prism of play, political action
+      appears necessarily rule-related since, like play, politics would be unthinkable without
+      them.Tobeginwith,thesimplestformofpoliticalactivityisthatofpoliticalagentswho
+      formulate their strategies within the framework of pre-established rules and seek to
+      outplay their opponents.15 Of course, a distinctive aspect of political activity is the
+      capacity of those involved to go beyond normative frameworks previously established
+      and to struggle over them. The range of strategies of political agents includes the af-
+      firmation of alternative normative codes tothe current one,as well as itssubversion by
+      demandingtherealizationofendsthataredesirablewithinthatcodebutremainbeyond
+      theircapacity;inotherwords,appealingtoprinciplesofthecurrentnormativecodecanbe
+      ameansofsubvertingit(Bailey2001,199–208).Itisthereforedoubtful,tosaytheleast,
+      that many of the maneuvers resorted to by political agents are included within by the
+      normative concept of fair play, which Huizinga (1955, 211) deems essential to any
+      civilizationworthyofthatname.However,whileitistruethatmanyambitiouspoliticians
+      tendtobendtherulesandevenbreakthem,itwouldbewrongtolosesightoftheactionof
+      mechanismsthatpreventthepoliticalorderfromstrayingtoofarfromtheidealoffairplay
+      andending up dissolved inchaos. Bailey (2001,15), followingthe approach ofRudolf
+      Kircher(1928,206),affirms thatoneofthesemechanisms istheumpire role playedby
+      voters,whentheypunishavidpoliticiansatthepolls.Baileyaddsthattheumpirecanalso
+      bemodeled‘asasetofinternalizedconventionsthatregulatepoliticalconductandcontrol
+      a political arena’s runaway tendencies’. It is worth noting that these conventions are
+      effectivebecausethereareinstitutionsthatconstrainpoliticaldiscourseandactionwithin
+      theboundsofappropriatelyjustifiednormativebeliefsandjudgments.Inheressay‘Truth
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+      1586                         Philosophy and Social Criticism 51(10)
+                                                             
+                                                             
+      and Politics’, Hannah Arendt (1968, 260–1) identifies within this set the judicial insti-
+      tutions,institutionsofhighereducation,andthepress—today,wemightsay,themedia.
+        Atfirstglance,thescopeofthisanalysiswouldbeverylimited,sinceitwouldleaveout
+      thedeadlyseriouscasesthatinterestSchmitt,inwhichthecontendersarewillingtokill
+      eachotherandevendoso,oftenonalargescale.Attheoutset,itisworthbearinginmind
+      Huizinga’sobservation(1955,45)that,althoughseriousnessisdefinedinoppositionto
+      play, play can nevertheless include seriousness. The uncertainty of the final result
+      motivates players to concentrate seriously on the game and serves as the basis for
+      metaphorsapplicabletothewholeoflife,suchastheonecoinedbyArthurSchopenhauer
+      (1917, 190) in this aphorism: ‘Fate shuffles the cards and we play’. Hence, without
+      abusing the concept of umpire, Hannah Arendt (1970, 5) can include war in it when
+      referringtoitasameansofresolvingdisputesintheinternationalarena.Warisanumpire
+      inthesamesenseinwhichseveralpeoplesofEuropeusedcombatasameansofresolving
+      judicial disputes. Of course, this sense depends on the parties involved reciprocally
+      recognizingeachotherascombatantsfightingforsomethingtowhichtheyhavearight,an
+      idea that motivated the Renaissance jurist Alberico Gentile to assert that in a war both
+      sidescanwagewarjustly(Gentile1877,37–40).Thisreciprocal recognitionallowsfor
+      the limitation of war because each side assumes the burden of acting honorably and
+      answering for its actions. Conversely, where such recognition is absent, the sense of
+      sharedrulesdisappears.Hence,Huizinga,inapartofhiswork,unfortunatelynotincluded
+      in the English version, notes that                     
+        assoonasthefightisdirectedagainstthosewhoareconsideredinferior,whethertheyare
+        called barbarians orsomething else,allrestrictions onviolencearelostandthehistoryof
+        mankindisseentobetaintedbythedisgustingcrueltywhichBabylonianandAssyrianrulers
+        considered tobeawork pleasing toGod.(Huizinga 2023,121)
+        One does not have to go far back in time to find evidence that conforms to this
+      assertion.Itisclearthatwhenmembersofapeoplearecalled‘humananimals’,theycan
+      no longer expect any mercy.                            
+        Huizinga(1955,211)insiststhatnocivilizationcansubsistwithoutacertainplayful
+      content:‘Civilizationwill,inasense,alwaysbeplayedaccordingtocertainrules,andtrue
+      civilization will always demand fair play’. There is no way, then, that politics could be
+      separated from ethics. To do so would be to place ourselves on an existential plane in
+      whichwewouldbedenyingourownhumanity.Wewouldbeinapositionanalogousto
+      thatofJose´AurelioBuend´ıa,oneofthecharactersinOneHundredYearsofSolitude,who
+      rejectedtheinvitationextendedtohimbythetownpriesttoplaycheckers.Jose´ Arcadio
+      explainedtohimthathe‘couldneverunderstandthemeaningofacontestbetweentwo
+      adversarieswhoagreedupontherules’.Thenarratoraddsthatthepriest,FatherNicanor,
+      had never seen checkers played in that way, which is why he could not play again.
+      AmazedbyJose´Arcadio’slucidity,heaskedhimwhyhewasbeingheldtiedtoatree,to
+      whichhereplied,‘Hocestsimplicissimum:becauseIamcrazy’(Garc´ıaMa´rquez1971,
+      78 [1971, 86–7]).                                      
+                                                             
+                                                             
+                                                             
+
+[PAGE 17]
+                                                             
+                                                             
+      Gómez Albarello                               1587     
+                                                             
+                                                             
+                                                             
+        Inotherwords,accordingtoHuizinga,aconceptofplaywouldincludethevastarray
+      ofallpoliticalphenomena,includingwars.Thereis,ofcourse,alimittowhatthatconcept
+      canencompasswhicharewarsofannihilation.Thissaid,whatIdistillfromHuizingais
+      that wars of annihilation are the exception that confirms the rule: politics is norm-
+      bounded.Thispropositionclasheshead-onwithSchmitt’sassertionthatpoliticsisavalue
+      sphere,wheretheonlyrelevantdistinctionisthatoffriendandenemy.Therefore,atotally
+      unbounded political space would be beyond what we could conceive of, open only to
+      derangedpeoplewillingtoplaywithoutanycommonrulessuchasJose´ArcadioBuend´ıa.
+        Perhaps,wemayconcurthatwarsofannihilationaretheouterboundofpolitics.Inher
+      ‘Introduction into politics’, Hannah Arendt (2005, 159) observes, ‘when war no longer
+      presumesthecoexistenceofhostilepartiesasagivenandnolongerseekssimplytoputan
+      end to the conflict between them by force—that war first truly ceases to be a means of
+      politicsand,asawarofannihilation,beginstooversteptheboundssetbypoliticsandto
+      annihilatepoliticsitself’.Yetthereisaquiteamplespacebetweenthisouterboundand
+      ordinarypolitics.DoesHuizigaclaimthatallthisspaceisnorm-bounded?Yes,hedoes!In
+      a way that anticipates John Searle’s (1969, 33–41) discussion on constitutive rules,
+      Huizinga contends that all forms of play are inextricably linked to rules. He (1955, 11)
+      assertsthat‘[a]llplayhasitsrules.Theydeterminewhat‘holds’inthetemporaryworld
+      circumscribed by play (…) as soon as the rules are transgressed the whole play-world
+      collapses’.Acorollaryofthispropositionisthat‘[fighting],asaculturalfunction,always
+      presupposeslimitingrules,anditrequires,toacertainextentanyway,therecognitionof
+      itsplay-quality’.Ofcourse,thevalidityofthiscorollarydependsontheconditionthatwar
+      be‘wagedwithinaspherewhosemembersregardeachotherasequalsorantagonistswith
+      equal rights; in other words its cultural function depends on its play-quality’ (Huizinga
+      1955,89).Thisconditiondoesnotholdinthosecasesinwhichthepurposeofthefightis
+      toannihilatetheenemy,butHuizingawouldsaythatthosecasesbelongtotheouterbound
+      of the political.                                      
+      Another concept of the political                       
+      Aconceptofpoliticscenteredonplay,initssenseofcontest,encompassesawidevariety
+      ofphenomenathat,throughouthistory,havebeendesignatedaspolitical.Inthissense,it
+      issuperiortotheonedevelopedbySchmitt,whichonlyaddressesalimitedsetandina
+      ratherdistortedway.However,theprecisedefinitionofaconceptofthistypemustreferto
+      theobject ofthe contest,since otherwise, themeaning of theactions ofpolitical agents
+      wouldnotbe intelligibleinany way. Thisobject isthedecisions thatthe members ofa
+      community recognize as authoritatively binding. It is worth highlighting that play in-
+      cludes both the object for which the contenders fight and the activities they deploy to
+      achieve that object. Therefore, a definition of politics includes collectively binding
+      decisions as well as the process by which those decisions are formed and justified.
+        Thisisbynomeansanoriginaldefinition.IncorporatedwithinHuizinga’sanalytical
+      framework, the definition proposed here corresponds to the one developed by Talcott
+      Parsonstoidentifythespecificityofthepolitical.16Unfortunately,hisanalysisofpolitics
+      intermsofasubsystemofsocietyendedupobscuringeverythingithasincommonwith
+                                                             
+                                                             
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+      1588                         Philosophy and Social Criticism 51(10)
+                                                             
+                                                             
+      approachesthatstartfromthespecificorientationofactiontoarriveatadefinitionofthe
+      political.Ithasbeenmistakenlylinkedtoanexcessiveconcernwithsocialintegrationand
+      themaintenanceofsharedvalues(Bourricaud1981,40).However,acloserlookreveals
+      notonlythatParsons’sanalysisismuchricherandmoredynamicthanitappearsatfirst
+      glance,butalsothathehimselftakesashisstartingpointaquestionverysimilartothatof
+      Giovanni Sartori (1973, 17) and Kari Palonen (2006, 12and 17)about what definesan
+      actionaspolitical.Indeed,accordingtothissociologist(1969,318),politicalactionis‘the
+      aspect of all action concerned with the function of the collective pursuit of collective
+      goals’. The collective nature of the goal pursued, in the sense of being binding on the
+      entire community, distinguishes political action from all other types of social action.
+      Hence,toachievethiscollectivegoal,politicalactionisconcernedwiththeaggregationof
+      resourcesratherthantheoptimaluseofthosealreadyavailable.AccordingtoBertrandde
+      Jouvenel(1992a,70),thisisoneofthecharacteristicsthatdifferentiatesitfromeconomic
+      action. In this sense, the same author argues, political action has a certain priority over
+      economic action: only after gathering ample resources does the question of how to use
+      themarise.Followingthislineofreasoning,Jouvenelaffirmsthattheartofpoliticsis‘the
+      technique for the summation of human energies through the union of wills’.17
+        However, Jouvenel himself (1992b, 255) questions the play metaphor used to un-
+      derstandpolitics.Indeed,everyoneisfreetoplayornot,andiftheydo,tosetlimitsonthe
+      stakes.Onthecontrary,politicsisadynamicinwhichwelackthatfreedom.Indeed,in
+      politics, it may happen that, once the rules have been modified, a newcomer joins the
+      game and raises the stakes, without the old players being able to refuse to continue
+      playing,since,iftheydid,thenewcomerwouldwinbydefault.Thinkerswithdifferent
+      approaches,suchasSeymourMartinLipset(1959)andAdamPrzeworski(1991),agree
+      thatthestabilityofso-calleddemocraticregimesdependsonthestakesbeingsufficiently
+      limited.Accordingtotheformer,thepluralismofsocietyandtheoverlappingloyaltiesto
+      diverse groups prevent political divisions from accumulating; according to the second,
+      alternation in government, separation of powers, and federalism sufficiently lessen the
+      stakesandreducetheintensityofconflicts.However,noneofthisconstitutesanadequate
+      rebuttaltoJouvenel’sobservation.Whenitcomestodecisionsaboutcollectivelybinding
+      objectives, there is no alternative to politics. Therefore, Jouvenel could retort, only
+      rhetoricallycouldonesaythatpoliticsistheonlygameintown.Huizinga’sperspective,
+      however,allowsustoaffirmthattheseriousnessofallthatisatstakeisalwaysnuancedby
+      playful aspects, if those involved recognize each other as contenders fighting for
+      something to which they have a right (Huizinga 1955, 90).
+        Playisnottheonlymetaphorwithwhichweunderstandthepolitical.Palonen(2006,
+      17) argues that, viewed as a sphere or as an activity, the political refers to two distinct
+      dimensions: space and time, respectively. Hence, the political can be conceptualized
+      differentlydependingononemetaphororanother.Palonen’sanalysisservestoavoidthe
+      erroroftakingoneofthesemetaphorsasthecorrectbasisfordeterminingtheconceptof
+      thepolitical. Byrecognizingthispluralmetaphoricalbasis,aswellasthefactthateach
+      metaphor structures our thinking in different directions, we can avoid discussions in
+      which, asLakoffand Johnson (1999, 71)point out,participants assume that ‘a concept
+      must have one and only one logic’.                     
+
+[PAGE 19]
+                                                             
+                                                             
+      Gómez Albarello                               1589     
+                                                             
+                                                             
+                                                             
+        The point is that this metaphorical pluralism makes it impossible to integrate the
+      different manifestations of the political into a single stereoscopic view. The political is,
+      therefore,simultaneouslyanactivityandasphere;inParsons’slanguage,anactionanda
+      system.Althoughpoliticalactionisthemostbasicunitofallanalysis,thisunitycannotbe
+      understood by abstracting the other elements to which it is related. Rather, the set of
+      relationshipsiswhatallowsustounderstandthemeaningofeachaction.Seenfromthe
+      perspective of this set, politics is a system whose function is to establish collectively
+      binding objectives through decision-making. The definition of this function does not
+      implyanypropositionaboutasociety’scapacitytocarryitout,exceptthatifitfailstodo
+      so, the collectivity itself will ultimately dissolve. This inability may be the result of
+      internaldissensionorthevictoryofanexternalenemy.Bothcasescorrespondtoextreme
+      situations,whichfitSchmitt’sdefinitionofthepolitical.Itisworthemphasizing,however,
+      that these extreme situations are far from exhausting the content of the concept.
+        This content is not limited to decision-making. However, this is an element without
+      which politics is unthinkable. No exercise in eidetic variation can refer to a political
+      phenomenon that is not linked, even remotely, to a decision. Rather, if the terms po-
+      liticization and depoliticization refer to the inclusion or exclusion of concerns and de-
+      mandswithinthepoliticalsphere,itisbecauseactionsthatcontestorreaffirmthecurrent
+      normativecodepointtocollectivelybindingdecisions.Ofcourse,theconnectionbetween
+      actions and decisions may not be immediate, as I would like to illustrate below. When
+      CarolHanisch(1970,76)rejectedtheideathattheproblemsexperiencedbyactivistsin
+      the Women’s Liberation Movement were not personal but political and, consequently,
+      demanded ‘collective action for a collective problem’, Hanisch (2006) asserts that she
+      used the term political ‘in the broad sense of the word as having to do with power
+      relationships, not the narrow sense of electorial [sic] politics’. Her purpose was to in-
+      troduce issues such as sex, appearance, abortion, and responsibility for housework and
+      childcare into the political arena. It is clear, however, that much of what was then
+      considered‘personalproblems’isnowthesubjectofpublicpolicyresultingfrompolitical
+      decisions.                                             
+        Nevertheless, while collectively binding decisions belong to the invariant content of
+      whatappearstousaspolitical,theactivityofaffirmingorquestioningthosedecisionsalso
+      belongstothatcontent.Theconnectionbetweendiscursiveactionsandpoliticaldecisions
+      canbemadebydrawingonthetaxonomyofpowerwithwhichBarnetandDuvall(2005,
+      55–7)seektounderstandthesetofphenomenaincludedundertherubricofinternational
+      politics. According to these authors, the discursive practices and knowledge systems
+      throughwhichthesocialboundariesofindividualidentityareestablished,aswellasthe
+      scope of what is considered possible, probable, natural, normal, and what counts as a
+      problem worthy of consideration, configure a specific form of power, which they call
+      productive. In what sense is this discursive production of power linked to collectively
+      bindingdecisionsaboutcollectiveobjectives?Typically,theeffectsofexercisingthistype
+      of power are not apparent until an agent carries out an action that calls into question
+      collectivelyacceptedtacitorexplicitrulesabout,forexample,whetherornotthatagent
+      canchoosewhichseatonthebustositinorwhichbathroomtoenter.Thosewhoreject
+      thatagent’schallengeareactingontheassumptionthattheirindividualdecisionisbacked
+
+[PAGE 20]
+                                                             
+                                                             
+                                                             
+      1590                         Philosophy and Social Criticism 51(10)
+                                                             
+                                                             
+      bythecollectivity,asupportwhichbecomesmanifestintheformofformalorinformal
+      sanctions.Ofcourse,whatisatstakeisnotmerelyaruleaboutwhichseatonecanchoose
+      or which bathroom to enter, but also the discursive power on which those formal or
+      informal sanctions are based. These examples highlight the way in which collectively
+      bindingdecisionsareintertwinedwithdiscursivepracticesthatseektoreproduceawayof
+      being in the world or to call it into question.        
+        The specification of the concept of the political proposed here would apparently
+      overcome the option of grouping the variety that the phenomenon assumes in terms of
+      intersectingandoverlappingcharacteristics,whichwouldbeidentifiableonlyintermsof
+      ‘familyresemblances’.ThisistheconclusionreachedbyHansSluga(2014,3,134–5and
+      169)afterexaminingthemeritsandweaknessesoftheworkofCarlSchmittandHannah
+      Arendt. I beg to differ because, as I have shown in this section, I believe that the so-
+      ciologistTalcottParsonssuccessfullyidentifiedtheinvariantcontentoftheconceptofthe
+      political. It is a pity that many discussions about this concept ignore his contribution.
+      ParaphrasingLudwigWittgenstein(1958,§131),Parsons’sdoesnotfallintodogmatism
+      because it is not a preconceived idea to which reality must conform, but merely a
+      yardstick.ThisismoredifficulttosayaboutJohanHuizinga’smodelofpoliticsasplay.
+      Theveryideaofa‘genocidalpolitics’(Falk2000,173–186)highlightsthatthereareuses
+      of the term that go beyond what this model allows us to consider political.
+      Declaration of conflicting interests                   
+      Theauthor(s)declarednopotentialconflictsofinterestwithrespecttotheresearch,authorship,and/
+      orpublication of thisarticle.                          
+      Funding                                                
+                                                             
+      Theauthor(s)receivednofinancialsupportfortheresearch,authorship,and/orpublicationofthis
+      article                                                
+                                                             
+      ORCID iD                                               
+      JuanGabriel Gómez Albarello https://orcid.org/0000-0001-9097-763X
+                                                             
+      Notes                                                  
+      Iwouldliketothanktwoanonymousreviewersfortheircomments.Theypromptedmetoreview
+      someof my claimsandformulate them in aclearer way.     
+       1. Onthelistofthetoptenbest-sellingbooksinRowanCounty,NorthCarolina,forthelastweek
+         ofSeptember2012,TheConceptofthePoliticalwasrankedeighth,justshyofFiftyShadesof
+         Grey,which wasfourth (The Salisbury Port 2012).     
+       2. Indeed,(1)intheremarkhemakesatthebeginningofhisworkaboutthenegativeuseofthe
+         word political, Schmitt alludes to the antithesis between politics and other ideas, or more
+         properlyspheresofactivity;and(2)inthesecondfootnote,inwhichhereferstothedefinitions
+         ofthepoliticalthatusetheconceptofpowerasthedecisivecriterion,Schmitt(2007,20–1)cites
+         thedefinitionsofpoliticshefoundinWeber.Therearealsopassagesinwhichonecanreplace
+                                                             
+                                                             
+                                                             
+
+[PAGE 21]
+                                                             
+                                                             
+      Gómez Albarello                               1591     
+                                                             
+                                                             
+                                                             
+         the ‘political’ with ‘politics’ without altering its meaning, as George Schwab did when he
+         translated the lastsentenceof the third sectioninto English (2007, 37).
+       3. Noack (1993, 41–2) reports that Schmitt attended all of Weber’s public lectures during the
+         wintersemesterof1919/1920,aswellastheseminarforyoungandoldcolleagues.Weber’s
+         influenceonSchmittisnotlimitedtohisadoptionoftheconceptofvaluespheres.AsIwill
+         show later, pace Engelbrekt (2009), it also extends to his methodological stance and to his
+         reception of the metaphorical language of war and enmity present in the works of Bryce,
+         Ostrogorski, andMichels.                            
+       4. Sluga(2014,121)arguesthatSchmittborrowedtheideaofindependentspheresofvaluefrom
+         Kierkegaard.‘Totheaesthetic,theethical,andthereligiousinKierkegaard’scase,[Schmitt]
+         opposed a distinction between the aesthetic, the moral, the economic, and the political’.
+         AlthoughtheDanishthinker’sinfluenceonSchmittwasdecisiveinhisexistentialistturnand
+         hisconceptualizationoftheexception,theallusionstotensionsbetweenthedifferentspheresin
+         TheConcept ofthe Political directly evokethe same themein Weber,not in Kierkegaard.
+       5. In a paragraph from the second section, which appears in both the 1927 and 1932 editions,
+         Schmitt(2018,76) states,‘Das Politischemußdeshalb ineigenenletztenUnterscheidungen
+         liegen,aufdieallesimspezifischenSinnepolitischeHandelnzurückgeführtwerdenkann.(…)
+         Die spezifisch politische Unterscheidung, auf welche sich die politischen Handlungen und
+         Motivezurückführenlassen,istdieUnterscheidungvonFreundundFeind’.“Thepoliticalmust
+         thereforerestonitsownultimatedistinctions,towhichallactionwithaspecificallypolitical
+         meaning can be traced. (…) The specific political distinction to which political actions and
+         motives can be reduced is that between friend and enemy” (Schmitt 2007, 26)] (Emphasis
+         mine).ThetwopropositionscitedherearereminiscentoftheHusserlianapproach,‘Wemustgo
+         backtothethingsthemselves’![‘wirwollenaufdie“Sachenselbst”zurückgehen’](Husserl
+         2001, 252).                                         
+       6. Itshouldberememberedthat,accordingtoHusserl(2001,343),phenomenologyisatheoryof
+         essences.                                           
+       7. SchmittwasawareofthedebateoverWeber’smethodologicalstance.Indeed,thefirstvolume
+         inhomagetoWeber,editedbyMelchiorPalyi(1923),includesfourchaptersonthetopicby
+         Werner Sombart, Franz Eulenburg, Hermann Kantorowicz, and Friedrich von Gottl-Ot-
+         tlilienfeld; the second volume includes Schmitt’s chapter ‘Soziologie des Sou-
+         vera¨nita¨tsbegriffes und politische Theologie’ [Sociology of the Concept of Sovereignty and
+         Political Theology].                                
+       8. Schmitt (2014a, 3) mentions the Discorsi in passing in his book The Dictatorship. On the
+         followingpage,heincludesanItalianquotationfromchapter33ofThePrince.However,one
+         maywonderwhetherSchmittreadtheformerworkjudiciously,sincethearticlehepublishedin
+         1927, on the occasion of the four hundredth anniversary of Machiavelli’s death (Schmitt
+         2014b),doesnotgiveanyimportancetotherepublicandimensionoftheFlorentinethinker’s
+         work. It is possible that Schmitt did not find the expression vivere politico relevant for his
+         analysis, since Friedrich von Oppeln-Bronikowski’s German translation of the Discorsi
+         (Machiavelli 1922,20, 22,34, 61,110–1 and122)doesnot adequatelyreflect it.
+       9. ConstanttookthisideafromthelasttwochaptersofSimondedeSismondi’s(1826,353–460)
+         History of the Italian Republics in the Middle Ages, in which the Swiss historian associates
+         culturalsplendorinItalywiththeenjoymentofpoliticalfreedom;itsdeclinewithitsloss.In
+
+[PAGE 22]
+                                                             
+                                                             
+                                                             
+      1592                         Philosophy and Social Criticism 51(10)
+                                                             
+                                                             
+         contrast to Constant, Jacques Ellul (1967) questions the hyperpoliticization of his era as a
+         distortion of humanity’s ideals.                    
+      10. MontesquieuquotesapassagefromJustin’sHistory(1664,91)insupportofhisthesis,which
+         hasmoretodowiththedemoralizingeffectofthelossofanexemplaryleaderthanwiththatof
+         fear as a unifying factor. More appropriate would have been the passage from Diodorus of
+         Sicily’s Bibliotheca Historica (1967, 129, Books XXXIV/XXXV, 33, 4–6) in which this
+         historianreportstheopinionofthepatricianNasicathatCarthageshouldexistforeverbecause
+         fear of this enemy city compelled the Romans to live together in harmony and govern
+         themselvesequitably.Onthecontrary,oncedestroyed,Romewoulddescendintocivilwar.In
+         The City of God, Augustine of Hipo (1999, 45, Book I, chap. XXX) alludes to the same
+         reflectionofNasicatoquestiontheidealizationoftheancientRomanrepubliccarriedoutby
+         some of hiscontemporaries.                          
+      11. ItisalsoinaccordancewiththevisionofHobbes(1996,84),onwhosedecisionismSchmittrelies.
+         Indeed,accordingtotheEnglishthinker,‘thenatureofwar,consistethnotinactualfighting;butin
+         theknowndispositionthereto,duringallthetimethereisnoassurancetothecontrary’.
+      12. Onthefollowingpage,Michelshighlightstheclosesimilaritybetweenamilitantpoliticalparty
+         and a military organization, and underlines the way in which socialist parties, especially in
+         Germany, borrowed their terminology from military science. To illustrate this phenomenon,
+         MichelsquotesatlengthfromanarticlebyKarlKautskyinwhichhecriticizesFabianstrategy
+         using military metaphors.                           
+      13. TheOxfordEnglishDictionaryquotesapiecefromtheVirginiaHerald,fromFredericksburg,
+         of1826astheearliestoccurrenceofthisexpression(SimpsonandWeiner1989,Volume14,
+         251). There is an earlier one: an article by A. Logan (1818) in the Cleveland Register
+         (Cleveland, Ohio). The first politicians to campaign were candidates for statewide office, as
+         well as congressional candidates. Until the late nineteenth century, presidential candidates
+         considereditbeneaththeirdignityto‘runforoffice’.Sincethen,ithasbeencommontosee
+         them campaigning (Ellis andDedrick1997).            
+      14. HannahArendt(2005,102)arguesthatthecapacitytodifferentiatethenew,forwhichwehave
+         nopriorcriteria,isthedistinctivecharacteristicofpoliticaljudgment.Arendt,however,ismuch
+         closertoLevinasandmuchfurtherfromSchmittthanitseemsatfirstglance.Byindicatingthat
+         the capacity to judge corresponds to the ‘enlarged mentality’, understood as the capacity to
+         ‘thinkfromthepositionofeveryotherperson’,Arendt(2005,168)introducesacriterionthat
+         demands,inLevinas’slanguage,opennesstothecalloftheOther.Henceherapproach(Arendt
+         1968,242)accordingtowhich‘theveryqualityofanopinion,asofajudgment,dependsupon
+         the degreeof itsimpartiality’.                      
+      15. Palonen(2014,262–284)givesadetailedaccountoftheintricaciesoftheplaymetaphorasa
+         model of political activity,including thatof outplaying one’s ownadversaries.
+      16. InGuyRocher’s(1974,88)successfulsynthesisofParsons’contribution,thepoliticalsystem
+         (polity)‘includesallformsofdecision-makingandmobilizationofhumanresourcestoachieve
+         anyobjective defined (moreor less explicitly) andpursued byagiven collectivity’.
+      17. Acorollaryoftheabovepropositionisthat‘thoseonlyreceivethetitleofgrandspolitiques,
+         whohavefounded,extended,andconsolidatedaggregatesofmen;morecharacteristicallystill,
+         thoseonlyreceivethetitleoflespolitiques,who,intimesoftrouble,havemadeittheiressential
+         preoccupation tomaintain anaggregatein being’ (Jouvenel1992a, 72).
+
+[PAGE 23]
+                                                             
+                                                             
+      Gómez Albarello                               1593     
+                                                             
+                                                             
+                                                             
+      References                                             
+      Abensour, Miguel. 1998. Le contre-Hobbes d’Emmanuel Le´vinas. In: Jean Halpe´rin, Nelly
+         Hansson, et al. (eds) Difficile Justice: Dans le Trace d’Emmanuel Le´vinas. Paris: Albin
+         Michel,120–132.                                     
+      Appian.1964.RomanHistory.VolumeIII:TheCivilWars,translatedbyHoraceWhite.Harvard
+         University Press.                                   
+      Arendt, Hannah. 1968. “Truth and Politics.” In Between Past and Future: Eight Exercises in
+         Political Thought,227–264. Viking Press.            
+      Arendt, Hannah.1970. OnViolence. Harcourt, Brace &World.
+      Arendt,Hannah.2005.“IntroductionintoPolitics.”InThePromiseofPolitics,translatedbyJohn
+         E. Woods, 93–200.Schocken Books.                    
+      Aristotle. 2009.Politics, TranslatedbyErnest Barker.Oxford University Press.
+      Augustine. 1999. The City of God Against the Pagans, edited and translated by R. W. Dyson.
+         CambridgeUniversity Press.                          
+      Bailey,F.G.2001.Treasons,StratagemsandSpoils:HowLeadersMakePracticalUseofBeliefs
+         andValues.WestviewPress.                            
+      Barnett, Michael, Raymond Duvall, et al. 2005. Power in International Politics. International
+         Organization 59(1): 39–75.doi: 10.1017/S0020818305050010
+      Blythe,JamesN.1992.IdealGovernmentandtheMixedConstitutionintheMiddleAges.Princeton
+         University Press.                                   
+      Bourricaud, François. 1981. The Sociology of Talcott Parsons. Chicago: University of Chicago
+         Press.                                              
+      Bryce,James.1895. TheAmerican Commonwealth,Vol.II. 3rd ed.Macmillan andCo.
+      Conrad, Burkhard. 2008. “Kierkegaard’s Moment: Carl Schmitt and his Rhetorical Concept of
+         Decision.”Redescriptions:PoliticalThought,ConceptualHistoryandFeministTheory12,no.
+         1:145–171.                                          
+      Constant,Benjamin.1988.“TheLibertyoftheAncientsComparedwiththatoftheModerns.”In
+         PoliticalWritings,translatedbyBiancamariaFontana.309–328.CambridgeUniversityPress.
+      Curtis,GeorgeW.1893,OrationsandAddressesofGeorgeWilliamCurtiseditedbyCharlesE.
+         Norton, Vol.II.Harper & Brothers.                   
+      DeVugt,Geertjian.2017.PhiliaandNeikos:Huizinga’s“Auseinandersetzung”withCarlSchmitt.
+         WorldLiteratureStudies 9(1): 48–59.                 
+      Debray,Re´gis. 1981.Critique dela raisonpolitique.Gallimard.
+      Diodorus of Sicily. 1967. Diodorus of Sicily in Twelve Volumes. Vol.12: Fragments of Books
+         XXXIII– XL,translated byFrancisR. Walton.Harvard University Press.
+      Ellis,Richard,andMarkDedrick.1997.“ThePresidentialCandidate,ThenandNow.”Perspectives
+         onPoliticalScience 26,no.4: 208–16.                 
+      Ellul,Jacques. 1967.ThePolitical Illusion.Knopf.       
+      Engelbrekt, Kjell. 2009. “What Carl Schmitt Picked up in Weber’s Seminar: A Historical Con-
+         troversy Revisited.”TheEuropean Legacy14, no.6: 667–684.
+      Falk, Richard A. 2000. Human Rights Horizons: The Pursuit of Justice in a Globalizing World.
+         Routledge.                                          
+      Flower,Harriet I. 2009.RomanRepublics.Oxford University Press.
+                                                             
+
+[PAGE 24]
+                                                             
+                                                             
+                                                             
+      1594                         Philosophy and Social Criticism 51(10)
+                                                             
+                                                             
+      Foulke, William D. 1919. Fighting the Spoilsmen: Reminiscences of the Civil Service Reform
+         Movement.G.P.Putnam’s Sons.                         
+      Freyer, Hans.1926.Der Staat.ErnstWiegandt.             
+      Gallagher,Shaun,andDanZahavi.2021. ThePhenomenological Mind.Routledge.
+      Galli,Carlo.1996.Genealogiadellapol´ıtica:CarlSchmittelacrisidelpensieropol´ıticomoderno.
+         IlMulino.                                           
+      Garc´ıaMa´rquez,Gabriel. 1971.OneHundredYearsofSolitude,translatedbyGregoryRabassa.
+         AvonBooks.                                          
+      Gentile,Alberigo. 1877. DelDiritto diGuerra, translatedbyAntonioFiorini. FrancVigo.
+      Hanisch, Carol. 1970. “The Personal is Political.” In Notes from the Second Year: Women’s
+         Liberation,edited byShulamith Firestone andAnne Koedt, 76–78.Duke University.
+      Hanisch,Carol.2006.“ThePersonalisPolitical:TheWomen’sLiberationMovementClassicwitha
+         New Explanatory Introduction.” January. Accessed March 19, 2025. https://www.
+         carolhanisch.org/CHwritings/PIP.html                
+      Heller, Hermann. 2000. “Political Democracy and Social Homogeneity.” Translated by David
+         Dyzenhaus.”InWeimar:AJurisprudenceofCrisis,editedbyArthurJacobsonandBernhard
+         Schlink,256–264.University of California Press.     
+      Hobbes,Thomas. 1996.Leviathan,edited byJ.C.A.Gaskin. Oxford University Press.
+      Huizinga,JohanH.1955.HomoLudens:AStudyofthePlay-ElementinCulture.BeaconPress.
+      Huizinga, Johan. 2023. Homo Ludens: Versuch einer Bestimmung des Spielelements der Kultur,
+         translated byAnnetteWunschel. Brill Fink.           
+      Husserl,Edmund.2001.LogicalInvestigations,translatedbyJ.N.Findlay,Vol.II.TheHumanities
+         Press.                                              
+      Jay,Martin. 2010. TheVirtues ofMendacity: On Lying inPolitics. University of VirginiaPress.
+      Jouvenel,Bertrandde.1992a.“TheNatureofPolitics.”InTheNatureofPolitics,editedbyDennis
+         HaleandMarc Landy,67–83.Transaction Publishers.     
+      Jouvenel, Bertrand de. 1992b. “The Manners of Politics.” In The Nature of Politics, edited by
+         DennisHale andMarcLandy,67–83. Transaction Publishers.
+      Justin.1664. TheHistory of Justin,translated byRobertCodrington. W.Gilbertson.
+      Kennedy,Ellen. 2004.Constitutional Failure: Carl Schmitt in Weimar.Duke University Press.
+      Kierkegaard,Søren.1983.FearandTrembling.TheRepetition,translatedbyHowardV.Hongy
+         EdnaH.Hong.Princeton University Press.              
+      Kircher,Rudolf. 1928.FairPlay: TheGamesof MerrieEngland.W. CollinsSons& Co, Ltd.
+      Lakoff,George,andMarkJohnson.1999.PhilosophyintheFlesh:TheEmbodiedMind andits
+         Challengeto Western Thought.Basic Books.            
+      Levinas,Emmanuel.1985.EthicsandInfinity:ConversationswithPhilippeNemo,translatedby
+         RichardCohen.Duquesne University Press.             
+      Levinas,Emmanuel.1986.TheTraceoftheOther,translatedbyA.Lingis,InDeconstructionin
+         Context, editedbyMarkTaylor,345–359.University of Chicago Press.
+      Levinas, Emmanuel. 1989. “Ethics as First Philosophy.” In The Levinas Reader, edited by Sea´n
+         Hand,76–87.Basil Blackwell.                         
+      Lewis,DavidG.2020.RussianNewAuthoritarianism:PutinandthePoliticsofOrder.Edinburgh
+         University Press.                                   
+                                                             
+
+[PAGE 25]
+                                                             
+                                                             
+      Gómez Albarello                               1595     
+                                                             
+                                                             
+                                                             
+      Lipset,SeymourMartin.1959.“SomeSocialRequisitesofDemocracy:EconomicDevelopment
+         andPoliticalLegitimacy.”American PoliticalScience Review 53,no. 1:69–105.
+      Logan,A.1818.“Tuesday, October20, 1818.”Cleveland Register; October 20.
+      Lo¨with, Karl. 1984. “Der okkasionelle Dezisionismus von Carl Schmitt.” In Sa¨mliche Schtiften.
+         Band8: Heidegger – Denker indürftiger Zeit,32–71. Metzler.
+      Macaulay,ThomasB.1861.TheHistoryofEnglandfromtheAccessionofJamestheSecond,Vol.
+         II.E.H.Butler.                                      
+      Machiavelli, Niccolo`. 1906. The Florentine History, translated by Ninian H. Thompson, Vol. I.
+         ArchibaldConstable andCo.                           
+      Machiavelli,Nicollo.1922.Discorsi:PolitischeBetrachtungenüberdiealteunddieitalienische
+         Geschichte,übersetzungvonFriedrichvonOppeln-Bronikowski.VerlagvonReimarHobbing.
+      Machiavelli, Niccolo`. 1996. Discourses on Livy, translated by Harvey C. Mansfield and Nathan
+         Tarcov.University ofChicago Press.                  
+      Marcuse,Herbert.1968.“TheStruggleAgainstLiberalismintheTotalitarianViewoftheState.”
+         translatedbyJeremyJ.ShapiroInNegations:EssaysinCriticalTheory,3–42.BeaconPress.
+      McIntosh, Donald. 1997. “Husserl, Weber, Freud, and the Method of the Human Sciences.”
+         Philosophyof the SocialSciences 27,no.3: 328–353.   
+      Meier,Heinrich.1995CarlSchmitt&LeoStrauss:TheHiddenDialogue,translatedbyJ.Harvey
+         Lomax.University of ChicagoPress.                   
+      Michels,Robert. 1914.Problemeder Sozialphilosophie.B.G. Teubner.
+      Michels,Robert.1915.PoliticalParties:ASociologicalStudyoftheOligarchicalTendenciesof
+         ModernDemocracy,translated byEden &Cedar Paul. Heart’s International Library.
+      Minghetti,Marco.1881.Ipartitipoliticielaingerenzaloronellagiustiziaenell’amministrazione.
+         NicolaZanichelli.                                   
+      Mommsen, Wolfgang J. 1987. “Robert Michels and Max Weber: Moral Conviction versus the
+         Politics of Responsibility.” In Max Weber and his Contemporaries, edited by Wolfgang J.
+         Mommsen andJürgenOsterhammel, 121–138. Unwin Hyman. 
+      Montesquieu.1989.TheSpiritoftheLaws,translatedAnneM.Cohler,BasiaC.Miller,andHarold
+         S.Stone. Cambridge University Press.                
+      Mouffe, Chantal.1993. TheReturnof the Political.Verso. 
+      Mouffe, Chantal.2005. Onthe Political.Routledge.       
+      Müller,Jan-Werner.2003.ADangerousMind:CarlSchmittinPost-WarEuropeanThought.Yale
+         University Press.                                   
+      Muse,KennethR.1981.“EdmundHusserl’sImpactonMaxWeber.”SociologicalInquiry51,no.2:
+         99–104.                                             
+      Noack,Paul. 1993.Carl Schmitt: EineBiographie.Propyla¨en.
+      Ostrogorski, Moisei. 1903. La De´mocratie et l’Organisation des Partis Politiques. Tome I et II.
+         Calmann-Le´vy.                                      
+      Ostrogorski,Moisei.1910.DemocracyandthePartySystemintheUnitedStates:AStudyinExtra-
+         Constitutional Government.Macmillan andCo.          
+      Palonen, Kari. 1998. Das ‘Webersche Moment’: Zur Kontingenz des Politischen. VS Verlag für
+         Sozialwissenschaften.                               
+      Palonen, Kari. 2006. “Two Concepts of Politics.” Distinktion: Scandinavian Journal of Social
+         Theory7, no.1: 11–25.                               
+
+[PAGE 26]
+                                                             
+                                                             
+                                                             
+      1596                         Philosophy and Social Criticism 51(10)
+                                                             
+                                                             
+      Palonen,Kari.2007.“PoliticsorthePolitical?AnHistoricalPerspectiveonaContemporaryNon-
+         Debate.”EuropeanPolitical Science6,no. 1:69–78.     
+      Palonen,Kari.2014.TheStrugglewithTime:AConceptualHistoryof‘Politics’asanActivity.LIT
+         Verlag.                                             
+      Palyi,Melchior.1923.HauptproblemederSoziologie:ErinnerungsgabefürMaxWeber,BandIund
+         II.Duncker & Humblot.                               
+      Poliakoff,Michael.1987.CombatSportsintheAncientWorld:Competition,Violence,andCulture.
+         Yale University Press.                              
+      Przeworski,Adam.1991.DemocracyandtheMarket:PoliticalandEconomicReformsinEastern
+         EuropeandLatin America.CambridgeUniversity Press.   
+      Rocher,Guy.1974.TalcottParsonsandAmericanSociology,translatedbyStephenandBarbara
+         Mennell.Thomas NelsonandSons.                       
+      Rubinstein,Nicolai.1992.“TheHistoryoftheWordPoliticusinEarlyModernEurope.”InThe
+         LanguagesofPoliticalTheoryinEarly-ModernEurope,editedbyAnthonyPagden,41–56.
+         CambridgeUniversity Press.                          
+      Rydin,Thor.2024.TheWorksandTimesofJohanHuizinga(1872-1945):WritingHistoryinthe
+         Ageof Collapse. Amsterdam: Amsterdam University Press.
+      Sartori,Giovanni. 1973. “Whatis‘Politics’.”PoliticalTheory 1,no.1: 5–26.
+      Sartori, Giovanni. 1989. “The Essence of the Political in Carl Schmitt.” Journal of Theoretical
+         Politics 1,no.1: 63–75.                             
+      Schmitt,Carl.1940a.“TotalerFeind,totalerKrieg,totalerStaat.”InPositionenundBegriffe:Im
+         Kampf mit Weimar-Genf-Versailles 1923-1939, 235–239.Hanseatische Verlagsanstalt.
+      Schmitt,Carl.1940b.“Neutralita¨tundNeutralisierungen.”InPositionenundBegriffe:imKampf
+         mit Weimar-Genf-Versailles1923-1939,271–275. Hanseatische Verlagsanstalt.
+      Schmitt,Carl.1985.TheCrisisofParliamentaryDemocracy,translatedbyEllenKennedy.MIT
+         Press.                                              
+      Schmitt, Carl. 2003. The Nomos of the Earth in the International Law of the Jus Publicum Eu-
+         ropaeum.NewYork: Telos.                             
+      Schmitt,Carl.2005.PoliticalTheology:FourConceptsontheConceptofSovereignty,translatedby
+         GeorgeSchwab. ChicagoUniversity Press.              
+      Schmitt,Carl.2007.TheConceptofthePolitical,translatedbyGeorgeSchwab.ExpandedEdition.
+         ChicagoUniversity Press.                            
+      Schmitt, Carl. 2008. Constitutional Theory. translated and edited by Jeffrey Seitzer. Duke Uni-
+         versity Press.                                      
+      Schmitt,Carl.2014a.Dictatorship:FromtheBeginningoftheModernConceptofSovereigntyto
+         the Proletarian Class-Struggle,translated byMichael HoelzlandGraham Ward.Polity.
+      Schmitt, Carl.2014b. Machiavelli, traduzione di GiuseppeCospito.IlMelangolo.
+      Schmitt, Carl.2017. ExCaptivitate Salus: Experiences,1945-1947.Cambridge: Polity.
+      Schmitt,Carl.2018.DerBegriffdesPolitischen.SynoptischeDarstellung derTexte.Duncker &
+         Humblot.                                            
+      Schopenhauer,Arthur.1917. SchopenhauersAphorismen zur Lebensweisheit.Insel-Verlag.
+      Schurz,Carl.1913.“Speeches.”InCorrespondenceandPoliticalPapersofCarlSchurz,editedby
+         FredericBancroft, Vol. V. G.P. Putnam’sSons.        
+                                                             
+
+[PAGE 27]
+                                                             
+                                                             
+      Gómez Albarello                               1597     
+                                                             
+                                                             
+                                                             
+      Schütz,Alfred.1945.“OnMultipleRealities.”PhilosophyandPhenomenologicalResearch5,no.
+         4:533–576.                                          
+      Searle,John.1969.SpeechActs:AnEssayinthePhilosophyofLanguage.CambridgeUniversity
+         Press.                                              
+      Segre,Sandro.2004.“UnderstandingLivedExperience:MaxWeber’sIntellectualRelationshipto
+         Simmel, Husserl, James,Starbuck, andJaspers.”MaxWeberStudies 4,no.1: 77–99.
+      Simmel, Georg.1955. Conflict,translated byKurtH.Wolff, Glencoe,Il.Free Press.
+      Simpson, John, and Edmund Weiner. 1989. The Oxford English Dictionary, Volume XIV Rob-
+         Sequyle. ClarendonPress.                            
+                                             ˆ               
+      Sismondi,Simondede.1826.HistoiredesRe´publiquesItaliennesduMoyenAge.TomeSeizième.
+         ChezTreuttel etWürtz.                               
+      Sluga,Hans.2014.PoliticsandtheSearchfortheCommonGood.CambridgeUniversityPress.
+      Spengler, Oswald.1933. JahreDerEntscheidung.C.H. Beck’scheVerlagsbuchhandlung.
+      Sperber,Hans,TravisTrittschuh,etal.1962.AmericanPoliticalTerms:AnHistoricalDictionary.
+         Detroit: WayneState University Press.               
+      Steel, Catherine. 2023. “From inimici to hostes: Internal Conflict in the Oratory of the Roman
+         Republic, 133–88 BCE.” In A Culture of Civil War? Bellum Civile and Political Commu-
+         nication in Late Republican Rome, edited by Henning Bo¨rm, Ulrich Gotter, and Wolfgang
+         Havener, 327–341.Franz Steiner Verlag.              
+      Sternberger, Dolf. 1983. “Das Wort “Politik” und der Begriff des Politischen.” Politische Vier-
+         teljahresschrift 24,no. 1:6–14.                     
+      Szabó,Ma´rton.2006.“PoliticsVersusthePolitical:Interpreting’dasPolitische’inCarlSchmitt.”
+         Distinktion: ScandinavianJournal ofSocial Theory 12,no.5: 27–42.
+      TheSalisbury Port. 2012.“RowanBestsellers.”TheSalisbury Port; September23.
+      Thiel, Peter. 2007. “The Straussian Moment.” In Politics and Apocalypse, edited by Robert
+         Hamerton-Kelly, 189–218.Michigan State University Press.
+      Viroli, Maurizio. 1992. “The Revolution in the Concept of Politics.” Political Theory 20, no. 3:
+         473–495.                                            
+      Vivien,Alexandre-François.1859.E´tudesAdministratives,TomePremier.LibrairiedeGuillaumin
+         &Cie.                                               
+      Weber,Max.1948a.“PoliticsasaVocation.”InFromMaxWeber:EssaysinSociology,editedbyH.
+         GerthandC. Wright Mills, 77–128.Oxford University Press.
+      Weber,Max.1948b.“ScienceasaVocation.”InFromMaxWeber:EssaysinSociology,editedbyH.
+         GerthandC. Wright Mills, 129–156.Oxford University Press.
+      Weber,Max.1948c.“ReligiousRejectionsoftheWorldandTheirDirections.”InFromMaxWeber:
+         Essays in Sociology, edited by H. Gerth and C. Wright Mills, 323–359. Oxford University
+         Press.                                              
+      Weber,Max. 1972.“Georg Simmel as Sociologist.”Social Research39,no.1: 158–163.
+      Wenger,DavidR.2004.“DerGrunddesPolitischenbeiCarlSchmitt.”DerStaat43,no.1:83–120.
+      Wittgenstein, Ludwig.1958. Philosophical Investigations.NewYork: Macmillan.
+      Xie, Libin, and Haig Patapan. 2020. “Schmitt Fever: The Use and Abuse of Carl Schmitt in
+         ContemporaryChina.”International Journal of Constitutional Law18, no.1: 130–146.
+      Zheng,Qi.2012. “Carl Schmitt inChina.”Telos160: 29–52. 

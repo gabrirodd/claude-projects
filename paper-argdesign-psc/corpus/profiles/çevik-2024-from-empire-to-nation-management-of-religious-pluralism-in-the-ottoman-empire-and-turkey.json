@@ -1,0 +1,74 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "cevik_2024",
+  "title": "From Empire to Nation: Management of Religious Pluralism in the Ottoman Empire and Turkey",
+  "author": "Çevik",
+  "year": 2024,
+  "journal": "Philosophy and Social Criticism",
+
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "Opens from the puzzle of post-Cold War nostalgia for empires as managers of pluralism: as nation-states have failed to manage ethnic and religious diversity, scholars have revisited empires — especially the Ottoman Empire — as models of tolerance. The paper diagnoses a specific historical puzzle: how did the Ottoman Empire, traditionally more pluralistic than Turkey, transition to a less tolerant secular republic?",
+    "anchored_in": ["Eisenstadt", "Doyle", "Barkey"],
+    "stakes_claimed": "The Ottoman modernization reforms of the 19th century transformed the empire into a more nation-state-like structure, making religious pluralism harder to sustain and producing the homogenizing nationalism that led to the exclusion of religious minorities and was inherited by the Turkish Republic — which became less tolerant than the Islamic empire it replaced."
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["optimistic post-Cold War empire literature (Barkey, Maier)", "nationalist Turkish historiography", "liberal multiculturalism as model for post-Ottoman states"],
+    "engagement_structure": "historical_case_analysis",
+    "immanent_critique": false,
+    "own_position_type": "historical_diagnosis",
+    "own_position_explicit": true,
+    "description": "The paper provides a historical-analytical argument about the Ottoman/Turkish transition, framed theoretically through the empire vs. nation-state contrast (indirect rule, plurality, autonomy vs. direct rule, uniformity, homogenization). It traces the millet system's evolution from pluralistic autonomy to contested homogenizing pressure, arguing that modernization (centralization, Tanzimat reforms) made the empire more nation-state-like and less tolerant, a process completed by the Republic."
+  },
+
+  "epistemic_mode": {
+    "primary": "primarily_empirical_qualitative",
+    "secondary": null,
+    "empirical_evidence_present": true,
+    "empirical_evidence_role": "constitutive",
+    "quantitative_methods": null,
+    "qualitative_methods": "Historical analysis: examination of Ottoman millet system from 19th century through Republic of Turkey; Tanzimat reform period; treatment of religious minorities (Greeks, Armenians, Jews) across historical periods; analysis of political decision-making in Ottoman and Republican contexts. Uses comparative empire studies methodology.",
+    "data_sources": ["Ottoman historical sources and secondary Ottoman historiography", "Turkish Republican period sources", "Millet system documentation", "Barkey, Lieven, Maier, Kumar on empire comparative literature"],
+    "interpretive_methods": "Comparative historical analysis: uses conceptual frameworks from empire studies (Eisenstadt, Doyle, Barkey) to analyze Ottoman/Turkish historical trajectory. Draws conclusions about the structural relationship between modernization, nationalism, and minority exclusion.",
+    "notes": "This paper is primarily_empirical_qualitative: the argument is primarily historical-comparative, with the normative implications (about tolerance and pluralism) derived from the historical analysis. The normative stake is present (the conclusion implies lessons about empire/nation-state and pluralism management) but is secondary to the historical argument. This is the most historically empirical paper in the PSC corpus alongside fourie_2022 and miyake_2021. The short length (about 11 pages) suggests a conference proceedings format."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "historical_event",
+    "case_name": "Ottoman Empire to Turkish Republic transition — millet system and religious pluralism",
+    "case_function": "constitutive",
+    "case_relation_to_argument": "evidential_basis",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "medium",
+    "domain": "empire studies / religious pluralism / Ottoman/Turkish history / nationalism",
+    "claim_type": "historical_diagnostic",
+    "closure_type": "conclusion_open"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "framework_proposal",
+    "case_introduction",
+    "case_development",
+    "normative_derivation",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["millet system", "empire vs. nation-state contrast", "indirect rule and pluralism", "Ottoman modernization", "Tanzimat reforms", "homogenizing nationalism", "religious minority exclusion"],
+
+  "thinkers_deployed": {
+    "central": ["Barkey", "Maier", "Eisenstadt"],
+    "engaged_critically": ["optimistic empire literature", "nationalist historiography"],
+    "referenced_only": ["Doyle", "Kumar", "Lieven", "Motyl", "Comisso"]
+  },
+
+  "confidence_notes": "Classified primarily_empirical_qualitative because the paper's primary mode is historical-comparative analysis, with normative conclusions following from historical findings. The normative stake is present but medium: the paper implies lessons about pluralism management but doesn't develop a prescriptive political theory. This distinguishes it from fully_normative papers (where the historical material is used as philosophical resource) and from normative_with_qualitative_empirical papers (where empirical evidence supports a prior normative framework). Here the historical analysis is primary. Conference proceedings origin (Dublin Seminars 2023) explains the shorter length and less elaborate theoretical framing."
+}

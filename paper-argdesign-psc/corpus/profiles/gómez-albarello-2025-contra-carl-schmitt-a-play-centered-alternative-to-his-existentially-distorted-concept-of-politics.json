@@ -1,0 +1,63 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "gomez_albarello_2025",
+  "title": "Contra Carl Schmitt: A Play-Centered Alternative to his Existentially Distorted Concept of Politics",
+  "author": "Gómez Albarello",
+  "year": 2025,
+  "journal": "Philosophy and Social Criticism",
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "Schmitt's conceptualization of the political as the friend-enemy distinction has attained notorious influence, but this analysis rests on biased and skewed phenomenological analysis. The paper diagnoses Schmitt's framework as an existentialist distortion of modern political experience through the metaphors of enmity and war.",
+    "anchored_in": ["Schmitt (The Concept of the Political)"],
+    "stakes_claimed": "A play-centered alternative concept of politics — derived from Huizinga's homo ludens framework — provides a more adequate and less distorted account of the political, where politics is norm-bounded competition rather than existential enmity."
+  },
+  "theoretical_positioning": {
+    "rivals_engaged": ["Schmitt's friend-enemy distinction", "existentialist readings of politics"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": true,
+    "own_position_type": "synthesis",
+    "own_position_explicit": true,
+    "description": "The paper performs immanent critique of Schmitt's concept: his friend-enemy distinction misreads conflict, social cohesion, and political activity; his existentialist distortion ignores metaphors derived from sports competition (which Schmitt's predecessors also used). Drawing on Huizinga's play theory, the paper proposes a norm-bounded concept of politics as an alternative."
+  },
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "Close reading of Schmitt's Concept of the Political; engagement with Huizinga's Homo Ludens; conceptual analysis of political metaphors.",
+    "notes": "Fully normative: immanent critique of Schmitt followed by Huizinga-based alternative. The phenomenological reading of political experience is conceptual analysis, not empirical."
+  },
+  "case_type": {
+    "has_case": false,
+    "case_medium": "none",
+    "case_name": null,
+    "case_function": null,
+    "case_relation_to_argument": null,
+    "case_selection_justified": false
+  },
+  "normative_stake": {
+    "level": "high",
+    "domain": "political philosophy / theory of politics / Schmitt / play",
+    "claim_type": "reconstructive_prescriptive",
+    "closure_type": "conclusion_strong"
+  },
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "immanent_critique",
+    "framework_proposal",
+    "normative_derivation",
+    "conclusion_strong"
+  ],
+  "reflexive_move": false,
+  "key_concepts": ["friend-enemy distinction", "existentialist distortion", "play", "norm-bounded politics", "metaphors of enmity", "homo ludens", "rule-governed competition"],
+  "thinkers_deployed": {
+    "central": ["Schmitt", "Huizinga"],
+    "engaged_critically": ["Schmitt"],
+    "referenced_only": ["Hobbes", "Hegel", "Mouffe", "Agamben"]
+  },
+  "confidence_notes": "Type 2a (dialectical synthesis): single rival (Schmitt) subjected to immanent critique, Huizinga-based alternative proposed. Strong conclusion. Classic PSC political philosophy paper."
+}

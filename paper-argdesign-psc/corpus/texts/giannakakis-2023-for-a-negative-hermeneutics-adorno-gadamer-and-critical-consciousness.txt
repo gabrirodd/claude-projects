@@ -1,0 +1,1559 @@
+[PAGE 1]
+                                                             
+                                                             
+                                                             
+                                                             
+      Article                                                
+                                                             
+                                         PhilosophyandSocialCriticism
+                                         2025,Vol.51(3)410–439
+      For  a Negative Hermeneutics:                          
+                                         ©TheAuthor(s)2023   
+      Adorno,  Gadamer    and Critical                       
+                                         Articlereuseguidelines:
+      Consciousness                      sagepub.com/journals-permissions
+                                         DOI:10.1177/01914537231176460
+                                         journals.sagepub.com/home/psc
+      Vangelis Giannakakis                                  
+      Goethe-Universita¨tFrankfurtamMain,Germany             
+                                                             
+      Abstract                                               
+      The present social-historical moment is marked by a sharp divide, a harrowing ‘com-
+      munication breakdown’ between subject and object, between humanity and nature,
+      between humanity and itself. This state of affairs pleads for the (re-)elaboration of a
+      consciousnessthatresonatescriticallywiththesocial,politicalandculturalrealitiesofits
+      time.Thispaperstudiesthelessonsthatcanbedrawninthisregardfromtheintersection
+      between,ontheonehand,TheodorW.Adorno’s‘philosophicalinterpretation’andhis
+      ideaofanhistoricallyadequateconsciousness,and,ontheother,Hans-GeorgGadamer’s
+      ‘philosophical hermeneutics’ and his conception of the historically effected conscious-
+      ness. The paper opens with a concise reconstruction of Adorno’s ‘philosophical in-
+      terpretation’asacriticalresponsetoinstrumentalrationalitythatborrowsinsightsfrom
+      radical historicism. The focus then shifts to Gadamer’s ‘philosophical hermeneutics’
+      which is read as a similar type of protest against instrumental reason that privileges
+      dialogical forms of enculturation. Finally, the paper closes with some suggestive yet
+      inconclusive reflections on some important elements of convergence/divergence be-
+      tween the two thinkers, notably, their theorisations of immanent and transcended
+      critique,theroletheyascribetotraditionandlanguagevis-a`-visexperience,andthespecial
+      placeof‘mimesis’init.Overall,theargumentismadethata‘negativehermeneutics’may
+      bewhatisneededtofashionnewinterpretationsoftheworld,tofosteralternativeways
+      of thinking about and being in it, which, pace Marx, go hand in hand with its
+      transformation – or, perhaps more aptly nowadays, the mere feat of sparing it.
+                                                             
+                                                             
+                                                             
+                                                             
+      Correspondingauthor:                                   
+      VangelisGiannakakis,InstitutfürPhilosophie,Goethe-Universita¨tFrankfurtamMain,Norbert-Wollheim-
+      Platz1,FrankfurtamMain60629,Germany.                   
+      Email:vangelis.giannakakis@gmail.com                   
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+      Giannakakis                                    411     
+                                                             
+                                                             
+                                                             
+      Keywords                                               
+      negative hermeneutics, critical theory, philosophical hermeneutics, philosophical
+      interpretation, experience, culture, Theodor W. Adorno, Hans-Georg Gadamer,
+      critical consciousness                                 
+                                                             
+                                                             
+        “Theweakpointsintheabstractmaterialismofnaturalscience,amaterialismthatexcludes
+        historyanditsprocess,areatonceevidentfromtheabstractandideologicalconceptionsof
+        its spokesmen,whenever they venturebeyond theboundsof theirownspeciality”
+                                     – Karl Marx,Capital, VolumeI1
+        “Everyphilosophical,ethical,andpoliticalidea–itslifelineconnectingitwithitshistorical
+        originshavingbeensevered–hasatendencytobecomethenucleusofanewmythology,and
+        thisisoneofthereasonswhytheadvanceofenlightenmenttendsatcertainpointstorevertto
+        superstition andparanoia”                            
+        “Instrumentalizedsubjectivereasoneithereulogizesnatureaspurevitalityordisparagesit
+        asbruteforce,insteadoftreatingitasatexttobeinterpretedbyphilosophythat,ifrightly
+        read,willunfoldataleofinfinitesuffering.Withoutcommittingthefallacyofequatingnature
+        andreason, mankindmust tryto reconcile the two”      
+                                 – MaxHorkheimer,Eclipse ofReason2
+                                                             
+        The present social-historical moment is marked by a sharp divide, a harrowing
+      ‘communicationbreakdown’betweensubjectandobject,betweenhumanityandnature,
+      betweenhumanityanditself.Theevidenceforthisisplentiful.Absurdsocial-politicaland
+      wealthdiscrepancieshave,forquiteawhilenow,beenstokinganambientmalaisebuilton
+      passiveacquiescence,feelingsofressentimentand/orreactionary-authoritarianimpulses
+      that sap democratic ideals and values. The despoliation of the natural world and the
+      disfigurementofthebeings thatliveinitcontinueatafranticpace,eventhoughall the
+      signsofacalamityinthemakingarethere.Thecultureindustry,evermorepervasiveand
+      denselywoven,regimentspeople’sintellectual,sensorialandemotionalhorizonswhilst
+      robbingthemofthefulfilmentitpurportstoimpart.Meanwhile,thereturnofbellicosity
+      on the global geopolitical stage, the diffusion of a rhetoric that flouts any notion of the
+      commons,orthepersistenceofunfair,prejudicialtreatmentsonthebasisofrace,culture,
+      gender…signaladrifttowards(re)new(ed)formsofbarbarism.Thisstateofaffairspleads
+      forthere-elaborationofaconsciousnessthatresonatescriticallywiththesocial,political
+      andculturalrealitiesofitstime.Theconditions,modalitiesandentailmentsofthistypeof
+      consciousnesshavebeenexaminedinmoredetailelsewhere.3Sufficeittorecallhereits
+      most salient features: the ability to be awakened to and meaningfully engaged in the
+      events that interpellate and shape it into existence; a certain propensity to pursue ‘what
+      would be different’ in the midst of the prohibitory sureties of social factuality and the
+      apparentinevitabilitiesofthehistoricalprocess;andlastly,arational,resistingdisposition
+      vis-a`-vis the distorting effects of regulated appearances through the preservation and
+      cultivationofanopenfieldforcriticaltheorisationandrationaltransformativepraxis.Ina
+                                                             
+                                                             
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+      412                          Philosophy and Social Criticism 51(3)
+                                                             
+                                                             
+      word, there is a pressing need nowadays for new interpretations of the world, for al-
+      ternativewaysofthinkingaboutandbeinginit,which,paceMarx,gohandinhandwith
+      itstransformation–or,perhapsmoreappropriatelynowadays,themerefeatofsparingit.
+        From this perspective, the intersection of, on the one hand, Theodor W. Adorno’s
+      ‘philosophicalinterpretation’andhisideaofahistoricallyadequateconsciousness,and,
+      on the other hand, Hans-Georg Gadamer’s ‘philosophical hermeneutics’ and his con-
+      ception of an historically effected consciousness [das wirkungsgeschichtliche Be-
+      wußtsein]affordstwovaluableinsights.Foronething,thataconsciousnessabletomeet
+      the social-historical exigencies of its time is predicated on the presence of a critical
+      interpretativespacethatseparatesindividualand/orcollectiveactantsfromtheentrenched
+      milieux,narrativesandpatternsinandthroughwhichtheyliveandthink.Foranother,that
+      this form of critical interpretation entails the articulation of cogent and incisive critical
+      modelsthatofferaglimpse,inlightofwhatAdornoreferstoasthe‘historicaldrivewithin
+      themovement ofthings’, ofwhatmis-orin-existswithinthemerelygiven [der bloßen
+      Gegebenheit].4 This paper proposesto chart the train of thought that leads to these two
+      insights and explore some of their most salient implications. In the process, it will
+      highlight the ways in which each side accentuates the shortcomings of the other and
+      suggestpossiblealbeitinconclusivewaystoaddressthem.Asthisstudyunfolds,itwill
+      become apparent that the point at which Adorno’s and Gadamer’s thoughts coincide is
+      also, in proper dialectical/dialogical form, a point of collision: the appreciation of the
+      other, the nonidentical. Incidentally, this also happens to be the place where a critical
+      consciousness in touch with the spirit of its time begins to take shape at every social-
+      historical juncture.                                   
+      Philosophical Interpretation, Instrumental Reason and  
+      Radical Historicism                                    
+      In the foreword to the second edition of Truth and Method, Gadamer writes that his
+      theoreticalfocus‘wasandisphilosophic:notwhatwedoorwhatweoughttodo,butwhat
+      happenstousoverandaboveourwantinganddoing’.5Adecidedlycriticalandnegative
+      auraemanatesfromthispronouncement–andnosoonerdoesGadamerwritethesewords
+      than he portrays his philosophical gesture in historical, dialectical terms to boot:
+        [w]hatmanneedsisnotjustthepersistentposingofultimatequestions,butthesenseofwhat
+        isfeasible,whatispossible,whatiscorrect,hereandnow.Thephilosopher,ofallpeople,
+        must,Ithink,beawareofthetensionbetweenwhatheclaimstoachieveandtherealityin
+        which hefinds himself.6                              
+                                                             
+        Gadamer’sobservationdrawsasalientparallelwithAdorno’spronouncement,uttered
+      during his 1965–1966 lectures on negative dialectics, that
+                                                             
+        it is not possible to think right unless one wills the right thing [to happen]; that is to say,
+        unless,underlyingthisthought,andprovidingitwithatrulyanimatingpower,thereisthe
+        desire that it should be right for human beings to enter a condition in which meaningless
+                                                             
+                                                             
+                                                             
+
+[PAGE 4]
+                                                             
+                                                             
+      Giannakakis                                    413     
+                                                             
+                                                             
+                                                             
+        sufferingshouldcometoanendandinwhich–Icanonlyexpressitnegatively–thespell
+        hangingover mankindshould belifted.7                 
+        Interestingly,Adornohadalreadyembracedthistheoreticalattitudeasearlyas1931,
+      when,inhisinaugurallectureasaPrivatdozentattheUniversityofFrankfurt,titled‘The
+      actualityofphilosophy’,heoutlinedascholarlyprogramme–which,afewdecadeslater,
+      would culminate in the theory of negative dialectics and his seminal book of the same
+      name – under the rubric of philosophical interpretation. The latter, Adorno explains, is
+      not a mere pursuit of ‘a fixed meaning which already lies behind the question’, nor a
+      ‘search for concealed and manifest intentions of reality’, but rather, an enquiry into
+      ‘unintentional reality’ by means of trial combinations, or, as it were, constellations of
+      ‘isolated elements of reality’.8 Crucially, Adorno articulates his theory of philosophical
+      interpretationintermsthatrecallGadamer’sjuxtapositionof‘truth’and‘method’.Thisis
+      the closest Adorno comes to a definition of philosophical interpretation:
+                                                             
+        philosophypersistentlyandwiththeclaimoftruth,mustproceedinterpretivelywithoutever
+        possessingasurekeytointerpretation;nothingmoreisgiventoitthanfleeting,disappearing
+        traces within the riddle figures of that which exists and their astonishing entwinings. The
+        historyofphilosophyisnothingotherthanthehistoryofsuchentwinings.Thusitreachesso
+        few“results”.Itmustalwaysbeginanewandthereforecannotdowithouttheleastthread
+        whichearliertimeshavespun,andthroughwhichthelineatureisperhapscompletedwhich
+        could transform the ciphers intoatext.9              
+        NoticeherehowAdornoplacesspecialemphasison(i)thefactthatphilosophyisan
+      openinterpretativegesturethataimsattruthyetcanneverpossessitinitsentirety;(ii)how
+      philosophyistheintellectualmomentoftheactualexperienceofaneventthatmanifests
+      itselfbothasariddlingalterityandaninvitinginterlocutor,andwhoseeffectsreverberate
+      throughout and sow the seeds of history; (iii) finally, how any appreciation of the vi-
+      cissitudes of existing reality is, always already, interwoven with that ‘least thread that
+      earliertimeshavesprung’,andhowitispreciselyasconsummatedpastsveerintopossible
+      futuresthatstillimagesturnintolegible,eloquentscripts.10Whatismore,Adornodrawsa
+      markeddistinctionbetween‘science’,whichhetakestomeanboththesystematicenquiry
+      intothefabricandbehaviourofthephysicalandnaturalworldbyvirtueofobservation
+      andexperiment,andthesystemicallyorganisedbodyofknowledgethatresultsfromit,on
+      the one hand, and philosophical interpretation, on the other. Philosophy-qua-
+      interpretation, he contends, is meant to ‘light up the riddle-Gestalt [occasioned by
+      science]likelightningandtonegateit(aufzuheben),nottopersistbehindtheriddleand
+      imitate it’, or, in other words, to ‘negat[e] (aufhebt) questions, the exact articulation of
+      which is the task of science’.11                       
+        Theseconsiderationsshouldinnowaybereadasdiscreditingscientificprogressper
+      se.For,apurelyanti-scientificattitudeinthedomainofintellectualexperiencewouldbe
+      deemed by Adorno, and indeed all the other members of the Frankfurt School, to be
+      acutely reactionary. That having been said, Adorno does take issue with a particular
+      theoretical outlook that places all experience – whether actual or possible, whether it
+                                                             
+                                                             
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+      414                          Philosophy and Social Criticism 51(3)
+                                                             
+                                                             
+      relates to natural or social-historical reality – firmly within the bounds of scientific
+      methodology,techniqueandknow-ability/ledge,knownas‘scientism’.Itisthislatterthat
+      constitutes the primary target of Horkheimer and Adorno’s formative treatment of the
+      aporias of Enlightenment rationality. One reads therefore in Dialectic of Enlightenment
+      thatthescientificdispositionthatemergedwithmodernityevolvedintoaWeltanschauung
+      that allows no movement of thought away ‘from the business of manipulating the ac-
+      tual’.12 Enlightenment-qua-scientism, the two theorists elaborate,
+        standsinthesamerelationshiptothingsasthedictatortohumanbeings.Heknowsthemto
+        theextentthathecanmanipulatethem.Themanofscienceknowsthingstotheextentthathe
+        canmakethem.Their“in-itself”becomes“forhim.”Intheirtransformationtheessenceof
+        things isrevealed as alwaysthe same,asubstrate of domination.13
+                                                             
+        Itisnotonlynaturalobjectsthatmakeupthissubstrateofdomination;humansubjects
+      arepulledintoitaswellinasmuchastheytooformpartofthenaturalworld.Humanity’s
+      blindmasteryovernaturebydintofitsinstrumentalisation,HorkheimerandAdornothen
+      conclude,isalsoalreadyitsself-subjugationandestrangementfromitself.14Thispattern,
+      thetwotheoristsassert,isparticularlyharmfultothehumancapacityforexperience,asit
+      leads to a state of affairs in which, thought ossifies into ‘an autonomous, automatic
+      process,apingthemachineithasitselfproduced,sothatitcanfinallybereplacedbythe
+      machine’,whilstpeoplearemoreandmorereduced‘tothenodalpointsofconventional
+      reactionsandthemodesofoperationobjectivelyexpectedofthem’.15Adornosetsuphis
+      theory of philosophical interpretation as a counterpoise to this paradigm, and he ac-
+      complishesthisthroughtherefusaltosubordinatephilosophytoscience/scientism,beit
+      as its historical precursor or its current doctrinal addendum.16 In fact, he discerns an
+      essential nuance of difference between the two outlooks: where science, across all its
+      respective fields, treats its outcomes as, in Adorno’s words, ‘indestructible and static’,
+      philosophy, for its part, views even ‘the first finding which it lights upon as a sign that
+      needsunriddling’.17Thiswayofseeingthingspropelsphilosophyintosomethinglikea
+      ‘generalisednegativesemiology’.Negative,inthat,forAdorno,unravellingthesigndoes
+      notoperateviatheapplicationofpre-establishedschemataandrules,buthingesinstead
+      on what he calls an ‘open intellectual experience’; it is a figure of subtraction, an un-
+      riddling as against a mere resolution.18 Generalised (or generic), because the signs that
+      philosophylabourstodecipherarenotboundtojustonelanguage,whichisalsotosay,no
+      single existing repertoire of signs takes precedence.  
+        It is hardly a surprise, therefore, that Adorno makes a point of stressing that philo-
+      sophical interpretation is by no means concerned with the ‘problem of “meaning”’.19
+      What is at stake for it, is neither the valorisation of the meaning/s that inhere/s within
+      realityasitalreadyexists,andtherebytheconsolidationofthislatter,northerevelation,
+      bywayofadissectionofappearances,ofaparallel,genuineworldthatlieshiddenbeneath
+      theactualone.20Thatwouldamounttoanapologeticofthemerelygiven,or,worsestill,a
+      rehashing of antiquated, defunct metaphysics. Adorno has good reasons to reject such
+      affirmative conceptions of meaning. To be sure, he is quite keen to anchor intellectual
+      experience to the concrete reality of human social-historical becoming; and, as will be
+                                                             
+
+[PAGE 6]
+                                                             
+                                                             
+      Giannakakis                                    415     
+                                                             
+                                                             
+                                                             
+      seenbelow,heispersuadedthatcriticaltheoreticalreflectionontherealmusthaveregard
+      notjustfortheparticularbutalsoforhumanexperiencetakenasawhole,asstructure.For
+      allthat,however,Adornorejectsthenotionthattherealasawholelendsitselftobefully
+      reflectedin/bytheunityofconsciousness.Thatwouldentailthatspirithastheabilityto
+      one-sidedlyandirrevocablysolveanyandallantinomiesthatariseinexperience,andby
+      thattokenthatwhatlendsitselftocontemplation,evenifonlybymeansofsomespurious
+      artifice,isalsoinitselfrational.ForAdorno,notonlydoesthispositivismleavehumanity
+      withfartoolittle,inthatitobscurescontradictionsbehindtheshroudofnormalisation,but
+      the actual experiential substance of late capitalist reality quite simply refutes it. In his
+      words,                                                 
+        onlypolemicallydoesreasonpresentitselftotheknowerastotalreality,whileonlyintraces
+        andruinsisitpreparedtohopethatitwillevercomeacrosscorrectandjustreality[…]The
+        fullnessofthereal,astotality,doesnotletitselfbesubsumedundertheideaofbeingwhich
+        mightallocatemeaningtoit;norcantheideaofexistingbeingbebuiltupoutofelementsof
+        reality.21                                           
+        Importantly, this is Adorno thinking before the Shoah. This is him after:
+                                                             
+        Experience forbids the resolution in the unity of consciousness of whatever appears con-
+        tradictory […] contradiction cannot be brought under any unity without manipulation,
+        withouttheinsertionofsomewretchedcoverconceptsthatwillmakethecrucialdifferences
+        vanish[…]Theaporeticalconceptsofphilosophyaremarksofwhatisobjectively,notjust
+        cogitatively, unresolved.22                          
+                                                             
+        The unfaltering character of Adorno’s thought over such a long period of time is
+      striking. Just as remarkable is his abiding belief that philosophical interpretation and
+      transformativepraxisarecloselyinterwoven.Thislatteraspectfollowsfromandatteststo
+      Adorno’s adherence, in some measure at least, to absolute/radical historicism and the
+      philosophy of praxis.23 Put briefly, this theory holds that there are no ways of thinking
+      about, of being and doing in the world that carry meaning outside the social-historical
+      environmentswhencetheyemanateandwithinwhichtheyfindexpression.24Whichisto
+      say, every given social-historical state of affairs is intricately woven out of a range of
+      practices that bring it into being and uphold it, and the various theoretical apparatuses
+      deployedtomakesenseofandlegitimiseit.Forthephilosophyofpraxis,theseelements
+      are so tightly entwined that antinomies in theory, such as the philosophical dualism
+      betweensubjectandobject,ortheethicaldistinctionbetweennormsandfacts,aretreated
+      byitaslittlemorethantheabstractreflections,orsymptomsofrealantithesesrootedinthe
+      historicallysedimented,palpableactualityoftheestablishedsocial,politicalandcultural
+      order.25 Likewise, these inconsistencies cannot be remedied purely and simply in or by
+      theory,buttheirunwindingalwaysalreadyimpliesthepracticaltransformationofthestate
+      of affairs that generated and perpetuates them at any given moment of humanity’s
+      historicalbecoming.Inlightoftheseconsiderations,thefollowingpassagefromAdorno’s
+      1931 lecture gains special resonance:                  
+                                                             
+                                                             
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+      416                          Philosophy and Social Criticism 51(3)
+                                                             
+                                                             
+        Theinterpretationofgivenrealityanditsabolitionareconnectedtoeachother,not,ofcourse,
+        in the sense that reality is negated in the concept, but that out of the construction of a
+        configurationofrealitythedemandforits[reality’s]realchangealwaysfollowspromptly
+        […]Onlyintheannihilationofthequestion[i.e.,arisingsocial-theoreticalantinomies]isthe
+        authenticityofphilosophicinterpretationfirstsuccessfullyproven,andmerethoughtbyitself
+        cannot accomplish this [authenticity]: therefore the annihilation of the question compels
+        praxis.26                                            
+        Adornoretainedhisfidelitytothisidea,eventhoughthetimbreofhisthoughtturned
+      more ruminative and melancholy with the passage of time. His famous asseveration,
+      committed to paper some 35 years after his nomination as Privatdozent, bears eloquent
+      testimony to this: ‘[p]hilosophy, which once seemed obsolete, lives on because the
+      moment to realize it was missed’.27                    
+        Philosophicalinterpretationisnotstrictlyspeakinganantagonisttoscientificreason,
+      evenifitexpresslyrejectsallmannerofscientisticreductions.28Rather,itisanexpression
+      ofthat (self-)critical,reflexive moment of experience that refinestheestablished savoir,
+      thecorpusoffactualknowledge,byreinscribingquestionsformulatedand/ordiscoveries
+      realisedbyscienceintheabstractbackintotheconcretesituationsfromwhichtheyarise.
+      Inthisway,philosophicalinterpretationbringstotheforeallthatscienceanditsattendant
+      structuresofcognitionleaveout.Adornolabelsthisapproachasanexactfantasy,thatisto
+      say,                                                   
+        fantasywhichabidesstrictlywithinthematerialwhichthesciencespresenttoit,andreaches
+        beyond them only in the smallest aspects of their arrangement: aspects, granted, which
+        fantasyitselfmustoriginallygenerate[…]thedemandtoanswerthequestionsofapre-given
+        realityeachtime,throughafantasywhichrearrangestheelementsofthequestionwithout
+        goingbeyondthecircumferenceoftheelements,theexactitudeofwhichhasitscontrolinthe
+        disappearance of the question.29                     
+        Interestingly, Adorno articulates his theory of interpretation in terms of a ‘circum-
+      ferenceofelements’,amaterialhorizon,sotospeak,withinwhich,thoughtthatfocuses
+      on‘relationswiththeobject,andnotatvalidityisolatedinitself’,istofindwaystoletthe
+      otherrelativetotheestablishedstructuresofexperiencespeakforitself.30Butifthoughtis
+      limitedbysuchamaterialhorizon,which,asAdornoexplains,cannotbeoutstrippedby
+      sheerfiat,isitnotdestinedtorepeatwhatisalreadythecase?Notreally.Adorno’sthesis
+      entailswhatonemightcallasublimation-from-within,animmanenttranscendence.31The
+      ‘annihilation of the question’, the true transformation of reality – it is the same thing
+      here–isnotconditionalonthethaumaturgicadventofsome‘other’frombeyond,for,this
+      ‘other’ always already in/exists within established social-historical formations. Quite
+      simply,itallhastodowiththefactthatthecompositionoftheprevalentstateofaffairsata
+      particularsocial-historicaljuncturemaybesuchthatoneormoreofitsconstituentparts–
+      be it specific segments of society, ideas, theories, and their practical implications,
+      prospects of solidarity and justice, and so on – become obfuscated. The point is to
+      persistentlyreimaginetherealbymeansofanexactfantasythatbringstogetherseemingly
+                                                             
+                                                             
+                                                             
+
+[PAGE 8]
+                                                             
+                                                             
+      Giannakakis                                    417     
+                                                             
+                                                             
+                                                             
+      unrelatedthoughts,objectsandpracticesinatentative,ludicmannerthatallowsthemto
+      interactinunconventionalalbeitrationalways,sothat,intheprocess,newperspectives
+      andcriticalmodelsarefashionedthatbringtolightaspectsofexperiencethathadhitherto
+      remained unseen, silent, unintelligible.32             
+        Of course, there remains the issue of whether philosophical interpretation, which
+      clearlypertainstotheprovinceofintellectualexperience,canhaveanymeaningfuleffect
+      ontheconcrete,materialfabricoftheworld.Onepossiblewaytoaddressthispointwould
+      betohold,withAdorno,thatallthoughtisalwaysalsoasortofpractice,eveninitsmost
+      narrowly logical guises. For, each original theoretical composition brings about a re-
+      arrangement in the way reality is encountered and enacted; every decision taken to
+      combinetwopreviouslyseparateanddistinctideasisassuchwork.Hence,theproblemof
+      whether one ought to interpret the world or change it only appears as a dilemma in the
+      narrowperspectiveofpragmaticexigencies,for,onthewhole,onealwaysalreadyentails
+      the other. As Adorno would have it, ‘once thinking sets out in its purest form to bring
+      about change in even the smallest thing, no power on earth can separate theory from
+      practice in an absolute way’.33                        
+      Philosophical Hermeneutics, Culture and Dialectics     
+      In his seminal essay of 1959, ‘Theory of pseudo-culture’, Adorno argues that, in early
+      modernity,culture[quaBildung]wasregardedasa–ifnot,the–centralattributeofthe
+      ‘free individual […] grounded in his own consciousness’, and able to sublimate, in a
+      dialogical relationship with the ambient social-historical and natural realities, ‘his in-
+      stincts purely ashis own spirit’;so that, it would be reasonable to think that,‘the more
+      enlightenedtheindividual,theenlightenedsocietyasawhole’.34However,asmodernity
+      entereditslatestage,followingitsclassicalperiod,theonceincontrovertible‘relationof
+      culture to an anticipated [emancipatory] praxis’ became moot, ‘it appeared to sink’, as
+      Adornoputsit,‘toanheteronomouslevel,tobecomeameansofsafeguardingadvantages
+      inviewoftheunstratifiedbellumomnuscontraomnes’.35Thismeansthatthereification
+      ofhumanexperienceisnotlimited,forAdorno,toscientismonly,butalsotakestheform
+      ofpseudo-culture[Halbbildung,ημιμa´θεια],thatistosay,atypeofculture-in-stasisthat
+      hegemonisesandreflectsthedullstratifiedstructureoflifeinlatecapitalistreality.While
+      scientism places limits on what can be known and how this knowledge is obtained,
+      pseudo-culture institutes and systematises particular ‘distributions of the sensible’ – to
+      reprise Jacques Rancière’s expression here –,namely, ways inwhichthis whatand this
+      howareorganised,andthetypesofhumanrelationsthatflowfromthem.36Think,byway
+      of example, of the split between manual and intellectual labour, the difference between
+      skilledandunskilledworkers,orrecently,thedividebetween‘laymen’and‘experts’,the
+      so-called‘deplorables’andthe‘elites’,oragainthewholedebacleregardingtheprestige
+      andinfluenceattachedtoeducationalinstitutions,journals,publishers,or(pe-)degreesof
+      varying‘rank(ing)s’.37Asscientismandpseudo-culture,twoofthemostcorrosiveguises
+      ofinstrumentalrationality,takehold,barriersareerectedthatfetterthedialogicalinterplay
+      between subject and object, as much as subject and subject, and as a result greatly di-
+      minishtheambitandimportofcritical,dialecticalexperience.Ataboutthesametime,that
+                                                             
+                                                             
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+      418                          Philosophy and Social Criticism 51(3)
+                                                             
+                                                             
+      Adornoformulatesthesethoughts,Gadamersetsupthenotionofculture-qua-Bildungas
+      thekernelofhisphilosophicalhermeneutics.Theleitmotifishardlydifferent.‘Bildungis
+      intimately associated with the idea of culture’, Gadamer explains in Truth and Method,
+      ‘anddesignatesprimarilytheproperlyhumanwayofdevelopingone’snaturaltalentsand
+      capacities’.38 As one shrewd commentator observes, Bildung figures so prominently in
+      philosophical hermeneutics because it represents, for the celebrated hermeneuticist, the
+      ‘historicallyformedbutmetaphysicallycontingentgrounduponwhichthepossibilityof
+      understanding rests’.39 Pondering the purview of philosophical hermeneutics, Gadamer
+      writes in a way that substantiates this reading:       
+        Philosophicalhermeneuticstakesasitstasktheopeningupofthehermeneuticaldimensionin
+        itsfullscope,showingitsfundamentalsignificanceforourentireunderstandingoftheworld
+        and thus for all the various forms in which this understanding manifests itself: from in-
+        terhuman communication to manipulation of society; from personal experience by the in-
+        dividualinsocietytothewayinwhichheencounterssociety;andfromthetraditionasitis
+        builtofreligionandlaw,artandphilosophy,totherevolutionaryconsciousnessthatunhinges
+        the tradition through emancipatory reflection.40     
+        For Gadamer, cultural formation (Bildung), and with it philosophical hermeneutics,
+      haslittletodowiththeelaborationandinculcationofexpedientsolutionstopre-formed
+      riddles.Quitetheopposite,itsmaintaskistofosterthatdiacriticalidiosyncrasyandtact
+      thatmakeitpossibletodiscern,throughthethickveilofingrainedpracticesandwaysof
+      thinking, the intermittent, unexpected relationships and interplay between different as-
+      pects of reality.                                      
+        Gadamer construes Bildung as an alternative paradigm of experience to the techno-
+      scientific discourse that assumed hegemonic status in modern times, especially in late
+      capitalistreality.Here,‘techno-scientificdiscourse’isjustanothernamefor‘scientism’:a
+      Weltanschauung premised on the blind equation of truth with abstraction, quantitative
+      measurability, reproducibility, mastery over the content. Like Adorno’s philosophical
+      interpretation,Gadamer’sphilosophicalhermeneuticsisnotna¨ıvelyanti-scientific.Asa
+      matter offact,Gadamer isaferventadvocateofscience quathedialectical, polyvalent,
+      reality-based quest for knowledge (i.e. Wissenschaft, γνῶσις/ἐπ´ıγνωσις).41 This last,
+      narrowsdownneitherto‘theoreticalconsciousness’,orἐπιστήμη,anditsendeavoursto
+      ascertainwhatthingsare,norto‘technicalproficiency’,orτἐχνη,anditsregardforhow
+      thingsarebuiltandoperate.Gadamer’sencyclopaedicexperienceisratherinspiredbythe
+      Aristotelian idea of ‘practical wisdom’ or φρóνησ˘ıς, which, though informed by theo-
+      retical consciousness and technical expertise, seeks answers to the riddles that emerge
+      from/inparticularsituationsinlightofthesedimentedintellectandsensibilityofhuman
+      social-historical and cultural becoming.42 Having said that, when Gadamer talks about
+      practical wisdom it is not to advocate some kind of vitalism or other, but to press for a
+      moreholisticaccountofhumanexperience,oneinwhichtheso-called‘positive’sciences
+      arejustonepossiblepath(ὁδóς)totruthamidstothers,notably,art,history,culture.43To
+      be sure, Gadamer is willing to affirm, somewhat in line with Horkheimer, Adorno or
+      Marcuse,thatthesupposedly‘neutral’,‘unbiased’techno-scientificknowledgeisalways
+                                                             
+                                                             
+
+[PAGE 10]
+                                                             
+                                                             
+      Giannakakis                                    419     
+                                                             
+                                                             
+                                                             
+      alreadymediatedbythesocial-historicalandaesthetic-culturalmilieuxwithinwhichitis
+      articulated.44 It is in this context that Gadamer’s theorisation of prejudice – which here
+      means something like ‘sedimented experiential insight’ – must be read as a distinction
+      between,ontheonehand,‘negative’prejudice,whichheassimilatesto‘thefundamental
+      prejudice of the Enlightenment’, meaning, a ‘prejudice against prejudice itself, which
+      denies tradition its power’; and, on the other, ‘positive’ prejudice, that is to say, the
+      historically effected consciousness [das wirkungsgeschichtliche Bewußtsein] that pos-
+      sibilisesthe(self-)criticalunderstandingandawarenessofone’stradition,one’shorizon
+      or‘rangeofvision’thatdelimitstheinnerandouter,themundaneandtheeerie,thefelt
+      and the unfelt, the known and the unknown.45 Gadamer’s approach to the notion of
+      prejudiceechoesHorkheimerandAdorno’sproblematisationoftheEnlightenment-qua-
+      scientism.Witness,forinstance,thefollowingfragmentfromDialecticofEnlightenment:
+        Forthescientifictemper[…]anysteppingoutsidethejurisdiction ofexistence,isnoless
+        senseless and self-destructive than it would befor the magician to step outside the magic
+        circledrawnforhisincantation;andinbothcasesviolationofthetaboocarriesaheavyprice
+        for the offender.46                                  
+        Ofcourse,Gadamer’stakeontradition,horizon,orwhatthetwocriticaltheoristscall
+      herethe‘magiccircle’,isnotasinimicalastheirs–infact,itisratherfavourable.Onecan
+      read,thus,inTruthandMethodthat‘wearealwayssituatedwithintraditions’,andthat
+      ‘[o]urhistoricalconsciousnessisalwaysfilledwithavarietyofvoicesinwhichtheecho
+      ofthepastisheard’,voicesthatmakeup‘thetraditioninwhichwewanttoshareandhave
+      apart’.47Naturally,theEnlightenmentisonesuchtradition,yetinsettingitselfupasthe
+      unalloyedotheroftradition-qua-prejudice,itseversitselffromexistingsocial-historical
+      and cultural reality by erecting the dense, impenetrable walls of pure, methodological,
+      abstract(ing)reason,andsobecomesanabsoluteinitself.Asaresult,Gadamerexplains,
+      Enlightenmentrationalitymissesthefactthatwhatappearstoittobea‘limitingprejudice
+      […]infactbelongstohistoricalrealityitself’,somuchsothatanyproperappreciationof
+      humankind’s‘finite,historicalmodeofbeing’requirestherecognitionofprejudicesand
+      theirimpactonexperience.48‘Wecanapproachthisquestion’,Gadamerelaborates,‘by
+      taking the Enlightenment’s critical theory of prejudices […] and giving it a positive
+      value’, so as to protect its most vital insight, namely, that only the ‘methodologically
+      disciplined use of reason can safeguard us from all error’, against any drift towards
+      dogmatic techno-scientism.49 Although, as will be seen later on, Gadamer and Adorno
+      hold starkly different views on the ambit and role of tradition and prejudice vis-a`-vis
+      experience, the hermeneuticist and the critical theorist reach common ground in their
+      critical assessment of Enlightenment rationality gone mad scientism:
+        To grasp existing things as such, not merely to note their abstract spatial-temporal rela-
+        tionships,bywhichtheycanthenbeseized,but,onthecontrary,tothinkofthemassurface,
+        asmediatedconceptualmomentswhichareonlyfulfilledbyrevealingtheirsocial,historical,
+        andhumanmeaning–thiswholeaspirationofknowledgeisabandoned[inthecontextof
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+      420                          Philosophy and Social Criticism 51(3)
+                                                             
+                                                             
+        scientistic reason]. Knowledge does not consist in mere perception, classification, and
+        calculation but precisely in thedetermining negation of whatever isdirectly at hand.50
+        Philosophicalhermeneuticsissettotherhythmofthedialecticsoffinitudeandinfinity.
+      ThatmuchisevidentfromGadamer’sdislikeforalltypesofclosed,unreceptiveaccounts
+      of experience. Hence, he affirms, for instance, in agreement with Hegel, that a ‘true
+      method’ is ‘an action of the thing itself’ – Adorno’s idea of the priority of the object
+      springsimmediatelytomindhere.51Thismeansthatthesubjectisnotthebe-allandend-
+      allofexperience,butthatthereisanotheraspecttoitthatisjustasimportant,ifnotmore
+      so: the object, the matter at hand, die Sache. With Gadamer, experience becomes a
+      movement,agesture,adoingwhichdoesnot‘interfer[e]arbitrarily–latchingontothisor
+      thatready-madenotionasitstrikesone–withtheimmanentnecessityofthethought’but
+      unravels‘whatconsistentlyfollowsfromthesubjectmatteritself’while‘insist[ing]onthe
+      logic of the thought’.52 What Gadamer opposes, thus, is not the disciplined and careful
+      effort to draw closer to objects, but the undue reliance in a pre-established system of
+      coordinates that professes to have a grip on all and any object, but which in fact only
+      arbitrarilymanipulatesthemuntil,toparaphraseAdorno,theyenduplookingthewayit
+      wants them to.53 Against system(at)ic philosophising, which squashes an abundant,
+      pluralisticrealityintoanarrowsetofaxioms,rulesandprinciples,Gadamerissuesacall
+      foramodeofbeinginandthinkingaboutrealitythatispermanentlyopentoallthatisat
+      oddswithit,andthispreciselybecauseitisawareofitslimits,andthereforeofthefactthat
+      there is something beyond them that is equally, if not more, elaborate than what lies
+      within.Inthisrespect,GadamerisverymuchinagreementwiththeAdornianideathat
+      ‘theentiretrickwithphilosophywouldbetolearnhowtophilosophizeinanopenway
+      without becoming mollusc-like’, or, to put it differently, to think the object in a non-
+      arbitrary way that ‘follow[s] its inner necessity while at the same time pursuing an
+      objectivecompulsion’.54Adornomakesuseofaricharrayofterms(e.g.‘undiminished
+      experience’, ‘cognitive utopia’, ‘determinate negation’, or of course, ‘negative dialec-
+      tics’),todenotethiskindofsensibilitytothenon-identical;Gadamer,forhispart,thinksit
+      under the rubric of the ‘fusion of horizons’.55 But, while Adorno’s theory of negative
+      dialecticsisgearedtowardsaprospectiveim/possiblestateofredemption,forthesakeof
+      whichitstrivestoforgeperspectives‘thatdisplaceandestrangetheworld,revealittobe,
+      withitsriftsandcrevices,asindigentanddistortedasitwillappear1dayinthemessianic
+      light’, Gadamer points his gaze towards the past, to history.56 ‘Every encounter with
+      tradition’, Gadamer writes, ‘takes place within historical consciousness’ and entails an
+      exposuretoandappreciationof‘atensionbetweenthetext[or,indeed,theobject]andthe
+      present’.57 Gadamer wishes to lay emphasis on that minimal differentiation between
+      reality as a form determined by the past, and reality as its actual, exuberant, social-
+      historical content. This is how he puts it:            
+        The hermeneutic task consists in not covering up this tension by attempting a naive as-
+        similation of the two but in consciously bringing it out. This is why it is part of the her-
+        meneutic approach to project a historical horizon that is different from the horizon of the
+        present.Historicalconsciousnessisawareofitsownothernessandhenceforegroundsthe
+                                                             
+                                                             
+
+[PAGE 12]
+                                                             
+                                                             
+      Giannakakis                                    421     
+                                                             
+                                                             
+                                                             
+        horizon of the past from its own. On the other hand, it is itself […] only something su-
+        perimposeduponcontinuingtradition,andhenceitimmediatelyrecombineswithwhatithas
+        foregroundeditselffrominordertobecomeonewithitselfagainintheunityofthehistorical
+        horizon that itthus acquires.58                      
+        Adifferenceinperspectivebeginstotakeshapehere.WhatAdornotakesapartinabid
+      toclearthepathtoafutureconditionof‘themanyasnolongerinimical’,Gadamerpulls
+      back together, so to speak, to allow for the formation of a more nuanced, more refined
+      historical consciousness in the now.59                 
+                                                             
+      Between Immanence and Transcendence                    
+                                                             
+      Beforetakingacloserlookathowtheirpositionsdiffer,itisworthnotingherethatboth
+      Adorno and Gadamer are intent on unveiling, each in their own way, the dialectical
+      nuances of experience that lie hidden behind the fabric of regulated appearances: to
+      the hollow abstractions of idealism, they oppose the materiality of objects/texts; to the
+      ahistoricallayoutsofthereal,theyaffirmtheirhistoricalimplicationsandorigins;tothe
+      uniformityandconstancyofidentity-thinking/meaning,theycounterposetheabounding
+      multifacetednessofbeing.Whetherundertherubricofthe‘priorityoftheobject’orthat
+      of the ‘fusion of horizons’, the two philosophers concur that experiential cultural for-
+      mation(Bildung)hingesontheencounterwithalterity,withhistory,withtranscendence
+      from within – which is also to say, immanent to – the conventional ways of doing and
+      thinking,and,bythesametoken,onanacuteawarenessofthelatter’sincompleteness,or
+      indeedfalsity.Thereisacertainmetadimensiontoallthis–ameta-negativeone,tobe
+      more precise. The sort of experience that Adorno and Gadamer relate to interpretation/
+      hermeneutics has little to do with such inflationary, affirmative processes as the blithe
+      accumulationoffacts,thescholastictaxonomyofwhatis,orthenormativeprescriptionof
+      whatoughttobedone.Whattheyproposeisfarmoresubtractiveandindeedcriticalinthe
+      classicidealistmeaningoftheterm.Thisbecomesabundantlyclearinakeypassageof
+      Truth and Method, where Gadamer is concerned. ‘All self-knowledge’, he writes,
+        arisesfromwhatishistoricallypre-given,whatwithHegelwecall“substance,”becauseit
+        underlies all subjectiveintentions andactions, andhencebothprescribes andlimits every
+        possibilityforunderstandinganytraditionwhatsoeverinitshistoricalalterity.Thisalmost
+        defines the aim of philosophical hermeneutics: its task is to retrace the path of Hegel’s
+        phenomenology of mind until we discover in all that is subjective the substantiality that
+        determines it.60                                     
+        AsimilarmotifcanbefoundinAdorno’stheorisationoftheimmanentlytranscendent
+      nature of social-cultural criticism. Witness, for example, the following passage from a
+      seminal essay he penned in 1949 and published in 1951: 
+        thetaskofcriticismmustbenotsomuchtosearchfortheparticularinterestgroupstowhich
+        culturalphenomenaaretobeassigned,butrathertodecipherthegeneralsocialtendencies
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+      422                          Philosophy and Social Criticism 51(3)
+                                                             
+                                                             
+        which are expressed in these phenomena and through which the most powerful interests
+        realize themselves.61                                
+        The operative word here is ‘tendencies’. For Adorno, tendency [Tendenz] signals, in
+      typical negative dialectic fashion, ‘the ability of theoretical thought to grasp the non-
+      identicalqualityofaconceptwithintheconceptitself’.62Thisformulationreprisesthat
+      earlier Adornian motif for which philosophy-qua-interpretation should bring into relief
+      unintentionalrealitythroughconstellationsofdiscreteelementsofreality.Hence,rather
+      than interpreting experience as a series of siloed operational functions, critical theory
+      shouldratherreachout,Adornobelieves,for‘somethingqualitativelydifferent’,namely,
+      thewholeasthe‘vanishingpoint’thatdeterminesit.63Forthis,neithertheinvocationof
+      theZeitgeist–asinHegel’sideaofabsolutespirit–northebareaggregationofimmediate
+      phenomena suffice. For, the whole, this vibrant, intricately woven reality whose only
+      constantisitsvariegation,isinessencecontradiction,fuguebecoming.Itfollowsthatany
+      attempt to think reality as a totality is soon driven to dialectics, in that any fragment of
+      truthitmayhopetoarriveatresidesnotintheuniversalortheparticular,theoneorthe
+      many,thesubjectortheobject,the(pre)givenortheemergent,etc.,butinthedifferential
+      aperturethatatonceseparatesandunitesthem;aspacegeneratedby,torepriseAdorno,
+      the fact that things refuse to go into their concept without leaving a remainder.64
+        This point is clearly illustrated by Adorno’s assertion that ‘[t]he dialectical critic of
+      culture must both participate in culture and not participate’.65 In keeping with Hegel,
+      Adornoconstruescultureasboththetheatreandtheconcretisationof(late)modernity’s
+      core antinomy,namely, that between subjective spirit and empiricalreality. Indeed, this
+      very disparity, he believes in the vein of Hegelian thought, is at the origin of culture to
+      beginwith.66Inthisperspective,‘culture’referstothepracticalprocessesandconceptual
+      apparatus with which humanity investsreality,inother words,theset ofways of doing
+      andmodesofthinkinginandabouttheworlditdeploystomakesenseofandcontrolit.
+      But,theveracityofcultureisalsoitslie:practicesandbeliefsthatmayseemnormalor
+      trueatonepointofhumanity’ssocial-historicalbecomingwilloftenrevealtheirperversity
+      orfalsityatanother(e.g.slavery),andviceversa(e.g.heliocentrism).Thisdoesnotmean
+      thatcultureisfalseinandofitself,butthatitbecomessowhenitistreatedasaconstant
+      rather than a process. As a closed system of entrenched performances and precepts,
+      culture omits manydimensionsofthereal,andfailstodojustice toitasbecoming that
+      perpetuallyunveilsnewaspectsofwhatis,newpossibilitiesofwhatcouldbe.Hereinlies
+      theparadox:thelacunaeofcultureonlybecomeapparenttothosewhoareimbuedwithit,
+      asonemustbeabletoappreciateitssemioticordertosensedisorder,buttoperceivethem
+      as such means that one is always already situated outside culture, for, some critical
+      distanceisrequiredtochartcultureasawholeanddetectthetruthsthathollowitout.The
+      Adorniandialecticalcriticofcultureinhabitsbothpositions,whichallowshertoembody
+      ‘[t]he mind which sees that reality does not resemble it in every respect but is instead
+      subject to an unconscious and fatal dynamic’ and as a result finds itself ‘impelled even
+      against its will beyond apologetics’.67 A sort of feedback loop is at work here: the
+      awakeningtoandcritiqueofthedisparitybetweenspiritandrealityimplicitincultureis
+      alwaysalreadycultureitself–itbasicallymeansthecultivationofnew,alternativemodes
+                                                             
+
+[PAGE 14]
+                                                             
+                                                             
+      Giannakakis                                    423     
+                                                             
+                                                             
+                                                             
+      ofbeinginandthinkingabouttheworld,sometimesmore,otherslessrefinedthantheir
+      precursors, yet always amenable to scrutiny in their turn. The negative is, here, the
+      measure of truth. The more spirit opens itself up to the objective side of (cultural) ex-
+      perience,whatAdornoterms,intypicalMarxistparlance,its‘materialbasis’asdistinct
+      from its ‘pure principle’, the more generic the discourse it pronounces (i.e. the more
+      inclusiveitsaddress),thegreaterthetruthandsubstanceofitsunderstandingofreality.If
+      this ‘more’ is in fact negative, it is because it designates, not the mere inflow of new
+      elementsintotheold,butindeedasubtractionfrom,abreakwithpatternsofexistencethat
+      blotoutanyawarenessofthe‘altogetherother[dasganzAndere]’.TorepriseAdorno,itis
+      in the midst of profound disenchantment that spirit senses ‘naked existence in its na-
+      kednessanddeliversituptocriticism’;itisalsothroughthisoperationthatspiritacquires
+      a self-reflective quality, in that, its critical gesture is always already ‘the object of
+      permanentcriticism, both initsgeneralpresuppositions–itsimmanenceintheexisting
+      society – and in its concrete judgments’.68            
+        Gadamer’s approach to the ‘hermeneutic circle’ exhibits some traits of parity with
+      Adorno’s understanding of the dialectical critique of culture, albeit the tenor of his
+      theorisingissomewhatmorerestrainedwhenitcomestoitssocial-politicalimplications.
+      Theterm‘hermeneuticcircle’referstotheideathatallinterpretation–orcomprehension,
+      itisthesamethinghere–involvesaniterativemovementfromthetext(thesubjectmatter,
+      dieSache)takenasawhole,asaframingtotality,totheindividualpartsthatcomposeit,
+      andbackagain.Inthislight,theinterpretativeactprovestobeatransformativeexperience
+      initsownright.Thatisbecause,intheprocessofinterpretingatext–and‘text’ittobe
+      understood here in a broad sense – the completeness that underlies its meaning clashes
+      with the aleatory incongruity of its individual elements. Whether one is dealing with
+      cultural, social-political, scientific or other texts, the interpretative process is intermit-
+      tentlydisruptedbyparallax-causingsingularitiesthatdistortandaltertheoverallstructure
+      ofmeaningthatgovernsit.Initsturn,impactedandemended,thetextureofrealitycasts
+      new light on its parts. These singularities in/exist in and for the text prior to being
+      encountered;andthisencounterisanoverdeterminedeventthatburstsforthfromthebas-
+      fonds of the historical, experiential real. ‘Not just occasionally but always’, Gadamer
+      writes,                                                
+        the meaning of a text goes beyond its author. That is why understanding is not merely a
+        reproductive but always a productive activity as well […] fresh sources of error [are]
+        constantlyexcluded,sothatallkindsofthingsarefilteredoutthatobscurethetruemeaning;
+        butnewsourcesofunderstandingarecontinuallyemergingthatrevealunsuspectedelements
+        of meaning.69                                        
+        Apart from the fact that this dispositif marks the junction between philosophical
+      hermeneutics and Bildung, it also reveals the presence of something like a critique of
+      ideology in Gadamer.70 This negative, dialectical quality manifests itself most promi-
+      nently in a pivotal passage of Truth and Method in which the eminent hermeneutist
+      elaborates on one of the most basic elements of his thought, that is, tradition. There,
+      Gadamer posits tradition as the “commonality”, the objective “ur-frame” that directs
+                                                             
+                                                             
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+      424                          Philosophy and Social Criticism 51(3)
+                                                             
+                                                             
+      human understanding.71 But in the same breath, he historicises and dialecticises it.
+      Tradition,heexplains,‘isnotsimplyapermanentprecondition’,quitetheopposite;itis
+      everwoven,unravelled,andthenwovenanewinthecourseofadialoguewiththesubject,
+      for,intheend,andhoweverdiversely,anyone isδυνητικά,if notενενεργε´ıα,poisedto
+      ‘understand,participateintheevolutionof[acultural,social-political,scientificorother]
+      tradition,andhencefurtherdetermineit[them]selves’.72However,forGadamer,tradition
+      is also affected on the side of the object. Every text, he claims, seems at first to be
+      transparent, in possession of a ‘unity of meaning’ that renders any interpretation of it
+      superfluous; it is only when this ‘fore-conception of completeness’ is shaken by the
+      realisationthatoneorseveralelementspropertothetextdepartfromthismeaningthatthe
+      needforinterpretationreallymakesitselffelt.‘Thefore-conceptionofcompletenessthat
+      guidesallourunderstanding’,Gadamerconcludes,‘isalwaysdeterminedbythespecific
+      content’.73 It follows from this that the hermeneutic circle is irreducible to either the
+      subjectortheobject,theinterpreterorthetextalone,butratherreferstotheirreciprocal
+      interpellation; in the same vein, ‘tradition’, as Gadamer understands it, is nothing more
+      thantheresidueofthisexperientialflow,therecordofitspastintersectionsasmuchasthe
+      negative condition – ‘negative’ in that it circumscribes the field of effective experience
+      andisbythattoken whatanynewemergencemusttransgress–ofitsfutureunfolding.
+      ‘Thetruelocusofhermeneutics’,Gadamerasserts,‘isthisin-between’,namely,‘theplay
+      between the traditionary text’s strangeness and familiarity to us, between being a his-
+      torically intended, distanced object and belonging to a tradition’.74
+      For a Negative Hermeneutics                            
+      Threeintriguingand,asithappens,sequentialsectionsofNegativeDialecticscutstraight
+      to the heart of the problematics at play here, and highlight some riveting fault lines
+      between Adorno and Gadamer. Their titles alone speak volumes as to their purport:
+      ‘Thing,Language,History’,‘TraditionandKnowledge’,and‘Rhetoric’.There,Adorno
+      explains that the sharpest conceptual device at the disposal of the theory of negative
+      dialecticsis‘possibility’,thatelementinthingsoractorsthatmakesthemotherthanthat
+      whichtheschemataandrolesassignedtothembythedominantsocial,political,cultural,
+      or scientific orders limit them to.75 In this perspective, possibility carries a doubly
+      negative meaning: for one thing, it signals that things are ‘so and not otherwise’, sin-
+      gularitiesthatthrowintodisarraytheidealabstractionsthatpurereasonimputestothem;
+      foranother,itdenotesthatthingsarepreciselynotjust‘soandnototherwise’,butthatthey
+      ‘have come to be under certain conditions’, conditions that are to be brought to con-
+      sciousnesstoread‘thingsinbeing[…]asatextoftheirbecoming’.76Adornothenturns
+      his critical gaze towards language:                    
+        nomatterhowhardwetryforlinguisticexpressionofsuchahistorycongealedinthings,the
+        wordsweusewillremainconcepts.Theirprecisionsubstitutesforthethingitself,without
+        quitebringingitsselfhoodtomind;thereisagapbetweenwordsandthethingtheyconjure.
+        Hence, the residue of arbitrariness and relativity in the choice of words as well as in the
+        presentation as awhole.77                            
+                                                             
+                                                             
+                                                             
+
+[PAGE 16]
+                                                             
+                                                             
+      Giannakakis                                    425     
+                                                             
+                                                             
+                                                             
+        A rift appears to form here between Adorno’s theory of negative dialectics and
+      Gadamer’s‘linguisticontology’.Whiletheformerattachesparamountimportancetothe
+      disparitybetweensubjectandobject,conceptandthing,universalandparticular,whichit
+      takestobeinevitablealbeitnotperseirreconcilable,thelattererasesthissamedifference
+      byproclaimingthat‘Beingthatcanbeunderstoodislanguage’.78Insayingthis,Gadamer
+      seemstoproposethatlanguagepossessesthepowertocallintobeingallthatalreadyisor
+      couldbe,whichinturnentailsthatthereisnothing–atleast,nothingofmeaning–outside
+      language, thereby espousing a perspective in which the latter acts as a Ur-Subject that
+      constitutes reality over and above the subtleties of the object and the exertions of the
+      (particular)subjectofinterpretation.79Theonto-epistemologicalcorollariesofthisthesis
+      arefairlysimpletofollow:whatisandwhatcanbeknownareultimatelystructuredand
+      attainableby/inlanguage,aconditionthatresultsinthepreclusionofthatpartofreality
+      that eludes the word, what ever since Kant has been known as the ‘thing-in-itself’, and
+      after Hegel, and notably Adorno, the ‘nonidentical’.80 The worry here is not about
+      whetherphilosophicalhermeneuticstakesnoticeofthe‘other’ornot–itmostcertainly
+      does–,butrather,asHabermasandDerridahaveaptlyshown,thatforit,theconditionfor
+      theappreciationofthe‘other’isitssubsumptionunderanalreadyestablishedsavoir–the
+      stipulationthatthe‘other’beidentifiedassuchwithintheambitofthe‘same’,beitagiven
+      tradition or a projected consensus.81                  
+        In point of fact, Gadamer and Adorno share some common ground on the intricate
+      questionofthenexusbetweentradition,knowledgeandlanguage.Foronething,Adorno
+      believes, as does Gadamer, that ‘thought is the internalization of history’.82 As a de-
+      terminedmovementevolvingintime,orasitwere,asintellectualBildung,thought,the
+      critical theorist contends, isatthemicrolevel what social-historical progressmeans for
+      the grand order of things. And just as there can be no earthly dure´e without temporal
+      events – that is, without actual things and their entanglements in time – thought’s im-
+      manenthistoricitycannotbepurelyformaleither.Tothecontrary,itiscontingentonits
+      material substrate, namely, the multiple trails that punctuate its unfolding.83 This is the
+      crux of Adorno’s assimilation of dialectics to ‘language as the organon of thought’: to
+      establishdialecticsasthespiritedmiseenoeuvreofthe‘rhetoricalelement’implicitinthe
+      actofreflectionthatpursuesarapprochement–albeitwithoutrenderingthemidentical–
+      ‘ofthingandexpression,tothepointwherethedifferencefades’.84Alongthesamelines,
+      and this is a further point of comparison, Gadamer evokes the ‘perfect word’ qua the
+      consummate‘reflectionofthething’,thelocutionthatinstantiatesthe‘pathofthethought
+      to which alone […] it owes its existence’.85 Gadamer then addresses, in terms that are
+      highly relevant to a critical theoretical perspective, a timely preoccupation: the more
+      words are reduced to tokens – Adorno would say pure, timeless ‘idols’ – that only
+      referencethingsinlieuofnamingthemintheirfullparticularity,themoretheybecome,at
+      best,plaintautologies,atworst,thebareapparatusofaninstrumentalrapporttoreality.86
+      This insight follows logically from Gadamer’s theorisation of experience as a negative,
+      open engagement with the world. As he explains,        
+        experienceisinitiallyalwaysexperienceofnegation:somethingisnotwhatwesupposeditto
+        be. In view of the experience that we have of another object, both things change – our
+                                                             
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+      426                          Philosophy and Social Criticism 51(3)
+                                                             
+                                                             
+        knowledgeanditsobject.Weknowbetternow,andthatmeansthattheobjectitself“does
+        notpassthetest.”Thenewobjectcontainsthetruthabouttheoldone[…]Thedialecticof
+        experience has its proper fulfillment not in definitive knowledge but in the openness to
+        experience that ismadepossible byexperienceitself.87 
+        Adorno would most likely approve of Gadamer’s (negative) dialectical portrayal of
+      experience.88Evenso,mattersbecomemoreproblematicthemomentthehermeneuticist
+      bringstraditionintothepicture.‘Hermeneuticalexperienceisconcernedwithtradition’,
+      GadamerwritesinTruthandMethod,andadds,soastoallayanymisapprehensions,‘[t]
+      hisiswhatistobeexperienced’.89Hethenproceedstomakeacrucialpoint:‘traditionis
+      not simply a process that experience teaches us to know and govern; it is language’.90
+      Now, compare this with the following fragment from Negative Dialectics:
+                                                             
+        philosophy’smethexisintraditionwouldonlybeadefinitedenialoftradition.Philosophy
+        restsonthetextsitcriticizes.Theyarebroughttoitbythetraditiontheyembody,anditisin
+        dealingwiththemthattheconductofphilosophybecomescommensurablewithtradition.
+        Thisjustifiesthemovefromphilosophytoexegesis,whichexaltsneithertheinterpretation
+        northesymbolintoanabsolutebutseeksthetruthwherethinkingsecularizestheirretrievable
+        archetype of sacredtexts.91                          
+        ForallthenegativeandopendispositionofGadamer’sthought,thereisinitsomething
+      likeanontologicalclosureoftradition,inthattraditionis,forhim,essentiallylanguage
+      andlanguageisinturnbeingthatisunderstood.Itis,therefore,notunusualforGadamer
+      toholdstatementslike‘theunderstandingoftraditiondoesnottakethetraditionarytextas
+      an expression of another person’s life, but as meaning that is detached from the person
+      who means it, from an I or a Thou’.92 In other terms, tradition is ontologised as the
+      dialogical site par excellence, which both transcends and envelops the subject and the
+      object,or,inGadamer’sparlance, the‘I’andthe‘Thou’.Sure,for Gadamer dialogical-
+      hermeneuticexperiencetakesplacewithtradition,sincethelatteris‘agenuinepartnerin
+      dialogue’,butaboveallitisadialoguealwayswithintraditionseeingas‘webelongtoit,
+      as does the I with a Thou’ – in short, there is no outside.93
+        ThingsarequitedifferentwithAdorno.Admittedly,histheoryofnegativedialectics
+      weaves a tight bond between experience and tradition, if only in the form of an ‘un-
+      conscious remembrance’, since, as Adorno characteristically observes, ‘there is no
+      questionwhichwemightsimplyask,withoutknowingofpastthingsthatarepreservedin
+      thequestionandspurit’.94Moreover,itisalsotruethathetakesissuewiththeseparation
+      of(intellectual)experienceandlanguageadvocatedbyascientific–orrather,scientistic–
+      attitudeinthenameofrootingout‘linguisticslovenliness’,andpurginglanguageofits
+      mythological (i.e. metaphysical) overtones.95 Adorno calls this process the ‘mathema-
+      tisation of language’, though Herbert Marcuse offers perhaps a more apt account of it
+      when he talks about the transformation of language into the lingo of ‘total adminis-
+      tration’.96 The distinctive feature of this operation, Marcuse states, is the system(at)ic
+      emphasisitputson‘positive[i.e.non-contradictory,non-adversarial]thinkinganddoing’
+      attheexpenseofallthosenegativeexperientialencountersandmediationsthatcondition
+                                                             
+                                                             
+
+[PAGE 18]
+                                                             
+                                                             
+      Giannakakis                                    427     
+                                                             
+                                                             
+                                                             
+      thepathof‘cognitionandcognitiveevaluation’.97Hence,polaroppositesareconflated,
+      soothing cliche´s and platitudes proliferate, abbreviations serve as cloaks to hide the
+      antinomicnatureofstatesofaffairswhichtheyotherwisename,andsoon,allaspectsofa
+      ‘matter-of-fact’dispositionthatfoists(its)staticimagestherewherefluentyetassiduous
+      conceptual deliberation and expression are required.98 In such circumstances, Adorno
+      contends,itisessential‘nottofollowwherelanguageleads,buttoresistitwiththeaidof
+      reflection’.99 Does this mean that there is after all a clear break between language and
+      (intellectual)experienceinAdorno?Notquite.Ifhecallsforsomedegreeof‘suspicion’
+      towards language, it isnot ina spirit of depreciation, butoutof a desire tohold opena
+      space for critical differentiation vis-a`-vis the linguistic effort invested in every act of
+      thought – the eventuality of an undiminished interlocutor. ‘To be known’, he famously
+      observesinNegativeDialectics,‘theinwardnesstowhichcognitionclingsinexpression
+      always needs its own outwardness as well’.100 What is interesting,here, is that Adorno
+      seemstopositionhimselfattheantipodesofGadamer’slinguisticontologybylettingitbe
+      understoodthatlanguageismisconstruedbeing.101Whilethehermeneuticistespousesthe
+      ‘basicideathatlanguage[-qua-tradition]isamediumwhereIandworldmeetor,rather,
+      manifest their original belonging together’, for the critical theorist such an ‘original
+      belongingtogether’wouldbeasillusoryasaunityof‘Iandworld’inthenow.102After
+      all,forAdorno,language-qua-traditionistherepositoryofsedimentedpriorexperiential
+      truth,butitisalwaysalsothebearerofthefalsitythatstandsinthewayofpossiblefuture
+      experience.Tobesure,Gadamermovesinthesamedirectionwhenhedraws–pacede
+      Saussure–aquasi-ontologicaldistinctionbetweenlangage,langueandparole,thatisto
+      say, between the idea(l) of pure, transparent impartation and ‘the speaking word in its
+      [collectiveorindividual]workingreality’,adifference,heaffirms,‘thatcertainlyinvolves
+      astrange formofconcealment’.103Thisisnottosaythatrealitytranspires‘“behindthe
+      back” of language’, Gadamer elaborates elsewhere, but that it eventuates ‘behind the
+      backsofthosewholiveinthesubjectiveopinionthattheyhaveunderstood“theworld”
+      (orcannolongerunderstandit);thatis,realityhappenspreciselywithinlanguage’.104But
+      here is the problem: language is thereby at the same time rooted in the concrete social,
+      historical and cultural realities of living and thinking women and men, and the supra-
+      historical, trans-mundane ontological condition of every possible communicative or
+      interpretativeact.Viewedinthislight,experienceismouldedbyandenclosedwithinthe
+      horizon of language – ‘reality happens precisely within language’ –, but seeing as
+      language per se is basically ineffable – ‘[l]anguage is not a delimited realm of the
+      speakable[…]languageisall-encompassing’–theambitofexperienceissetbyitsontic
+      manifestations, existing languages, which, though particular, still lay claim to univer-
+      sality.105Sotoowithtradition,for,asGadamerargues,‘languageisnotonlyanobjectin
+      ourhands,itisthereservoiroftraditionandthemediuminandthroughwhichweexist
+      andperceiveourworld’.106Whichistosay,whatisbecomeswithGadamerthemeasure
+      of what could be.                                      
+        InLogiquesdesMondes,AlainBadioudepictsthecontemporarymomentasasocial,
+      political,culturalandtheoreticalstatusquofoundedonthepremisethatrealitycomprises
+      solely‘bodiesandlanguages’;astateofaffairshelabels‘democraticmaterialism’.107To
+      this paradigm, which he deems far too restrictive, he opposes a ‘materialist dialectics’,
+
+[PAGE 19]
+                                                             
+                                                             
+                                                             
+      428                          Philosophy and Social Criticism 51(3)
+                                                             
+                                                             
+      which, while admitting that reality is indeed mainly made up of bodies and languages,
+      alsorecognisesthattherearetruths.108Asforthequestionofthenatureofthese‘truths’
+      thatarepresentinthemidstofbodiesandlanguages,Badioucouldhardlyofferamore
+      Adornianresponse:theyareimmaterialbodies,meaninglesslanguages,genericcontinua,
+      unqualifiedaddenda,thatis,nonidentities/nonconceptualities–allthatwhich,‘nothaving
+      yetcometopass,denounceswhathas’.109ThedistinctionBadioumakesbetweenthese
+      two types of materialism proves especially useful in terms of gaining insight into the
+      variances between Adorno’s and Gadamer’s models of philosophical interpretation/
+      hermeneutics. Gadamer’s insistence on linguistic ontology and hermeneutic universal-
+      ity places him firmly within democratic materialism. To be sure, if, as he staunchly
+      believes,languageisall-encompassing,itfollowsthatallthatis,andallthatcouldbe,isin
+      theend inscrib-ed/able inthemodalities of language(i.e. particular languages), and the
+      purview of the individuals and/or communities that generate and wield them. As for
+      Adorno, his reflections on the ‘new categorical imperative’, the ‘additional factor’, the
+      ‘shudder’,tonameonlyafewkeyconceptsofhisphilosophy,attesttothefactthatthereis
+      forhimsomethingelsebesides‘bodiesandlanguages’–afeaturethatalignshistheoryof
+      negativedialecticswith‘materialistdialectics’.110This‘else’inspiresbodiesandmoves
+      language,butisidenticaltoneither.Itistruthcipheredaspossibility:thecritical,reflexive
+      andreflectiveprocessofcomingtotermswiththoseunrulymomentsofexperience–an
+      explorative hypothesis, a tentative axiom, an unexpected encounter or discovery, an
+      intrusivememory,aflareofelationorindignation,andsoon–thatdisrupttheestablished
+      schemata of regulated appearances.111 Adorno and Gadamer are at one regarding the
+      materialistdimensionofundiminishedexperience:theothermustbepalpable,mediated
+      by discursive thought, if it is to have any meaningful bearing on reality and not dis-
+      integrateintoahollowformalfigure–itmustbepartofthedialogue,promptadialectical
+      displacement within deep-seated modes of thinking and doing. As far as Gadamer is
+      concerned, this displacement is affirmative. It involves the arrival of an extraneous el-
+      ement, and results not in an augmented cognition, ‘either in the sense of superior
+      knowledge of the subject because of clearer ideas or in the sense of fundamental su-
+      periority of conscious over unconscious production’, but, through a confluence of ho-
+      rizons, to a differential, alternative understanding.112 With Adorno, this displacement
+      takesinsteadtheformofasubtraction:consciousnessisenhancednotbyaccretions,but
+      ‘bytheactofthesubjectrendingtheveilitweavesabouttheobject’,whichitachieves
+      when‘passive,withoutanxiety,itentrustsitselftoitsownexperience’.113Thatistosay,
+      undiminishedexperiencerequiresamomentoffar-reachingself-criticalreflectionelicited
+      by and for the sake of what is not ‘self’. Adorno explains thus that,
+        thesurplusoverthesubject,whichasubjectivemetaphysicalexperiencewillnotbetalked
+        outof,andtheelementoftruthinreity–thesetwoextremestouchintheideaoftruth.For
+        therecouldnomorebetruthwithoutasubjectfreeingitselffromdelusionsthantherecould
+        betruth without that whichis notthe subject,that inwhich truth hasits archetype.114
+        On this reading, undiminished experience is not about broadening the horizon of a
+      hegemonicsubject,butaboutgainingawarenessofthecracksthatexistinitandcarving
+                                                             
+                                                             
+
+[PAGE 20]
+                                                             
+                                                             
+      Giannakakis                                    429     
+                                                             
+                                                             
+                                                             
+      themoutinthehopeofbeingabletogazeatsomething‘more’pastit.However,thismore
+      isnotmystical,itisimmanentandnegative–itdenotesallthatwhich(in)existsinastate
+      of nonidentity relative to the established constructs of identity, the inconsistent multi-
+      plicitythatunderliesthedomainofregulatedappearances.115ForAdorno,alterityisnot
+      anoutcome,oneisalwaysalreadyinalbeitnotalwaysawareofit,hencetheaspirationto
+      one day learn to see ‘the many as no longer inimical’.116
+        AdornoandGadamerarenotonthesamepath,yettheirthoughtsrunparallel.Sufficeit
+      to say, by way of conclusion, that while their theorisations of undiminished experience
+      harbourelementsofdivergence,theirunderstandingof‘mimesis’represents,bycontrast,
+      anotablepointofconvergence.ThewayGadamerwritesaboutitistelling:‘themeaning
+      oftheword“mimesis”consistssimplyinlettingsomethingbetherewithouttryingtodo
+      anythingmorewithit[…]thatsomethingmeaningfulisthereasitself’.117Adorno,forhis
+      part, correlates mimesis with neoterism. ‘Only in the new’, he characteristically writes,
+      ‘doesmimesisunitewithrationalitywithoutregression:Ratioitselfbecomesmimeticin
+      the shudder of the new’.118 Adorno then expands on the nature of the ‘new’, which he
+      qualifies as ‘a blind spot, as empty as the purely indexical gesture “look here”’.119 The
+      mimetic element in the experience of the new and other, the two philosophers seem to
+      agree,atteststothefactthatunderstandingistrulyoftheorderoftheevent.Notonlythat,
+      butAdorno’sandGadamer’sapproachestomimesisdovetailontheformer’sintuitionthat
+      truthissubjecttothe‘interpretiveeyewhichseesmoreinaphenomenonthanitis’,and
+      that,‘solely because ofwhat it is’.120 Thistype ofexperienceapproximates a‘negative
+      hermeneutics’.Negative,inthatitdoesnotacquiesceinthemerelygivenbutorientsitself
+      towardstheganzAndere,theentirelyother.Ahermeneutics,foritdoesnotsettleforabare
+      factual itemisation of this other, but reads it instead as a dialogical gesture open to
+      historicalinterpretation.Here,thepoet’swordsringoutwithabidingtopicality:ils’agit
+      d’arriver a` l’inconnu par le de´règlement de tous les sens.121
+      Declaration of Conflicting Interests                   
+      Theauthor(s)declarednopotentialconflictsofinterestwithrespecttotheresearch,authorship,and/
+      orpublication of thisarticle.                          
+      Funding                                                
+      Theauthor(s)receivednofinancialsupportfortheresearch,authorship,and/orpublicationofthis
+      article. The publication of this paper in open access format was made possible by the generous
+      supportof the Open AccessPublication Fund ofGoethe University Frankfurt amMain.
+                                                             
+      ORCID iD                                               
+      VangelisGiannakakis https://orcid.org/0000-0003-3714-6487
+                                                             
+      Notes                                                  
+        1. Marx, Capital,Volume I,Chapter15, SectionI,n.4.   
+        2. MaxHorkheimer,Eclipse ofReason,21and85.           
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 21]
+                                                             
+                                                             
+                                                             
+      430                          Philosophy and Social Criticism 51(3)
+                                                             
+                                                             
+        3. See Giannakakis, Vangelis. Negative Dialectics and Event: Nonidentity, Culture, and the
+         Historical Adequacy of Consciousness (Lanham: Lexington Books/Rowman & Littlefield,
+         2021).                                              
+        4. AdornoandvonHaselberg,“OntheHistoricalAdequacyofConsciousness”,97.Elsewhere,
+         Adorno summarises this view as follows: ‘Historical consciousness is concentrated in the
+         indispensablereflectiononwhatisandwhatisnolongerpossible,ontheclearinsightinto
+         techniques andmaterials andhowthey fit together’ [Adorno,“On Tradition”,81].
+        5. Gadamer, TruthandMethod, xxv.                     
+        6. Ibid., xxxv.                                      
+        7. Adorno,Lectures onNegativeDialectics, 53.         
+        8. Adorno,“The actuality ofphilosophy”,127.          
+        9. Ibid., 126.                                       
+       10. Horkheimer andAdorno,Dialectic of Enlightenment,18.
+       11. Adorno,“The actuality ofphilosophy”,127.          
+       12. Horkheimer andAdorno,Dialectic of Enlightenment,19.
+       13. Ibid., 6.                                         
+       14. Ibid., 21.                                        
+       15. Ibid.19and21.                                     
+       16. Adorno,“The actuality ofphilosophy”,126.          
+       17. Ibid.(emphasis added)                             
+       18. Onthis pointseePickford, “Riddlework I”,73.       
+       19. Ibid.                                             
+       20. Ibid.                                             
+       21. Ibid., 120.                                       
+       22. Adorno,Negative Dialectics,152–153.               
+       23. SeeGramsci,SelectionsfromthePrisonNotebooks,388–399,404–407,434–436.Gadamer
+         tooadherestothisvisionofthings.See,forinstance,Gadamer,ReasonintheAgeofScience,
+         82–83.                                              
+       24. SeeFeenberg,ThePhilosophy ofPraxis,15–20.         
+       25. SeeLuka´cs,HistoryandClassConsciousness,203–207.Itcouldbeobjectedherethatradical
+         historicismimpliesakindofclosedimmanence.ThiswouldseemtocontradictAdorno’scall
+         foranapproachtosocietyandexperiencethatis,atoneandthesametime,immanentand
+         transcendent,soastoguaranteeitsreflexive(self-)criticalcharacter.Itispreciselyassuch,
+         however, that Adorno’s position does not allow immanence or transcendence to become
+         absolute–forhim,oneis/oughttobemediatedbytheother.Thatiswhy,aswillbeshownin
+         the course of this study, Adorno evokes the idea of an ‘exact fantasy’ in relation to philo-
+         sophical interpretation, namely, a kind of ‘sublimation-from-within’ or ‘immanent tran-
+         scendence’.For,inhisview,onecannotplaceoneselfoutsideofrealityasitexistsbysheer
+         fiat,norshouldonesimplysurrendertoitjustbecauseithappenstobesoandnototherwise.
+         Criticaltheoryas‘exactfantasy’ratheroperatesintheintersticebetweenactualrealityandthe
+         reality of what would be different [see, for instance, Adorno, “On Tradition”, 78]. Inter-
+         estingly,Gadamer’sphilosophyallowsroomforasimilarconceptionoftherelationbetween
+         immanenceandtranscendence,thoughaswillbeshownbelowimportantdifferencesremain,
+         see, for example,Gadamer andDottori, ACenturyof Philosophy,36–37.
+
+[PAGE 22]
+                                                             
+                                                             
+      Giannakakis                                    431     
+                                                             
+                                                             
+                                                             
+       26. Adorno,“The Actuality of Philosophy”, 129.        
+       27. Adorno,Negative Dialectics,3.                     
+       28. Indeed,asAdornocharacteristicallyremarks,‘[n]othingbutachildishrelativismwoulddeny
+         thevalidityofformallogicandmathematicsandtreatthemasephemeralbecausetheyhave
+         cometo be’.Adorno,Negative Dialectics, 40.          
+       29. Adorno,“The actuality ofphilosophy”,131.          
+       30. Ibid., 132.                                       
+       31. For a more detailed discussion on the notion of immanent transcendence see Haynes,
+         Immanent Transcendence.                             
+       32. Bernstein,“TheConstellationofHermeneutics,CriticalTheoryandDeconstruction”,272–
+         273. Menke, The Sovereignty of Art, 91–95. See also, Haslanger, “Racism, Ideology, and
+         Social Movements”,8.                                
+       33. Adorno,Lectures onNegativeDialectics, 53.         
+       34. Adorno,“Theory of Pseudo-Culture (1959)”, 19.     
+       35. Ibid.See also,Adorno,“On Tradition”, 77.          
+       36. Rancière, Le PartageDuSensible,12–14; Rancière, LaMe´sentente,48–49.
+       37. Adornowasalreadydrawingattentiontothistypeofdivision,togetherwithHorkheimer,as
+         earlyasthe1940s.SeeHorkheimerandAdorno,DialecticofEnlightenment,16,22–23,168–
+         169,185,206.Cf.Adorno,“Who’sAfraidoftheIvoryTower?AConversationwithTheodor
+         W.Adorno”,237.                                      
+       38. Gadamer, TruthandMethod, 9–10.                    
+       39. Davey, UnquietUnderstanding,41.                   
+       40. Gadamer, “On the scope and function of hermeneutical reflection” in Philosophical
+         Hermeneutics,18.                                    
+       41. Gadamer, TheBeginningof Knowledge,119–120.        
+       42. See, for instance, Gadamer and Dutt, Hans-Georg Gadamer Im Gespra¨ch, 71–72. Also,
+         Gadamer’s letter to R. J. Bernstein. See Bernstein, Beyond Objectivism and Relativism,
+         262–263.                                            
+       43. Onthis seeDreyfus, “Holism andHermeneutics”.      
+       44. Gadamer, Truth and Method, 502, 577–579. Also, Mendelson, “The Habermas-Gadamer
+         Debate”,45–46.AlasdairMacIntyre’sargumentregardingthedialecticbetweentheneedfor
+         predictability andthe ineluctability ofthe elementof unpredictability in humanlife ishere
+         apposite,seeMacIntyre, After Virtue,103–104.        
+       45. Gadamer,TruthandMethod,283,312–313.ItisworthnotingherethatGadamer’streatment
+         of the notion of ‘prejudice’ lies at the centre of a wider controversy concerning his stance
+         towardstheThirdReich.Formoreonthisdebate,seeWolin,“FascismandHermeneutics:
+         GadamerandtheAmbiguitiesof‘InnerEmigration’”.Averyinterestingconversationonthis
+         topicinvolvingGeoffWaite,TeresaOrozcoandCatherineH.Zuckertcanalsobefoundin
+         Chapter III of Gadamer’s Repercussions. Andrew Bowie’s obituary on Gadamer touches
+         briefly,but meaningfully,onthisissue.               
+       46. Horkheimer andAdorno,Dialectic of Enlightenment,19.
+       47. Gadamer,TruthandMethod,294–296,onGadamer’spositivereinterpretationofprejudice
+         see283–284and289.                                   
+       48. Ibid., 289.                                       
+
+[PAGE 23]
+                                                             
+                                                             
+                                                             
+      432                          Philosophy and Social Criticism 51(3)
+                                                             
+                                                             
+       49. Ibid.                                             
+       50. Horkheimer andAdorno,Dialectic of Enlightenment,20.
+       51. Gadamer,TruthandMethod,479–480.Also,Adorno,“OnSubjectandObject”,255;Adorno,
+         “MarginaliatoTheoryandPraxis”,265;Adorno,“NotesonPhilosophicalThinking”,129.
+         Thelineofthoughtpursuedhereimpliesthat,contrarytoconventionalreadingsofGadamer,
+         hismodelofVersta¨ndigungisnotexclusivelyonebetweensubjectandsubject,butalsoone
+         betweensubjectandobject,totheextentthatsubjectandobjectmediateoneanother.Inthis
+         respect,thepositionsofGadamerandAdornotendtoconverge.Evidenceofthiscanbefound
+         in Gadamer’s theorisation of the work of art. As he explains, when we talk ‘about art and
+         artisticcreationinthepreeminentsense,thedecisivethingisnottheemergenceofaproduct,
+         butthefactthattheproducthasaspecialnatureofitsown.It“intends”something,andyetitis
+         notwhatitintends.Itisnotanitemofequipmentdeterminedbyitsutility,asallsuchitemsor
+         productsofhumanworkare.Certainlyitisaproduct,thatis,somethingproducedbyhuman
+         activitythatnowstandsthereavailableforuse.Andyettheworkofartrefusestobeusedin
+         anyway[…]itissomethingthathasemergedinanunrepeatablewayandhasmanifesteditself
+         inauniquefashion:Itseemstome,therefore,thatitwouldbemoreaccuratetocallitacreation
+         (Gebilde)thanawork.ForthewordGebildeimpliesthatthemanifestationinquestionhasina
+         strangewaytranscendedtheprocessinwhichitoriginated,orhasrelegatedthatprocesstothe
+         periphery. It is set forth in its own appearance as a self-sufficient creation’ [Gadamer, The
+         Relevance of the Beautiful and Other Essays, 125–126]. This resonates strongly with
+         Adorno’sviewthat‘[a]rtworkssurpasstheworldofthingsbywhatisthing-likeinthem,their
+         artificial objectivation. They become eloquent by the force of the kindling of thing and
+         appearance. They are things whose power it is to appear. Their immanent process is ex-
+         ternalisedastheirownact,notaswhathumanshavedonetothemandnotmerelyforhumans
+         […]Thisleadstoasubjectiveparadoxofart:toproducewhatisblind,expression,bywayof
+         reflection,thatis,throughform;nottorationalisetheblindbuttoproduceitaesthetically,‘To
+         makethingsofwhichwedonotknowwhattheyare’[Adorno,AestheticTheory,80–81and
+         114].Thisis,however,amorenuanceddiscussionthatmeritsmorespacethanisavailable
+         here. Cf. Wiehl,“Asthetische TheorieOder Hermeneutische Asthetik”.
+       52. Gadamer, TruthandMethod, 479–480.                 
+       53. Adorno,Lectures onNegativeDialectics, 81.         
+       54. Ibid.                                             
+       55. ‘Infactthehorizonofthepresentiscontinuallyintheprocessofbeingformedbecauseweare
+         continually having to test all our prejudices’, Gadamer writes in Truth and Method. ‘An
+         important part of this testing’, he pursues, ‘occurs in encountering the past and in under-
+         standingthetraditionfromwhichwecome.Hencethehorizonofthepresentcannotbeformed
+         withoutthepast.Thereisnomoreanisolatedhorizonofthepresentinitselfthanthereare
+         historicalhorizonswhichhavetobeacquired.Rather,understandingisalwaysthefusionof
+         thesehorizonssupposedlyexistingbythemselves.Wearefamiliarwiththepowerofthiskind
+         offusionchieflyfromearliertimesandtheirnaiveteaboutthemselvesandtheirheritage.Ina
+         tradition, this process of fusion is continually going on, for there old and new are always
+         combiningintosomethingoflivingvalue,withouteitherbeingexplicitlyforegroundedfrom
+         the other’.See Gadamer,Truth andMethod,317.         
+       56. Adorno,Minima Moralia, 247.                       
+
+[PAGE 24]
+                                                             
+                                                             
+      Giannakakis                                    433     
+                                                             
+                                                             
+                                                             
+       57. Gadamer, TruthandMethod, 317.                     
+       58. Ibid.                                             
+       59. SeeAdorno,NegativeDialectics,6.Also,Gadamer,TruthandMethod,294;“TheOldandthe
+         New(1981)”,53.                                      
+       60. Gadamer,TruthandMethod,302(emphasisadded).Ontheconceptof‘substance’,seealso,
+         Gadamer, The Relevance of the Beautiful, 78; Hegel’s Dialectic, 18; Reason in the Age of
+         Science,155–156.                                    
+       61. Adorno,“Cultural Criticism andSociety”,30.        
+       62. Adorno,Philosophical Elements of a Theoryof Society,21.
+       63. Moreprecisely,Adornostatesthat‘[t]hewholeexistsonlyinthesenseofavanishingpoint
+         [Das Ganze ist nur im Sinne eines Fluchtpunktes]’ [Adorno, Philosophical Elements of a
+         Theory of Society, 22; Philosophische Elemente einer Theorie der Gesellschaft, 41]. It is
+         interestingtonoteherethattheterm‘vanishingpoint[Fluchtpunkt]’inpaintingreferstoa
+         constituentelementofalinearperspectivescheme.Itisthepointinvirtualspacewhereall
+         parallellinesappeartoconvergefarintothedistance,oftenatthepointonthehorizonthatis
+         thefurthestfromtheviewer.Onmanycases,andnotwithoutrecallingGadamer,Adornouses
+         thisexpressiontosignifyacertaintotalisationanddelimitationofexperience,andthuswhat
+         canoroughttobetranscended[see,forinstance,Adorno,AestheticTheory,80,132,157,217,
+         353–354; Negative Dialectics,207, 320].             
+       64. Ibid., 21–22.                                     
+       65. Adorno,“Cultural Criticism andSociety”,33.        
+       66. Hegel,Phenomenology, 55,298–299. Adorno,“Cultural Criticism and Society”,22.
+       67. Adorno,“Cultural Criticism andSociety”,28.        
+       68. Ibid.                                             
+       69. Gadamer, TruthandMethod, 307and309.               
+       70. Seealso,Nuyen,A.T.“CritiqueofIdeology:HermeneuticsorCriticalTheory?”,429–430.
+       71. Ibid., 305.                                       
+       72. Ibid.(emphasis added)                             
+       73. Ibid.                                             
+       74. Ibid.,306.OnthehermeneuticcircleinAdornoandGadamer,seealsoHulatt,“Interpretation
+         andCircularity–JustificatoryIssuesinAdorno’sEpistemologyandSocialCriticism,anda
+         Gadamerian Response”.                               
+       75. Adorno, Negative Dialectics, 106. See also Alcoff and Shomali, “Adorno’s Dialectical
+         Realism”.Macdonald,“‘WhatIs,IsMorethanItIs’:AdornoandHeideggeronthePriority
+         of Possibility”.                                    
+       76. Adorno,NegativeDialectics,52. HorkheimerandAdorno,Dialecticof Enlightenment,18.
+         Adorno expresses the same idea elsewhere in terms of the contrast between tradition and
+         possibility,whichisveryimportantforthepresentstudy:‘Whoeverseekstoavoidbetraying
+         the bliss which tradition still promises in some of its images and the possibilities buried
+         beneathitsruinsmustabandonthattraditionwhichturnspossibilitiesandmeaningsintolies.
+         Only mat which inexorably denies tradition may once again retrieve it’ [Adorno, “On
+         Tradition”,82].                                     
+       77. Ibid., 52–53.                                     
+       78. Gadamer, TruthandMethod, 490.                     
+
+[PAGE 25]
+                                                             
+                                                             
+                                                             
+      434                          Philosophy and Social Criticism 51(3)
+                                                             
+                                                             
+       79. Koegler, The Powerof Dialogue, 40–42, 59–67. Davey, “The (impossible) Future of Her-
+         meneutics”, 211–212.                                
+       80. On this point see Davey, Unquiet Understanding, 96–97, 98–99; Ko¨gler, The Power of
+         Dialogue, 57–81; Di Cesare, Utopia of Understanding, 158–160; Bernstein, Beyond Ob-
+         jectivism andRelativism,136–139.                    
+       81. SeeHabermas,OntheLogicoftheSocialSciences,164–170;Habermas,ThePhilosophical
+         DiscourseofModernity,198.Cf.Mendelson,“TheHabermas-GadamerDebate”,61.Derrida,
+         “Bonnes Volonte´s De Puissance (Une Re´ponse A` Hans-Georg Gadamer)”, 342–343. Also
+         Bernstein, “The Conversation That Never Happened (Gadamer/Derrida)”, 593. Georgia
+         WarnkeoffersaninterestingaccountofthesecondandthirdgenerationFrankfurtSchool’s
+         critiques of philosophical hermeneutics, and Gadamer’s response to them. [Warnke, “Her-
+         meneutics andCritical Theory”].                     
+       82. Adorno,Lectures onNegativeDialectics, 179.        
+       83. Ibid.Also Adorno,NegativeDialectics,54.           
+       84. Adorno,Negative Dialectics,56.                    
+       85. Gadamer, TruthandMethod, 442.                     
+       86. Ibid., 450. Adorno, Negative Dialectics, 54. On the instrumental dimension of words, see
+         HorkheimerandAdorno,DialecticofEnlightenment,2–3,22,47,118,133–136,152,161–
+         162.                                                
+       87. Gadamer, Truth and Method, 363–364. See also, Lopes, “Negative Hermeneutics and the
+         Notionof Literary Science”.                         
+       88. OnAdorno, Gadamer andnegativityseeTonon,“HermeneuticsandCritical Theory”.
+       89. Ibid., 366.                                       
+       90. Ibid.                                             
+       91. Adorno,Negative Dialectics,54–55.                 
+       92. Gadamer, TruthandMethod, 366.                     
+       93. Ibid.See also,Adorno,“On Tradition”, 75.          
+       94. Adorno,Negative Dialectics,54.                    
+       95. Adorno,Lectures onNegativeDialectics, 180.        
+       96. Marcuse,One-DimensionalMan,88.SeealsoLefebvre,LeMaterialismeDialectique,13–15.
+       97. Ibid., 88–89.                                     
+       98. Simpson,Hermeneutics as Critique,151–154.         
+       99. Adorno,Lectures onNegativeDialectics, 180;Negative Dialectics, 56.
+      100. Adorno,Negative Dialectics,53.                    
+      101. In this regard, Derrida is indeed deeply indebted to Adorno, something he ultimately ac-
+         knowledged himself. SeeDerrida, Fichus:DiscoursdeFrancfort.
+      102. Gadamer, TruthandMethod, 490.                     
+      103. Gadamer,“Thehermeneuticsofsuspicion”,321.SeealsoVilhauer,Gadamer’sEthicsofPlay,
+         93;Marshall,“TheOntologyoftheLiterarySign”.Cf.Weber,“SaussureandtheApparitionof
+         Language”.                                          
+      104. Gadamer, “Onthe scopeandfunction of hermeneutical reflection(1967)”,35.
+      105. Ibid.; “Man and language”, 67. See also Adorno, Ontology and Dialectics, 41. Adorno’s
+         discussion of the importance of foreign words is here particularly apposite, see Adorno,
+         “Words from Abroad”,especially 191–192.             
+
+[PAGE 26]
+                                                             
+                                                             
+      Giannakakis                                    435     
+                                                             
+                                                             
+                                                             
+      106. Gadamer, “Onthe scopeandfunction of hermeneutical reflection(1967)”,29.
+      107. Badiou, LogiquesDes Mondes,9–17.                  
+      108. Ibid., 12.                                        
+      109. Adorno, Minima Moralia, 235. On the relationship between Adorno and Badiou, see
+         Giannakakis,Vangelis.‘Adorno,Badiouandthepoliticsofbreakingout’.Theory&Event22,
+         no.1 (2019): 18-43.                                 
+      110. Adorno, Education After Auschwitz Adorno, History and Freedom, 228–238; Adorno,
+         Aesthetic Theory,20, 51,83–84.                      
+      111. Onthenexusbetweentruth,language,possibilityandutopiaseeAdorno,NegativeDialectics,
+         56–57; Adorno, Lectures on Negative Dialectics, 181–182; Adorno, Minima Moralia, 98.
+         Also, Martin Morris makes a similar point in Morris, Rethinking the Communicative
+         Turn,182.                                           
+      112. Gadamer, TruthandMethod, 307.                     
+      113. Adorno,“On SubjectandObject”,375.                 
+      114. Adorno,Negative Dialectics,254.                   
+      115. Onthis pointseeAdorno, Lectures onNegativeDialectics,7–8.
+      116. Gadamer, TruthandMethod, 307.Adorno,Negative Dialectics, 4.
+      117. Gadamer, TheRelevance of theBeautiful,119and121.  
+      118. Adorno,Aesthetic Theory, 20.                      
+      119. Ibid.                                             
+      120. Adorno,NegativeDialectics,28.RuthSonderegger’streatmentoftheideaof‘play’bymeans
+         of a critical, comparative reading of Gadamer and Derrida is here particularly helpful. See
+         Sonderegger, Füreine A¨sthetik des Spiels.          
+      121. Rimbaud, “A` GeorgesIzambard”, 200.               
+      References                                             
+      Adorno, Theodor W. 1967. “Cultural Criticism and Society.” In Prisms, 19–34. Translated by
+         ShierryWeberandSamuelWeber.London: Neville Spearman.
+      Adorno,TheodorW.1973.NegativeDialectics.TranslatedbyE.B.Ashton.NewYork:Continuum
+         International Publishing Group.                     
+      Adorno, Theodor W. 1991. “Words from Abroad.” In Notes to Literature, Volume 1, 185–99.
+         Translated byShierry WeberNicholsen. NewYork:Columbia University Press.
+      Adorno,TheodorW.1992.“On Tradition.”Telos 94: 75–82.   
+      Adorno,TheodorW.1993.“Theory of Pseudo-Culture (1959).”Telos95: 15–38.
+      Adorno,TheodorW.1997,AestheticTheory.editedbyGretelAdorno,RolfTiedemann,andRobert
+         Hullot-Kentor.TranslatedbyRobertHullot-Kentor.Minneapolis:TheUniversityofMinnesota
+         Press.                                              
+      Adorno,TheodorW.2000.“TheActualityofPhilosophy.”InTheAdornoReader,editedbyBrian
+         O’Connor, 23–39.Oxford: Blackwell. translated byBenjamin Snow.
+      Adorno,TheodorW.2005a.“EducationAfterAuschwitz.”InCriticalModels,191–204.Translated
+         byHenryW. Pickford. NewYork:Columbia University Press.
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 27]
+                                                             
+                                                             
+                                                             
+      436                          Philosophy and Social Criticism 51(3)
+                                                             
+                                                             
+      Adorno,TheodorW.2005b.“MarginaliatoTheoryandPraxis.”InCriticalModels:Interventions
+         andCatchwords,259–78.TranslatedbyHenryW.Pickford.NewYork:ColumbiaUniversity
+         Press.                                              
+      Adorno, Theodor W. 2005c. Minima Moralia: Reflections on a Damaged Life. Translated by
+         EdmundJephcott. London:Verso.                       
+      Adorno,TheodorW.2005d.“NotesonPhilosophicalThinking.”InCriticalModels:Interventions
+         and Catchwords, edited by Lydia Goehr. Translated by Henry W. Pickford. New York:
+         Columbia University Press.                          
+      Adorno, Theodor W. 2005e. “On Subject and Object.” In Critical Models: Interventions and
+         Catchwords,editedbyLydiaGoehr,245–58.TranslatedbyHenryW.Pickford.NewYork:
+         Columbia University Press.                          
+      Adorno,TheodorW.2006.HistoryandFreedom:Lectures1964-1965,editedbyRolfTiedemann.
+         Translated byRodney Livingstone. Cambridge: Polity. 
+      Adorno,TheodorW.2008a.LecturesonNegativeDialectics:FragmentsofaLectureCourse1965/
+         1966,edited byRolf Tiedemann.Translated byRodneyLivingstone. Cambridge: Polity.
+      Adorno, Theodor W. 2008b. Philosophische Elemente Einer Theorie Der Gesellschaft (1964),
+         edited byTobias ten Brink,andMarc PhillipNogueira,Frankfurt AmMain: Suhrkamp.
+      Adorno, Theodor W. 2010. “Who’s Afraid of the Ivory Tower? A Conversation with Theodor
+         W.Adorno.”InLanguageWithoutSoil:AdornoandLatePhilosophicalModernity,227–38.
+         EditedandTranslated byGerhard Richter.NewYork: FordhamUniversity Press.
+      Adorno,TheodorW.2019a.“OntologyandDialectics1960/61.”InTranslatedbyNicholasWalker,
+         edited byRolf Tiedemann, Cambridge: Polity.         
+      Adorno,TheodorW.2019b.PhilosophicalElementsofaTheoryofSociety,editedbyTobiasten
+         Brink, andMarcPhillipNogueira.Translated byWieland Hoban.Cambridge: Polity.
+      Adorno, Theodor W., and Peter von, Haselberg. 1983. “On the Historical Adequacy of Con-
+         sciousness.”Telos56: 97–103.                        
+      Alcoff,LindaMart´ın,andAlireza,Shomali.2010.“Adorno’sDialecticalRealism.”Symposium14,
+         no.2: 54–65.                                        
+      Badiou,Alain. 2006. LogiquesDesMondes: L’E ˆ treetL’E´ve´nement, 2.Paris: Seuil.
+      Bernstein, Richard J. 1983. Beyond Objectivism and Relativism: Science, Hermeneutics, and
+         Praxis. Philadelphia: University of PennsylvaniaPress.
+      Bernstein, Richard J. 2002. “The Constellation of Hermeneutics, Critical Theory and Decon-
+         struction.”InTheCambridgeCompaniontoGadamer,editedbyRobertJ.Dostal,267–82.
+         Cambridge: Cambridge University Press.              
+      Bernstein, Richard J. 2008. “The Conversation That Never Happened (Gadamer/Derrida).” The
+         Review ofMetaphysics 61,no.3: 577–603.              
+      Bowie,Andrew.2002.“Hans-GeorgGadamer,1900–2002.”RadicalPhilosophy 114: 50–52.
+      Davey,Nicho.2017.“The(Impossible)FutureofHermeneutics.”JournaloftheBritishSocietyfor
+         Phenomenology 48,no.3: 209–21.                      
+      Davey,Nicholas.2006.UnquietUnderstanding:Gadamer’sPhilosophicalHermeneutics.SUNY
+         SeriesinContemporaryContinentalPhilosophy.Albany,NY:StateUniversityofNewYork
+         Press.                                              
+      Derrida,Jacques.1984.“BonnesVolonte´sDePuissance(UneRe´ponseA` Hans-GeorgGadamer).”
+         Revue InternationaledePhilosophie 38,no.151: 341–43.
+
+[PAGE 28]
+                                                             
+                                                             
+      Giannakakis                                    437     
+                                                             
+                                                             
+                                                             
+      Derrida, Jacques. 2002.Fichus:Discours deFrancfort.Paris: Galile´e.
+      DiCesare,Donatella.2012.UtopiaofUnderstanding:BetweenBabelandAuschwitz.Translatedby
+         Niall Keane.Albany: State University of NewYork Press.
+      Dreyfus,HubertL.1980.“HolismandHermeneutics.”TheReviewofMetaphysics34,no.1:3–23.
+      Feenberg, Andrew. 2014. The Philosophy of Praxis: Marx, Luka´cs and the Frankfurt School.
+         London:Verso.                                       
+      Gadamer, Hans-Georg. 1976. Hegel’s Dialectic: Five Hermeneutical Studies. Translated by
+         P.Christopher Smith.New Haven:Yale University Press.
+      Gadamer,Hans-Georg.1977a.“ManandLanguage(1966).”InPhilosophicalHermeneutics,edited
+         byDavidE.Linge,59–68.TranslatedbyG.B.HessandR.E.Palmer.Berkeley:Universityof
+         California Press.                                   
+      Gadamer,Hans-Georg.1977b.“OntheScopeandFunctionofHermeneuticalReflection(1967).”In
+         PhilosophicalHermeneutics,editedbyDavidE.Linge,18–43.TranslatedbyG.B.Hessand
+         R.E. Palmer. Berkeley:University of California Press.
+      Gadamer,Hans-Georg.1983.ReasonintheAgeofScience.TranslatedbyFrederickG.Lawrence.
+         Massachusetts: MITPress.                            
+      Gadamer,Hans-Georg. 1984.“The Hermeneuticsof Suspicion.”ManandWorld17: 313–23.
+      Gadamer,Hans-Georg.1986.TheRelevanceoftheBeautifulandOtherEssays,editedbyRobert
+         Bernasconi. Translated byNicholasWalker.Cambridge: Cambridge University Press.
+      Gadamer,Hans-Georg.2002.TheBeginningofKnowledge.TranslatedbyRodColtman.NewYork:
+         Continuum.                                          
+      Gadamer, Hans-Georg. 2013. Truth and Method. Translated by Joel Weinsheimer and Donald
+         G.Marshall. London:Bloomsbury Academic.             
+      Gadamer,Hans-Georg.2016.“TheOldandtheNew(1981).”InHermeneuticsbetweenHistoryand
+         Philosophy: The Selected Writings of Hans-Georg Gadamer Volume I, edited by Pol
+         Vandevelde, andArun Iyer,51–57. London:Bloomsbury Academic.
+      Gadamer,Hans-Georg,andRiccardo,Dottori.2003.ACenturyofPhilosophy:AConversationwith
+         RiccardonDottori.TranslatedbyRodColtmanandSigridKoepke.NewYork:Continuum.
+      Gadamer,Hans-Georg,andCarsten,Dutt.1995.Hans-GeorgGadamerImGespra¨ch:Hermeneutik,
+         A¨sthetik,Praktische Philosophie. Heidelberg: Winter.
+      Gramsci, Antonio. 1971. Selections from the Prison Notebooks, edited by Quintin Hoare, and
+         Geoffrey Nowell Smith,NewYork: International Publishers.
+      Habermas, Jürgen. 1988a. On the Logic of the Social Sciences. Translated by Shierry Weber
+         NicholsenandJerry A.Stark. Massachusetts: MITPress. 
+      Habermas,Jürgen.1998b.ThePhilosophicalDiscourseofModernity:TwelveLectures.Translated
+         byFrederickLawrence. Cambridge: Polity.             
+      Haslanger,Sally.2017.“Racism,Ideology,andSocialMovements.”ResPhilosophica94,no.1:
+         1–22.                                               
+      Haynes, Patrice. 2012. Immanent Transcendence: Reconfiguring Materialism in Continental
+         Philosophy.London:Bloomsbury.                       
+      Hegel, Georg Wilhelm Friedrich. 1979. Phenomenology of Spirit. Translated by A. V. Miller.
+         Oxford:Oxford University Press.                     
+      Horkheimer,Max.2004. Eclipseof Reason.London:Continuum.
+                                                             
+
+[PAGE 29]
+                                                             
+                                                             
+                                                             
+      438                          Philosophy and Social Criticism 51(3)
+                                                             
+                                                             
+      Horkheimer, Max, and Adorno, Theodor W.. 2002. Dialectic of Enlightenment, edited by
+         GunzelinSchmidNoerr.TranslatedbyEdmundJephcott.Stanford:StanfordUniversityPress.
+      Hulatt,Owen.2015.“InterpretationandCircularity-JustificatoryIssuesinAdorno’sEpistemology
+         andSocialCriticism,andaGadamerianResponse:Adorno’sEpistemologyandaGadamerian
+         Response.”Constellations 22,no. 3:369–80.           
+      Krajewski, Bruce, ed. 2004. Gadamer’s Repercussions: Reconsidering Philosophical Herme-
+         neutics.Berkeley,CA: University of California Press.
+      Ko¨gler, HansHerbert. 1996. ThePowerof Dialogue:Critical Hermeneutics after Gadamerand
+         Foucault. Translated byPaulHendrikson.Massachusetts: MIT Press.
+      Lefebvre,Henri. 1990. LeMaterialisme Dialectique.Paris: PressesUniversitaires deFrance.
+      Lopes, Francisco Serra. 2007. “Negative Hermeneutics and the Notion of Literary Science.”
+         PrimerjalnaKnjizˇevnost 30,no.1: 71–82.             
+      Luka´cs, Georg. 1972. History and Class Consciousness. Translated by Rodney Livingstone.
+         Massachusetts: MITPress.                            
+      Macdonald, Iain. 2011. “What Is, Is More than It Is”: Adorno and Heidegger on the Priority of
+         Possibility.”InternationalJournal of Philosophical Studies 19,no.1: 31–57.
+      MacIntyre, Alasdair. 2007. After Virtue: A Study in Moral Theory. Indiana: University of Notre
+         DamePress.                                          
+      Marcuse,Herbert. 1991.One-Dimensional Man.Boston: Beacon Press.
+      Marshall, Donald G. 1976. “The Ontology of the Literary Sign: Notes toward a Heideggerian
+         Revision of Semiology.”Boundary2 4,no. 2:611–34.    
+      Marx,Karl.1887.Capital:ACritiqueofPoliticalEconomy,VolumeI.TranslatedbySamuelMoore
+         and Edward Aveling. Moscow: Progress Publishers/Marx-Engels Internet Archive. https://
+         www.marxists.org/archive/marx/works/1867-c1/        
+      Menke, Christoph. 1998. The Sovereignty of Art: Aesthetic Negativity in Adorno and Derrida.
+         Translated byNeil Solomon. Massachusetts: MITPress. 
+      Mendelson,Jack. 1979.“The Habermas-Gadamer Debate.”NewGerman Critique18: 44–73.
+      Morris,Martin.2001.RethinkingtheCommunicativeTurn:Adorno,Habermas,andtheProblemof
+         Communicative Freedom.New York: SUNY Press.         
+      Nuyen,A.T.1995.“CritiqueofIdeology:HermeneuticsorCriticalTheory?”HumanStudies17,
+         no.4: 419–32.                                       
+      Pickford,HenryW.2018.“RiddleworkI.”InDerAufrechteGangImWindschiefenKapitalismus,
+         edited by Rüdiger Dannemann, Henry W. Pickford, and Hans-Ernst Schiller, 67–91.
+         Wiesbaden: Springer.                                
+      Rancière, Jacques. 1995.LaMe´sentente: Politiqueet Philosophie.Paris: Galile´e.
+      Rancière, Jacques. 2000.LePartage DuSensible: Esthe´tique et Politique.Paris: La Fabrique.
+      Rimbaud,Arthur.1984.“AGeorgesIzambard.”InPoe´sies,editedbyDanielLeuwers,199–200.
+         Paris: LeLivredePoche.                              
+      Simpson,LorenzoC.2020.HermeneuticsasCritique:Science,Politics,Race,andCulture.New
+         York:Columbia University Press.                     
+      Sonderegger, Ruth. 2000. Für Eine A¨sthetik Des Spiels: Hermeneutik, Dekonstruktion Und Der
+         EigensinnDer Kunst.Berlin: Suhrkamp.                
+      Tonon, Margherita. 2016. “Hermeneutics and Critical Theory.” In The Blackwell Companion to
+         Hermeneutics,edited byNiall Keane, andChris Lawn, 520–29.Oxford: Blackwell.
+
+[PAGE 30]
+                                                             
+                                                             
+      Giannakakis                                    439     
+                                                             
+                                                             
+                                                             
+      Vilhauer, Monica. 2010. Gadamer’s Ethics of Play: Hermeneutics and the Other. Lanham, MD:
+         LexingtonBooks.                                     
+      Warnke, Georgia. “Hermeneutics and Critical Theory.” In The Cambridge Companion to Her-
+         meneutics, edited by Michael N. Forster, and Kristin Gjesdal, 237–59. Cambridge, UK:
+         CambridgeUniversity Press.                          
+      Weber,Samuel.1976.“SaussureandtheApparitionofLanguage:TheCriticalPerspective.”MLN
+         91,no. 5:913–38.                                    
+      Wiehl, Reiner. 2004. “Asthetische Theorie Oder Hermeneutische Asthetik: Zu Einer Nicht
+         StattgefundenenDiskussionZwischenAdornoUndGadamer.”InProblèmesPhilosophiques
+         d’Aujourd’hui:Tome2,Langage,Sens,Interpre´tation/PhilosophicalProblemsToday:Volume
+         2, Language, Meaning, Interpretation, edited by Guttorm Fløistad, 163–79. New York:
+         Kluwer Academic Publishers.                         
+      Wolin, Richard. 2014. “Fascism and Hermeneutics: Gadamer and the Ambiguities of “Inner
+         Emigration”.” In Nazi Germany and the Humanities: How German Academics Embraced
+         Nazism, edited by Rabinbach Anson, and Bialas Wolfgang, 101–139. London: Oneworld
+         Publications.                                       
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             

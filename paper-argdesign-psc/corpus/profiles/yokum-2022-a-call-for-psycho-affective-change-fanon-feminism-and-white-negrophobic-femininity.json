@@ -1,0 +1,73 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "yokum_2022",
+  "title": "A Call for Psycho-Affective Change: Fanon, Feminism, and White Negrophobic Femininity",
+  "author": "Yokum",
+  "year": 2022,
+  "journal": "Philosophy and Social Criticism",
+
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "Opens by diagnosing that Susan Brownmiller's virulent critique of Fanon in Against Our Will — charging him with misogyny, personal anguish, and confusion — has remained unanswered and standing, despite being widely cited. The puzzle: is Brownmiller's charge that Fanon hates women and obsesses over rape justified, or does it misread Fanon's sociogenic and psychoanalytic project? The paper defends Fanon against this charge.",
+    "anchored_in": ["Fanon", "Brownmiller", "Sharpley-Whiting"],
+    "stakes_claimed": "Fanon's analysis of white negrophobic femininity is best interpreted not as personal misogyny or justification of rape but as an acerbic critique of colonial society that produces such psycho-affective disorders — ultimately calling for psycho-affective change and liberation for both colonized Blacks and colonizing whites."
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["Brownmiller's reading of Fanon as misogynist", "feminist critics who see Fanon as antifeminist (hooks, Bergner, Kalisa)", "decontextualized readings of Fanon's rape fantasy passages"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": true,
+    "own_position_type": "reconstruction",
+    "own_position_explicit": true,
+    "description": "The paper performs immanent critique of Brownmiller: argues her charge misreads Fanon by ignoring (1) his sociogenic project (not merely psychoanalytic — the colonial situation is the pathological agent); (2) the critical-theoretical function of his discussion of negrophobia (diagnose to destroy); (3) the distinction between reporting/analyzing rape fantasies and condoning rape. The reconstruction of Fanon shows his account of white negrophobic femininity as a critique of colonial society, not an attack on white women."
+  },
+
+  "epistemic_mode": {
+    "primary": "purely_interpretive_hermeneutic",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": ["Fanon's Black Skin, White Masks", "Fanon's The Wretched of the Earth", "Brownmiller's Against Our Will", "Freud's psychoanalytic texts", "Lacan (as read by Fanon)", "Sharpley-Whiting on Fanon and feminism"],
+    "interpretive_methods": "Philosophical hermeneutics: careful contextual reading of disputed passages in Fanon; reconstruction of his psychoanalytic and sociogenic method; immanent critique of Brownmiller through close reading; comparison with how Sharpley-Whiting and Rabaka read the same material.",
+    "notes": "This is primarily a hermeneutic-rehabilitative paper: its primary goal is to correctly read Fanon, not to derive a normative political conclusion for the present. The 'call for psycho-affective change' in the title is Fanon's normative claim, not Yokum's independent normative thesis. Classified purely_interpretive_hermeneutic. Compare to engelman_2023 (Feuerbach-Marx senses) and kastrinakis_2024 (Adorno-Nietzsche): all three are interpretive rehabilitations without independent normative conclusion. Distinct from dyson_2024 (which reconstructs Fanon to derive an independent normative argument about institutional psychotherapy)."
+  },
+
+  "case_type": {
+    "has_case": false,
+    "case_medium": null,
+    "case_name": null,
+    "case_function": null,
+    "case_relation_to_argument": null,
+    "case_selection_justified": false
+  },
+
+  "normative_stake": {
+    "level": "medium",
+    "domain": "Fanon studies / feminist philosophy / postcolonial theory / race",
+    "claim_type": "reconstructive_descriptive",
+    "closure_type": "conclusion_open"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "immanent_critique",
+    "case_development",
+    "counter_objection_response",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["sociogeny", "negrophobia", "white negrophobic femininity", "psycho-affective change", "double narcissism", "colonial imago", "Brownmiller's misreading"],
+
+  "thinkers_deployed": {
+    "central": ["Fanon", "Freud", "Brownmiller"],
+    "engaged_critically": ["Brownmiller", "Bergner", "Kalisa", "hooks (implicit)"],
+    "referenced_only": ["Sharpley-Whiting", "Rabaka", "Ahmed", "Butler", "Bartky", "Marriott", "Lacan"]
+  },
+
+  "confidence_notes": "The classification purely_interpretive_hermeneutic rests on the paper's primary function: defending a correct reading of Fanon's Black Skin, White Masks against misreading. The paper does not derive an independent normative claim about what should be done in the present; the 'call for psycho-affective change' is Fanon's own conclusion, which Yokum reconstructs and defends. High confidence."
+}

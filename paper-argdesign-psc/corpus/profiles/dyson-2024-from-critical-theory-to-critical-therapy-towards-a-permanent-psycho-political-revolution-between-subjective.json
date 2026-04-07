@@ -1,0 +1,64 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "dyson_2024",
+  "title": "From Critical Theory to Critical Therapy: Towards a Permanent Psycho-Political Revolution between Subjective and Objective Disalienation",
+  "author": "Dyson",
+  "year": 2024,
+  "journal": "Philosophy and Social Criticism",
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "Critical theory and organized left politics have historically assumed an undialectical either/or between reformist therapy and revolutionary politics — anti-psychiatry dismissed therapy as domination; critical theory romanticized madness. In the context of a worsening mental health crisis under UK neoliberalism, this conceit is untenable.",
+    "anchored_in": ["Frankfurt School", "anti-psychiatry tradition (Laing, Cooper)", "Freudo-Marxism"],
+    "stakes_claimed": "Fanon's institutional psychotherapy offers a dialectical way out: recovery as disalienation requires both subjective therapeutic transformation and structural transformation of the pathogenic social world — a permanent psycho-political revolution."
+  },
+  "theoretical_positioning": {
+    "rivals_engaged": ["anti-psychiatry (Laing, Cooper, Italian anti-psychiatry)", "Frankfurt School critical theory (Marcuse, Adorno on therapy)", "care-ethical turn of the contemporary left"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": true,
+    "own_position_type": "synthesis",
+    "own_position_explicit": true,
+    "description": "The paper draws on a lesser-known French Freudo-Marxist psycho-political tradition (Tosquelles, Bonnafé) contemporaneous with the Frankfurt School to contest anti-psychiatric romanticism of madness. Fanon's institutional psychotherapy is the pivot: it demonstrates that therapy and structural critique are not opposed but dialectically united in the concept of disalienation."
+  },
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "Close reading of Fanon's institutional psychotherapy writings; genealogical reconstruction of French Freudo-Marxist tradition (Tosquelles, Bonnafé); conceptual analysis of disalienation.",
+    "notes": "UK mental health statistics referenced (care crisis context) but entirely as background framing, not as evidence. The argument is fully conceptual-normative: genealogical reconstruction + immanent critique of anti-psychiatry + Fanonian synthesis."
+  },
+  "case_type": {
+    "has_case": false,
+    "case_medium": "none",
+    "case_name": null,
+    "case_function": null,
+    "case_relation_to_argument": null,
+    "case_selection_justified": false
+  },
+  "normative_stake": {
+    "level": "high",
+    "domain": "critical theory / psychopolitics / mental health / left politics",
+    "claim_type": "reconstructive_prescriptive",
+    "closure_type": "conclusion_strong"
+  },
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "immanent_critique",
+    "genealogical_reconstruction",
+    "framework_proposal",
+    "normative_derivation",
+    "conclusion_strong"
+  ],
+  "reflexive_move": false,
+  "key_concepts": ["disalienation", "institutional psychotherapy", "Freudo-Marxism", "psycho-political revolution", "anti-psychiatry", "care ethics", "subjective/objective disalienation"],
+  "thinkers_deployed": {
+    "central": ["Fanon", "Tosquelles"],
+    "engaged_critically": ["Laing", "Cooper", "Marcuse", "Adorno"],
+    "referenced_only": ["Bonnafé", "Sartre", "Fromm", "hooks"]
+  },
+  "confidence_notes": "Type 2b (genealogical deepening): the recovery of a forgotten French Freudo-Marxist tradition is the genealogical move that enables the synthesis. Fanon's institutional psychotherapy is the pivot concept. Strong conclusion specifying what 'permanent psycho-political revolution' requires."
+}

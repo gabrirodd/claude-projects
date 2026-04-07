@@ -1,0 +1,1715 @@
+[PAGE 1]
+                                                             
+                                                             
+                                                             
+                                                             
+      Original Research Article                              
+                                                             
+                                         PhilosophyandSocialCriticism
+                                         2024,Vol.0(0)1–33   
+      From   critical theory to critical                     
+                                         ©TheAuthor(s)2024   
+      therapy: Towards   a permanent                         
+                                         Articlereuseguidelines:
+      psycho-political revolution        sagepub.com/journals-permissions
+                                         DOI:10.1177/01914537241284541
+                                         journals.sagepub.com/home/psc
+      between   subjective and                               
+      objective disalienation                                
+      Emily M Dyson                                         
+      UniversityofOxford,UK                                  
+                                                             
+                                                             
+      Abstract                                               
+      Critical theory has historically assumed an undialectical either/or between reformist
+      therapy andrevolutionarypolitics.FrantzFanon’sdialectical, psycho-socialapproachto
+      recoveryasdisalienationoffersusawayout.Lyingattheintersectionofcriticaltheory,
+      politicalstrategyandthehistoryofpoliticalthought,thisarticlehighlightsalesser-known
+      French tradition of Freudo-Marxist psycho-politics contemporaneous with the first
+      generation of the FrankfurtSchool, but which placed therapeutic imperatives front and
+      centreofitspsycho-politicalpraxis.ThisarticleusesFanonianinstitutionalpsychotherapy
+      to contest the anti-psychiatric conceit that madness is liberating and that therapy ob-
+      structs freedom. Fanon’s critical therapy speaks to the recent care-ethical turn of the
+      contemporaryorganizedleft,whilstmaintainingastructuralcritiqueoftheaetiologyand
+      treatment of mental illness. This article concludes that recovery involves a permanent
+      psycho-politicalrevolutionbetweenthesubjectiveandobjective,whichrequiresaradical
+      transformationofbothmentalhealthcareandthepathogenicsocialworldtoandwithin
+      which it responds.                                     
+      Keywords                                               
+      mental health/care crisis, deinstitutionalization, anti-psychiatry, institutional
+      psychotherapy, Frantz Fanon                            
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+      Correspondingauthor:                                   
+      EmilyMDyson,NuffieldCollege,UniversityofOxford,NewRoad,OxfordOX11NF,UK.
+      Email:emily.dyson@nuffield.ox.ac.uk                    
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+      2                             Philosophy and Social Criticism 0(0)
+                                                             
+                                                             
+      Introduction                                           
+      Untilrecently,thelefttended towards scepticism ordownright hostility towards mental
+      healthcare and deflationism about the ontology of mental illness,1 often romanticizing
+      mad people as countercultural sages or martyrs. The British and Italian anti-psychiatry
+      movementsgenerallydeniedthatmentalillnessexistedapartfromitssocialconstruction
+      and control.2 Anti-psychiatrists argued that it was neither ‘objective’ scientific knowl-
+      edge,nor‘humanitarian’medicalcare,butratherdominationthatenabledtheemergence
+      of psychiatric diagnoses, treatments and cures. They maintained that mental patients
+      neededtorecovernotfrommadness,butfrompsychiatricdomination–demandingtotal
+      andimmediatedeinstitutionalization.3Theanti-psychiatricnotionthatmadnessmustbe
+      freed from all forms of psychologisation resonates across critical theory, both narrowly
+      andbroadlyconstrued.Inthewakeofwhatisoftencalleda‘mentalhealthcrisis’,acare-
+      ethical challenge to this genre of critical-theoretical psycho-social accelerationism is in
+      order. As a descriptor not of an individual’s psychological breakdown but rather our
+      presentpsycho-politicalconjuncture,‘mentalhealthcrisis’referstotheincreasinglyhigh
+      incidence of reported mental illness together with the chronic strain under which our
+      underfundedpublicmentalhealthservicesoperate.Thescopeofmycontemporarysocial
+      criticismisboundedbymyownimmediatepsycho-politicalcontextintheUK,butthere
+      arestrongparallelswiththesituationintheUSthattracksharedneoliberalideologiesand
+      policies.4                                             
+        TheUK’ssocial-reproductivecrisisinmentalhealth/carehasonlydeepenedduetothe
+      recentperilouscollisionbetweenawelfarestatedecimatedbypost-crashausterityanda
+      deeply destabilizing global pandemic.5 Yet the genealogy of this crisis extends back
+      beyond David Cameron’s ‘age of austerity’6 to psychiatric decarceration. Whilst the
+      coalition that coalesced around the asylum question in the long sixties7 was singularly
+      eclectic,itsrightwingprovedtriumphant.8Theradical-leftandevenliberal-humanitarian
+      hopes invested in deinstitutionalization were undermined by the deeply disempowering
+      and dehumanizing effects of its neoliberal implementation from the top down. Enoch
+      Powell9 set out his deinstitutionalization programme in his famous 1961 Water Tower
+      speech. He boasted of his ambition to halve the number of psychiatric hospital beds in
+      15years,whilstremainingvagueaboutwhat‘provisioninthecommunity’wouldentail
+      beyond pushing responsibility for ‘the mentally ill and mentally subnormal’ onto local
+      authorities.10 The previous year, Powell had also tellingly underlined ‘the scope for
+      voluntaryeffort’contributingtoessentialfunctionsintheNationalHealthService(NHS)
+      inthesamebreathasstressing‘valueformoney’inmentalhealthcare.11In1962,theNHS
+      HospitalPlan‘setthetorchtothefuneralpyre’,asPowellhadvowedtheyearbefore.The
+      population of the UK’s mental hospitals reduced significantly through the sixties and
+      seventies, culminating with the mass closure of asylums in the eighties under Margaret
+      Thatcher.Towardstheveryendofhertenure,ThatcherconsummatedPowell’svisionby
+      tasking the local authorities she had already incapacitated12 with delivering so-called
+      ‘community care’ in the notorious 1990 National Health Service and Community
+      Care Act.                                              
+                                                             
+                                                             
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+      Dyson                                           3      
+                                                             
+                                                             
+        The closure of NHS long-stay psychiatric hospitals was an austerity measure made
+      ethicallypalatablebycynicalcommunitarianrhetoricandmedicallyplausible(albeitonly
+      in retrospect) by the promise of pharmacological technofixes.13 Early left critic of de-
+      institutionalizationPeterSedgwickrecognizedthatthe‘communitycare’withwhichthe
+      asylumsystemwasnominallyreplacedwaslittlemorethanaeuphemismforthe‘growing
+      depletion of real services’.14 Community care was not the communisation of mental
+      healthcare,butratheritsre-privatizationwithinthefamily,wherewomenpredictablybore
+      thegreatestburden.15Asistypicalofneoliberalgovernmentality,16publicirresponsibility
+      formentalhealthcareforcedcaringobligationsontotheunsupportedandisolatedprivate
+      patriarchal family, re-entrenching capitalist patriarchy’s social division of reproductive
+      and productive labour.17 Working in tandem with her attack on public housing,18
+      Thatcher’s community care policy meant that severely mentally ill people who lacked
+      evenfamilialsupportfacedaddiction,highlyprecarioushousing,outrighthomelessness
+      oradifferentkindofincarcerationwithinthecriminaljusticesystem.19Communitycare
+      amountedtothestate’scarelessabandonmentofmentallyillpeople,consigningthemto
+      slow death.20 This was especially true of people diagnosed with psychosis and
+      schizophrenia21–adarkironygiventheirsymbolicstatusinthesamecounterculturethat
+      hadclamouredfortheirrelease.Formerpatientswerenowdoublyfree22fromtheasylum:
+      free from both confinement and sanctuary, control and care.
+        In amongst the human debris of the neoliberal restructuring of public services, it is
+      unsurprising that the contemporary organized left has expended most of its energies
+      defending thewelfare stateagainstcutsandprivatization,seekingtorebuildthelatter’s
+      total institutions rather than demanding their abolition.23 Leftist common sense has
+      shifted towards uncritical support for the NHS. Where its new left predecessors had
+      generally regarded the psy-disciplines as gatekeepers of the bourgeois moral order, to-
+      day’sgrassrootsleftnowbemoansthepaucityofpublicmentalhealthcareprovisionand
+      drawsattentiontothedeleteriousimpactofausteritypoliciesonmentalhealth,including
+      highersuiciderates.24Thecounterculture’sexoticisationoftheoften-mundanesuffering
+      wrought by mental illness is seen by many on today’s radical left as na¨ıve and self-
+      indulgent.Itwouldbeinapttopeople’slivedexperiencesofmentalillnessandcareless
+      abandonment to maintain anti-psychiatry’s blanket denial of the existence of mental
+      illness and the specific care needs it generates – never mind to cheer on the increasing
+      unavailability and inaccessibility of this much-needed care. It would be callous and
+      instrumentalisingtosimplyappropriatepeople’smentaldistressasafertilegroundfor,or
+      even a form of, political resistance.                  
+        Butwhatifmentalhealthcarecoulddomorethanjustmitigateindividualpsychicpain?
+      Mycontentionisthatacriticaltherapyaimingatnotindividualadjustmentbutcollective
+      emancipationcouldhelpusrecoverourselvesandeachotheraswestruggletogetherfora
+      betterworld–notonlyoutofacare-ethicalconcernwithharm-reduction,butalsoforthe
+      sakeofthestruggleitself.Inthispaper,Iwillarguethatonce-dominantcriticaltheoriesof
+      mental health/carearenolonger adequatetoourpresentpsycho-political conjuncture.I
+      willofferanecessarilybriefsampleoftherecenthistoryofanti-psychiatriccritiquefrom
+      the left, surveying the radical psycho-political thought of Theodor Adorno, Herbert
+      Marcuse,MichelFoucaultandCarolHanisch.Iwillarguethateachofthesethinkerspose
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+      4                             Philosophy and Social Criticism 0(0)
+                                                             
+                                                             
+      anundialecticaleither/orbetweenreformisttherapyandrevolutionarypolitics.Iwillthen
+      offer institutional psychotherapist Frantz Fanon’s dialectical conception of recovery as
+      perpetualpsycho-socialdisalienationasawayoutofthisfalsedilemma.Iwillsuggestthat
+      Fanon’scriticaltherapeuticpraxiscanexpandourpsycho-politicalimaginationandenrich
+      our psycho-political struggles today. Fanon’s struggle in and against the asylum eluded
+      thedichotomy between psy-apologism andpsy-abolitionism. MyFanonian theorisation
+      of recovery speaks to the recent care-ethical turn of the contemporary organized left,
+      whilstpushingbackagainstthelatter’swelfaristmelancholyandmaintainingastructural
+      critiqueoftheaetiologyandtreatmentofmentalillness.Mentalhealthcareisnotmerely
+      an opiate for the masses, but nor is it simply an unalloyed public good to be defended,
+      restored and extended. Our recovery requires the radical transformation of both mental
+      healthcare and the pathogenic social world to and within which it responds.
+                                                             
+      ‘Messed over, not messed up’: Recovery in the recent history of
+      radical psycho-political theory and praxis             
+      To motivate my turn to Fanonian critical therapy, I will first reconstruct some recent
+      historical examples of the radical leftist rejection of therapy as disciplinary and con-
+      formist. I will begin by considering Critical Theory in the narrow sense: the first gen-
+      erationoftheFrankfurtSchool.Despiteitsinfluentialsocial-theoreticalappropriationof
+      psychoanalysis,theInstituteofSocialResearchgenerallysawtheclinicalapplicationof
+      psychoanalysis as politically irrelevant or even pernicious. Most notoriously, in the
+      summerof1955,MarcuselambastedhisformerFrankfurtcolleagueErichFromm’s‘neo-
+      Freudianpsychology’inthepagesofDissentmagazine,25initiatingafierceexchangethat
+      hasrecentlyattractedrenewedscholarlyinterest.26Whilstsomeofthedisputeturnedon
+      differinginterpretationsofSigmundFreud,IunderstandFrommandMarcuse’sexegetical
+      disagreements as downstream from their divergent syntheses of psychoanalysis with
+      Marxism.TheircompetingFreudo-Marxistprogrammesprovidedconflictinganswersto
+      the question: should we try to make life under capitalism more liveable?
+        Marcuseansweredwitharesounding‘no’.Hedistinguishedbetweenpsychoanalytic
+      theory as a diagnostic tool for critiquing capitalism’s social pathologies, and psycho-
+      analytictherapy,which,heclaimed,‘aimsatcuringtheindividualsothathecancontinue
+      to function as part of this civilization’. According to Marcuse, there is necessarily a
+      ‘discrepancy between theory and therapy’: theory seeks to understand the actually-ex-
+      istingsocialworldinordertorefuseit;therapyseekstoadjustthepatienttothatworld.
+      ‘Therapy’, Marcuse claimed, ‘is a course in resignation’.27 It is inherently politically
+      quietist,becauseitattemptstosubjectivelyreconcilethepatienttoherobjectivecondition
+      of alienation. Marcuse’s charge of ‘revisionism’ was thus, on my reading, primarily
+      ethico-political rather than interpretive. For Marcuse, the problem was not that Fromm
+      haddesecratedFreud.TheissuewasthatFrommhadpoliticallydefangedpsychoanalysis,
+      rendering it a banal, conformist and moralistic ‘philosophy of the soul’28: a ‘positive’
+      therapyratherthananegativistcriticaltheory.29‘Feelingbetter’inlieuoftheoverthrowof
+      capitalism,Marcuseargued,requiresgrosslydistortingourperceptionofsocialrealityin
+                                                             
+                                                             
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+      Dyson                                           5      
+                                                             
+                                                             
+      ordertorenderourlivedexperienceofittolerable.Onhisview,therapybyitsverynature
+      cannot be critical, because it necessarily aims at the (false) ‘happy consciousness’.30
+        Adorno, who had joined the Institute shortly after Fromm’s formal departure,
+      maintainedasimilarline.‘Revisionist’psychoanalytictherapyofthekindpropagatedby
+      Karen Horney (and, implicitly, Adorno’s predecessor Fromm31) individualized social
+      pathologies even as it claimed to ‘sociologise’ Freud by incorporating the influence of
+      ‘environmental’ factors into the analysis of neurosis.32 It facilitated the analysand’s
+      adaptation to sick normality and thereby functioned as a form of social hygiene.33
+      Adorno’smostsustainedcritiqueoftherapycanbefoundinhis1946speechattheSan
+      Francisco Psychoanalytic Society.34 Beyond the revisionists’ quietist ‘endorsement of
+      complacentoptimismandconformism’,theirattempttotherapeuticallyreconcileselfand
+      society,hethought,wasdestinedtofail.Disalienation,Adornoclaimed,‘isanidealwhich
+      wouldberealizedonlyinanon-traumaticsociety’;undercapitalism,the‘totalityofthe
+      so-called “character”’ is at most ‘a system of scars, which are integrated only under
+      suffering, and never completely.’35 Much as ‘there is no right way of living the wrong
+      life’, for Adorno, there was no disalienated way of living the alienated life – even if
+      therapydeludedpatientsintobelievingotherwise,therebyforeclosingpoliticaldissent.36
+        Foucault was straightforwardly hostile to psychoanalysis, but his anti-psychiatric
+      advocacy of ‘killing psychology’37 and embracing the ungovernability of ‘madness it-
+      self’38resonatedwithFrankfurtSchoolFreudo-Marxismallthesame.WhereAdornoand
+      Marcusedenaturalisedthepsy-disciplinesthroughideologycritique,Foucaultoptedfora
+      Nietzschean39historicisationofwhathesawastheinventionofmentalillness.InHistory
+      ofMadness(1964),heofferedaproto-genealogical40historyofthispositivistcaptureof
+      madness, challenging then dominant triumphalist histories of gradual scientific and
+      humanitarian progress culminating in the inevitable victory of modern psychiatry.41
+      Foucaultarguedthatthemodernizationofmadnessactuallyinvolveda‘doublemovement
+      ofliberationandenslavement’:celebratednineteenthcenturyreformerslikeWilliamTuke
+      and Philippe Pinel ‘liberated’ mad people from old brutal forms of physical constraint
+      onlyto‘enslave’themthroughnew,moreefficientandinsidioustechniquesofcontrolin
+      theguiseofmedicalcare.42Inshort,by‘confiningmadnessinmentalillness’,psychiatry
+      ‘grasped madness as something both known and mastered at a stroke’, rendering its
+      newfound ‘liberty’ empty.43 For Foucault, modern psychiatry was primarily a ‘moral
+      tactic…covered over by the myths of positivism’. Foucault maintained that psycho-
+      analysis,whilstconstitutingadeparturefrompositivism,44wasjustanothernormalizing
+      ‘monologue of reason about madness’.45                 
+        At the 1969 E´volution Psychiatrique Toulouse congress dedicated to discussing
+      History of Madness, a member of the floor, recorded as ‘H. Aubin’, claimed:
+        ‘“Foucaultisananti-psychiatristbecausethewholeofhisphilosophyisinscribedwithinthe
+        revolutionary current, in the wakeof Marcuse.”’46    
+        Foucault’sbiographerDavidMaceydescribesthisassociationwithMarcuseas‘wildly
+      inaccurate’.47VolumeIofTheHistoryofSexuality(1976)is,afterall,widelythoughtto
+      have been directed at Marcuse’s ‘repressive hypothesis’.48 But Foucault himself later
+                                                             
+                                                             
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+      6                             Philosophy and Social Criticism 0(0)
+                                                             
+                                                             
+      acknowledged his affinity with Critical Theory in his understudied 1978 dialogue with
+      MarxistjournalistDuccioTrombadori.49ThemilitantFoucaultoftheseventiesespecially
+      shared Marcuse’s countercultural romanticisation of the maladjusted and marginal as
+      primordial forces of resistance against ‘civilization’. For example, as part of the Prison
+      Information Group, Foucault co-authored a pamphlet series entitled Intolerable, which
+      marked out ‘hospitals, asylums’ as sites of intolerable disciplinary power.50 Foucault
+      theorized‘struggle’asspringingfromtheexperienceof‘intolerable’‘power’.51Insofaras
+      thepsy-disciplinesmaketheexperienceofpowertolerable,then,onFoucault’sview,they
+      reduce the likelihood of struggle. Psychologisation, he thought, extinguishes mad
+      people’s vitalistic spirit of transgression. In his Colle´ge lectures on Psychiatric Power
+      (1973-4), Foucault playfully ‘salute[d] the hysterics as the true militants of anti-
+      psychiatry’: treatment-resistant unhappy consciousnesses refusing to tolerate social re-
+      ality.52 Even if he positioned himself against the Freudo-Marxist53 framework of his
+      Frankfurt School contemporaries, Foucault nonetheless echoed their grounding of po-
+      litical resistance in negativist subjectivity borne out of unbearable suffering, and their
+      rejectionofthepsy-disciplinesinsofarasthelattersoughttomitigatethisdistress-induced
+      negativism.                                            
+        Finally, whilst Foucault and the Frankfurt School had very little to say about the
+      contemporaneous women’s liberation movement,54 second-wave feminists adopted a
+      similarattitudeofsuspiciontowardsthepsy-disciplines–albeitpartlyinresponsetothe
+      masculinistdismissalofconsciousness-raisinggroupsbymanyoftheirmoreeconomistic
+      socialist comrades. Radical feminist Hanisch’s influential 1970 essay, ‘The Personal Is
+      Political’, is a case in point – despite the lifestylist, liberal-feminist work to which this
+      now-colloquialised slogan is often put. In her self-published 2006 introduction to the
+      essay, Hanisch positioned the piece against the androcentric Marxist dogma that ‘“the
+      revolution” would take care of’ anything individual women could not ‘solve’ through
+      ‘personal initiative’.55 Vulgar Marxism construed political organizing as primarily a
+      matterofchangingtheworkingclasses’relationshiptothemeansofproduction.Whilsta
+      wage labourer’s relationship to herself and others might be affected by her (class’) re-
+      lationshiptothemeansofproduction,andwastothatextentpolitical,itwasnotseenasa
+      domainforpoliticalactioninitsownright,butrathersymptomaticorepiphenomenal.56
+      Second-wave feminism took the question of the relationship between ‘individual con-
+      sciousness’and‘socialmovement’tobecentraltopolitics,andmade(inter)subjectivity
+      itself into a site of resistance and transformation.57 
+        In her attempt to refute the notion that feminist consciousness-raising amounted to
+      ‘mere’ (implicitly feminized) ‘therapy’ – and thus a navel-gazing distraction from the
+      ‘real’workof(implicitlymasculinized)revolutionarysocialistpolitics–Hanischargued
+      thatitwas,infact,anantidotetotherapy.58Therapy,sheclaimed,promotedacquiescence
+      or resignation to patriarchy:                          
+        ‘Therapy assumes that someone is sick and that there is a cure… We need to change the
+        objective conditions, not adjust to them. Therapy is adjusting you to your bad personal
+        alternative.’                                        
+                                                             
+                                                             
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+      Dyson                                           7      
+                                                             
+                                                             
+        Hanisch assumed that therapy was apolitical at best and ideological at worst, ex-
+      pressingoffenceatthesuggestion‘thatIoranyotherwomanisthoughttoneedtherapyin
+      the first place’.59 Consciousness-raising, Hanisch argued, helped women realize they
+      were ‘messed over, not messed up’, and thus incited them to ‘change the objective
+      conditions’thathadmessedthemover,ratherthansimplyseeking‘apersonalsolution’.It
+      sought to estrange women from a social reality they had hitherto taken for granted,
+      renderingtheirexistinglivesintolerablewithaviewtoradicalizingandrecruitingthemto
+      the feminist cause. As Hanisch theorized it, consciousness-raising pursued subjective
+      alienation in individual women that accurately reflected their objective alienation as a
+      group, and was thus actively counter-therapeutic. Far from helping her ‘feel better’,
+      Hanisch explained how consciousness-raising had ‘forced [me] to take off the rose
+      coloredglassesandfacetheawfultruthabouthowgrimmylifereallyisasawoman’.In
+      short,theconsciousnessraisedbysecond-wavefeministswasanunhappyone.Therewas
+      nofeministwayoflivinglifeunderpatriarchy,Hanischargued:thefeministpoliticization
+      of prima facie personal problems made it clear that ‘there are only bad alternatives’; to
+      believeotherwiseonlyperpetuatedwomen’soppression.60EventhoughHanischhadset
+      outtocontestthe‘after-the-revolution’stanceadoptedbyanti-feministsontheleft,‘The
+      Personal Is Political’ tended towards a political millenarianism of its own. Hanisch
+      portrayed the social world as fundamentally corrupt, with nothing short of total de-
+      struction and upheavalcapableofsecuringmoretolerable alternatives for women. Like
+      many of her feminist contemporaries,61 she left the dichotomy between therapy and
+      struggleintact,evenasshesoughttodissolvethedichotomybetweenthepersonalandthe
+      political.Hanischfailedtorecognizethatbothsicknessandcurecanbepoliticalaswellas
+      personal.                                              
+        Each of these critical theorists assumed or posed an anti-psychiatric undialectical
+      either/orbetweenreformisttherapyandrevolutionarypolitics.Onecaneitherbementally
+      healthyanddeluded,thestorygoes,ormentallyillandclear-eyed.Apparently,theonly
+      wayforthetherapisttomakeherpatient‘well’istoencouragefalseconsciousnessand
+      socially-rewardedconformity.Wereshetoraiseherpatient’sconsciousnessandprescribe
+      socially-sanctionedtransgression,thetherapistwouldnotbedoingherjob;shewouldbe
+      promoting‘sickness’insteadof‘health’.Onthisviewofmentalhealthcare,thetherapist
+      canonlyofferopiates:shemustdullthepsychicpainwroughtbysicknormality,treating
+      symptoms in lieu of addressing their social causes. For the psy-abolitionist, mental
+      healthcare can at best62 provide short-term individual harm-reduction at the expense of
+      long-term radical social transformation that would render mental healthcare obsolete.
+        This undialectical either/or continues to structure critical-theoretical common sense
+      today. How might critical theorists challenge the contemporary popular left’s uncritical
+      embrace of psychologisation (and welfarism more broadly) whilst reckoning with the
+      ambivalent legacy of anti-psychiatry? How might the left learn from anti-psychiatric
+      insights into the ideological and disciplinary functions of the psy-disciplines without
+      denying mentally ill people sorely-needed care? Instead of relying solely on the coun-
+      terculture’s organic intellectuals, I suggest that we look to revolutionary psychiatrist
+      Frantz Fanon. Whilst Fanon is best known as a critical theorist of race, he was also a
+      central figure within institutional psychotherapy: an under-theorized French school of
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+      8                             Philosophy and Social Criticism 0(0)
+                                                             
+                                                             
+      Freudo-Marxismthat,unlikethecontemporaneousFrankfurtSchool,placedtherapeutic
+      imperativesfrontandcentreofitspsycho-politicalpraxis.Fanonrefusedthefalsechoice
+      betweencareandcritique.Hesawmentalhealthcareashavingthepotentialtocontribute
+      to the disalienation of mentally ill people, helping them to ‘rediscover the meaning of
+      freedom’.63 Trained by Francesc64 Tosquelles at the revolutionary Saint-Alban asylum,
+      Fanonremained committed tomedicine’s‘deliberatechoice foroptimismintheface of
+      humanreality’throughouthislife.65Fanon’sclinicalpractice,fromFrancetoAlgeriato
+      Tunisia,evolvedinconstantdialoguewithhiscriticaltheoryandrevolutionarypolitics.
+      Eschewing political millenarianism, Fanon argued that subjective recovery does not
+      simplyfalloutofobjectivestructuralchange,norneeditworkagainstthelatter.Anendin
+      itself,psychichealingcanalsoenablecollectivestruggle.ForFanon,disalienationcould
+      not wait until after the ‘Great Refusal’,66 once ‘the new society’67 – ‘a non-traumatic
+      society’68–wasfullyformed.LikehismentorTosquelles,Fanonsawdisalienationasa
+      perpetual double movement between the subjective and the objective. He saw this
+      ‘syncopateddialogue’betweenthepsychicandthesocialasnecessarybefore,during,and
+      after discrete episodes of revolutionary upheaval.69   
+                                                             
+      Mental illness as freedom-diminishing                  
+      Thanks to the recent collection of previously unpublished psychiatric writings in
+      Alienation andFreedom,70Fanon’sphilosophy ofrace, racism, colonialismandviolent
+      anti-colonialrevolutionisincreasinglyunderstoodasdrawinguponhisprofessionallifeat
+      the vanguard of institutional psychotherapy. Yet the archive of Fanon’s revolutionary
+      psychiatry ought not only to be historically valued for its explanatory power in illu-
+      minating his already well-studied critical theory of the psychic life of race. Fanon also
+      oughttoberecognizedasacritical theoristofpsychiatryandmentalillness simpliciter.
+      Hisdialectical model ofcritical therapy enables ustomove beyondtheanti-psychiatric
+      paradigm in critical theory. Resisting both control and carelessness, Fanonian critical
+      therapyismoreadequatetoourpsycho-politicalconjuncturethananti-psychiatry’seither/
+      or thinking.                                           
+        Liketheanti-psychiatrists,Fanondepathologisedmentallyillpeople.Hearguedthat
+      both ontogenetic andphylogenetic approachestomentalillness neglectits ‘sociogeny’,
+      partly because they ignore the lived experience of mental illness. Fanon combined his
+      well-known phenomenological account of race as socially-constructed with his lesser-
+      known understanding of the social determinants of mental illness in his intersectional
+      ‘sociodiagnostic’ critiques of French colonial psychiatry and its racially-essentialist
+      misdiagnoses.71 Fanon argued that mental illness is not ‘a taint’ located ‘in the “soul”
+      of the individual’ (a` la ontogenetic colonial psychoanalysis), nor in their brain (a` la
+      phylogenetic colonial ethnopsychiatry), but should rather be sociodiagnosed as con-
+      textually intelligible responses to ‘taints’ in their ‘environment’72 – what the Frankfurt
+      Schoolcalled‘socialpathologies’.73Fanonsaw‘psychicalienation’asproducedatleast
+      inpartbysocio-historicalprocessesactinguponratherthaninheringwithinmentallyill
+      people.                                                
+                                                             
+                                                             
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+      Dyson                                           9      
+                                                             
+                                                             
+        In contrast to anti-psychiatry, however, Fanon maintained that mental illness was
+      ‘real’.Mentalillnessexistedindependentlyofpsychiatricinvention,andcouldnomorebe
+      reduced to its political than its neurological dimensions. What’s more, whilst Fanon
+      advocated far-reaching structural changes to psychiatric care, he still thought mental
+      illnesscouldandshouldbetreated.Heexplicitlydistancedhimselffromthe‘unremitting
+      defenceofthenobilityrightsofmadness’.74Forceddailytoconfrontthepsychicfall-out
+      ofcolonialdominationandviolentwarfarein(post)colonialNorthAfrica,Fanonwasno
+      stranger to the very real suffering mental illness wrought. Far from anti-psychiatric
+      romanticisation,Fanonviewedmentalillnessasa‘pathologyoffreedom’ratherthanits
+      source or expression.75 Indeed, towards the very end of his life, as Fanon dictated The
+      WretchedoftheEarth(1961)tohisTunisdayclinicassistant,thesocial worker Marie-
+      JeanneManuellan,hewouldoftenremindherthat‘thegoalofpsychiatrywastoproduce
+      free men’.76                                           
+        InthesameyearthathepublishedBlackSkin,WhiteMasks(1952),Fanonbeganhis
+      psychiatriccareerintheradicalSaint-AlbanmilieuunderthetutelageofTosquelles.The
+      following year, in a co-authored psychiatric paper, the two argued that ‘the psychiatric
+      hospitalmustbeaninstitutionofdisalienation’.77Thiswasthefundamentalpremise of
+      theFrenchmid-centuryinstitutionalpsychotherapymovement,ofwhichTosquelleswas
+      the progenitor. It emerged during the Second World War in opposition to the Vichy
+      Regime’s starvation of asylum inmates.78 Where anti-psychiatry aimed to abolish psy-
+      chiatry and thereby doubly free mentally ill people from medical control and care, in-
+      stitutional psychotherapy saw both the asylum and its inmates as ill and needing
+      treatment.79ForTosquelles,theauthoritarianpsychiatricinstitutionwasamicrocosmof
+      the Spanish fascism from which he had fled and comparable to the brutal Septfonds
+      concentration camp in which he had been interned with fellow Republican political
+      refugeesuponarrivinginsouthernFrance.80Yetsotoowasmentalillnessitselfapsychic
+      analogue to these ‘concentrationist’ regimes. Institutional psychotherapists thought that
+      the deep democratization of psychiatry was a political and therapeutic imperative; dis-
+      alienating the hospital by fostering patients’ collective self-determination would dis-
+      alienate them in the process.                          
+        FanonwasprofoundlyinfluencedbyTosquelles’conceptionofmentalillnessasakind
+      ofpsychicoccupationfromwhichpsychiatriccareshouldaimtofreethoseafflictedbyit.
+      Fascist or colonial occupation was not only conducive to, but also resembled mental
+      illness;bothnecessitatedresistance.Whilstanti-psychiatriccriticaltheoristslikeFoucault
+      conceivedofnormalizingpsy-discoursesascontributingto‘thefascism…inourheads’,
+      and depsychologisation (‘killing psychology’) as necessary for leading an anti-fascist
+      life,81institutionalpsychotherapysoughttoresistmentalillness’fascisticoccupationof
+      the subject – to ‘disoccupy’ patients’ minds.82 Fanon saw mental illness as a freedom-
+      diminishingpsychicoccupationbecauseit‘situatesthepatientinaworldinwhichhisor
+      her freedom, will and desires are constantly broken by obsessions, inhibitions, coun-
+      termands, anxieties’.83 She is petrified, ‘immobilize[d]’.84 In ‘Yesterday, today and to-
+      morrow’, a 1953 editorial he penned for the Saint-Alban hospital newspaper, Trait
+      d’Union, Fanon argued that mental illness prevents one from ‘keep[ing] all three con-
+      stituentsoftimeinview:past,presentandfuture’–andthat‘itisimpossibletoseeand
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+      10                            Philosophy and Social Criticism 0(0)
+                                                             
+                                                             
+      achieve anything positive, valid and lasting without taking all three elements into ac-
+      count’.85Thementallyillpersonstrugglestomovebeyondalonged-forbutirretrievably
+      lostor,conversely,fearedanddespisedbutinevitablyrecurringpast–orlosessightofthe
+      past altogether. She struggles to exceed the limits of a seemingly unbearable, eternal
+      present.Sheforgetsthat‘sheisherewithotherhumans’,who,likeher,‘alwaysexistinthe
+      process of…’.86Sheturns (or rather,isturned)away from others, from time, andinon
+      herself.87 When ‘the present is….turned inward’ by mental illness,88 Fanon argued, it
+      becomes harder for the mentally ill person to interact with her social milieu in order to
+      ‘invent’,orevenimagineinventing,‘anewmodeofliving’.89Alienatingthementallyill
+      person not just from sociality, but from temporality itself, mental illness’ occupation of
+      herpsycheinhibitsherabilitytoactspontaneouslywithothers,withinhistory,tocreatea
+      futureinwhichsheandtheycanbreathe.90Thementallyillpersonseveredfromtime‘acts
+      as if he were dead’.91 Mental illness threatens to estrange us from ‘natality’ – what
+      HannahArendtfamouslytheorizedasthehumancapacity‘tostartsomethingnew’–and
+      thusfrompoliticalaction.92Incontrasttotheanti-psychiatricportrayalofmadnessasa
+      radical refusal of the social pathologies of modern civilisation, Fanon appreciated how
+      mental illness can obscure thevery possibility ofliberation and limit one’scapacity for
+      participating in collective political action, even whilst he also critiqued colonial psy-
+      chiatry’spathologisationofanti-colonialresistanceinordertodepoliticizeandundermine
+      it.93 Fanon saw a place for a deeply democratized, communised mental healthcare that
+      helpedmentallyillpeopletobreakoutofthesolipsismandimpotenceofdelusion,fear
+      and self-loathing, and ‘educate man to be actional’94 – as individuals (or, if you like,
+      singularities95) constituting and in turn constituted by a collective.
+        Onemightobjectthat,insuggestingthatmentalillnessincapacitatesthementallyill
+      person in such a way that bars her from politics, my use of Fanon here is ableist. One
+      mightarguethatitplaysintowhatStacyCliffordSimplicancallsthe‘capacitycontract’,
+      premisingpoliticalparticipationon‘athresholdlevelofcapacity,andexclud[ing]anyone
+      who falls below’.96 Simplican herself proposes anArendtian model ofpolitical agency,
+      based on acting in concert with others to create something new. Whilst I accept her
+      conclusions with regard to intellectual disabilities, I maintain that, insofar as one is
+      mentally ill,97 one is alienated from temporality and sociality, and one’s capacity for
+      natalityandthuspoliticalactionistothatextentcurbed.98Mentalillnessispartlycaused
+      andexacerbatedbyobjectivelyalienatingsocio-historicalprocesses,butitsinternallogic
+      isitselfsubjectivelyalienating.Mentalillnessescantakeonlivesoftheirown,generating
+      self-perpetuating vicious cycles that can outlast their sociogeny. Alienation begets
+      alienation.Evenifonedidthinkthatmentalillnessisbesttheorizedviaastronglysocial
+      modelofdisabilityandthatanyadmissionthatmentalillnessisdisablinginwaysthatare
+      notreducibletothementally illperson’sexternalenvironmentamountstoableism,one
+      must still confront an even more troubling tension between mental illness and political
+      action.Ifmentalillnessissocialallthewaydown,andrecoveryrequirestheremovalor
+      alterationofthesocialconditionsbywhichitisnotjustcaused,butconstituted,whoare
+      the political agents driving this social transformation? The social model (on this strong
+      interpretation99)seemstoleave uswith two unappealingpossibleanswers here. We are
+      left either with the politically defeatist conclusion that we cannot change the social
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+      Dyson                                          11      
+                                                             
+                                                             
+      conditions that constitute mental illness because these same conditions diminish our
+      capacityforpoliticalaction,orthepaternalisticconclusionthatmentallyhealthypeople
+      must do this on our behalf (which violates one of the central principles of disability
+      activism: ‘nothing about us without us’100).           
+        Theanti-psychiatriccriticmight,ofcourse,denythatthereisanythingatallinhibiting
+      about mental illness. She might claim that mental illness is just an alternative, non-
+      conformistandperhapsmoreperspicaciousorevendisalienatedyetunjustlystigmatized
+      modeofexperience.Recoverywouldjustrequirethedestigmatizationoftheexperiences
+      we now categorize as ‘mental illness’. Whilst the stigmatization and resultant social
+      isolation of mentally ill people certainly still accounts for a substantial portion of the
+      alienation with which we contend, it does not exhaust it. Beyond my rejection of the
+      romanticisation of mental illness as excitingly transgressive or enlightening, I am also
+      ambivalent about even the so-called ‘normalization’ of mental illness, which is today
+      usually recommended in the same breath as its ‘destigmatization’, but which I think is
+      importantly different. If, as I have argued with Fanon, mental illness is a freedom-
+      diminishingpsychicoccupation,whywouldwewishforittobecome‘normalized’either
+      descriptively or evaluatively? Why would we want this form of alienation to become a
+      very common and widely accepted feature of human life? As Fanon argued, there is
+      nothingwrongwiththepeoplelivingwithmentalillness,butthereissomethingwrong
+      withasocialorderthatsystematicallycausesandexacerbatesmentalillnessandthereby
+      diminishes our freedom and political agency. There is surely something doubly wrong
+      with a social order that demands we accept this state of affairs as ‘normal’.
+      Recovery as psycho-social disalienation: Waging war on the
+      ‘subjective’ and ‘objective’ fronts                    
+      Three-dimensional colonial violence as freedom-diminishing
+                                                             
+      Even though Fanon maintained the disalienating potential of the reciprocal psycho-
+      therapeuticencounterthroughouthislife,hesawevendeeplydemocratizedpsychiatryas
+      on its own insufficient for disalienation. Fanon struggled tirelessly to overturn the
+      ‘concentration-camp mindset’ pervasive at the colonialBlida-Joinville asylum when he
+      first arrived to work as a psychiatrist in French-occupied Algeria.101 Yet, as Lilia Ben
+      Salem,Fanon’sformersocialpsychopathologystudent,recalls,‘hisprojectwastocombat
+      all forms of alienation’.102 As Fanon explained in his resignation letter to the resident
+      minister,mentalillnessisonly‘oneofthewaysthathumanshaveoflosingtheirfreedom’,
+      and French colonialism in Algeria constituted ‘a systematic dehumanisation’ that
+      ‘alienated[theArab]inhisowncountry’.103Whilsttheprimarysourceofthecolonized’s
+      psycho-socialalienation–thecolonialregime–remainedunchallenged,Fanonwarnsin
+      Wretched, it would continue to function as ‘a fertile purveyor of psychiatric hospitals’,
+      however much the latter were disalienated.104 Psycho-social disalienation in Algeria
+      required more than a revolution in mental healthcare: it required decolonization.
+        In ‘Why we use violence’, Fanon’s understudied address to the 1960 Accra Positive
+      Action Conference, his description of the psychic life of colonial violence echoes his
+                                                             
+                                                             
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+      12                            Philosophy and Social Criticism 0(0)
+                                                             
+                                                             
+      psychiatric interpretation of mental illness as alienation from temporality as well as
+      sociality.Infact,Fanonopened‘Yesterday,todayandtomorrow’byobservingthat‘Fora
+      personandacountryalike,oneofthemostdifficultthingsistokeepallthreeconstituents
+      oftimeinview:past,presentandfuture’,directlydrawingaparallelbetweenthetemporal
+      dimensions of mental illness’ occupation of the individual psyche and the colonial
+      occupationofthenation.105InhisAccraaddress,Fanonarguedthat‘theviolenceintegral
+      to colonial oppression’ was not limited to the brute force by which the regime was
+      instituted.106 It even went beyond the ‘very concrete and very painful violence’ of the
+      hateful ‘daily behaviour of the colonizer towards the colonized’, which Fanon called
+      ‘violenceagainstthepresent’.107Itwasalsobackward-facing:thesymbolicandepistemic
+      violence of cultural imperialism sought not just to destroy indigenous socio-cultural
+      forms,108 but to invalidate pre-colonial history as one of ‘meaningless unrest’. Fanon
+      arguedthatcolonialviolenceagainstthepastservedthereificationoftheregime,inthatit
+      construedcolonizedpeopleasessentiallyincapableofself-determination,‘requiringthe
+      permanentpresenceofanexternalrulingpower’.109Thisspirit-breakingcombinationof
+      violenceagainstpastandpresentproducedaforward-facingviolenceagainstthefutureby
+      makingnationalliberationandindependenceseemimpossible.110Fanonarguedthatthe
+      colonizedwere‘caughtinawebofathree-dimensionalviolence’:colonizationsoughtto
+      erase the pre-colonial past, petrify the ‘inhuman’ colonial present by making it appear
+      ‘necessarily eternal’, and thereby deprive the colonized of all hope for a more human
+      postcolonial future.111                                
+        For Fanon, colonialism, like mental illness, alienated colonised people from tem-
+      porality and thus curtailed natality, threatening to consign those who survived the re-
+      gime’s brutal physical violence to a psycho-social ‘death in life’.112 The ‘three-
+      dimensional violence’ constitutive of the colonial regime thus also amounted to a pa-
+      thology offreedom that repeatedlyundermined Fanon’s persistent psychiatric efforts to
+      freecolonizedpsyches.Disalienatingbothcolonialpsychiatryandthecolonizedpatients
+      it sought to console and classify meant waging decolonial war on both the ‘subjective’
+      psychological level and the ‘objective’ level of revolutionary struggle for national lib-
+      eration.113Thesetwolevels,Fanonargued,wereintertwined;fightingonbothfrontswas
+      necessary for a full psycho-social recovery.           
+      Recovery on the ‘subjective’ level                     
+      Fanon understood that the formation of revolutionary subjects capable of effecting
+      ‘objective’ change required a ‘subjective’ shift in the colonized. Alienated colonized
+      individualsneededtobeliberatedfrompsychicoccupationiftheyweretocontributeto
+      thecollectivestrugglefornationalliberation.InWretched,Fanonarguedthatitwasonly
+      whenthecolonizedbegantounlearnhisinferioritycomplex,‘realiz[e]hishumanity,’and
+      recognizethat‘mylifeisworthasmuchasthesettler’s’that‘hebeg[an]tosharpenthe
+      weaponswithwhichhew[ould]securehisvictory.’114Wherebeforehewas‘condemned’
+      to‘immobility’–feelinghemust‘stayinhisplace,andnot…gobeyondcertainlimits’–
+      his‘subjective’victoryovertheinferiorisingwhitecolonialgazeenabledhimto‘surg[e]
+      into the forbidden quarters’, exceeding the limits of the colonial present to create a
+                                                             
+                                                             
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+      Dyson                                          13      
+                                                             
+                                                             
+      postcolonialfuturewithhiscompatriots.115Hethusbegantounravelthewebofcolonial
+      three-dimensionalviolenceandbecome‘actional’.Similarly,in‘AlgeriaUnveiled’inA
+      Dying Colonialism (1959), Fanon argued that the anti-colonial militant’s ‘breac[h] in
+      colonialism’ must be ‘initially subjective’. If she was to join the fight for national lib-
+      eration,shefirsthadto‘achieveavictoryoverherself’–‘over[her]oldfearandoverthe
+      atmosphereofdespairdistilleddayafterdaybyacolonialismthathasincrusteditselfwith
+      the prospect of enduring forever.’ Once she initiated the ‘subjective’ process of rec-
+      ognizinganddislodgingtheinferiorisingwhitecolonialgazeoccupyingherpsyche,she
+      wouldbegintoletgoofherdespair,shameandanxiety,andbecomemorereadytodefy
+      her colonizer.                                         
+        Fanon thought revolutionary mental healthcare could help the alienated colonized
+      individualto‘overcomeamultiplicityofinnerresistances’sothatshewasmoreableto
+      engage in collective political resistance against the regime.116 Indeed, he showed there
+      couldbeaverydirectandpracticalinterchangebetweenrevolutionarymentalhealthcare
+      and revolutionary politics; for example, he covertly trained National Liberation Front
+      militants in how to control their body language whilst planting explosives in settler
+      territory, as well as how to psychologically withstand torture and withhold confession
+      from French officers.117 But revolutionary mental healthcare could also make a less
+      tangible contribution to the struggle. Helping the colonized become aware of her own
+      humanity and the contingency of the regime that denied it, revolutionary mental
+      healthcare could enable her to reclaim her human capacity for natality and ‘refus[e] to
+      acceptthepresentasdefinitive’,butratheras‘somethingtobeexceeded’.118Morethan
+      just alleviate her psychic suffering, revolutionary mental healthcare could raise her
+      consciousnessaboutitssystemiccauses:asFanonputitinBlackSkin,WhiteMasks,‘The
+      environment, society are responsible for your delusion.’119 In sociodiagnosing psychic
+      alienation,criticaltherapycouldempowerpatientstobreakoutinsteadofbreakingdown,
+      inciting and enabling them to ‘choose action…with respect to the real source of the
+      conflict–thatis,towardsocialstructures’,whilstatthesametimecaringfortheirmental
+      health in such a way that sustained their struggle.120 
+      Recovery on the ‘objective’ level                      
+      At the same time, Fanon maintained that ‘objective’ disalienation at the level of social
+      structures was required for individuals’ ‘subjective’ recovery. Whilst Fanon recognized
+      the danger of complacently assuming that psychic healing would simply fall out of
+      national liberation, he was similarly sceptical of the notion that the former could be
+      achievedwithoutthelatter.The‘prognosis’ofthecolonized’salienation,Fanonargued,
+      wasultimately‘inthehandsofthosewhoarewillingtogetridoftheworm-eatenrootsof
+      thestructure’,andembarkuponatotal‘restructuringoftheworld.’121Justasheexposed
+      the violent sociogeny of colonial mental illness, Fanon extended the institutional-
+      psychotherapeutic principle that recovery is necessarily social beyond what he
+      deemedtheexcessivelyartificialandstagnantconfinesofthepsychiatrichospitaltothe
+      Algerian nation as a whole. Even if he could ameliorate his patients’ mental health by
+      experimenting with freer relations within the enclosed heterotopic space of the Blida
+                                                             
+                                                             
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+      14                            Philosophy and Social Criticism 0(0)
+                                                             
+                                                             
+      asylum, Fanon knew that drastically freedom-diminishing colonial relations outside the
+      hospitalendangeredhispatients’fullrecovery.Thecollectivelifeofthehospitalwasno
+      substituteforsocietyasawhole.Colonialsociety,likethehospital,required‘treatment’.
+        Towardstheendofhiscareer,FanonbrokewiththeSaint-Albanmodelofpsychiatric
+      hospitalizationwhen,afterhavingfledAlgeria,hesetupadayclinicattachedtoHoˆpital
+      Charles-NicolleinTunis.122Ina1959report,co-authoredwithoneofhisradicalinterns,
+      CharlesGe´ronimi,Fanonsetouthiscritiqueofwhathecalled‘internment-imprisonment’
+      within the asylum.123 Whilst Tosquelles had envisaged institutional psychotherapy’s
+      ‘point of departure [as] a spontaneous, everyday lived experience’,124 Fanon and
+      Ge´ronimilamentedthatinternmentintheinstitutional-psychotherapeutic‘neo-society’or
+      ‘pseudo-society’,insulatedasitwasfromtheunpredictableoutsideworld,precludedsuch
+      ‘invention;thereisnocreative,innovativedynamic’.125Assuch,itriskedcompounding
+      thepetrificationwroughtbymentalillness,andtherebyfurtherestrangingpatientsfrom
+      natality. Internment even within the reformed institutional-psychotherapeutic hospital
+      only offered the ‘false protection…[of] a sort of wakeful sleep’, mitigating psychic
+      sufferingwithoutactivelyconfrontingthe‘conflictualmilieu’fromwhichitfirstarose.It
+      ‘diminishestheviolenceoftheconflict,thetoxicityofreality’bysecedingfromit,but,as
+      a result, ultimately fails to ‘ac[t] upon reality’.126 
+        A patient’s integration within the asylum’s enclosed heterotopic ‘pseudo-society’
+      cannot,then,resolveheralienationfromthe‘concretesociety’towhichshemustreturn.
+      Fanonand Ge´ronimi arguedthat this‘considerablylimits thecurative anddisalienating
+      value of social therapy’.127 If mental healthcare is to aid recovery, it cannot simply
+      indefinitely uproot mentally ill people from the socio-historical situation in which they
+      becameill.Infact,FanonandGe´ronimicontended,‘raisingtheasylumwallbetweenthe
+      patientandtheoutsidecondition’promotes‘chronicization’.128Ifthementalhealthcare-
+      giveristo‘ac[t]andthin[k]onlydialectically,’theycannottreatmentalillnessinartificial
+      abstraction from its sociogeny, but must confront the ‘illness as lived by the patient, a
+      personality in crisis within a present environment’.129 For Fanon, then, mental illness
+      needed to be situated within its socio-historical context not only for the purposes of
+      diagnosis,butalsoforthepurposesoftreatmentandrecovery.Whilstthereformedasylum
+      did,asthenamesuggested,providethepatientsanctuary,thepersonalitycouldonlyfully
+      recoverin‘syncopateddialogue’withthe‘environment’inwhichitwasfirstwounded.130
+        The psychiatric hospital can certainly function as a site of psycho-political
+      experimentation – exploring less alienated ways of relating to one another – and Fa-
+      non, like his mentor Tosquelles, used it as such. But this experiment lacked reach and
+      potencytotheextentthatitcloseditselfofffromwidersocietyandbecameatotalising
+      endinitself.What’smore,FanonandGe´ronimiarguedthatdeeplydemocraticrelations
+      betweenpsychiatristsandpatientswereimpossibleinthecontextofinternment.Evenif
+      Tosquellesian institutional psychotherapy facilitated patients’self-determination within
+      the confines of the asylum, Fanon and Ge´ronimi argued that any form of psychiatric
+      internment creates a ‘master/slave, prisoner/gaoler dialectic’ that prevents ‘the doctor-
+      patient encounter’ from truly becoming ‘an encounter between two freedoms’.131 Even
+      Saint-Alban answered one ‘pathology of freedom’ (mental illness) with another: con-
+      finement.FanonandGe´ronimithusconcludedthat‘theveritablesocial-therapeuticmilieu
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+      Dyson                                          15      
+                                                             
+                                                             
+      is and remains concrete society itself.’132 According to Fanon and Ge´ronimi, day
+      hospitalization,inbringingdowntheasylumwallsandgivingpatients‘totalfreedom’to
+      comeandgoastheypleased,madeitpossibleformentallyillpeopletoreally‘takethings
+      into their own hands’ and become ‘actional’ beyond the clinical context.133
+                                                             
+      Psycho-socialrecoveryaspermanentpsycho-politicalrevolution
+      IhaveusedFanonianinstitutionalpsychotherapytoproblematiseanti-psychiatriccritical
+      theory’s undialectical either/or between reformist therapy and revolutionary politics.
+      Fanon understood that recovery was not a one-time event, but a perpetual process that
+      couldbenon-linear,unevenandunpredictable.AshismentorTosquellesalwaysstressed,
+      one was never disalienated once and for all; the ‘work’ of recovery was ‘never fin-
+      ished’.134Recoveryasdisalienationisavectorofora‘movementtowards’changerather
+      thanitsdeterminateendpoint.135FanonwasneverunderanyvulgarMarxistillusionthat
+      everything would be alright ‘after the revolution’, nor that ‘the revolution’ was guar-
+      anteed. Influenced by Tosquelles’ idiosyncratic conception of ‘permanent revolution’,
+      Fanonunderstoodthattherevolutionwouldneverbeover–that,onboththe‘subjective’
+      and ‘objective’ levels, we have to fight a permanent psycho-political revolution, con-
+      stantlyreconstructingourselvesandourworld,andalwaysremainingvigilant136against
+      the rise of new ‘concentrationisms’, even as old ones dissolve.
+        WhilstTosquelleswillhavefirstencounteredthenotionof‘permanentrevolution’asa
+      founding member of the Catalan dissident communist group, Workers Party of Marxist
+      Unification,137 the way he uses the term in the context of institutional psychotherapy
+      differsfromitsstandardMarxist-Trotskyistmeaning.MarxandEngels,inaMarch1850
+      address to the Communist League, warned members against being satiated by petty
+      bourgeois reformist ‘bribes’ of welfare and state employment policies:
+        ‘Whilethedemocraticpettybourgeoiswanttobringtherevolutiontoanendasquicklyas
+        possible…, itis ourinterest andour task tomakethe revolution permanent’.138
+        Theyarguedthattheproletariatshouldbecomeanindependentpoliticalforcesothat
+      they were poised to seize power in a proletarian revolution.139 Leon Trotsky’s famous
+      theoryofpermanentrevolutiondevelopedtheseideastoaddressthesituationinRussia,
+      wherehebelievedthatthebourgeoisiewouldnotinstitutepoliticaldemocracy,andthatit
+      would thus fall to the proletariat to carry out both the bourgeois-democratic and pro-
+      letarianrevolutions,addingthattheRussianproletariatwouldnotbeinapositiontohold
+      onto power in a fiercely hostile international context unless it was quickly followed by
+      proletarianrevolutionsinothercountries.Trotsky’sconceptionofpermanentrevolution
+      thuschallengedMenshevikstagismandundermined‘socialisminonecountry’(astrategy
+      later pursued by Joseph Stalin). More abstractly, following Michael Lo¨wy’s interpre-
+      tation,Trotskycounterposedpermanentrevolutiontothe‘impotentfatalismthatpervaded
+      Menshevik thinking, where the dead ruled the living and the past determined the fu-
+      ture’.140 Trotsky’s ‘open historicism’ understood ‘the process of permanent revolution
+      towards socialist transformation…not as an inevitable necessity’, but a possibility the
+                                                             
+                                                             
+                                                             
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+      16                            Philosophy and Social Criticism 0(0)
+                                                             
+                                                             
+      realizationofwhichwoulddependonahostofunforeseeablecontingenciesthatwould
+      presentnewopportunitiesandobstaclesateveryturn,whichwouldhavetobenavigated
+      by political agents.141                                
+        ClosertoMarxandEngels’originalusageandTrotsky’s‘openhistoricism’thantothe
+      latter’s specific theory of uneven and combined development, Tosquelles deployed the
+      term ‘permanent revolution’ loosely and intuitively to describe a kind of endless and
+      open-ended everyday psycho-political orientation and practice: that is to say, a psycho-
+      political praxis.142 Tosquelles advocated permanent revolution in mental healthcare to
+      guardagainstreformistcomplacency,fatalism,stagnationandpetrification.Asthelatter’s
+      fellow institutional psychotherapist Jean Oury explained,
+        ‘TheentireprojectsetforthbyTosquelles…attheclinicofSaint-Albanwastochallengeall
+        areas of suppression. It is not simplyaquestion of suppressing thisor that,but of slowly
+        infiltrating suppressive models,of softly subverting.’143
+                                                             
+        The struggle in and against mental healthcare was, for Tosquelles, ‘never finished’.
+      Askedin1985ifinstitutionalpsychotherapywasstillrelevantorifhadbeenovertakenby
+      newmovements,Tosquellesemphasizedthatitwasconstantlychangingthroughtimeand
+      space:                                                 
+        ‘Thereisalwaysenoughtoinitiatetheprocessofgoingbackandforthbetweenpracticeand
+        theory.WithAristotleandwithMarxIhadtakenupherethetermpraxiswhichindicatesthese
+        comingsandgoings.ThisisalsowhyIwouldratherspeakofacertainmovementtowards
+        institutional psychotherapy than ofaverydefinite typeof model or explanation.’144
+                                                             
+        Thisdialecticbetweencriticaltheoryandcriticaltherapyneverresolved;institutional-
+      psychotherapeutic theories evolved as soon as mental healthcare-givers and -receivers
+      attempted to put them into practice.                   
+        WhereMarxist-Trotskyiststheorizedthebourgeoisandproletarianrevolutionsnotas
+      twodistincthistoricalstages,buttwomomentsofthesame uninterruptedrevolutionary
+      process,Tosquellesunderstoodpermanentpsycho-politicalrevolutionasanuninterrupted
+      double movement between subjective and objective disalienation, as well as between
+      theory and practice. This was expressed most vividly during the years of Resistance,
+      which put the patients into contact with the outside world – they left the psychiatric
+      institution to buy and sell on the black market, to pick mushrooms, to work for local
+      peasants in exchange for butter and turnips – and brought the outside world in: Saint-
+      Alban became an asylum for fugitive fighters as well as mentally ill people.145 The
+      questionofsurvivalproveddidactic.146PatientsatSaint-Albannotonlyavoidedthedeath
+      by starvation faced by patients at almost every other psychiatric institution in France.
+      Theyalsobecamepartofamovementwhichdisturbedtherigiddistinctionbetweencare-
+      givers and -receivers, transforming their own subjectivities in the process.
+        Nevertheless,Tosquelles’desiretobringthe‘outside’intotheasylumconflictedwith
+      hisattempttoprovidepatientsandmilitantsrefugefromsocialpathologies.AsIarguedin
+      the previous section, Fanon was sceptical of the possibility of permanent revolution
+                                                             
+                                                             
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+      Dyson                                          17      
+                                                             
+                                                             
+      within the confines of even the reformed hospital’s ‘pseudo-society’. He advanced the
+      revolutionbyturninghisbackoninternmentforevenseverepsychosispatients,breaking
+      downtheboundarybetween‘inside’and‘outside’andconfronting‘thetoxicityofreality’
+      together with his patients and comrades. Note, however, that opening the doors of the
+      hospital and abandoning psychiatric confinement did not mean carelessly abandoning
+      mentallyillpeople.Fanon’sdeparturefromthetotalpsychiatricinstitutiondidnotentail
+      fulldeinstitutionalizationofthesortpursuedbytheanti-psychiatrymovementthatgained
+      prominenceonlyafterhisuntimelydeath.Fanon’saimremainedthedisalienationrather
+      than the abolition of psychiatry. After all, as Sedgwick put it in his critique of anti-
+      psychiatric individualism, ‘Politics can be resisted only by politics, institutions by in-
+      stitutions’.147 Instead of merely nominal, cost-cutting ‘care in the community’, Fanon
+      advocateddeeplydemocratizingexistinginstitutionsandappropriatingtheirresourcesto
+      communise mental healthcare. His perpetual struggle in, against, and beyond metro-
+      politan and (post)colonial psychiatry can provide inspiration for our response to the
+      mental health/care crisis today. Recovering Fanon’s sociodiagnostic critique and his
+      critical yetinstitutional psychotherapy offers usresourcesfordemanding care thatdoes
+      not cost us freedom, and freedom that does not cost us care.
+      Acknowledgements                                       
+      Iwouldliketothankthefollowingpeopleforreadingandrespondingtoearlierdraftsofthisarticle:
+      SamuelHolcroft,LoisMcNay,StuartWhite,EmilyKatzenstein,OrlandoLazar,TessaLazar,Ben
+      O’Brien, Jasper Friedrich and Sarah Stein Lubrano. Many thanks to the anonymous reviewer at
+      Philosophy&SocialCriticismfortheirthoughtfulcomments.Iamalsogratefultoaudiencesatthe
+      KU Leuven Critical Emancipations Conference, the Critical Theory Conference of Rome, the
+      HistoricalMaterialismConferenceandtheOxfordWorkinProgressinPoliticalTheoryseminar.
+      ORCID iD                                               
+      EmilyM Dyson https://orcid.org/0009-0000-5821-5635    
+                                                             
+      Notes                                                  
+      ThisresearchwassupportedbyaArtsandHumanitiesResearchCouncil/NuffieldCollege(OOC
+      AHRCDTP2 -Nuffield College Scholarship).               
+        1. Inthecontemporaryphilosophyofpsychiatry,debatesabouttheontologyofmentalillness
+         concernwhethermentalillnessexistsand,ifso,whatsortofthingitis.Forabriefoverviewof
+         keyquestionsaskedbyphilosophersofpsychiatryabouttheontologyofmentalillness,seePat
+         Bracken and Phil Thomas, ‘Reflections on Critical Psychiatry’, in Routledge International
+         Handbookof CriticalMental Health(Routledge, 2018),‘Ontological’,101–2.
+        2. ThisisalsotrueoftheNorthAmericananti-psychiatrymovement,but,giventheright-wing
+         libertarianThomasSzasz’sfoundationalinfluence,itisnotasrelevanttomypresentconcern
+         with anti-psychiatric tendencies onthe left.        
+        3. Whilst British anti-psychiatrists defected from their profession and called for dein-
+         stitutionalisationfromoutsidetheasylum,Italiananti-psychiatristssoughttobringdownthe
+         asylum from within. For a recent history of British anti-psychiatry that decentres the
+                                                             
+                                                             
+                                                             
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+      18                            Philosophy and Social Criticism 0(0)
+                                                             
+                                                             
+         controversialcounterculturaliconR.D.Laing,seeOis´ınWall,TheBritishAnti-Psychiatrists:
+         FromInstitutionalPsychiatrytotheCounter-Culture,1960–1971(Routledge,2019).Fora
+         recentEnglish-languagehistoryofItaliananti-psychiatry,albeitonebuiltaroundthefigureof
+         FrancoBasaglia,seeJohnFoot,TheManWhoClosedtheAsylums:FrancoBasagliaandthe
+         Revolutionin Mental HealthCare(London: Verso, 2015).
+        4. Beyond this especially close transatlantic comparison, the lessons from the British anti-
+         psychiatrymovementandactuallyexistingdeinstitutionalisationintheUKcanalsoinform
+         ourinternationalistresponsetowhatisnowbeingcalleda‘globalmentalhealthcrisis’(e.g.
+         ‘Secretary-General’s Video Message to Launch the World Mental Health Report 2022:
+         Transforming Mental Health For All’, United Nations: Secretary-General, 17 June 2022,
+         https://www.un.org/sg/en/content/sg/statement/2022-06-17/secretary-generals-video-
+         message-launch-the-world-mental-health-report-2022-transforming-mental-health-for-all;
+         see also World Health Organization, ‘World Mental Health Report: Transforming Mental
+         Health for All’ (2022): ch. 3 for a comprehensive report on high mental health needs and
+         insufficient andinadequateresponses worldwide) inthe wake of neoliberal globalization.
+        5. ForanoverviewofempiricalstudiesoftheimpactoftheCOVID-19pandemiconpopulation
+         mental health up until April 2022, see Office for Health Improvement and Disparities,
+         ‘COVID-19MentalHealthandWellbeingSurveillance:Report’,ResearchandAnalysis(UK
+         Government, April 2022), https://www.gov.uk/government/publications/covid-19-mental-
+         health-and-wellbeing-surveillance-report. For an overview of how the pandemic accelera-
+         tedtheexistingtreatmentgap,seeBritishMedicalAssociation,‘MentalHealthPressuresin
+         England’ (15 November 2023), https://www.bma.org.uk/advice-and-support/nhs-delivery-
+         and-workforce/pressures/mental-health-pressures-data-analysis.
+        6. David Cameron, ‘“TheAge of Austerity”’ (Cheltenham, UK, 26April 2009).
+        7. DanBerger,‘Introduction:ExplodingLimitsinthe1970s’,inTheHidden1970s:Historiesof
+         Radicalism,ed. Berger(NewBrunswick, N.J:RutgersUniversity Press,2010),1–17.
+        8. IfollowPeterSedgwick,Psychopolitics(London:PlutoPress,1982/2022),172,andAndrew
+         Scull,‘UKDeinstitutionalisation:NeoliberalValuesandMentalHealth’,inMind,Stateand
+         Society:SocialHistoryofPsychiatryandMentalHealthinBritain1960–2010,ed.George
+         IkkosandNickBouras(Cambridge:CambridgeUniversityPress,2021),307–8,inviewing
+         deinstitutionalisationasapoliticalchoicetowhichpsy-professionalsacquiescedratherthanan
+         expert-led responseto advances inpharmaceuticals.   
+        9. See Robbie Shilliam, ‘Enoch Powell: Britain’s First Neoliberal Politician’, New Political
+         Economy 26, no. 2 (4 March 2021): 239–49, for a provocative yet compelling account of
+         Powell asBritain’s first neoliberal politician.     
+       10. J. Enoch Powell, ‘Official Opening of the Conference’ (National Association for Mental
+         Health: Emerging Patterns for the Mental Health Services & the Public: ‘Mental Health is
+         Everybody’s Business’,Church House,Westminster,London,9 March1961).
+       11. Powell,‘AddressbytheMinisterofHealth’(JointSessionofThirteenthAnnualMeetingsof
+         the Executive Councils’ Association (England) and the Association of Welsh Executive
+         Councils,Llandudno,27October1960).Note,inlinewithShilliam’sthesis,thisspeechin
+         particular combines Powell’s deinstitutionalisation agenda with the neoliberal triptych of
+         conservative-communitarianstatephobia,austerity,andracistpopulism;afteradvocatingfor
+                                                             
+
+[PAGE 19]
+                                                             
+                                                             
+                                                             
+      Dyson                                          19      
+                                                             
+                                                             
+         cost-saving non-residential ‘care of the patient in the community,’ Powell insists that the
+         ‘foreign visitorshall not beallowedto exploitour National HealthService’.
+       12. J.A.Chandler,‘ThatcherandMajor’,inExplainingLocalGovernment:LocalGovernmentin
+         Britain since 1800,ed. Chandler(Manchester University Press, 2007),244–277.
+       13. SeeEmmaDowling,TheCareCrisis:WhatCausedItandHowCanWeEndIt?(VersoBooks,
+         2021) onthe false promiseof “technofixes”for our carecrisis.
+       14. Sedgwick, Psychopolitics, 168–9. Indeed, in ‘Better Services for the Mentally Ill’ (White
+         Paper,20thCenturyHouseofCommonsSessionalPapers[London:HerMajesty’sStationery
+         Office, 1975], 1974–064888, U.K. Parliamentary Papers: ii, see also 16, 83–6), the De-
+         partmentofHealthandSocialServicesadmittedthescarcityofPowell’spromisedcommunity
+         facilities.                                         
+       15. Helen Smith, ‘Caring for Everyone? The Implications for Women of the Changes in
+         CommunityCareServices’,Feminism&Psychology1,no.2(1991):esp.‘WomenasCarers,’
+         284–7.ForrecentMarxistfeministtheoriesofthefamilyasaunitofprivatizedcare(aswellas
+         callsforthecommunisationofcare),seeM.E.O’Brien,FamilyAbolition:Capitalismandthe
+         CommunizingofCare(London:PlutoPress,2023);KathiWeeks,‘AbolitionoftheFamily:
+         TheMostInfamousFeministProposal’,FeministTheory24,no.3(2023):433–53;Sophie
+         Lewis,AbolishtheFamily:AManifestoforCareandLiberation,SalvageEditions(London:
+         Verso, 2022).                                       
+       16. MelindaCooper,FamilyValues:BetweenNeoliberalismandtheNewSocialConservatism,
+         Near Futures(NewYork: ZoneBooks, 2017).             
+       17. Thatcher’sgovernmentmadenosecretofcommunitycare’srelianceonunpaidcarerswithin
+         the domestic sphere; this was portrayed as a virtue. For example, in a 1989 address to the
+         Commons laying out the government’s community care policy, then Secretary of State
+         KennethClarkeconfirmedthat‘thegreatbulkofcommunitycarewillcontinue,asnow,tobe
+         providedbyfamily,friendsandneighbours’–especially,headmitted,‘femalemembersofthe
+         familylookingaftertheirrelatives’–whomhecelebratedas‘unselfish’,‘dedicatedandself-
+         sacrificing’(‘CommunityCare’ [Westminster,London:Hansard, 12July 1989]).
+       18. MaryRobertson,‘TheGreatBritishHousingCrisis’,Capital&Class41,no.2(1June2017):
+         esp.‘Theroots of thepresent crisis’,197–202.        
+       19. See Scull, ‘UK Deinstitutionalisation’: 312; SteffanBlayney, ‘Unstable Histories’, Radical
+         Philosophy,no.207(2020):107; Sedgwick, Psychopolitics,216.
+       20. HereIaminfluencedbyBeatriceAdler-BoltonandArtieVierkant’srepurposingofRuth
+         WilsonGilmore’sconceptof‘organizedabandonment’(GoldenGulag:Prisons,Surplus,
+         Crisis, and Opposition in Globalizing California [Berkeley: University of California
+         Press, 2007]) and Lauren Berlant’s concept of ‘slow death’ (‘Slow Death (Sovereignty,
+         Obesity, Lateral Agency)’, Critical Inquiry 33, no. 4 [2007]: 754–80) to theorize the
+         surplusclassinHealthCommunism:ASurplusManifesto(London:Verso,2022),1,4–5,
+         13, 17–20.                                          
+       21. Thosewithseriousmentalillnesseshavealifeexpectancy15–25yearslessthanthosewithout
+         (Scull,‘UKDeinstitutionalisation’:213).IntheUK,forexample,increasinglyhigher-than-
+         averagemortalityratesforthosediagnosedwithbipolarandschizophreniahavebeentiedto
+         the failures of deinstitutionalisation and austerity policies (e.g. Joseph F. Hayes et al.,
+                                                             
+
+[PAGE 20]
+                                                             
+                                                             
+                                                             
+      20                            Philosophy and Social Criticism 0(0)
+                                                             
+                                                             
+         ‘MortalityGapforPeoplewithBipolarDisorderandSchizophrenia:UK-BasedCohortStudy
+         2000–2014’,TheBritish Journal ofPsychiatry 211,no. 3[2017]:175–81).
+       22. HereIechoKarlMarx’sfamousconstrualoftheproletarianas‘freeinthedoublesense’–free
+         todisposeofherlabour-powerasherowncommodity,andfreefromanyotherassetsduetoa
+         process of violent dispossession and enclosure (‘Chapter Six: The Buying and Selling of
+         Labour-Power’,inCapital,vol.1,accessed1March2024,https://www.marxists.org/archive/
+         marx/works/1867-c1/ch06.htm,1867/2015).             
+       23. See, for example, The People’s Assembly Against Austerity (established 2013), Keep Our
+         NHSPublic (established 2005).                       
+       24. See, for example, Mental Health Resistance Network (established 2010), Psychologists
+         AgainstAusterity(established2014),DeathsbyWelfareProject(established2021)atHealing
+         Justice Ldn(established 2019).                      
+       25. HerbertMarcuse, ‘TheSocial Implications ofFreudian“Revisionism”’,Dissent Magazine,
+         Summer 1955: 225.                                   
+       26. See especially Neil McLaughlin, ‘The Fromm–Marcuse Debate and the Future of Critical
+         Theory’,inThePalgraveHandbookofCriticalTheory,ed.MichaelJ.Thompson(NewYork:
+         Palgrave MacmillanUS, 2017),481–501.                
+       27. Marcuse, ‘TheSocial Implications’: 225.           
+       28. Marcuse: 222.                                     
+       29. Marcuse, ‘AReply toErich Fromm’,Dissent Magazine,Winter 1956: 81.
+       30. Marcuse, One-Dimensional Man: Studies in the Ideology of Advanced Industrial Society
+         (London: Routledge,1964/2002),79.                   
+       31. MaxHorkheimer,thendirectoroftheInstitute,understoodFrommandHorneyasengagedin
+         the same revisionist project of abandoning drive theory and building ‘a commonsense
+         psychology’ina1942lettertocolleagueLeoLowenthal(GesammelteSchriften[Collected
+         Works]/Bd.18Briefwechsel[Correspondence]:1949–1973,vol.18,[Fischer,Taschenbuch-
+         Verlag, 1996], 367; English translation from Martin Jay, The Dialectical Imagination: A
+         History of the Frankfurt School and the Institute of Social Research, 1923–1950 [Boston:
+         Little, Brown andco.,1973],100–1).                  
+       32. Theodor W. Adorno, ‘Revisionist Psychoanalysis’, trans. Nan-Nan Lee, Philosophy and
+         Social Criticism 40,no. 3(1952/2014):326.           
+       33. Fabian Freyenhagen, ‘Normality Proper to the Time Is Sickness’, Krisis 41, no. 2 (31 De-
+         cember2021):87–88.                                  
+       34. The text was first published in Psyche as ‘The Relationship of Psychoanalysis to Social
+         Theory’ in1952.                                     
+       35. Adorno,‘Revisionist Psychoanalysis’:328.          
+       36. SeeFreyenhagen’samendmentofRodneyLivingstone’stranslationofAdorno’sProblemsof
+         MoralPhilosophy(Cambridge:PolityPress,1963/2000)inAdorno’sPracticalPhilosophy:
+         LivingLessWrongly(Cambridge:CambridgeUniversityPress,2013),56.SeealsoAdorno,
+         MinimaMoralia: Reflections from DamagedLife (Verso, 1951/2005), 39.
+       37. MichelFoucault,‘WernerSchroeterandMichelFoucaultinConversation’,inFoucaultatthe
+         Movies, ed. Patrice Maniglier and Dork Zabunyan, trans. Clare O’Farrell (Columbia Uni-
+         versity Press, 1981/2018), 185. See also ‘the destruction of psychology itself’ (Foucault,
+                                                             
+
+[PAGE 21]
+                                                             
+                                                             
+                                                             
+      Dyson                                          21      
+                                                             
+                                                             
+         MentalIllnessandPsychology,trans.AlanSheridan[BerkeleyandLosAngeles,California:
+         University of California Press, 1962/1987], 74).    
+       38. Foucault,‘Prefacetothe1961Edition’,inHistoryofMadness,ed.JeanKhalfa,trans.Khalfa
+         andJonathanMurphy(London: Routledge, 1961/2006),xxvii.
+       39. BeyondFoucault’sbest-knownstatementofhisgenealogicalmethod(‘Nietzsche,Genealogy,
+         History’, in The Foucault Reader, ed. Paul Rabinow [London: Penguin, 1971/1984], 76–
+         100.),hisearlywritingsonmadnessalreadypointtoNietzsche’sinfluence;‘Thefollowing
+         study will…, beneath the sun of the great Nietzschean quest,…confront the dialectics of
+         history’ (‘Preface tothe 1961Edition,’ xxx).        
+       40. Note,myreadingofHistoryofMadnessasproto-genealogicaliscontroversial;itisstandardly
+         read as an early instance of Foucault’s archaeological method (Gary Gutting, Michel Fou-
+         cault’s Archaeology of Scientific Reason [Cambridge: Cambridge University Press, 1989];
+         GuttingandJohannaOksala,‘MichelFoucault’,inTheStanfordEncyclopediaofPhilosophy,
+         ed. Edward N. Zalta [Metaphysics Research Lab, Stanford University, Spring 2019]). I
+         disagree with this reading because: (1) Foucault understands each epoch’s third-person
+         “experience” of madness as involving discursive and non-discursive elements; (2) he of-
+         ferscausalexplanationsforepochalshiftsthat,again,refertobothmaterialandsocio-cultural
+         mechanisms; (3) he does not view each epoch’s “experience” of madness as rigidly self-
+         contained,dividedbysuddenandtotalruptures(“epistemicbreaks”),butrathertracesboththe
+         discontinuities and continuities between each epoch’s “experience”, and emphasizes the
+         ambiguity of transitional periods (although this lastfeature isadmittedly diminished inthe
+         more widely-read English-language 1965abridgement,MadnessandCivilisation).
+       41. SeeGutting, ‘Michel Foucault’s Archaeology,’ 103. 
+       42. Foucault, History of Madness, ed. Khalfa, trans. Khalfa and Murphy (London: Routledge,
+         1972/2006), 460.                                    
+       43. Foucault, ‘Preface,’xxxiii; Foucault,History of Madness, 458–60.
+       44. I follow Alfred Tauber in not taking Freud’s public-facing allegiance to positivism at face
+         value(‘Freud’sPhilosophicalPath:FromaScienceofMindtoaPhilosophyofHumanBeing’,
+         The Scandinavian Psychoanalytic Review 32, no. 1 [2009]: 32–43; Freud, the Reluctant
+         Philosopher[Princeton, N.J. ;PrincetonUniversity Press,2010],esp.ch. 1).
+       45. Foucault,MadnessandCivilization:AHistoryofInsanityintheAgeofReason,trans.Richard
+         Howard(Vintage Books, 1965/1988),xi,emphasis in original.
+       46. TranslationfromDavidMacey,TheLivesofMichelFoucault:ABiography(London:Verso,
+         1969/2019), 214.                                    
+       47. Macey,214.                                        
+       48. Seee.g.AmyAllen,‘Foucault,Psychoanalysis,andCritique’,Angelaki23,no.2(4March
+         2018): 170–86; Chloe¨ Taylor, ‘Foucault’s “The History of Sexuality”’, in Understanding
+         Foucault, Understanding Modernism, ed. David Scott et al. (New York: Bloomsbury Ac-
+         ademic & Professional, 2017), 113–34; Mark G. E. Kelly, Foucault’s History of Sexuality
+         VolumeI,TheWilltoKnowledge:AnEdinburghPhilosophicalGuide(Edinburgh:Edinburgh
+         University Press, 2013). Foucault does not name Marcuse, but does reference the latter’s
+         advocacyofthe‘greatRefusal’(TheHistoryofSexuality,trans.RobertHurley,vol.1[New
+         York: PantheonBooks, 1976/1978], 96).               
+                                                             
+
+[PAGE 22]
+                                                             
+                                                             
+                                                             
+      22                            Philosophy and Social Criticism 0(0)
+                                                             
+                                                             
+       49. Foucault, Remarks on Marx: Conversations with Duccio Trombadori, (New York: Semi-
+         otexte,1978/1991),117.                              
+       50. Prison Information Group, translation from Kathryn Medien, ‘Foucault in Tunisia: The
+         Encounter with Intolerable Power’,The SociologicalReview [1971/2019]:7.
+       51. Foucault, trans.Medien, ‘Foucaultin Tunisia’ [1977/2019]: 11.
+       52. Foucault, Psychiatric Power: Lectures at the Collège de France, 1973–74 (Basingstoke:
+         Palgrave Macmillan, 1974/2006),254.                 
+       53. Foucault’slifepartnerDanielDefertrecountsthatwhenGillesDeleuzeandFe´lixGuattari’s
+         Anti-Oedipus came out in March 1972, Foucault joked to Deleuze, ‘We have to get rid of
+         Freudo-Marxism.’ (‘Chronology’, in A Companion to Foucault, ed. Christopher Falzon,
+         TimothyO’Leary,andJanaSawicki [Malden Mass.:Wiley-Blackwell, 2013],50)
+       54. OnFoucault’sandtheFrankfurtSchool’slackofengagementwithcontemporaneousfeminist
+         currents,seeCarolineRamazanoglu,‘Introduction’,inUpAgainstFoucault:Explorationsof
+         SomeTensionsBetweenFoucaultandFeminism(London:Taylor&FrancisGroup,1993),1–
+         25,andLoisMcNay,TheGenderofCriticalTheory:OntheExperientialGroundsofCritique
+         (Oxford,New York: Oxford University Press, 2022) respectively.
+       55. Carol Hanisch, ‘Introduction to the Personal Is Political’ (January 2006), https://www.
+         carolhanisch.org/CHwritings/PIP.html: 1.            
+       56. SeeLornaFinlayson’sdistinctionbetweenwhatcountsasapoliticalissueversusaction(An
+         Introduction toFeminism [Cambridge: Cambridge University Press, 2016],127).
+       57. Sheila Rowbotham, Woman’sConsciousness, Man’s World (Verso Books, 1973/2015), 24.
+       58. CompareJanaCattien,‘NeuroticSituations:ACriticalDialoguebetweenFreudandFanon’,
+         Political Theory, 28 March 2024, 00905917241239910, https://doi.org/10.1177/
+         00905917241239910, which offers a revisionist interpretation of feminist consciousness-
+         raising as therapeutic.                             
+       59. Whilstshewasprobablyreactingtothesexisttendencytopsycho-pathologisefeministrage,
+         the stigmatization of mental illnessalso seemsto underly herremark.
+       60. Hanisch, ‘The Personal Is Political’, in Notes from the Second Year: Women’s Liberation:
+         MajorWritingsoftheRadicalFeminists,ed.ShulamithFirestoneandAnneKoedt,General
+         andTheoretical (NewYork,1970), 76–7.                
+       61. Seealsoe.g.KathieSarachild’sinsistencethatconsciousness-raising‘wasnottherapy’,also
+         against ‘a whole lot of otherwise “scientific” and “radical” people – especially men’ who
+         dismissed it as such (‘Consciousness Raising: A Radical Weapon’, in Feminist Revolution
+         [NewYork: RandomHouse,1973/1978],148,145).          
+       62. Ihavelefttoonesidethelessplausibleanti-psychiatricstancethatallpsy-interventionsare
+         iatrogenic.                                         
+       63. Fanon,‘OurJournal’,inAlienationandFreedom,ed.KhalfaandRobertJ.C.Young,trans.
+         StevenCorcoran (London: Bloomsbury Academic,1955/2018), 332.
+       64. His Gallicised name, ‘François’, is often used in the secondary literature on institutional
+         psychotherapy,butIfollowJoanaMasó,Tosquelles:Curarlasinstituciones(Arcadia,2022)
+         in usinghis Catalanname.                            
+       65. Fanon, ‘Mental Alterations, Character Modifications, Psychic Disorders and Intellectual
+         DeficitinSpinocerebellarHeredodegeneration:ACaseofFriedreich’sAtaxiawithDelusions
+         of Possession’,in Alienation andFreedom(1951/2018),271.
+
+[PAGE 23]
+                                                             
+                                                             
+                                                             
+      Dyson                                          23      
+                                                             
+                                                             
+       66. Marcuse, AnEssay onLiberation (Boston: Beacon Press, 1969/1971),vii.
+       67. Hanisch, ‘The PersonalIs Political,’ 77.          
+       68. Adorno,‘Revisionist Psychoanalysis’:328.          
+       69. FanonandCharlesGe´ronimi,‘DayHospitalizationinPsychiatry:ValueandLimits.PartTwo:
+         Doctrinal Considerations’,in Alienation andFreedom (1959/2018),504.
+       70. Ed.Khalfa andYoung, trans.Corcoran 2018and2020.   
+       71. Fanon,BlackSkin,WhiteMasks,trans.CharlesLamMarkmann(London:PlutoPress,1952/
+         2017), 4.                                           
+       72. Fanon,BlackSkin, 182.                             
+       73. See Neal Harris, Critical Theory and Social Pathology: The Frankfurt School beyond
+         Recognition,(Manchester: Manchester University Press, 2022).
+       74. Fanon,‘Mental Alterations,’ 263.                  
+       75. FanonandGe´ronimi,‘DayHospitalizationinPsychiatryPartTwo,’497.NotethatFanonfirst
+         usesthisphraseinBlackSkin,194.Heoftenrepeatedtheideathatmadnessisa‘pathologyof
+         freedom’to Marie-Jeanne Manuellan (Camille Robcis, Disalienation: Politics, Philosophy,
+         andRadicalPsychiatryinPostwarFrance[Chicago;London:UniversityofChicagoPress,
+         2021], 69).                                         
+       76. Robcis, Disalienation, 69.                        
+       77. SeeRobcis,Disalienation,ch.2;Robcis,‘FrantzFanon,InstitutionalPsychotherapy,andthe
+         DecolonizationofPsychiatry’,inFrantzFanon’sPsychotherapeuticApproachestoClinical
+         Work (Routledge, 2019), 23–38; Nigel C. Gibson and Roberto Beneduce, Frantz Fanon,
+         Psychiatry andPolitics (Lanham: Rowman &LittlefieldInternational, 2017),ch. 5.
+       78. SeeRobcis,Disalienation,1;Robcis,‘FrançoisTosquellesandthePsychiatricRevolutionin
+         Postwar France’,Constellations 23,no.2 (2016):212.  
+       79. SeeKhalfa,‘Fanon,RevolutionaryPsychiatrist’,inAlienationandFreedom(2018),186–187;
+         AnthonyFaramelli,‘TheDecolonisedClinic:FanonwithFoucault’,TheLondonJournalof
+         Critical Thought1,no. 2(June2017): 118.             
+       80. SeeRobcis, Disalienation, 41–6;Robcis, ‘François Tosquelles,’ 218–9.
+       81. Foucault,‘Preface’,inAnti-Oedipus:CapitalismandSchizophrenia,byDeleuzeandGuattari,
+         trans.RobertHurley,MarkSeem,andHelenR.Lane(Minneapolis:UniversityofMinnesota
+         Press, 1972),xiil.                                  
+       82. SeeRobcis, ‘François Tosquelles’, 212.            
+       83. FanonandGe´ronimi, ‘Day Hospitalization in Psychiatry Part Two,’ 497.
+       84. Fanon,‘Our Journal’,1954/2018, 319.               
+       85. Fanon,‘Traitd’Union’,in Alienation andFreedom (1953/2018),282–3.
+       86. Fanon,‘Mental Alterations,’ 218.                  
+       87. SeeFanon,‘Our Journal,’1954–5/2018,319–21, 326,333.
+       88. Fanon, The Wretched of the Earth, trans. Richard Philcox (New York: Grove Press, 1961/
+         2004), 174.                                         
+       89. Fanon,‘Traitd’Union’,283.                         
+       90. SeeFanon,Black Skin,177.                          
+       91. Fanon,‘Traitd’Union’,283.                         
+       92. HannahArendt, OnViolence (NewYork:Harcourt Brace,1969),82.SeealsoArendt, The
+         HumanCondition, (Chicago;London: University of ChicagoPress, 1958/1998),8–9.
+
+[PAGE 24]
+                                                             
+                                                             
+                                                             
+      24                            Philosophy and Social Criticism 0(0)
+                                                             
+                                                             
+       93. See, for example, Fanon’s critique of Mannoni’s depoliticising pathologisation of the Ma-
+         lagasy 1947anti-colonial uprisingin BlackSkin,ch.4. 
+       94. Fanon,BlackSkin, 191.                             
+       95. InCommonGround:DemocracyandCollectivityinanAgeofIndividualism(London:Pluto
+         Press,2015),JeremyGilbertfavourstheSpinozist-Marxistlanguageof‘singularities’tothat
+         of ‘individuals’, as the latter etymologically implies indivisible selves that are only con-
+         tingently rather than necessarily social. Gilbert’s Deleuzian theorisation of singularities as
+         elements of a multitude complements Fanon’s conceptualisation of the collective as itself
+         potentiallyagentialaswellasapreconditionfortheagencyofitsmembers.However,forthe
+         sake of legibility outside of Spinozist-Marxist scholarship, I adopt the language of ‘indi-
+         viduals’ whilst philosophicallydisavowing individualism.
+       96. StacyCliffordSimplican,TheCapacityContract:IntellectualDisabilityandtheQuestionof
+         Citizenship (Minneapolis;London: University of Minnesota Press,2015),4.
+       97. Peoplearenotmentallyillallthetime,and,whentheyare,itneednotexhaustnorevendefine
+         their identityor subjective experience.             
+       98. The generalizations of my discussion here belie the heterogeneity of mental illness (and
+         Fanon’sprofessionalappreciationofthis–especiallythedifferencesbetweenpsychoticand
+         neurotic mental disorders). Suffice to say that insofar as one suffers from, for example,
+         obsessions,compulsions,anxieties,fears,phobias,delusions,paranoia,hallucinations,self-
+         hatred, self-absorption, apathy, despair or hopelessness (all common features of mental ill-
+         ness), one’scapacity forpolitical action islimited. 
+       99. Theweakerversionofthesocialmodelconceptualizesdisabilityastheinteractionbetween
+         mind-body diversity and an environment hostile to that diversity (see Barbara Arneil and
+         NancyJ.Hirschmann,‘DisabilityandPoliticalTheory:AnIntroduction’,inDisabilityand
+         PoliticalTheory[Cambridge:CambridgeUniversityPress,2016],5).Myunderstandingof
+         mentalillnessandrecoveryarecompatiblewithaversionofthisinteractionistmodel,although
+         my research emphasizes the social determinants and social-therapeutic treatment of mental
+         illness – not its societal ‘accommodation’. In addition, I follow Hirschmann and Smith in
+         viewingthefightfor‘accommodation’and‘cure’ascompatible,evenifsuccesswiththelatter
+         eliminates theneedfor the former.                   
+      100. See James I. Charlton, Nothing about Us without Us: Disability Oppression and Empow-
+         erment (Univof California Press, 2000).             
+      101. Fanon and Jacques Azoulay, ‘Social Therapy in a Ward of Muslim Men: Methodological
+         Difficulties’,in Alienation andFreedom (1954/2018), 361.
+      102. Lilia Ben Salem, ‘Introduction to “The Meeting between Society and Psychiatry”’, in
+         Alienation andFreedom,(2018),515, emphasis mine.    
+      103. Fanon,‘Letterto the Resident Minister’,in Alienation andFreedom (1956/2018), 434.
+      104. Fanon,Wretched, trans.Constance Farrington (London:Penguin, 1961/2001), 200.
+      105. Fanon,‘Traitd’Union,’282, emphasis mine.          
+      106. Seealso Fanon,Wretched, trans.Farringdon, 31.     
+      107. Seealso Fanon,Wretched, trans.Farringdon, 29.     
+      108. SeealsoFanon,Wretched,trans.Farringdon,31.In‘RacismandCulture’,Fanonclarifiesthat
+         pre-colonialtraditionisnotsuccessfullyannihilated,butinstead‘mummified’(inTowardthe
+         AfricanRevolution: PoliticalEssays [NewYork:Grove Press, 1956/1967],31, 34).
+
+[PAGE 25]
+                                                             
+                                                             
+                                                             
+      Dyson                                          25      
+                                                             
+                                                             
+      109. NotetheparallelherewithAntoinePorotandJeanSutter’sethnopsychiatricargumentin‘Le
+         Primitivisme Des Indigènes Nord- Africains: Ses Incidences En Pathologie Mentale.’, Sud
+         Me´dical et Chirurgical, 1939, 226–41, that indigenous North Africans were biologically
+         incapableof self-rule dueto theirsupposedlack of acerebral cortex.
+      110. SeealsoFanon,Wretched,trans.Farringdon,73.EchoingMarkFisher’sCapitalistRealism:Is
+         ThereNoAlternative?(JohnHuntPublishing,2009),wemightcallthis“colonialrealism”.
+      111. Fanon,‘WhyWeUseViolence’,in Alienation andFreedom, (1960/2018),654.
+      112. Fanon,‘The“NorthAfricanSyndrome”’,inTowardtheAfricanRevolution(1952/1967),13.
+      113. Fanon,BlackSkin,5.                                
+      114. Fanon,Wretched, trans.Farringdon, 33.             
+      115. Fanon,Wretched, trans.Farringdon, 40,31; seealso 35.
+      116. Fanon,ADying Colonialism (NewYork: Grove Press,1959/1964),52–3.
+      117. GibsonandBeneduce, FrantzFanon,174.               
+      118. Fanon,BlackSkin,194,6.                            
+      119. Fanon,BlackSkin, 185.                             
+      120. Fanon,BlackSkin, 81.                              
+      121. Fanon,BlackSkin,4–5,65.                           
+      122. In‘FrantzFanon,’RobcisleavesoutFanon’slatermoveawayfrompsychiatricinternment.In
+         Disalienation she acknowledges Fanon’s experimentation with the ‘“open door” model of
+         care’,but claims thatthis was‘perfectly inline with the principles of institutional psycho-
+         therapy’,therebydiminishingtheextenttowhichFanonsawitasconstitutingabreakwiththe
+         latter (69). In ‘Day Hospitalization in Psychiatry: Value and Limits’, in Alienation and
+         Freedom(1959/2018),Fanoncitedthelittle-knownBritishpsychiatristDuncanMcMillan’s
+         open-door experiment at the Maperley hospital in Nottingham (news of which probably
+         reached Fanon via the French “sector psychiatry” movement) as his inspiration, not Saint-
+         Alban (474).                                        
+      123. FanonandGe´ronimi, ‘Day Hospitalization in Psychiatry Part Two,’ 500.
+      124. Fanon and Tosquelles, ‘Indications of Electroconculsive Therapy within Institutional
+         Therapies’,in Alienation andFreedom,(1953/2018), 296.
+      125. FanonandGe´ronimi, ‘Day Hospitalization in Psychiatry Part Two,’ 499–500.
+      126. FanonandGe´ronimi, 504.                           
+      127. FanonandGe´ronimi,500.Fanontendedtocallinstitutionalpsychotherapy“socialtherapy”.
+      128. FanonandGe´ronimi, 504, 499.                      
+      129. FanonandGe´ronimi, 501.                           
+      130. FanonandGe´ronimi, 504.                           
+      131. FanonandGe´ronimi, 500, 502,497.                  
+      132. FanonandGe´ronimi, 500.                           
+      133. FanonandGe´ronimi, 496, 502.                      
+      134. TosquellesinFrançoisTosquelles:UnePolitiquedeLaFolie,1989;translationfromRobcis,
+         ‘FrançoisTosquellesandthePsychiatricRevolutioninPostwarFrance’,Constellations23,
+         no.2 (2016): 220.                                   
+      135. Tosquelles in Jean Oury, Guattari and Tosquelles, Pratique de l’institutionnel et Politique,
+         1985, 20.                                           
+                                                             
+
+[PAGE 26]
+                                                             
+                                                             
+                                                             
+      26                            Philosophy and Social Criticism 0(0)
+                                                             
+                                                             
+      136. TheimportanceofvigilanceisathemethatrunsthroughoutFanon’spsychiatricwritings(see
+         Khalfa and Young, ‘General Introduction’, in Alienation and Freedom [2018], 3); e.g.
+         ‘veritable vigilance’ can help guard against the asylum becoming a ‘sado-
+         masochistic….concentration-camp structure of an essentially repressive character.’ (Fanon
+         and Slimane Asselah, ‘The Phenomenon of Agitation in the Psychiatric Milieu: General
+         Considerations,PsychopathologicalMeaning’,inAlienationandFreedom[1957/2018],437–
+         48) It was also stressed by Oury, who trained with Fanon under Tosquelles (see Robcis,
+         Disalienation, 148).                                
+      137. SeeAlanSennett,RevolutionaryMarxisminSpain,1930–1937(Brill,2014)ontheinfluence
+         of Trotsky’s ideas upon the party, despite Trotsky opposing its formation and the party’s
+         disavowals(seeBurnettBolloten,‘ThePOUMandtheTrotskyists’,inTheSpanishCivilWar:
+         Revolution and Counterrevolution, ed. Bolloten, Stanley G. Payne, and George Esenwein
+         (University of North Carolina Press, 2015).         
+      138. Karl Marx and Friedrich Engels, ‘Address to the Central Committee to the Communist
+         League’,inPoliticalWritings.Vol.1,TheRevolutionsof1848,ed.DavidFernbach,1850/
+         1974, 323–4.                                        
+      139. SeeRobinBlackburn,‘Marxism:TheoryofProletarianRevolution’,NewLeftReview,no.97
+         (1976): ‘PermanentRevolution’.                      
+      140. NotetheechoeshereofFanon’sdiscussionofalienationfromtemporalityinthecontextsof
+         “three-dimensional”colonial violence andmental illness.
+      141. Michael Lo¨wy, The Politics of Combined and Uneven Development: The Theory of Per-
+         manent Revolution(Haymarket Books, 2010),50, emphasisin original.
+      142. Robcis alternatively theorizes it as a Foucauldian ethics (Disalienation, 78, 94–5, 110;
+         ‘François Tosquelles,’ 215, 220), but this sheds its distinctively Marxist conceptual
+         inheritance.                                        
+      143. ‘JeanOury: TheHospital Is Ill’,RadicalPhilosophy,no. 143(2004/2007):36.
+      144. Tosquelles inOury,Guattari, andTosquelles,Pratique,20.
+      145. LesHeures Heureses (OurLucky Hours),Documentary,2019.
+      146. FrançoisTosquelles;transcriptfromTosquelles,‘Unepolitiquedelafolie’,Chimères.Revue
+         desschizoanalyses13,no.1(1991):66–81.SeealsoOuryinOury,Guattari,andTosquelles,
+         Pratique, 33.                                       
+      147. Sedgwick, Psychopolitics,192.                     
+      References                                             
+      Adler-Bolton, Beatrice, and Artie Vierkant. 2022. Health Communism: A Surplus Manifesto.
+         London:Verso.                                       
+      Adorno,Theodor.1951/2005.MinimaMoralia:ReflectionsfromDamagedLife.London:Verso.
+      Adorno,T.W.1952/2014.‘RevisionistPsychoanalysis’.TranslatedbyNan-NanLee.Philosophy
+         andSocialCriticism 40,no.3: 326–338. doi:10.1177/0191453713520162.
+      Adorno, Theodor W. 1963/2000. Problems of Moral Philosophy. Translated by Rodney Living-
+         stone.Cambridge: Polity Press.                      
+      Allen,Amy.2018.‘Foucault,Psychoanalysis,andCritique’.Angelaki23,no.2:170–186.doi:10.
+         1080/0969725X.2018.1451570.                         
+                                                             
+                                                             
+
+[PAGE 27]
+                                                             
+                                                             
+                                                             
+      Dyson                                          27      
+                                                             
+                                                             
+      Arendt, Hannah.1969. OnViolence. NewYork,NY: HarcourtBrace.
+      Arneil, Barbara, and Nancy J. Hirschmann. 2016. “Disability and Political Theory: An Intro-
+         duction.” In Disability and Political Theory. Cambridge, United Kingdom: Cambridge
+         University Press.                                   
+      Ben Salem, Lilia. 2018. “Introduction to “The Meeting between Society and Psychiatry”.” In
+         AlienationandFreedom,editedbyJeanKhalfa,andRobertJ.C.Young,translatedbySteven
+         Corcoran,511–517. London:Bloomsbury Academic.       
+      Berger,Dan.2010.“Introduction:ExplodingLimitsinthe1970s.”InTheHidden1970s:Histories
+         ofRadicalism,editedbyDanBerger,1–17.NewBrunswick,NJ:RutgersUniversity Press.
+      Berlant,Lauren.2007.“SlowDeath(Sovereignty,Obesity,LateralAgency).”CriticalInquiry33,
+         no.4: 754–780. doi:10.1086/521568.                  
+      Blackburn,Robin.(1976)Marxism:TheoryofProletarianRevolution.NewLeftReview97:3–35.
+      Blayney, Steffan. 2020. “Unstable Histories.” Radical Philosophy 207: 104–107. https://www.
+         radicalphilosophy.com/reviews/individual-reviews/unstable-histories
+      Bolloten,Burnett.2015.“ThePOUMandtheTrotskyists.”InTheSpanishCivilWar:Revolution
+         andCounterrevolution,editedbyBurnettBolloten,StanleyG.Payne,andGeorgeEsenwein.
+         Chapel Hill, NC: University of North Carolina Press. doi:10.5149/northcarolina/
+         9781469624464.003.0040.                             
+      Bracken, Pat, and Phil Thomas. 2018. “Reflections on Critical Psychiatry.” In Routledge Inter-
+         nationalHandbookofCritical Mental Health.1st ed.,98–106.London:Routledge. doi:10.
+         4324/9781315399584-13.                              
+      British Medical Association. 2023. Mental Health Pressures in England. British Medical Asso-
+         ciation. https://www.bma.org.uk/advice-and-support/nhs-delivery-and-workforce/pressures/
+         mental-health-pressures-data-analysis               
+      Cameron, David. 2009. The Age of Austerity. Cheltenham, UK. https://www.politics.co.uk/
+         comment-analysis/2009/04/27/tory-spring-conference-speeches-in-full/
+      Cameron, David. 2010. Speech on the Big Society. Liverpool. https://www.gov.uk/government/
+         speeches/big-society-speech                         
+      Cattien,Jana.(2024)NeuroticSituations:ACriticalDialoguebetweenFreudandFanon.Political
+         Theory0(0): 00905917241239910.doi: 10.1177/00905917241239910
+      Chandler,J.A.2007.“ThatcherandMajor.”InExplainingLocalGovernment:LocalGovernment
+         inBritainsince1800,editedbyJ.A.Chandler,244–277.Manchester:ManchesterUniversity
+         Press. doi:10.7228/manchester/9780719067068.003.0011.
+      Chapman,Robert.2023.“ACritiqueofCriticalPsychiatry.”Philosophy,Psychiatry,&Psychology
+         30,no. 2:103–119.https://muse.jhu.edu/pub/1/article/899938
+      Charlton,JamesI.2000.NothingaboutUswithoutUs:DisabilityOppressionandEmpowerment.
+         Berkeley,CA: University of California Press.        
+      CommunityCare.1989.CommunityCare.Westminster,London:Hansard.https://api.parliament.
+         uk/historic-hansard/commons/1989/jul/12/community-care
+      Cooper,Melinda.2017.FamilyValues:BetweenNeoliberalismandtheNewSocialConservatism.
+         NewYork,NY: ZoneBooks. Near Futures.                
+      Crossley, Nick. 2005. Contesting Psychiatry: Social Movements in Mental Health. 1st ed.
+         Abingdon,Oxfordshire, NewYork, NY:Routledge.        
+                                                             
+
+[PAGE 28]
+                                                             
+                                                             
+                                                             
+      28                            Philosophy and Social Criticism 0(0)
+                                                             
+                                                             
+      Defert,Daniel.2013.“Chronology.”InACompaniontoFoucault,editedbyChristopherFalzon,
+         Timothy O’Leary, andJanaSawicki,11–83. Malden Mass:Wiley-Blackwell.
+      Deleuze, Gilles, and Fe´lix Guattari. 1972/1984. Anti-Oedipus: Capitalism and Schizophrenia.
+         London:Athlone Press.                               
+      Department of Health and Social Security. 1975. “Better Services for the Mentally Ill’. White
+         Paper.”In 20thCentury Houseof Commons SessionalPapers,1974–064888.London: Her
+         Majesty’s Stationery Office. U.K. Parliamentary Papers. https://parlipapers.proquest.com/
+         parlipapers/docview/t70.d75.1974-064888             
+      Dowling,Emma.2021.TheCareCrisis:WhatCauseditandHowCanWeEndit?London:Verso
+         Books.                                              
+      Fanon, Frantz. 1951/2018. “Mental Alterations, Character Modifications, Psychic Disorders and
+         IntellectualDeficitinSpinocerebellarHeredodegeneration:ACaseofFriedreich’sAtaxiawith
+         DelusionsofPossession.”InAlienationandFreedom,editedbyJeanKhalfa,andRobertJ.C.
+         Young,translated byStevenCorcoran, 203–275.London: Bloomsbury Academic.
+      Fanon, Frantz. 1952/2017. Black Skin, White Masks. Translated by Charles Lam Markmann.
+         London:Pluto Press.                                 
+      Fanon,Frantz.1952/1967.“The“NorthAfricanSyndrome”.”InTowardtheAfricanRevolution:
+         Political Essays,3–16.NewYork,NY: Grove Press.      
+      Fanon,Frantz.1953a-6/2018.“OurJournal.”InAlienationandFreedom,editedbyJeanKhalfa,and
+         RobertJ.C.Young,translatedbyStevenCorcoran,311–348.London:BloomsburyAcademic.
+      Fanon,Frantz.1953b/2018.“Traitd’Union.”InAlienationandFreedom,editedbyJeanKhalfa,and
+         RobertJ.C.Young,translatedbyStevenCorcoran,279–284.London:BloomsburyAcademic.
+      Fanon,Frantz.1956a/2018.“LettertotheResidentMinister.”InAlienationandFreedom,editedby
+         Jean Khalfa, and Robert J. C. Young, translated by Steven Corcoran, 433–436. London:
+         Bloomsbury Academic.                                
+      Fanon, Frantz. 1956b/1967. “Racism and Culture.” In Toward the African Revolution: Political
+         Essays, 29–44.NewYork, NY:Grove Press.              
+      Fanon,Frantz.1959a/1964.“AlgeriaUnveiled.”InADyingColonialism,35–68.NewYork,NY:
+         Grove Press.                                        
+      Fanon,Frantz.1959b/2018.“DayHospitalizationinPsychiatry:ValueandLimits.”InAlienation
+         andFreedom,editedbyJeanKhalfa,andRobertJ.C.Young,translatedbyStevenCorcoran,
+         473–494. London:Bloomsbury Academic.                
+      Fanon,Frantz.1960/2018.“WhyWeUseViolence.”InAlienationandFreedom,editedbyJean
+         Khalfa, and Robert J. C. Young, translated by Steven Corcoran, 653–659. London:
+         Bloomsbury Academic.                                
+      Fanon, Frantz. 1961a/2001. The Wretched of the Earth. Translated by Constance Farrington.
+         PenguinClassics. London:Penguin.                    
+      Fanon,Frantz.1961b/2004.TheWretchedoftheEarth.TranslatedbyRichardPhilcox.NewYork,
+         NY:Grove Press.                                     
+      Fanon, Frantz, and Jacques Azoulay. 1954/2018. “Social Therapy in a Ward of Muslim Men:
+         Methodological Difficulties.” In Alienation and Freedom, edited by Jean Khalfa, and
+         RobertJ.C.Young,translatedbyStevenCorcoran,353–372.London:BloomsburyAcademic.
+      Fanon,Frantz,andCharlesGe´ronimi.1959/2018.“DayHospitalizationinPsychiatry:Valueand
+         Limits. Part Two: Doctrinal Considerations.” In Alienation and Freedom, edited by Jean
+
+[PAGE 29]
+                                                             
+                                                             
+                                                             
+      Dyson                                          29      
+                                                             
+                                                             
+         Khalfa, and Robert J. C. Young, translated by Steven Corcoran, 495–509. London:
+         Bloomsbury Academic.                                
+      Fanon, Frantz, and Francesc Tosquelles. 1953/2018. “Indications of Electroconculsive Therapy
+         within Institutional Therapies.” In Alienation and Freedom, edited by Jean Khalfa, and
+         RobertJ.C.Young,translatedbyStevenCorcoran,291–298.London:BloomsburyAcademic.
+      Fanon,Frantz,andSlimaneAsselah.1957/2018.“ThePhenomenonofAgitationinthePsychiatric
+         Milieu:GeneralConsiderations,PsychopathologicalMeaning.”InAlienationandFreedom,
+         edited by Jean Khalfa, and Robert J. C. Young, translated by Steve Corcoran, 437–448.
+         London:Bloomsbury Academic.                         
+      Finlayson,Lorna.2016.“AnIntroductiontoFeminism.”InCambridgeIntroductionstoPhilosophy.
+         Cambridge: Cambridge University Press.              
+      Foot,John.2015.TheManWhoClosedtheAsylums:FrancoBasagliaandtheRevolutioninMental
+         HealthCare.London:Verso.                            
+      Foucault,Michel.1954.MaladieMentaleetPersonnalite´(MentalIllnessandPersonality).1sted.
+         Paris: Pressesuniversitaires deFrance.              
+      Foucault,Michel.1961/2006.“Prefacetothe1961Edition.”InHistoryofMadness,editedbyJean
+         Khalfa, translated byJeanKhalfaand JonathanMurphy.London: Routledge.
+      Foucault, Michel. 1962/1987. Mental Illness and Psychology. Translated by Alan Sheridan.
+         Berkeley andLosAngeles,CA: University of California Press.
+      Foucault,Michel.1965/1988.MadnessandCivilization:AHistoryofInsanityintheAgeofReason.
+         Translated byRichard Howard. Vintage Books.         
+      Foucault,Michel.1971/1984.“Nietzsche,Genealogy,History.”InTheFoucaultReader,editedby
+         PaulRabinow, 76–100.PenguinSocial Sciences. London:Penguin.
+      Foucault,Michel.1972/2006.HistoryofMadness.EditedbyJeanKhalfa.TranslatedbyJeanKhalfa
+         andJonathanMurphy. London:Routledge.                
+      Foucault,Michel.1972/2000.“Preface.”InAnti-Oedipus:CapitalismandSchizophrenia,byGilles
+         Deleuze and Fe´lix Guattari, translated by Robert Hurley, Mark Seem, and Helen R. Lane.
+         Minneapolis:University ofMinnesota Press.           
+      Foucault,Michel.1973-4/2006.PsychiatricPower:LecturesattheCollègedeFrance,1973-74.
+         Basingstoke: Palgrave Macmillan.                    
+      Foucault, Michel. 1978/1991. Remarks on Marx: Conversations with Duccio Trombadori. Sem-
+         iotext(e) ForeignAgentsSeries. NewYork: Semiotexte. 
+      Foucault, Michel. 1981/2018. “Werner Schroeter and Michel Foucault in Conversation.” In
+         FoucaultattheMovies,editedbyPatriceManiglier,andDorkZabunyan,translatedbyClare
+         O’ Farrell, 179–191. Columbia University Press. doi:10.7312/fouc16706.
+      Foucault,Michel.1983/1988.“TheMinimalistSelf.”InPolitics,Philosophy,Culture:Interviews
+         andOtherWritings1977-1984,editedbyLawrenceD.Kritzman,translatedbyAlanSheridan,
+         3–16.New York; London:Routledge.                    
+      François,Tosquelles.1989. “Une PolitiquedeLa Folie”https://vimeo.com/167991974
+      Freyenhagen, Fabian. 2013. “Adorno’s Practical Philosophy: Living Less Wrongly.” In Modern
+         European Philosophy. Cambridge: Cambridge University Press. doi:10.1017/
+         CBO9781139567763.                                   
+      Freyenhagen, Fabian. 2021. “Normality Proper to the Time Is Sickness.” Krisis | Journal for
+         Contemporary Philosophy41, no.2: 87–88.             
+
+[PAGE 30]
+                                                             
+                                                             
+                                                             
+      30                            Philosophy and Social Criticism 0(0)
+                                                             
+                                                             
+      Gilbert,Jeremy.2015.CommonGround:DemocracyandCollectivityinanAgeofIndividualism.
+         London:Pluto Press. doi:10.2307/j.ctt183p7m6.       
+      Gilmore, Ruth Wilson. 2007. Golden Gulag: Prisons, Surplus, Crisis, and Opposition in Glob-
+         alizingCalifornia.Berkeley, CA:University of California Press.American Crossroads21.
+      Gutting,Gary.1989.“MichelFoucault’sArchaeologyofScientificReason.”InModernEuropean
+         Philosophy.Cambridge: Cambridge University Press.   
+      Gutting, Gary, and Johanna Oksala. 2019. “Michel Foucault.” In The Stanford Encyclopedia of
+         Philosophy. Spring 2019, edited by Edward N. Zalta. Metaphysics Research Lab, Stanford
+         University. https://plato.stanford.edu/archives/spr2019/entries/foucault/
+      Hanisch, Carol. 1970. “The Personal Is Political.” In Notes from the Second Year: Women’s
+         Liberation:MajorWritingsoftheRadicalFeminists,editedbyShulamithFirestone,andAnne
+         Koedt, 76–78. New York, NY: General and Theoretical. https://idn.duke.edu/ark:/87924/
+         r33x35                                              
+      Hanisch, Carol. 2006. “Introduction to the Personal Is Political.” Self-published. https://www.
+         carolhanisch.org/CHwritings/PIP.html                
+      Harris, Neal. 2022. Critical Theory and Social Pathology: The Frankfurt School beyond Rec-
+         ognition. Critical Theory and Contemporary Society. Manchester: Manchester University
+         Press.                                              
+      Hayes,JosephF.,LouiseMarston,KateWalters,MichaelB.King,andDavidP.J.Osborn.2017.
+         “MortalityGapforPeoplewithBipolarDisorderandSchizophrenia:UK-BasedCohortStudy
+         2000-2014.”TheBritishJournalofPsychiatry211.no.3:175–181.doi:10.1192/bjp.bp.117.
+         202606.                                             
+      Healing Justice London. 2024. “Deaths by Welfare Project – The Deaths by Welfare Project, at
+         Healing Justice Ldn, Investigates Deaths Linked to Welfare Reform and Welfare State Vi-
+         olence.TheProjectAimstoMakeVisibletheSlowandBureaucraticViolenceoftheState.Our
+         WorkHonours,UpliftsandLearnsfromDisabledPeople’sLivedExperienceandResistance.
+         WeUnderstandWelfareRelatedDeathsasIssuesofDisability,Spatial,RacialandEconomic
+         Justice.”.Accessed 16February2024. https://deathsbywelfare.org/
+      Horkheimer, Max. 1895-1973. Gesammelte Schriften [Collected Works]/Bd. 18 Briefwechsel
+         [Correspondence]: 1949-1973. Vol. 18. Berlin: Fischer-Taschenbücher. Fischer, Ta-
+         schenbuch-Verlag,1996.                              
+      Jay,Martin.1973.TheDialecticalImagination:AHistoryoftheFrankfurtSchoolandtheInstitute
+         ofSocial Research, 1923-1950.1st ed.Boston: Little, Brown andco.
+      Kelly, Mark G. E. 2013. Foucault’s History of Sexuality Volume I, the Will to Knowledge: An
+         Edinburgh Philosophical Guide. Edinburgh, United Kingdom: Edinburgh University Press.
+         https://ebookcentral.proquest.com/lib/oxford/detail.action?docID=1962167
+      Khalfa, Jean. 2018. “Fanon, Revolutionary Psychiatrist.” In Alienation and Freedom, edited by
+         Robert J. C. Young, and Jean Khalfa, 168–202, translated by Steven Corcoran. Place of
+         publication notidentified: Bloomsbury Academic.     
+      Khalfa,Jean,andRobertJ.C.Young.2018.“GeneralIntroduction.”InAlienationandFreedom,
+         translatedbySteven Corcoran, 1–7.London:Bloomsbury Academic.
+      Lee, Nan-Nan. 2014. “Sublimated or Castrated Psychoanalysis? Adorno’s Critique of the Revi-
+         sionistPsychoanalysis:AnIntroductionto“TheRevisionistPsychoanalysis”.”Philosophyand
+         Social Criticism 40,no.3: 309–338. doi:10.1177/0191453713520162.
+
+[PAGE 31]
+                                                             
+                                                             
+                                                             
+      Dyson                                          31      
+                                                             
+                                                             
+      LesHeuresHeureses(OurLuckyHours).2019.Documentary.https://mubi.com/films/lucky-hours
+      Lewis, Sophie. 2022. “Abolish the Family: A Manifesto for Care and Liberation.” In Salvage
+         Editions.London: Verso.                             
+      Lo¨wy, Michael. 2010. The Politics of Combined and Uneven Development: The Theory of Per-
+         manentRevolution.Haymarket Books.                   
+      Macey,David. 2019.TheLivesof Michel Foucault:A Biography. London:Verso.
+      Marcuse,Herbert.1955.TheSocialImplicationsofFreudian“Revisionism”.DissentMagazine,
+         Summer.https://www.dissentmagazine.org/article/social-implications-freudian-revisionism
+      Marcuse, Herbert. 1956. A Reply to Erich Fromm. Dissent Magazine, Winter. https://www.
+         dissentmagazine.org/article/reply-erich-fromm       
+      Marcuse, Herbert. 1964. One-Dimensional Man: Studies in the Ideology of Advanced Industrial
+         Society. 2nded. RoutledgeClassics. London:Routledge.
+      Marcuse,Herbert. 1969/1971.An EssayonLiberation.Boston: Beacon Press.
+      Marx, Karl. 2024. “Chapter Six: The Buying and Selling of Labour-Power.” In Capital, Vol. 1.
+         https://www.marxists.org/archive/marx/works/1867-c1/ch06.htm.1867/2015. Accessed
+         1 March2024.                                        
+      Marx,Karl,andEngelsFriedrich.1850/1974.“AddresstotheCentralCommitteetotheCommunist
+         League.”In Political Writings. Vol.1,TheRevolutions of1848,edited byDavid Fernbach.
+      Masó,Joana.2022.Tosquelles:CurarLasInstituciones.TranslatedbyAdria`PujolCruells,Emilio
+         Manzano,andMela Da´vila Freire. Arcadia.            
+      McLaughlin,Neil.2017.“TheFromm–MarcuseDebateandtheFutureofCriticalTheory.”InThe
+         PalgraveHandbookofCriticalTheory.PoliticalPhilosophyandPublicPurpose,editedby
+         MichaelJ.Thompson,481–501.NewYork,NY:PalgraveMacmillanUS.doi:10.1057/978-1-
+         137-55801-5_22.                                     
+      McNay, Lois. 2022. The Gender of Critical Theory: On the Experiential Grounds of Critique.
+         Oxford,NewYork,NY:Oxford University Press.          
+      Medien, Kathryn. 2019. “Foucault in Tunisia: The Encounter with Intolerable Power.” The So-
+         ciologicalReview 68: 0038026119870107.doi:10.1177/0038026119870107.
+      NationalHealthServiceandCommunityCareAct,§esp.PartIII.1990.https://www.legislation.
+         gov.uk/ukpga/1990/19/pdfs/ukpga_19900019_en.pdf     
+      Officefor HealthImprovement andDisparities. 2022.‘COVID-19 Mental Health andWellbeing
+         Surveillance: Report’. Research and Analysis. UK Government. https://www.gov.uk/
+         government/publications/covid-19-mental-health-and-wellbeing-surveillance-report
+      OfficialOpeningoftheConferencebytheRt.Hon.J.EnochPowell,M.B.E.,M.P.-Ministerof
+         Health (“Water Tower Speech”). 1961. Presented at the National Association for Mental
+         Health:EmergingPatternsfortheMentalHealthServices&thePublic:‘MentalHealthIs
+         Everybody’s Business’. London: House, Westminster. https://enochpowell.info/wp-content/
+         uploads/Speeches/1957-1961.pdf                      
+      Oury,Jean,Fe´lixGuattari,andFrançoisTosquelles.1985.“Pratiquedel’institutionneletPolitique”
+         https://gallica.bnf.fr/ark:/12148/bpt6k33229937     
+      Oury, Jean, Mauricio Novello, and David Reggio. 2004/2007. “Jean Oury: The Hospital Is Ill.”
+         Radical Philosophy, no. 143. https://www.radicalphilosophy.com/interview/jean-oury-the-
+         hospital-is-ill                                     
+                                                             
+
+[PAGE 32]
+                                                             
+                                                             
+                                                             
+      32                            Philosophy and Social Criticism 0(0)
+                                                             
+                                                             
+      O’Brien,M.E.2023.FamilyAbolition:CapitalismandtheCommunizingofCare.London:Pluto
+         Press.                                              
+      Porot, Antoine A., and Jean Sutter. 1939. Le Primitivisme Des Indigènes Nord-Africains: Ses
+         IncidencesEn PathologieMentale,226–241.SudMe´dical et Chirurgical.
+      Powell,J.Enoch.1960.“AddressbytheRightHonourableJ.EnochPowell,M.B.E.,M.P.,Minister
+         of Health.” Presented at the Joint Session of Thirteenth Annual Meetings of the Executive
+         Councils’Association(England)andtheAssociationofWelshExecutiveCouncils,Llandudno.
+         https://enochpowell.info/wp-content/uploads/Speeches/1957-1961.pdf
+      Psychologists for Social Change. 2024. “Psychologists Against Austerity” https://www.
+         psychchange.org/psychologists-against-austerity.html.Accessed 16February 2024.
+      Ramazanoglu, Caroline. 1993. “Introduction.” In Up Against Foucault: Explorations of Some
+         TensionsBetweenFoucaultandFeminism,1–25.London,UnitedKingdom:Taylor&Francis
+         Group.https://ebookcentral.proquest.com/lib/oxford/detail.action?docID=166594
+      Robcis,Camille.2016.“FrançoisTosquellesandthePsychiatricRevolutioninPostwarFrance.”
+         Constellations23, no.2: 212–222.                    
+      Robcis, Camille. 2019. “Frantz Fanon, Institutional Psychotherapy, and the Decolonization of
+         Psychiatry.” In Frantz Fanon’s Psychotherapeutic Approaches to Clinical Work, 23–38.
+         London:Routledge.                                   
+      Robcis, Camille. 2021. Disalienation: Politics, Philosophy, and Radical Psychiatry in Postwar
+         France.Chicago ;London:University of ChicagoPress.  
+      Robertson,Mary.2017.“TheGreatBritishHousingCrisis.”Capital&Class41,no.2:195–215.
+         doi:10.1177/0309816816678571.                       
+      Rowbotham,Sheila. 1973.Woman’s Consciousness, Man’s World.London:Verso Books.
+      Sarachild, Kathie. 1973. “Consciousness Raising: A Radical Weapon.” In Feminist Revolution,
+         144–150. New York, NY: Random House. https://www.rapereliefshelter.bc.ca/wp-content/
+         uploads/2021/03/Feminist-Revolution-Consciousness-Raising-A-Radical-Weapon-Kathie-
+         Sarachild.pdf                                       
+      Scull,Andrew.2021.“UKDeinstitutionalisation:NeoliberalValuesandMentalHealth.”InMind,
+         StateandSociety:SocialHistoryofPsychiatryandMentalHealthinBritain1960-2010,edited
+         byGeorgeIkkos,andNickBouras,306–314.Cambridge:CambridgeUniversityPress.doi:10.
+         1017/9781911623793.033.                             
+      Sedgwick, Peter. 1982/2022. Psychopolitics. 2nd ed. introduction by Tad Tietze. London: Pluto
+         Press.                                              
+      Sennett,Alan. 2014. RevolutionarycSpain,1930-1937,Vol.70. Leiden:Brill.
+      Shilliam, Robbie. 2021. “Enoch Powell: Britain’s First Neoliberal Politician.” New Political
+         Economy26, no.2: 239–249.doi:10.1080/13563467.2020.1841140.
+      Simplican,StacyClifford.2015.TheCapacityContract:IntellectualDisabilityandtheQuestionof
+         Citizenship.Minneapolis; London:University of Minnesota Press.
+      Smith, Helen. 1991. “Caring for Everyone? The Implications for Women of the Changes in
+         Community Care Services.” Feminism & Psychology 1, no. 2: 279–292. doi:10.1177/
+         0959353591012007.                                   
+      Tauber,AlfredI.2009.“Freud’sPhilosophicalPath:FromaScienceofMindtoaPhilosophyof
+         HumanBeing.”The ScandinavianPsychoanalytic Review 32,no.1: 32–43.
+      Tauber,AlfredI.2010.Freud,theReluctantPhilosopher.Princeton,NJ:PrincetonUniversityPress.
+
+[PAGE 33]
+                                                             
+                                                             
+                                                             
+      Dyson                                          33      
+                                                             
+                                                             
+      Taylor,Chloe¨.2017.InFoucault’s“TheHistoryofSexuality,editedbyUnderstandingFoucault,
+         Understanding Modernism, David Scott, Laci Mattison, Paul Ardoin, and S. E. Gontarski,
+         113–134. New York, NY: Bloomsbury Academic & Professional. https://ebookcentral.
+         proquest.com/lib/oxford/detail.action?docID=4773174 
+      Tosquelles,François.1991.“Unepolitiquedelafolie.”Chimères.Revuedesschizoanalyses13,no.
+         1:66–81.doi:10.3406/chime.1991.1781.                
+      UnitedNations:Secretary-General.2022.‘Secretary-General’sVideoMessagetoLaunchtheWorld
+         MentalHealthReport2022:TransformingMentalHealthforAll.UnitedNationsSecretary-
+         General’.UnitedNations:Secretary-General.https://www.un.org/sg/en/content/sg/statement/
+         2022-06-17/secretary-generals-video-message-launch-the-world-mental-health-report-2022-
+         transforming-mental-health-for-all                  
+      Wall, Ois´ın. 2019. The British Anti-psychiatrists: From Institutional Psychiatry to the Counter-
+         culture,1960-1971.London:Routledge.                 
+      Weeks,Kathi.2023.“AbolitionoftheFamily:TheMostInfamousFeministProposal.”Feminist
+         Theory24, no.3: 433-453.doi:10.1177/14647001211015841.
+      WorldHealthOrganization.2022.WorldMentalHealthReport:TransformingMentalHealthfor
+         All. Geneva: World Health Organisation. https://www.who.int/publications/i/item/
+         9789240049338                                       
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             

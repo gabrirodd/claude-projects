@@ -1,0 +1,987 @@
+[PAGE 1]
+                                                             
+                                                             
+                                                             
+                                                             
+      Article                                                
+                                                             
+                                         PhilosophyandSocialCriticism
+                                         2025,Vol.51(6)971–989
+      Fugitive freedom   and radical                         
+                                         ©TheAuthor(s)2023   
+      care: Towards   a standpoint                           
+                                         Articlereuseguidelines:
+      theory  of normativity             sagepub.com/journals-permissions
+                                         DOI:10.1177/01914537231185954
+                                         journals.sagepub.com/home/psc
+      Daniel Loick                                          
+      UniversityofAmsterdam,Amsterdam,TheNetherlands         
+                                                             
+      Abstract                                               
+      Epistemic standpoint theories have elaborated the effects of social situatedness on ep-
+      istemiccompetence:Dominantgroupsareregularlysubjecttoepistemicblockagesthat
+      limit the possibility of cognition and knowledge production. Oppressed groups, on the
+      other hand, have access to perceptions and insights that dominant groups lack. This
+      diagnosiscanbegeneralized:Notonlyourepistemic,butalsoournormativerelationto
+      theworldissociallysituated,thatis,ourvalues,virtues,moralsentimentsareshapedby
+      relations of domination. In this article, my goal is to sketch the general outlines of a
+      standpointtheoryofnormativity.Idosobyengagingwithtwolinesoftradition.First,I
+      review conceptions of fugitive freedom in the Black Radical Tradition, before I reca-
+      pitulate the feminist debate around the concept of care work. The counter-hegemonic
+      norms theorized in these traditions can be brought into dialogue because they are
+      both based on similar presuppositions, namely, political struggle provoked by social
+      contradictions.                                        
+      Keywords                                               
+      Standpoint theory, domination and servitude, fugitivity, care ethics, abolition
+                                                             
+                                                             
+                                                             
+        “Wemuststudyhowcolonizationworkstodecivilizethecolonizer,tobrutalizehiminthe
+        truesenseoftheword,todegradehim,toawakenhimtoburiedinstincts,tocovetousness,
+        violence,racehatred,andmoralrelativism;andwemustshowthateachtimeaheadiscutoff
+        oraneyeputoutinVietnamandinFrancetheyacceptthefact,eachtimealittlegirlisraped
+        andinFrancetheyacceptthefact,eachtimeaMadagascanistorturedandinFrancethey
+        acceptthefact,civilizationacquiresanotherdeadweight,auniversalregressiontakesplace,a
+                                                             
+      Correspondingauthor:                                   
+      DanielLoick,UniversityofAmsterdam,OudeTurfmarkt145,1012GCAmsterdam,TheNetherlands.
+      Email:d.loick@uva.nl                                   
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+      972                          Philosophy and Social Criticism 51(6)
+                                                             
+                                                             
+        gangrenesetsin,acenterofinfectionbeginstospread;andthatattheendofallthesetreaties
+        thathavebeenviolated,alltheseliesthathavebeenpropagated,allthesepunitiveexpeditions
+        thathavebeentolerated,alltheseprisonerswhohavebeentiedupandinterrogated,allthese
+        patriotswhohavebeentortured,attheendofalltheracialpridethathasbeenencouraged,all
+        theboastfulnessthathasbeendisplayed,apoisonhasbeeninstilledintotheveinsofEurope
+        and, slowly but surely,the continent proceedstoward savagery.”(Ce´saire1972,2-3)
+        Aime´ Ce´saire’s Discourse on Colonialism is a particularly succinct version of the
+      critiqueofthemoraldepravationthatresultsfromtheexerciseofdomination.Countless
+      otherversionsofsuchcriticismcanbefoundinthehistoryofsocialstruggles:Thefeminist
+      movementhasshownthattheexerciseofsexismandmisogynyleadstotheformationof
+      toxiccharactertraitsinmen;thelabourmovementhasdenouncedthecoldness,ruthlessness
+      and heartlessness of capitalists; black liberation movements have exposed the ignorant
+      brutalityofwhitecomplicitywithsystemsofracistdehumanization.Whatisaddressedby
+      these critiques is not the trivial fact that the exercise of domination is itself morally
+      reprehensible.Rather,manycriticaltheoristsandradicalactivistshavearguedthatdominant
+      groups, due to their position in a relation of domination, also tend to form problematic
+      attitudes,affectstructures,ideasandconceptionsbeyondasingularaction,whichsolidify
+      andtakeonalifeoftheirown.Ce´sairefamouslyusedthemetaphoroftheboomerangto
+      describethisdynamic:Theexerciseofdominationcomesbacktohitthedominantgroup
+      as well.                                               
+        Epistemic standpoint theories1 have illuminated similar dynamics with respect to
+      epistemiccompetence:Dominantgroups–ifonlybecauseofthejustificatorynarratives
+      and ideologies they must employ to maintain their positions of power – are regularly
+      subject to epistemic blockages that limit the possibility of cognition and knowledge
+      production. (A research group composed largely of men who do not take women’s
+      contributionstodiscussionsseriouslymissesoutonpotentiallyvaluableresearchfindings
+      produced by women.) Oppressed groups, on the other hand, due to their specific ex-
+      periencescanformcounter-communitiesthathelpthemunlockanaccesstoperceptions,
+      insights and memories that socially privileged groups lack. (The #MeToo movement
+      shocked many men, while feminists were well aware about the extent of sexism in our
+      societies – feminist women, as well as queer, gender nonconforming and non-binary
+      peoplehadabetterunderstandingofthetruenatureofoursocietythanmen).Thisanalysis
+      canbegeneralized:Notonlyourepistemic,butalsoournormativerelationtotheworldis
+      socially situated, that is, our values, orientationstoaction, attentions,virtues andmoral
+      sentimentsareshapedbywhetherandwherewefindourselvesinrelationsofdomination.
+      As Ce´saire and many others have emphatically shown, the exercise of violence has a
+      formative effect on both the perpetrators and the tolerators of violence; it corrupts their
+      normative beliefs as well as their affect structures. Charles Mills has therefore added a
+      normative dimension to epistemic standpoint theories: ‘White ignorance’, that is, the
+      structural epistemic blockage that result from the need to form worldviews that sustain
+      forms of white supremacy, also implies ‘moral ignorance’: ‘moral non-knowings, in-
+      correct judgments about the rights andwrongs ofmoralsituations’ (Mills2017, 58). In
+      hindsight,oneoftenwonders,forexample,howthefoundingfathersoftheUSfailedto
+                                                             
+
+[PAGE 3]
+                                                             
+                                                             
+      Loick                                          973     
+                                                             
+                                                             
+                                                             
+      seethatitisacontradictiontoassumeontheonehandthe‘self-evidenttruth’thatallmen
+      arebornequalwhileatthesametimeholdingfasttotheinstitutionofslavery,orthatthe
+      Frenchrevolutionariesdeterminedallhumanstobe‘freeandequalinrights’frombirth
+      butexcludedwomenfromthoserights.Thisfailuretoseecanbeunderstood,withMills,
+      as the result of the solidification of an interpretive and imaginative framework that is
+      ingrained through everyday practices and that individuals cannot effectively challenge
+      (ibid.,61f.). Inthisregard,theeffectofthisnormativeblockageisnotlimitedtothose
+      whodirectlyengageinnormativelywrongactions,butalsothosewhowitness,tolerateor
+      benefit from them (as Ce´saire says, those who accept colonialism in France are also
+      compromised by it, not just those who torture in the colonies themselves).2
+        Mills’analysisofgroup-specificnormativeblockageshasacertainimplicationthathe
+      doesnotelaborateon,namely,that,consequently,othergroupsaredispensedfromthese
+      blockages and are thus able to develop other forms of normativity; ones that are less
+      distortedbyinvestmentsindomination.Moreover,ifonetakesseriouslythecharacterof
+      domination as a relation, it becomes apparent that oppressed people cannot simply be
+      seenas‘uninvolved’withrespecttotheseblockages.Itisnotasifexercisingdomination
+      leads to impairment or distortion, while suffering servitude leads to some form of
+      neutrality orimpartiality.Dominationandservitude are,itcanbesaidwithHegel,‘two
+      opposedshapesofconsciousness’(Hegel2020,112):Bothshapesmustbeunderstoodin
+      theiropposition.Readinthesenseofastandpointtheoryofnormativity,Mills’sthesisof
+      normative blockage must then be that oppressed groups in particular have a normative
+      potentialthatdominantgroupsdonothave;thatis,thatthereissomethingintheobjective
+      social conditions that potentially enables them to form better normative orientations.
+        Toassumeformsofgroup-specificnormativeblockadesontheoneand,accordingly,
+      normativepotentialsontheothersideimpliesthatthepracticalself-andworldrelationsof
+      dominant and oppressed groups are in conflict with each other. Their normative
+      standpoints are antagonistic – what appears to be just, virtuous or useful from the
+      perspectiveofoneappearstobeunjust,depravedorcold-heartedfromtheother.Aswith
+      epistemic standpoints, normative standpoints can also be compared and evaluated:
+      Oppressedormarginalizedgroupsareeconomically,sociallyorpoliticallydisadvantaged,
+      but they are potentially normatively superior, that is, they are potentially better (in the
+      sense of ethical goodness) than dominant groups.3      
+        ‘Potentially’, because the thesis of normative advantage of oppressed groups is not
+      meant to say that social situatedness or group membership completely determines all
+      moralattitudesandbehaviours,northatdominantgroupscouldnotalsoactnormatively
+      right or oppressed groups normatively wrong. Like epistemic advantage, normative
+      advantageisonlyapotential,theexhaustionofwhichdependsonnumerousotherfactors
+      that also interact with each other in complicated ways. For example, people who are
+      themselvesoppressedmayblameothermarginalizedgroupsfortheirsufferinginsteadof
+      social relations of domination, and may themselves turn to bigoted ideologies; or they
+      mayfindthemselvesinsituationsofisolationandloneliness,sothatnosenseofsolidarity
+      orshared interestscan developatall; orthey may benumbed, for example,byculture-
+      industrialandmass-mediainfluence.Ontheotherhand,therehavebeenmanyexamples
+      ofpeoplewho worktheirwayoutofdominant subject positionsandbecome‘allies’of
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+      974                          Philosophy and Social Criticism 51(6)
+                                                             
+                                                             
+      oppressed groups (socialist factory owners, feminist men or anti-racist whites) – op-
+      pressedgroupsarenotautomatically‘good’,dominantgroupsarenotautomatically‘bad’
+      (or ‘evil’). In addition, the struggle against relations of domination can itself produce
+      normativelyproblematic attitudesandstances–evenhatredofoppression, aswe know
+      fromBertoltBrecht,‘distortsthefeatures’.ThethesisIwillarguebelowseesthecentral
+      practice of exploring normative potentials in political struggle: It is through the trans-
+      formation of subjectively experienced contradictions into political resistance that op-
+      pressed groups can develop superior forms of normativity (along the same lines, see
+      Celikates 2020; Medina 2013; Medina 2023; Pineda 2021).4
+        Inthisarticle,mygoalistosketchthegeneraloutlinesofanormativestandpointtheory
+      onthebasisoftwoheterogeneouslinesoftradition.Indoingso,Iaminterestedinthree
+      aspectsinparticular:First,whataretheobjective,thatis,passive,conditionsthatenable
+      thenormativestandpointofoppressedormarginalizedgroups;second,towhatextentare
+      normativegoodsconceiveddifferentlywhentheyaredevelopedfromasubordinaterather
+      than a dominant perspective; and third, what are the political consequences of this re-
+      vision?First,IreviewconceptionsoffreedomintheBlackRadicalTraditionasdeveloped
+      byAngelaDavis,BarnorHesseandNeilRoberts,amongothers.Thesetheoristsstartfrom
+      the premise that an adequate understanding of freedom must be developed from the
+      concreteliberationpracticesofthosesubjectedtothemostextremeformsofunfreedom,
+      namely,theenslaved.Thecarefulreconstructionofthesepracticesallowsanalternative
+      conception to emergethat contests the hegemonic understanding offreedom shaped by
+      dominantgroups,andthatalsomanifestsitselfinpoliticalinstitutionsotherthanthoseof
+      bourgeois democracy (1.). I then recapitulate the feminist debate around the concept of
+      care,bothinMarxistfeministapproachesaswellasinfeministcareethics.Combining
+      thesetwoaccounts,wearriveagainatanormativestandpointtheory:Duetotheirspecific
+      socialization and daily experience, women form different and potentially better ethical
+      self- and world relations than men (2.). The counter-hegemonic norms and values
+      theorizedintheselinesoftradition,fugitivefreedomandradicalcare,canbebroughtinto
+      dialogue with each other because they are both based on similar objective presupposi-
+      tions,namely,politicalmovementsprovokedbysocialcontradictions.Intheconcluding
+      section, I name some of the far-reaching philosophical and political implications of
+      normative standpoint theories (3.). – The entire argument will admittedly remain on a
+      schematiclevel.Inthisarticle,Iwon’tbeabletoofferanempiricalanalysisofthesocial
+      conditions that actually allow oppressed groups to unfold their normative privilege in
+      reality. My goal is thus only to demonstrate how a standpoint theory of normativity is
+      conceptually possible.                                 
+      Fugitive freedom                                       
+      In the fall of 1969, barely a year before she would become first a fugitive and then a
+      prisoner, Angela Davis gave a seminar at UCLA on liberation, the first two lectures of
+      which were transcribed by a solidarity committee and published in a pamphlet (Davis
+      1971,seealsoRoberts2015,55-57).Davisheredevelopsthefirstoutlinesofastandpoint
+      theoryofnormativity.Theconceptoffreedom,Davisargues,occupiesacentralroleinthe
+                                                             
+                                                             
+
+[PAGE 5]
+                                                             
+                                                             
+      Loick                                          975     
+                                                             
+                                                             
+                                                             
+      history of Western Philosophy. From antiquity to the present, however, the loftiest
+      treatisesanddeclarationsoffreedomprovedcompatiblewiththepersistenceofthemost
+      blatant forms of unfreedom. Rather than the ideals of freedom of relatively privileged
+      philosophers and statesmen, therefore, one should centre the conceptions of freedom
+      developed by those for whom the question offreedom arises with the greatest urgency.
+      From the perspective of the enslaved, the nature of freedom presents itself not only
+      differently but better than from the perspective of dominant groups whose concept of
+      freedomitselfremainscompromisedbyslavery.InFrederickDouglass’sautobiographies,
+      Davis finds not only a detailed narrative of the practical conditions of liberation, but
+      already a philosophical reflection on the nature of freedom itself.
+        Following Hegel’s schema of domination and servitude, Davis uses Douglass’s ac-
+      countofslaverytodisplaythattheconsciousnessoftheslavehasmoretruththanthatof
+      themasters.Indoingso,shepresupposesHegel’sargumentfromreciprocalrecognitionas
+      aconditionoffreedom–underasymmetricalconditions,freedomdoesnotcomeaboutfor
+      either the slave or the master. This ‘truth’ of the slave’s consciousness is first one of
+      knowledge: The master believes himself to be free, but because his alleged freedom
+      depends on the unfreedom of others, he is not in fact free and is thus subject to an
+      epistemic blockage.5 At the same time, this advantage of the slave is not limited to
+      epistemicprivilege,butincludesprivilegeintermsofnormativeideasandpractices;not
+      onlydoesthemasterconsiderhimselffreeeventhoughheisunfree,healsofundamentally
+      misunderstands what freedom is in the first place, when he deems freedom compatible
+      with servitude. The exercise of domination leads to an ideology, that is, a false con-
+      sciousness,inthosewhoexerciseit,aswellastoatransformationoftheir‘secondnature’,
+      thatis,theirattitudes,dispositionsandhabits.Fromthepointofviewoftheslaves,onthe
+      otherhand,theseself-perceptionsandpracticesofthemastersappearaserrors:Theythus
+      arrive at a ‘more profound’ and ‘more enlightened’ (Davis 1971, 1) conception of
+      freedom. Here we seethat the dialectical inversion Davis demonstratedwith Hegeland
+      Douglass using the truth of knowledge – social domination leads to an epistemic
+      disadvantage – also encompasses the entire practical relation of self and world. Davis
+      pointsthisoutthroughthebehaviourofthebrutal‘slavebreaker’Covey,whoseessential
+      taskfortheinstitutionofslaveryisthecompletedehumanizationoftheslave.Coveyis
+      describedbyDouglassasavulgarcowardwhoshiesawayfromanydirectconfrontation;
+      hehides,sneaks,crawlsandcreepsinordertoambushandmonitororpunishtheslaves.
+      His posture, Davis argues, is indicative of the inversion wrought by the relation of
+      domination: ‘Who is the non-human here?’ (Davis 1971, 7, in Douglass 1994a, 265).
+        Giventhecomprehensivesocialprivilegeofthemastersanddegradationoftheslaves,
+      howcanthisinversionpracticallyoccur?Whatareitsobjectiveconditions?Theslaves,
+      afterall,weresubjectedtoafundamentalsystemofdeprivationanddegradation,sothat
+      boththeirpossibilitiesforknowledgeproductionandphilosophicalreflection,aswellas
+      morally correct behaviour, were severely limited from the outset – not to mention ep-
+      istemic or normative advantage. The crucial factor enabling the truth of the servant’s
+      consciousness for Hegelwas that ofwork:Whilethe master merely enjoys,the servant
+      experiencesherownindependencebyforminganobjectandpostponingherowndesireto
+      consume it. However, there isno mention of suchan experienceof work inDouglass’s
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+      976                          Philosophy and Social Criticism 51(6)
+                                                             
+                                                             
+      narrativeofliberation;hedoesnotspeakofhavingattainedanawarenessofhisfreedom
+      through,say,theworkingofcottonortobacco.Rather,forDouglass,thepreconditionof
+      awakening a consciousness of freedom is the specific experience of objective contra-
+      dictions. Central to this is the contradiction between the external practices of dehu-
+      manizationandhissimultaneousexperienceofhimselfasahumanbeing.Thegenesisof
+      his self-consciousness involves various factors, some subtle, some overt; these include,
+      first, learning to read and write, studying the message of the Bible, hearing rumours of
+      abolitionist activity, open physical confrontation with the slave breaker Covey, and,
+      finally, physical removal from the site of slavery through escape. Douglass thus expe-
+      riencescontradictionsbetweenhishumancapacitiesandthesimultaneousdenialofequal
+      liberties,betweenthebiblicalmessageofmercyandthecrueltyofthewhip,betweenhis
+      ownsubjugationandthepossibilityofresistance,whichhewitnessesintheresistanceof
+      otherenslavedpeople.TheexperienceofcontradictionfinallydrivesDouglasstoanovert
+      act of rebellion when he resists Covey’s whip and enters into open combat, where his
+      physicalstrengthprovessuperior:‘Ifoundmystrongfingersfirmlyattachedtothethroat
+      ofthetyrant,asheedlessofconsequences,atthatverymoment,asifwestoodasequals
+      beforethelaw’.(Douglass1994b,588;inDavis1971,8)Apassiveobjectivecondition
+      has turned into an active subjective activity (contradiction into resistance). Thus, not
+      throughtheprocessingofthething,butthroughtheresumptionofthe‘struggleforlifeand
+      death’ that for Hegel was already completed, the servant’s consciousness comes ‘to an
+      intuitionofself-sufficientbeingasitsownself’(Hegel2020,115).Withthisexperience
+      of physical superiority, the hitherto only inward, spiritual freedom actualizes itself
+      outwardly,thusmovingtoresolvetheobjectivecontradictionsubjectivelyexperiencedby
+      the slave but not by the master.                       
+        The two poles of the relation of domination and servitude consequently also form
+      different concepts and ideas of freedom. Davis understands this antagonism as an op-
+      positionbetweenadynamicandastaticconceptionoffreedom:Theslaveisawarethat
+      freedomissomethingthatmustbehistoricallyfoughtfor,whilethemasterthinksheis‘by
+      nature’inpossessionofaninalienablefreedom(Davis1972,1).BarnorHesse(2014)and
+      Neil Roberts (2015) have elaborated on how this notion of fugitive freedom can be
+      specified and sharpened in comparison with hegemonic notions of freedom. Both
+      challengeIsaiahBerlin’swell-knowndistinctionbetweennegativeandpositivenotionsof
+      freedom, which figure the philosophical discourse of modernity as the antithesis of a
+      conceptionoffreedomasfreedomfromexternalconstraintsandaconceptionoffreedom
+      asfreedomtoparticipateincollectivepracticesofself-government.Whatthesedifferent
+      conceptshaveincommon(witheachotherandwiththeirmeta-reflectioninBerlin)isthat
+      theydonotgive anaccountoftheirorigins inasystem ofEuropeanracializedcolonial
+      rule and that they are based on quotidian, routine foundational exclusions that prevent
+      other intellectual historical traditions with their concepts from coming into view at all
+      (Hesse 2014, 290). The subject conceptions and models of democracy associated with
+      them also historically served to bolster the assertion of superiority of European insti-
+      tutionsandtodeclarenon-Europeanformsofpoliticalcommunity-buildingregressiveor
+      even ahistorical. Thus, a first conceptual feature of the dynamic notion of freedom,
+      developedoutoftheexperienceofslavery,isthatititselfperformsagestureofescape.
+
+[PAGE 7]
+                                                             
+                                                             
+      Loick                                          977     
+                                                             
+                                                             
+                                                             
+      Fugitive freedom is contestatory: It exposes, illuminates and critiques the foundational
+      exclusions and violent justifications of dominant conceptions of freedom (Hesse
+      2014, 307).                                            
+        Theorists in the Black Radical Tradition have formulated countless objections and
+      criticisms, often Marxist-inspired, to liberal, negative conceptions of freedom. One
+      fundamental objection is that the notion of freedom as freedom from interference de-
+      thematizes the material and intersubjective conditions of individual freedom. Davis has
+      already alluded to these intersubjective conditions when she says that a freedom that
+      conceivesoftheotherasalimitation,notacondition,ofone’sownfreedomleadstoan
+      ideological indifference to the freedom of others, which thus leaves relations of domi-
+      nation intact. The material point can be shown with W.E.B. Du Bois in relation to
+      emancipationfromslavery:Ifemancipationisonlyaformalreleasefromtheshacklesof
+      slaveryanddoesnotincludethesocialconditionsforeconomicself-relianceandpolitical
+      autonomy,newformsofservitudeformunderhand;thepromiseoftheReconstructionera
+      wasthereforenotonlyfreedomfromexternalrestrictionbutalso‘40acresandamule’,
+      thatis,atleastbasicconditionsforsecuringone’ssubsistence(DuBois1999).Asecond
+      characteristicoffugitivefreedomisthereforeitsmateriality,thatis,itsembeddednessin
+      transindividual conditions of success.                 
+        Fugitivefreedom,however,alsodiffersfrompositivenotionsoffreedom.First,inthat
+      itisattentivetothecompatibilityofformsofcollectiveself-governmentwithexclusion
+      anddehumanization–boththeAthenianancientandtheFrenchmoderndemocracywere
+      basedonformsofslavery.Thisisoftenaccompaniedbyadivisionthatclaimspolitical
+      agencyonlyforcitizens,notforthoseexcludedfromcitizenship–whichcontradictsthe
+      verybasicpremiseofdevelopingfreedomfromtheperspectiveoftheoppressed(Hesse
+      2014,306;Roberts2015,14).Inaddition,manypositiveconceptionsoffreedomtendto
+      definefreedomasafixedstateofwhichoneiseitherapartornot.Thisreducesescapeinto
+      a means employed to achieve the state of freedom. Roberts, in contrast, insists that
+      fugitivityitselfmustbeunderstoodasthecrucialpracticeoffreedom:Freedomconsistsin
+      the interstitial movement of liberation itself (Roberts 2015, 15). Accordingly, a third
+      featureoffugitivefreedomisitsirreduciblytransitorycharacter;itremainsinamovement
+      of self-transgression and is never satisfied in a fixed state.
+        Aconceptoffreedomdevelopedfromtheconcreteexperiencesofenslavedpeoplecan
+      thus be contrasted to relevant liberal or republican concepts of freedom in that fugitive
+      freedomhasacontestatory,materialandatransitorycontent.(Thesethreefeaturesarenot
+      necessarilyexhaustive,buttheyarenecessary–theyarisefromtheexperienceofbondage
+      itself.Fromtheperspectiveoftheoppressed,liberationcannotbeaccomplishedotherthan
+      by challenging dominant norms, engaging social and material conditions, and passing
+      throughaninterstitialtransitionalmovement.)NeitherHesse,norRobertsaddressHegel’s
+      conception of freedom in their discussion of dominant concepts of freedom. Following
+      Angela Davis’s schematic reading, one might argue that an understanding of freedom
+      conceived from the perspective of the servant’s consciousness is already prefigured in
+      Hegel’saccountofdominationandservitude.Identifyingthetruthofself-consciousness
+      as the servant’s consciousness, after all, owes itself precisely to the experience of in-
+      dependence made possible for the servant through her own practice. However, that the
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+      978                          Philosophy and Social Criticism 51(6)
+                                                             
+                                                             
+      implicationsofastandpointtheoryofnormativityarenotyetfullysettledevenwithHegel
+      becomes clear when one looks more closely at the institutional implications that the
+      respective conceptions of freedom give themselves.     
+        Duetohisstaticconceptoffreedom,themasterfailstoseethedependencyrelationship
+      ofhisfreedomonthefreedomofothers:Hedoesnotseethathisliberationdependsonthe
+      liberationofothers.FrederickDouglass,ontheotherhand,facesthisrelationshipfromthe
+      very beginning: It is not enough for him to escape slavery individually; he is truly free
+      only when the institution of slavery is abolished for all. This implies not only formal
+      emancipation but also a fundamental transformation of the background economic and
+      politicalconditionsofthesocietythatmadeslaverypossible(Davis1971,2).Buthowcan
+      theprojectofabolitiondemocracybestabilizedandinstitutionalized?Inparticular,how
+      canthetransitorycontentoffreedom,asitisrevealedintheperspectiveoftheconcrete
+      liberationpracticeoftheenslaved,remaininstitutionallyoperativeintheconcretepractice
+      of self-government? To this end, Neil Roberts has reminded us of the political form of
+      marronage, thatis,thepoliticalcommunitiesformedbyfugitiveslavesduringandafter
+      their escape. Marronage in this context is not limited to geographic distancing, but
+      encompassesthecultivationofspecificlanguages,bodilypractices,affectstructuresand
+      ways of thinking that are distinct from the enslavement society. Roberts distinguishes
+      betweentwoformsofmarronage:‘sovereignmarronage’asadvancedintheabolitionof
+      slaveryinHaitithroughthevisionofToussaintL’Ouverture,and‘sociogenicmarronage’
+      aspracticedintheanti-stateentitiesinthemountainsorforests,whichhasalsoremained
+      aliveinHaitiasanenduringrevolutionarydesire.Sovereignmarronageunderstandsflight
+      asthesubstitutionofonesovereignforanother–itimitatesthedominantideaoffreedom
+      andthusnotonlydevelopsdictatorialformsitself,butalsotendstosurrenderthespecific
+      normative contents that arise from the transitory practice of flight (Roberts 2015, 103).
+      Sociogenicmarronage,ontheotherhand,remainscommittedtothetransitorymomentof
+      freedom even in its (non-sovereign) political actualization (ibid., 116 f.). It employs a
+      range of (de-)subjectification techniques by which community members position
+      themselvesinaconstantdynamicwayagainstrecuperationintosovereignty,includingthe
+      inventionofnewformsofnameandaddress,spiritualpractices,vitalcivilsocieties,active
+      democratizationefforts,aswellaspluralnarrativesofhistory,non-originalistaspirations
+      for the future and an understanding of one’s culture as unfinished and inventive.6
+        In a review of Roberts’s book, Charles Mills has cautioned not to overburden the
+      historicalpracticeofmarronageasasignifieroffreedomingeneralorevenofthehuman
+      experienceassuch(Mills2015).Butifreadaspartofastandpointtheoryofnormativity,it
+      becomesclearhowitispossiblethatahistoricallyveryspecificandthusminoritypractice
+      canhaveuniversalsignificance.Thecounter-communitiesofoppressedandmarginalized
+      groups, exemplified by the maroon communities, are able to form better political for-
+      mationsoutoftheirliberationpracticesthanthedominantgroupswhoseinstitutions–the
+      bourgeois state – correspond to the false concept of freedom developed out of a dom-
+      ination interest. They can be better because they correspond better to the better ideals
+      developed from the oppressed point of view. If this is true, then liberation can never
+      simply be about of gaining access to the dominant institutions, of being included or
+      integratedintothem,butofabolishingthem(inanauthenticallyabolitionistsense),thatis,
+
+[PAGE 9]
+                                                             
+                                                             
+      Loick                                          979     
+                                                             
+                                                             
+                                                             
+      ofpushingthem back while building new institutions intheir place.7At thesame time,
+      marronagedoesnothavetobecomeanewmastersignifierormodelforalltrajectoriesof
+      liberation,butprovesitsfullpotentialpreciselybyforminganalliance(or:engagingina
+      translation with) other manifestations of counter-normativity.
+                                                             
+      Radical care                                           
+      In the last section, I reconstructed one particular oppressed normative standpoint ac-
+      cording to the three components: its objective conditions (the experience of contradic-
+      tions),itsnormativecontent(itscontestatory,materialandtransitorycharacter),andits
+      political implication (sociogenic marronage). In this section, I proceed in a parallel
+      fashionwithregardtoadifferentinstanceofcounter-normativity,namely,thatof‘care’.
+      Withtheerosionofsocialsecuritiesandtheglobalexpansionofapoliticsoforganized
+      abandonment (Gilmore 2011), care has become a central reference point for a hetero-
+      geneousvarietyofsocialstruggles.Theseinclude,amongothers,womenstrikesresisting
+      the unpaid reproductive labour of feminized subjects in households, campaigns for re-
+      productivejusticecentredaroundtherejectionofforcedcarelabourthroughinvoluntary
+      pregnancies, the movements for climate justice and saving planetary livelihoods, dis-
+      ability justice initiatives, campaigns centred on health care opposing the economic and
+      political neglect of caring for vulnerable lives, Black Lives Matter movements and
+      abolitionist initiatives rebelling against the disposability of racialized populations and
+      buildingattentivecommunitiesbeyondstateviolence.Inallofthesecases,theuseofthe
+      concept of care is marked by a central tension. On the one hand, care describes an
+      objectiverelationshipofdomination:Asthedistributionofcaretasksrunsalonggendered
+      andracializeddifferences,somegroupsareforcedtoperformcareactivities,whileothers
+      onlybenefitfromthem.Caring,ontheotherhand,isalsoanormativevalue(avirtue,a
+      practiceandanideal):Onlybyreleasingandintensifyingcaretoestablishandrestorethe
+      foundationsoflifecancollectivewell-beingbeensured.Thistensioncanbegraspedbya
+      standpoint theory of normativity: Normative orientations are socially situated; they are
+      formed within social formations that are permeated by relations of domination. Within
+      andbecauseoftheserelationsofdomination,itisthenpreciselytheexcludedoroppressed
+      groups that potentially develop better – ethically, morally and politically more
+      appropriate – forms of normativity, while dominant groups develop specific forms of
+      normative blockages.                                   
+        TheanalysisoffeministMarxistsaroundtheinternational‘WagesforHousework’
+      campaignformedinthe1970soffersagoodstartingpointforthereconstructionofthe
+      objective social conditions of care work. Based on the personal experience of
+      women’s work under Fordist capitalism, the central premise of the interventions of
+      authorssuchasMariarosadallaCosta,SelmaJames,SilviaFedericiandothersisthat
+      thereproductionofthelabourpowerofthe(mostlymale)wageworkerisessentialfor
+      thefunctioningofcapitalistexploitation.Inorderfortheworkertogotothefactory,
+      someonemusthaveeducatedhim,washedhislaundryandcookedhisfood–activities
+      that are predominantly performed by women.8 The central justification strategy of
+      this service is the naturalization and romanticization of reproductive activities:
+                                                             
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+      980                          Philosophy and Social Criticism 51(6)
+                                                             
+                                                             
+      Theaffectivepreconditionsofcareworkareattributedtoanindividualcompetenceor
+      preference of women, with love playing an important role. This is what Federici’s
+      famous denouncement is aimed at: ‘They say it’s love. We say it’s unwaged work’.
+      (Federici 2012, 15)9                                   
+        This slogan shows that, like with the concept of fugitive freedom, it is the ex-
+      perienceofacontradictionthatcanleadtothedevelopmentofaliberatorynormative
+      orientation:Reproductiveworkisessentialforthereproductionofasociety,butunlike
+      other(oftenmuchlessessentialorevendestructive)activities,itisnotpaid.Another
+      wayofdescribingthiscontradictionwouldbetopointattheconflictingexpectations
+      of action that many women face once the essential significance of care work is re-
+      vealed:Ontheonehand,affectivebondsandconcerntowardstheclients(beitachild,
+      ahusbandoranelder)canleadtofeelingsofresponsibilitythatbindcareworkersto
+      the demands posed by concrete others, on the other hand, experience of the value of
+      one’swork,expressed andfosteredby feministmovements, can lead topoliticaland
+      economic emancipation aspirations. Subjective enactment of these objective con-
+      tradictions constitutes a particular normative standpoint in the sense of a normative
+      standpoint theory.                                     
+        Forthereconstructionofthespecificnormativecontentofthatstandpoint,itishelpful
+      to move beyond the Marxist feminist paradigm and to consult feminist care ethics as
+      establishedsincethe1980sinthetraditionofCarolGilligan’sbookInaDifferentVoice
+      (1982).Inhercanonicalstudy,Gilliganformulatedacritiqueofthemoraldevelopment
+      theoryofherformerteacherLawrenceKohlberg.Kohlberghaddevelopedastagemodel
+      that describes moral development as an ever-improving approximation to abstract
+      principlesofjustice,withthehigheststage(which,however,onlyexceptionalindividuals
+      reach) being a moral conception guided by Kant’s categorical imperative. Kohlberg
+      further proclaims a moral deficiency in women, whose development allows for a lower
+      generalization capacity and thus a less well-developed understanding of justice. In
+      contrast,Gilligan’sownsurvey,whichfocusesonthemoralattitudesofgirlsandwomen,
+      revealsothernormativeattitudes:Insteadofabstractprinciplesofjustice,womentendto
+      pay attention to relationality, concrete needs and responsibility for others when solving
+      moral dilemmas.                                        
+        While Gilligan initially only refers to a gender difference without explicitly
+      evaluatingthem,philosophersinthetraditionofcareethicshavefurtherprofiledthe
+      concept of care and presented it as a superior alternative to an androcentric con-
+      ceptionsofjustice.TheoristssuchasNelNoddings,SaraRuddick,EvaFederKittay
+      andothersexplicitlyconsidercareobligationstobetheprimaryethicalrelationship,
+      asoriginallyexpressed,forexample,inthecaringrelationshipwith(young)children,
+      but also more generally in the emotional and material nurturing of social worlds.10
+      Without the responsible care for a – at least at initially exuberantly – needy life, no
+      human society and therefore no normativity at all is possible. Moral theories that
+      conceive of humans as rational and independent individuals and aim for impartial,
+      disengaged and universally applicable rules fail to recognize emotionality and de-
+      pendencyashumantraitsandsubordinatetheresponsibilitiesthatemergefromthem,
+      which are often asymmetrical and context-specific (Kittay 1999). Understood in this
+
+[PAGE 11]
+                                                             
+                                                             
+      Loick                                          981     
+                                                             
+                                                             
+                                                             
+      way,then,careethicsresultsinaninversionofsocialandnormativeprivilegesimilar
+      to Hegel’sschema of domination and servitude– the orientation toward care values,
+      while philosophically and socially marginalized, is actually normatively superior to
+      the dominant male justice-centeredness.                
+        Care ethics is thus, like the notion of fugitive freedom, contestatory with respect to
+      dominant norms, and in that it focuses on the material, intersubjective and social
+      conditions of normativity. In addition, it shares with fugitive freedom also a third
+      component,namely,itsfocusonthetransitory,non-staticconditionofnormativity.Partly,
+      transitionisinherenttotheverynatureofcareworkitself.Thetelosofcaringforchildren,
+      for example, is a development toward their autonomy and independence, for which the
+      childmustalsoacquireasenseofitsownpreferencesandinterests(thesameapplies,for
+      example, to love relationships and friendships). It is therefore precisely among the
+      competencies ofcaregivers tobe able to relinquishclaims to control,to endure conflict
+      andtoaccommodatedistancingmovements.Inaddition,transitionformsthebackground
+      conditionforcareethicstoemergeasethics(andnotsimplythenaturalizedexecutionof
+      life’sdemands)inthefirstplace.AsGilliganalreadynoted,thewomen’smovementofthe
+      1960s and 70s raised in many women an awareness of the legitimacy of their own
+      ‘egoistic’needsanddesires.Manywomen,however,didrespondtothisfreedomnotby
+      completely severing care relations, but by negotiating their emancipatory freedom with
+      thedemandsposedbyconcreteties–withtheresultofchangingthecharacterofjustice
+      altogether (Gilligan 1982, 149). Political struggle is thus the constitutive condition, not
+      themeansofimplementation,ofthenormativestandpointofcare.Thistransitoryelement
+      alsoindicateshowcareethicsmovebeyondHegel’sgroundingoftheservant’snormative
+      superiorityinherexperienceofwork;careworkisliberatorypreciselynotasworkbutas
+      struggle.                                              
+        The radical or militant power of the care standpoint can finally be explicated even
+      furtherifitspoliticalimplicationsarespelledout.Theinterplayofcontestation,sociality
+      and transition positions the care perspective in open confrontation with established
+      political and economic institutions (read: bourgeois capitalist society).11 In addition to
+      challengingthebourgeoisseparationofspheresthatrelegatecareactivitiestotherealmof
+      theprivate,conclusionscanalsobedrawnfromsuchpoliticsofcareabouttheinstitutional
+      design of a politics and an economy that corresponds to the normative perspective of
+      caregivers.Aswiththeideaoffugitivefreedom,thepoliticsofcareraisesthequestionof
+      how, in particular, the transitory moment of the repressed normative standpoint can be
+      made permanent and stabilized. Federici has suggested that the experiences of care
+      workers should be linked to the demand for ‘reproductive commons’. If it is no longer
+      only women and racialized subjects who are to be responsible for the reproduction of
+      human well-being, then these tasks must be organized by all together in a cooperative
+      way.Butif,atthesametime,thenormativecharacterofcaringactivitiesonlyderivesfrom
+      political struggle, then the militant aspect cannot be satisfied by the fulfilment of the
+      demand. Therefore, for Federici, the task of guaranteeing a care infrastructure should
+      never be assigned to the state: ‘If the reproduction of our daily life must guarantee our
+      “buen vivir,” and reproduce not our labour power but our “struggling power,” then we
+      cannotimaginethatinanalternativetotheatomizationofreproductiveactivitiesthatwe
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+      982                          Philosophy and Social Criticism 51(6)
+                                                             
+                                                             
+      experience, we should consign our reproduction into the hands of the state’. (Federici
+      2019, 721). This confirms that the specific conceptions of norms that emerge from the
+      experiences of oppressed and marginalized groups also have a particular political
+      component:Oppressedgroupsdonotonlydevelopparticularnormativeorientations,but
+      also particular ideas about what institutional form they might take.12
+                                                             
+      Conclusion                                             
+      The perpetuation of regimes of exploitation, oppression, marginalization and necropo-
+      liticalviolenceonaplanetaryscalehasmassiveeffectsonthosegroupsthatbenefitfrom
+      theseregimes.Theseeffectstaketheformofepistemicignorance:Membersofdominant
+      groupsarenotattentivetocertaintruths.Theyalsoconcernaffectstructureandempathy:
+      Thosewhodominateothersoridlywitnesssuchdominationareboundtodevelopforms
+      of callousness, indifference, coldness or even passionate contempt, as expressed in
+      bigotedideologiessuchasracismandsexism.Finally,theeffectscorruptthenormative
+      ideasandconceptionsthatadominantgroupdevelops–itsethics,moralityandpolitics
+      willtendtoprovidejustificatorynarrativesforexistingdomination.WesternPhilosophy
+      hasbeensuchadiscourseoflegitimationfordominationformillennia–andremainssoin
+      its largest parts to this day.                         
+        Atfirstglance,itseemsthatanothereffectofthisdominationisthatthosedominated
+      byitareevendeprivedofthecapacitytoarticulatetheirowncounter-normativity.Some
+      of the aspects that prevent the emergence of a liberatory consciousness are, for
+      example, a lack of access to education and knowledge resources, ideological ob-
+      fuscations, alack ofa collective perspective dueto increasing individualizationand
+      isolation, internalization of their own devaluation by oppressed, or divisions and
+      competitionsamongstdifferentmarginalizedgroups.Thecriticaltheoryoftheolder
+      Frankfurt School has tried to grasp this apparent lack of alternatives to universal
+      moraldepravationwiththeconceptoftotality:Thenormativeconflictsofsocietytend
+      to no longer take on the character of overt antagonisms. In his early essay ‘Moral
+      Consciousness and Class Domination’, Axel Honneth attempts to tie the normative
+      liberation perspective back more strongly to conflicting social groups. However, he
+      still claims that oppressed groups are incapable of articulating elaborate value
+      judgements and normative conceptions, but at best spontaneous indignations, in-
+      tuitiveinklingsofjusticeandsilentformsofdisapproval:‘Acoherentvaluesystemis
+      not normally an institutionally regulated part of the occupational roles available to
+      members of oppressed social classes. Their occupational roles activity challenges
+      them seldom or not at all to develop even the most provisional overview of the
+      structuresinvolvedinthelifeandtheinterestsofsocietyasawhole’.(Honneth2007,
+      85)Therefore,henolongerascribestothesegroups,aswasstillthecasewithMarx,
+      thepowertoexplodetheexistingsocietybyuniversalizingtheirownstandpoint,but
+      onlytheroleofdrawingattentionto‘yetunrealizedpotentialitiesofsocialprogress’
+      (ibid., 95).                                           
+        The consultation of two important liberation struggles, rubricated here under the
+      conceptsoffugitivefreedomandradicalcare,however,hasshownthattheoppressedare
+                                                             
+
+[PAGE 13]
+                                                             
+                                                             
+      Loick                                          983     
+                                                             
+                                                             
+                                                             
+      not only quite capable of developing difficile and coherent forms of normativity,
+      but that these can even be superior to dominant conceptions of normativity.
+      This superiority does not result simply from the fact that oppressed groups are
+      dispensed from the normative blockages of dominant groups, nor are they auto-
+      maticallypredisposedtotheunfoldingoftheirnormativeprivilegebyvirtueoftheir
+      position in the structure of domination. Their experiences under conditions of ser-
+      vitude provide them with a situated potential, but they can only exploit it through
+      specific practices, namely, practices of solidarity and ultimately of political libera-
+      tion.Thereconstructionofthenormativeidealsandorientationsofactionofthetwo
+      movements has brought to light three essential common features: Counter-
+      normativities are firstly contestatory, that is, they challenge the validity of estab-
+      lishedorhegemonicnorms;secondlymaterial,thatis,theyconcernthemselveswith
+      the relational scope and the social conditions of normative validity; and thirdly
+      transitory, that is, they conceive of norms as dynamic and self-transgressing. These
+      characteristics give rise to particular political implications, which in both cases are
+      expressed as a preservation of a distance from state institutions. As a political ex-
+      pression of a preservation of the specific normative content of the movement of
+      fugitivity from systems of enslavement, the idea of sociogenic marronage has been
+      proposed (with Neil Roberts): a plural, incomplete community not aiming at res-
+      torationofmythsoforigin.Ananalogousideawaspresentedfortheliberationofcare
+      workintheideaofthereproductivecommons(withSilviaFederici):anevermerely
+      ‘social’butalwaysalready‘political’need-basedcooperationforthereproductionof
+      human and non-human well-being.                        
+        These two traditions are obviously not exclusive, there are many other counter-
+      communitieswhohaveproducedrichdiscoursesonalternativenormativities.However,
+      even thinking just these two together, it quickly becomes clear what dazzling utopias
+      couldbegeneratedfromalliancesofheterogeneousliberationmovements.ForHegel,the
+      struggle between master and servant came to a successful end with the achievement of
+      bourgeois society as a system of universal recognition. If we start thinking liberation
+      consistentlyfromtheperspectiveofthosewhocontinuetobedominatedormarginalized
+      by this society, however, a completely different idea of liberation appears: that of a
+      communityfreeofdomination,inwhichthesatisfactionofneedsisnotdependentonany
+      origin or title.                                       
+        Itfollowsfromastandpointtheoryofnormativitythatliberationcannotbethoughtof
+      as the completion or expansion of dominant normativity. History is not a ‘process of
+      enrichment’ in which more and more normative contributions expand an existing dis-
+      course. It is rather a conglomerate of antagonistic struggles. Any attempt to integrate
+      excluded groups into existing institutions rather than changing them fundamentally
+      necessarilyleadstoareproductionofdomination,sincetheseinstitutionsarenotneutral
+      buthavethemselvesbeenshapedaccordingtotheneedsandinterestsofdominantgroups
+      (Gordon2021,44).Thosewhoremainwithinthedominantinterpretiveframeworkwill
+      not only fail to shake off the normative blockages resulting from the exercise of
+      domination,butwillalsosquanderthenormativepotentialresultingfromthestandpoint
+      of the oppressed – the potential of fugitive freedom and radical care.
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+      984                          Philosophy and Social Criticism 51(6)
+                                                             
+                                                             
+      Acknowledgements                                       
+      This article was written during my Feodor Lynen Fellowship, funded by the Alexander von
+      Humboldtfoundation,atBarnardCollegeNewYorkin2022.IamgratefultoFrederickNeuhouse
+      forhostingmethere.IalsowouldliketothanktheanonymousreviewersofPhilosophy&Social
+      Criticism for constructive andhelpful comments.        
+                                                             
+      ORCID iD                                               
+      DanielLoickhttps://orcid.org/0000-0001-5927-8267      
+                                                             
+      Notes                                                  
+       1. Standpointtheoriesusuallyinvolvethreeassumptions:1)Knowledgeissituated.Whatpeople
+         can know depends on objective conditions. These include, for example, their specific expe-
+         riences, their social location, their cultural milieu, their material practices and the epistemic
+         resourcesavailabletothem.2)Knowledgeisantagonistic.Epistemicactorsarelocatedwithina
+         socialfieldthatispermeatedbydifferentrelationsofdomination.Thepoliticalrelationthey
+         thusmaintainwitheachothercorrespondstotheirepistemicrelation.Theyarenotindifferentto
+         each other’s truth claims. Just as groups argue with (or struggles against) each other in an
+         economic or political sense, so their epistemic claims to validity stand in a polemical and
+         confrontationalrelationtoeachother.3)Marginalized,excludedoroppressedgroupshavean
+         epistemicadvantage.Groupssubjecttosocialdominationhaveaccessnotonlytoadifferent
+         but to a better knowledge than those who exercise it. (For a similar, but not quite identical
+         definition,seeWylie2012,foravolumecontainingsomeofthemostimportantpositionsin
+         epistemicstandpointtheory,seeHarding2004).Itisimportanttoemphasizethatvirtuallyall
+         standpoint theories stress that standpoint is not given, but achieved, its development is de-
+         pendentonpractices of consciousness raising.        
+       2. Jose´ Medina uses the metaphors of numbness and insensitivity to describe this effect: the
+         inability to experience empathyin the faceof the miseryof another,see Medina 2013.
+       3. Foramoreextensiveexplorationoftheethicallifeofcounter-communities,seeLoick2021.
+       4. The term ‘standpoint’ is thus slightly misleading, since it evokes a static relation between
+         oppressorsandoppressed.Inreality,thesegroupsdonotstand,butmove,shiftandstruggle.I
+         nonethelessusetheterm‘standpoint’toemphasizetheaffinityofmyendeavourtoepistemic
+         standpointtheories.Itakeitforgrantedthatthemostplausibleversionsofepistemicstandpoint
+         theories are not the ones grounded in a strong philosophy of history or an essentialist an-
+         thropology,butinanunderstandingofknowledgeproductionasdependentongroup-specific
+         experienceandpractice.Suchtheoriesoftenalreadyacknowledgethenormativedimensionof
+         knowledge;PatriciaHillCollins,forexample,explicitlydiscusses‘anethicofcare’aspartofa
+         ‘Blackfeminist epistemology’,seeHill Collins 2000,ch. 11.
+       5. Atfirstglance,themasterappearstobefreetodomanythings,includingmanythingstheslave
+         cannotdo.Butsuchanempty,merelyformalideaoffreedomisdenouncedbyHegelasformsof
+         unfreedom.HefamouslydeclaresinthePhilosophyofRight:‘Thecommonestideawehaveof
+         freedomisthatofarbitrariness––themeanpositionofreflectionbetweenthewillasdetermined
+         solely by natural drives and thewillwhich is freeinand for itself.When wehear itsaidthat
+         freedomingeneralconsistsinbeingabletodoasonepleases,suchanideacanonlybetakento
+                                                             
+
+[PAGE 15]
+                                                             
+                                                             
+      Loick                                          985     
+                                                             
+                                                             
+                                                             
+         indicate a complete lack of intellectual culture, for it shows not the least awareness of what
+         constitutesthewillwhichisfree’.(Hegel1991,48[§15]).Hegel’sownideaofthefreewill,onthe
+         contrary,isawillthatknowsitselftobepartofauniversal(seeibid.,§7)Thisishowtheepistemic
+         andthenormativeprivilegeoftheservantscoincide:Theyaredispensedofthewrong‘common
+         idea’offreedomasarbitrarinessandtheyactaccordingly(ifunderforcedconditions).
+       6. Gary Wilder has pointed at a structural problem of standpoint theories: If superior con-
+         ceptionsorpracticesresultpreciselyfromrelationsofdomination,cantheseconconceptions
+         survivetheabolitionofdomination?Canmarronagebeconceptualizedoutsideofaworldof
+         enslavement(Wilder2017)?AnanswertothischallengecouldapplyaMarxistscheme:The
+         overcoming of capitalism is a universalization not of the capitalist, but of the proletarian
+         standpoint–butatthesametimeanabolitionoftheproletariatasaclass.Thesamegoesfor
+         fugitivity(andforcare):Theuniversalizationof marronagewouldatthesametimebethe
+         abolition of slavery.                               
+       7. The experience of flight, as presented here through Frederick Douglass’ narrative of his
+         liberation from the system of American chattel slavery, is not limited to this extreme case.
+         Eightymillionpeoplearecurrentlyforcedtofleetheirhomes,manywithnoprospectofever
+         returning.Ascanbeseen,forexample,inVickiSquire’sreconstructionofrefugees’political
+         worldviews, their notions of freedom also bear contestatory, social and transitory features;
+         Squireproposestheconceptofdesertiontocapturetheintentionalrejectionofunfreerelations
+         of violence that many refugees express (Squire 2021, on the institutional implications see
+         Celikates 2022). But even within global metropoles, the lived realities of many groups are
+         defined by a permanent practice of flight: Escape from carceral regimes such as the police,
+         prison or juvenile justice, but also escape from unlivable family structures and intimate re-
+         lations.FollowingAliceGoffman,GeoffroydeLagasnerieandAssaTraore´ alsodescribethe
+         strategies of racialized youth in terms reminiscent of the maroons: they form their own
+         communities that adopt a relationship of permanent distance to the dominant institutions
+         (Lagasnerie/Taore´2019).Escapeisthusamodeofexistencethatconstitutesthecrucialpractice
+         offreedomforanincreasingnumberofpeople.Astandpointtheoryofnormativityisattentive
+         to theconceptions offreedom that correspondto theirexperiences.
+       8. However,infeudalsociety,mostworkwasstilldonebytheentirefamilyinthehouseholdoron
+         one’s own farm, the emergence of capitalism separated wage labour from housework. This
+         separationoccurredalonggenderedlines,withhouseworksimultaneouslyrecodedasnon-work
+         andthusdevalued,whichwasaccompaniedbyalossofpowerandagencyforthosewhoselives
+         tookplaceprimarilyinthehome(DallaCosta/James1976,24).InhermajorstudyCalibanand
+         theWitch,Federicitracedthemassivehistoricaleffortthatmadethisgenderingpossible.The
+         femalebodyhadtobesimultaneouslymarkedassubmissiveanddangeroustobeconfinedin
+         thehousehold,whichwasonlypossiblethroughadismantlingofwomen’spre-capitalistpower
+         that was historically enforced through the criminalization of female birth control, the deg-
+         radation of women to mothers and the systematic extermination of rebellious women in the
+         Europeanburningofwitches(Federici2004,ch.2).Asaresult,femalelabournolongerappears
+         as an activity essential to production but as a personal service to husbands, thus internally
+         dividing theclass of the proletariat.               
+       9. TheanalysesoffeministMarxistshavebeenexpanded,revisedandupdatedinvariousways.A
+         first correction responds to the fact that proletarian feminist critique has also often been
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+      986                          Philosophy and Social Criticism 51(6)
+                                                             
+                                                             
+         formulatedfromtheperspectiveofwhitewomen;manyblackwomenhaveindifferentways
+         beenmoreintegratedintosystemsofcapitalist(over)exploitation,suchasonplantationsorin
+         underpaidfactorywork,andhavethusbeenexposedtoanevengreaterdoubleburden,buthave
+         alsorepeatedlyfoundwaystoturnthisdoubleperspectiveintoactsofresistance(Davis1998).
+         Captivematernals,asJoyJamescallssubjectswho,preciselybecauseoftheircarecapacities,
+         are the focus of economic exploitation and state criminalization at the same time, havealso
+         repeatedlyfoundwaystoturnthisdoubleperspectiveintoactsofresistance,forexample,inthe
+         formofillicitconnectionswithothercareworkers,sabotageofreproductiveactivitiesinthe
+         formofillegalabortionsorthespy-likegatheringofinformationaboutthelivesofmembersof
+         thedominantsocialorder(James2016).Moreover,withthegreaterintegrationofwomeninto
+         thelabourmarketoverthepast30–40years,therehasbeenfurtheroutsourcingofreproductive
+         labour, with affluent and middle-class women delegating care activities to migrant and ra-
+         cializedfemaleworkers(Hochschild2000;Parrenas2015).Finally,itcanbeseentodaythatthe
+         gendered and racialized division into productive and reproductive activities no longer cor-
+         respondsonlywiththedivisionintounpaiddomesticworkandpaidwagelabour,butisalso
+         reflectedwithinthewagelabourworlditself;muchofthepaidcareworksuchaschildrearing,
+         nursingandeldercarearealsoperformedbyeconomicallyprecariousanddisproportionately
+         femaleandmigrantworkers.Despitetheserevisionsandupdates,however,thecorepremiseof
+         theMarxist-feministcritiqueremainsvalid:theseparationofcareactivitiesandotherformsof
+         labourcorrespondstoarelationshipofdomination.Theexperienceofperformingcareactivities
+         constitutes asocial standpoint.                     
+      10. Sara Ruddick has explicitly drawn a parallel of care ethics to epistemological standpoint
+         theoriesbyconceptualizingmotherhoodasanexperiencethatparticularlydispositionsmaternal
+         subjects to care (although without analyzing the social foundations of motherhood itself):
+         Individualswhoareaccustomedtodevelopingmaternalattitudes,mindsetsandattentionsalso
+         formbettercognitiveandaffectivecapacitiesforelementarycarerelationships(Ruddick1995,
+         127–135).                                           
+      11. Intheexperienceofmanyradicalpoliticalmovements,therefore,referencetocareplaysthe
+         roleofbothacurrentpracticeandagoalorutopia(forpioneeringworkonmediatingthese
+         dimensions,seeHennessy2013).Thelistofexamplesisendless.AudreLordewasearlyto
+         insistonthevalueofself-carefordealingwithfrustration,traumaandinjury,understanding
+         theconceptofself-carenotintermsofneoliberalself-responsibilitybutasalwaysalreadya
+         collectivepracticeofemotionallyreproducingone’sownpoliticalagency(Lorde1988,131,
+         also see Hobart/Kneese 2020). AIDS activism in the 1980s combined the demand for
+         nondiscriminatoryhealthcarewiththeconstructionofsolidarity-basedcommunitiesofcare
+         andmourning(Laufenberg2014).Similarly,theBlackLivesMattermovementhasnotonly
+         profiledcareasacounter-concepttothenecropoliticaldisposabilityimposedbythecarceral
+         regime, but has also recognized it as a basis for organizing within its own communities
+         (Brown/Woodly 2020; Leonard/Woodly 2022). All of these movements show that care
+         cannotbedeterminedfunctionally(asapreconditionofthereproductionofcapitalistlabour
+         power) or essentialistically (as a natural feature of female moral orientations) but rather
+         praxeologically: As a normative standpoint, it is the outcome of political practices under
+         externally determined conditions, which in turn are enabled and provoked by objective
+         contradictions.                                     
+
+[PAGE 17]
+                                                             
+                                                             
+      Loick                                          987     
+                                                             
+                                                             
+                                                             
+      12. ThecoincidenceofthehealthcrisisintheCovid-19pandemic,thecrisisofthecarceralsecurity
+         regime challenged by Black Lives Matter rebellions, and the ongoing ecological crisis has
+         proventhatthequestionofcarecannolongerbeinvisibilizedandignored(CareCollective
+         2020;BostonReview2020).Inseekingappropriateresponsestothesecrises,accordingtoa
+         standpoint theory of normativity, those whose daily lives have always been marked by care
+         activitieshaveanormativeadvantage–itisthemwhoshouldtaketheleadinre-envisioningour
+         moral andethical commitments as well as thepolitical institutions toimplement them.
+                                                             
+      References                                             
+      BostonReview.2020.ThePoliticsofCare:FromCovid19toBlackLivesMatter.London/New
+         York:Verso.                                         
+      Brown,Rachel, andDeva,Woodly(eds,). 2020.“ThePoliticsofCare.”ContemporaryPolitical
+         Theory20(4): 90–925,2021.                           
+      Celikates,Robin.2020.“DieMachtderKritik.EpistemischeAsymmetrien,alternativeStandpunkte
+         undmigrantischePraktiken.”WestEnd–NeueZeitschriftfürSozialforschung2/2020:81-96.
+      Celikates,Robin.2022.“RemakingtheDemos‘fromBelow’?CriticalTheory,MigrantStruggles,
+         and Epistemic Resistance.” In Crisis Under Critique, edited by Didier Fassin, and Axel
+         Honneth,97-119. NewYork:Columbia UP.                
+      Ce´saire, Aime´.1972. DiscourseonColonialism.London/New York:Monthly Review Press.
+      DuBois,W.E.B.1999.BlackReconstructioninAmerica,1860-1880.NewYork:TheFreePress.
+      DallaCosta,Mariarosa,andSelma,James.1976.ThePowerofWomenandtheSubversionofthe
+         Community.Bristol: Falling WallPress.               
+      Davis,Angela.1971.LecturesonLiberation.LosAngeles.theNationalUnitedCommitteetoFree
+         Angela Davis.                                       
+      Davis,Angela.1998.“ReflectionsontheBlackWoman’sRoleintheCommunityofSlaves.”InThe
+         AngelaDavis Reader,edited byJoyJames. Malden: Blackwell.
+      Douglass,Frederick.1994a.“MyBondageandMyFreedom.”Autobiographies.NewYork:The
+         Libraryof America.                                  
+      Douglass, Frederick. 1994b. “Life and Times.” Autobiographies. New York: The Library of
+         America.                                            
+      Federici,Silvia. 2004.Caliban andthe Witch.LosAngeles: Autonomedia.
+      Federici,Silvia.2012.RevolutionatPointZero.Housework,Reproduction,andFeministStruggle.
+         Oakland:pm press.                                   
+      Federici,Silvia.2019.“Women,Reproduction,andtheCommons”.SouthAtlanticQuarterly,118
+         (4): 711–724.                                       
+      Gilligan, Carol. 1982. In a Different Voice. Psychological Theory and Women’s Development.
+         Cambridge, MA:Harvard University Press.             
+      Gilmore,RuthWilson. 2011.“Whatis tobedone?”American Quarterly63, no.2: 245-265.
+      Gordon, Lewis. 2021. “Toward the Decolonization of Normative Life.“ Freedom, Justice, and
+         Decolonization. London/New York: Routledge.         
+      Harding,Sandra.2004. TheStandpoint Theory Reader: Intellectual andPolitical Controversies.
+         London:Routledge.                                   
+                                                             
+                                                             
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+      988                          Philosophy and Social Criticism 51(6)
+                                                             
+                                                             
+      Hegel, Georg W.F. 1991. Elements of the Philosophy of Right. Translated by H. B. Nisbet.
+         Cambridge: Cambridge University Press.              
+      Hegel, Georg W.F. 2020. Phenomenology of Spirit. Translated by Terry Pinkard. Cambridge:
+         CambridgeUniversity Press.                          
+      Hennessy,Rosemary.2013.“FiresontheBorder.”InThePassionatePoliticsofLaborOrganizing
+         ontheMexican Frontera. Minneapolis:University ofMinnesota Press.
+      Hesse,Barnor.2014.“EscapingLiberty:WesternHegemony,BlackFugitivity.”PoliticalTheory42
+         (3): 288-313.                                       
+      HillCollins, Patricia.2000. BlackFeminist Thought.London/New York: Routledge.
+      Hobart,Hi‘ileiJuliaKawehipuaakahaopulani,andTamara,Kneese.2020.“RadicalCare.Survival
+         Strategies for Uncertain Times.”Social Text 38: 1.  
+      Hochschild, Arlie R. 2000. “Global care chains and emotional surplus value.”, In On the Edge.
+         Living with Global Capitalism, edited by Anthony Giddens, and Will Hutton, 130-146.
+         London:JonathanCape.                                
+      Honneth,Axel.2007.“MoralConsciousnessandClassDomination.”InDisrespect:TheNormative
+         Foundationsof CriticalTheory.London/New York: Polity.
+      James, Joy. 2016 “The Womb of Western Theory. Time, Trauma, and the Captive Maternal”.
+         Carceral Notebooks 12.                              
+      Kittay,EvaFeder.1999.Love’sLabor.EssaysonWomen,Equality,andDependency.London/New
+         York:Routledge.                                     
+      Lagasnerie,Geoffroy de, andAssa, Traore´.2019.Le CombatAdama.Paris: Edition Stock.
+      Laufenberg,Mike.2014.Sexualita¨tundBiomacht.VomSicherheitsdispositivzurPolitikderSorge.
+         Bielefeld. transcript.                              
+      Leonard,Sarah,andDeva,Woodly.2022.“ThePoliticalPhilosophyofCare.”Dissent69,no.1:
+         28-35.                                              
+      Loick,Daniel. 2021. “The Ethical Lifeof Counter-Communities.”Critical Times4.1: 1-28.
+      Lorde,Audre.1988.A BurstofLight: Essays.Ithaca: Firebrand.
+      Medina,Jose´. 2013.The Epistemology of Resistance. Gender andRacialOppression,Epistemic
+         Imjustice, andResistantImaginations.Oxford: OxfordUniversity Press.
+      Medina, Jose´. 2023. The Epistemology of Protest. Silencing, Epistemic Activism, and the Com-
+         municativeLife of Resistance.Oxford:Oxford University Press.
+      Mills,Charles.2015.“NeilRoberts,FreedomasMarronage.”JournalofFrenchandFrancophone
+         Philosophy-RevuedelaphilosophiefrançaiseetdelanguefrançaiseXXIII,no.2:145-149.
+      Mills, Charles. 2017. Black Rights/White Wrongs: The Critique of Racial Liberalism. Oxford:
+         Oxford University Press.White Ignorance.            
+      Parrenas, Rhacel. 2015. Servants of Globalization: Migration and Domestic Work. Stanford:
+         StanfordUniversity Press.                           
+      Pineda, Erin. 2021. Seeing Like an Activist. Civil Disobedience and the Civil Rights Movement.
+         Oxford:Oxford University Press.                     
+      Roberts,Neil. 2015. Freedom as Marronage.Chicago: University of ChicagoPress.
+      Ruddick,Sara. 1995. Maternal Thinking.Toward a Politicsof Peace.NewYork: Beacon Press.
+      Squire, Vicki. 2021. “Unruly Migrations, Abolitionist Alternatives.” Behemoth – A Journal on
+         Civilisation 14, no.3.                              
+                                                             
+
+[PAGE 19]
+                                                             
+                                                             
+      Loick                                          989     
+                                                             
+                                                             
+                                                             
+      The Care Collective. 2020. The Care Manifesto. The Politics of Interdependence. London/New
+         York:Verso.                                         
+      Wilder, Gary. 2017. “The Promise of Freedom and the Predicament of Marronage: On Neil
+         Roberts’s Freedom as Marronage.” Small Axe Salon. 24. last accessed May 2023. http://
+         smallaxe.net/sxsalon/reviews/promise-freedom-and-predicament-marronage-neil-robertss-
+         freedom-marronage                                   
+      Wylie, Alison. 2012. “Feminist Philosophy of Science: Standpoint Matters.” Proceedings and
+         Addressesof the American Philosophical Association 86,no. 2:47-76.
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             

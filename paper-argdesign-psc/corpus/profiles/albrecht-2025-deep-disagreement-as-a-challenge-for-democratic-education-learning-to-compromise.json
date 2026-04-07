@@ -1,0 +1,63 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "albrecht_2025",
+  "title": "Deep Disagreement as a Challenge for Democratic Education: Learning to Compromise",
+  "author": "Albrecht",
+  "year": 2025,
+  "journal": "Philosophy and Social Criticism",
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "Democratic education scholarship calls for rethinking in response to deep disagreement, yet consistently returns to the same liberal and deliberative standard responses (Rawls, Habermas) that cannot address the problem. The puzzle: why do reassessments fail to move beyond the frameworks they critique?",
+    "anchored_in": ["de Ridder", "Affolter", "Culp et al."],
+    "stakes_claimed": "Deep disagreement poses an existential challenge to democratic education; without a better response, future citizens will be unprepared for the conflict-intensification characterizing contemporary democracies."
+  },
+  "theoretical_positioning": {
+    "rivals_engaged": ["Rawlsian political liberalism", "deliberative democratic theory (Habermas)", "liberal-values cultivation strand"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": true,
+    "own_position_type": "framework_proposal",
+    "own_position_explicit": true,
+    "description": "The paper identifies three existing strategies in democratic education and performs immanent critique of each: (1) Rawlsian liberalism assumes common ground it cannot secure; (2) deliberative theory is too optimistic about reason's ability to find common ground; (3) liberal values cultivation externalizes the problem. The paper proposes compromise as a fourth approach that acknowledges persistent disagreement without presupposing common ground."
+  },
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": null,
+    "notes": "Entirely conceptual. No empirical material. The argument proceeds by mapping three existing positions, performing immanent critique of each, and proposing compromise as the positive alternative."
+  },
+  "case_type": {
+    "has_case": false,
+    "case_medium": "none",
+    "case_name": null,
+    "case_function": null,
+    "case_relation_to_argument": null,
+    "case_selection_justified": false
+  },
+  "normative_stake": {
+    "level": "medium",
+    "domain": "democratic education / conflict regulation",
+    "claim_type": "prescriptive",
+    "closure_type": "conclusion_open"
+  },
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "immanent_critique",
+    "framework_proposal",
+    "normative_derivation",
+    "conclusion_open"
+  ],
+  "reflexive_move": false,
+  "key_concepts": ["deep disagreement", "compromise", "democratic education", "common ground", "conflict regulation", "ethical minimum of democracy"],
+  "thinkers_deployed": {
+    "central": ["de Ridder", "Rawls", "Habermas"],
+    "engaged_critically": ["Rawls", "Habermas", "Affolter"],
+    "referenced_only": ["Fogelin", "Kappel", "Dubiel"]
+  },
+  "confidence_notes": "Clearly Type 2 (polemical reconstruction): three-strategy mapping followed by serial immanent critique followed by positive proposal. The conclusion is open rather than strong because the compromise proposal is programmatic — what compromise-education would look like is gestured at rather than specified. This is close to TCS Type 2 (fully_normative, dialectical synthesis) but the paper is about philosophy of education rather than social theory proper."
+}

@@ -1,0 +1,73 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "piscitello_2025",
+  "title": "Arendt and the Social: A Modern Flaw?",
+  "author": "Piscitello",
+  "year": 2025,
+  "journal": "Philosophy and Social Criticism",
+
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "Opens by presenting Habermas's charge that Arendt's political/social distinction 'leads to absurdities' and condemns her to anachronism. The puzzle: Arendt insists socioeconomic issues should be divorced from politics, but this seems nonsensical today when socioeconomics are the core of politics. Piscitello's counter: Habermas misreads Arendt, and her distinction is not anachronistic but a diagnosis of modernity's 'sick heart.'",
+    "anchored_in": ["Habermas", "Arendt", "Benhabib"],
+    "stakes_claimed": "Arendt's political/social distinction, properly understood through 'respect' and 'self-containedness' of action (derived from Aristotle's political friendship and self-contained praxis), reveals the modern erosion of public space and points toward recovery of genuine political participation free from economic domination — exemplified by Musk and Trump as contemporary anti-political forces."
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["Habermas's critique of Arendt", "standard criticisms of Arendt's political/social distinction (Benhabib, Bernstein, Pitkin)", "Aristotelian anachronism charge"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": true,
+    "own_position_type": "reconstruction",
+    "own_position_explicit": true,
+    "description": "The paper performs immanent critique of Habermas's reading of Arendt, arguing he misreads her by ignoring two key features: 'respect' (derived from Aristotelian political friendship) and the 'self-containedness' of action (derived from Aristotle's praxis as end-in-itself). These features show that Arendt's goal is not to replicate the ancient polis but to diagnose modernity's absorption of the public by economic necessity. Contemporary figures (Trump, Musk) serve as illustrative examples of Arendt's diagnosis."
+  },
+
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "Philosophical reconstruction: close reading of Arendt's The Human Condition and On Revolution; engagement with Habermas's 1977 critique; Aristotelian analysis of philia politike and self-contained praxis. Contemporary examples (Trump's market manipulation, Musk's public sphere colonization) used as illustrations.",
+    "notes": "Trump and Musk appear as contemporary illustrations of Arendt's diagnosis, not as empirical cases. They are invoked to show the relevance of her distinction in about 2-3 paragraphs; the bulk of the argument is philosophical reconstruction and immanent critique of Habermas. Classified fully_normative. The paper is an analytic-continental hybrid: treats Arendt and Habermas via close philosophical reading with some analytic precision in conceptual distinctions."
+  },
+
+  "case_type": {
+    "has_case": false,
+    "case_medium": null,
+    "case_name": null,
+    "case_function": null,
+    "case_relation_to_argument": null,
+    "case_selection_justified": false
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "political theory / Arendt / public sphere / democracy",
+    "claim_type": "reconstructive_prescriptive",
+    "closure_type": "conclusion_strong"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "immanent_critique",
+    "framework_proposal",
+    "normative_derivation",
+    "conclusion_strong"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["political/social distinction", "respect (philia politike)", "self-containedness of action", "erosion of public space", "economic anti-politics", "Aristotelian praxis as end-in-itself"],
+
+  "thinkers_deployed": {
+    "central": ["Arendt", "Habermas", "Aristotle"],
+    "engaged_critically": ["Habermas (1977 critique of Arendt)", "standard Arendt critics (Benhabib, Bernstein, Pitkin)"],
+    "referenced_only": ["Villa", "Cain", "Held", "Agamben", "Bernasconi", "Canovan"]
+  },
+
+  "confidence_notes": "Straightforward fully_normative Type 2a paper: puzzle_diagnosis + immanent critique of Habermas + reconstruction of Arendt + normative conclusion. The brief references to Trump and Musk are illustrative asides (3 paragraphs) in a paper that is otherwise entirely philosophical. The paper's brevity (16 pages) and tight argumentative structure are characteristic of the analytic-political philosophy mode in PSC. Compare piscitello to celikates_2016 for structural similarity: both use immanent critique to defend a revised normative concept (civil disobedience / political action) against its critics."
+}

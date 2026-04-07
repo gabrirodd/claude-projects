@@ -1,0 +1,63 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "bufkin_2024",
+  "title": "Racism, Epistemic Injustice, and Ideology Critique",
+  "author": "Bufkin",
+  "year": 2024,
+  "journal": "Philosophy and Social Criticism",
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "Fricker's influential epistemic injustice framework has generated extensive applications, but its individualist, cognitivist, and dematerialized account of racialized epistemic dysfunction is inadequate to explain racialized imaginaries, structural racism, and the social hegemony of racist ideas. The puzzle: why does the most sophisticated recent framework for understanding racist knowledge still fall short?",
+    "anchored_in": ["Fricker", "Medina", "Hall"],
+    "stakes_claimed": "Returning to a materialist theory of ideology (Stuart Hall's Marxist-derived approach) better accounts for how racist ideas become socially hegemonic and why individualist epistemic remediation fails to undo racialized worlds."
+  },
+  "theoretical_positioning": {
+    "rivals_engaged": ["Fricker's epistemic injustice framework", "analytic social epistemology (Medina, Dotson, Pohlhaus)"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": true,
+    "own_position_type": "framework_proposal",
+    "own_position_explicit": true,
+    "description": "The paper performs a sustained immanent critique of Fricker: (1) testimonial injustice level — overly rationalist, disembodied model of the knower misses psychosocial dynamics; (2) structural level — narrow propositional account of hermeneutical resources misses racialized imaginaries that are socially hegemonic despite being epistemically suspect. The alternative is Stuart Hall's materialist ideology theory: ideologies emerge from distortions of concepts internal to social practices, not from individual epistemic failings."
+  },
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "Close reading of Fricker's Epistemic Injustice; critical engagement with Hall's cultural Marxism and theory of ideology; conceptual analysis of testimonial and hermeneutical injustice.",
+    "notes": "Fully normative: argument moves within the conceptual space of social epistemology and ideology theory. Fricker's framework is the primary target; Hall's work is the positive resource. No empirical material — examples of institutional racism (policing, housing market) are illustrative reference points, not analysed cases."
+  },
+  "case_type": {
+    "has_case": false,
+    "case_medium": "none",
+    "case_name": null,
+    "case_function": null,
+    "case_relation_to_argument": null,
+    "case_selection_justified": false
+  },
+  "normative_stake": {
+    "level": "high",
+    "domain": "social epistemology / racism / ideology critique",
+    "claim_type": "reconstructive_prescriptive",
+    "closure_type": "conclusion_strong"
+  },
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "immanent_critique",
+    "framework_proposal",
+    "normative_derivation",
+    "conclusion_strong"
+  ],
+  "reflexive_move": false,
+  "key_concepts": ["epistemic injustice", "testimonial injustice", "hermeneutical injustice", "ideology", "racialized imaginary", "common sense", "materialist ideology theory"],
+  "thinkers_deployed": {
+    "central": ["Fricker", "Hall"],
+    "engaged_critically": ["Fricker", "Medina", "Dotson"],
+    "referenced_only": ["Gramsci", "Marx", "Gilroy", "Alcoff", "Haslanger"]
+  },
+  "confidence_notes": "Type 2a (dialectical synthesis): single target (Fricker) subjected to thorough immanent critique at two levels, positive alternative (Hall) proposed. Strong conclusion. The immanent critique is unusually focused on a single book rather than a tradition, making this a precision variant of Type 2."
+}

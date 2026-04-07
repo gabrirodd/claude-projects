@@ -1,0 +1,63 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "fuchs_2025",
+  "title": "Antonio Negri, Spinoza, Marx, and Digital Capitalism",
+  "author": "Fuchs",
+  "year": 2025,
+  "journal": "Philosophy and Social Criticism",
+  "opening_move": {
+    "type": "puzzle_diagnosis",
+    "description": "Spinoza's philosophy has been used by Negri to analyse capitalism and the working class, but it has not been adequately applied to digital capitalism specifically. The paper asks: how can Spinoza help us better understand digital capitalism, particularly the antagonism between digital labour and digital capital?",
+    "anchored_in": ["Negri", "Spinoza", "Marx"],
+    "stakes_claimed": "Spinoza's concepts of potentia and potestas, combined with Marx's class analysis and Negri's digital/communicative capitalism, provide a framework for understanding digital capitalism's antagonisms as an antagonism between digital potentia (collective creative force) and digital potestas (domination)."
+  },
+  "theoretical_positioning": {
+    "rivals_engaged": ["Hardt-Negri's Spinoza-inspired framework (partial critique)"],
+    "engagement_structure": "friendly_amendment",
+    "immanent_critique": false,
+    "own_position_type": "synthesis",
+    "own_position_explicit": true,
+    "description": "The paper critically and constructively engages Negri's Spinoza interpretation, combining it with Marx's class analysis to produce a framework for digital capitalism. It maps Spinoza's potentia/potestas dialectic onto digital labour/capital antagonism, digital commons/commodities, and productive forces/relations of production."
+  },
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "Philosophical synthesis of Spinoza, Marx, and Negri; conceptual mapping of potentia/potestas onto digital capitalism categories.",
+    "notes": "Fully normative: argument is philosophical synthesis. References to digital platforms are conceptual illustrations of the framework, not empirical cases."
+  },
+  "case_type": {
+    "has_case": false,
+    "case_medium": "none",
+    "case_name": null,
+    "case_function": null,
+    "case_relation_to_argument": null,
+    "case_selection_justified": false
+  },
+  "normative_stake": {
+    "level": "high",
+    "domain": "Marxist theory / digital capitalism / Spinoza / labour",
+    "claim_type": "reconstructive",
+    "closure_type": "conclusion_open"
+  },
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "framework_proposal",
+    "conceptual_distinction",
+    "normative_derivation",
+    "conclusion_open"
+  ],
+  "reflexive_move": false,
+  "key_concepts": ["potentia", "potestas", "digital labour", "digital capital", "digital commons", "general intellect", "immaterial labour", "antagonism"],
+  "thinkers_deployed": {
+    "central": ["Spinoza", "Marx", "Negri"],
+    "engaged_critically": ["Negri (partial)"],
+    "referenced_only": ["Hardt", "Lazzarato", "Virno"]
+  },
+  "confidence_notes": "Type 2 (framework construction / synthesis): combines Spinoza, Marx, and Negri to generate a new analytical vocabulary for digital capitalism. No empirical case. Open conclusion because the framework is proposed but not fully applied. Typical of PSC's political philosophy + Marxist theory strand."
+}
