@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__zotero__zotero_get_recent"
+    ]
+  }
+}
