@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "zotero": {
+      "command": "/Users/Gabri/.local/bin/zotero-mcp",
+      "env": {
+        "ZOTERO_LOCAL": "true",
+        "ZOTERO_EMBEDDING_MODEL": "default"
+      }
+    }
+  }
+}
