@@ -1,3 +1,7 @@
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
 # Paper manager — research analysis assistant
 
 ## Zotero connection
@@ -59,3 +63,8 @@ When comparing papers organise by:
 - Do not ask for "methodology" in papers that have none by design
 - Do not ask for "findings" in purely conceptual papers
 - Do not impose a single template across paper types without first detecting type
+
+## Repository layout
+- `yo.py` — example prompts illustrating intended natural-language workflows (comments only, not executable logic)
+- `notes/summaries/` — output destination for paper summaries (AuthorYear-short-title.md)
+- `exports/` — output destination for exports
