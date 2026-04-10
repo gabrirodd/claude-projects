@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dd if=\"/Users/Gabri/.claude/projects/-Users-Gabri-Desktop-claude-working-environment-paper-manager/c3c85e9f-cdaf-4f6e-95e5-243582141861/tool-results/mcp-zotero-zotero_get_item_fulltext-1775752954345.txt\" bs=1 skip=100000)",
+      "Bash(python3 -c ':*)",
+      "Read(//Users/Gabri/Desktop/claude/paper-argdesign-journal/outputs/**)",
+      "Read(//Users/Gabri/Desktop/claude/paper-argdesign-psc/outputs/**)"
+    ],
+    "additionalDirectories": [
+      "/Users/Gabri/Desktop/claude/working_environment/paper-manager/notes"
+    ]
+  }
+}
