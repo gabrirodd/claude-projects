@@ -1,0 +1,1013 @@
+[PAGE 1]
+                                                             
+                                                             
+                                                             
+       Contemporary Political Theory (2026) 25:16            
+       https://doi.org/10.1057/s41296-026-00793-0            
+       ARTICLE                                               
+                                                             
+       Hybrid alienation: reproductive labour and emancipation
+       in the anthropocene                                   
+                                                             
+                                                             
+       Carl Pierer1                                          
+                                                             
+       Accepted: 29 June 2025                                
+       © The Author(s) 2026                                  
+                                                             
+       Abstract                                              
+       This article develops an account of alienation that centres the way in which repro-
+       ductive labour determines the constitution and shape of this world. The first part
+       proposes a functionalist reading of the idea of the regeneration and reproduction
+       of a liveable world as joint human and non-human labour. It draws on the Wages
+       for Housework movement to argue that understanding reproduction as labour illu-
+       minates the ways in which the ‘naturalness’ of reproduction emerges as a function
+       of a deeper political decision to valorise production. The second part provides a
+       hybrid reconstruction of alienation as a means to critique such an arrangement of
+       labour, without inadvertently falling back on a reified notion of ‘nature’. I argue
+       that this helps us keep track of the political construction of ‘nature’ which underlies
+       the concepts of political theory we rely on. The third part ties both of these strands
+       together: a political organisation of labour that relies on the ‘naturalisation’ of re-
+       production alienates us by rendering it impossible to make our own fundamental
+       decisions about the constitution of the collective. Thereby, it offers a way of holding
+       onto the goal of emancipation in the Anthropocene.    
+       Keywords Nature · Labour · Anthropocene · Alienation · Reproduction
+                                                             
+                                                             
+       The ecological crises we are facing today, from climate change to mass species
+       extinctions, seriously challenge our emancipatory aspirations.1 To the extent that,
+                                                             
+       1 Throughout the article, ‘us’ and its cognates aim to designate the inheritors of the concepts, categories
+        and structures of thought of western modernity. This is deliberately vague to capture not only (political)
+        theorists but also the way in which these categories have deeply structured the imagination of everyday
+        life. To the extent that the article aims to turn these concepts against themselves, this points to a prob-
+        lematic but seemingly inescapable dilemma in capturing political imaginaries. Because of its inherent
+                                                             
+         Carl Pierer                                         
+         cp758@cam.ac.uk                                     
+       1 University of Cambridge, Cambridge CB3 9DP, UK      
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+        16 Page 2 of 19                           C. Pierer  
+                                                             
+       as Dipesh Chakrabarty has observed, our ‘mansion of modern freedoms stands on
+       an ever-expanding foundation of fossil-fuel use’ (2021, p. 32), the pursuit of such
+       freedoms has produced radical environmental transformations.2 The sheer scale of
+       these transformations over the last two centuries has led some to claim that we are
+       entering a novel geological epoch: the Anthropocene. While the International Union
+       of Geological Sciences has rejected the Anthropocene as a distinct geological epoch,
+       the idea that humanity collectively has transformed the environment to such an extent
+       that it has become a geological force continues to inspire debate in the social scienc-
+       es.3 The Anthropocene has frequently been criticised for diffusing responsibility for
+       environmental destruction, assigning the blame to a generalised ‘humanity’ rather
+       than specific causes such as capitalism or imperialism.4 Consequently alternatives
+       that draw our attention to particular causes or aspect of this epoch proliferate, such as
+       Capitalocene (Moore, 2016), Plantationocene (Mitman, 2019) or Chthulucene (Har-
+       away, 2016).5 These differing approaches nonetheless share the insight that these
+       environmental transformations are so profound that we can no longer assume ‘nature’
+       to exist independently of and separate from humans.   
+         As Chakrabarty (2009, 2021) and Latour (2008, 2010) have argued, this compels
+       us to dismantle assumptions that nature is ‘fixed’ or ‘enduring’. These environmental
+       transformations highlight that human relations to the planet are not what we thought
+       them to be; they appear to have rendered the idea of nature as a constant, immutable
+       backdrop to our political activities obsolete. While the debates of how to name and
+       date this period are important and necessarily shape how we think about the challenge
+       this poses,6 for the purposes of this article I shall use Anthropocene as a catch-all term
+       to group investigations that seek to make sense of what these radical transformations
+       of nature might mean, to home in on how we can make political sense of them. The
+       Anthropocene serves as a shorthand for this period where what we consider to be
+       nature is at stake and where the assumption that it exists independently and outside
+       of politics itself needs to appear as a political problem.
+         To the extent that the western political imaginary has relied precisely on such an
+       understanding of nature to define its domain and content, this constitutes a major
+       challenge for modern political thought. With the Anthropocene, we thus seem to be
+       faced with a paradoxical situation where the limit of our political imaginary has to be
+       understood politically. In this context, Latour (2008) has argued that, in order to make
+       political sense of the manifold entanglements that the Anthropocenic crises present,
+        tensions and contradictions, this unwieldy ‘us’ permits getting to these deeper features of ‘our’ under-
+        standing. It captures a shared collective imaginary and thinking about such concepts as nature, politics,
+        and labour, of which the contradictions and contestations are an important part.
+       2 For a historical reconstruction of account of how modern understandings of freedom relate to abun-
+        dance, see also Charbonnier (2020).                  
+       3 On 20 March 2024, the International Union of Geological Sciences released a statement upholding an
+        earlier decision by a lower committee to reject the ‘Anthropocene Epoch as a formal unit of the Geologic
+        Time Scale’ (2024). For a history of the term, see Bonneuil and Fressoz (2013), Charbonnier (2017).
+       4 See Fagan (2019) and Barca (2020).                  
+       5 See also Hallé and Milon (2020).                    
+       6 See Davis and Todd (2017).                          
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+       Hybrid alienation: reproductive labour and emancipation in the… Page 3 of 19 16
+                                                             
+       and to avoid relying on predefined spheres of politics and nature, we require a means
+       of tracking the continuous and repeated construction of nature.
+         In this article, I develop the concept of hybrid alienation to provide such a means.
+       Hybrid alienation arises from the way in which the boundaries of the collective,
+       between nature and politics, human and non-human, production and reproduction,
+       are drawn by capitalist forms of labour. As I argue in this article, because these forms
+       of labour rely on a naturalisation of reproduction, they obscure that this capitalist
+       organisation of the collective is a political choice. Produced by this obfuscation,
+       hybrid alienation then consists in our inability to make these choices about reproduc-
+       tion and more-than-human collectives our own.         
+         To argue for this thesis, I build on existing literature that has attempted to bring
+       modern emancipatory theories to bear on a politicisation of nature by paying attention
+       to reproduction, in particular on Alyssa Battistoni’s conceptualisation of the mainte-
+       nance and renewal of our common world through joint human and non-human activ-
+       ity as a form of hybrid labour.7 If our political categories, and in particular those of
+       freedom and emancipation, make it difficult to frame the question of the boundaries
+       of the collective of politically relevant entities as political, the development of hybrid
+       alienation contributes to this debate by indicating how we can bring such critical
+       vocabulary of emancipatory theories to bear on questions of the constitution of the
+       collective. That is, it provides normative reasons for why arrangements that determi-
+       natively pre-settle the boundaries of this collective are wrong. In this way, the article
+       advances efforts to combine the extension of our understanding of politics with the
+       means to analyse more traditional forms of power and injustice. Secondly, the article
+       identifies the limits of such hybridising approaches to existing political categories.
+       By pushing the vocabulary of hybrid labour and alienation further, it shows that the
+       distinctions between politics and nature, which arise at the boundaries of the collec-
+       tive, may not be decisively resolved. Instead, I argue, these approaches stake out a
+       space for political contestation in the continuous renegotiation of such distinctions.
+         In the first part, I develop a functionalist reading of hybrid labour. Drawing on the
+       Wages for Housework (WfH) movement, I argue that understanding reproduction
+       as labour highlights how the ‘naturalness’ of reproduction emerges as a function of
+       a deeper political decision to valorise production. This raises the problem of how to
+       critique such an arrangement of labour without inadvertently falling back on a reified
+       notion of nature. To address this, the second part proposes a similarly functionalist
+       understanding of hybrid alienation, which sees humans and non-humans as alienated
+       under a regime that naturalises reproduction. I argue that this helps us keep track of
+       the political construction of nature, which underpins the concepts of political theory
+       we rely on. The third part ties both of these strands together: a political organisation
+       of labour that relies on the ‘naturalisation’ of reproduction alienates us by rendering
+       it impossible to make fundamental decisions about the constitution of the collective
+       our own. Through the critique of hybrid alienation, labour emerges as a key deter-
+       minant of the constitution of the collective. Thus, hybrid alienation offers a way to
+       adapt critical tools which have contributed to obscuring the political character of this
+       constitution.                                         
+       7 Barca (2020) and Krzywoszynska (2020).              
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+        16 Page 4 of 19                           C. Pierer  
+       Hybrid Labour                                         
+                                                             
+       To extend our political categories to excluded ‘natural’ entities, Battistoni formulates
+       the concept of hybrid labour. She defines this as: ‘a collective, distributed undertak-
+       ing of humans and nonhumans acting to reproduce, regenerate, and renew a common
+       world’ (2017, p. 6). While much of the debate on non-human labour thus far has
+       focused on the question to what extent it is justified to talk about non-human or joint
+       human and non-human labour, I argue that Battistoni’s point is best understood func-
+       tionally, rather than ontologically.8 To do so, I reconstruct the context of Battistoni’s
+       argument and trace its roots in the WfH movement.     
+         Battistoni formulates her concept in dialogue with efforts to come to terms with
+       the political agency of non-humans. This has led to an intricate debate about the onto-
+       logical status of nature. New materialists, such as Jane Bennett (2004, 2010), have
+       argued for what may be called a ‘monist’ conception, which challenges the binary
+       separation of humans and non-humans and instead seeks to conceptualise an onto-
+       logical continuity. Ecomarxists, such as Malm (2019) and Kohei Saito (2017b), have
+       put forward an opposing dualist conception, which affirms the dialectical imbrication
+       of society and nature premised on their conceptual distinctness.9 In part, this debate
+       emerges as a reaction to an increasing awareness that a clear circumscription of the
+       sphere of nature can no longer be achieved, which authors like Latour (2010) have
+       long argued was precisely the governing conceit of western ‘modernity’. The con-
+       ceptual difficulty that arises is how to consider this separation as a political decision.
+         I propose that the concept of hybrid labour should be read as a way of coming to
+       terms with this problem. Battistoni observes that new materialists such as Bennett or
+       sympathetic thinkers such as Latour, offer important insights into the need to ‘bring
+       in’ non-humans into the realm of political consideration, yet that they are ‘limited
+       in addressing questions of power, politics, and economics’ (Battistoni, 2017, p. 13).
+       These thinkers are attentive to the ways in which inherited forms of social critique,
+       be it through a Marxist lens or other, tend to presuppose that the only politically
+       relevant domain is that of the social. Latour, for instance, argues that an ontological
+       reification of the ‘social’ as ‘a specific type of ingredient that is supposed to differ
+       from other materials’ (Latour 2007, p. 1) obscures the fundamental processes that go
+       into its composition and thereby illegitimately predefines what or who can be a part
+       of it. However, by highlighting the extent to which this restriction is always already
+       a political decision, these thinkers at the same time appear to deprive themselves of
+       the means to conceptualise more traditional forms of power and politics or the pursuit
+       of justice. Analyses of class or race, for instance, are almost entirely absent from the
+       earlier writings.10                                   
+       8 See Kallis and Swyngedouw’s (2017) discussion or Barua (2019).
+       9 Malm (2019) calls this ‘property dualism’, whereas Saito (2017b) calls this a ‘non-Cartesian dualism’.
+        Both of these are developed against Moore’s (2015) monist Marxist position. An explicit rejection of
+        Bennett’s position is articulated by Cotter (2016). Recently, Skiveren (2023) has questioned the substan-
+        tial differences between these approaches as well as the importance of these distinctions.
+       10 More recently, such analyses have been forthcoming. For instance, Latour (2022) centres the question
+       of class. The question of the extent to which ‘new materialisms’ allow for such analyses of power is also
+       taken up in Washick et al. (2015).                    
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+       Hybrid alienation: reproductive labour and emancipation in the… Page 5 of 19 16
+                                                             
+         While this is a recurrent critique of these approaches, the insight into the need for
+       avoiding conceptual shortcuts such as ‘the social’ remains both valuable and genera-
+       tive. On the one hand, if anything, paying careful attention to the composition of the
+       collective (in Latourian terms) has become even more urgent today. This is because,
+       with the destabilisation of nature through the unfolding environmental crises, the
+       sphere of political action and consideration must be broadened. Latour has repeatedly
+       stressed that we cannot rely on the idea that the community of the politically relevant
+       entities is fixed and stable. Careful attention needs to be paid to how the collective
+       is put together and how we can let this question appear as at the heart of political
+       deliberation, rather than hide it - as Latour has argued the ‘moderns’ pretend to do
+       - in the supposedly pre-political epistemological settlement, where nature becomes
+       the domain of science and politics is restricted to the sphere of society. Against this,
+       Latour understands nature not as prior to politics, but as already a political answer.
+       To make sense of and track the entanglements of natural and social, human and non-
+       human, it is necessary to home in on how these conceptual distinctions operate and
+       come to be. Latour’s (2008) collective is meant to capture this procedural quality of
+       assembling politically relevant entities, without deciding in advance along reified
+       distinctions who or what might belong.                
+         On the other hand, Chakrabarty (2009, 2014, 2021) has explored what it means
+       to avoid shortcuts in this context where the developments of capitalism, colonialism,
+       and globalisation have brought to the fore the planetary systems and processes that
+       underpin the possibility of our biological survival. A similar debate concerning the
+       space for conceptualizing traditional analyses of politics has developed around Cha-
+       karbarty’s argument for bringing in the planetary strand of history as distinct from
+       the social histories of capitalism and colonialism.11 This is no coincidence, for the
+       ‘planetary’ produces analogous difficulties of conceptualising power, politics, and
+       justice. These related debates highlight a recurring concern: if we need to keep track
+       of the constantly evolving character of the collective of politically relevant entities,
+       and thus cannot rely on such concepts as the ‘social’ which pre-emptively settle this
+       question, how can this be combined with properly political analyses of power, injus-
+       tice, and oppression, that seemingly rely on a well-defined social sphere?
+         I argue that hybrid labour signals something new: by considering labour func-
+       tionally, it becomes possible to appreciate that the valorisation of productive labour
+       depends on a concomitant production of a concept of nature and reproduction. In the
+       spirit of the processual understanding of politics, the functional analysis, rather than
+       engaging the ontological debate, allows me to home in on how deeply our conceptual
+       tools are shaped by the capitalist organisation of labour. Naturalness, in its imbrica-
+       tion with labour, is functionally operative in the organisation of the space of politics.
+       In the second part, I make the case that, because it obscures the political character of
+       this organisation, naturalness constitutes a core obstacle to making decisions about
+       this organisation our own, thereby alienating us.     
+         To develop my functionalist reading of hybrid labour, I trace Battistoni’s argu-
+       ment to its roots. Battistoni explicitly draws on the Marxist feminists of the 1970s,
+       and in particular the WfH movement. The WfH idea serves, in Battistoni’s argument,
+       11 See especially Getachew (2022).                    
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+        16 Page 6 of 19                           C. Pierer  
+                                                             
+       to make visible the obscured fact that reproduction of a common habitable world is
+       already part of the economic calculus, in so far as it relies on continuous regeneration.
+       There is, however, a latent difficulty for this analogy: while Battistoni seems to lean
+       towards a positive valorisation of reproductive labour, it is not clear that the WfH
+       movement, at least during its early years, pursued a similar goal.
+         In its early configuration, the WfH movement was ambiguous about what the wage
+       demand meant: whether it constitutes a demand for material recompense (and hence
+       recognition) of reproductive labour as labour, or whether it is simply a functional
+       demand to make visible reproduction as labour to highlight the political decisions
+       underlying the present configuration. For several WfH theoreticians, notably Silvia
+       Federici and Mariarosa Dalla Costa, the demand served as a tool to uncover the deep
+       ways in which the naturalisation of reproduction is bound up with a capitalist organ-
+       isation of the world which valorises productive labour. Read against the intellectual
+       backdrop of Italian operaismo out of which Dalla Costa’s and Federici’s approaches
+       develop, the demand is related to the strategy of refusal: it serves to make reproduc-
+       tion visible as work so that, like work, it could be rejected. On the other hand, the
+       WfH strand developed by Margaret Prescod (1980), and after the initial years of the
+       movement also by Selma James, was quite explicit in exacting payment for the labour
+       of housework, linking it to reparations for historic injustices.
+         In the longer history, the first strand, represented by Dalla Costa and Federici,
+       broke with the WfH movement in 1977/7812, while the second continued and
+       expanded its demands around the wage, abandoning the earlier ambiguity. In 1977, at
+       the National Women’s Conference in November, Prescod, as a delegate for the WfH
+       Campaign, successfully lobbied for a change in terminology in the government’s reg-
+       ulation, replacing ‘welfare’ with ‘wage’ (Love, 2006, p. 368). Throughout the 1980s
+       and 1990s, the movement expanded its network to forge ties between activists in the
+       global north and south. In its current form, it is a network actively represented in
+       India, Ireland, Peru, Thailand, the United Kingdom and the United States. At the turn
+       of the millennium, the movement organised a Global Women’s Strike, which is also
+       the name under which the contemporary movement is now better known.
+         More recently, the movement has further expanded the demand for a care income
+       covering both care for people and the planet. In this evolution, the demand for com-
+       pensation for reproductive labour has at the same time expanded in scope and shed all
+       ambiguity. It is now a clear call for monetary compensation, as for instance expressed
+       by James and Nina Lopez when they write: ‘[Care Income] can pay a living wage
+       to mothers and other primary carers of people, thus beginning to end poverty, start-
+       ing with that of mothers and children, the poorest everywhere’ (2021, p. 77). In this
+       article, the authors lament that while the importance of care work has been widely
+       accepted, it did not lead to financial recognition. Consequently, they argue, ‘[t]o make
+       that same demand today, when it is acknowledged as crucial work and measured and
+       valued many times over is to avoid the payment, denying the worker the money she
+       has earned’ (James & Lopez, 2021, p. 63). In other words, if, as Forrester (2022) has
+       also argued, the demand no longer has the same disclosing power it held in the 1970s,
+       12 See Toupin (2018) for a history of these early years.
+                                                             
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+       Hybrid alienation: reproductive labour and emancipation in the… Page 7 of 19 16
+                                                             
+       because these reproductive activities have been recognised as labour, it would seem
+       that its main function today can only be to exact monetary compensation.
+         However, I propose that returning to the original ambiguity of the demand, rep-
+       resented for instance by Federici, allows us to think differently about the work that
+       labour does. Thus, by homing in on the first strand of the movement, I seek to recover
+       some of the insights that its later developments have sidelined: specifically, the inac-
+       cessibility of an untainted form of reproduction which could be used to critique capi-
+       talism. The refusal of work under capitalism, in both its productive and reproductive
+       configuration, propounded by this strand, facilitates a radical interrogation of politi-
+       cal categories, such that, as I shall argue, naturalness can appear as a political prob-
+       lem to help us confront our Anthropocenic predicament.
+         In one of the foundational texts of the movement, Women and the Subversion of
+       the Community, Dalla Costa and James13 identify the wage as crucial for tracking
+       how capitalism has restructured social relations, for it divided those who worked
+       in factories and received a wage from those who were excluded and did not. It is
+       only by assigning necessary reproductive activities to women in the capitalist family
+       structure that capital ‘has ‘liberated’ the man from these functions so that he is com-
+       pletely ‘free’ for direct exploitation; so that he is free to ‘earn’ enough for a woman to
+       reproduce him as labor power’ (Dalla Costa & James, 1975, pp. 33–34). The authors
+       in this early text are more interested in the revolutionary perspective and explicitly
+       oppose the demand for monetary compensation:          
+         [T]he demand that would follow, namely, ‘pay us wages for housework’, would
+         run the risk of looking, in the light of the present balance of power in Italy, as
+         though we wanted further to entrench the conditions of institutionalized slavery
+         that are produced with the condition of housework (…) [W]e must discover
+         forms of struggle that immediately break the whole structure of domestic work,
+         rejecting it absolutely, rejecting our role as housewives and the home as the
+         ghetto of our existence, since the problem is not only to stop doing this work
+         but to smash the entire role of housewife (Dalla Costa & James, 1975, p. 36).
+       This perspective highlights an important difference with contemporary versions of the
+       movement. While both reject the capitalist exploitation of reproductive labour, this
+       early approach more radically calls into question our conceptual categories. Where
+       the contemporary iteration identifies reproductive labour, or care, as ‘the foundation
+       of every society’ (James, 2022), these early texts of the movement are keenly aware
+       of how deeply this capitalist restructuring of social relations has shaped our concep-
+       tual categories. On this account, there is no easy way to conceive a pure and positive
+       form of reproductive labour that is not distorted by capitalism, and this is why it has
+       to be rejected absolutely.                            
+         Federici makes a similar point and highlights that the wage demand reveals repro-
+       ductive labour not only as exploited but also configured in a specific way by capital.
+       13 The authorship of this text is a matter of dispute, see James (2012) and Dalla Costa’s statement (2012)
+       published in response. Because this dispute is unresolved, I have opted to refer to the 1975 edition of the
+       text, and refer to James and Dalla Costa as the joint authors.
+                                                             
+                                                             
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+        16 Page 8 of 19                           C. Pierer  
+                                                             
+       Indeed, part of the epistemic shift she tried to achieve consisted precisely in chal-
+       lenging the supposed naturalness of women becoming housewives and doing house-
+       work. Growing up in post-World War II Italy, in a socially conservative but rapidly
+       reindustrialising country, Federici stresses that her starting point was the refusal of
+       the type of work to which she was ‘naturally’ destined (Federici, 2016, 2018). As
+       she highlights, what capital recognises as work suggests that there is a well-defined
+       period during which labour-force is expended in the factory, an activity that is com-
+       pensated through a wage, and that the time outside this period belongs to the worker.
+       For the WfH movement such a definition of work must be rejected, as even the time
+       outside the factory is structured by services to capital. Work, on Federici’s account,
+       should be understood more broadly than simply as the time spent at the factory: ‘But
+       we have never belonged to ourselves, we have always belonged to capital for every
+       moment of our lives and it is time that we make capital pay for every moment of it.
+       In class terms this is to demand a wage for every moment we live at the service of
+       capital’ (2012, p. 51). Such an expansive understanding of work deliberately enters
+       into conflict with the idea that reproduction happens ‘naturally’, removed from eco-
+       nomic considerations. It uncovers naturalisation as a strategy by capital to situate
+       activities outside its domain, so that they may better be exploited. To make structures
+       appear as natural is understood as a capitalist reworking of the world to facilitate the
+       creation and appropriation of surplus value. (Feminine) nature is here understood as
+       part of the capitalist construction of work. Reproduction appears as the natural flip-
+       side of production: productive labour is only possible in so far as it is accompanied
+       by the naturalisation of reproduction. For this reason, this is a functional rather than
+       an ontological analysis of work.                      
+         Maria Mies’ development of the WfH analysis (2014) helpfully illustrates this
+       difference. Mies extends this analysis to cover the ways in which other forms of non-
+       waged labour, in particular by women in the Third World, are exploited in analogous
+       ways. What holds these analyses together, ultimately, on Mies’ account is that it is
+       work done mostly by women. However, there is an important difference between
+       Mies’ and the autonomist strand of the WfH movement’s reasons for considering
+       reproductive labour to be work. For Mies, reproduction is work because it is a:
+         truly human, that is, conscious, social activity. Women appropriated their own
+         nature, their capacity to give birth and to produce milk in the same way as
+         men appropriated their own bodily nature, in the sense that their hands and
+         head, etc., acquired skills through work and reflection to make and handle tools.
+         In this sense, the activity of women in bearing and rearing children has to be
+         understood as work (Mies, 2014, p. 53).             
+       Conversely, the functional interpretation of the WfH argument suggests that repro-
+       ductive labour is work because of its relation to productive labour. That is, it is a
+       condition of possibility of productive labour and forms a functional whole under
+       capitalism. While on Mies’ account reproductive activity is always work, just under
+       capitalism it happens to be unwaged and exploited, on my interpretation of the WfH
+       argument reproductive activity is work in the same sense as productive activity,
+       because they function in a comparable way under capitalism.
+                                                             
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+       Hybrid alienation: reproductive labour and emancipation in the… Page 9 of 19 16
+                                                             
+         This entails differing views on nature. For Mies there is an undistorted, natural
+       form of reproduction that is fully productive, i.e. an expression of human creativ-
+       ity, conscious and social. This view would appear to reaffirm the rigid distinction
+       between human and nature that the Anthropocene discourse has called into question.
+       In contrast, I suggest that my functional interpretation of the WfH argument makes
+       visible the contingent construction of this distinction.
+         This aligns with Moishe Postone’s (1996) distinction between ‘a critique of labour
+       in capitalism’ and ‘critiques of capitalism from the standpoint of labour’. Postone
+       argues that traditional Marxism has relied on a transhistorical notion of labour to
+       provide a critique of capitalism. It has mistakenly reified industrial types of labour
+       as the expression of a deep human capacity, rather than analyse it as a historically
+       contingent product of the capitalist social form. While Mies rejects industrial labour,
+       she appropriates a Marxist view insofar as what makes reproductive activity mean-
+       ingful, valuable, and human on her account is that it is a productive expression of
+       human capacities. In contrast, the WfH demand in its autonomist form challenges
+       the premises of production and reproduction, as well as their apparent naturalness.
+       The demand, on this reading, reveals that productive wage labour is also naturalised
+       as an expression of something intrinsically human. Mies rejects the identification of
+       productive labour with ‘the head and the hand’, or ‘men’s object relation to nature’,
+       as the only kind of work that patriarchy valorises. Even if she gives ‘productive’ a
+       different twist, because she ultimately does not reject the idea that a productive use
+       of nature is essentially human, this approach does not let nature become a political
+       problem in the way that the Anthropocene predicament requires.
+         To summarise, the autonomist strand of the WfH movement instrumentalises the
+       wage-demand to make reproduction visible as work. However, at least for the rep-
+       resentatives influenced by the Italian context, this was not (or not straightforwardly)
+       meant to be work that ought to be remunerated, and thereby institutionalised. Rather,
+       for some in the WfH movement, just like the productive work enforced by the capi-
+       talist in the factory, the reproductive work in the social factory at the service of capital
+       ought to be rejected. Making it visible as work would make it possible to contest (and
+       reject) it on the same grounds. On this conception, capital simultaneously organises
+       the sphere of productive labour and the sphere of reproductive labour, both are co-
+       constitutive of each other. Moreover, it hides this organisation by assimilating the
+       latter sphere to nature and the private home. Two important insights emerge from this
+       argument: firstly, labour is not simply an ahistoric human quality, but rather is intrin-
+       sically linked to a political organisation of both the social and the natural sphere.
+       Secondly, naturalness operates to obscure the first insight.
+         Contesting the presumed naturalness of female characteristics may be seen as a
+       common feature of many strands of feminism. The uniqueness of this strand of the
+       WfH movement’s approach lies in its ambiguous casting of housework as work to be
+       ultimately able to reject it, which allowed for the insight into the ways in which natu-
+       ralness intersects with the reification of labour. The early WfH movement’s argument
+       does not simply seek to denaturalise housework, i.e. to remove reproductive labour
+       from the sphere of nature and bring it into the sphere of political contestation, but also
+       facilitates - as I shall expand further below - making the constitution of nature itself
+       into a political problem.                             
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+        16 Page 10 of 19                          C. Pierer  
+                                                             
+         If the conclusion of the preceding section is that, on the WfH movement’s account,
+       naturalised reproduction must be resisted in order to resist the exploitation of produc-
+       tive forces, where does this leave us? The analogy with the WfH movement appears
+       to break down because, in the midst of environmental disaster, rejecting the hybrid
+       labour of reproducing and regenerating our habitable world seems to be the last thing
+       we would want. While Battistoni’s explicit aim is to endow the consideration of non-
+       human agency with the means to account for traditional forms of power and injustice,
+       the need to make visible the political construction of nature is only latently present.
+       With the focus on the refusal of reproductive labour by one strand of the WfH move-
+       ment, this point comes to the fore and naturalness is centred as operative in occlud-
+       ing the political character of the construction of nature. The functionalist reading
+       of hybrid labour highlights that questions concerning the organisation of labour are
+       inextricably entangled with the ways in which we think about nature and politics.
+       In this light, we may ask: how can we relate this deeper political question about the
+       construction of nature to a critique of the valorisation of production, without relying
+       on a reified notion of nature? The next part develops a functionalist account of hybrid
+       alienation which captures the idea that, naturalisation, on which the valorisation of
+       production depends, prevents us from making this deeper political question our own.
+       In other words, naturalisation presents this question as already settled for us.
+       Hybrid Alienation                                     
+                                                             
+       The naturalness of reproduction emerges as a function of a deeper political decision
+       to valorise production. At the same time, to the extent that they are committed to
+       inherited notions of the political, the concepts we have available to criticise this valo-
+       risation of production reproduce or rely on the very ideas of nature that have become
+       unsustainable. Thereby, through naturalisation, this arrangement alienates us from
+       the fundamental decisions concerning the composition of the collective. This is prop-
+       erly diagnosed as alienation because such a description centres the idea that we ought
+       to be able to deliberate on such fundamental political decisions, that it is normatively
+       wrong if they are pre-settled through a determination of what nature is. However, to
+       avoid falling back on an uncritical naturalness, it must also be understood as a hybrid
+       phenomenon. That is, humans and non-humans are alienated, in a functionalist sense,
+       under a regime that naturalises reproduction. This I call ‘hybrid alienation’.
+         At the same time, this framing creates a tension. While hybrid alienation serves
+       to criticise pre-settled notions of nature, in casting this as a matter for deliberation it
+       relies on a distinction between those who can and those cannot deliberate. This would
+       appear to reproduce the human-nature distinction in a different guise. This tension is
+       intentional. In calling for deliberation, hybrid alienation underscores that these prob-
+       lems are constitutive of our political categories, and we may not be able to overcome
+       them. Rather than fully or decisively resolve these distinctions, this makes visible
+       the processual construction and continuous renegotiation of these political boundar-
+       ies. Thereby it identifies a space for political contestation and reconfiguration that is
+       obfuscated by pre-settled notions of nature. Thus, the functionalist account of hybrid
+                                                             
+                                                             
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+       Hybrid alienation: reproductive labour and emancipation in the… Page 11 of 19 16
+                                                             
+       alienation I develop in this section offers a means to critique such an arrangement of
+       labour, all while making visible the contingent construction of nature.
+         While emerging from an entirely different context and with no explicit commit-
+       ment to theorising the problems of this article, Rahel Jaeggi’s (2006) reconstruction
+       of alienation lets us think fruitfully about the above as a case of alienation. Sketched
+       briefly, on Jaeggi’s account, what situations of alienation have in common is that for
+       some reason we fail to identify with the situation as our own doing. Jaeggi points out
+       that: ‘What we are alienated from is always at once alien and our own’ (2014, p. 24)
+       We are alienated if we cannot identify with what is our creation as a product of our
+       own actions. Importantly, this realisation implies that we are only ever alienated from
+       our own creations. Building on this, Jaeggi develops her key insight: the object of
+       alienation is never alien to us. Being alienated is more than the object of alienation
+       simply being foreign or strange but comes with the additional claim that it should
+       stand in a different relationship to us. As she writes: ‘Being alienated from something
+       means having become distanced from something in which one is in fact involved or
+       to which one is in fact related—or in any case ought to be’ (Jaeggi, 2014, p. 25). Put
+       differently, a progressive critique of alienation captures the conditions under which
+       we can appropriate (sich aneignen) the world in such a way that we can perceive
+       ourselves fully in this act (Jaeggi, 2014, p. 23).    
+         Two ideas here are particularly important for my argument. Firstly, Jaeggi’s con-
+       cept of alienation does not attempt to flesh out what we are alienated from but rather
+       explains how alienation operates and what its effects are. She focuses our attention
+       on the kind of relation alienation is and thereby attempts to remain agnostic about the
+       content from which we are alienated. This is a fine line to tread, for Jaeggi wishes to
+       address worries concerning the commitment to essentialism that analyses of alien-
+       ation have historically entailed, all the while holding onto the normative force such
+       diagnoses bring. Whereas Jaeggi’s account may ultimately need to fall back on some
+       sort of essentialism to retain this normative force, as I shall discuss further below,
+       I also argue that this need not be an obstacle for the functionalist, hybrid account
+       I am developing here. Secondly, Jaeggi’s reconstruction heavily relies on the idea
+       of appropriation as Aneignung rather than Besitzergreifung.14 With this distinction,
+       Jaeggi stresses the notions of learning and concomitant ideas about the transforma-
+       tion of the subject that accompany the former, against the ideas of taking possession
+       that unambiguously define the latter.                 
+         Building on Jaeggi’s reconstruction, the diagnosis of alienation as a failure to
+       make the world one’s own, to be able to navigate this world fully, provides the means
+       to hold together the two aspects elaborated earlier. In this sense the naturalisation of
+       reproduction is alienating: as long as we fail to bring in the ways in which answers to
+       the questions of labour co-determine nature we cannot make this world our own. To
+       the extent that the world of our collective is constituted by who or what can become
+       part of it, and this question is, among other things, settled by the ways in which we
+       14 Jaeggi makes this distinction in the original German (2006, pp. 64–67), and in footnote 48 points to
+       the fact that this distinction does not exist in English. Consequently it does not appear as such in the Eng-
+       lish translation (Jaeggi, 2014, pp. 37–40). Nonetheless, the idea that Aneignung denotes something that
+       exceeds mere possession is developed there.           
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+        16 Page 12 of 19                          C. Pierer  
+                                                             
+       organise labour, those forms of organisation that naturalise reproduction thereby also
+       obscure the political character of this arrangement. Thus unable to make this arrange-
+       ment, and the structuring of the world it produces, our own, such arrangements pro-
+       duce alienation. At the same time, this must be considered a hybrid form of alienation.
+       Much like hybrid labour serves to unearth the functional equivalence between human
+       and non-human activity, the claim to the hybridity of alienation in this case is a func-
+       tional one. If we consider alienation a purely human phenomenon, we inadvertently
+       reproduce an externalised, non-human, nature without making visible the political
+       character of such a move. Claiming that humans and non-humans are functionally
+       alienated serves to bring a normative critique to bear on the problem of naturalised
+       reproduction, while at the same time making visible the political character of nature.
+       It is important to highlight this shift from Jaeggi’s reconstruction, which proceeds
+       through the thick descriptions of highly individualised cases of alienation. While
+       hybrid alienation draws on crucial insights of Jaeggi’s reconstruction, it situates the
+       diagnosis on a collective, rather than an individual level. Hybrid alienation no longer
+       diagnoses situations where an individual might fail to make their world their own,
+       but rather where the collective is inhibited from appropriating its political decisions.
+         This hybridized notion of alienation may face criticism from at least two camps.
+       On the one hand, broadly Marxist inspired theorists might resist this idea because it
+       mixes up what are properly natural dynamics with social ones, where the latter are
+       to be blamed on capitalism. On the other hand, environmentalists interested in the
+       intrinsic value of nature and in pushing against anthropocentrism may object to the
+       use of such a deeply humanist category as alienation. I believe that while both touch
+       on important features, these objections lead to asking the wrong questions about this,
+       and I show instead where the functionalist account can truly shine.15
+         Marxists, especially eco-Marxists, tend to see hybridity critically. Malm (2018,
+       2019), for instance, argues for the need to keep nature and society analytically sepa-
+       rate, so as to be able to hold those human actors responsible that brought us into
+       this mess.16 More broadly, while there has been a revisionist moment arguing that
+       Marx may have been a more environmentally attuned thinker than he has been given
+       credit for, these to some extend tend to reify nature as the background condition of
+       human development.17 Much like Marxists tend to understand labour as a purely
+       human phenomenon,18 they are likely to insist on the importance of resisting the
+       hybridisation of alienation. Similar resistance, albeit with a different spin, may come
+       15 See Biro (2005) and Hailwood (2015) for previous attempts to make alienation useful for environmental
+       thought. Neither of these approaches centres the political decisions around nature.
+       16 On the idea that the ontological distinctness of nature and politics is necessary for human responsibility,
+       see Skiveren (2023).                                  
+       17 The groundwork for this was laid by John Bellamy Foster’s Marx’s Ecology (2000), but the litera-
+       ture has proliferated since, ranging from ecological readings of Marx (e.g. Foster et al. (2011), Saito
+       (2017a, 2023) to other works on the ecological crisis that invoke a broadly Marxist frame of reference,
+       such as Hornborg (2019) and Fraser (2022). Despite their significant theoretical differences, these works
+       reject implicitly or explicitly the idea that the current crises require thinking about hybridity. On this, see
+       also the discussion in Battistoni (2017).             
+       18 Battistoni anticipates some of the resistance to her extension, but her proposal has been critically
+       attacked, for instance by Büscher (2022). See also the discussion of monism in Saito (2023)—chapter 4,
+       footnote 28—or Hornborg’s (2020) critique of Jason W. Moore.
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+       Hybrid alienation: reproductive labour and emancipation in the… Page 13 of 19 16
+                                                             
+       from environmental thinkers who have long been critical of the anthropocentrism
+       that underlies much political thought. If we hope to extend such a profoundly human
+       category as alienation to include non-humans, such criticisms need to be addressed.
+       Both critiques shift the focus to asking if these categories can really be said to hold of
+       non-humans. Thereby, they lose track of the theoretical payoff and strengths of this
+       hybrid analysis, which I suggest lies in its functionalism, rather than its essential or
+       ontological claims. That is, the critique of hybrid labour or hybrid alienation as an
+       undue extension of properly human categories to the natural world misses that these
+       are assessments of the functional operation of the capitalist organisation. Neither Bat-
+       tistoni’s hybrid labour nor my proposed hybrid alienation is committed to the claim
+       that non-humans labour or are alienated in any essential sense. Rather, understanding
+       labour and alienation as hybrid processes, which structure and define what we con-
+       sider natural, reveals the role played by the restricted, non-hybrid versions of these
+       concepts in upholding the capitalist organisation of the material world.
+         Nonetheless, both critiques touch on an important point: the latent essentialism
+       of alienation. For instance, the Marxist critique of alienation frequently relies on
+       the idea that alienated labour dehumanises us by distancing us from some human
+       essence.19 While Jaeggi’s reconstruction explicitly aims to avoid such essentialism,
+       there are at least two key moments in her argument where she seemingly has to rely
+       on it in some form or other.20 However, both moments pertain to questions of self-
+       appropriation and it is due to this individualist focus that these moments are trouble-
+       some. With the shift towards a more collective perspective in hybrid alienation, this
+       problem disappears. For even if hybrid alienation had to rely on some essentialism
+       to make the idea stick that it arises from a failed appropriation by the collective of its
+       constitution, this would merely require a commitment to the irreducibly and essen-
+       tially political character of the collective. It may be that we need to commit to the
+       point that the collective is fundamentally political to argue that, as long as reproduc-
+       tion is naturalised, we are alienated from the constitution of the collective. However,
+       the very point of hybrid alienation is to underscore that the constitution of the collec-
+       tive is a political question.                         
+         A distinct worry concerns the idea that the notion of appropriation can be made
+       useful for environmental thought. Due to its imbrication with domination and exploi-
+       tation, environmental thinkers have viewed appropriation critically.21 However, with
+       the distinction between Aneignung and Besitzergreifung made earlier, the idea under-
+       pinning Jaeggi’s concept of appropriation is one of identifying with the world and
+       recognising the extent to which this world might resist such domineering attitudes.
+       At the same time, this seems to be somewhat contradicted when Jaeggi puts forth that
+       to not be alienated, to lead one’s own life, one has then to become ‘master over one’s
+       own desires and decisions’ (2014, p. 202). In the context of hybrid alienation, such
+       terminology must sit uneasily with environmental concerns because it seems to har-
+       ken back to much criticised ideas of mastering nature. While Jaeggi does not address
+       such concerns, it is possible to see that she conceives of appropriation as a relation
+       19 See for example Braverman (1998).                  
+       20 See Jaeggi (2014, pp. 162–164; 168–170).           
+       21 On this point specifically, see Beau and Larrère (2018).
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+        16 Page 14 of 19                          C. Pierer  
+                                                             
+       that recognises as much the transformation of the world as the resistance this world
+       offers to the complete subjection to the will. This means the fluency required for this
+       mastery means also coming to terms with the independent existence of this world.
+       Even if ultimately the distinction between Aneignung and Besitzergreifung does not
+       hold up, and alienation cannot be dissociated from the idea that one ought to master
+       and dominate one’s world, this need not reproduce such attitudes towards nature.
+         On a minimal account, it would be sufficient for the diagnosis of hybrid alienation
+       to point to our inability to navigate questions concerning the political organisation of
+       the world, as long as parts thereof are obscured by naturalised reproduction, because
+       it presettles the question of the composition of the collective. At the same time, this
+       worry also touches on a troublesome aspect of alienation as failed appropriation.
+       Some environmental thinkers view appropriation critically because it requires a thor-
+       ough socialisation of nature. That is, nature would only become legible to the extent
+       that we have made it our own. The critique here is that nature disappears entirely
+       from the picture: it would not have any existence independent of its appropriation for
+       human use or concern.22 Not even the minimal account of appropriation would seem
+       able to skirt this risk. It is important to be precise here: the alienation diagnosis offers
+       a way to make the question of what is excluded from the collective, in Latourian
+       terms, into a conscious political question, to which there can only ever be temporary
+       answers and no definitive solution. It is this constantly negotiated question that we
+       (humans and non-humans) fail to appropriate under the present condition of alien-
+       ation. There is thus room for something like 'nature' to exist outside the sphere of
+       human appropriation, but where this line is drawn ought to be visible as the political
+       question it is.                                       
+         Both concerns hark back to the tension mentioned at the beginning of this section:
+       the inability of such a humanist category as alienation to avoid reinscribing a human/
+       nature distinction. We may ultimately be unable to fully overcome these distinctions
+       that so deeply structure our political vocabulary. Yet, as I further flesh out in the
+       next part, hybrid alienation indicates how we can take responsibility for a processual
+       drawing of these distinctions and make this into a matter of continuous renegotiation.
+       Labouring Collectives                                 
+       The previous part has argued that the naturalisation of reproduction is alienating
+       because it renders it impossible for us to make our own the profound political ques-
+       tions about the constitution of the collective. The functionalist reading of hybrid
+       labour advocated in the first part reveals labour as a crucial factor in the composition
+       of the collective. If the causal factor of our alienation is the naturalisation of repro-
+       duction, this lets us critique the valorisation of production while also bringing into
+       view the political construction of nature. The occlusion of this political construction
+       through naturalisation is at the source of our alienation. Hybrid alienation lets us cri-
+       tique the pre-emptive settling of the constitutive questions of the collective through
+                                                             
+       22 Hailwood (2015).                                   
+                                                             
+                                                             
+                                                             
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+       Hybrid alienation: reproductive labour and emancipation in the… Page 15 of 19 16
+                                                             
+       organisations of labour without inadvertently relying on a predefined sphere of nature
+       because it centres the troublesome reification of nature in the organisation of labour.
+         Labour’s role in the constitution of the collective is highlighted contemporary
+       investigations of multispecies entanglements in ongoing struggles. Chao (2021)
+       describes how oil palm plantations in West Papua with their non-human ‘friends’ and
+       ‘enemies’ are crucial aspects of the definition of the collective. On the one hand, the
+       plantation’s biological homogeneity makes it uniquely vulnerable to parasites. These
+       non-human actors afford paths of resistance to the kinds of development proposed
+       by the labours of agribusiness. On the other hand, Marind workers are hired in the
+       plantations to exterminate these parasites and foster the growth of organisms that
+       have developed mutualistic relationships with the oil palm. The entanglements of the
+       Marind workers with non-human actors capture the complex questions any collective
+       faces. In this complicated and ambiguous relationship to the oil palm plantation, the
+       question of labour lets us recover the question of the constitution of the collective.
+       The way we organise labour determines at the same time how we live together with
+       the non-human other. Banerjee and Wouters (2022) seize on a similar issue with their
+       concept of ‘multispecies demos’, On their account, if the industrial exploitation of
+       non-human beings cannot be dissociated from the restriction of political community
+       to humans, this is but one way of organising the collective life of humans and non-
+       humans. They urge us to recover ‘ancient and living multispecies polities—we must
+       reinvigorate diverse vocabularies of interspecies pact making—in order to construct
+       a more-than-human planetary demos’ (Banerjee & Wouters, 2022, p. 125). Starting
+       from already existing revolutionary communities, especially in the global south, they
+       frequently appears to rely on the idea that pre-capitalist communities offer a nor-
+       mative reservoir that can readily be tapped to provide alternatives. Yet, if we fol-
+       low the strand of labour that also emerges in these struggles as a critical category,
+       this can translate to an immanent critique. Banerjee and Wouters find inspiration in
+       more-than-human resistance with a feminist twist to this capitalist organisation.23 For
+       instance, they suggest that yak refusal to subordination, to recognize borders, and to
+       comply with excessive demands through milking or forced impregnation, indicates a
+       potential for a multispecies feminist resistance to the capitalist exploitation of labour.
+       Through the lens of hybrid labour and alienation, this refusal can appear as a chal-
+       lenge to the capitalist naturalisation of these processes. The refusal indicates that
+       these arrangements are not simply pre-settled by nature but rather continue to be
+       matters of ongoing negotiations and contestations. The problem of hybrid alienation
+       emerges most clearly in contexts such as the plantation or yak exploitation where the
+       naturalisations that underpin the production/reproduction pairing are in the process
+       of being put in place.                                
+         With this, we can then ask what forms of collectively organising labour do not
+       alienate us from these constitutive questions of the collective by requiring us to rely
+       on a naturalised reproduction? In part, this already indicates its own resolution: as
+       23 While Banerjee and Wouters reference the WfH demand when they call for ‘wages for animals and
+       plants who labor and create value for us. And then we shall replace the wage form altogether by an abun-
+       dance where our communities will freely give what we require for being’ (2022, pp. 121–122), this link is
+       not developed any further.                            
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+        16 Page 16 of 19                          C. Pierer  
+                                                             
+       long as we naturalise reproduction, we cannot make constitutive decisions about the
+       collective our own because we inadvertently rely on a pre-defined sphere of nature.
+       The question of labour is thus inscribed at the heart of the constitution of the col-
+       lective. Hybrid labour underscores the fact that the question of who is politically
+       relevant and who we can live with is intrinsically related to the forms of labour we
+       valorise. Part of the problem we face, as the WfH movement’s autonomist argument
+       has revealed, is that, because the contemporary understanding of labour relies on a
+       reification of nature, it has to be turned against itself. Therefore, what the functionalist
+       reading of hybrid labour underscores is that the question of whether nonhumans truly
+       labour is beside the point because the important insight is that their role and indeed
+       ‘nature’ is determined by the way we organise labour. The shape of this common
+       world is not presettled but emerges as the result of labour negotiations that recognize
+       the activities of human and nonhuman workers. It is determined by answers to ques-
+       tions such as who is part of the collective but also what global average temperature
+       reigns over the planet. In other words, hybrid labour provides us with the means of
+       tracing these complex entanglements. However, the normative issue, from this per-
+       spective, with the current, capitalist organisation of labour and the answers it gives
+       to these questions is that it impedes our appropriation of the constitutive questions of
+       the collective. In this sense humans and non-humans are alienated from the process
+       of composing the collective. Analogously with hybrid labour above, the question of
+       whether non-humans can be truly said to be alienated would miss the point because
+       the functional understanding is supposed to highlight the normative issue at stake in
+       such an organisation of the collective. The point then is to recognise the centrality of
+       labour in the composition of the collective for our political lives and emancipatory
+       aspirations. This would require us to challenge our hybrid alienation.
+         Yet, this does not resolve the tension mentioned earlier. Insofar as it reproduces a
+       distinction between those who deliberate and those who do not, the critique of hybrid
+       alienation underscores the limits of such a hybridisation of our political categories.
+       The hybrid, functional understanding advocated here can only make such distinctions
+       visible as progressively configured and continuously renegotiated, rather than settle
+       them once and for all. While we may not be able to definitively overcome the prob-
+       lems highlighted by hybrid alienation, the critique opens a space where the drawing
+       of these boundaries becomes a key site of political contestation.
+       Conclusion                                            
+       In this article, I have developed functionalist accounts of both hybrid labour and
+       hybrid alienation to argue that a political organisation of labour which relies on the
+       naturalisation of reproduction alienates us by rendering it impossible to make fun-
+       damental decisions about the constitution of the collective our own. Through the
+       critique of hybrid alienation, the question of labour emerged as a key determinant of
+       the constitution of the collective.                   
+         These then are the merits of this hybrid understanding of alienation: It contributes
+       to efforts such as Battistoni’s to furnish considerations of nonhuman political agency
+       with the means to analyse more conventional forms of power and injustice. By tying
+                                                             
+                                                             
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+       Hybrid alienation: reproductive labour and emancipation in the… Page 17 of 19 16
+                                                             
+       the critique of reified nature to questions of the organisation of labour, the functional-
+       ist reading of hybrid labour makes visible that unjust and exploitative arrangements
+       of labour are entangled with the construction of nature and fundamental questions
+       concerning the constitution of the collective. Importantly, however, this leaves unre-
+       solved the problem of how to reject such an arrangement without falling back on a
+       reified nature or relying on conceptual shortcuts such as ‘the social’. I have argued
+       that hybrid alienation addresses this by providing normative reasons for why arrange-
+       ments that pre-settle the constitution of the collective are wrong. Hybrid alienation
+       thus indicates a way whereby we can bring such critical vocabulary of emancipa-
+       tory theories to bear on questions of the constitution of the collective. As a result, if
+       labour is reinscribed in this way as a central problem for the collective, at stake in the
+       tracking and paying careful attention to the constitution of the collective are not only
+       questions of ontology and epistemology, but also those of emancipation.
+       Acknowledgements I presented versions of this article at the 9th Political Theory Graduate Conference
+       (Sciences Po), organised by Marius Bickhardt, Gauthier Delozière, Maxime Gaborit, Léo Grillet, Claire
+       Lejeune, and Léna Silberzahn, as well as at the 2023 Annual Conference of the British and Ireland Asso-
+       ciation for Political Thought, organised by Udit Bhatia, Maxime Lepoutre, and Ashwini Vasanthakumar.
+       I would like to thank the organisers and conference participants for their invaluable input, as well as the
+       Cambridge Trust and St Edmund's College for their financial support enabling me to participate in these
+       conferences. In addition, I would also like to thank Duncan Kelly, Alyssa Battistoni, Sam Harrison, Nanna
+       Sætan, Baptiste Albertone, Benjamin Tan, Alina Utrata, and the members of the Cambridge Political The-
+       ory/History of Political Thought Writing Workshop for discussions and criticisms of earlier drafts, as well
+       as three anonymous reviewers for their comments and suggestions.
+       Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+       which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long
+       as you give appropriate credit to the original author(s) and the source, provide a link to the Creative
+       Commons licence, and indicate if changes were made. The images or other third party material in this
+       article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line
+       to the material. If material is not included in the article’s Creative Commons licence and your intended use
+       is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission
+       directly from the copyright holder. To view a copy of this licence, visit h t t p : / / c r e a t i v e c o m m o n s . o r g / l i c e n
+       s e s / b y / 4 . 0 / .                               
+       References                                            
+       Banerjee, M., & Wouters, J. J. P. (2022). Subaltern Studies 2.0: Being against the Capitalocene. Paradigm
+         62. Prickly Paradigm.                               
+       Barca, S. (2020). Forces of Reproduction: Notes for a Counter-Hegemonic Anthropocene. Cambridge ele-
+         ments. Elements in environmental humanities. Cambridge: Cambridge University Press.
+       Barua, M. (2019). Animating Capital: Work, Commodities, Circulation. Progress in Human Geography,
+         43(4), 650–669. SAGE Publications Ltd.              
+       Battistoni, A. (2017). Bringing in the Work of Nature: From Natural Capital to Hybrid Labor. Political
+         Theory, 45(1), 5–31.                                
+       Beau, R., & Larrère, C. (Eds.). (2018). Penser l’Anthropocène . Les Presses Sciences Po.
+       Biro, A. (2005). Denaturalizing Ecological Politics: Alienation from Nature from Rousseau to the Frank-
+         furt School and beyond. University of Toronto.      
+       Bonneuil, C., & Fressoz, J-B. (2013). L’événement anthropocène: La Terre, l’histoire et nous. Editions
+         du Seuil                                            
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+        16 Page 18 of 19                          C. Pierer  
+       Braverman, H., & Foster, J. B. (1998). Labor and Monopoly Capital: The Degradation of Work in the
+         Twentieth Century. 25th anniversary edition. New York: Monthly Review Press.
+       Büscher, B. (2022). The Nonhuman Turn: Critical Reflections on Alienation, Entanglement and Nature
+         under Capitalism. Dialogues in Human Geography, 12(1), 54–73. SAGE Publications.
+       Chakrabarty, D. (2009). The Climate of History: Four Theses. Critical Inquiry, 35(2), 197–222.
+       Chakrabarty, D. (2014). Climate and Capital: On Conjoined Histories. Critical Inquiry 41(1). The Univer-
+         sity of Chicago Press: 1–23.                        
+       Chakrabarty, D. (2021). The Climate of History in a Planetary Age. University of Chicago Press.
+       Chao, S. (2021). The Beetle or the Bug? Multispecies Politics in a West Papuan Oil Palm Plantation.
+         American Anthropologist, 123(3), 476–489.           
+       Charbonnier, P. (2017). A Genealogy of the Anthropocene. Annales Histoire Sciences Sociales, 72(2),
+         201–228.                                            
+       Charbonnier, P. (2020). Abondance et liberté: Une histoire environnementale des idées politiques. La
+         Découverte.                                         
+       Cotter, J. (2016). New Materialism and the Labor Theory of Value. The Minnesota Review, 2016(87),
+         171–181.                                            
+       Dalla Costa, M. (2012). Statement on ‘Women and the Subversion of the Community’ and Selma James’
+         Sex, Race, and Class, the Perspective of Winning (2012). Available at: h t t p s : / / s t a t i c 1 . s q u a r e s p a c e . c o
+         m / s t a t i c / 5 3 f 7 4 2 f e e 4 b 0 1 7 2 4 1 9 4 2 b d b e / t / 5 6 8 5 5 2 a 1 c 2 1 b 8 6 9 0 d 5 a 5 8 1 9 2 / 1 4 5 1 5 7 8 0 1 7 8 7 6 / M A R I A R O S
+         A + D A L L A + C O S T A + - + S T A T E M E N T + O N + _ W O M E N + A N D + T H E + S U B V E R S I O N + O F + T H E +
+         C O M M U N I T Y _ + A N D + S E L M A + J A M E S % E 2 % 8 0 % 9 9 + S E X + R A C E + A N D + C L A S S % 2 C + T H E +
+         P E R S P E C T I V E + O F + W I N N I N G + % 2 8 2 0 1 2 % 2 9 . p d f (accessed 18 May 2023).
+       Dalla Costa, M., & James, S. (1975). The Power of Women and the Subversion of the Community (3rd ed.).
+         Falling Wall Press Ltd.                             
+       Davis, H., & Todd, Z. (2017). On the Importance of a Date, or, Decolonizing the Anthropocene. ACME:
+         an International Journal for Critical Geographies, 16(4), 4: 761–780.
+       Fagan, M. (2019). On the Dangers of an Anthropocene Epoch: Geological Time, Political Time and Post-
+         human Politics. Political Geography, 70, 55–63.     
+       Federici, S. (2012). Counterplanning From the Kitchen. Revolution at point zero: Housework, Reproduc-
+         tion, and feminist struggle (pp. 40–53). Oakland; Brooklyn.
+       Federici, S. (2016). Our Struggle Will not Succeed Unless We Rebuild Society. Available at: (accessed 27
+         July 2022). https://sur.conectas.org/en/silvia-federici/
+       Federici, S. (2018). Silvia Federici Reflects on Wages for Housework. Available at: (accessed 20 July
+         2022). h t t p s : / / w w w . n e w f r a m e . c o m / s i l v i a - f e d e r i c i - r e fl e c t s - w a g e s - h o u s e w o r k /
+       Forrester, K. (2022). Feminist Demands and the Problem of Housework. American Political Science
+         Review. Cambridge University Press: 1–15.           
+       Foster, J. B. (2000). Marx’s Ecology: Materialism and Nature. Monthly Review.
+       Foster, J. B., Clark, B., & York, R. (2011). The Ecological Rift: Capitalism’s War on the Earth. New York
+         University.                                         
+       Fraser, N. (2022). Cannibal Capitalism: How Our System is Devouring Democracy, Care, and the
+         Planet—and what we can do about it. Verso.          
+       Getachew, A. (2022). Political Theory in the Age of the Planetary - Dipesh Chakrabarty: The Climate of
+         History in a Planetary Age. (Chicago: University of Chicago Press, 2021. Pp. 296.). The Review of
+         Politics 84(4): 601–604.                            
+       Hailwood, S. (2015). Alienation and Nature in Environmental Philosophy. Cambridge University Press.
+       Hallé, C., & Milon, A-S. (2020). The Infinity of the Anthropocene: A (Hi)story with a T housand Names.
+         In B. Latour, & P. Weibel (Eds.), Critical zones: The science and politics of landing on Earth (pp.
+         44–50). ZKM/Center for Art and Media.               
+       Haraway, D. J. (2016). Staying with the Trouble: Making Kin in the Chthulucene. Experimental Futures:
+         Technological Lives, Scientific Arts, Anthropological V oices. Duke University Press.
+       Hornborg, A. (2019). Nature, Society, and Justice in the Anthropocene: Unraveling the Money-Energy-
+         Technology Complex. Cambridge University Press.     
+       Hornborg, A. (2020). Dialectical Confusion: On Jason Moore’s Posthumanist Marxism. In: historical
+         materialism. Available at: h t t p s : / / w w w . h i s t o r i c a l m a t e r i a l i s m . o r g / b l o g / d i a l e c t i c a l - c o n f u s i o n - j a s o n - m
+         o o r e s - p o s t h u m a n i s t - m a r x i s m (accessed 26 October 2021).
+       International Union of Geological Sciences (2024). The Anthropocene: IUGS-ICS Statement. Available
+         at: h t t p s : / / w w w . i u g s . o r g / _ fi l e s / u g d / f 1 f c 0 7 _ 2 3 c 6 f 9 e 7 2 3 b c 4 7 b 9 b 5 f d c d 3 0 0 f 8 0 6 f 2 5 . p d f ? i n d e x = t r u e
+         (accessed 12 September 2024).                       
+
+[PAGE 19]
+                                                             
+                                                             
+                                                             
+       Hybrid alienation: reproductive labour and emancipation in the… Page 19 of 19 16
+       Jaeggi, R. (2006). Entfremdung: zur Aktualität eines sozialphilosophischen Problems: mit einem neuen
+         Nachwort. Erste Auflage. Suhrkamp Taschenbuch Wissenschaft 2185. Berlin: Suhrkamp.
+       Jaeggi, R. (2014). Alienation . Columbia University.  
+       James, S. (2012). Sex, Race and Class: The Perspective of Winning: A Selection of Writings, 1952–2011.
+         PM.                                                 
+       James, S. (2022). Global Women’s Strike/ Wages for Housework/ Selma James. Available at: https:
+         (accessed 28 June 2024).                            
+       James, S., & Lopez, N. (2021). An income to care for people and planet in James, S. Our time is now: Sex,
+         Race, Class, and caring for people and planet (1st ed., pp. 60–77). PM.
+       Kallis, G., & Swyngedouw, E. (2017). Do Bees Produce Value? A Conversation Between an Ecological
+         Economist and a Marxist Geographer. Capitalism Nature Socialism, 29(3), 36–50.
+       Krzywoszynska, A. (2020). Nonhuman Labor and the Making of Resources: Making Soils a Resource
+         Through Microbial Labor. Environmental Humanities, 12(1), 227–249.
+       Latour, B. (2007). Reassembling the Social: An Introduction to Actor-Network-Theory. Oxford University
+         Press. Clarendon Lectures in Management Studies.    
+       Latour, B. (2008). Politiques de la nature: Comment faire entrer les sciences en démocratie. Editions La
+         Découverte.                                         
+       Latour, B. (2010). Nous n’avons jamais été modernes: Essai d’anthropologie symétrique. Editions La
+         Découverte.                                         
+       Latour, B. (2022). Mémo sur la nouvelle classe écologique. Collection les empêcheurs de penser en Rond.
+         Éditions La Découverte.                             
+       Love, B. J. (2006). Feminists Who Changed America, 1963–1975. University of Illinois Press.
+       Malm, A. (2018). Therogress of this Storm: Nature and Society in a Warming World. Verso Books.
+       Malm, A. (2019). Against Hybridism: Why We Need to Distinguish between Nature and Society, Now
+         More than Ever. Historical Materialism 27(2). Brill: 156–187.
+       Mies, M. (2014). Patriarchy and Accumulation on a World Scale: Women in the International Division of
+         Labour. Zed Books. [New] edition.                   
+       Mitman, G. (2019). Donna Haraway and Anna Tsing Reflect on the Plantationocene. Available at: h t t p s : / /
+         e d g e e ff e c t s . n e t / h a r a w a y - t s i n g - p l a n t a t i o n o c e n e / (accessed 14 February 2023).
+       Moore, J. W. (2015). Capitalism in the Web of Life: Ecology and the Accumulation of Capital. Verso
+         Books.                                              
+       Moore, J. W. (2016). Anthropocene or Capitalocene? Nature, History, and the Crisis of Capitalism. PM.
+       Postone, M. (1996). Time, Labor, and Social Domination: A Reinterpretation of Marx’s Critical Theory.
+         Cambridge University Press.                         
+       Prescod, M., & Steele, N. (1980). Black Women: Bringing it All Back Home. Falling Wall.
+       Saitō, K. (2017a). Karl Marx’s Ecosocialism: Capitalism, Nature, and t he Unfinished Critique of Political
+         Economy. Monthly Review.                            
+       Saitō, K. (2017b). Marx in the Anthropocene: Value, Metabolic Rift, and the Non-Cartesian Dualism.
+         Zeitschrift für kritische Sozialtheorie und Philosophie 4(1–2). De Gruyter: 276–295.
+       Saitō, K. (2023). Marx in the Anthropocene: Towards the Idea of Degrowth Communism. Cambridge
+         University Press.                                   
+       Skiveren, T. (2023). New Materialism and the Eco-Marxist Challenge: Ontological Shadowboxing in the
+         Environmental Humanities. Environmental Humanities, 15(2), 181–194.
+       Toupin, L. (2018). Wages for Housework: The History of an International Feminist Movement, 1972-77
+         . Pluto.                                            
+       Washick, B., Wingrove, E., Ferguson, K. E. (2015). Politics that Matter: Thinking About Power and Jus-
+         tice w ith the New Materialists. Contemporary Political Theory 14(1). London, United Kingdom:
+         Palgrave Macmillan: 63–89.                          
+       Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps
+       and institutional affiliations.                       
+       Carl Pierer is a PhD candidate in politics and international studies at the University of Cambridge. His
+       research interests include critical and feminist theory, environmental politics, political ecology and the
+       history of political thought. Previous publications include ‘The Nature of Property: Locke and Labor in
+       the Anthropocene’. Environmental Ethics. 46:1 (spring 2024): 27–45, and (with Felix Creutzig), ‘Star-
+       shaped cities alleviate trade-off between climate change mitigation and adaptation’, Environ. Res. Lett.
+       14: 085011.                                           

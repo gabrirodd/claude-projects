@@ -1,0 +1,73 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "abolafia_2025",
+  "title": "Active and passive citizens: a defense of majoritarian democracy [Book Review]",
+  "author": "Abolafia",
+  "year": 2025,
+  "journal": "Contemporary Political Theory",
+
+  "opening_move": {
+    "type": "interpretive_proposition",
+    "description": "The review opens by framing Tuck's book as a Rousseau-inspired 'bombshell' in contemporary democratic theory, establishing the book's provocative stakes through Mill's metaphor.",
+    "anchored_in": ["Mill", "Rousseau"],
+    "stakes_claimed": "Understanding why electoral majorities today act in ways that threaten democratic foundations"
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["deliberative democrats", "economistic skeptics of voting", "representationalists"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": true,
+    "own_position_type": "internal_reconstruction",
+    "own_position_explicit": false,
+    "description": "The review engages sympathetically with Tuck's Rousseauian majoritarianism while pressing an immanent critique about the undertheorised cultural conditions for democratic unity."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_interpretive_case",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "close reading of Rousseau's texts and Tuck's argument",
+    "notes": "Book review genre — argument proceeds through textual interpretation of Tuck and Rousseau, raising a normative/theoretical lacuna (cultural conditions of democracy)"
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "philosophical_text",
+    "case_name": "Tuck, Active and Passive Citizens (2024); Rousseau, The Social Contract",
+    "case_function": "primary_object_of_analysis",
+    "case_relation_to_argument": "object_of_interpretation",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "medium",
+    "domain": "democratic theory",
+    "claim_type": "critical_diagnostic",
+    "closure_type": "open_ended_with_burden_on_reader"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "case_introduction",
+    "case_development",
+    "immanent_critique",
+    "meta_reflexive_qualification",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": true,
+
+  "key_concepts": ["majoritarian democracy", "general will", "ex post unanimity", "active citizenship", "cultural conditions of democracy", "radical democracy"],
+
+  "thinkers_deployed": {
+    "central": ["Rousseau", "Tuck"],
+    "engaged_critically": ["deliberative democrats"],
+    "referenced_only": ["Mill", "Marx", "Engels", "Schwartzberg", "Hobbes"]
+  },
+
+  "confidence_notes": "Book review genre is a clear case: the 'profile' reflects the reviewer's argumentative intervention (immanent critique of Tuck's omission of cultural conditions), not a standalone research paper. Move sequence maps the review's own rhetorical logic, not Tuck's book."
+}

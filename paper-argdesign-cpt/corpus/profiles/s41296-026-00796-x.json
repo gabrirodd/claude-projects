@@ -1,0 +1,76 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "machin_et_al_2026",
+  "title": "The turn to the imagination: transformation, politics and limits [Critical Exchange]",
+  "author": "Machin, Sachs Olsen, Death, Diehl, Hatzisavvidou, Marchart, Malzacher",
+  "year": 2026,
+  "journal": "Contemporary Political Theory",
+
+  "opening_move": {
+    "type": "field_diagnosis",
+    "description": "The exchange opens by naming and mapping a cross-disciplinary 'turn to the imagination': the concept of imaginaries is proliferating across the academy and beyond as a tool for understanding how political transformation is provoked, harnessed, and inhibited. The exchange asks what this turn means for political theory.",
+    "anchored_in": ["Castoriadis", "Laclau", "Taylor", "Jasanoff", "Anderson"],
+    "stakes_claimed": "Understanding the political imagination — its creative and destructive potential — is essential for theorising democratic transformation in the present moment of far-right resurgence and ecological crisis"
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["liberal democratic imaginaries", "far-right political imaginaries", "techno-optimist futures discourse"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": true,
+    "own_position_type": "framework_proposal",
+    "own_position_explicit": true,
+    "description": "A 7-author exchange mapping the political theory of imagination across multiple domains: far-right imaginaries, anti-colonial and decolonial imaginaries, postgrowth/ecosocialist/ecofeminist imaginaries, and theatre as political means. Draws on Castoriadis, Lefort, Laclau, Fanon, Mbembe, Yusoff."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_interpretive_case",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "conceptual analysis of social imaginaries; close reading of political theorists; analysis of theatrical practice as political form",
+    "notes": "Critical exchange (28 pages, 7 authors). Treated as single profile. The exchange uses theatre and political movements as interpretive cases to develop a normative account of political imagination and its transformative potential. No empirical data; argument is normative-theoretical with interpretive cases."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "political_event",
+    "case_name": "Far-right imaginaries; anti-colonial movements; ecosocialist/ecofeminist practice; theatre as political form",
+    "case_function": "illustration",
+    "case_relation_to_argument": "illustrative_and_generative",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "democracy / transformation / ecology / decolonisation",
+    "claim_type": "prescriptive",
+    "closure_type": "open_ended_with_burden_on_reader"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "framework_proposal",
+    "case_introduction",
+    "case_development",
+    "immanent_critique",
+    "normative_derivation",
+    "meta_reflexive_qualification",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": true,
+
+  "key_concepts": ["political imagination", "social imaginaries", "radical democracy", "decolonial imagination", "postgrowth imaginaries", "theatre and politics", "far-right imaginaries"],
+
+  "thinkers_deployed": {
+    "central": ["Castoriadis", "Laclau", "Lefort", "Fanon", "Mbembe"],
+    "engaged_critically": ["liberal democratic theory", "techno-optimist futures discourse"],
+    "referenced_only": ["Anderson", "Taylor", "Jasanoff", "Yusoff", "Lacan (implied)"]
+  },
+
+  "confidence_notes": "Critical exchange (28 pages, 7 authors). Treated as single profile. The exchange's breadth across multiple imaginaries and political domains makes clean typology assignment moderately difficult; 'normative_with_interpretive_case' best captures the use of political movements and theatre as generative interpretive objects for a normative theory of political imagination."
+}

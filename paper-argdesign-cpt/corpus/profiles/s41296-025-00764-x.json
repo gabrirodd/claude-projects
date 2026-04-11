@@ -1,0 +1,72 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "wapeemukwa_2025",
+  "title": "The late Marx's revolutionary roads: colonialism, gender, and indigenous communism [Book Review]",
+  "author": "Wapeemukwa",
+  "year": 2025,
+  "journal": "Contemporary Political Theory",
+
+  "opening_move": {
+    "type": "conceptual_gap",
+    "description": "The review opens by situating Anderson's book as recovering Marx's neglected post-1868 writings, arguing against scholars who dismiss this period and establishing its significance for understanding Marx's revised theory of revolution.",
+    "anchored_in": ["Anderson", "Stedman-Jones", "Saito"],
+    "stakes_claimed": "Marx's final years show a fundamental revision of his theory of revolution, race, and gender — recovering this corrects an Eurocentric and teleological reading of Marxism"
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["Stedman-Jones and others who dismiss late Marx", "unilinear Marxism"],
+    "engagement_structure": "immanent_critique",
+    "immanent_critique": true,
+    "own_position_type": "friendly_amendment",
+    "own_position_explicit": true,
+    "description": "The review endorses Anderson's recovery of late Marx while pressing an immanent critique: Anderson's use of 'dialectic' risks abstracting Haitian revolutionary history into a theoretical model."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_interpretive_case",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "textual and intellectual history; recovery of Marx's late notebooks",
+    "notes": "Book review; primarily expository with a focused immanent critique about the abstraction of Haiti from its own intellectual-political history."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "historical_event",
+    "case_name": "Marx's late notebooks; Haitian revolution (Saint-Domingue 1685-1861)",
+    "case_function": "primary_object_of_analysis",
+    "case_relation_to_argument": "object_of_interpretation",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "medium",
+    "domain": "Marxist theory / decolonisation / indigenous communism",
+    "claim_type": "critical_diagnostic",
+    "closure_type": "open_ended_with_burden_on_reader"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "case_introduction",
+    "case_development",
+    "immanent_critique",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["late Marx", "indigenous communism", "dialectic", "unilinear Marxism", "aleatory revolution", "colonial archives"],
+
+  "thinkers_deployed": {
+    "central": ["Anderson", "Marx"],
+    "engaged_critically": ["Stedman-Jones", "Anderson"],
+    "referenced_only": ["Saito", "Engels", "Morgan", "Kovalevsky"]
+  },
+
+  "confidence_notes": "Book review genre. The immanent critique about abstracting Haiti into a theoretical model is the reviewer's substantive contribution."
+}

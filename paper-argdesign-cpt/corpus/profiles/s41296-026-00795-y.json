@@ -1,0 +1,75 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "terwiel_davies_dilts_konya_lester_scott_tyson_2026",
+  "title": "Prison abolition [Critical Exchange]",
+  "author": "Terwiel, Davies, Dilts, Konya, Lester, Scott, Tyson",
+  "year": 2026,
+  "journal": "Contemporary Political Theory",
+
+  "opening_move": {
+    "type": "polemical_intervention",
+    "description": "The exchange opens with an urgent political diagnosis: criminalization, militarized policing, and mass imprisonment are at the heart of the Trump regime — immigration detention is at an all-time high, and prison abolition has become a pressing practical demand.",
+    "anchored_in": ["Davis (Angela)", "abolitionist tradition", "Trump regime immigration enforcement"],
+    "stakes_claimed": "Prison abolition is not a utopian demand but a politically urgent framework for understanding and dismantling carceral capitalism in the present"
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["reformist approaches to prison", "liberal carceral state", "post-racial incarceration discourse"],
+    "engagement_structure": "sustained_critique",
+    "immanent_critique": true,
+    "own_position_type": "external_alternative",
+    "own_position_explicit": true,
+    "description": "A 7-author critical exchange developing multiple perspectives on prison abolition as political theory: its relationship to democracy, care, disability, Indigenous decolonisation, and creative prefiguration."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_qualitative_empirical",
+    "secondary": null,
+    "empirical_evidence_present": true,
+    "empirical_evidence_role": "supportive",
+    "quantitative_methods": null,
+    "qualitative_methods": "analysis of carceral statistics, policy analysis, abolitionist movement studies",
+    "data_sources": ["Prison Policy Initiative data", "ICE detention statistics"],
+    "interpretive_methods": "critical race theory; feminist abolition theory; disability studies; Indigenous political thought",
+    "notes": "Critical exchange (28 pages, 7 authors). Statistical data on incarceration is supportive; the core argument is normative-theoretical for abolition as political vision."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "political_event",
+    "case_name": "Trump immigration detention; US carceral system; abolitionist movements",
+    "case_function": "illustration",
+    "case_relation_to_argument": "illustrative_and_generative",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "justice / race / sovereignty / carceral state",
+    "claim_type": "prescriptive",
+    "closure_type": "strong_normative_conclusion"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "empirical_presentation",
+    "rival_mapping",
+    "immanent_critique",
+    "framework_proposal",
+    "case_development",
+    "normative_derivation",
+    "conclusion_strong"
+  ],
+
+  "reflexive_move": true,
+
+  "key_concepts": ["prison abolition", "carceral capitalism", "abolitionist democracy", "prefiguration", "care as alternative", "disability and incarceration"],
+
+  "thinkers_deployed": {
+    "central": ["Davis (Angela)", "Gilmore (Ruth Wilson)", "Dayan", "Ben-Moshe"],
+    "engaged_critically": ["reformist prison policy", "liberal incarceration discourse"],
+    "referenced_only": ["Foucault", "Mbembe", "Indigenous abolitionists (implied)"]
+  },
+
+  "confidence_notes": "Critical exchange (28 pages, 7 authors). Treated as single profile. Qualitative empirical evidence (prison statistics) is supportive of the normative abolitionist argument."
+}

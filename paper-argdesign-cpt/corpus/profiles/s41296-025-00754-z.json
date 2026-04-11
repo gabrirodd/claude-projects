@@ -1,0 +1,73 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "dejongh_2025",
+  "title": "Reconsidering cosmopolitanism and forgiveness: Arendt, Derrida, and 'care for the world' [Book Review]",
+  "author": "de Jongh",
+  "year": 2025,
+  "journal": "Contemporary Political Theory",
+
+  "opening_move": {
+    "type": "polemical_intervention",
+    "description": "The review opens by situating Peys's book against a hostile political climate of xenophobia, framing it as a constructive contribution to rethinking cosmopolitan hospitality and political forgiveness.",
+    "anchored_in": ["Peys", "Arendt", "Derrida"],
+    "stakes_claimed": "Recovering the value of political forgiveness and cosmopolitan care in the face of contemporary dehumanising rhetoric"
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["Peys (reviewed author)"],
+    "engagement_structure": "immanent_critique",
+    "immanent_critique": true,
+    "own_position_type": "friendly_amendment",
+    "own_position_explicit": true,
+    "description": "The review accepts Peys's Arendtian-Derridean framework but presses an immanent critique: Peys reads Arendt's distinctions too sharply and underplays the material/labor dimension of worldly care."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_interpretive_case",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "close reading of philosophical texts (Arendt, Derrida, Peys)",
+    "notes": "Book review: argument is conducted through textual-philosophical interpretation; normative stake is the vision of cosmopolitan care for the world."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "philosophical_text",
+    "case_name": "Peys, Reconsidering Cosmopolitanism and Forgiveness (2020); Arendt, The Human Condition; Derrida on forgiveness/hospitality",
+    "case_function": "primary_object_of_analysis",
+    "case_relation_to_argument": "object_of_interpretation",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "medium",
+    "domain": "cosmopolitanism / democratic theory / ethics of forgiveness",
+    "claim_type": "reconstructive",
+    "closure_type": "open_ended_with_burden_on_reader"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "case_introduction",
+    "case_development",
+    "immanent_critique",
+    "framework_proposal",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["cosmopolitan hospitality", "political forgiveness", "care for the world", "amor mundi", "homo faber", "unconditional/conditional aporia"],
+
+  "thinkers_deployed": {
+    "central": ["Arendt", "Derrida", "Peys"],
+    "engaged_critically": ["Peys"],
+    "referenced_only": ["Myers", "Markell", "Rodriguez"]
+  },
+
+  "confidence_notes": "Book review genre. The reviewer's own amendment — that labor/material care should be integrated into Peys's framework — is the substantive normative contribution. Move sequence maps the review's argumentative logic."
+}

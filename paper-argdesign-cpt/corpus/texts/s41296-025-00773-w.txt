@@ -1,0 +1,1121 @@
+[PAGE 1]
+                                                             
+                                                             
+                                                             
+       Contemporary Political Theory (2025) 24:669–689       
+       https://doi.org/10.1057/s41296-025-00773-w            
+       ARTICLE                                               
+                                                             
+       Free speech and social change: a public reason approach
+                                                             
+       Matteo Bonotti1 · Zim Nwokora2                        
+                                                             
+                                                             
+       Accepted: 13 June 2025 / Published online: 30 July 2025
+       © The Author(s) 2025                                  
+                                                             
+       Abstract                                              
+       Free speech is a fundamental right in liberal democracies. Yet, liberal democracies
+       often face difficult decisions about whether, when and how to curtail various types
+       of speech—including hate speech, pornography, fake news, and offensive speech. In
+       this climate, there is a pressing need to reappraise the case for free speech protec-
+       tion and re-establish shared grounds for its legitimacy. This paper asks whether and
+       to what extent social change has affected the ability of the three main arguments
+       for free speech—truth, autonomy, and democracy—to provide a public justification
+       for (and therefore legitimize) free speech protection. By drawing on John Rawls’s
+       (2005) idea of public reason we evaluate the main arguments for free speech in soci-
+       eties transformed by five processes: greater individualism, international migration,
+       post-truth communication, increasing awareness of cognitive biases, and rapid tech-
+       nological change. We conclude that the truth and autonomy arguments lose their
+       force as a result of these processes and that only the democracy argument can pro-
+       vide a public justification for free speech as a constitutionally protected right in con-
+       temporary democratic societies characterized by social change.
+       Keywords Free speech · Truth · Autonomy · Democracy · Social change · Public
+       reason                                                
+                                                             
+       Free speech is a fundamental right in liberal democracies. Yet, liberal democracies
+       often face difficult decisions about whether, when and how to curtail various types
+       of speech—including hate speech, pornography, fake news, and offensive speech—
+       resulting in increasingly polarized debates on free speech and its regulation (Bonotti
+                                                             
+       *                                                     
+         Matteo Bonotti                                      
+         matteo.bonotti@monash.edu                           
+         Zim Nwokora                                         
+         z.nwokora@deakin.edu.au                             
+       1 Monash University, Politics and International Relations, School of Social Sciences, Clayton
+         Campus, Melbourne, VIC 3800, Australia              
+       2 Deakin University, School of Humanities and Social Sciences, Burwood Campus, Melbourne,
+         VIC 3125, Australia                                 
+                                             Vol.:(0123456789)
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+       670                                  M. Bonotti, Z. Nwokora
+                                                             
+       & Seglow, 2021). In this climate, there is a pressing need to reappraise the case for
+       free speech protection and re-establish shared grounds for its legitimacy.
+         A vast normative scholarship debates free speech regulation, including the
+       question of why free speech deserves to be protected in the first place. For exam-
+       ple, some have argued that free speech can help preserve diversity, pluralism, and
+       toleration, which are central values in liberal societies; others that free speech
+       protection provides a safeguard against governments’ inclination to expand their
+       legal and policy powers, or against the possibility that they might make wrong
+       decisions (for a summary of these arguments, see Barendt, 2005; Bonotti &
+       Seglow, 2021). There have also been some limited endeavours to defend feminist
+       (Williams, 2009) and Marxist (Heinze, 2018a, 2018b) arguments for free speech.
+         While acknowledging these varied justifications for free speech, we focus here
+       on the truth, autonomy, and democracy arguments. This is partly for pragmatic
+       reasons—with a narrower focus we can engage in a more systematic analysis of
+       these arguments—but also, more fundamentally, because they are the most prom-
+       inent in the literature on free speech as well as in US First Amendment debates
+       and legal and political debates about free speech in many other liberal democra-
+       cies (Barendt, 2005; Bonotti & Seglow, 2021). We analyse, more specifically, the
+       largely unaddressed questions of whether and to what extent social change has
+       affected the ability of these arguments to provide a public justification for (and
+       therefore legitimize) free speech protection.         
+         The conception of public justification that we rely on is John Rawls’s (2005)
+       idea of public reason, i.e. the view that political rules are legitimate only if they
+       are justified based on reasons that all citizens, as free and equal, could accept
+       at some level of idealization. According to Rawls and other political liberals,
+       appealing to public reasons is especially important to justify constitutional prin-
+       ciples, including a constitutionally protected right to free speech (e.g. as in the
+       US First Amendment). We evaluate, in terms of public reason, the main argu-
+       ments advanced in support of free speech (i.e. truth, autonomy, and democracy)
+       in societies transformed by five processes: greater individualism, international
+       migration, post-truth communication, increasing awareness of cognitive biases,
+       and rapid technological change. The three free speech arguments we focus on
+       were mostly conceived between the late nineteenth century and the immediate
+       post-WWII decades, but they continue to resonate strongly in the scholarship
+       and in legal and political debates about free speech. Our analysis aims to clarify
+       whether, given the markedly different context of contemporary liberal democra-
+       cies, free speech protection can still be justified by these arguments.
+         Our approach has the virtue of drawing together several contemporary forces
+       of social change, on the one hand, and the main justifications for free speech, on
+       the other hand, to provide a fairly holistic assessment of the rationales underlying
+       this fundamental right. By contrast, previous studies in this research agenda limit
+       their attention to specific justifications for free speech (e.g. Brison, 1998; Post,
+       2011); or particular forms of speech such as hate speech (e.g. Brown, 2015a,
+       2015b; Waldron, 2012), pornography (e.g. Langton, 1993, 2009; McGowan,
+       2019), and disinformation (e.g. Chambers, 2021; Schauer, 2012); or a single
+       change process such as the emergence of broadcast television (Fiss, 1986) or
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+       Free speech and social change: a public reason approach 671
+                                                             
+       online communication (Brison & Gelber, 2019). The more integrated perspective
+       that we offer here provides a better basis to demonstrate the special merits of the
+       democracy argument, particularly when it is understood as a case for deliberative
+       democracy, as a justification for free speech in the context of a modern liberal
+       democracy.                                            
+         It should be noted that while we often refer to liberal democracies in general, our
+       more precise focus is the group of high-income liberal democracies in North America
+       (the United States and Canada), Western Europe (e.g. Britain, Germany, and France),
+       and Oceania (Australia and New Zealand). Despite stark differences in the regulation
+       on free speech in these countries—compare, for example, the permissive free speech
+       environment in the US with the more controlled environments of Britain, Germany,
+       and Austria where hate speech and/or Holocaust denial are regulated (Barendt, 2005)—
+       they together represent the arena in which the debates on free speech have mostly
+       developed and, critically for our analysis, the social changes we focus on have been
+       most prominent. As this suggests, we understand social change as a cluster of develop-
+       ments within a particular context, not a homogeneous and uniform process.
+         The paper proceeds as follows. First, we set out a ‘public reason test’ for the pro-
+       tection of free speech in liberal democracies. The constitutional protection of free
+       speech is legitimate, we contend, when it is justified by appealing to widely accepted
+       public reasons. Crucially, however, these reasons cannot be assessed in the abstract
+       or in isolation from prevailing social norms and thus social change. Developing this
+       argument in this second section, we identify five social change processes that can
+       strengthen or weaken arguments for free speech grounded in truth, autonomy, or
+       democracy. These processes, the literature suggests, have significant and lasting con-
+       sequences, but they also have contrasting effects on the three free speech rationales.
+       In particular, the truth and autonomy arguments lose their force as a result of social
+       change. The third section explains why this is the case. The democracy argument,
+       however, is strengthened by social change, as we explain in the fourth section. From
+       this we conclude that only the democracy argument can provide a public justifica-
+       tion for free speech as a constitutionally protected right in contemporary democratic
+       societies, while the other arguments can no longer satisfy this condition.
+       The legitimacy of free speech: public reason and social change
+       Our approach to free speech is grounded in public reason. In this section, we flesh
+       out this notion and explain how free speech arguments can be assessed in terms of
+       public reason, and how this approach can be used to assess free speech arguments
+       under conditions of social change.                    
+         Public reason is a widely endorsed ideal in contemporary liberal political the-
+       ory. It demands that, in view of reasonable disagreement and in order to respect
+       citizens as free and equal persons, political rules (and especially constitutional prin-
+       ciples, including free speech) are only legitimate if they are justified with reasons
+       that all citizens could accept at some level of idealization and despite their differ-
+       ent conceptions of the good (Rawls, 2005). Public reasons should appeal to shared
+       political values such as individual liberty, equality of opportunity, and values tied to
+                                                             
+                                                             
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+       672                                  M. Bonotti, Z. Nwokora
+                                                             
+       the common good (moral content) as well as to shared ‘guidelines of inquiry’, ‘the
+       methods and conclusions of science’, and ‘plain truths now widely accepted’ (epis-
+       temic/factual content) (Rawls, 2005, pp. 224, 225).   
+         Some of the existing literature on free speech does consider empirical evidence—
+       for instance, in relation to hate speech and pornography—in the evaluation of argu-
+       ments for the protection and regulation of free speech (see, e.g. Bonotti & Seglow,
+       2021). But our analysis is distinctive compared to this work because, rather than
+       focusing on specific instances of free speech, it develops an approach that can be
+       applied across different contexts and categories of speech, and which also assigns a
+       central importance to social change. Public reason should be sensitive to empirical
+       reality and social change. As Rawls himself argues, political rules should be publicly
+       justified by appealing to ‘presently accepted general beliefs and forms of reason-
+       ing…[and]…plain truths now widely accepted, or available, to citizens generally’
+       (Rawls, 2005, pp. 224, 225, emphasis added). And, he adds, ‘new variations [of
+       public reason] may be proposed from time to time and older ones may cease to be
+       represented. It is important that this be so; otherwise the claims of groups or inter-
+       ests arising from social change might be repressed and fail to gain their appropriate
+       political voice’ (Rawls, 2005, p. 452, emphasis added).
+         Some authors have questioned the ability of public reason to accommodate new
+       ideas and justifications for political rules as a result of social change, thus criticiz-
+       ing it for being overly conservative. According to Waldron, for example, ‘Rawls’
+       conception seems to [imply]…that something counts as a legitimate move in public
+       reasoning only to the extent that it latches onto existing premises that everybody
+       already shared’ (1993, pp. 837–8). However, Solum (1996) and Flanders (2012)
+       have cogently shown that Rawls’s emphasis on ‘available’ reasons in the aforemen-
+       tioned passage can accommodate social change: citizens, that is, may not be pres-
+       ently accepting certain (novel) reasons but they could if they considered them care-
+       fully, or they might already accept them without realizing it. This may allow scope
+       for novel reasons reflecting social change. Acknowledging the mutability of public
+       reason is particularly important at times when a society is undergoing transforma-
+       tive change, to ensure that its constitution does not become ‘outdated’ and instead
+       remains anchored in the values of the society it seeks to reflect and support (Nwok-
+       ora, 2022).                                           
+         Social change can affect both the moral and the empirical (i.e. epistemic and
+       factual) content of public reason. When it comes to its moral content, for example,
+       values such as gender and racial equality have gradually become part of the shared
+       public political culture of liberal democracies, but they were not in the past. As these
+       societies evolve, values related to, say, environmentalism (White & Ypi, 2016, Ch.
+       3) or animal welfare (Flanders, 2014), as well as more refined understandings of
+       existing shared political values, may also become part of that shared public politi-
+       cal culture. However, the opposite process, involving a haemorrhaging of shared
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+       Free speech and social change: a public reason approach 673
+                                                             
+       political values, may also occur in a polarizing society.1 Our key point is that social
+       change can affect the moral content of public reason to the extent that it affects (i.e.
+       increases or decreases) the agreement on certain values. But social change can also
+       affect the empirical content of public reason if, for example, the empirical assump-
+       tions underlying the public justification for free speech protection no longer hold
+       or are shown to be flawed. It is therefore important to incorporate current evidence
+       about social reality into the process of public reasoning.
+         Using public reason as the touchstone, our goal in the remainder of the paper is to
+       evaluate the three main arguments for free speech—based on truth, autonomy, and
+       democracy—in light of social change. Each of the arguments has a moral compo-
+       nent (i.e. the normative goal that free speech, according to that argument, can help
+       to realize) and an empirical component (i.e. the empirical conditions, not always
+       explicit, which the argument assumes). We consider how these arguments, in both of
+       their aspects, have been affected by several prominent processes of change in West-
+       ern liberal democracies. By doing so, we are able to clarify how social change has
+       reconfigured the legitimation of free speech protection.
+       Processes of social change                            
+                                                             
+       Free speech scholars have often been attentive to the consequences for speech aris-
+       ing from particular instances social change, for example in relation to issues such as
+       hate speech (e.g. Brown, 2015a, 2015b; Waldron, 2012), pornography (e.g. Langton,
+       1993, 2009; McGowan, 2019), fake news and conspiracism (e.g. Chambers, 2021;
+       Schauer, 2012), no-platforming (e.g. Simpson, 2020), and online speech (Brison &
+       Gelber, 2019). However, a limit of this literature is that it applies the main existing
+       arguments for free speech to specific instances of social change without developing
+       a more holistic and systematic reflection on whether and how social change more
+       generally (and in its various broad manifestations) may challenge the very legiti-
+       macy of those arguments.                              
+         A rare exception to this tendency is provided by Owen Fiss who, writing in the
+       1980s, highlighted the impact of modern mass communication on US free speech
+       jurisprudence. Fiss observed that the Free Speech Tradition—the collection of
+       encounters between the Supreme Court and the US First Amendment—is defined by
+       the simple but powerful image of the street corner speaker who risks being silenced
+       by the state (in particular, a police officer) (see also Schauer, 1983). Free speech
+       jurisprudence has largely been an effort to protect the speaker by restricting the
+       police officer in all but the most extreme of circumstances (e.g. when the speaker is
+       inciting a mob). As Fiss stressed, however, ‘today [in 1986, at the time of his writ-
+       ing] there are no street corners’ (1986, p. 1409). A framework built from this prem-
+       ise, he thought, was ill-equipped for more modern political communication. For
+       1 There may also be the challenge, in a polarizing society, of a splintering of ‘the public’ into multiple
+       publics including, potentially, ‘anti-publics’ who flout democratic norms (Davis, 2021). Creating oppor-
+       tunities for deliberation is critical in such circumstances because deliberation can be an antidote to polar-
+       ization (Fishkin et al., 2021).                       
+                                                             
+                                                             
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+       674                                  M. Bonotti, Z. Nwokora
+                                                             
+       Fiss, the main challenge was the emergence of broadcast television as networks such
+       as CBS (which served as the focal case in his study) were both forum and speaker,
+       and both private and public. Their presence therefore demanded ‘a reevaluation of
+       the stereotypical roles portrayed in the Tradition’s little drama’ (Fiss, 1986, p. 1414).
+       Were Fiss writing today, he would no doubt see further and perhaps bigger issues
+       arising from more recent changes to the mass media landscape, including the rise of
+       the Internet and social media (see, e.g. Brison & Gelber, 2019).
+         Here, following Fiss, we also ask how the legitimacy of free speech has been
+       shaped by empirical considerations. But we consider a wider range of empirical
+       processes than Fiss did, drawing from the vast, multidisciplinary scholarship on the
+       modern forces of social change (e.g. Inglehart, 2016; Kymlicka, 1995; McGinnis,
+       2013; Muirhead & Rosenblum, 2019; Thaler & Sunstein, 2008). From this work we
+       identify five transformations with potentially serious consequences for free speech,
+       but which have not been brought into systematic dialogue with theoretical debates
+       about free speech. We do not regard these processes as the only ways in which lib-
+       eral democracies have changed in recent times, but we do think that they stand out
+       as crucial empirical developments that matter for the legitimization of free speech.
+       Given the large literatures on each of these processes, we are unable to provide a
+       detailed review of the nuances and debates associated with each and instead rely on
+       a few influential or representative sources.          
+         The first process of change we consider is greater individualism. By this, we
+       mean the rise of a seemingly boundless focus on the individual—their expression,
+       preferences, and worth. This development has been variously described in the schol-
+       arship and rooted in different causal stories. According to one influential account
+       (Inglehart, 2016), sustained economic growth in advanced industrial economies
+       during the post-WWII years has produced ‘postmaterialist’ values, centred on indi-
+       vidual autonomy, self-expression, and identity, which in turn reflect the desire of
+       individuals to be emancipated from authority so that they can freely exercise their
+       own choices. Ronald Inglehart and his collaborators documented the rise of these
+       values in Western mass publics, and their potential to transform issue agendas, vot-
+       ing behaviour, and party systems (e.g. Inglehart & Welzel, 2005; Norris & Ingle-
+       hart, 2019). Similarly, Wendy Brown (2015a, 2015b) charts the marketization of
+       society, driven by neoliberalism, which has profoundly changed how human beings
+       see themselves. No longer do we expect ourselves, and others, to take up different
+       personas in different domains, including collective identities in politics (e.g. citizen-
+       ship and class). Instead, homo economicus—a figure who acts only to advance their
+       personal preferences and interests—reigns supreme in all fields of life.
+         The second change is international migration. Most liberal democracies have
+       been transformed by migration and, from the 1980s onwards, the vast bulk of move-
+       ment has been from low-income countries to a small group of advanced industri-
+       alized (and mostly Western) countries (e.g. Castles, 2002). A result has been the
+       importation to these liberal democracies of new cultural traits and increasing ethnic,
+       linguistic, and religious diversity, compounding the new identities (e.g. around gen-
+       der and sexuality) that have become prominent as a result of value change (Vertovec,
+       2007; see also Kymlicka, 1995).                       
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+       Free speech and social change: a public reason approach 675
+                                                             
+         A third change to consider is the rise of post-truth communication. There has
+       long been a conspiratorial strain in public opinion, which has challenged official
+       narratives and the legitimacy of established authorities in fields such as politics, the
+       media, and science. In recent years, however, conspiratorial thinking has become
+       increasingly widespread and influential (Muirhead & Rosenblum, 2019). Conspira-
+       cist ideologies sometimes even question the existence of an objective truth, giving
+       adherents the prerogative to ‘do their own research’ and establish their own ‘facts’.2
+         The fourth social change is the behavioural turn. In recent years, and particu-
+       larly following the publication of Nudge (Thaler & Sunstein, 2008), there has been
+       a growing understanding of the biases, heuristics, fallacies, and other cognitive ten-
+       dencies that invalidate the model of individuals as purely rational agents. Though
+       this realization has deep roots in economics and psychology (e.g. Tversky & Kah-
+       neman, 1974), it is only in the past two decades that behavioural assumptions have
+       gained traction in policy circles, including through the establishment of specialized
+       behavioural policy units in countries such as Britain and the US that seek to embed
+       behavioural science into the policy-making process.   
+         Finally, an account of social change processes must consider the role of technol-
+       ogy and the information explosion. Technology has always influenced how democ-
+       racy works. But in recent decades, the acceleration of technology and especially
+       computing power has created new opportunities and constraints (e.g. McGinnis,
+       2013). Among the opportunities are the potential for technology to improve the flow
+       of knowledge and facilitate social and political mobilization. However, the abun-
+       dance of information introduces new cognitive burdens as individuals and institu-
+       tions have to manage the risk of information overload and discern true from false
+       pieces of information.                                
+         No systematic attention has been paid to the implications of these five social
+       changes for free speech debates. Yet free speech arguments are advanced, debated,
+       and evaluated as the basis for legal (including constitutional) protection under
+       empirical conditions that can change, and indeed have done just that. The relevant
+       conditions are not always explicated when free speech arguments are formulated and
+       debated but rather constitute part of their assumed ‘background’. Whatever the sta-
+       tus of its empirical elements, the legitimacy of an argument justifying the constitu-
+       tional protection of free speech may need to be reviewed with the passage of time
+       because of the potential for change in the relevant social conditions.
+         In the following sections, we reassess the three main arguments for free speech
+       in light of the aforementioned social changes. For each argument, we identify the
+       social assumptions underlying it; explain how these conditions have been affected
+       by the various social change processes; and clarify how the status of each argument,
+       as a public justification for constitutional free speech protection, has been affected as
+       a result.                                             
+       2 One need not be a conspiracist in order to challenge the idea of an objective or universal truth. A ‘post-
+       truth’ perspective has indeed been central to postmodernism at least since the late 1970s (Lyotard, 1984).
+                                                             
+                                                             
+                                                             
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+       676                                  M. Bonotti, Z. Nwokora
+       The three arguments for free speech                   
+                                                             
+                                                             
+       The truth argument for free speech was originally defended by John Stuart Mill
+       in his essay On Liberty (Mill, 2006) and is often related to the ‘marketplace of
+       ideas’ metaphor (Abrams v United States, 1919). According to Mill, free speech
+       can help us discover the truth and hold well-founded opinions. This argument
+       involves three more specific sub-arguments. For a start, silencing an opinion may
+       deprive us of the truth if that opinion is correct (e.g. Galileo Galilei’s heliocentric
+       theory). But even if an opinion is false, Mill argues, silencing it is still wrong
+       since only by confronting and refuting false opinions can we hold true opinions
+       in a critical and meaningful way, rather than as ‘dead dogmas’. Third, in many
+       areas of life, Mill argues, the truth is not contained in one individual opinion but
+       rather shared among multiple opinions; only by combining these partial truths
+       can we discover the full truth. It is important to stress that, for Mill, not all areas
+       of inquiry benefit from free speech and public debate. In scientific disciplines, for
+       example, many factual truths are well-established and, therefore, we would not
+       gain much benefit (i.e. not as much as in the case of philosophical, ethical, politi-
+       cal, and religious disputes) from the exchange of opinions, especially false ones
+       (see also Mckinnon, 2007). Indeed, a genuine process of truth discovery in areas
+       such as ethics and politics must take established factual truths for granted. As
+       Hannah Arendt argues,                                 
+         [f]acts inform opinions, and opinions, inspired by different interests and
+         passions, can differ widely and still be legitimate as long as they respect
+         factual truth. Freedom of opinion is a farce unless factual information is
+         guaranteed and the facts themselves are not in dispute (1968, p. 238).
+         A second widely endorsed argument for freedom of speech grounds its value
+       in its contribution to the exercise of individual autonomy. While this argument
+       began to be systematically developed in the late twentieth century, especially
+       in connection with debates concerning pornography and censorship, its roots
+       are much older. Indeed, they can be traced back to the work of Immanuel Kant
+       (1996), for whom the enlightenment was made possible by the free use of rea-
+       son in public discourse (see also Sweet, 2024) as well as to Mill’s own work.
+       Indeed, although truth discovery, we explained earlier, is the key foundational
+       value underlying his theory of free speech, Mill also thought that it was impor-
+       tant that people discover the truth by employing their deliberative faculties and
+       critical reasoning; speech that contributes to this process (which is not all speech)
+       is valuable because it is central to individual flourishing and well-being (Brink,
+       2008).                                                
+         There are procedural and substantive versions of the autonomy argument.
+       According to the former, which are mostly defended from a listener-centred per-
+       spective, free speech should be protected in order to respect the sphere of indi-
+       vidual autonomy within which citizens can decide what opinions to listen to,
+       what to make of them, and how to act accordingly (e.g. Dworkin, 1981; Scanlon,
+       1972). Substantive versions of the autonomy argument, which tend to be more
+                                                             
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+       Free speech and social change: a public reason approach 677
+                                                             
+       (but are not exclusively) speaker-centred, emphasize instead how free speech can
+       contribute to individual self-fulfilment by helping individuals flourish as autono-
+       mous self-determining beings, capable of expressing and critically reflecting on
+       others’ opinions and thus realizing their potential, either as speakers or as lis-
+       teners (Baker, 2011; Redish, 1982). In a more recent version of the substantive
+       autonomy argument, Seana Shiffrin (2014) argues that we can only fully grasp the
+       distinctive content of our own minds, and be recognized by others as individuals
+       with our own views, if we can engage in unconstrained communication protected
+       by free speech.                                       
+         The third major argument for free speech appeals to the value of democracy:
+       only by having access to (and being able to express) opinions freely can citizens
+       acquire the information they need to participate in democratic life, contribute to
+       public debate, and hold their representatives accountable (Meiklejohn, 1948). Like
+       the truth and autonomy arguments for free speech, the democracy argument too pre-
+       sents different versions. For example, Cass Sunstein (1993) makes the distinction
+       between ‘high-value’ political and artistic speech, which contributes significantly to
+       democratic deliberation and therefore may only be subject to time, place and man-
+       ner restrictions (rather than viewpoint- and content-based ones), and ‘low-value’
+       speech, which is less essential for deliberation and may be subject to greater regula-
+       tion. Dworkin (2009) and Weinstein (2011) defend a slightly different version of the
+       argument, centred on the link between free speech and political legitimacy, whereas
+       Post (2011) contends that citizens’ freedom to participate in and affect public delib-
+       eration through their speech is crucial for their ability to view themselves as authors
+       of the law. Yet another argument for free speech that appeals to the value of democ-
+       racy—albeit more indirectly—is the view that free speech helps maintain a bal-
+       ance between stability and change by allowing the expression of grievances which,
+       through public discussion, can lead to social and political change, thus preventing
+       turmoil and ‘maintaining economic and social conditions under which the ground
+       rules of democracy can operate’ (Emerson, 1962–1963, 886).
+         Here, for the sake of simplicity, we set these fine-grained distinctions aside. How-
+       ever, we believe that all these different versions of the democracy argument for free
+       speech share (explicitly or implicitly) an underlying assumption, i.e. that free speech
+       is crucial for democracy if the latter is understood in deliberative terms. Accord-
+       ing to theories of deliberative democracy, democratic decisions should not be based
+       on the mere aggregation of citizens’ preferences and on majority rule but rather on
+       careful discussion and the force of the better argument (O’Flynn, 2021). We believe
+       that this is the conception of democracy that best justifies the protection of free
+       speech: if one considers deliberation as central to democracy, then one is also likely
+       to assign special importance to citizens’ right to freely communicate and exchange
+       ideas in deliberative forums. Furthermore, we also accept the contention, supported
+       by empirical evidence (e.g. Hong & Page, 2004; Landemore & Elster, 2012; Page,
+       2007), that deliberative democracy can produce clear epistemic benefits by pooling
+       information, correcting biases and logical fallacies, and encouraging a diversity of
+       perspectives, all of which can contribute to better decision-making (Benson, 2021).
+         It should be noted that, by claiming that the three main free speech arguments
+       were mostly conceived between the late nineteenth century and the immediate
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+       678                                  M. Bonotti, Z. Nwokora
+                                                             
+       post-WWII decades, with hardly any innovations after the 1980s, we do not intend to
+       suggest that there have not been attempts to offer new accounts of—or perspectives
+       on—these arguments that are more fitting to contemporary culture, and which for
+       example respond to demands raised by social justice movements or take into account
+       the increasing use of social media. However, these new accounts and perspectives
+       tend to involve the application of the existing arguments to new scenarios rather
+       than the formulation of new or revised arguments. Consider, for example, one of the
+       major edited collections on free speech and the Internet published in recent years
+       (Brison & Gelber, 2019). Contributors’ references to the three main justifications for
+       free speech protection include very traditional understandings of truth (Post, 2019,
+       p. 130), individual autonomy (Keats Citron, 2019, p. 131), and democracy (Whit-
+       ney & Simpson, 2019, p. 44). However, rather than developing new justifications
+       for free speech, these and other authors aim to establish, first, whether and in what
+       way various forms of (online) speech may deserve prima facie protection based on
+       these traditional justifications (without revising or critically assessing them) and,
+       second, whether there might be other reasons why that protection may sometimes
+       be denied, for example if and when certain instances of speech cause harm to others,
+       especially members of vulnerable minorities—a point that social justice movements
+       often highlight.                                      
+       The free speech arguments under conditions of social change
+                                                             
+       All of the three main arguments for free speech rest, sometimes implicitly, on cer-
+       tain assumptions about the society in which free speech operates. These assump-
+       tions are (a) limited social diversity; (b) the primacy of rationality; and (c) a low
+       and slow information environment. Each of these assumptions, we argue, has been
+       undermined by the social change processes discussed earlier, with important impli-
+       cations for the legitimacy of free speech protection. However, we show that while
+       the truth and autonomy arguments for free speech are weakened as a result of the
+       social change processes that we analyse, the democracy argument is strengthened
+       as it is the only one that anticipates and indeed incorporates the prospect of social
+       change.                                               
+                                                             
+       Limited social diversity                              
+                                                             
+       Mill famously endorsed the importance of individuals embracing a variety of life-
+       styles or ‘experiments of living’, a point that is central to his broader defence of indi-
+       vidual liberty. And Victorian England, the historical period during which Mill was
+       writing, certainly presented significant class differences. But there was more limited
+       social diversity at that time than there is in contemporary liberal democracies today,
+       particularly since WWII.                              
+         One factor that has contributed to this social change has been the influx into many
+       Western countries of migrants from their former colonies, which has resulted in the
+       growing diversification of Western societies in terms of ethnicity, race, and religion,
+                                                             
+                                                             
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+       Free speech and social change: a public reason approach 679
+                                                             
+       compounding older (and in some cases weakening) class cleavages. This diversifica-
+       tion has been accompanied by an increase in political, economic, and social power
+       imbalances. Liberal democracies are nowadays inhabited by more people who are
+       consciously ‘outsiders’ from the mainstream experience, including not only immi-
+       grants and ethnic minorities but also Indigenous people, women, LGTBIQ+ peo-
+       ple, and other historically marginalized groups. The limited social diversity assump-
+       tion has also been undermined by growing individualism, which has intensified the
+       emphasis on self-expression and personal identity.    
+         Greater social diversity can have important implications for the legitimacy of free
+       speech protection based on the truth argument. For example, truth may still be val-
+       ued in twenty-first-century liberal democracies, but it now conflicts more often with
+       other values that people in these societies also cherish, such as tradition, community,
+       racial equity, social harmony, and the protection of vulnerable minorities. Under
+       such circumstances it is not clear why the process of truth discovery should always
+       take precedence over other values. Consider, for example, Holocaust denial. Accord-
+       ing to Schauer (2012), allowing people to freely express and spread this longstand-
+       ing anti-Semitic conspiracy theory just because, as Mill’s argument seems to imply,
+       confronting this view would result in a better understanding of the historical truth
+       about the Holocaust, might not only potentially have significant epistemic costs—
+       i.e. more people may actually believe this view despite its falsity—but also nega-
+       tive non-epistemic consequences, i.e. higher levels of anti-Semitism with resulting
+       greater harms for Jewish people and reduced social harmony. It is not clear, there-
+       fore, why truth-discovery should be regarded as a decisive source of legitimacy of
+       (i.e. a public reason for) free speech protection.    
+         Like the truth argument, the autonomy argument also seems to presuppose
+       low levels of social diversity in liberal democracies. Indeed several of the earliest
+       accounts of autonomy and free speech in the 1970s and 1980s debated pornography
+       (e.g. Dworkin, 1981; Scanlon, 1972), and their understanding of diversity was often
+       limited to the divide between pornographers and consumers of pornography, on
+       the one hand, and those who would like to protect society’s traditional values from
+       pornography’s ‘immoral’ influence, on the other hand—in other words, the divide
+       between liberals and conservatives.                   
+         This approach seems to neglect or at least downplay the degree of social diver-
+       sity that now characterizes these societies. True, greater individualism may have
+       strengthened the commitment to autonomy among many people. But social diver-
+       sification has also challenged autonomy in significant ways. From the political lib-
+       eral standpoint that underlies our analysis, it has become a more controversial value
+       and, for this reason, it cannot provide the basis for public reasons to justify govern-
+       ment rules. More specifically, there are now more (and more diverse) understand-
+       ings of what it means to be autonomous in contemporary societies than there were in
+       the past (see, e.g. Brison, 1998). Furthermore, some people might even completely
+       reject the notion that autonomy should be central to their conception of human flour-
+       ishing (Cohen, 1993; Parekh, 2006) or that it should always be prioritized over other
+       values. And even those who endorse autonomy (regardless of which specific concep-
+       tion) may point out that its exercise should be ascribed to not just one category of
+       people. For example, women as well as members of ethnic and religious minorities
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+       680                                  M. Bonotti, Z. Nwokora
+                                                             
+       and other vulnerable groups also have a right to autonomous agency, and this may
+       necessitate the regulation of some forms of expression such as pornography and hate
+       speech which, while allegedly advancing the autonomous agency of speakers, hinder
+       that of listeners or bystanders who belong to those groups (see, e.g. Langton, 1990;
+       Rostbøll, 2009).                                      
+         Perhaps, even before the processes of social diversification gained momentum,
+       autonomy was never a widely endorsed value, capable of providing public reasons
+       for free speech protection (or for any type of legislation). But social diversification
+       has exacerbated disagreement about this value, which may now more often than in
+       the past come into conflict with (and not always be prioritized over) other values that
+       are widely shared in liberal democracies, such as gender equality, equal dignity, and
+       social harmony (see Bonotti & Seglow, 2021). Indeed, public reason requires not
+       only that we appeal to shared values when justifying political rules but also that we
+       provide a reasonable balance of such values when two or more of them are at stake
+       (Quong, 2011; Rawls, 2005). Overly prioritizing one shared value over others at all
+       times would contravene this prerequisite.             
+         Like the truth and autonomy arguments, the democracy argument for free speech
+       was originally formulated at a time when liberal democracies presented a lower level
+       of social diversity. Meiklejohn, writing shortly after WWII, used the example of
+       New England town hall meetings to show that democracy requires the free expres-
+       sion of ideas and arguments among equals—but that example belonged to a society
+       that was predominantly white, Anglophone and Protestant. Most liberal democratic
+       societies resembled this model until the 1980s when, as we have seen, migratory
+       processes accelerated dramatically, especially movements from developing countries
+       to a small group of advanced industrialized (and mostly Western) countries. Fur-
+       thermore, the societies in which the democracy argument for free speech was first
+       advanced were dominated by materialist worldviews and thus economic and physi-
+       cal security concerns. These priorities, we explained earlier, were supplanted by a
+       greater emphasis on such values as autonomy, self-expression, and identity start-
+       ing from the 1960 s and 1970s. But, unlike with the truth and autonomy arguments,
+       these social changes have not undermined the democracy argument for free speech
+       and may in fact have strengthened it.                 
+         First of all, as liberal democratic societies have become more culturally, ethni-
+       cally, religiously, and linguistically diverse, the problem of how to make collective
+       decisions has become more acute. Disagreements emanate not only from increased
+       diversity but also from the mixed reactions to it by long-established populations,
+       creating new axes of division centred on immigration. Growing economic inequal-
+       ity in many liberal democracies in recent decades has also worsened the challenge
+       of collective decision-making, and the risk that large segments of the population
+       will be alienated. Under these changing circumstances, the argument for democracy,
+       and for protecting free speech in order to sustain democratic processes and insti-
+       tutions, has become stronger. Furthermore, social diversity—and the challenges it
+       poses to collective decision-making—has been compounded by the greater diffusion
+       of individualist goals such as self-expression, autonomy, and creativity, thus mak-
+       ing democracy even more attractive as a collective decision-making mechanism and
+       encouraging democratic institutions to be more responsive to citizens.
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+       Free speech and social change: a public reason approach 681
+                                                             
+         At this point, though, one might counter that democracy has become a more con-
+       troversial value in contemporary liberal democracies, in much the same way that
+       truth has. The phenomenon of ‘democratic backsliding’ (Haggard & Kaufman,
+       2021; Levitsky & Ziblatt, 2018; Wolkenstein, 2023), manifested in (and alimented
+       by) such diverse phenomena as populism and cultural conservatism, would seem
+       to support this claim. Yet, as recent scholarship has suggested (Cianetti & Hanley,
+       2021), what we are witnessing is not a move away from democracy but rather a
+       tension and trade-off between different democratic values, i.e. ‘populist’ democratic
+       majoritarianism vs. a ‘liberal’ commitment to democratic constitutionalism and the
+       rule of law (Cianetti & Hanley, 2021, p. 73).         
+         Furthermore, recent comparative work shows that support for democracy in
+       general has been rising around the world, even in countries that have experienced
+       democratic backsliding (Treisman, 2023). This evidence suggests that while there
+       might have been a decline in democratic practice, democracy continues to be widely
+       endorsed as a value.                                  
+       The primacy of rationality                            
+                                                             
+       Mill developed his moral and political philosophy alongside contributions to sci-
+       entific methodology, where he advocated a strong form of positivism, particularly
+       in his 1843 book A System of Logic (see Robson, 2011). Among the claims advanced
+       in that book was the belief that scientific progress followed objective and observ-
+       able laws. There tends to be a progression of knowledge from religion and super-
+       stition through metaphysics and abstract thinking to positive, empirically grounded
+       science. This depiction of the development of the natural sciences, grounded in the
+       primacy of rationality, contributed to the dominance of positivism in several of the
+       social sciences by the late twentieth century, and underlies Mill’s free speech the-
+       orizing. Yet this view faces some serious challenges as a result of social change.
+       One challenge emerges from the increasing attractiveness of post-truth arguments
+       (to many in liberal democratic societies), as discussed in the previous section. It has
+       become clear that many people in liberal democracies are doubtful of the claims of
+       scientific experts and even the possibility of objective truth in core matters of social
+       science. Examining the Millian truth argument from the post-truth vantage point,
+       there seems to be little chance that free speech can advance ‘truth’ for the simple but
+       fundamental reason that this objective is not possible. ‘Truth’ cannot be advanced
+       when, as post-truth advocates argue, it does not exist. At this point, one might object
+       that while agreement on a shared ‘thick’ conception of truth might be absent in lib-
+       eral democratic societies, a ‘thin’ conception of truth is indeed shared (either explic-
+       itly or implicitly) by all citizens, including those who defend post-truth positions. As
+       Joshua Cohen points out, ‘[t]ruth is so closely connected with intuitive notions of
+       thinking, asserting, believing, judging and reasoning that it is difficult to understand
+       what leaving it behind amounts to’ (Cohen, 2009, p. 15). Without something like the
+       concept of a right or best or true answer, it would be very hard to see why people
+       would want to (and how they could) engage in any exchange of reasons. However, it
+       is plausible to argue that even a thin notion of truth is controversial in contemporary
+                                                             
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+       682                                  M. Bonotti, Z. Nwokora
+                                                             
+       liberal democracies, given the ‘assault on reality’ that is central to what Nancy
+       Rosenblum and Russell Muirhead call ‘new conspiracism’. As they explain,
+         [t]he new conspiracism strikes at what we think of as truth and the grounds
+         of truth. It strikes at what it means to know something. The new conspira-
+         cism seeks to replace evidence, argument, and shared grounds of understand-
+         ing with convoluted conjurings and bare assertions (Muirhead & Rosenblum,
+         2019, p. 9).                                        
+         But even if, following Cohen, one accepted that a thin conception of truth is
+       indeed widely shared in a liberal democratic society, it is not clear that this concep-
+       tion would be sufficient to justify free speech protection. The thin conception only
+       seems to provide the epistemic guidelines that those engaging in the exercise of free
+       speech through the exchange of reasons must rely on, whereas a defence of freedom
+       of speech would seem to require a thicker conception of truth tied to a substantive
+       (and, for that reason, controversial) comprehensive doctrine such as Mill’s (Bonotti,
+       2015).                                                
+         The post-truth critique poses a frontal challenge to free speech as a truth-gener-
+       ating mechanism. But the truth argument, and particularly its primacy of rational-
+       ity premise, is also challenged by growing awareness of cognitive biases. The fact
+       that people do not, and generally cannot, think in a balanced, systematic, and inde-
+       pendent way introduces a new set of obstacles into the truth-generating process. And
+       although, in recent decades, societies have learned how group decision-making can
+       be designed to offset some of these individual-level cognitive biases (Grossman,
+       2021), Mill’s truth argument rests on the idea that free speech is only valuable inso-
+       far as people qua individuals employ their deliberative faculties and critical reason-
+       ing during the process of truth discovery (Brink, 2008). Cognitive biases undermine
+       this goal, even if their effects can be remedied at a collective level.
+         The primacy of rationality assumption also underlies, and undermines, the auton-
+       omy argument for free speech. For example, in her influential book Against Auton-
+       omy, Sarah Conly (2012) draws on evidence from social psychology and behav-
+       ioural economics to argue that since people often act irrationally and in ways that
+       undermine their own goals, the state can legitimately interfere with their autono-
+       mous choices in order to help them realize those goals. While Conly does not focus
+       specifically on free speech, her critique of autonomy-based arguments against state
+       paternalism also has implications for how governments should deal with speech that
+       undermines rational (or exploits irrational) behaviour. Free speech theorists also
+       give this issue some attention, showing for example how certain types of speakers,
+       such as pornographers (Scanlon, 1979) or hate speakers (Brown, 2015a, 2015b), can
+       exploit audiences’ irrational cognitive biases rather than promoting their autono-
+       mous faculties and critical reasoning. But even in the absence of deliberate manipu-
+       lation, individuals may still be influenced by various forms of irrational cognitive
+       biases when they read, listen to and/or act upon the speech they are presented with.
+       This would seem to reduce the rationale for respecting their sphere of individual
+       autonomy (procedural conception) or, more significantly, their flourishing as auton-
+       omous speakers or listeners (substantive conception), since that flourishing depends
+       on their critical reflection and their capacity to achieve this.
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+       Free speech and social change: a public reason approach 683
+                                                             
+         Like the truth and autonomy arguments, the democracy argument for free
+       speech, at least in its original formulations, was grounded in the idea of individu-
+       als as rational actors, an assumption that took root in the 1960s and prevailed in
+       democratic theory (and political theory more broadly) until the 1970s and 1980s
+       (see, e.g. Downs, 1957; Green & Shapiro, 1994). However, our growing aware-
+       ness of the cognitive biases that invalidate the model of individual rationality
+       also seems to undermine the assumptions underlying classic formulations of the
+       democracy argument for free speech. Furthermore, especially when tied to the
+       idea of deliberation, the democracy argument also seems to presuppose, at least,
+       a minimal conception of truth based on which—as noted earlier—citizens can
+       engage in ‘thinking, asserting, believing, judging and reasoning’ (Cohen, 2009, p.
+       15). But this might be challenged by the aforementioned new conspiracism, with
+       its rejection of the fundamental standards of truth.  
+         Yet, once again, we believe that the democracy argument, unlike the truth
+       and autonomy arguments, has not been weakened by this social change. Indeed,
+       democratic theorists have long debated the question of whether citizens think
+       rationally, and whether this is required for effective democracy (Boudreau, 2009;
+       Brennan, 2016). An argument put forward in this debate is the notion that democ-
+       racy can function well despite a high level of civic ignorance in the population.
+       For instance, democracy has been presented as primarily an elite activity (Sar-
+       tori, 1976, 1987), or dependent on a small group of ‘attentive citizens’ (Almond,
+       1950), which means that a widespread lack of sophistication and, along similar
+       lines, some degree of anti-truth sentiment, do not necessarily translate into sys-
+       temic problems. Indeed, taking this line of argument to its extreme, Almond and
+       Verba (1963) argued that a substantially passive and unsophisticated citizenry
+       may provide a more democratically conducive environment than one where most
+       citizens are active and informed. In the latter context, politicians must operate
+       under a tight leash (i.e. extreme accountability and transparency), limiting their
+       capacity to make responsible, long-term decisions and stymieing opportunities
+       for welfare-enhancing bargains among partisan rivals (see also Bardi et al., 2014).
+       If, as these accounts suggest, successful democracy does not depend on a popula-
+       tion of rational citizens, then it follows that the democratic case for free speech is
+       not imperilled by our increasing awareness that most people do not think ration-
+       ally most of the time.                                
+         But even if we reject this view and accept that democracy does require rational
+       citizens, democratic structures and processes can compensate for the problem
+       of pervasive non-rationality. In particular, as we explained earlier, deliberative
+       democracy is widely considered to be preferable to its non-deliberative alterna-
+       tives because it contributes to better decision-making by helping to pool infor-
+       mation, correct biases and logical fallacies, and encourage a diversity of per-
+       spectives. And there is now also emerging experimental evidence showing that
+       democratic deliberation has the capacity to attenuate the threat posed by disin-
+       formation and post-truth sentiment to collective decision-making (Himmelroos &
+       Rapeli, 2020), and therefore to work effectively despite the existence of wide-
+       spread cognitive biases and conspiracist attitudes.   
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+       684                                  M. Bonotti, Z. Nwokora
+       Low and slow information environment                  
+                                                             
+       Our increasing awareness of cognitive limitations also poses another challenge to
+       the truth argument for free speech, this time due to the technology-driven informa-
+       tion explosion. The truth argument has traditionally been expounded in contexts,
+       such as Victorian England or the pre-Internet era, where citizens had not only less
+       information to process than they do today, but also more time to do so before being
+       confronted with new information that could cause them to update their initial prefer-
+       ences and opinions.                                   
+         Defenders of the autonomy argument for free speech, as with the truth argument,
+       generally assume that isolated readers and audience members could easily process
+       information, remain in control of it, and thus engage in information exchanges with
+       others that are reasonably balanced and reciprocal. However, the contemporary
+       information environment (and especially the scale and speed of information flow)
+       has significantly reduced individuals’ ability to process the information needed to
+       exercise their agency and autonomy. This is the case even if we set aside the issues
+       concerning cognitive biases that we highlighted earlier. Furthermore, as a result of
+       this social change, information exchanges nowadays tend to be more disempower-
+       ing and dominating (and less balanced and reciprocal) than they were in the past,
+       partly due to the growing power asymmetries that we highlighted earlier. Uncon-
+       strained free speech, as manifested in the unconstrained circulation of information,
+       can therefore undermine rather than promote the autonomy of individuals who find
+       themselves in subordinate social positions.           
+         Like the truth and autonomy arguments, the democracy argument for free speech
+       was also initially formulated, and subsequently developed, in societies character-
+       ized by low and slow circulation of information, especially during the pre-Internet
+       era. How has informational overload due to technological advancements affected the
+       democracy argument?                                   
+         Technology can enhance the mechanisms through which free speech fosters
+       democracy. For instance, the explosion of Internet platforms, both informational
+       and social, provides new and more effective ways for citizens to engage in demo-
+       cratic deliberation. True, while technology can bolster the capacity of free speech to
+       support democracy, it can also introduce impediments into the democratic process.
+       The quality of substantive democracy may be affected if the expansion of informa-
+       tion resources is not matched by effective ways to search and sort this information.
+       And from a procedural standpoint, the combination of cutting-edge communication
+       technology and free speech creates new risks of interference in, and manipulation
+       of, democratic processes. However, democracy, especially in its deliberative variety,
+       can provide the resources for countering the threats posed by the information explo-
+       sion. As recent empirical evidence has shown (Ercan et al., 2019, p. 32), delibera-
+       tive democracy can provide an antidote to information explosion or ‘communicative
+       plenty’, through the design of ‘opportunities for, and spaces of, reflection and listen-
+       ing’ (see also Dryzek & Tanasoca, 2021).              
+         Our conclusions in this and previous subsections do not imply, of course, that
+       (deliberative) democracy itself might not be potentially imperilled by the social
+       changes that we have highlighted. Indeed, social change poses a serious challenge
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+       Free speech and social change: a public reason approach 685
+                                                             
+       to the defence of free speech on any grounds. The democracy argument does not
+       escape this test, but the collective decision-making mechanisms that are central to
+       democratic institutions confer to this argument a kind of resilience that the more
+       individualistic truth and autonomy arguments lack.    
+                                                             
+       Conclusion                                            
+                                                             
+       In this paper, we have reassessed the three traditional arguments for free speech—
+       based on truth, autonomy, and democracy—while taking account of the effects
+       of social change. More specifically, we have argued that social change in its vari-
+       ous manifestations has produced markedly different contexts from those in which
+       these arguments were first developed. The truth and autonomy arguments have
+       been especially affected as a result, while the democracy argument may well have
+       been strengthened. Our goal has been not only to re-evaluate the arguments for free
+       speech but also to show, through that analysis, that the protection of free speech
+       (especially in a constitution) needs to be relegitimized for modern liberal democ-
+       racy. This process should occur through a ‘public reason test’ that includes the eval-
+       uation of the empirical assumptions that underlie and/or accompany the arguments
+       for free speech.                                      
+         We acknowledge that someone might criticize our analysis by pointing out that
+       the truth, autonomy, and democracy justifications for free speech are not independ-
+       ent of one another. If that is the case and if, as we argued, the former two argu-
+       ments fail to offer a justification for free speech protection that withstands social
+       change, then the democracy argument is affected by this failure too. For example, it
+       may be argued that citizens need true information in order to engage in democratic
+       deliberation, or that they need to autonomously consider issues for themselves in
+       order to participate in that process. We do not deny these points, and indeed there
+       are well-documented interconnections between the three arguments for free speech
+       (see Bonotti & Seglow, 2021, pp. 28–30). However, the democracy argument only
+       requires a thin conception of truth (i.e. a conception that can help us establish what
+       counts as a right or best or true answer), but not the kind of thick conception of
+       truth, tied to a substantive (and, for that reason, controversial) conception of indi-
+       vidual flourishing and well-being, which underlies Mill’s argument for free speech
+       (Bonotti, 2015; Brink, 2008).3 Therefore, failures affecting the truth argument do not
+       extend to the democracy justification for free speech. When it comes to the auton-
+       omy argument, although democratic deliberation does depend on individual citizens
+       using their deliberative faculties to autonomously evaluate any issues at stake, we
+       have seen that it can also benefit from the collective wisdom that deliberation gener-
+       ates, and which can help overcome those irrational cognitive biases that autonomous
+       3 We acknowledge that the extent to which this may be the case partly depends on the variety of deliber-
+       ative democracy one considers. In this sense, epistemic defences of deliberative democracy may rely on a
+       thicker conception of truth than procedural defences (e.g. see Min & Wong, 2018) although, we believe,
+       not as thick as the conception of truth that underlies Mill’s argument, which is tied to a substantive con-
+       ception of individual flourishing.                    
+                                                             
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+       686                                  M. Bonotti, Z. Nwokora
+                                                             
+       individuals alone cannot overcome. Therefore, failures affecting the autonomy argu-
+       ment do not extend to the democracy justification for free speech.
+         Furthermore, due to space constraints, in this paper we could only focus on the
+       general or most prominent versions of the truth and autonomy arguments. How-
+       ever, we recognize that there are subtypes or adjacent versions of both arguments
+       which may better withstand social change. In the case of the autonomy argument,
+       for example, these include the ideas of ‘partial agency’ (Abrams, 1999) and ‘dig-
+       nity’ (Grimm, 2021), both of which are closely linked to autonomy. These views
+       constitute alternatives that speak to the underlying ideas expressed in the autonomy
+       defence of free speech while addressing some of the main critiques of the autonomy
+       argument, particularly its overly individualistic foundations that often neglect struc-
+       tural forms of oppression and harms targeting already vulnerable groups, phenom-
+       ena that have been compounded by social change. Careful consideration of these and
+       similar variations of the truth and autonomy arguments should be central to future
+       research as it could help in the formulation of the best possible versions of these
+       arguments to deal with social change.                 
+         Finally, we also acknowledge that our analysis in this paper has focused on a
+       small subset of high-income liberal democracies in North America, Western Europe,
+       and Oceania. Future work along the lines that we have developed here could there-
+       fore examine, for instance, social changes (e.g. urbanization and democratization)
+       that are particularly relevant to liberal democracies beyond that subset (e.g. middle-
+       and low-income liberal democracies and/or liberal democracies which are located
+       outside those regions). This research would provide new angles on the central argu-
+       ment of this paper—that the legitimacy of the rules protecting free speech needs to
+       be reconsidered as societies change over time.        
+       Acknowledgements We presented earlier versions of this paper at the Monash University Politics and
+       International Relations Seminar Series (May 2021) and at the KU Leuven Free Speech and Its Limits
+       Seminar (November 2021). We are grateful to Eleanor Gordon, Eszter Kollar, Helder De Schutter, Paul
+       Muldoon, Antoon Vandevelde, Philippe Van Parijs, and audiences at both events for their very helpful
+       feedback. We would also like to thank two anonymous reviewers and the editors of Contemporary Politi-
+       cal Theory for their useful comments and suggestions. 
+       Funding Open Access funding enabled and organized by CAUL and its Member Institutions.
+       Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+       which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long
+       as you give appropriate credit to the original author(s) and the source, provide a link to the Creative
+       Commons licence, and indicate if changes were made. The images or other third party material in this
+       article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line
+       to the material. If material is not included in the article’s Creative Commons licence and your intended
+       use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permis-
+       sion directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/
+       licenses/by/4.0/.                                     
+       References                                            
+       Abrams, K. (1999) From autonomy to agency: Feminist perspectives on self-direction. William & Mary
+         Law Review 805: 805–846.                            
+                                                             
+
+[PAGE 19]
+                                                             
+                                                             
+                                                             
+       Free speech and social change: a public reason approach 687
+                                                             
+       Almond, G.A. (1950) The American people and foreign policy. Harcourt Brace.
+       Almond, G.A. and Verba, S. (1963) The civic culture. Princeton University Press.
+       Arendt, H. (1968) Truth and politics. Between past and future. revised. Viking Press, pp. 227–264.
+       Baker, C.E. (2011) Autonomy and free speech. Constitutional Commentary 27(2): 251–280.
+       Bardi, L., Bartolini, S. and Trechsel, A.H. (2014) Responsive and responsible? The role of parties in
+         twenty-first century politics. West European Politics 37(2): 235–252.
+       Barendt, E. (2005) Freedom of speech. Oxford University Press.
+       Benson, J. (2021) The epistemic value of deliberative democracy: How far can diversity take us? Syn-
+         these 199: 8257–8279.                               
+       Bonotti, M. (2015) Political liberalism, free speech and public reason. European Journal of Political The-
+         ory 14(2): 180–208.                                 
+       Bonotti, M. and Seglow, J. (2021) Free speech. Polity.
+       Boudreau, C. (2009) Making citizens smart: When do institutions improve unsophisticated citizens’ deci-
+         sions? Political Behavior 31(2): 287–306.           
+       Brink, D. (2008). Mill’s liberal principles and freedom of expression. In C. L. Ten (ed.) Mill’s on liberty:
+         A critical guide. Cambridge University Press, pp. 40–61.
+       Brennan, J. (2016) Against democracy. Princeton University Press.
+       Brison, S.J. (1998) The autonomy defence of free speech. Ethics 108(2): 312–339.
+       Brison, S.J. and Gelber, K. (eds.) (2019) Free speech in the digital age. Oxford University Press.
+       Brown, A. (2015a) Hate speech law: A philosophical examination. Routledge.
+       Brown, W. (2015b) Undoing the demos: Neoliberalism’s stealth revolution. Zone Books.
+       Castles, S. (2002) Migration and community formation under conditions of globalization. International
+         Migration Review 36(4): 1143–1168.                  
+       Chambers, S. (2021) Truth, deliberative democracy, and the virtues of accuracy: Is fake news destroying
+         the public sphere? Political Studies 69(1): 147–163.
+       Cianetti, L. and Hanley, S. (2021) The end of the backsliding paradigm. The Journal of Democracy 32(1):
+         66–80.                                              
+       Cohen, J. (1993) Freedom of expression. Philosophy and Public Affairs 22(3): 207–263.
+       Cohen, J. (2009) Truth and public reason. Philosophy & Public Affairs 37(1): 2–42.
+       Conly, S. (2012) Against autonomy. Cambridge University Press.
+       Davis, M. (2021) The online anti-public sphere. European Journal of Cultural Studies 24(1): 143–159.
+       Downs, A. (1957) An economic theory of democracy. Addison Wesley.
+       Dryzek, J. and Tanasoca, A. (2021) Democratizing global justice: Deliberating global goals. Cambridge
+         University Press.                                   
+       Dworkin, R. (1981) Is there a right to pornography? Oxford Journal of Legal Studies 1(2): 177–212.
+       Dworkin, R. (2009) Foreword. In I. Hare and J. Weinstein (eds.) Extreme speech and democracy. Oxford
+         University Press, pp. v–ix.                         
+       Emerson, T.L. (1962) Toward a general theory of the first amendment. Yale Law Journal 72: 877.
+       Ercan, S., Hendriks, C.M. and Dryzek, J.S. (2019) Public deliberation in an era of communicative plenty.
+         Policy & Politics 47(1): 19–35.                     
+       Fishkin, J., Siu, A., Diamond, L. and Bradburn, N. (2021) Is deliberation an antidote to extreme parti-
+         san polarization? Reflections on ‘America in one room.’ American Political Science Review 115(4):
+         1464–1481.                                          
+       Fiss, O.M. (1986) Free speech and social structure. Iowa Law Review 71(5): 1405–1426.
+       Flanders, C.W. (2012) The mutability of public reason. Ratio Juris 25(2): 180–205.
+       Flanders, C.W. (2014) Public reason and animal rights. In D. Schlossberg and M. Wissenburg (eds.)
+         Political animals and animal politics. Palgrave MacMillan, pp. 44–57.
+       Green, D.P. and Shapiro, I. (1994) Pathologies of rational choice: A critique of applications in political
+         science. Yale University Press.                     
+       Grimm, D. (2021) Freedom of speech and human dignity. In A. Stone and F. Schauer (eds.) The Oxford
+         handbook of freedom of speech. Oxford University Press, pp. 106–117.
+       Grossman, M. (2021) How social science got better: Overcoming bias with more evidence, diversity, and
+         self-reflection. Oxford University Press.           
+       Haggard, S. and Kaufman, R. (2021) Backsliding: Democratic regress in the contemporary world. Cam-
+         bridge University Press.                            
+       Heinze, E. (2018a). Karl Marx’s theory of free speech—Part 1’. Humanity, 31 May. http:// human ityjo
+         urnal. org/ blog/ karl- marxs- theory- of- free- speech- part-1/
+
+[PAGE 20]
+                                                             
+                                                             
+                                                             
+       688                                  M. Bonotti, Z. Nwokora
+                                                             
+       Heinze, E. (2018b). Karl Marx’s theory of free speech—Part 2’. Humanity, 1 June. http:// human ityjo
+         urnal. org/ blog/ karl- marxs- theory- of- free- speech- part-2/
+       Himmelroos, S. and Rapeli, L. (2020) Can deliberation reduce political misperceptions? Findings from a
+         deliberative experiment on immigration. Journal of Deliberative Democracy 16(1): 58–66.
+       Hong, L. and Page, S. (2004) Groups of diverse problem solvers can outperform groups of high-ability
+         problem solvers. Proceedings of the National Academy of Sciences of the United States 101(46):
+         16385–16389.                                        
+       Inglehart, R. [1977] (2016). The silent revolution: Changing values and political styles among western
+         publics. Princeton University Press.                
+       Inglehart, R. and Welzel, C. (2005) Modernization, cultural change, and democracy: The human develop-
+         ment sequence. Cambridge University Press.          
+       Kant, I. [1784] (1996) An answer to the question: What is enlightenment? In M.J. Gregor (ed.) Practical
+         philosophy. Cambridge University Press.             
+       Keats Citron, D. (2019) Restricting speech to protect it. In S. J. Brison and K. Gelber (eds.) Free speech
+         in the digital age. Oxford University Press, pp. 122–136.
+       Kymlicka, W. (1995) Multicultural citizenship: A liberal theory of minority rights. Clarendon Press.
+       Landemore, H. and Elster, J. (2012) Collective wisdom: Principles and mechanism. Cambridge Univer-
+         sity Press.                                         
+       Langton, R. (1990) Whose right? Ronald Dworkin, women, and pornographers. Philosophy and Public
+         Affairs 19(4): 311–359.                             
+       Langton, R. (1993) Speech acts and unspeakable acts. Philosophy and Public Affairs 22(4): 293–330.
+       Langton, R. (2009) Sexual solipsism: Philosophical essays on pornography and objectification. Oxford
+         University Press.                                   
+       Levitsky, S. and Ziblatt, D. (2018) How democracies die. Crown.
+       Lyotard, J.-F. (1984) The postmodern condition: A report on knowledge. University of Minnesota Press.
+       McGinnis, J. (2013) Accelerating democracy: Transforming governance through technology. Princeton
+         University Press.                                   
+       McGowan, M. K. (2019) Just words: On speech and hidden harm. Oxford University Press.
+       Mckinnon, C. (2007) Should we tolerate Holocaust denial? Res Publica 13: 9–28.
+       Meiklejohn, A. (1948) Free speech and its relation to self-government. Harper & Brothers.
+       Mill, J.S. [1859] (2006) On liberty. In A. Ryan (ed.) On liberty and the subjection of women. Penguin
+         Classics, pp. 7-129.                                
+       Min, J.B. and Wong, J.K. (2018) Epistemic approaches to deliberative democracy. Philosophy Compass
+         13(6): e12497.                                      
+       Muirhead, R., & Rosenblum, N. L. (2019). A lot of people are saying: The new conspiracism and the
+         assault on democracy. Princeton University Press.   
+       Norris, P. and Inglehart, R. (2019) Cultural backlash: Trump, Brexit, and Authoritarian populism. Cam-
+         bridge University Press.                            
+       Nwokora, Z. (2022) Constitutional design for dynamic democracies: A framework for analysis. Interna-
+         tional Journal of Constitutional Law 20(2): 580–610.
+       O’Flynn, I. (2021) Deliberative democracy. Polity.    
+       Page, S. (2007) The difference. Princeton University Press.
+       Parekh, B. (2006) Rethinking multiculturalism: Cultural diversity and political theory (second edition).
+         Palgrave Macmillan.                                 
+       Post, R. (2011) Participatory democracy and free speech. Virginia Law Review 97(3): 477–489.
+       Post, R. C. (2019) Privacy, speech, and the digital imagination. In S. J. Brison and K. Gelber (eds.) Free
+         speech in the digital age. Oxford University Press, pp. 104–121.
+       Quong, J. (2011) Liberalism without perfection. Oxford University Press.
+       Rawls, J. (2005) Political liberalism. Columbia University Press.
+       Redish, M.H. (1982) The value of free speech. University of Pennsylvania Law Review 130(3): 591–645.
+       Robson, J.M. (ed.) (2011) Collected works of John Stuart Mill, vol. vii: System of logic: Ratiocinative and
+         inductive. Routledge.                               
+       Rostbøll, C. (2009) Autonomy, respect and arrogance in the Danish cartoon controversy. Political Theory
+         37(5): 370–396.                                     
+       Sartori, G. (1976) Parties and party systems: A framework of analysis. Cambridge University Press.
+       Sartori, G. (1987) The theory of democracy revisited. Chatham House Publishers.
+       Scanlon, T.M. (1972) A theory of freedom of expression. Philosophy & Public Affairs 1(2): 204–226.
+
+[PAGE 21]
+                                                             
+                                                             
+                                                             
+       Free speech and social change: a public reason approach 689
+                                                             
+       Scanlon, T.M. (1979) Freedom of expression and categories of expression. University of Pittsburgh Law
+         Review 40(4): 519–550.                              
+       Schauer, F. (1983) Free speech: A philosophical inquiry. Cambridge University Press.
+       Schauer, F. (2012) Social epistemology, Holocaust denial, and the post-Millian calculus. In M. Herz
+         and P. Molnar (eds.) The Content and context of hate speech: Rethinking regulation and responses.
+         Cambridge University Press, pp. 129–144.            
+       Shiffrin, S.V. (2014) Speech matters: On lying, morality, and the law. Princeton University Press.
+       Simpson, R. (2020) The relation between academic freedom and free speech. Ethics 130(3): 287–319.
+       Solum, L.B. (1996) Novel public reasons. Loyola of Los Angeles Law Review 29: 1459–1485.
+       Sunstein, C.R. (1993) Democracy and the problem of free speech. The Free Press.
+       Sweet, K. (2024) Kant on free speech: Criticism, enlightenment, and the exercise of judgement in the
+         public sphere. Kantian Review 29(1): 61–80.         
+       Thaler, R.H. and Sunstein, C.R. (2008) Nudge: Improving decisions about health, wealth, and happiness.
+         Yale University Press.                              
+       Treisman, D. (2023) How great is the current danger to democracy? Assessing the risk with historical
+         data. Comparative Political Studies 56(12): 1924–1952.
+       Tversky, A. and Kahneman, D. (1974) Judgment under uncertainty: Heuristics and biases. Science 185
+         (4157): 1124–1131.                                  
+       Vertovec, S. (2007) Super-diversity and its implications. Ethnic and Racial Studies 30(6): 1024–1054.
+       Waldron, J. (1993) Religious contributions in public deliberation. San Diego Law Review 30: 837–848.
+       Waldron, J. (2012) The harm in hate speech. Harvard University Press.
+       Weinstein, J. (2011) Participatory democracy as the central value of American free speech doctrine. Vir-
+         ginia Law Review 97(3): 491–514.                    
+       White, J. and Ypi, L. (2016) The meaning of partisanship. Oxford University Press.
+       Whitney, H.M. Simpson, R.M. (2019) Search engines and free speech coverage. In S. J. Brison and K.
+         Gelber (eds.) Free speech in the digital age. Oxford University Press, pp. 33–51.
+       Williams, S.H. (2009) Feminist theory and freedom of speech. Indiana Law Journal 84(3): 999–1013.
+       Wolkenstein, F. (2023) What is democratic backsliding? Constellations 30(3): 261–275.
+       Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published maps
+       and institutional affiliations.                       
+       Matteo Bonotti is an Associate Professor of Politics and International Relations at Monash University
+       in Melbourne. His research interests include democratic theory, political liberalism and public reason,
+       linguistic justice, free speech and civility, and food justice. His work has appeared in journals such as
+       the American Political Science Review, the Journal of Politics, the British Journal of Political Sci-
+       ence, and Political Studies. He is the author of Partisanship and Political Liberalism in Diverse Socie-
+       ties (OUP, 2017) and the co-author of Healthy Eating Policy and Political Philosophy: A Public Reason
+       Approach (OUP, 2022) and Money, Parties, and Democracy: Political Finance Between Fat Cats and Big
+       Government (OUP, 2022).                               
+       Zim Nwokora is an Associate Professor of Politics and Policy Studies at Deakin University in Melbourne.
+       He is a comparative political scientist whose research examines theoretical and empirical questions about
+       political party systems, constitutional structures, democracy, and political finance. His work has appeared
+       in journals such as the Australian Journal of Political Science, the Australian Journal of Politics and
+       History, the British Journal of Political Science, Governance, the International Journal of Constitu-
+       tional Law, Party Politics, Political Research Quarterly, and Political Studies. He is the co-author of
+       Money, Parties, and Democracy: Political Finance Between Fat Cats and Big Government (OUP, 2022).
+       His research has been discussed in media outlets such as ABC Radio, BBC World Service, and The
+       Conversation.                                         

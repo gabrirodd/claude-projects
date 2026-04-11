@@ -1,0 +1,1064 @@
+[PAGE 1]
+                                                             
+                                                             
+                                                             
+       Contemporary Political Theory (2025) 24:690–709       
+       https://doi.org/10.1057/s41296-025-00758-9            
+       ARTICLE                                               
+                                                             
+       Race still matters: the (post) racial politics of conspiracy
+       theories                                              
+                                                             
+                                                             
+       Sahar Ghumkhor1 · Liam Gillespie1 · Sean McMorrow1    
+                                                             
+       Accepted: 21 February 2025 / Published online: 12 April 2025
+       © The Author(s) 2025                                  
+                                                             
+       Abstract                                              
+       The proliferation of conspiracy theories is seemingly on the rise. Among them, are
+       many that are explicitly racist. Examples of this include Great Replacement Theory,
+       White Genocide, QAnon, and Eurabia, which each convey the idea white people
+       are being covertly attacked and replaced. In this article, we examine the structure
+       of these conspiracy theories and argue that their proliferation in liberal-democratic
+       societies is not a coincidence. Our argument is three-fold. First, we argue the pro-
+       liferation of racist conspiracy theories in liberal-democratic societies has been ena-
+       bled by the racial contract that underpins them. Second, we argue that in these con-
+       texts, even conspiracy theories that are seemingly non-racial, can be underpinned by
+       structures of race and racialisation. This is because in liberal-democratic contexts,
+       the other (who conspires) is always-already racialised, even if racialisation is disa-
+       vowed. We therefore argue that the categorisation of conspiracy theories as being
+       either ‘racial’ or ‘non-racial’ constitutes a postracial manoeuvre that obscures the
+       racialising function of conspiracy theorising in liberal-democratic societies. Finally,
+       we argue that the dominant trend of attributing the rise of conspiracy theories to
+       the notion we are living in a ‘post-truth era’ obscures the connection between lib-
+       eral-democratic societies and racist conspiracy theories, effectively solidifying the
+       postracial conceptualisation of both. We argue the ‘post-’ of ‘post-truth’ works to
+       sever the past from the present, thereby masking historical continuities of racism
+       and depicting conspiracy thinking as a ‘new’ problem stemming from the margins
+       of society. By contrast, we argue the phenomenon, and its attendant racism, origi-
+       nates from the mainstream of liberal-democratic society.
+       Keywords Conspiracy theories · Racism · Postracial · Post-truth · Psychoanalysis ·
+       Technology                                            
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+       Extended author information available on the last page of the article
+                                                             
+        Vol:.(1234567890)                                    
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+       Race still matters: the (post) racial politics of conspiracy… 691
+       Introduction                                          
+                                                             
+                                                             
+       A decade ago, Michael Butter wrote that ‘those who are still seriously concerned
+       with conspiracy are... both marginalised and in the minority’ (Butter, 2014, p. 290).
+       Ten years on, much has changed, and research into conspiracy theories and their
+       links to violence and public harm are now a booming industry for security and pol-
+       icy analysts, and their counterparts in universities. While still frequently dismissed
+       as the irrational obsession of ‘fringe’ elements of society, the prevalence of con-
+       spiratorial beliefs and the actions that stem from them are now more commonly
+       understood as significant social, cultural, and political phenomena in need of atten-
+       tion (Bjerg & Presskorn-Thygesen, 2017). One reason for this shift is the simple fact
+       that conspiracy theories—and conspiratorial thinking in general—have increasingly
+       ‘moved to occupy a central place in public discourse’ (Horvat, 2021, p. 220). More
+       specifically, they have occupied a central place in the public discourse of ‘western’
+       liberal-democratic societies, whose social imaginaries are regulated by dominant
+       articulations of whiteness (Frankenberg, 1993). Less attention, however, has been
+       given to why it is that in these specific contexts conspiracy theories are not only
+       flourishing, but have displayed clear tendencies towards extreme action by their pro-
+       ponents. In the ensuing article, we offer a detailed consideration of this specificity,
+       proposing that the proliferation of conspiracy theories in liberal-democratic societies
+       is a product of the racial practices that constitute them.
+         Before entering this discussion, it is necessary to clarify how race serves to
+       regulate the dominant social imaginary in liberal-democratic contexts. This will
+       enable the connection between conspiracy theorising and race to be interrogated.
+       We identify the importance of locating race through the continued political work
+       of whiteness within these contexts ‘to name what is so invisible to contemporary
+       “white” majority societies: the racialised nature of power and privilege’ (Haggis,
+       2004, p. 50). This invisibility, Seshadri-Crooks (2000) observes, is powerful pre-
+       cisely because of its pre-discursive effects, whereby whiteness both produces and
+       naturalises difference—whether of bodies or knowledge. Whiteness therefore con-
+       stitutes a naming power that is best discerned indirectly, more so by what it does,
+       than by who or what embodies it. Writing in a similar vein, Charles W Mills (2017)
+       describes whiteness as ‘a view from nowhere’, that is not called into question, but
+       ‘just is’. Whiteness, in these readings, is identified as a structure that discursively
+       produces knowledge, truth, and ontologies which come to constitute the domain of
+       the so-called universal.                              
+         In this article, we will argue that conspiracy theorising in liberal-democratic
+       contexts draws from the structure of race and its location in the liberal-democratic
+       imaginary. We will propose that conspiracy theorising is a discursive technique that
+       is conditioned by the racialising processes of whiteness and, further still, that con-
+       spiracy theorising serves to deepen and intensify these processes. This, it will be
+       argued, is why conspiracy theories that produce a racialised other as their object
+       consistently emerge in liberal-democratic regimes.    
+         Contemporary conspiracy theories draw from knowledge that is raced or has
+       racial effects. Many explicitly racist theories have entered the mainstream. These
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+       692                                    S. Ghumkhor et al.
+                                                             
+       have increasingly been adopted by far-right politicians, organisations, and pro-
+       test groups, who deploy and disseminate them as part of their recruitment strate-
+       gies and narrative framing. The most commented upon examples include Great
+       Replacement Theory (GRT), White Genocide, QAnon, Eurabia, and the Trojan
+       Horse Affair, each of which posits the existence of a racialised threat that is con-
+       spiring against the white liberal nation. These conspiracy theories have been
+       explicitly invoked as the rationale for white supremacist violence, including the
+       actions of white nationalists such as Anders Brevik and Brenton Tarrant, and par-
+       ticipants of the Charlottesville and Unite the Right riots of 2017, and the Capitol
+       Hill Riots of 6 January 2021. In these examples, those who engaged in violence
+       drew not only from explicitly racialised conspiracy theories, but so too from the
+       structures of race that constitute their respective liberal-democratic regimes.
+       While it is important to consider the specificities of the social and historical con-
+       texts in which such events occur—i.e. those related to the events above—cru-
+       cially it is also important to recognise what allows these contexts to influence and
+       inform one another via their discursive rationales for political action. This, we
+       will contend, is the consistency of whiteness that constitutes the racialised struc-
+       ture that underpins liberal-democratic regimes.       
+         It is also important to note that not all conspiracy theories present clear signs of a
+       race agenda. Seemingly non-racial conspiracy theories have proliferated throughout
+       liberal-democratic societies as well, both in tandem with, and sometimes seemingly
+       apart from, those which are explicitly race-related. Examples of this include con-
+       spiracy theories associated with Covid-19, such as those relating to the origins of
+       the virus, as well as to the various measures that were implemented to combat its
+       spread, including vaccines, lockdowns, and movement restrictions. Other examples
+       include conspiracy theories associated with the 5G network, 15-min cities, climate
+       change, and the curvature of the earth, or lack thereof (Ahmed et al., 2020; Buarque,
+       2022; Jolley & Paterson, 2020). Such conspiracy theories, perhaps because they
+       seem more palatable compared to those that explicitly invoke race, have spread well
+       beyond the far-right networks within which they are popular. Indeed, a prevalent
+       explanation contextualises their proliferation with respect to the many crises cur-
+       rently faced by liberal-democratic regimes, especially in relation to the ostensibly
+       never-ending globalisation of capitalism.             
+         With this in mind, it is important that the recent surge of white nationalism and
+       both racial- and seemingly non-racial conspiracy theories are not assumed to be
+       merely a matter of coincidence. Instead, the psychosocial and epistemological foun-
+       dations that have allowed political actors to both mobilise and be mobilised by con-
+       spiracy theories should be carefully considered. This article seeks to do just this.
+         The main issue we will examine will be the relation between racial and non-racial
+       conspiracy theories. In doing so, we propose that the whiteness that is inherent to
+       liberal-democratic regimes orients the articulation of both types of conspiracy theo-
+       ries. To demonstrate this, we draw on psychoanalytic theory to problematise the role
+       paranoia is commonly thought to play in the proliferation of conspiracy theories. We
+       will propose that a Lacanian reading of paranoia both depathologises paranoia and
+       reveals the liberal-democratic subject’s investment in knowing as one that is always
+       paranoid because true knowledge can never be secured. 
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+       Race still matters: the (post) racial politics of conspiracy… 693
+                                                             
+         Our argument is that the investment in knowing what conspiratorial thinking
+       depends on will work to rescue the liberal subject from the failure of knowledge by
+       positing the existence of an other who stands in the way. We argue that in the con-
+       text of liberal-democratic societies, this other is necessarily a racialised other insofar
+       as these contexts are discursively structured in reference to whiteness. We argue the
+       racial structure of this fantasy works to shield the subject who identifies with it from
+       the instability of knowledge, and moreover, that this structure exists irrespective of
+       whether or not the specific conspiracy theory in question explicitly names a racial-
+       ised other as such.                                   
+         After proposing our position, we then address the growing claim in the litera-
+       ture on conspiracy theories that their contemporary proliferation has been caused by
+       a shift to a post-truth era in liberal-democratic societies. We address this claim by
+       tracing how the conception of post-truth is complicit with a liberal impulse to cover
+       up the structures of race and racial animus which govern prevailing social antago-
+       nisms in liberal-democratic societies. We will argue that the post-truth discourse on
+       conspiracy theories masks these structures by invoking another dominant articula-
+       tion of the liberal-democratic imaginary, namely, that of techno-rationality. Accord-
+       ing to this perspective, explanations of social phenomena and the solutions to them
+       are increasingly attributed to the technical structures of knowledge. This is evident
+       in much of the emerging conspiracy theory literature, which seeks to definitionally
+       isolate specific conspiracy theories while mechanistically explaining their spread
+       (for examples, see: Ahmed et al., 2020; Buarque, 2022; Jolley & Paterson, 2020).
+       A major implication of such explanations, however, is that they obscure the func-
+       tion that such phenomena fulfil. Resisting this, we argue that the techno-rationalist
+       post-truth explanation for the rise of conspiracy theories inadvertently obscures their
+       racial function by reproducing a ‘postracial’ onto-epistemology that renders invis-
+       ible the racial contract liberalism establishes with its subjects (Mills, 2014). This
+       is because the ‘post’ of the post-truth explanation works to sever the past from the
+       present (Mejia et al. 2018) by characterising the proliferation of conspiracy theories
+       as a contemporary expression of the racist margins of society, rather than as a con-
+       tinuation of the whiteness upon which liberal-democratic society itself is predicated.
+       A psychoanalytic approach to the racialised dimension of conspiracy
+       theories                                              
+       Racialisation and its racism                          
+                                                             
+       What, then, is the relation of race to liberalism? Or to be more direct, how are race
+       and racialisation structured and located within the dominant social imaginary of
+       liberal-democratic regimes? A brief and classic answer lies in the foundational doc-
+       trine of liberal neutrality. This doctrine holds that there should be no discrimination
+       between self and other. In fact, the other is to be recognised as another self, an equal
+       individual within a community of equals. The structures of race, however, involve
+       an exploitation of this doctrine that rests on a division between nature and culture.
+       It is held that ‘radical differences between individuals belong to the state of nature:
+                                                             
+                                                             
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+       694                                    S. Ghumkhor et al.
+                                                             
+       racial, sexual, ethnic, and other such differences are to be rooted in “first” nature,
+       while religious, cultural, and philosophical differences are to be rooted in “second
+       nature” (Vatter, 2004, p. 167). The implication being that these differences become
+       neutralised and excluded by a doctrine that places individuals on equal terms strictly
+       on the basis of characteristics deemed befitting of the normative conditions of cul-
+       ture (a second nature defined, obviously, in terms negotiated via the dominant social
+       imaginary). The point for our analysis here is that this principle of liberalism por-
+       trays the differentiation of race as neutralised and excluded from the categories of
+       liberal-democratic culture, therefore drawing ambiguity around the treatment of
+       racialised others as another self.                    
+         Challenging liberalism’s claims of neutrality and the promotion of values like
+       equality and inclusion, critics have pointed to liberalism’s reliance upon practices
+       of exclusion from its very inception. Mills (2014), for example, argues that liberal-
+       democratic culture is built on a ‘racial contract’ that is foundational to liberalism,
+       and predicated on exclusion. Further, far from expanding freedom(s), liberalism
+       has weaponised its ostensible virtues against others by policing their (alleged) rela-
+       tion to liberalism as a racialised practice (Asad, 2003; Losurdo, 2011). As Losurdo
+       observes (2011), the history of liberalism has not so much been one of expanding
+       freedoms, but rather, of policing and disciplining them. The implication of this is
+       that the differentiation of racial norms is excluded from the characteristics of onto-
+       logical equality or a way of social being (Mills, 2014).
+         Here, we could think of attempts within liberal-democratic regimes to address
+       race through policies of assimilation with multicultural characteristics. What is most
+       significant about this is that the liberal-democratic imaginary does the work of both
+       producing and neutralising race simultaneously. When the individual of liberal cul-
+       ture, with its essential contiguity to power (i.e. law) and privilege (i.e. equality), is
+       structured through norms attributed to whiteness, the liberal-democratic imaginary
+       inevitably produces it’s racialised other in a relation of exclusion.
+         While it is evident that whiteness has maintained a dominant position in the
+       social imaginary of liberal-democratic societies—what Mills refers to as ‘racial
+       liberalism’ (2008)—there has nevertheless also been a considerable renegotiation
+       of racial exclusion therein. Indeed, in many ways, we have seen the reversal of the
+       political neutralisation of race in liberal societies. However, the practices through
+       which race and racialisation produce difference in these contexts have also been
+       masked and disavowed in other ways. This has led to the deepening of the uncon-
+       scious production of the racialised other in liberal contexts, which becomes primed
+       for symptomatic articulation when the norms of liberal-democratic culture are seen
+       to be in crisis.                                      
+         The unconscious production of the racialised other seemingly points to a repres-
+       sion of the processes of racialisation from which it is drawn; moreover, it is through
+       this repression that the liberal-democratic imaginary generates for itself a discursive
+       veil of a ‘racism without racists’ (Bonilla-Silva, 2015). This repression produces the
+       ‘postracial’ (Goldberg, 2015). The implication of this is that when liberal-demo-
+       cratic culture is perceived to be in crisis, there is what could be considered a ‘return
+       of the repressed’, which can manifest via a symptomatic articulation of the racialised
+       other. While we will later link conspiracy thinking to the postracial production of
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+       Race still matters: the (post) racial politics of conspiracy… 695
+                                                             
+       racialised others—and the colour-blindness that disavows its structural embedded-
+       ness—it is first necessary to provide a clearer account of how these conditions lead
+       to racialised expressions.                            
+         Much can be gained by looking at this question from a psychoanalytic perspec-
+       tive. Psychoanalytic theory is particularly helpful for explaining how discourse
+       serves to deepen and intensify racialisation, while revealing links between implicit
+       and explicit forms of racism. This will be crucial for our analysis because it will
+       allow us to interrogate the links between ostensibly non-racial and racial conspiracy
+       theories in liberal-democratic contexts, and the passage from the former to the latter.
+       Conspiratorial thinking and its other                 
+                                                             
+       It is through this passage from ‘non-racial’ to ‘racial’ discourse, replete with its
+       mechanisms of othering and disavowal, that we position our analysis of the contem-
+       porary proliferation of conspiracy theories in liberal-democratic societies. We will
+       provide a psychoanalytic explanation of the phenomenon to identify how the racial-
+       ised other is structured within conspiratorial thinking as it circulates within a racial
+       economy of lack. To do so, it is useful to draw from Lacanian psychoanalysis, such
+       as Alenka Zupančič’s account of conspiracy theories, in which she characterises the
+       ‘march of conspiracy theories from the social margins to its centre’ as being driven
+       by two interrelated transformations (2022, p. 234).   
+         Firstly, attention should be directed to transformations of the communal dimen-
+       sion of these societies, which involves a shifting configuration of social relations
+       commonly understood to be an effect of a developing capitalist system. As Zupančič
+       elaborates, the ‘social relations in late capitalism are excessively fictionalised, in
+       order for the reality of capital to be able to follow its course’ (2022, p. 235). Fol-
+       lowing on from this transformation is a dissolution of grand narratives concerning
+       institutional power, which is particularly pertinent when considering the declining
+       role of political ideologies that had previously reinforced liberal-democratic regimes
+       in the twentieth century. This has deep consequences for people’s capacity to explain
+       their experience of social reality, leading to ‘the dissolution of the “public” as a
+       general or common platform that has long played the role of the shared big Other’
+       (Zupančič, 2022, p. 235). Replacing the function of the public, Zupančič argues, are
+       ‘particularised and privatised truths’ (2022, p. 235). On this basis, we propose that
+       the contemporary proliferation of conspiratorial thinking is a response to the inten-
+       sifying crises of liberal-democratic regimes and their ‘excessive fictionalisation’ of
+       social reality, leading to a drive towards knowledge that can explain the subject’s
+       social experience and restore its communal dimensions.
+         The essential argument proposed by Zupančič is that conspiratorial thinking
+       involves the reproduction of a ‘big Other’ that can make sense of what is not vis-
+       ible within social experience—an object that in itself becomes a source of knowl-
+       edge about institutional power. This approach is significant for the reason that it
+       pushes the analysis further than mere sociological explanations by showing that ‘the
+       firmness of [the] conviction or belief [of conspiracy theorists] springs from what is
+       unconscious in the psychoanalytic sense of the term’ (Zupančič, 2022, p. 246).
+                                                             
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+       696                                    S. Ghumkhor et al.
+                                                             
+         This presents an essential question for our analysis: How is the conspiratorial
+       formation of the other informed by race? We can begin to answer this question
+       by considering Zupančič’s claim that the other is configured through what Lacan
+       has referred to as the enigma of ‘unconscious knowledge’: that is, ‘knowledge that
+       doesn’t know itself’ (Fink, 1995; Lacan, 2006). Zupančič observes that proponents
+       of conspiratorial thinking often seem to exhibit the effects of ‘unconscious knowl-
+       edge’ insofar as ‘it is as if, from the very outset, [conspiracy theory] supporters knew
+       without knowing, without knowing that they know’ (2022, p. 245). For Zupančič,
+       this not only explains the deep investment conspiracy theorists have in the formation
+       of the conspiratorial ‘big Other’, but also the intensity and zeal they display when
+       deciphering the knowledge contained in their fictionalised secret—such as when, in
+       the common idiom, ‘they do their own research’ (Zupančič, 2022, p. 244) to find the
+       ‘real truth’, or what Lacan calls, ‘a little piece of the real’ (Zupančič, 2022, p. 234;
+       see also Lacan & Miller, 2018; Fink, 1995).           
+         It is in reference to these fragments of ‘reality’ that we identify a connection to
+       race thinking. This is because it is from the experience of an already-racialised real-
+       ity—à la Mills’ racial contract (2014)—that the enigma of the other who conspires
+       against the subject is drawn. This partly explains why so many explicitly racist con-
+       spiracy theories—such as GRT, White Genocide, QAnon and Trojan Horse—have
+       emerged in liberal-democratic contexts not only recently in the so-called post-truth
+       era, but also historically as well.                   
+         However, our argument that the ostensibly non-racial conspiracy theories cur-
+       rently proliferating in liberal-democratic societies can also assume a racialised struc-
+       ture requires an even deeper level of clarification. This is particularly the case with
+       respect to the formation of the racialised other. Here, Zupančič again offers a way
+       forward by identifying that regardless of the differing content of conspiracy theo-
+       ries, they nevertheless share a ‘fantasmatic structure’ in which a conspiratorial other
+       steals the subject’s enjoyment or enjoys at their expense (2022, p. 247). Moreover,
+       it is through this very enjoyment that the conspiratorial other comes to embody a
+       ‘quintessential Foreignness with respect to [the subject]’ (Zupančič, 2022, p. 247).
+       Thus, we propose that regardless of the explicit content of any particular conspir-
+       acy theory—be it White Genocide or the threat of 15-minute cities—an ‘other’ who
+       enjoys in the subject’s place, and is therefore racialised by way of being an external
+       or foreign intrusion, can always potentially be to blame. The unconscious knowledge
+       of what otherness means for the subject is therefore invoked in paranoid terms. To
+       demonstrate this thesis, we will now turn to examine the critical role of paranoia—
+       which we understand in psychoanalytic, rather than popular cultural terms—more
+       closely. Once established, this will allow us to analyse how the post-truth discourse
+       works to obscure the workings of race that give rise to conspiratorial thinking in the
+       first instance.                                       
+       Paranoid knowledge                                    
+       What differentiates conspiracy theories and conspiracy theory beliefs from other
+       forms of knowledge? And is it even productive to differentiate them? The established
+                                                             
+                                                             
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+       Race still matters: the (post) racial politics of conspiracy… 697
+                                                             
+       literature on conspiracy theories invokes popular notions of paranoia to distinguish
+       conspiracy theory beliefs from those which are regularly held and are thus deemed
+       to be normal (for an overview, see: Jane & Fleming, 2014). On this view, conspiracy
+       beliefs are portrayed as an enemy of rationality and Enlightenment values, which
+       are valorised (Jane & Fleming, 2014). Consequently, conspiracy theories and disin-
+       formation are commonly understood as being uniquely threatening to liberal-demo-
+       cratic societies insofar as they seem to strike at the heart of liberal-democratic val-
+       ues, such as a commitment to truth, rationality, transparency, and so on (Bennett &
+       Livingston, 2023; Tripodi, 2022). On this understanding, conspiracy theories pose
+       a ‘threat…to healthy democratic practice’ (Freelon & Wells, 2020, p. 146) because
+       they disrupt the ability of democratic societies ‘to articulate and resolve political dif-
+       ferences through reasoned debate based on evidence’ (Bennett & Livingston, 2023,
+       p. 4). This has led to what some have called a ‘crisis of the public sphere’ (Horvat,
+       2021). However, as we will later elaborate, this seemingly innocuous conceptualisa-
+       tion already contains a racialised dimension, which is that conspiracy theories can
+       only be thought to pose a unique threat to liberal-democratic regimes insofar as lib-
+       eral-democratic regimes are also imagined as being uniquely rational. We will return
+       to this aspect shortly. First, however, it is necessary to point out that the pathologisa-
+       tion of conspiracy theories and disinformation labours under its own belief in the
+       existence of knowledge that is ordinary, and thus immune to, or free of, paranoia. By
+       contrast, in psychoanalytic theory, paranoia itself is not necessarily pathological, nor
+       something that can be avoided; rather, as we explain below, it is a symptom (if not
+       condition) of knowledge itself as such (Mills, 2003). 
+         For Lacan, the subject of language must draw upon the Symbolic Order to articu-
+       late its presumed identity (2006, p. 690). However, insofar as language precedes and
+       exceeds the subject, it does not belong to the subject, but instead to the big Other. As
+       such, the Symbolic fails to properly capture the subject’s experiences and ostensibly
+       unique identity. For Lacan, this manifests in a paradox: Language necessarily fails,
+       and yet the subject remains reliant upon language to articulate itself.
+         The subject can respond to the failure of the Symbolic Order, and therefore
+       knowledge, in several ways. The most common is neurosis, which entails a quest for
+       the right signifier that would correspond to the subject and make the subject whole.
+       This quest is perpetual because, as Yannis Stavrakakis explains, ‘there is no signi-
+       fied or transcendental signifier to hold together signification, guaranteeing its coher-
+       ence and fullness’ (1999, p .46). An alternative response is to refuse the rules of the
+       Symbolic Other—a position Lacan calls psychosis—which entails a turn towards
+       imaginary identification(as opposed to Symbolic identification). These ‘other’ imag-
+       inary identifications revolve around the paranoia that an other is to blame for steal-
+       ing something in the Other one once had.              
+         Importantly for Lacan, paranoia is not simply that which defines the psychotic
+       subject. Rather, all subjects are paranoid because they are marked by their encounter
+       with the desire of others. As Jon Mills further explains:
+         Others hurt us with their knowledge, with what they say, as do we. And we
+         hurt knowing. ‘What will the Other do next?’ We are both pacified yet cower in
+         extreme trembling over what we may and may not know – what we may and may
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+       698                                    S. Ghumkhor et al.
+                                                             
+         not find out; and this is why our relation to knowledge is fundamentally para-
+         noiac. (2003, p. 32)                                
+         The subject’s reliance upon a language that necessarily fails leads it to believe there
+       is always more hiding behind the scene: that something is either missing, or is even
+       being actively concealed, à la Zupančič’s account of the other who steals and secretly
+       enjoys (2022, p. 247). Knowledge therefore ‘torments, persecutes, [and] cuts’ the sub-
+       ject even as it enables desire (Mills, 2003, p. 33). The pursuit of knowledge encom-
+       passes this cutting effect, and paranoia is thus less a pathology than a condition of
+       becoming a subject.                                   
+         The affective and paranoid investments that mark subject-knowledge relations pose
+       problems for the way the term conspiracy theory is conventionally deployed, including
+       in conspiracy theory and disinformation research. First, it assumes knowledge can be
+       total, and that the desire for truth can be guaranteed, if not fulfilled. This trend is encap-
+       sulated, for example, by Bennett and Livingston’s claim that we are in the midst of a
+       ‘disinformation disorder’ that has compromised ‘the legitimacy of authoritative institu-
+       tions’, and their ability to ‘anchor public debate in a mix of competing political goals
+       and values, authoritative evidence claims, and norms and processes for communicating
+       and resolving disagreements’ (2023, p. 4; our emphasis). Second, insofar as the term
+       conspiracy theory purports to distinguish ordinary knowledge from knowledge that
+       is specifically paranoid and conspiratorial, it generates a binary between supposedly
+       non-paranoid, mundane knowledge, and that which is supposedly uniquely paranoid
+       and pathological. To this end, the term conspiracy theory functions performatively and
+       ideologically to deem some knowledge as pathological, while simultaneously securing
+       other knowledge as mundane.                           
+         In effect, the designation effectuates a splitting whereby conspiracy theories are
+       set apart as an unintelligible and pathological form of knowledge, while the stability
+       and neutrality of ordinary knowledge is reinforced as a normative standard. A flow-on
+       effect of this conservative manoeuvre, of course, is that some subjects are designated
+       as pathological (i.e. those who subscribe to conspiracy theories), while others are not.
+       However, if all knowledge is paranoid—that is, remains plagued by the question of
+       the Other—then the binary between the mundane and the pathological is spurious and
+       unstable; and more than this, so too the category of ordinary knowledge itself remains
+       volatile.                                             
+         In the section that follows, we will elucidate the mechanisms through which con-
+       spiracy theories attempt to suture the volatility of knowledge via the fantasy of race.
+       We will argue that insofar as the other of liberal-democratic societies is always-already
+       racialised, the fantasy of race can perform this function even when the conspiracy the-
+       ory in question seems, at least superficially, to be non-racial. We will thereby contend
+       that the categorisation of conspiracy theories as such can constitute a postracial strategy
+       that further conceals unconscious knowledge of race.  
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+       Race still matters: the (post) racial politics of conspiracy… 699
+       The racial logics of ‘Non‑Racial’ conspiracies        
+                                                             
+                                                             
+       As outlined above, insofar as popular and academic understandings work to pathol-
+       ogise conspiracy theories, they foreclose the need for a deeper analysis of what
+       conspiracy theories offer the subject beyond specifically articulated extreme preoc-
+       cupations. However, we have argued that in the light of Lacan’s formulations, the
+       distinction between paranoid pathological knowledge and non-paranoid ordinary
+       knowledge rests on unstable footing, because all knowledge is necessarily riddled
+       with paranoia, and the fantasy of complete knowledge is impossible. In this section,
+       we trace a further split that is typically effectuated in terms of the way conspiracy
+       theories are categorised in both popular understandings and emerging conspiracy
+       theory literature: that of being either racial or non-racial. Our argument will be that
+       the distinction effectuates a postracial manoeuvre that masks the modes of raciali-
+       sation at work even in ostensibly non-racial conspiratorial thinking. The section
+       will begin by first introducing the postracial. We will then discuss several exam-
+       ples of contemporary conspiracy theories, revealing how they are underpinned by
+       modes and structures of race and racialisation despite appearing, at first gloss, to be
+       non-racial.                                           
+         The term postracial gained traction during the years of Barack Obama’s presi-
+       dency, which many interpreted as a signal the United States had moved on from its
+       racial past. In a singular moment, past grievances were supposedly either suspended,
+       soothed or overcome, and an allegedly postracial era began. This reading has worked
+       to mythologise liberal-democratic regimes by obscuring the ongoing realities of rac-
+       ism (Ono, 2010), and in our psychoanalytic reading, it identifies a liberal fantasy
+       of freedom that represses historical experience by neutralising race. Seeing through
+       this, however, scholars of racism have identified new racisms (Bonilla-Silva, 2015)
+       that operate via a political strategy (Ono, 2010) of racism without race (Goldberg,
+       2015). Goldberg (2015) characterises this mode of conceptualising racism as a depo-
+       liticised, neo-liberal strategy that circumscribes racism by articulating it in terms of
+       individualised irruptions. This frames racism as behaviour, rather than an expression
+       of broader institutional practices (Lentin & Titley, 2011; Mills, 2008, 2014; Morsi,
+       2017). Effectively this obscures what Mills identifies as the social ontology of race,
+       which produces social reality and a hierarchical system (2008, p. 1388).
+         Insofar as it draws our focus away from the social ontology of race, the postracial
+       creates what Barnor Hesse calls the postracial horizon (2011). In effect, the postra-
+       cial invisibilises the racial contract while allowing it to remain fully operable (Mills,
+       2014). This horizon, we add, requires a deeper fantasy of liberal equality and free-
+       dom that covers over the workings of race while its harms are compounded through
+       practices that split off the vulnerable citizen and the conspiratorial other. Our pur-
+       pose in invoking this understanding is not to make the concept of the postracial do
+       heavy lifting, as Valluvan (2016) has well cautioned. Rather, we identify in it a fan-
+       tasmatic structure that calls attention to the often-invisible inscription of the racial
+       contract (as unconscious knowledge) in our social and cultural worlds, so that we
+       might then illuminate how non-racial conspiracy theories can nevertheless be made
+       to do the work of racism.                             
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+       700                                    S. Ghumkhor et al.
+                                                             
+         The postracial can be traced in relation to conspiracy theories in two ways.
+       First, to follow on from Dean’s (2002) observations about conspiracy theories as
+       ‘a way of doing politics’, we can interpret the relegation of conspiracy theories to
+       the margins and so-called extreme as a manoeuvre that reproduces the progres-
+       sive myth of the postracial by divorcing conspiracy theories from the mainstream
+       of society. This distances conspiracy theories and their inherent paranoia from
+       ordinary knowledge and public discourse, which are supposedly non-paranoid.
+       This manoeuvre constructs conspiracy theories, paranoia, and racism as phenom-
+       ena that are inconsistent with society’s centre and are therefore either less worthy
+       of serious examination, or can be examined in isolation, without implicating the
+       already-racialised liberal-democratic contexts in which conspiracy theories have
+       thrived.                                              
+         Secondly, as foreshadowed above, we suggest that the problematic split between
+       paranoid and non-paranoid knowledge is reproduced via the categorisation of con-
+       spiracy theories as being either racial or non-racial: a binarisation we will character-
+       ise as an expression of the postracial horizon that masks the modes of racialisation
+       that structure liberal-democratic societies (à la whiteness). We will now turn to this
+       point by considering the structural affinity between multiple well-known conspiracy
+       theories that are often isolated from one another by being separated out into such
+       categories.                                           
+         Throughout the Covid-19 pandemic, far-right groups pushed a range of conspir-
+       acy theories (Ahmed et al., 2020; Biddlestone et al., 2020; Buarque, 2022; Dolan,
+       2020; Jolley & Paterson, 2020). Many of these explicitly evoked racism, such as
+       GRT, White Genocide, QAnon, and Eurabia. The same networks also featured a
+       range of conspiracy theories conventionally understood as being unrelated to rac-
+       ism. Examples include conspiracy theories about Covid-19, such as whether it was
+       a biological weapon or a hoax; conspiracy theories about Covid-19 health meas-
+       ures, such as the vaccine, lockdowns, and movement restrictions; and conspiracy
+       theories about various phenomena, such as the 5G network, 15-minute cities, and
+       climate change. Existing analyses have highlighted the way these non-racial con-
+       spiracy theories have been deployed to advance racist ideologies. Mobashra Taza-
+       mal (2020) observes, for example, that many Covid-19 conspiracy theories incorpo-
+       rated Islamophobia, such as by ‘alleging…Muslims were responsible for the spread
+       of Covid-19’ through migration, religious observance, and having larger families.
+       Such ideas allude to GRT and White Genocide, which are underpinned by the anxi-
+       ety that white people are being replaced by ‘high breeding’ migrants. The Muslim
+       subject that is consistent across these allusions is an Islamophobic fantasy structured
+       precisely through the mechanism of the racialised other, which in itself is already
+       constituted within these liberal-democratic contexts to serve as a ‘big Other’ when
+       symptomatic responses to crises are triggered. In a similar vein, members of QAnon
+       claimed Covid-19 health measures were part of a ‘secret plan orchestrated by Mus-
+       lims’ to control the nation by ‘[bringing] Sharia law to the United States by way
+       of coronavirus restrictions’ (Khalel, 2020). Some labelled Covid-19 ‘the Chinese
+       virus’, and alluded to historical anxieties about ‘the yellow peril’, leading to a surge
+       in anti-Asian racism in both public spaces and on social media (Viala-Gaudefroy &
+       Lindaman, 2020).                                      
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+       Race still matters: the (post) racial politics of conspiracy… 701
+                                                             
+         While these observations regarding the intersection of racial and supposedly
+       non-racial conspiracy theories are important, our intention is to take such analyses
+       further. Our central claim is that conspiracy theories cannot simply be categorised
+       as either racial or non-racial. Such a split would only lead to an interpretation of
+       the above phenomena as one through which ‘originally’ non-racial conspiracy theo-
+       ries come to be deployed alongside racial conspiracy theories so that the former can
+       serve a racialising function that they previously did not have. By contrast, we instead
+       claim that in the context of the liberal-democratic imaginary, which is dominated
+       by a defence of whiteness, conspiracy theories always-already operate via racial-
+       ised logics insofar as they necessarily posit the existence of an other who is always-
+       already racialised by the very conditions by which it is made other. In other words,
+       race does not just return in the above examples, but rather, structures experiences
+       of the threat to public health from the outset. This means that in the liberal-demo-
+       cratic imaginary, conspiracy theories are primed as vectors of racism regardless of
+       the form or content they might assume, and the motives for which they are deployed.
+         To understand why even seemingly non-racial conspiracy theories can have a
+       racialised structure, it is important to understand how the racial contract has come to
+       be postracially depicted. In dominant narratives, the privileges once enjoyed by the
+       white subject—coded into the liberal subject—have been eroded in recent decades.
+       These privileges have allegedly been lost on several fronts, including to globalisa-
+       tion (qua capitalism); mass migration and multiple refugee crises; Muslims and
+       Islam; Indigenous populations, including via treaties, native title, and land acknowl-
+       edgements; as well as to other cultural forces and trends, such as multiculturalism
+       and political correctness. While contemporary racist conspiracy theories such as
+       GRT, White Genocide, QAnon, and ‘Chinese virus’, directly tap into these anxieties
+       of loss, so too we argue do ostensibly non-racial conspiracy theories. This is because
+       the narrative of loss can, and in liberal-democratic societies frequently does, assume
+       racialised dimensions. This is apparent, for example, in the aforementioned conspir-
+       acy theories about Covid-19, the 5G network, 15-minute cities, and climate change.
+       While such conspiracy theories are frequently understood as being unrelated to race
+       and racism, their recurring theme of loss should prompt the question, ‘to whom is
+       freedom supposedly being lost?’, or, ‘who is being blamed for taking our freedom?’
+         While this conceptual binarisation obscures race and the modes of racialisation
+       at work in allegedly non-racial conspiracies, it also obscures the connection between
+       both categories. To illustrate why, we will briefly use the Medical Apartheid con-
+       spiracy theory, which circulated in relation to Covid-19 health measures, as an
+       example. When lockdowns, movement restrictions, mask-mandates, vaccine require-
+       ments, and vaccine passports emerged to curtail the virus, the measures were imme-
+       diately grouped together under the phrase Medical Apartheid and incorporated into
+       existing anxieties about the slow but steady erosion of freedom in liberal-democratic
+       societies (Gillespie & Ghumkhor, 2024). Adherents portrayed Medical Apartheid,
+       and the health measures that constituted it, as a continuation of the State’s desire to
+       erode the liberal freedom of those deemed to be most (rightfully) in possession of it.
+         While at first blush, this reading may not appear to contain a racial dimen-
+       sion, in the light of Mills’ arguments about the racial contract (2014) and racial
+       liberalism (2008, 2017), its racial contours become more evident, and liberal
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+       702                                    S. Ghumkhor et al.
+                                                             
+       freedom is unmasked as white freedom (Stovall, 2021). This articulates with
+       Sunera Thobani’s (2007) argument that it is through whiteness that subjects
+       become the exalted subjects of the nation, who can imagine themselves in pos-
+       session of, and as ideal candidates for, liberal freedom. In reference to this cov-
+       ert whiteness,                                        
+         Gillespie and Ghumkhor (2024) have identified the workings of race within
+       Covid-19 conspiracy theories that portray freedom in crisis. While these con-
+       spiracy theories appeared to bind adherents together through a shared sense of
+       loss—that of their freedom—they found a familiar racialised paranoia at work
+       that depicted the other as conspiring to steal freedom from the exalted (white)
+       subject. Given this relationship between freedom and whiteness, it should there-
+       fore come as no surprise that Covid-19 conspiracy theorists gave a racially
+       charged name to the alleged cause of their lost freedom, namely, Medical
+       Apartheid.                                            
+         Race (coded in the use of apartheid) attempts to fulfil the fantasy of knowl-
+       edge (of the medical field, science) through the experience of being denied
+       access to it by a loss of freedom from public health measures. This fulfilment
+       requires an other that is functionally perceived as an external intrusion. In
+       other words, the other onto which loss, threat, danger, anger, resentment, envy,
+       and jealousy are projected is already a racialised structure that mobilises an
+       unconscious knowledge of what otherness marks (conspiring to take our free-
+       dom, brings about our destruction, cultural contamination, and so on). While
+       the process of racialising the other manifests in the paranoia of being replaced
+       by migrants or Muslims (etc.), thereby causing ‘white genocide’, so too, it also
+       manifests in the reaction to the equalising effects of supposedly non-racial con-
+       spiracy theories, which effectively make everyone foreign insofar as they are
+       portrayed as racialised subjects of unfreedom. Put more directly, we can thus see
+       how racial anxieties about replacement are both detectable in, and (re)iterated
+       via, Covid-19 conspiracies.                           
+         The above example demonstrates that the underlying logic of conspiracy the-
+       ories can be racialised even if the alleged conspirator is not explicitly named as
+       a racialised other. While they are clearly different in terms of their content, both
+       types of conspiracy work to explain the lack in the subject of (racial) liberalism
+       as that which results from an other who conspires to steal and erode its freedom.
+       The racialisation of freedom in liberal-democratic contexts therefore problema-
+       tises the conceptual separation of supposedly racial and non-racial conspiracy
+       theories, revealing this cordoning off as a postracial manoeuvre. Our argument
+       thus goes well beyond the claim that racial and non-racial conspiracy theories
+       can merely be invoked together. Instead, we have argued that even when operat-
+       ing alone, seemingly non-racial conspiracy theories can reinforce narratives of
+       (white) loss by assuming the guise of the postracial. 
+         With the first two parts of our argument thus far established, we now turn to
+       the final part, which is that the postracial impulse for conceptualising the prolif-
+       eration of conspiracy theories in liberal-democratic contexts reaches its zenith in
+       the growing notion that we are living in a post-truth era.
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+       Race still matters: the (post) racial politics of conspiracy… 703
+       Postracial post‑truths                                
+                                                             
+                                                             
+       At the turn of the twenty-first century, Jodi Dean (2002) reflected on the growth
+       of information technologies. While noting they had brought previously unimagined
+       levels of information accessibility to some, she wondered whether this accessibility
+       could be experienced as an exposure to information that might itself become too
+       much to bear. This is because the information age that proliferates data also pro-
+       liferates the impression that there is always more to know, and that everything is
+       connected. This serves as a constant reminder that ‘things are not as they seem’,
+       paradoxically generating the ‘guiding [impulse]’ for conspiratorial thinking (Dean,
+       2002, p. 48). For Dean, this impulse is fundamentally paranoid because it leads the
+       subject to search for a truth that has been withheld—a process that entails sifting
+       through masses of information to uncover hidden knowledge (the secret) with the
+       hope of finally arriving at the ‘real’ truth.         
+         While Dean wrote about this at the turn of the millennium, since that time, the
+       trends she identified have only exacerbated. Indeed, information and information
+       technologies have continued to proliferate at such speed that we have now ironically
+       entered what many are calling a post-truth era, both in public discourse (Anderson &
+       Raine, 2017; Enfield, 2017; Kakutani, 2018) and in academic literature (Ahlstrom-
+       Vij, 2023; McIntyre, 2018; Pond, 2020). Such proclamations have grown louder
+       with the rise (and now return) of Trumpism, and its attendant accusations of fake
+       news and invocation of ‘alternative facts’. Indeed, post-truth was declared ‘word
+       of the year’ by the Oxford English Dictionary on 11 December 2016 (Anderson &
+       Raine, 2017). This notion of truth in crisis or some kind of knowledge fragmen-
+       tation is frequently called upon to explain the proliferation of conspiracy thinking
+       in liberal-democratic societies. In this section, however, we will problematise this
+       characterisation by taking up Jason David Myers’ insistence that we ask: ‘what is
+       one doing when one utters the words “post-truth”?’ (2018). In heeding this call, we
+       argue that the post-truth discourse constitutes a further move towards the postracial
+       insofar as it temporalises and circumscribes conspiracy thinking in a way that masks
+       whiteness and historical continuities of racism.      
+         The post-truth era is often portrayed as emerging, or at least rising to promi-
+       nence, around the time of Donald Trump’s 2016 presidential election. Despite being
+       embroiled in near-constant controversies, lies, denials, and distortions, including
+       the Trump campaign’s oppositional discourse to ‘mainstream media’, ‘elites’, and
+       ‘the liberal establishment’, Trump’s popularity soared, spurring an entire social
+       movement. At the same time, a range of technologies capable of rapidly spreading
+       mis- and disinformation proliferated. For those who subscribe to the post-truth dis-
+       course, this has led to the erosion of knowledge and the public sphere via two paral-
+       lel processes.                                        
+         First is a growing suspicion of received knowledge (especially that which
+       stems from those Trump has labelled intellectual elites). Second, occurring
+       simultaneously, is the public’s alleged disinvestment in truth as a priority (Farkas
+       & Schou, 2019; Pond, 2020). Writing in this vein, Phillip Pond (2020) frames the
+       post-truth problem as one of complexity, where reality is increasingly mediated
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+       704                                    S. Ghumkhor et al.
+                                                             
+       by digital technologies and systems of interactions. As a consequence, Pond sug-
+       gests, people care less about the truth than they previously did, and so we must
+       ask: ‘why does nobody know anything anymore?’ In what follows, however, we
+       will both challenge the thesis that nobody cares nor knows anything anymore,
+       while also arguing that the epistemology of truth upon which Pond’s question
+       rests requires closer investigation.                  
+         The notion that conspiracy theories and the belief in alternative facts have
+       taken off due to the inauguration of a post-truth era is quickly troubled by an
+       analysis of the epistemological function of conspiracy theories. This is because,
+       although the term post-truth is increasingly deployed, when examining conspir-
+       acy theories, it is clear that adherents are not opposed to truth per se (Hannon
+       2023). On the contrary, they tend to be deeply committed to finding a truth that is
+       ‘out there’ but has been withheld (Dean, 2002).       
+         With this in mind, Stef Aupers (2012) maintains that despite first appearances,
+       conspiracy theorising is not an aberration of modernity and liberal ideals, which
+       is typically understood as prioritising reason, rationality, and the constant pursuit
+       of technological and scientific progress. This is because for Aupers, the liberal
+       pursuit creates a constant reminder that knowledge is never complete and is sub-
+       ject to change at any time. Paradoxically then, the commitment to the pursuit of
+       knowledge can be experienced as destabilising, leading to the emergence of con-
+       spiracy cultures that facilitate the ‘construction of ultimate meaning that is resist-
+       ant to the meaning-eroding forces of modernity’ (Aupers, 2012, p. 32).
+         In line with Aupers, albeit writing in a different context, George Mitropoulos
+       (2022) observes how conspiracists are typically on the side of certainty, rather
+       than belief. Mitropoulos associates this certainty with what Jacques Miller has
+       called ‘epistemonia’: an inverted transference through which the subject moves
+       away from a position of not knowing to earnestly believing one knows. This
+       knowing appears in the certainty that Dean (2002) identified decades earlier:
+       the conviction that ‘things are not as they seem’, and that the real truth has been
+       denied. Thus, rather than indicating we have entered an era in which ‘nobody
+       knows anything anymore’—and moreover, in which nobody cares about this—
+       the presence of conspiracy theorising can instead signal precisely the opposite,
+       namely, a renewed investment in truth, and the fantasy that ‘it’ exists ‘out there’
+       such that it might be dis-covered by, and recuperated for, the subject. Contrary
+       to the post-truth discourse then, while the contemporary surplus of information
+       can lead to widespread distrust, it does not follow that this distrust manifests in a
+       widespread disinvestment in truth. Indeed, the notion that subjects distrust official
+       sources of knowledge, and therefore no longer care about truth, can be reversed:
+       it is not that they no longer care because they distrust, but rather, that they dis-
+       trust because they care.                              
+         A psychoanalytic reading, as we have suggested above, can help us to understand
+       why subjects who subscribe to conspiracy theories, far from not knowing anything
+       or caring about the truth, are instead passionately invested in locating and securing
+       the truth for themselves, namely, so that their position within the social order can be
+       stabilised. It is with respect to this positioning that the structures of race and raciali-
+       sation again become crucial to understanding how conspiracy theories work in
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+       Race still matters: the (post) racial politics of conspiracy… 705
+                                                             
+       liberal-democratic regimes, whose social orders are regulated by whiteness and the
+       racial contract—both of which are precisely what the post-truth discourse obscures.
+         This obfuscation has been alluded to by Mejia et al., who acknowledge that while
+       there are benefits to identifying the problems posed by ‘algorithms, big data, predic-
+       tive analytics, [and] insulated information ecosystems’, that nevertheless, the post-
+       truth discourse also reproduces a ‘myth that we once lived in an era of unproblem-
+       atic truth’, which ‘intersects with a neoconservative nostalgia for a postracial past
+       that never existed’ (2018, p. 115). As an extension of this observation, we claim
+       that a consequence of the postracial politics of the post-truth discourse, is that it
+       works to obscure the fantasy of proximity to knowledge (freedom, authority, power)
+       as a racial prerogative that conspiracy theorising fulfils in liberal-democratic con-
+       texts. This is because the techno-rationalist post-truth explanation temporalises the
+       proliferation of conspiracy theories in liberal-democratic contexts such that they are
+       mechanistically explained and become isolated from the ongoing histories of racism
+       and whiteness that characterise the very contexts from which they have emerged.
+         In contradistinction to this, we instead suggest that another reading is possible
+       that the proliferation of conspiracy theorising in liberal-democratic contexts can be
+       understood as a form of white backlash which attempts to reclaim the social ‘truth’
+       of whiteness and all that it affords the conspiratorial subject. Indeed, this is another
+       way of articulating the thesis we have already elucidated above, namely, that in the
+       context of liberal-democratic societies, conspiracy theories always-already oper-
+       ate via racialised logics insofar as the conspiratorial other they necessarily posit
+       assumes its orientation in reference to whiteness. Put simply, the other of liberal-
+       democratic societies is not-white by the fact that it possesses something that is not
+       theirs. Consequently, any perceived erosion to liberal freedom qua white freedom
+       (Stovall, 2021) must be perpetrated by a racialised other who threatens the racial
+       contract liberalism establishes with its exalted subject. The techno-rationalist diag-
+       nosis of the problem as one resulting merely from the proliferation of new tech-
+       nologies thus misses the mark and provides a postracial ‘discourse of distraction’ by
+       invoking a public sphere in crisis (Ono, 2010). Its severing manoeuvre attributes and
+       confines the emergence of racist conspiracy theories to the present moment (Mejia
+       et al. 2018), thereby invisibilising the racial animus that propels and sustains them,
+       while divorcing them from the historical-material continuities of racial liberalism
+       (Mills, 2017) and the racial contract (Mills, 2014). To this end, the post-truth dis-
+       course not only ignores but also obscures racial animus, historical antagonisms, and
+       deep social inequalities that persist today: not only those that spur on conspiracy
+       theories, but so too those of which conspiracy theories are merely a symptom.
+       Conclusion                                            
+       In this article, we have attempted to widen the lens through which the contem-
+       porary proliferation of conspiracy theories is conceptualised. This has enabled a
+       deeper questioning of common assumptions—from both within conspiracy theory
+       literature and liberal-democratic society at large—which exceptionalise conspir-
+       acy theories and render them as both the irrational preoccupation of ‘extreme’
+                                                             
+                                                             
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+       706                                    S. Ghumkhor et al.
+                                                             
+       actors, and/or as the emerging byproduct of a contemporary crisis of knowledge.
+       Both of these manoeuvres cast the phenomenon of conspiracy theories as a dan-
+       gerous pathology that, if not requiring securitised intervention, presents a threat
+       to the shared reality and social unity imagined by liberalism.
+         While conspiracy theories are driven by a belief that ‘things are not as they
+       seem’, as Dean observed long ago, we have argued that conspiracy theories
+       themselves are not as they seem. Rather than exceptionalising them as a para-
+       noid pathology or extremist threat, we have instead argued that the paranoia that
+       drives conspiracy theories is inherent to the precarious conditions of all knowl-
+       edge, which, as Lacanian psychoanalysis explains, necessarily has a paranoid
+       structure for the subject, who is haunted by the other such that its location in the
+       social world constantly comes into question. We have argued that the treatment of
+       conspiracy theories as a pathological formation that emerges beyond the pale of
+       liberal-democratic regimes paves the way for a misdiagnosis of the structures and
+       phenomena by which they are caused, and the functions they sometimes fulfil.
+         In this misdiagnosis, we have identified the workings of a postracial conceal-
+       ment that obscures both the racial animus and racialising function of conspiracy
+       thinking in liberal-democratic societies. Contrary to this, we identified a race
+       agenda as being present in the shared anti-establishment sentiments that char-
+       acterise both overtly racial and seemingly non-racial conspiracy theories, such
+       as those related to Covid-19 and the distrust of authorities in general. Prevailing
+       readings that split conspiracy theories into racial and non-racial, while character-
+       ising the former as extreme and harmful, and the latter as pathological but (rela-
+       tively) unharmful, effectuate a postracial manoeuvre that obscures the continuity
+       between the two.                                      
+         We have also argued against a common reading of rising conspiracy theories
+       as a signal that we have entered a post-truth era. This interpretation, we claim,
+       reproduces a similar postracial obfuscation. Portraying the correlative prolifera-
+       tion of information and distrust as a sign that ‘nobody knows anything anymore’,
+       and that no one cares, not only offers a simplistic reading of knowledge and sub-
+       jectivity, but also works in the service of the postracial by both (re)producing and
+       then relying upon an historical erasure. This is because the techno-rationality of
+       the post-truth explanation temporalises and circumscribes the emergence of con-
+       spiracy theories such that they become isolated from the ongoing, but often unac-
+       knowledged racial dimensions of the liberal-democratic imaginary. While both
+       scholarly and popular theories about conspiracy theories tend towards apolitical
+       and ahistorical explanations, the psychoanalytic framework we have employed to
+       trace the politics of the postracial has enabled a more nuanced reading. Lacan-
+       ian psychoanalysis reveals conspiracy theories are not disturbances of the pub-
+       lic sphere, but rather, symptoms of a repressed racial structure that is repeatedly
+       disavowed.                                            
+       Acknowledgements This research was funded by a grant from the Anti-Racism Hallmark Research Ini-
+       tiative at the University of Melbourne. We would also like to express our appreciation to the editor and
+       anonymous reviewers for their insightful and generous feedback.
+       Funding Open Access funding enabled and organized by CAUL and its Member Institutions.
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+       Race still matters: the (post) racial politics of conspiracy… 707
+       Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+       which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long
+       as you give appropriate credit to the original author(s) and the source, provide a link to the Creative
+       Commons licence, and indicate if changes were made. The images or other third party material in this
+       article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line
+       to the material. If material is not included in the article’s Creative Commons licence and your intended
+       use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permis-
+       sion directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/
+       licenses/by/4.0/.                                     
+       References                                            
+                                                             
+       Ahlstrom-Vij, K. (2023) Do we live in a ‘post-truth’ era? Political Studies 71(2): 501–517.
+       Ahmed, W., Downing, J., Vidal-Alaball, J. and Lopez Seguí, F. (2020) COVID-19 and the 5G con-
+         spiracy theory: social network analysis of twitter data. Journal of Medical Internet Research
+         22(5): e19458.                                      
+       Anderson, J. and Raine L. (2017). The future of truth and misinformation online. Pew Research
+         Center, October 17. https://w ww.p ewres earch.o rg/i ntern et/2 017/1 0/1 9/t he-f uture-o f-t ruth-a nd-
+         misinf ormat ion-o nline/                           
+       Asad, T. (2003) Formations of the secular: Christianity, Islam, modernity. Stanford University Press.
+       Aupers, S. (2012) ‘Trust no one’: Modernization, paranoia and conspiracy culture. European Journal
+         of Communication 27(1): 22–34.                      
+       Bennett, W.L. and Livingston, S. (2023) A brief history of the disinformation age: Information
+         wars and the decline of institutional authority. Streamlining political communication concepts:
+         Updates, changes, normalcies. Springer International Publishing, pp. 43–73.
+       Biddlestone, M., Green, R. and Douglas, K.M. (2020) Cultural orientation, power, belief in conspir-
+         acy theories, and intentions to reduce the spread of COVID-19. British Journal of Social Psy-
+         chology 59(3): 663–673.                             
+       Bjerg, O. and Presskorn-Thygesen, T. (2017) Conspiracy theory: Truth claim or language game? The-
+         ory, Culture and Society 34(1): 137–159.            
+       Bonilla-Silva, E. (2015) The structure of racism in color-blind, ‘Post-Racial’ America. American
+         Behavioral Scientist 59(11): 1358–1376.             
+       Buarque, B. (2022) Is it conspiracy or ‘Truth’? Examining the legitimation of the 5G conspiracy the-
+         ory during the Covid-19 pandemic. Social Epistemology 36(3): 317–328.
+       Butter, M. (2014) Plots, designs and schemes: American conspiracy theories from the puritans to the
+         present. Walter de Gruyter, Germany.                
+       Dean, J. (2002) Publicity’s secret: How technoculture capitalizes on democracy. Cornell University
+         Press.                                              
+       Dolan, E.W. (2020). Conspiracy mentality linked to non-compliance with official—But not unoffi-
+         cial—Coronavirus prevention measures. PsyPost, June 30. https://w ww.p sypos t.o rg/2 020/0 6/
+         conspi racy-m ental ity-l inked-t o-n oncom plian ce-w ith-o ffici al-b ut-n ot-u noff i cial-c orona virus-
+         preven tion-m easur es-5 7186                       
+       Enfield, N. (2017). We’re in a post-truth world with eroding trust and accountability. It can’t end well.
+         The Guardian, November 17. https://w ww.t hegua rdian.c om/c ommen tisfr ee/2 017/n ov/1 7/w ere-
+         in-a-p ost-t ruth-w orld-w ith-e rodin g-t rust-a nd-a ccoun tabil ity-i t-c ant-e nd-w ell
+       Farkas, J. and Schou, J. (2019) Post-truth, fake news and democracy: Mapping the politics of false-
+         hood. Routledge.                                    
+       Fink, B. (1995) The Lacanian subject: Between language and Jouissance. Princeton University Press.
+       Frankenberg, R. (1993) White women. The social construction of whiteness. University of Minnesota
+         Press.                                              
+       Freelon, D. and Wells, C. (2020) Disinformation as political communication. Political Communica-
+         tion 37(2): 145–156.                                
+       Gillespie, L. and Ghumkhor, S. (2024) Conspiracy theories, racial liberalism and fantasies of free-
+         dom. Law Critique. https://d oi.o rg/1 0.1 007/s 10978-0 24-0 9393-6.
+       Goldberg, D.T. (2015) Are we all postracial yet?. Wiley.
+
+[PAGE 19]
+                                                             
+                                                             
+                                                             
+       708                                    S. Ghumkhor et al.
+                                                             
+       Haggis, J. (2004) Thoughts on a politics of whiteness in a (never quite post) colonial country: aboli-
+         tionism, essentialism and incommensurability. In A. Moreton-Robinson (ed.) Whitening race:
+         Essays in social and cultural criticism. Aboriginal Studies Press.
+       Hannon, M. (2023) The politics of post-truth. Critical Review 35(1–2): 40–62.
+       Horvat, K.V. (2021) Conspiracy theories and the crisis of the public sphere: COVID-19 in Slovenia.
+         Javnost - the Public 28(2): 219–235.                
+       Jane, E.A. and Fleming, C. (2014) Modern conspiracy: The importance of being paranoid. Blooms-
+         bury Publishing.                                    
+       Jolley, D. and Paterson, J.L. (2020) Pylons Ablaze: Examining the role of 5G COVID-19 conspiracy
+         beliefs and support for violence. British Journal of Social Psychology 59(3): 628–640.
+       Kakutani, M. (2018). The death of truth: how we gave up on facts and ended up with
+         trump. The Guardian, July 14. https://w ww.t hegua rdian.c om/b ooks/2 018/j ul/1 4/
+         the-d eath-o f-t ruth-h ow-w e-g ave-u p-o n-f acts-a nd-e nded-u p-w ith-t rump
+       Khalel, S. (2020). Masks to Sharia: QAnon is spreading anti-Muslim ideology via coronavirus oppo-
+         sition. Middle East Eye, July 20. https://w ww.m iddle easte ye.n et/n ews/m asks-s haria-q anon-s prea
+         ding-a nti-m uslim-i deolo gy-c orona virus-o pposi tion
+       Lacan, J. (2006). Ecrits: The First Complete Edition in English, Fink B. (trans.), W.W. Norton.
+       Lacan, J. and Miller, J.A. (2018). The Four Fundamentals Concepts of Psycho-analysis. Miller J.A.
+         (ed.), Sheridan A. (trans.). Routledge              
+       Lentin, A. and Titley, G. (2011) The crises of multiculturalism: Racism in a neoliberal age. Zed
+         Books Ltd.                                          
+       Losurdo, D. (2011) Liberalism: A Counter History, Elliot G. (trans.), Verso Books
+       McIntyre, L. (2018) Post-truth. MIT Press.            
+       Mejia, R., Beckermann, K. and Sullivan, C. (2018) White lies: a racial history of the (post)truth. Com-
+         munication and Critical/Cultural Studies 15(2): 109–126.
+       Mills, C.W. (2008) Racial Liberalism. PMLA, Special Topic: Comparative Racialisation 123(5):
+         1380–1397.                                          
+       Mills, C.W. (2014) The racial contract. Cornell University Press.
+       Mills, C.W. (2017) Black rights/white wrongs: The critique of racial liberalism. Oxford University
+         Press.                                              
+       Mills, J. (2003) Lacan on paranoiac knowledge. Psychoanalytic Psychology 20(1): 30–51.
+       Mitropoulos, G.B. (2022). Conspiracism and psychoanalysis: The side of meaning the side of cause.
+         Lacanian Review Online, February 23. https://w ww.t helac anian revie ws.c om/c onspi racis m-a nd-
+         psycho analy sis-t he-s ide-o f-m eanin g-a nd-t he-s ide-o f-c ause/
+       Morsi, Y. (2017) Radical skin, moderate mask: Deradicalising the Muslim in post-racial societies.
+         Rowman & Littlefield.                               
+       Myres, J.D. (2018) Post-truth as symptom: The emergence of a masculine hysteria. Philosophy &
+         Rhetoric 51(4): 392–415.                            
+       Ono, K. (2010) Postracism: A theory of the ‘Post-’ as political strategy. Journal of Communication
+         Inquiry 34(3): 227–233.                             
+       Pond, P. (2020) Complexity, digital media and post truth politics: A theory of interactive systems.
+         Palgrave MacMillan.                                 
+       Seshadri-Crooks, K. (2000) Desiring whiteness: A Lacanian analysis of race. Routledge.
+       Stavrakakis, Y. (1999) Lacan and the political. Routledge.
+       Stovall, T. (2021) White freedom: The racial history of an idea. Princeton University Press.
+       Tazamal, M. (2020). Islamophobia in 2020: Covid-19 and Conspiracy Theories. Bridge Initiative,
+         Georgetown University, December 22. https://b ridge.g eorge town.e du/r esear ch/i slamo phobi a-i n-
+         2020-c ovid-1 9-a nd-c onspi racy-t heori es/       
+       Thobani, S. (2007) Exalted subjects: Studies in the making of race and Nation in Canada. University
+         of Toronto Press.                                   
+       Tripodi, F.B. (2022) The propagandists’ playbook: How conservative elites manipulate search and
+         threaten democracy. Yale University Press.          
+       Vatter, M. (2004) Strauss and schmitt as readers of Hobbes and Spinoza: On the relation between
+         political theology and liberalism. CR: The New Centennial Review 4(3): 161–214.
+       Viala-Gaudefroy, J. and Lindaman, D. (2020). Donald Trump’s ‘Chinese Virus’: the politics of nam-
+         ing. The Conversation, April 22. https://t hecon versa tion.c om/d onald-t rumps-c hines e-v irus-t he-
+         politi cs-o f-n aming-1 36796                       
+
+[PAGE 20]
+                                                             
+                                                             
+                                                             
+       Race still matters: the (post) racial politics of conspiracy… 709
+                                                             
+       Zupančič, A. (2022) A short essay on conspiracy theories. In A. Johnston, B. Nedoh and A. Zupančič
+         (eds.) Objective fictions: philosophy, psychoanalysis, marxism. Edinburgh University Press.
+       Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published
+       maps and institutional affiliations.                  
+                                                             
+                                                             
+       Sahar Ghumkhor is a senior lecturer in criminology at the University of Melbourne, Australia. Her work
+       explores the intersections of racism/Islamophobia, psychoanalysis, and political violence.
+       Liam Gillespie is a lecturer in criminology at the University of Melbourne whose work is broadly con-
+       cerned with far-right political violence, ethnic nationalism, and white supremacy.
+                                                             
+       Sean McMorrow is an editor of Parrhesia: A Journal of Critical Philosophy. He teaches in the department
+       of media and communications at the University of Melbourne and is the author of The Power to Assume
+       Form: Cornelius Castoriadis and Regimes of Historicity (Lexington Books, 2023) and co-editor of Mar-
+       cel Gauchet and the Crisis of Democratic Politics (Routledge, 2022).
+       Authors and Affiliations                              
+                                                             
+       Sahar Ghumkhor1 · Liam Gillespie1 · Sean McMorrow1    
+                                                             
+       *                                                     
+         Sahar Ghumkhor                                      
+         ghumkhor@unimelb.edu.au                             
+         Liam Gillespie                                      
+         liam.gillespie@unimelb.edu.au                       
+         Sean McMorrow                                       
+         sean.mcmorrow@unimelb.edu.au                        
+       1 University of Melbourne, Parkville, VIC 3010, Australia
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             

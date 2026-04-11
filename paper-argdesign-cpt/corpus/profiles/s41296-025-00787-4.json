@@ -1,0 +1,71 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "agbor_2025",
+  "title": "Communitarianism: politics, society and public policy [Book Review]",
+  "author": "Agbor",
+  "year": 2025,
+  "journal": "Contemporary Political Theory",
+
+  "opening_move": {
+    "type": "reconstructive_diagnosis",
+    "description": "The review opens by positioning Tam's communitarianism as a timely intervention that moves beyond abstract philosophy toward practical applicability — a forward-looking framework built on mutual responsibility, cooperative enquiry, and citizen participation.",
+    "anchored_in": ["Tam"],
+    "stakes_claimed": "Communitarianism needs to be recovered as a practical political framework for addressing contemporary social challenges, not as nostalgic conservatism"
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["nostalgic communitarianism", "abstract liberal individualism"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": false,
+    "own_position_type": "none",
+    "own_position_explicit": false,
+    "description": "The review presents Tam's practical communitarianism appreciatively, without independent critique."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_qualitative_empirical",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "conceptual analysis of communitarian principles",
+    "notes": "Book review genre. Tam's book itself applies communitarian principles to concrete policy domains; the review is primarily expository."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "philosophical_text",
+    "case_name": "Tam, Communitarianism: Politics, Society and Public Policy (2025)",
+    "case_function": "primary_object_of_analysis",
+    "case_relation_to_argument": "object_of_interpretation",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "medium",
+    "domain": "democratic theory / public policy / communitarianism",
+    "claim_type": "prescriptive",
+    "closure_type": "open_ended_with_burden_on_reader"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "framework_proposal",
+    "case_development",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["communitarianism", "mutual responsibility", "cooperative enquiry", "inclusive communities", "citizen participation", "public policy"],
+
+  "thinkers_deployed": {
+    "central": ["Tam"],
+    "engaged_critically": [],
+    "referenced_only": ["Taylor", "Walzer", "MacIntyre", "Sandel (communitarian tradition implied)"]
+  },
+
+  "confidence_notes": "Book review genre; largely expository. Classified as normative_with_qualitative_empirical to flag that Tam's book applies theory to policy domains, even though this review doesn't engage evidence directly."
+}

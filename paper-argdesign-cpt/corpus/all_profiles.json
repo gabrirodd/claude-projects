@@ -1,0 +1,4504 @@
+[
+  {
+    "_schema_version": "1.0",
+    "paper_id": "abolafia_2025",
+    "title": "Active and passive citizens: a defense of majoritarian democracy [Book Review]",
+    "author": "Abolafia",
+    "year": 2025,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "interpretive_proposition",
+      "description": "The review opens by framing Tuck's book as a Rousseau-inspired 'bombshell' in contemporary democratic theory, establishing the book's provocative stakes through Mill's metaphor.",
+      "anchored_in": [
+        "Mill",
+        "Rousseau"
+      ],
+      "stakes_claimed": "Understanding why electoral majorities today act in ways that threaten democratic foundations"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "deliberative democrats",
+        "economistic skeptics of voting",
+        "representationalists"
+      ],
+      "engagement_structure": "dialectical_contrast",
+      "immanent_critique": true,
+      "own_position_type": "internal_reconstruction",
+      "own_position_explicit": false,
+      "description": "The review engages sympathetically with Tuck's Rousseauian majoritarianism while pressing an immanent critique about the undertheorised cultural conditions for democratic unity."
+    },
+    "epistemic_mode": {
+      "primary": "normative_with_interpretive_case",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "close reading of Rousseau's texts and Tuck's argument",
+      "notes": "Book review genre — argument proceeds through textual interpretation of Tuck and Rousseau, raising a normative/theoretical lacuna (cultural conditions of democracy)"
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "philosophical_text",
+      "case_name": "Tuck, Active and Passive Citizens (2024); Rousseau, The Social Contract",
+      "case_function": "primary_object_of_analysis",
+      "case_relation_to_argument": "object_of_interpretation",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "medium",
+      "domain": "democratic theory",
+      "claim_type": "critical_diagnostic",
+      "closure_type": "open_ended_with_burden_on_reader"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "case_introduction",
+      "case_development",
+      "immanent_critique",
+      "meta_reflexive_qualification",
+      "conclusion_open"
+    ],
+    "reflexive_move": true,
+    "key_concepts": [
+      "majoritarian democracy",
+      "general will",
+      "ex post unanimity",
+      "active citizenship",
+      "cultural conditions of democracy",
+      "radical democracy"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Rousseau",
+        "Tuck"
+      ],
+      "engaged_critically": [
+        "deliberative democrats"
+      ],
+      "referenced_only": [
+        "Mill",
+        "Marx",
+        "Engels",
+        "Schwartzberg",
+        "Hobbes"
+      ]
+    },
+    "confidence_notes": "Book review genre is a clear case: the 'profile' reflects the reviewer's argumentative intervention (immanent critique of Tuck's omission of cultural conditions), not a standalone research paper. Move sequence maps the review's own rhetorical logic, not Tuck's book.",
+    "_source_file": "s41296-025-00749-w.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "sakurai_2025",
+    "title": "Rethinking political thinkers [Book Review]",
+    "author": "Sakurai",
+    "year": 2025,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "conceptual_gap",
+      "description": "The review opens by mapping the disciplinary landscape of global/comparative political theory, then locates the reviewed volume's place (and limits) within it.",
+      "anchored_in": [
+        "comparative political theory (CPT)",
+        "international political theory (IPT)",
+        "global intellectual history (GIH)"
+      ],
+      "stakes_claimed": "Whether PT can genuinely broaden beyond its Western, Anglophone, male-dominated canon"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "Ramgotra and Choat (eds.)",
+        "decolonisation discourse in PT"
+      ],
+      "engagement_structure": "immanent_critique",
+      "immanent_critique": true,
+      "own_position_type": "external_alternative",
+      "own_position_explicit": true,
+      "description": "The review performs an immanent critique: accepting the editors' decolonisation premise, but showing that language parochialism undercuts it, and arguing for genuine CPT as a more consistent alternative."
+    },
+    "epistemic_mode": {
+      "primary": "fully_normative",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "close reading of the volume's introduction and table of contents",
+      "notes": "Argument proceeds entirely through normative and methodological critique; no empirical data deployed."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "philosophical_text",
+      "case_name": "Ramgotra and Choat (eds.), Rethinking Political Thinkers (2024)",
+      "case_function": "primary_object_of_analysis",
+      "case_relation_to_argument": "object_of_interpretation",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "medium",
+      "domain": "methodology / disciplinary politics of political theory",
+      "claim_type": "critical_diagnostic",
+      "closure_type": "open_ended_with_burden_on_reader"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "rival_mapping",
+      "immanent_critique",
+      "conceptual_distinction",
+      "normative_derivation",
+      "conclusion_strong"
+    ],
+    "reflexive_move": false,
+    "key_concepts": [
+      "language parochialism",
+      "decolonising political theory",
+      "comparative political theory",
+      "canon",
+      "non-Western political thought",
+      "global intellectual history"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Ramgotra",
+        "Choat"
+      ],
+      "engaged_critically": [
+        "decolonisation discourse"
+      ],
+      "referenced_only": [
+        "Skinner"
+      ]
+    },
+    "confidence_notes": "Book review: reviewer's own argument is a methodological critique. The 'fully_normative' classification reflects the reviewer's own methodological stance, not empirical engagement. The move sequence captures the review's argumentative logic.",
+    "_source_file": "s41296-025-00750-3.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "laegaard_2025",
+    "title": "Normative sociology and normative behaviorism: recent discussions of the relation between empirical social science and normative political theory",
+    "author": "Lægaard",
+    "year": 2025,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "conceptual_gap",
+      "description": "The paper opens by diagnosing a 'methodological moment' in political theory: while the strict separation of facts and values has been widely challenged, the precise implications of different alternatives for what political theorists should actually do remain underexplored.",
+      "anchored_in": [
+        "Floyd",
+        "Modood",
+        "Bauböck",
+        "Dowding"
+      ],
+      "stakes_claimed": "Different views on the fact-value relation have concrete implications for what political theorists should do and which methods they should employ"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "Floyd (normative behaviorism)",
+        "Modood (normative sociology)",
+        "traditionalist fact/value separation"
+      ],
+      "engagement_structure": "dialectical_contrast",
+      "immanent_critique": true,
+      "own_position_type": "none",
+      "own_position_explicit": false,
+      "description": "The paper conducts a systematic methodological comparison of two recent approaches without advocating for either; its own contribution is the analytical framework of the four comparison dimensions."
+    },
+    "epistemic_mode": {
+      "primary": "fully_normative",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "conceptual analysis and systematic comparison of methodological positions",
+      "notes": "The paper discusses empirical evidence as an object of methodological analysis but does not itself use any empirical data; it is a meta-methodological argument conducted entirely within conceptual/normative space."
+    },
+    "case_type": {
+      "has_case": false,
+      "case_medium": "none",
+      "case_name": null,
+      "case_function": "none",
+      "case_relation_to_argument": "none",
+      "case_selection_justified": false
+    },
+    "normative_stake": {
+      "level": "medium",
+      "domain": "methodology of political theory",
+      "claim_type": "critical_diagnostic",
+      "closure_type": "research_agenda"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "rival_mapping",
+      "conceptual_distinction",
+      "immanent_critique",
+      "immanent_critique",
+      "meta_reflexive_qualification",
+      "conclusion_open"
+    ],
+    "reflexive_move": true,
+    "key_concepts": [
+      "normative behaviorism",
+      "normative sociology",
+      "fact/value distinction",
+      "is-ought inference",
+      "iterative contextualism",
+      "direction of fit"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Floyd",
+        "Modood"
+      ],
+      "engaged_critically": [
+        "Floyd",
+        "Modood"
+      ],
+      "referenced_only": [
+        "Bauböck",
+        "Dowding",
+        "Baderin",
+        "Erman",
+        "Möller",
+        "Miller",
+        "Perez",
+        "Stevens",
+        "Modood & Thompson",
+        "Berlin",
+        "Grant"
+      ]
+    },
+    "confidence_notes": "Unusual structure: both interlocutors (Floyd and Modood) are simultaneously 'central' and 'engaged_critically' since the paper subjects both to immanent critique without endorsing either. The paper's own epistemic mode is fully normative/conceptual despite its topic being about the empirical-normative interface.",
+    "_source_file": "s41296-025-00752-1.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "dejongh_2025",
+    "title": "Reconsidering cosmopolitanism and forgiveness: Arendt, Derrida, and 'care for the world' [Book Review]",
+    "author": "de Jongh",
+    "year": 2025,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "polemical_intervention",
+      "description": "The review opens by situating Peys's book against a hostile political climate of xenophobia, framing it as a constructive contribution to rethinking cosmopolitan hospitality and political forgiveness.",
+      "anchored_in": [
+        "Peys",
+        "Arendt",
+        "Derrida"
+      ],
+      "stakes_claimed": "Recovering the value of political forgiveness and cosmopolitan care in the face of contemporary dehumanising rhetoric"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "Peys (reviewed author)"
+      ],
+      "engagement_structure": "immanent_critique",
+      "immanent_critique": true,
+      "own_position_type": "friendly_amendment",
+      "own_position_explicit": true,
+      "description": "The review accepts Peys's Arendtian-Derridean framework but presses an immanent critique: Peys reads Arendt's distinctions too sharply and underplays the material/labor dimension of worldly care."
+    },
+    "epistemic_mode": {
+      "primary": "normative_with_interpretive_case",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "close reading of philosophical texts (Arendt, Derrida, Peys)",
+      "notes": "Book review: argument is conducted through textual-philosophical interpretation; normative stake is the vision of cosmopolitan care for the world."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "philosophical_text",
+      "case_name": "Peys, Reconsidering Cosmopolitanism and Forgiveness (2020); Arendt, The Human Condition; Derrida on forgiveness/hospitality",
+      "case_function": "primary_object_of_analysis",
+      "case_relation_to_argument": "object_of_interpretation",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "medium",
+      "domain": "cosmopolitanism / democratic theory / ethics of forgiveness",
+      "claim_type": "reconstructive",
+      "closure_type": "open_ended_with_burden_on_reader"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "case_introduction",
+      "case_development",
+      "immanent_critique",
+      "framework_proposal",
+      "conclusion_open"
+    ],
+    "reflexive_move": false,
+    "key_concepts": [
+      "cosmopolitan hospitality",
+      "political forgiveness",
+      "care for the world",
+      "amor mundi",
+      "homo faber",
+      "unconditional/conditional aporia"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Arendt",
+        "Derrida",
+        "Peys"
+      ],
+      "engaged_critically": [
+        "Peys"
+      ],
+      "referenced_only": [
+        "Myers",
+        "Markell",
+        "Rodriguez"
+      ]
+    },
+    "confidence_notes": "Book review genre. The reviewer's own amendment — that labor/material care should be integrated into Peys's framework — is the substantive normative contribution. Move sequence maps the review's argumentative logic.",
+    "_source_file": "s41296-025-00754-z.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "kellner_2025",
+    "title": "Friedrich Pollock: The éminence grise of the Frankfurt School [Book Review]",
+    "author": "Kellner",
+    "year": 2025,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "conceptual_gap",
+      "description": "The review opens by identifying Pollock as a neglected figure in Frankfurt School historiography — the first book-length study of the Pollock–Horkheimer relationship fills a gap in intellectual history.",
+      "anchored_in": [
+        "Lenhard",
+        "Frankfurt School",
+        "Horkheimer"
+      ],
+      "stakes_claimed": "Recovering Pollock's foundational role in shaping the Marxist and critical theory orientation of the Frankfurt School"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "previous Frankfurt School histories that marginalised Pollock"
+      ],
+      "engagement_structure": "absence_critique",
+      "immanent_critique": false,
+      "own_position_type": "none",
+      "own_position_explicit": false,
+      "description": "The review is broadly sympathetic to Lenhard's project, offering summary and contextualisation without a strong independent normative stance."
+    },
+    "epistemic_mode": {
+      "primary": "purely_interpretive_hermeneutic",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "intellectual history / genealogical reconstruction of Frankfurt School development",
+      "notes": "Book review of an intellectual biography; the argument is primarily expository and contextualising rather than normatively interventionist."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "historical_event",
+      "case_name": "Frankfurt School Institute for Social Research; Friedrich Pollock's career",
+      "case_function": "primary_object_of_analysis",
+      "case_relation_to_argument": "object_of_interpretation",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "low",
+      "domain": "intellectual history / critical theory",
+      "claim_type": "interpretive",
+      "closure_type": "open_ended_with_burden_on_reader"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "case_introduction",
+      "case_development",
+      "genealogical_reconstruction",
+      "conclusion_open"
+    ],
+    "reflexive_move": false,
+    "key_concepts": [
+      "Frankfurt School",
+      "critical theory",
+      "state capitalism",
+      "Marxism",
+      "éminence grise",
+      "Pollock-Horkheimer friendship"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Pollock",
+        "Horkheimer",
+        "Lenhard"
+      ],
+      "engaged_critically": [],
+      "referenced_only": [
+        "Adorno",
+        "Weil",
+        "Korsch",
+        "Grünberg"
+      ]
+    },
+    "confidence_notes": "Book review genre; largely expository. Low normative stake reflects reviewer's descriptive-appreciative stance rather than argumentative intervention.",
+    "_source_file": "s41296-025-00755-y.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "maiwald_2025",
+    "title": "The political theory of liberal socialism [Book Review]",
+    "author": "Maiwald",
+    "year": 2025,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "reconstructive_diagnosis",
+      "description": "The review opens by framing McManus's project as a 'retrieval' — a historically-grounded reconstruction of the liberal-socialist tradition for contemporary progressive use.",
+      "anchored_in": [
+        "McManus",
+        "Macpherson"
+      ],
+      "stakes_claimed": "Recovering and making usable the liberal-socialist tradition for contemporary theoretical and political projects"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "pure liberalism",
+        "pure socialism"
+      ],
+      "engagement_structure": "dialectical_contrast",
+      "immanent_critique": false,
+      "own_position_type": "none",
+      "own_position_explicit": false,
+      "description": "The review is sympathetic and primarily expository, contextualising McManus's synthesis of liberal-socialist thinkers without strong independent critique."
+    },
+    "epistemic_mode": {
+      "primary": "normative_with_interpretive_case",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "ideological and intellectual history; close reading of the liberal-socialist canon",
+      "notes": "Book review: the argument is a presentation and modest endorsement of McManus's reconstructive normative project."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "philosophical_text",
+      "case_name": "McManus, The Political Theory of Liberal Socialism (2025)",
+      "case_function": "primary_object_of_analysis",
+      "case_relation_to_argument": "object_of_interpretation",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "medium",
+      "domain": "democratic theory / socialism / justice",
+      "claim_type": "reconstructive",
+      "closure_type": "open_ended_with_burden_on_reader"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "case_introduction",
+      "case_development",
+      "rival_mapping",
+      "conclusion_open"
+    ],
+    "reflexive_move": false,
+    "key_concepts": [
+      "liberal socialism",
+      "retrieval",
+      "developmental ethics",
+      "social ontology",
+      "normative individualism",
+      "progressive movements"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "McManus",
+        "Macpherson"
+      ],
+      "engaged_critically": [],
+      "referenced_only": [
+        "Paine",
+        "Wollstonecraft",
+        "Mill",
+        "Marx",
+        "Keynes",
+        "Rawls",
+        "Rosselli",
+        "Bobbio",
+        "Mills",
+        "Mouffe",
+        "Honneth"
+      ]
+    },
+    "confidence_notes": "Book review genre; primarily expository. The review does not develop an independent argument but contextualises and endorses McManus's project.",
+    "_source_file": "s41296-025-00756-x.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "mcmanus_2025a",
+    "title": "Equality: what it means and why it matters [Book Review]",
+    "author": "McManus",
+    "year": 2025,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "empirical_anomaly",
+      "description": "The review opens with a polemical diagnosis of contemporary democratic crisis — the 2024 US election as symptom of entrenched oligarchy — to frame the reviewed book's stakes.",
+      "anchored_in": [
+        "Piketty",
+        "Sandel",
+        "Trump"
+      ],
+      "stakes_claimed": "Understanding what equality means in an era of intensifying plutocracy and meritocratic ideology"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "meritocracy",
+        "liberal egalitarianism",
+        "Sandel's communitarianism"
+      ],
+      "engagement_structure": "dialectical_contrast",
+      "immanent_critique": true,
+      "own_position_type": "friendly_amendment",
+      "own_position_explicit": true,
+      "description": "The review endorses the Piketty-Sandel dialogue but presses for a more radical structural critique that goes beyond the conversation's reformism."
+    },
+    "epistemic_mode": {
+      "primary": "normative_with_interpretive_case",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "close reading of the Piketty-Sandel dialogue, with political-diagnostic framing",
+      "notes": "Book review with strongly polemical political framing. The reviewer's own normative commitments (socialist egalitarianism) shape the critical assessment."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "political_event",
+      "case_name": "2024 US Presidential election; Piketty & Sandel, Equality (2025)",
+      "case_function": "illustration",
+      "case_relation_to_argument": "illustrative_and_generative",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "high",
+      "domain": "justice / equality / democratic theory",
+      "claim_type": "critical_diagnostic",
+      "closure_type": "open_ended_with_burden_on_reader"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "empirical_presentation",
+      "case_introduction",
+      "case_development",
+      "immanent_critique",
+      "normative_derivation",
+      "conclusion_open"
+    ],
+    "reflexive_move": false,
+    "key_concepts": [
+      "equality",
+      "meritocracy",
+      "oligarchy",
+      "egalitarianism",
+      "moral luck",
+      "populism"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Piketty",
+        "Sandel"
+      ],
+      "engaged_critically": [
+        "Sandel"
+      ],
+      "referenced_only": [
+        "Mill"
+      ]
+    },
+    "confidence_notes": "Short book review (3 pages) with unusually strong political framing. Reviewer is Matthew McManus — same person whose book was reviewed in 00756-x — lending the review a distinctive ideological voice.",
+    "_source_file": "s41296-025-00757-w.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "ghumkhor_gillespie_mcmorrow_2025",
+    "title": "Race still matters: the (post) racial politics of conspiracy theories",
+    "author": "Ghumkhor, Gillespie, McMorrow",
+    "year": 2025,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "empirical_anomaly",
+      "description": "The paper opens by diagnosing the proliferation of racist conspiracy theories (Great Replacement, White Genocide, QAnon, Eurabia) in liberal-democratic societies as a phenomenon that standard 'post-truth' explanations fail to account for.",
+      "anchored_in": [
+        "Mills (racial contract)",
+        "Bonilla-Silva",
+        "post-truth literature"
+      ],
+      "stakes_claimed": "The dominant post-truth explanation reproduces a postracial obfuscation that conceals the structural-racial conditions enabling conspiracy theories in liberal democracies"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "post-truth theorists",
+        "postracialism",
+        "apolitical/ahistorical conspiracy theory research"
+      ],
+      "engagement_structure": "sustained_critique",
+      "immanent_critique": true,
+      "own_position_type": "external_alternative",
+      "own_position_explicit": true,
+      "description": "The paper argues against both post-truth and postracial frameworks, proposing a Lacanian psychoanalytic reading of conspiracy theories as symptoms of a repressed racial contract structuring liberal democracy."
+    },
+    "epistemic_mode": {
+      "primary": "normative_with_interpretive_case",
+      "secondary": "fully_normative",
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "Lacanian psychoanalytic theory; critical race theory; postcolonial analysis; conceptual analysis of conspiracy theories",
+      "notes": "Despite the subject matter (empirical phenomena: conspiracy theories, racial politics), the argument is entirely theoretical-interpretive. Examples (QAnon, Great Replacement) are used illustratively to instantiate the theoretical framework, not as systematic empirical evidence."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "political_event",
+      "case_name": "QAnon, Great Replacement Theory, White Genocide, Eurabia conspiracy theories",
+      "case_function": "illustration",
+      "case_relation_to_argument": "illustrative_only",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "high",
+      "domain": "race / democracy / epistemology",
+      "claim_type": "critical_diagnostic",
+      "closure_type": "strong_normative_conclusion"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "rival_mapping",
+      "immanent_critique",
+      "framework_proposal",
+      "case_introduction",
+      "case_interpretation",
+      "conceptual_distinction",
+      "normative_derivation",
+      "conclusion_strong"
+    ],
+    "reflexive_move": false,
+    "key_concepts": [
+      "racial contract",
+      "postracialism",
+      "post-truth",
+      "conspiracy theories",
+      "Lacanian psychoanalysis",
+      "liberal-democratic imaginary"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Mills (Charles W.)",
+        "Lacan",
+        "Bonilla-Silva"
+      ],
+      "engaged_critically": [
+        "post-truth theorists",
+        "postracial discourse"
+      ],
+      "referenced_only": [
+        "Goldberg",
+        "Asad",
+        "Stavrakakis",
+        "Zupančič",
+        "Dean",
+        "Losurdo"
+      ]
+    },
+    "confidence_notes": "The paper uses conspiracy theories as illustrative examples to make a theoretical claim about the racial structure of liberal democracy. The epistemic mode is normative-interpretive, not empirical, despite engaging empirical phenomena.",
+    "_source_file": "s41296-025-00758-9.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "travis_2025",
+    "title": "Contesting the far right: a psychoanalytic and feminist critical theory approach [Book Review]",
+    "author": "Travis",
+    "year": 2025,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "empirical_anomaly",
+      "description": "The review opens with the central question driving Leeb's book: why do citizens turn to hateful, racist politics that run against their own interests? This frames the book as a response to the explanatory gap in far-right studies.",
+      "anchored_in": [
+        "Leeb",
+        "critical theory",
+        "psychoanalysis"
+      ],
+      "stakes_claimed": "Providing a multi-dimensional theoretical framework to understand far-right radicalization beyond either economic or pathological explanations"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "pathologising approaches to the far right",
+        "purely economic explanations",
+        "under-theorised uses of 'fascism'"
+      ],
+      "engagement_structure": "dialectical_contrast",
+      "immanent_critique": false,
+      "own_position_type": "none",
+      "own_position_explicit": false,
+      "description": "The review is appreciative and expository, endorsing Leeb's synthesis of psychoanalysis, critical theory, and decolonial theory for understanding far-right politics."
+    },
+    "epistemic_mode": {
+      "primary": "normative_with_interpretive_case",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "psychoanalytic and critical theory reading of far-right politics",
+      "notes": "Book review; primarily expository. The review presents and contextualises Leeb's theoretical framework."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "political_event",
+      "case_name": "Leeb, Contesting the Far Right (2024); contemporary far-right politics",
+      "case_function": "primary_object_of_analysis",
+      "case_relation_to_argument": "object_of_interpretation",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "medium",
+      "domain": "democratic theory / political psychology / race",
+      "claim_type": "critical_diagnostic",
+      "closure_type": "open_ended_with_burden_on_reader"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "case_introduction",
+      "case_development",
+      "rival_mapping",
+      "conclusion_open"
+    ],
+    "reflexive_move": false,
+    "key_concepts": [
+      "far-right radicalization",
+      "scapegoating",
+      "precarity capitalism",
+      "fascism",
+      "psychoanalytic framework",
+      "alienation"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Leeb"
+      ],
+      "engaged_critically": [],
+      "referenced_only": [
+        "Frankfurt School (implied)",
+        "decolonial theory (implied)"
+      ]
+    },
+    "confidence_notes": "Book review genre; largely expository and appreciative. Normative stake is medium because the review endorses Leeb's critical-diagnostic project without adding an independent argument.",
+    "_source_file": "s41296-025-00761-0.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "stitzlein_2025",
+    "title": "Civic education in polarized times [Book Review]",
+    "author": "Stitzlein",
+    "year": 2025,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "empirical_anomaly",
+      "description": "The review opens by situating the collection against the 'pressing problem of polarization' and the increasing importance of civic education to address it.",
+      "anchored_in": [
+        "Beaumont",
+        "Beerbohm",
+        "Shiffrin",
+        "Driver",
+        "Ben-Porath",
+        "Gutmann",
+        "Thompson"
+      ],
+      "stakes_claimed": "Polarization threatens democratic life; civic education is both more important and more difficult in this context"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "Driver's student-centred approach",
+        "Shiffrin's free speech model"
+      ],
+      "engagement_structure": "dialectical_contrast",
+      "immanent_critique": true,
+      "own_position_type": "friendly_amendment",
+      "own_position_explicit": true,
+      "description": "The review evaluates the collection's contributions, endorsing the dialogue format and Driver's approach while raising Morton's critique about imaginative limitation."
+    },
+    "epistemic_mode": {
+      "primary": "normative_with_qualitative_empirical",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "close reading and evaluation of contributors' proposals for civic education",
+      "notes": "Book review genre. The collection itself discusses qualitative and historical evidence about civic education; the review's own argument is evaluative-normative."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "legal_case",
+      "case_name": "Driver's student constitutional rights approach; Beaumont and Beerbohm (eds.), Civic Education in Polarized Times (2024)",
+      "case_function": "primary_object_of_analysis",
+      "case_relation_to_argument": "object_of_interpretation",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "medium",
+      "domain": "democratic theory / education / citizenship",
+      "claim_type": "prescriptive",
+      "closure_type": "open_ended_with_burden_on_reader"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "case_introduction",
+      "case_development",
+      "immanent_critique",
+      "conclusion_open"
+    ],
+    "reflexive_move": false,
+    "key_concepts": [
+      "civic education",
+      "polarization",
+      "constitutional rights",
+      "student-centred learning",
+      "democratic legitimacy",
+      "moral equality of voice"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Driver",
+        "Morton",
+        "Beaumont",
+        "Beerbohm"
+      ],
+      "engaged_critically": [
+        "Driver"
+      ],
+      "referenced_only": [
+        "Shiffrin",
+        "Ben-Porath",
+        "Gutmann",
+        "Thompson",
+        "Paul-Binyamin",
+        "Jayusi",
+        "Tamir"
+      ]
+    },
+    "confidence_notes": "Book review genre. Normative mode classified as normative_with_qualitative_empirical to flag that the broader collection draws on qualitative/historical evidence about polarisation and education, even though this review is primarily evaluative.",
+    "_source_file": "s41296-025-00762-z.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "wapeemukwa_2025",
+    "title": "The late Marx's revolutionary roads: colonialism, gender, and indigenous communism [Book Review]",
+    "author": "Wapeemukwa",
+    "year": 2025,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "conceptual_gap",
+      "description": "The review opens by situating Anderson's book as recovering Marx's neglected post-1868 writings, arguing against scholars who dismiss this period and establishing its significance for understanding Marx's revised theory of revolution.",
+      "anchored_in": [
+        "Anderson",
+        "Stedman-Jones",
+        "Saito"
+      ],
+      "stakes_claimed": "Marx's final years show a fundamental revision of his theory of revolution, race, and gender — recovering this corrects an Eurocentric and teleological reading of Marxism"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "Stedman-Jones and others who dismiss late Marx",
+        "unilinear Marxism"
+      ],
+      "engagement_structure": "immanent_critique",
+      "immanent_critique": true,
+      "own_position_type": "friendly_amendment",
+      "own_position_explicit": true,
+      "description": "The review endorses Anderson's recovery of late Marx while pressing an immanent critique: Anderson's use of 'dialectic' risks abstracting Haitian revolutionary history into a theoretical model."
+    },
+    "epistemic_mode": {
+      "primary": "normative_with_interpretive_case",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "textual and intellectual history; recovery of Marx's late notebooks",
+      "notes": "Book review; primarily expository with a focused immanent critique about the abstraction of Haiti from its own intellectual-political history."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "historical_event",
+      "case_name": "Marx's late notebooks; Haitian revolution (Saint-Domingue 1685-1861)",
+      "case_function": "primary_object_of_analysis",
+      "case_relation_to_argument": "object_of_interpretation",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "medium",
+      "domain": "Marxist theory / decolonisation / indigenous communism",
+      "claim_type": "critical_diagnostic",
+      "closure_type": "open_ended_with_burden_on_reader"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "case_introduction",
+      "case_development",
+      "immanent_critique",
+      "conclusion_open"
+    ],
+    "reflexive_move": false,
+    "key_concepts": [
+      "late Marx",
+      "indigenous communism",
+      "dialectic",
+      "unilinear Marxism",
+      "aleatory revolution",
+      "colonial archives"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Anderson",
+        "Marx"
+      ],
+      "engaged_critically": [
+        "Stedman-Jones",
+        "Anderson"
+      ],
+      "referenced_only": [
+        "Saito",
+        "Engels",
+        "Morgan",
+        "Kovalevsky"
+      ]
+    },
+    "confidence_notes": "Book review genre. The immanent critique about abstracting Haiti into a theoretical model is the reviewer's substantive contribution.",
+    "_source_file": "s41296-025-00764-x.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "battaglini_2025",
+    "title": "Race, time, and utopia: critical theory and the process of emancipation [Book Review]",
+    "author": "Battaglini",
+    "year": 2025,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "reconstructive_diagnosis",
+      "description": "The review opens by presenting Paris's central claim: utopia functions as a critical theory in Black political thought to break with racialized temporal domination and inaugurate new social possibilities.",
+      "anchored_in": [
+        "Paris",
+        "Du Bois",
+        "critical theory"
+      ],
+      "stakes_claimed": "Diagnosing and conceptualising racial injustice as temporal domination in order to formulate emancipatory resources"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "blueprint conceptions of utopia",
+        "pure structural accounts of racial justice"
+      ],
+      "engagement_structure": "dialectical_contrast",
+      "immanent_critique": false,
+      "own_position_type": "none",
+      "own_position_explicit": false,
+      "description": "The review is appreciative and expository, presenting Paris's two innovations (utopia as 'not-yet'; racial injustice as temporal domination) and contextualising their theoretical contributions."
+    },
+    "epistemic_mode": {
+      "primary": "normative_with_interpretive_case",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "close reading of Paris and critical theory tradition; Du Bois exegesis",
+      "notes": "Book review genre; largely expository. The normative stake belongs to the reviewed book's argument (utopian emancipation from racial domination)."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "philosophical_text",
+      "case_name": "Paris, Race, Time, and Utopia (2025); Du Bois's work",
+      "case_function": "primary_object_of_analysis",
+      "case_relation_to_argument": "object_of_interpretation",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "high",
+      "domain": "race / emancipation / democratic theory",
+      "claim_type": "reconstructive",
+      "closure_type": "open_ended_with_burden_on_reader"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "framework_proposal",
+      "case_development",
+      "conceptual_distinction",
+      "conclusion_open"
+    ],
+    "reflexive_move": false,
+    "key_concepts": [
+      "utopia as not-yet",
+      "racial injustice as temporal domination",
+      "non-synchronous time",
+      "emancipatory forms of life",
+      "Black political thought",
+      "critical theory"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Paris",
+        "Du Bois"
+      ],
+      "engaged_critically": [],
+      "referenced_only": [
+        "critical theory tradition (Bloch, Frankfurt School implied)"
+      ]
+    },
+    "confidence_notes": "Book review genre. High normative stake reflects the book's project, not an independent reviewer intervention. The review is primarily expository.",
+    "_source_file": "s41296-025-00765-w.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "rozenburg_2025",
+    "title": "The two faces of democracy: decentering agonism and deliberation [Book Review]",
+    "author": "Rozenburg",
+    "year": 2025,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "conceptual_gap",
+      "description": "The review opens by affirming the need to bridge deliberative and agonist theories of democracy, positioning Scudder and White's book as an attempt to hold both legitimate democratic modes simultaneously.",
+      "anchored_in": [
+        "Scudder",
+        "White",
+        "deliberative democracy",
+        "agonism"
+      ],
+      "stakes_claimed": "Democratic theory needs to account for both legitimacy-through-reason and conflict-through-struggle; neither model alone is sufficient"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "deliberative democracy",
+        "agonist democracy",
+        "Scudder and White's synthesis"
+      ],
+      "engagement_structure": "immanent_critique",
+      "immanent_critique": true,
+      "own_position_type": "external_alternative",
+      "own_position_explicit": true,
+      "description": "The review argues that Scudder and White's 'communicative model' ultimately fails to integrate the two models, and offers an independent diagnosis of why the synthesis is unsuccessful."
+    },
+    "epistemic_mode": {
+      "primary": "fully_normative",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "conceptual analysis of deliberative and agonist models",
+      "notes": "Book review; the reviewer's own position (that the synthesis fails) is the substantive contribution. The argument is conducted entirely within conceptual-normative space."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "philosophical_text",
+      "case_name": "Scudder and White, The Two Faces of Democracy (2023)",
+      "case_function": "primary_object_of_analysis",
+      "case_relation_to_argument": "object_of_interpretation",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "medium",
+      "domain": "democratic theory",
+      "claim_type": "critical_diagnostic",
+      "closure_type": "open_ended_with_burden_on_reader"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "rival_mapping",
+      "case_introduction",
+      "case_development",
+      "immanent_critique",
+      "conclusion_open"
+    ],
+    "reflexive_move": false,
+    "key_concepts": [
+      "deliberative democracy",
+      "agonism",
+      "moral equality of voice",
+      "communicative model",
+      "democratic legitimacy",
+      "contestation"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Scudder",
+        "White"
+      ],
+      "engaged_critically": [
+        "Scudder",
+        "White"
+      ],
+      "referenced_only": [
+        "deliberative theorists (Habermas implied)",
+        "agonist theorists (Mouffe, Laclau implied)"
+      ]
+    },
+    "confidence_notes": "Book review genre with strong reviewer intervention — reviewer argues the synthesis fails. The immanent critique of Scudder and White is the independent contribution.",
+    "_source_file": "s41296-025-00766-9.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "mendez_oberprantacher_2025",
+    "title": "Subaltern silence: A postcolonial genealogy [Book Review]",
+    "author": "Mendez, Oberprantacher",
+    "year": 2025,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "polemical_intervention",
+      "description": "The review opens with Olson's concluding claim that subaltern silence is ubiquitous in the contemporary world, using Mbembe's 'Becoming Black' to establish the stakes: subalternity is not an elsewhere but a present condition.",
+      "anchored_in": [
+        "Olson",
+        "Mbembe",
+        "Spivak"
+      ],
+      "stakes_claimed": "How to articulate silence without muting it — the paradox of speaking for/with subalterns without ventriloquism"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "Olson's book (primary)",
+        "abstraction of Haiti into theoretical model"
+      ],
+      "engagement_structure": "immanent_critique",
+      "immanent_critique": true,
+      "own_position_type": "external_alternative",
+      "own_position_explicit": true,
+      "description": "The review endorses Olson's genealogical project but raises a tension: his focus on Haiti-as-paradigm risks abstracting a specific historical-political site into a general theoretical model, suppressing its own epistemic complexity."
+    },
+    "epistemic_mode": {
+      "primary": "normative_with_interpretive_case",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "postcolonial genealogy; close reading of Olson and Spivak",
+      "notes": "Book review genre. The central tension raised (paradigm case vs. dynamic historical site) is the reviewers' independent critical contribution."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "historical_event",
+      "case_name": "Saint-Domingue/Haiti (1685-1861); Olson, Subaltern Silence (2024)",
+      "case_function": "primary_object_of_analysis",
+      "case_relation_to_argument": "object_of_interpretation",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "medium",
+      "domain": "postcolonial theory / democracy / recognition",
+      "claim_type": "critical_diagnostic",
+      "closure_type": "open_ended_with_burden_on_reader"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "case_introduction",
+      "genealogical_reconstruction",
+      "immanent_critique",
+      "conclusion_open"
+    ],
+    "reflexive_move": false,
+    "key_concepts": [
+      "subaltern silence",
+      "postcolonial genealogy",
+      "subalternity",
+      "ventriloquism",
+      "marronage",
+      "modes of subordination"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Olson",
+        "Spivak",
+        "Mbembe"
+      ],
+      "engaged_critically": [
+        "Olson"
+      ],
+      "referenced_only": [
+        "Soulouque",
+        "Haitian revolutionary figures (implicit)"
+      ]
+    },
+    "confidence_notes": "Book review genre with substantive immanent critique. The reviewers' concern about theorising from Haiti is the distinctive contribution.",
+    "_source_file": "s41296-025-00767-8.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "white_2025",
+    "title": "Imagining democratic insurgency: enthusiasm, sublimity, and finitude",
+    "author": "White",
+    "year": 2025,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "conceptual_gap",
+      "description": "The paper diagnoses a gap in accounts of sublimity in political theory: recent aesthetico-affective approaches treat sublimity as a dissensual, disruptive force, but neglect an older tradition linking sublimity to democratic collective binding — and neither tradition can adequately distinguish democratic from fascist enthusiasm.",
+      "anchored_in": [
+        "Kant",
+        "Connolly",
+        "Robespierre",
+        "Rancière"
+      ],
+      "stakes_claimed": "Without a 'bivalent sublimity' encompassing both enthusiasm and sobering finitude, democratic insurgency cannot be distinguished from proto-fascist collective energism"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "Connolly (sympathetically)",
+        "Honig",
+        "Frank",
+        "Rancière",
+        "Sorel",
+        "fascist political aesthetics"
+      ],
+      "engagement_structure": "dialectical_contrast",
+      "immanent_critique": true,
+      "own_position_type": "synthesis",
+      "own_position_explicit": true,
+      "description": "The paper engages Connolly's political aesthetics in a dual mode — critical of the undertheorised distinction between democratic and fascist enthusiasm, but constructive in drawing on Connolly's identity/difference ontology to build a 'sobering sublimity' out of finitude."
+    },
+    "epistemic_mode": {
+      "primary": "normative_with_interpretive_case",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "close reading of Kant, Connolly, Burke, Sorel, Nietzsche; political-aesthetic analysis; 18th-century intellectual history",
+      "notes": "Uses historical/philosophical cases (Robespierre, fascist aesthetics, Msezane's performance art, MLK's letter from Birmingham) as illustrative interpretive material, not systematic evidence."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "historical_event",
+      "case_name": "Connolly's myth of the general strike; fascist rally aesthetics; Msezane's performance art; MLK's Letter from Birmingham Jail",
+      "case_function": "illustration",
+      "case_relation_to_argument": "illustrative_and_generative",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "high",
+      "domain": "democratic theory / political aesthetics",
+      "claim_type": "prescriptive",
+      "closure_type": "strong_normative_conclusion"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "rival_mapping",
+      "conceptual_distinction",
+      "case_introduction",
+      "immanent_critique",
+      "framework_proposal",
+      "counter_objection_response",
+      "normative_derivation",
+      "conclusion_strong"
+    ],
+    "reflexive_move": true,
+    "key_concepts": [
+      "sublimity",
+      "finitude",
+      "democratic insurgency",
+      "bivalent sublimity",
+      "sobering sublime",
+      "enthusiastic sublime"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Connolly",
+        "Kant"
+      ],
+      "engaged_critically": [
+        "Connolly",
+        "Honig",
+        "Frank",
+        "Sorel"
+      ],
+      "referenced_only": [
+        "Rancière",
+        "Robespierre",
+        "Burke",
+        "Nietzsche",
+        "Stanley",
+        "Lyotard",
+        "Msezane"
+      ]
+    },
+    "confidence_notes": "Full-length research article (19 pages). The argument is fully normative-interpretive: no empirical data but extensive philosophical case analysis. The 'interpretive case' designation reflects use of historical examples as theoretical lenses rather than constitutive evidence.",
+    "_source_file": "s41296-025-00768-7.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "buxton_bagg_enoch_marriott_moyn_2025",
+    "title": "New perspectives on Judith Shklar [Critical Exchange]",
+    "author": "Buxton, Bagg, Enoch, Marriott, Moyn",
+    "year": 2025,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "conceptual_gap",
+      "description": "The exchange opens by identifying Shklar as an underappreciated figure whose 'negative method' is increasingly attracting scholarly attention, and framing the five contributions as advancing new applications of her thought.",
+      "anchored_in": [
+        "Shklar",
+        "Berlin",
+        "Rawls",
+        "Walzer",
+        "Forrester"
+      ],
+      "stakes_claimed": "Recovering and extending the political relevance of Shklar's negativism — for radical politics, analytic philosophy, emotional response, and the Mill connection"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "positive doctrines of justice",
+        "conservative readings of Shklar",
+        "grand-narrative political theory"
+      ],
+      "engagement_structure": "dialectical_contrast",
+      "immanent_critique": false,
+      "own_position_type": "internal_reconstruction",
+      "own_position_explicit": true,
+      "description": "A multi-author critical exchange: each contributor reconstructs a different facet of Shklar's thought for contemporary use, collectively arguing for the enduring relevance of her negativist liberalism."
+    },
+    "epistemic_mode": {
+      "primary": "fully_normative",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "close reading of Shklar's texts; intellectual-historical contextualisation",
+      "notes": "Critical exchange format: 5 essays on Shklar, covering radical politics (Bagg), analytic engagement (Enoch), emotional hermeneutics (Marriott), and the Mill connection (Moyn), framed by Buxton's introduction."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "philosophical_text",
+      "case_name": "Shklar's Liberalism of Fear (1989); Legalism (1964); American Citizenship lectures (1991)",
+      "case_function": "primary_object_of_analysis",
+      "case_relation_to_argument": "object_of_interpretation",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "high",
+      "domain": "liberalism / democratic theory / methodology",
+      "claim_type": "reconstructive",
+      "closure_type": "research_agenda"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "case_introduction",
+      "rival_mapping",
+      "case_development",
+      "framework_proposal",
+      "meta_reflexive_qualification",
+      "conclusion_open"
+    ],
+    "reflexive_move": true,
+    "key_concepts": [
+      "liberalism of fear",
+      "summum malum",
+      "negative method",
+      "cruelty",
+      "negativism",
+      "fear as political emotion"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Shklar"
+      ],
+      "engaged_critically": [
+        "positive liberal theorists (Rawls, Walzer)"
+      ],
+      "referenced_only": [
+        "Berlin",
+        "Mill",
+        "Forrester",
+        "Robin",
+        "Hirschman",
+        "Gatta",
+        "Hall",
+        "Hess"
+      ]
+    },
+    "confidence_notes": "Multi-author critical exchange (27 pages). Treated as a single profile since all contributions are organised around extending Shklar's thought. The 'fully_normative' classification reflects the dominant mode across all five pieces.",
+    "_source_file": "s41296-025-00769-6.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "sajo_2025",
+    "title": "Democracy despite itself: liberal constitutionalism and militant democracy [Book Review]",
+    "author": "Sajó",
+    "year": 2025,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "normative_puzzle",
+      "description": "The review opens with the tension at the heart of militant democracy: measures that restrict democratic choices in order to defend democracy risk turning democracy into tyranny by democratic means.",
+      "anchored_in": [
+        "Schupmann",
+        "Rawls",
+        "Schmitt"
+      ],
+      "stakes_claimed": "Justifying militant democracy requires resolving the paradox that defensive restrictions of freedom may undermine the freedom they aim to protect"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "Schupmann's liberal-Schmittian synthesis"
+      ],
+      "engagement_structure": "immanent_critique",
+      "immanent_critique": true,
+      "own_position_type": "external_alternative",
+      "own_position_explicit": true,
+      "description": "The review endorses the need for militant democracy justification but raises the problem of identification: how to trigger militant democracy before democratic essentials are already subverted, as Hungary/PiS/Fidesz show."
+    },
+    "epistemic_mode": {
+      "primary": "normative_with_interpretive_case",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "close reading of Schupmann; political analysis of Hungary, India, Turkey, Poland",
+      "notes": "Book review with substantive immanent critique. Contemporary political examples (Hungary, Poland, Turkey) used to illustrate the identification problem in militant democracy."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "political_event",
+      "case_name": "Hungary (Fidesz), Poland (PiS), Turkey, India; Schupmann, Democracy Despite Itself (2024)",
+      "case_function": "test_case_for_framework",
+      "case_relation_to_argument": "evidence_for_claim",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "high",
+      "domain": "democratic theory / constitutional law",
+      "claim_type": "critical_diagnostic",
+      "closure_type": "open_ended_with_burden_on_reader"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "case_introduction",
+      "case_development",
+      "immanent_critique",
+      "empirical_presentation",
+      "conclusion_open"
+    ],
+    "reflexive_move": false,
+    "key_concepts": [
+      "militant democracy",
+      "legal revolution",
+      "liberal constitutionalism",
+      "illiberal democracy",
+      "democratic essentials",
+      "party ban"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Schupmann",
+        "Rawls",
+        "Schmitt"
+      ],
+      "engaged_critically": [
+        "Schupmann"
+      ],
+      "referenced_only": [
+        "Oppenheimer",
+        "Edwards"
+      ]
+    },
+    "confidence_notes": "Book review genre with strong political examples. The reviewer (Sajó, Democracy Institute, CEU) brings expert knowledge of Hungarian and Eastern European democratic backsliding that inflects the critique.",
+    "_source_file": "s41296-025-00770-z.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "tang_2025",
+    "title": "What remains: the collected poems of Hannah Arendt [Book Review]",
+    "author": "Tang",
+    "year": 2025,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "interpretive_proposition",
+      "description": "The review opens by asking who Arendt's inner interlocutors were and in what language they spoke — using the multilingual, itinerant quality of her poetry to locate a 'poetic canvas' of her political thinking.",
+      "anchored_in": [
+        "Arendt",
+        "Hill",
+        "Grill"
+      ],
+      "stakes_claimed": "Arendt's poems reveal a dimension of her political thought that cannot be recovered from her philosophical prose alone — the poetic thinking that underlies her pluralism"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "prose-only reading of Arendt"
+      ],
+      "engagement_structure": "absence_critique",
+      "immanent_critique": false,
+      "own_position_type": "none",
+      "own_position_explicit": false,
+      "description": "The review is broadly appreciative and interpretive, presenting the collection as revealing an Arendt at the intersection of poetic tradition and political thought, without substantial critique."
+    },
+    "epistemic_mode": {
+      "primary": "purely_interpretive_hermeneutic",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "literary and philosophical hermeneutics; close reading of Arendt's poetry and prose",
+      "notes": "Book review genre; predominantly literary-interpretive. The normative argument (if any) is implicit: recovering the full Arendt enriches our understanding of political pluralism."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "literary_text",
+      "case_name": "Arendt, What Remains: Collected Poems (1923-1961), trans. Hill and Grill",
+      "case_function": "primary_object_of_analysis",
+      "case_relation_to_argument": "object_of_interpretation",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "low",
+      "domain": "political theory / hermeneutics",
+      "claim_type": "interpretive",
+      "closure_type": "open_ended_with_burden_on_reader"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "case_introduction",
+      "case_development",
+      "case_interpretation",
+      "conclusion_open"
+    ],
+    "reflexive_move": false,
+    "key_concepts": [
+      "poetic thinking",
+      "mother tongue",
+      "plurality",
+      "amor mundi",
+      "exile and language",
+      "literary-political intersection"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Arendt",
+        "Hill",
+        "Grill"
+      ],
+      "engaged_critically": [],
+      "referenced_only": [
+        "Rilke",
+        "Broch",
+        "Auden",
+        "Lowell",
+        "Goethe",
+        "Schiller",
+        "Novalis"
+      ]
+    },
+    "confidence_notes": "Book review of a poetry edition; atypically literary for this journal. Classified as purely_interpretive_hermeneutic given near-absence of normative argument. Low normative stake reflects literary rather than political-theoretical focus.",
+    "_source_file": "s41296-025-00771-y.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "marneros_2025",
+    "title": "The anarchist before the law: law without authority [Book Review]",
+    "author": "Marneros",
+    "year": 2025,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "conceptual_gap",
+      "description": "The review opens by noting the intersection of law and anarchism as a growing scholarly field, positioning Newman and La Torre's book as offering a different and more productive account than the destituting anarchism-vs-law framing.",
+      "anchored_in": [
+        "Newman",
+        "La Torre",
+        "Loizidou"
+      ],
+      "stakes_claimed": "Law need not be the enemy of anarchism — anarchism's instituting power can produce an anti-foundational law as a practice of freedom"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "Loizidou's anarchist life without law",
+        "authoritarian/hierarchical legal theory"
+      ],
+      "engagement_structure": "dialectical_contrast",
+      "immanent_critique": false,
+      "own_position_type": "none",
+      "own_position_explicit": false,
+      "description": "The review is appreciative and expository, presenting the productive tension between Newman's continental anarchism and La Torre's analytic legal theory as the book's central strength."
+    },
+    "epistemic_mode": {
+      "primary": "fully_normative",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "conceptual analysis of anarchist and legal traditions; close reading of Newman and La Torre",
+      "notes": "Book review genre; primarily expository and appreciative."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "philosophical_text",
+      "case_name": "Newman and La Torre, The Anarchist Before the Law (2024)",
+      "case_function": "primary_object_of_analysis",
+      "case_relation_to_argument": "object_of_interpretation",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "medium",
+      "domain": "sovereignty / anarchism / legal theory",
+      "claim_type": "reconstructive",
+      "closure_type": "open_ended_with_burden_on_reader"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "rival_mapping",
+      "case_introduction",
+      "case_development",
+      "conclusion_open"
+    ],
+    "reflexive_move": false,
+    "key_concepts": [
+      "anarchism",
+      "law without authority",
+      "destituting vs instituting power",
+      "anti-foundational law",
+      "political theology",
+      "sovereign authority"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Newman",
+        "La Torre"
+      ],
+      "engaged_critically": [
+        "Loizidou"
+      ],
+      "referenced_only": [
+        "anarchist tradition (Bakunin, Kropotkin implied)"
+      ]
+    },
+    "confidence_notes": "Book review genre; primarily expository. The productive-tension framing (continental vs analytic, political theory vs legal theory) is the reviewer's interpretive contribution.",
+    "_source_file": "s41296-025-00772-x.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "bonotti_nwokora_2025",
+    "title": "Free speech and social change: a public reason approach",
+    "author": "Bonotti, Nwokora",
+    "year": 2025,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "conceptual_gap",
+      "description": "The paper opens by diagnosing a legitimacy crisis for free speech in contemporary liberal democracies: social changes (individualism, migration, post-truth, cognitive biases, technology) have altered the empirical context in which the three classical arguments for free speech were developed, requiring their re-evaluation.",
+      "anchored_in": [
+        "Rawls (public reason)",
+        "Mill",
+        "liberal free speech tradition"
+      ],
+      "stakes_claimed": "The protection of free speech must be re-legitimized through a 'public reason test' that accounts for social change; without this, free speech protections lose their democratic justification"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "truth argument for free speech (Mill)",
+        "autonomy argument for free speech",
+        "democracy argument"
+      ],
+      "engagement_structure": "dialectical_contrast",
+      "immanent_critique": true,
+      "own_position_type": "middle_way",
+      "own_position_explicit": true,
+      "description": "The paper conducts a systematic re-evaluation of the three main arguments for free speech through the lens of Rawlsian public reason, arguing that only the democracy argument survives the test of contemporary social change."
+    },
+    "epistemic_mode": {
+      "primary": "normative_with_qualitative_empirical",
+      "secondary": null,
+      "empirical_evidence_present": true,
+      "empirical_evidence_role": "supportive",
+      "quantitative_methods": null,
+      "qualitative_methods": "qualitative analysis of social change processes (individualism, migration, post-truth, cognitive bias research, technological change)",
+      "data_sources": [
+        "cognitive bias research literature",
+        "post-truth communication studies"
+      ],
+      "interpretive_methods": null,
+      "notes": "The paper uses empirical descriptions of social change processes to assess the viability of normative arguments — empirical material is supportive but not constitutive of the normative conclusion."
+    },
+    "case_type": {
+      "has_case": false,
+      "case_medium": "none",
+      "case_name": null,
+      "case_function": "none",
+      "case_relation_to_argument": "none",
+      "case_selection_justified": false
+    },
+    "normative_stake": {
+      "level": "high",
+      "domain": "democratic theory / free speech / constitutional law",
+      "claim_type": "prescriptive",
+      "closure_type": "strong_normative_conclusion"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "rival_mapping",
+      "method_justification",
+      "immanent_critique",
+      "immanent_critique",
+      "framework_proposal",
+      "counter_objection_response",
+      "meta_reflexive_qualification",
+      "conclusion_strong"
+    ],
+    "reflexive_move": true,
+    "key_concepts": [
+      "public reason",
+      "free speech",
+      "truth argument",
+      "autonomy argument",
+      "democracy argument",
+      "social change"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Rawls",
+        "Mill"
+      ],
+      "engaged_critically": [
+        "Mill (truth argument)",
+        "autonomy theorists"
+      ],
+      "referenced_only": [
+        "Brink",
+        "Bonotti & Seglow",
+        "Brown",
+        "Abrams",
+        "Grimm"
+      ]
+    },
+    "confidence_notes": "Full-length article (21 pages). The 'normative_with_qualitative_empirical' classification reflects the paper's use of social science descriptions of five change processes as inputs to the normative argument; the argument itself is normative-analytical.",
+    "_source_file": "s41296-025-00773-w.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "marwah_2025",
+    "title": "Legalizing the revolution: India and the constitution of the postcolony [Book Review]",
+    "author": "Marwah",
+    "year": 2025,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "polemical_intervention",
+      "description": "The review opens with the provocative thesis of Dasgupta's book: the postcolonial revolution failed, and its failure is legible in the constitutional project that converted mass democratic energy into top-down bureaucratic state-building.",
+      "anchored_in": [
+        "Dasgupta",
+        "Indian Constituent Assembly",
+        "Gandhi"
+      ],
+      "stakes_claimed": "Understanding how the constitutional project contained rather than channelled popular sovereignty in India, and why the anticolonial promise was domesticated"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "celebratory accounts of Indian constitutionalism",
+        "liberal constitutional theory"
+      ],
+      "engagement_structure": "immanent_critique",
+      "immanent_critique": false,
+      "own_position_type": "none",
+      "own_position_explicit": false,
+      "description": "The review is appreciative and expository, presenting Dasgupta's critical-genealogical argument about the containment of popular sovereignty in Indian constitutional history."
+    },
+    "epistemic_mode": {
+      "primary": "normative_with_interpretive_case",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "intellectual and legal history; genealogical analysis of constitutional design",
+      "notes": "Book review of a historical-political theory work. Dasgupta's book itself uses archival and historical evidence; the review presents this without independent empirical engagement."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "historical_event",
+      "case_name": "Indian independence movement and Constituent Assembly (1947 onwards)",
+      "case_function": "primary_object_of_analysis",
+      "case_relation_to_argument": "object_of_interpretation",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "high",
+      "domain": "postcolonial theory / democratic theory / sovereignty",
+      "claim_type": "critical_diagnostic",
+      "closure_type": "open_ended_with_burden_on_reader"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "case_introduction",
+      "genealogical_reconstruction",
+      "case_development",
+      "conclusion_open"
+    ],
+    "reflexive_move": false,
+    "key_concepts": [
+      "postcolonial revolution",
+      "legalizing the revolution",
+      "popular sovereignty",
+      "administrative state",
+      "constitutional containment",
+      "anticolonialism"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Dasgupta"
+      ],
+      "engaged_critically": [],
+      "referenced_only": [
+        "Gandhi",
+        "Nehru (implied)",
+        "Constituent Assembly members (implied)"
+      ]
+    },
+    "confidence_notes": "Book review genre; primarily expository. High normative stake reflects the political-theoretical argument of the reviewed book, not independent reviewer intervention.",
+    "_source_file": "s41296-025-00774-9.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "boscov_ellen_2025",
+    "title": "Nancy Fraser and politics [Book Review]",
+    "author": "Boscov-Ellen",
+    "year": 2025,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "empirical_anomaly",
+      "description": "The review opens with a sweeping diagnosis of contemporary polycrisis (inequality, ecological collapse, displacement, xenophobia), framing Fraser's critical theory as uniquely equipped to trace 'heterogeneous ills' to a common capitalist root.",
+      "anchored_in": [
+        "Fraser",
+        "cannibal capitalism"
+      ],
+      "stakes_claimed": "We need a critical theory that can illuminate structural connections between apparently disparate crises and point toward emancipatory resolution"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "liberal and poststructuralist academic hegemony",
+        "single-axis approaches to injustice"
+      ],
+      "engagement_structure": "dialectical_contrast",
+      "immanent_critique": false,
+      "own_position_type": "none",
+      "own_position_explicit": false,
+      "description": "The review enthusiastically presents Ivković and Zarić's collection as a valuable introduction to and extension of Fraser's political thought, without substantial independent critique."
+    },
+    "epistemic_mode": {
+      "primary": "normative_with_qualitative_empirical",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "critical theory reading of Fraser's work; political-diagnostic framing",
+      "notes": "Book review genre. The polycrisis framing is politically diagnostic but not empirically evidenced; it uses contemporary conditions illustratively."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "philosophical_text",
+      "case_name": "Ivković and Zarić (eds.), Nancy Fraser and Politics (2024); Fraser, Cannibal Capitalism (2022)",
+      "case_function": "primary_object_of_analysis",
+      "case_relation_to_argument": "object_of_interpretation",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "high",
+      "domain": "justice / capitalism critique / feminist theory",
+      "claim_type": "critical_diagnostic",
+      "closure_type": "open_ended_with_burden_on_reader"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "empirical_presentation",
+      "case_introduction",
+      "case_development",
+      "conclusion_open"
+    ],
+    "reflexive_move": false,
+    "key_concepts": [
+      "cannibal capitalism",
+      "parity of participation",
+      "recognition-redistribution",
+      "polycrisis",
+      "structural injustice",
+      "critical theory"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Fraser",
+        "Ivković",
+        "Zarić"
+      ],
+      "engaged_critically": [],
+      "referenced_only": [
+        "Honneth (implied)",
+        "poststructuralism (implied)"
+      ]
+    },
+    "confidence_notes": "Book review genre; primarily appreciative. The polycrisis framing belongs to the reviewer but is not argued — it functions as a rhetorical stage-setter.",
+    "_source_file": "s41296-025-00775-8.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "utrata_2025",
+    "title": "Contested territory: a theory of land and democracy beyond sovereign bounds [Book Review]",
+    "author": "Utrata",
+    "year": 2025,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "conceptual_gap",
+      "description": "The review opens by framing Jurkevics's intervention against cosmopolitan political theory: she shares cosmopolitanism's rejection of sovereignty but recovers the concept of territory as the site of a richer, localised democratic politics.",
+      "anchored_in": [
+        "Jurkevics",
+        "cosmopolitan theory"
+      ],
+      "stakes_claimed": "Cosmopolitans have abandoned territory along with sovereignty, losing the most promising sites for thick democratic politics; territory can be salvaged for emancipatory purposes"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "cosmopolitan global governance theorists",
+        "anti-territorial anarchists"
+      ],
+      "engagement_structure": "dialectical_contrast",
+      "immanent_critique": false,
+      "own_position_type": "none",
+      "own_position_explicit": false,
+      "description": "The review presents Jurkevics's argument appreciatively, framing her recovery of territory as a corrective to cosmopolitan and anarchical theory without adding independent critique."
+    },
+    "epistemic_mode": {
+      "primary": "normative_with_interpretive_case",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "close reading of Jurkevics and canonical political theory texts",
+      "notes": "Book review genre; primarily expository and appreciative."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "philosophical_text",
+      "case_name": "Jurkevics, Contested Territory (2025)",
+      "case_function": "primary_object_of_analysis",
+      "case_relation_to_argument": "object_of_interpretation",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "medium",
+      "domain": "democratic theory / territory / sovereignty",
+      "claim_type": "reconstructive",
+      "closure_type": "open_ended_with_burden_on_reader"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "rival_mapping",
+      "case_introduction",
+      "framework_proposal",
+      "conclusion_open"
+    ],
+    "reflexive_move": false,
+    "key_concepts": [
+      "territorial sovereignty",
+      "local democracy",
+      "cosmopolitanism",
+      "emancipatory land politics",
+      "anarchical politics",
+      "commons"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Jurkevics"
+      ],
+      "engaged_critically": [
+        "cosmopolitan theorists"
+      ],
+      "referenced_only": [
+        "anarchist tradition (implied)"
+      ]
+    },
+    "confidence_notes": "Book review genre; primarily expository. The reviewer focuses on accurately presenting Jurkevics's argument rather than independently engaging it.",
+    "_source_file": "s41296-025-00777-6.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "rodrigues_2025",
+    "title": "In the shadow of minority rights: decolonising gender, liberalism and the politics of difference [Book Review]",
+    "author": "Rodrigues",
+    "year": 2025,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "interpretive_proposition",
+      "description": "The review opens by framing Dutta's book as a reframing of political agency in contemporary India: Muslim women navigate a landscape shaped by legal pluralism and communal politics through embodied ethical practice, not merely through liberal state claims.",
+      "anchored_in": [
+        "Dutta",
+        "BMMA",
+        "MCMT"
+      ],
+      "stakes_claimed": "The liberal state is not the locus of justice for Muslim women in India; their political agency is enacted through everyday ethical practices within lived Islamic and constitutional traditions"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "liberal minority rights frameworks",
+        "communitarian recognition theory"
+      ],
+      "engagement_structure": "dialectical_contrast",
+      "immanent_critique": false,
+      "own_position_type": "none",
+      "own_position_explicit": false,
+      "description": "The review presents Dutta's postcolonial feminist argument appreciatively, foregrounding the book's empirical grounding in fieldwork with Muslim women activists."
+    },
+    "epistemic_mode": {
+      "primary": "normative_with_qualitative_empirical",
+      "secondary": null,
+      "empirical_evidence_present": true,
+      "empirical_evidence_role": "constitutive",
+      "quantitative_methods": null,
+      "qualitative_methods": "fieldwork with Muslim women activists (BMMA, MCMT) in Mumbai",
+      "data_sources": [
+        "fieldwork with Bharatiya Muslim Mahila Andolan (BMMA)",
+        "Mohalla Committee Movement Trust (MCMT)"
+      ],
+      "interpretive_methods": "postcolonial feminist theory; ethnographic interpretation",
+      "notes": "Book review of an empirically-grounded work. The reviewed book's fieldwork is constitutive of its argument; the review presents this without independent empirical contribution."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "ethnographic_field",
+      "case_name": "Muslim women activists, BMMA and MCMT, Mumbai, India",
+      "case_function": "generative_of_theory",
+      "case_relation_to_argument": "evidence_for_claim",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "high",
+      "domain": "minority rights / gender / postcolonial democracy",
+      "claim_type": "critical_diagnostic",
+      "closure_type": "open_ended_with_burden_on_reader"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "case_introduction",
+      "empirical_presentation",
+      "case_development",
+      "normative_derivation",
+      "conclusion_open"
+    ],
+    "reflexive_move": false,
+    "key_concepts": [
+      "minority rights",
+      "embodied political agency",
+      "Islamic ethics",
+      "legal pluralism",
+      "postcolonial democracy",
+      "ethical labor"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Dutta"
+      ],
+      "engaged_critically": [
+        "liberal minority rights tradition"
+      ],
+      "referenced_only": [
+        "Islamic jurisprudence (implied)",
+        "Indian constitutional theory (implied)"
+      ]
+    },
+    "confidence_notes": "Book review genre. This is the only review in the corpus that presents a book with constitutive ethnographic evidence — the fieldwork drives the argument, not illustrates it.",
+    "_source_file": "s41296-025-00778-5.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "roch_balinhas_mondon_2025",
+    "title": "A critique of the polarisation narrative: expanding the limits of democracy, parties and political participation",
+    "author": "Roch, Balinhas, Mondon",
+    "year": 2025,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "empirical_anomaly",
+      "description": "The paper opens by diagnosing the 'polarisation narrative' as a discursive construction that, like the populism hype before it, shapes political understanding while obscuring real structural trends — specifically, it constructs a spectrum where legitimacy resides in the 'centre' and excludes democratic demands from the 'extremes'.",
+      "anchored_in": [
+        "polarisation literature",
+        "populism studies",
+        "Mouffe",
+        "Laclau"
+      ],
+      "stakes_claimed": "The polarisation narrative legitimises technocratic post-political management and forecloses possibilities for democratic expansion; a critique of the narrative is needed to recover democratic alternatives"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "mainstream polarisation narrative",
+        "post-political technocratic discourse",
+        "centrist democratic theory"
+      ],
+      "engagement_structure": "sustained_critique",
+      "immanent_critique": true,
+      "own_position_type": "external_alternative",
+      "own_position_explicit": true,
+      "description": "The paper performs a critical discourse analysis of the polarisation narrative and proposes democratic expansion as an alternative framework, drawing on agonistic, Gramscian, and participatory democratic theory."
+    },
+    "epistemic_mode": {
+      "primary": "normative_with_qualitative_empirical",
+      "secondary": null,
+      "empirical_evidence_present": true,
+      "empirical_evidence_role": "supportive",
+      "quantitative_methods": "content analysis of NYT articles (Nexis search); frequency counts of 'polarisation' in academic publications",
+      "qualitative_methods": "critical discourse analysis of the polarisation narrative",
+      "data_sources": [
+        "Nexis database NYT polarisation articles 2015-present",
+        "academic publication frequency data"
+      ],
+      "interpretive_methods": "discourse analysis; Gramscian hegemony theory",
+      "notes": "The empirical data (media/publication counts) are supportive illustrations of the narrative's construction and growth, not constitutive of the normative argument for democratic expansion."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "political_event",
+      "case_name": "Trump's political rise and the polarisation discourse in the United States; European far-right mainstreaming",
+      "case_function": "illustration",
+      "case_relation_to_argument": "illustrative_only",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "high",
+      "domain": "democratic theory / political parties / public sphere",
+      "claim_type": "critical_diagnostic",
+      "closure_type": "research_agenda"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "empirical_presentation",
+      "rival_mapping",
+      "immanent_critique",
+      "conceptual_distinction",
+      "framework_proposal",
+      "normative_derivation",
+      "conclusion_strong"
+    ],
+    "reflexive_move": true,
+    "key_concepts": [
+      "polarisation narrative",
+      "democratic expansion",
+      "post-politics",
+      "technocratic management",
+      "affective polarisation",
+      "hegemony"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Mouffe",
+        "Laclau"
+      ],
+      "engaged_critically": [
+        "mainstream polarisation theorists",
+        "Klein",
+        "Svolik"
+      ],
+      "referenced_only": [
+        "Gramsci",
+        "Thompson (E.P.)",
+        "Wood (E.M.)",
+        "Stavrakakis",
+        "Spivak"
+      ]
+    },
+    "confidence_notes": "21-page research article with light quantitative evidence (media frequency data) used supportively. The core argument is critical-normative; the empirical material illustrates the narrative's discursive construction rather than proving it.",
+    "_source_file": "s41296-025-00779-4.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "hyde_saracino_2025",
+    "title": "Facing authority: a theory of political legitimacy [Book Review]",
+    "author": "Hyde, Saracino",
+    "year": 2025,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "normative_puzzle",
+      "description": "The review opens by situating Fossen's book within non-ideal theory, framing political legitimacy as a pressing practical question in conditions of institutional fragility and democratic backsliding.",
+      "anchored_in": [
+        "Fossen",
+        "non-ideal theory",
+        "political legitimacy"
+      ],
+      "stakes_claimed": "In conditions of turbulence, we need practical accounts of how to face authority when justice and consensus are precarious"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "abstract ideal-theory accounts of legitimacy"
+      ],
+      "engagement_structure": "dialectical_contrast",
+      "immanent_critique": false,
+      "own_position_type": "none",
+      "own_position_explicit": false,
+      "description": "The review presents Fossen's 'facing authority' approach appreciatively — legitimacy as a practical orientation toward authority rather than an abstract concept — without substantial independent critique."
+    },
+    "epistemic_mode": {
+      "primary": "fully_normative",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "conceptual analysis of political legitimacy",
+      "notes": "Book review genre; primarily expository."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "philosophical_text",
+      "case_name": "Fossen, Facing Authority (2024)",
+      "case_function": "primary_object_of_analysis",
+      "case_relation_to_argument": "object_of_interpretation",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "medium",
+      "domain": "democratic theory / political legitimacy",
+      "claim_type": "reconstructive",
+      "closure_type": "open_ended_with_burden_on_reader"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "case_introduction",
+      "case_development",
+      "framework_proposal",
+      "conclusion_open"
+    ],
+    "reflexive_move": false,
+    "key_concepts": [
+      "political legitimacy",
+      "facing authority",
+      "non-ideal theory",
+      "practical philosophy",
+      "democratic backsliding",
+      "authority"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Fossen"
+      ],
+      "engaged_critically": [],
+      "referenced_only": [
+        "Rawls (non-ideal theory tradition implied)"
+      ]
+    },
+    "confidence_notes": "Book review genre; primarily expository. The contemporary political framing (pandemic, wars, backsliding) functions as rhetorical scene-setting.",
+    "_source_file": "s41296-025-00780-x.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "jha_2025",
+    "title": "Ambedkar's political philosophy: a grammar of public life from the social margins [Book Review]",
+    "author": "Jha",
+    "year": 2025,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "conceptual_gap",
+      "description": "The review opens by diagnosing a 'thin interpretation' problem in Ambedkar studies: existing literature is biographical or historical rather than analytically philosophical, and relies on a narrow canon of his texts.",
+      "anchored_in": [
+        "Valerian Rodrigues",
+        "Ambedkar studies"
+      ],
+      "stakes_claimed": "A full analytical account of Ambedkar's political philosophy — drawn from his complete corpus — is needed to understand Ambedkarism as a praxial philosophy of the human condition"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "biographical and descriptive Ambedkar scholarship"
+      ],
+      "engagement_structure": "absence_critique",
+      "immanent_critique": false,
+      "own_position_type": "none",
+      "own_position_explicit": false,
+      "description": "The review endorses Rodrigues's analytical approach as filling a gap in Ambedkar scholarship, presenting its contributions appreciatively."
+    },
+    "epistemic_mode": {
+      "primary": "normative_with_interpretive_case",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "intellectual history; close reading of Ambedkar's texts",
+      "notes": "Book review genre; primarily expository."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "philosophical_text",
+      "case_name": "Ambedkar's writings; Rodrigues, Ambedkar's Political Philosophy (2024)",
+      "case_function": "primary_object_of_analysis",
+      "case_relation_to_argument": "object_of_interpretation",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "medium",
+      "domain": "democratic theory / postcolonial theory / social justice",
+      "claim_type": "reconstructive",
+      "closure_type": "open_ended_with_burden_on_reader"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "rival_mapping",
+      "case_introduction",
+      "case_development",
+      "conclusion_open"
+    ],
+    "reflexive_move": false,
+    "key_concepts": [
+      "Ambedkarism",
+      "grammar of public life",
+      "social margins",
+      "thin interpretation",
+      "Dalit emancipation",
+      "praxial philosophy"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Ambedkar",
+        "Rodrigues (Valerian)"
+      ],
+      "engaged_critically": [],
+      "referenced_only": [
+        "Dalit political tradition (implied)"
+      ]
+    },
+    "confidence_notes": "Book review genre; primarily expository. Author name listed without first name in PDF; likely Priyanka Jha.",
+    "_source_file": "s41296-025-00781-w.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "slothuus_2025",
+    "title": "Free gifts: capitalism and the politics of nature [Book Review]",
+    "author": "Slothuus",
+    "year": 2025,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "reconstructive_diagnosis",
+      "description": "The review opens with Battistoni's core argument: capitalism treats nature as a 'free gift' — unpaid for in the economic accounting — structurally, not accidentally, and this failure underpins ecological crisis.",
+      "anchored_in": [
+        "Battistoni",
+        "Marx (value theory)",
+        "feminist political economy"
+      ],
+      "stakes_claimed": "Understanding capitalism's structural devaluation of nature (alongside other 'free gifts' — reproductive labor, atmosphere) is essential for ecological politics"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "mainstream ecological economics",
+        "critical approaches that treat nature-devaluation as oversight rather than structure"
+      ],
+      "engagement_structure": "dialectical_contrast",
+      "immanent_critique": false,
+      "own_position_type": "none",
+      "own_position_explicit": false,
+      "description": "The review presents Battistoni's argument appreciatively, contextualising it within Marxist political economy and feminist theory."
+    },
+    "epistemic_mode": {
+      "primary": "normative_with_interpretive_case",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "Marxist political economy; feminist theory; political ecology",
+      "notes": "Book review genre; primarily expository. Battistoni's book itself uses historical and theoretical analysis of capitalist production."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "philosophical_text",
+      "case_name": "Battistoni, Free Gifts (2025); capitalist value chains",
+      "case_function": "primary_object_of_analysis",
+      "case_relation_to_argument": "object_of_interpretation",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "high",
+      "domain": "ecology / capitalism critique / justice",
+      "claim_type": "critical_diagnostic",
+      "closure_type": "open_ended_with_burden_on_reader"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "case_introduction",
+      "case_development",
+      "rival_mapping",
+      "normative_derivation",
+      "conclusion_open"
+    ],
+    "reflexive_move": false,
+    "key_concepts": [
+      "free gifts",
+      "nature as capital",
+      "reproductive labor",
+      "ecological crisis",
+      "value theory",
+      "feminist political economy"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Battistoni"
+      ],
+      "engaged_critically": [
+        "mainstream ecological economics"
+      ],
+      "referenced_only": [
+        "Marx (implied)",
+        "feminist political economy tradition"
+      ]
+    },
+    "confidence_notes": "Book review genre; primarily expository. The normative stake derives from the reviewed book's political ecology argument.",
+    "_source_file": "s41296-025-00782-9.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "bruyneel_2025",
+    "title": "Remapping Sovereignty: decolonization and self-determination in North American Indigenous political thought [Book Review]",
+    "author": "Bruyneel",
+    "year": 2025,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "polemical_intervention",
+      "description": "The review opens with a sharp critique of political theory as 'disavowal' — attending to Indigenous concerns mainly as a vehicle for settler self-reflection rather than for genuine engagement with Indigenous political demands.",
+      "anchored_in": [
+        "Temin",
+        "Indigenous political thought",
+        "settler colonialism"
+      ],
+      "stakes_claimed": "Political theory must move beyond 'colonial condescension' and engage seriously with Indigenous political thought on its own terms"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "settler-centric political theory",
+        "'political theory as disavowal'"
+      ],
+      "engagement_structure": "immanent_critique",
+      "immanent_critique": true,
+      "own_position_type": "external_alternative",
+      "own_position_explicit": true,
+      "description": "The review endorses Temin's recovery of Indigenous political thought but raises an immanent critique about the scope of 'remapping' — pressing on what it means to take Indigenous self-determination seriously in practice."
+    },
+    "epistemic_mode": {
+      "primary": "normative_with_interpretive_case",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "close reading of Indigenous political thinkers and Temin's analysis; decolonial critique",
+      "notes": "Book review genre with strong reviewer intervention. The reviewer's concept of 'political theory as disavowal' is the independent theoretical contribution."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "political_event",
+      "case_name": "North American Indigenous decolonisation movements; Temin, Remapping Sovereignty (2023)",
+      "case_function": "primary_object_of_analysis",
+      "case_relation_to_argument": "object_of_interpretation",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "high",
+      "domain": "sovereignty / decolonisation / recognition",
+      "claim_type": "critical_diagnostic",
+      "closure_type": "open_ended_with_burden_on_reader"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "rival_mapping",
+      "case_introduction",
+      "case_development",
+      "immanent_critique",
+      "conclusion_open"
+    ],
+    "reflexive_move": false,
+    "key_concepts": [
+      "Indigenous sovereignty",
+      "self-determination",
+      "settler colonialism",
+      "political theory as disavowal",
+      "remapping",
+      "decolonisation"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Temin",
+        "Indigenous political thinkers (Coulthard, Simpson, et al. implied)"
+      ],
+      "engaged_critically": [
+        "settler political theory"
+      ],
+      "referenced_only": []
+    },
+    "confidence_notes": "Book review genre with strong immanent critique. The reviewer's independent concept ('political theory as disavowal') is the substantive contribution.",
+    "_source_file": "s41296-025-00783-8.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "arlen_2025",
+    "title": "Democratic elitism: the founding myth of American political science [Book Review]",
+    "author": "Arlen",
+    "year": 2025,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "conceptual_gap",
+      "description": "The review opens with Piano's thesis about 'mistranslation': American political science misread the Italian elitists (Pareto, Mosca, Michels) by converting their critique of liberal democracy into a justification for it, thereby constructing 'democratic elitism' as a founding myth.",
+      "anchored_in": [
+        "Piano",
+        "Pareto",
+        "Mosca",
+        "Michels",
+        "Schumpeter"
+      ],
+      "stakes_claimed": "The ideological construction of 'democratic elitism' has distorted both American political science and democratic theory by naturalising elite rule under the guise of empirical realism"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "democratic elitism",
+        "Schumpeterian pluralism",
+        "American political science"
+      ],
+      "engagement_structure": "genealogical_reconstruction",
+      "immanent_critique": false,
+      "own_position_type": "none",
+      "own_position_explicit": false,
+      "description": "The review presents Piano's genealogical argument appreciatively, contextualising the misappropriation of Italian elitism by American social scientists."
+    },
+    "epistemic_mode": {
+      "primary": "purely_interpretive_hermeneutic",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "intellectual history; genealogical analysis of political science canon formation",
+      "notes": "Book review genre; primarily expository. Piano's book itself uses historical-archival methods to reconstruct the reception of Italian elitists."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "historical_event",
+      "case_name": "Italian elitists (Pareto, Mosca, Michels) and their American reception; Piano, Democratic Elitism (2025)",
+      "case_function": "primary_object_of_analysis",
+      "case_relation_to_argument": "object_of_interpretation",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "high",
+      "domain": "democratic theory / disciplinary history of political science",
+      "claim_type": "critical_diagnostic",
+      "closure_type": "open_ended_with_burden_on_reader"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "case_introduction",
+      "genealogical_reconstruction",
+      "immanent_critique",
+      "conclusion_open"
+    ],
+    "reflexive_move": false,
+    "key_concepts": [
+      "democratic elitism",
+      "founding myth",
+      "mistranslation",
+      "Italian elitists",
+      "American political science",
+      "circulation of elites"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Piano",
+        "Pareto",
+        "Mosca",
+        "Michels"
+      ],
+      "engaged_critically": [
+        "Schumpeter",
+        "American pluralists"
+      ],
+      "referenced_only": [
+        "Nietzsche",
+        "Machiavelli"
+      ]
+    },
+    "confidence_notes": "Book review genre; primarily expository and appreciative. The genealogical argument belongs to Piano; the reviewer presents and contextualises it.",
+    "_source_file": "s41296-025-00784-7.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "royer_2025",
+    "title": "Thinking about democracy in turbulent times [Book Review]",
+    "author": "Royer",
+    "year": 2025,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "polemical_intervention",
+      "description": "The review opens by endorsing Keane's diagnosis of 'professional thoughtlessness' in democratic theory, but immediately deflates it: Keane himself fails to deliver on his promise of 'radically unorthodox' thinking.",
+      "anchored_in": [
+        "Keane"
+      ],
+      "stakes_claimed": "Democratic theory needs radical rethinking — but this book does not provide it, making the review a diagnostic of the field's unmet demand"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "Keane's monitory democracy framework"
+      ],
+      "engagement_structure": "immanent_critique",
+      "immanent_critique": true,
+      "own_position_type": "external_alternative",
+      "own_position_explicit": false,
+      "description": "The review is a critical assessment of Keane's lectures — sympathetic to the ambition, critical of the execution; the reviewer argues the book fails to transcend the 'professional thoughtlessness' it diagnoses."
+    },
+    "epistemic_mode": {
+      "primary": "fully_normative",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "close reading and critical evaluation of Keane's argument",
+      "notes": "Book review genre with strong critical stance."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "philosophical_text",
+      "case_name": "Keane, Thinking About Democracy in Turbulent Times (2025)",
+      "case_function": "primary_object_of_analysis",
+      "case_relation_to_argument": "object_of_interpretation",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "medium",
+      "domain": "democratic theory / methodology",
+      "claim_type": "critical_diagnostic",
+      "closure_type": "open_ended_with_burden_on_reader"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "case_introduction",
+      "case_development",
+      "immanent_critique",
+      "conclusion_open"
+    ],
+    "reflexive_move": false,
+    "key_concepts": [
+      "professional thoughtlessness",
+      "monitory democracy",
+      "democratic theory",
+      "turbulent times",
+      "critical thinking",
+      "radical rethinking"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Keane"
+      ],
+      "engaged_critically": [
+        "Keane"
+      ],
+      "referenced_only": []
+    },
+    "confidence_notes": "Book review genre. Notable as a genuinely critical (negative) review rather than an appreciative one — the reviewer argues the book fails to deliver on its own ambition.",
+    "_source_file": "s41296-025-00785-6.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "fumagalli_2025",
+    "title": "Politicizing political liberalism: on the containment of illiberal and antidemocratic views [Book Review]",
+    "author": "Fumagalli",
+    "year": 2025,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "normative_puzzle",
+      "description": "The review opens with the puzzle that Rawlsian scholarship has until recently largely ignored the challenge posed by antidemocratic forces, despite Rawls's own recognition that unreasonable doctrines are a permanent feature of democratic life.",
+      "anchored_in": [
+        "Rawls",
+        "Badano",
+        "Nuti"
+      ],
+      "stakes_claimed": "Political liberalism needs to reckon seriously with illiberal threats from within, not just treat them as marginal aberrations"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "Rawlsian political liberalism (standard version)",
+        "accommodationist approaches"
+      ],
+      "engagement_structure": "immanent_critique",
+      "immanent_critique": false,
+      "own_position_type": "none",
+      "own_position_explicit": false,
+      "description": "The review presents Badano and Nuti's 'politicization' of political liberalism as a necessary extension of Rawlsian theory to address antidemocratic threats, without independent critique."
+    },
+    "epistemic_mode": {
+      "primary": "fully_normative",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "close reading of Rawls and Badano/Nuti",
+      "notes": "Book review genre; primarily expository."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "philosophical_text",
+      "case_name": "Badano and Nuti, Politicizing Political Liberalism (2024); Rawls, Political Liberalism",
+      "case_function": "primary_object_of_analysis",
+      "case_relation_to_argument": "object_of_interpretation",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "high",
+      "domain": "democratic theory / political liberalism / constitutional design",
+      "claim_type": "prescriptive",
+      "closure_type": "open_ended_with_burden_on_reader"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "rival_mapping",
+      "case_introduction",
+      "case_development",
+      "conclusion_open"
+    ],
+    "reflexive_move": false,
+    "key_concepts": [
+      "political liberalism",
+      "unreasonable doctrines",
+      "containment",
+      "antidemocratic views",
+      "illiberal forces",
+      "politicization"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Rawls",
+        "Badano",
+        "Nuti"
+      ],
+      "engaged_critically": [
+        "standard Rawlsian approaches"
+      ],
+      "referenced_only": [
+        "militant democracy literature (implied)"
+      ]
+    },
+    "confidence_notes": "Book review genre; primarily expository. The connection with militant democracy literature is implicit.",
+    "_source_file": "s41296-025-00786-5.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "agbor_2025",
+    "title": "Communitarianism: politics, society and public policy [Book Review]",
+    "author": "Agbor",
+    "year": 2025,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "reconstructive_diagnosis",
+      "description": "The review opens by positioning Tam's communitarianism as a timely intervention that moves beyond abstract philosophy toward practical applicability — a forward-looking framework built on mutual responsibility, cooperative enquiry, and citizen participation.",
+      "anchored_in": [
+        "Tam"
+      ],
+      "stakes_claimed": "Communitarianism needs to be recovered as a practical political framework for addressing contemporary social challenges, not as nostalgic conservatism"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "nostalgic communitarianism",
+        "abstract liberal individualism"
+      ],
+      "engagement_structure": "dialectical_contrast",
+      "immanent_critique": false,
+      "own_position_type": "none",
+      "own_position_explicit": false,
+      "description": "The review presents Tam's practical communitarianism appreciatively, without independent critique."
+    },
+    "epistemic_mode": {
+      "primary": "normative_with_qualitative_empirical",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "conceptual analysis of communitarian principles",
+      "notes": "Book review genre. Tam's book itself applies communitarian principles to concrete policy domains; the review is primarily expository."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "philosophical_text",
+      "case_name": "Tam, Communitarianism: Politics, Society and Public Policy (2025)",
+      "case_function": "primary_object_of_analysis",
+      "case_relation_to_argument": "object_of_interpretation",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "medium",
+      "domain": "democratic theory / public policy / communitarianism",
+      "claim_type": "prescriptive",
+      "closure_type": "open_ended_with_burden_on_reader"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "framework_proposal",
+      "case_development",
+      "conclusion_open"
+    ],
+    "reflexive_move": false,
+    "key_concepts": [
+      "communitarianism",
+      "mutual responsibility",
+      "cooperative enquiry",
+      "inclusive communities",
+      "citizen participation",
+      "public policy"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Tam"
+      ],
+      "engaged_critically": [],
+      "referenced_only": [
+        "Taylor",
+        "Walzer",
+        "MacIntyre",
+        "Sandel (communitarian tradition implied)"
+      ]
+    },
+    "confidence_notes": "Book review genre; largely expository. Classified as normative_with_qualitative_empirical to flag that Tam's book applies theory to policy domains, even though this review doesn't engage evidence directly.",
+    "_source_file": "s41296-025-00787-4.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "niesen_2025",
+    "title": "At the margins of the modern state [Book Review]",
+    "author": "Niesen",
+    "year": 2025,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "polemical_intervention",
+      "description": "The review opens by noting that Frankfurt School critical theory has come under pressure for neglecting global south perspectives and colonial history, framing Benhabib's collection as an effort to repair this eclipse.",
+      "anchored_in": [
+        "Benhabib",
+        "Habermas",
+        "postcolonial critique of Frankfurt School"
+      ],
+      "stakes_claimed": "Cosmopolitan theory must integrate non-western perspectives and colonial history to remain normatively credible"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "Habermas's state-centred cosmopolitanism",
+        "eurocentrism in critical theory"
+      ],
+      "engagement_structure": "immanent_critique",
+      "immanent_critique": true,
+      "own_position_type": "friendly_amendment",
+      "own_position_explicit": true,
+      "description": "The review endorses Benhabib's effort to bring non-western perspectives into cosmopolitan theory, while raising questions about the adequacy of her engagement with the colonial critique."
+    },
+    "epistemic_mode": {
+      "primary": "normative_with_interpretive_case",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "close reading of Benhabib and Habermas; postcolonial critique",
+      "notes": "Book review genre with substantial critical engagement. The reviewer brings Habermasian and postcolonial perspectives to bear."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "philosophical_text",
+      "case_name": "Benhabib, At the Margins of the Modern State (2025); Habermas, Between Facts and Norms; Also a History of Philosophy",
+      "case_function": "primary_object_of_analysis",
+      "case_relation_to_argument": "object_of_interpretation",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "high",
+      "domain": "cosmopolitanism / sovereignty / global justice",
+      "claim_type": "critical_diagnostic",
+      "closure_type": "open_ended_with_burden_on_reader"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "case_introduction",
+      "case_development",
+      "immanent_critique",
+      "conclusion_open"
+    ],
+    "reflexive_move": false,
+    "key_concepts": [
+      "cosmopolitanism",
+      "modern state margins",
+      "sovereignty spectre",
+      "human rights",
+      "non-western perspectives",
+      "Frankfurt School critique"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Benhabib",
+        "Habermas"
+      ],
+      "engaged_critically": [
+        "Benhabib",
+        "Habermas"
+      ],
+      "referenced_only": [
+        "postcolonial critics (implied)"
+      ]
+    },
+    "confidence_notes": "Book review genre with substantive critical engagement. The reviewer positions Benhabib's work in relation to both Habermas and postcolonial critiques.",
+    "_source_file": "s41296-025-00788-3.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "chan_ky_2025",
+    "title": "Postcolonial global justice [Book Review]",
+    "author": "Chan (K.Y.S.)",
+    "year": 2025,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "conceptual_gap",
+      "description": "The review opens by identifying a gap between anticolonial political thought and global justice theory — two traditions that have rarely been put into conversation — and presents Chan's book as bridging them through an anticolonial egalitarian framework.",
+      "anchored_in": [
+        "Chan (S.Y.)",
+        "anticolonial thought",
+        "global justice theory"
+      ],
+      "stakes_claimed": "Global justice theory must be rethought as a project in decolonization, not just a matter of redistributive cosmopolitan principles"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "normative cosmopolitan global justice theory",
+        "anticolonial thought (as separate tradition)"
+      ],
+      "engagement_structure": "dialectical_contrast",
+      "immanent_critique": false,
+      "own_position_type": "none",
+      "own_position_explicit": false,
+      "description": "The review presents Chan's synthesis appreciatively, contextualising the anticolonial-egalitarian framework as a productive bridge between two traditions."
+    },
+    "epistemic_mode": {
+      "primary": "normative_with_interpretive_case",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "close reading of anticolonial and global justice texts",
+      "notes": "Book review genre; primarily expository."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "philosophical_text",
+      "case_name": "Chan (S.Y.), Postcolonial Global Justice (2025)",
+      "case_function": "primary_object_of_analysis",
+      "case_relation_to_argument": "object_of_interpretation",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "high",
+      "domain": "global justice / postcolonial theory / decolonisation",
+      "claim_type": "reconstructive",
+      "closure_type": "open_ended_with_burden_on_reader"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "rival_mapping",
+      "case_introduction",
+      "framework_proposal",
+      "conclusion_open"
+    ],
+    "reflexive_move": false,
+    "key_concepts": [
+      "postcolonial global justice",
+      "anticolonial egalitarianism",
+      "neocolonialism",
+      "decolonization",
+      "cosmopolitan principles",
+      "global south"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Chan (S.Y.)"
+      ],
+      "engaged_critically": [],
+      "referenced_only": [
+        "Rawls (global justice tradition)",
+        "anticolonial theorists (implied)"
+      ]
+    },
+    "confidence_notes": "Book review genre; primarily expository. Reviewer (Kai Yui Samuel Chan) shares surname with reviewed author (Shuk Ying Chan) — different people.",
+    "_source_file": "s41296-026-00789-w.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "manga_2025",
+    "title": "Senghor: writings on politics [Book Review]",
+    "author": "Manga",
+    "year": 2025,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "interpretive_proposition",
+      "description": "The review opens by presenting Ripert's edition as a scholarly introduction to Senghor's political vision, praising the editor's command of the corpus and the quality of the English translations.",
+      "anchored_in": [
+        "Senghor",
+        "Ripert",
+        "Negritude"
+      ],
+      "stakes_claimed": "Senghor's political writings deserve wider Anglophone attention as a contribution to postcolonial African political thought"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "Anglophone neglect of Senghor"
+      ],
+      "engagement_structure": "absence_critique",
+      "immanent_critique": false,
+      "own_position_type": "none",
+      "own_position_explicit": false,
+      "description": "The review is appreciative and expository, presenting Senghor's political vision through Ripert's edition without substantive independent critique."
+    },
+    "epistemic_mode": {
+      "primary": "purely_interpretive_hermeneutic",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "intellectual history; close reading of Senghor's political writings",
+      "notes": "Book review genre; primarily expository. Classified as purely_interpretive_hermeneutic given focus on presenting and contextualising Senghor's thought without normative argument."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "philosophical_text",
+      "case_name": "Senghor, Liberté volumes 1-4; Ripert, ed., Senghor: Writings on Politics (2025)",
+      "case_function": "primary_object_of_analysis",
+      "case_relation_to_argument": "object_of_interpretation",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "low",
+      "domain": "African political thought / postcolonial theory",
+      "claim_type": "interpretive",
+      "closure_type": "open_ended_with_burden_on_reader"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "case_introduction",
+      "case_development",
+      "conclusion_open"
+    ],
+    "reflexive_move": false,
+    "key_concepts": [
+      "Negritude",
+      "African socialism",
+      "négritude politique",
+      "Senegalese politics",
+      "pan-Africanism",
+      "cultural politics"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Senghor",
+        "Ripert"
+      ],
+      "engaged_critically": [],
+      "referenced_only": [
+        "Fanon (implied)",
+        "African political tradition"
+      ]
+    },
+    "confidence_notes": "Book review genre; primarily expository and appreciative. Very low independent normative contribution.",
+    "_source_file": "s41296-026-00790-3.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "pierer_2026",
+    "title": "Hybrid alienation: reproductive labour and emancipation in the anthropocene",
+    "author": "Pierer",
+    "year": 2026,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "conceptual_gap",
+      "description": "The paper opens by identifying a gap in accounts of alienation: standard Marxist alienation theory neglects reproductive labour and reifies 'nature', while attempts to address non-human agency in political theory lack the critical vocabulary to link nature to questions of power and emancipation.",
+      "anchored_in": [
+        "Battistoni",
+        "Wages for Housework movement",
+        "Marxist alienation theory"
+      ],
+      "stakes_claimed": "A 'hybrid' account of alienation that centres reproductive labour can critique arrangements that naturalise reproduction without falling back on a reified notion of nature — connecting labour to emancipation in the Anthropocene"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "standard Marxist alienation theory (production-centred)",
+        "political ecology accounts of non-human agency",
+        "Wages for Housework movement"
+      ],
+      "engagement_structure": "synthesis",
+      "immanent_critique": true,
+      "own_position_type": "synthesis",
+      "own_position_explicit": true,
+      "description": "The paper synthesises Marxist alienation critique with feminist political economy and political ecology to produce a 'hybrid' functionalist account that takes seriously both human and non-human labour in constituting the collective."
+    },
+    "epistemic_mode": {
+      "primary": "fully_normative",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "conceptual reconstruction; functionalist analysis of labour and reproduction; feminist and Marxist theory",
+      "notes": "Full-length research article (19 pages). Entirely conceptual-normative; no empirical data. The argument moves between feminist political economy, Marxist theory, and political ecology."
+    },
+    "case_type": {
+      "has_case": false,
+      "case_medium": "none",
+      "case_name": null,
+      "case_function": "none",
+      "case_relation_to_argument": "none",
+      "case_selection_justified": false
+    },
+    "normative_stake": {
+      "level": "high",
+      "domain": "emancipation / ecology / labour / feminist theory",
+      "claim_type": "prescriptive",
+      "closure_type": "open_ended_with_burden_on_reader"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "rival_mapping",
+      "conceptual_distinction",
+      "framework_proposal",
+      "immanent_critique",
+      "normative_derivation",
+      "meta_reflexive_qualification",
+      "conclusion_open"
+    ],
+    "reflexive_move": true,
+    "key_concepts": [
+      "hybrid alienation",
+      "reproductive labour",
+      "hybrid labour",
+      "naturalisation of reproduction",
+      "constitution of the collective",
+      "Anthropocene emancipation"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Battistoni",
+        "Wages for Housework movement (Dalla Costa, James)"
+      ],
+      "engaged_critically": [
+        "Marxist production-centred theory"
+      ],
+      "referenced_only": [
+        "Barca",
+        "Barua",
+        "Jasanoff (implied)",
+        "Fanon (implied)"
+      ]
+    },
+    "confidence_notes": "Full-length research article. Fully normative despite Anthropocene/ecological subject matter. No empirical evidence. The synthesis of hybrid labour + alienation is the original theoretical contribution.",
+    "_source_file": "s41296-026-00793-0.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "terwiel_davies_dilts_konya_lester_scott_tyson_2026",
+    "title": "Prison abolition [Critical Exchange]",
+    "author": "Terwiel, Davies, Dilts, Konya, Lester, Scott, Tyson",
+    "year": 2026,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "polemical_intervention",
+      "description": "The exchange opens with an urgent political diagnosis: criminalization, militarized policing, and mass imprisonment are at the heart of the Trump regime — immigration detention is at an all-time high, and prison abolition has become a pressing practical demand.",
+      "anchored_in": [
+        "Davis (Angela)",
+        "abolitionist tradition",
+        "Trump regime immigration enforcement"
+      ],
+      "stakes_claimed": "Prison abolition is not a utopian demand but a politically urgent framework for understanding and dismantling carceral capitalism in the present"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "reformist approaches to prison",
+        "liberal carceral state",
+        "post-racial incarceration discourse"
+      ],
+      "engagement_structure": "sustained_critique",
+      "immanent_critique": true,
+      "own_position_type": "external_alternative",
+      "own_position_explicit": true,
+      "description": "A 7-author critical exchange developing multiple perspectives on prison abolition as political theory: its relationship to democracy, care, disability, Indigenous decolonisation, and creative prefiguration."
+    },
+    "epistemic_mode": {
+      "primary": "normative_with_qualitative_empirical",
+      "secondary": null,
+      "empirical_evidence_present": true,
+      "empirical_evidence_role": "supportive",
+      "quantitative_methods": null,
+      "qualitative_methods": "analysis of carceral statistics, policy analysis, abolitionist movement studies",
+      "data_sources": [
+        "Prison Policy Initiative data",
+        "ICE detention statistics"
+      ],
+      "interpretive_methods": "critical race theory; feminist abolition theory; disability studies; Indigenous political thought",
+      "notes": "Critical exchange (28 pages, 7 authors). Statistical data on incarceration is supportive; the core argument is normative-theoretical for abolition as political vision."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "political_event",
+      "case_name": "Trump immigration detention; US carceral system; abolitionist movements",
+      "case_function": "illustration",
+      "case_relation_to_argument": "illustrative_and_generative",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "high",
+      "domain": "justice / race / sovereignty / carceral state",
+      "claim_type": "prescriptive",
+      "closure_type": "strong_normative_conclusion"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "empirical_presentation",
+      "rival_mapping",
+      "immanent_critique",
+      "framework_proposal",
+      "case_development",
+      "normative_derivation",
+      "conclusion_strong"
+    ],
+    "reflexive_move": true,
+    "key_concepts": [
+      "prison abolition",
+      "carceral capitalism",
+      "abolitionist democracy",
+      "prefiguration",
+      "care as alternative",
+      "disability and incarceration"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Davis (Angela)",
+        "Gilmore (Ruth Wilson)",
+        "Dayan",
+        "Ben-Moshe"
+      ],
+      "engaged_critically": [
+        "reformist prison policy",
+        "liberal incarceration discourse"
+      ],
+      "referenced_only": [
+        "Foucault",
+        "Mbembe",
+        "Indigenous abolitionists (implied)"
+      ]
+    },
+    "confidence_notes": "Critical exchange (28 pages, 7 authors). Treated as single profile. Qualitative empirical evidence (prison statistics) is supportive of the normative abolitionist argument.",
+    "_source_file": "s41296-026-00795-y.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "machin_et_al_2026",
+    "title": "The turn to the imagination: transformation, politics and limits [Critical Exchange]",
+    "author": "Machin, Sachs Olsen, Death, Diehl, Hatzisavvidou, Marchart, Malzacher",
+    "year": 2026,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "field_diagnosis",
+      "description": "The exchange opens by naming and mapping a cross-disciplinary 'turn to the imagination': the concept of imaginaries is proliferating across the academy and beyond as a tool for understanding how political transformation is provoked, harnessed, and inhibited. The exchange asks what this turn means for political theory.",
+      "anchored_in": [
+        "Castoriadis",
+        "Laclau",
+        "Taylor",
+        "Jasanoff",
+        "Anderson"
+      ],
+      "stakes_claimed": "Understanding the political imagination — its creative and destructive potential — is essential for theorising democratic transformation in the present moment of far-right resurgence and ecological crisis"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "liberal democratic imaginaries",
+        "far-right political imaginaries",
+        "techno-optimist futures discourse"
+      ],
+      "engagement_structure": "dialectical_contrast",
+      "immanent_critique": true,
+      "own_position_type": "framework_proposal",
+      "own_position_explicit": true,
+      "description": "A 7-author exchange mapping the political theory of imagination across multiple domains: far-right imaginaries, anti-colonial and decolonial imaginaries, postgrowth/ecosocialist/ecofeminist imaginaries, and theatre as political means. Draws on Castoriadis, Lefort, Laclau, Fanon, Mbembe, Yusoff."
+    },
+    "epistemic_mode": {
+      "primary": "normative_with_interpretive_case",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "conceptual analysis of social imaginaries; close reading of political theorists; analysis of theatrical practice as political form",
+      "notes": "Critical exchange (28 pages, 7 authors). Treated as single profile. The exchange uses theatre and political movements as interpretive cases to develop a normative account of political imagination and its transformative potential. No empirical data; argument is normative-theoretical with interpretive cases."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "political_event",
+      "case_name": "Far-right imaginaries; anti-colonial movements; ecosocialist/ecofeminist practice; theatre as political form",
+      "case_function": "illustration",
+      "case_relation_to_argument": "illustrative_and_generative",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "high",
+      "domain": "democracy / transformation / ecology / decolonisation",
+      "claim_type": "prescriptive",
+      "closure_type": "open_ended_with_burden_on_reader"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "rival_mapping",
+      "framework_proposal",
+      "case_introduction",
+      "case_development",
+      "immanent_critique",
+      "normative_derivation",
+      "meta_reflexive_qualification",
+      "conclusion_open"
+    ],
+    "reflexive_move": true,
+    "key_concepts": [
+      "political imagination",
+      "social imaginaries",
+      "radical democracy",
+      "decolonial imagination",
+      "postgrowth imaginaries",
+      "theatre and politics",
+      "far-right imaginaries"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Castoriadis",
+        "Laclau",
+        "Lefort",
+        "Fanon",
+        "Mbembe"
+      ],
+      "engaged_critically": [
+        "liberal democratic theory",
+        "techno-optimist futures discourse"
+      ],
+      "referenced_only": [
+        "Anderson",
+        "Taylor",
+        "Jasanoff",
+        "Yusoff",
+        "Lacan (implied)"
+      ]
+    },
+    "confidence_notes": "Critical exchange (28 pages, 7 authors). Treated as single profile. The exchange's breadth across multiple imaginaries and political domains makes clean typology assignment moderately difficult; 'normative_with_interpretive_case' best captures the use of political movements and theatre as generative interpretive objects for a normative theory of political imagination.",
+    "_source_file": "s41296-026-00796-x.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "ovcharuk_2026",
+    "title": "Normative reconstructions of property rights in German classical philosophy [Review Essay]",
+    "author": "Ovcharuk",
+    "year": 2026,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "polemical_intervention",
+      "description": "The review essay opens by arguing that German idealism (Kant, Fichte, Hegel) has been unjustly neglected in political theory of property, which remains dominated by Lockean rights-based and Humean utilitarian frameworks. Two recent systematic reconstructions reinstate these philosophers as critics of property's perennial political problem.",
+      "anchored_in": [
+        "Kant",
+        "Fichte",
+        "Hegel",
+        "Blumenfeld",
+        "James (David)"
+      ],
+      "stakes_claimed": "A German idealist reconstruction of property theory offers normative resources beyond liberal rights-based and utilitarian accounts — recognition and pluralism as alternative foundations"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "Lockean rights-based theory of property",
+        "Humean/utilitarian theory of property",
+        "libertarian appropriation theory"
+      ],
+      "engagement_structure": "dialectical_contrast",
+      "immanent_critique": true,
+      "own_position_type": "friendly_amendment",
+      "own_position_explicit": true,
+      "description": "Review essay presenting and critically assessing two books (Blumenfeld; James) that reconstruct Kant's, Fichte's, and Hegel's theories of property as normative alternatives to dominant liberal frameworks. The reviewer endorses the reconstructive project while noting limits."
+    },
+    "epistemic_mode": {
+      "primary": "normative_with_interpretive_case",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "intellectual history; close reading of German idealist texts; comparative reconstruction of property theories",
+      "notes": "Review essay (6 pages). Primarily expository and critical assessment of two philosophical books. The philosophical texts (Kant, Fichte, Hegel as reconstructed by Blumenfeld and James) are the interpretive cases through which the normative argument about property theory is made."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "philosophical_text",
+      "case_name": "Blumenfeld, The Concept of Property in Kant, Fichte, and Hegel (2023); James, Property and its Forms in Classical German Philosophy (2023)",
+      "case_function": "primary_object_of_analysis",
+      "case_relation_to_argument": "object_of_interpretation",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "high",
+      "domain": "property / recognition / political economy",
+      "claim_type": "reconstructive",
+      "closure_type": "open_ended_with_burden_on_reader"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "rival_mapping",
+      "case_introduction",
+      "case_development",
+      "immanent_critique",
+      "normative_derivation",
+      "conclusion_open"
+    ],
+    "reflexive_move": false,
+    "key_concepts": [
+      "property rights",
+      "recognition",
+      "German idealism",
+      "normative reconstruction",
+      "libertarian property theory",
+      "Hegelian property theory"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Kant",
+        "Fichte",
+        "Hegel",
+        "Blumenfeld",
+        "James (David)"
+      ],
+      "engaged_critically": [
+        "Locke",
+        "Hume (utilitarian property theory)"
+      ],
+      "referenced_only": [
+        "Rousseau",
+        "Marx (implied)"
+      ]
+    },
+    "confidence_notes": "Review essay (6 pages). Classification as normative_with_interpretive_case reflects the use of philosophical texts as interpretive objects in service of a normative argument about what property theory should look like.",
+    "_source_file": "s41296-026-00798-9.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "tampio_2026",
+    "title": "Elites and democracy [Book Review]",
+    "author": "Tampio",
+    "year": 2026,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "polemical_intervention",
+      "description": "The review opens with the reviewer's personal puzzlement about 'elite theory of democracy' as an oxymoron — a direct polemical framing that Drochon's book has now clarified, though the reviewer still rejects calling these theorists 'democrats'.",
+      "anchored_in": [
+        "Drochon",
+        "Mosca",
+        "Pareto",
+        "Michels",
+        "Schumpeter"
+      ],
+      "stakes_claimed": "Elite theory, despite its anti-democratic assumptions, must be grappled with by anyone theorising participatory democracy in the modern world"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "elite theory of democracy (Mosca, Pareto, Michels, Schumpeter)",
+        "proceduralist democracy (Schumpeter)",
+        "participatory democracy"
+      ],
+      "engagement_structure": "immanent_critique",
+      "immanent_critique": true,
+      "own_position_type": "external_alternative",
+      "own_position_explicit": true,
+      "description": "The review critically assesses Drochon's intellectual history of elite democratic theory, endorsing the historical reconstruction while rejecting the normative label 'democrat' for these theorists. The reviewer defends participatory democracy against elitist alternatives."
+    },
+    "epistemic_mode": {
+      "primary": "normative_with_interpretive_case",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "intellectual history; close reading of elite theorists and Drochon's reconstruction",
+      "notes": "Book review (4 pages). Primarily expository with normative critique. The reviewer's own normative commitment to participatory democracy shapes the assessment."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "philosophical_text",
+      "case_name": "Drochon, Elites and Democracy (2026)",
+      "case_function": "primary_object_of_analysis",
+      "case_relation_to_argument": "object_of_interpretation",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "high",
+      "domain": "democracy / elitism / political theory",
+      "claim_type": "critical_diagnostic",
+      "closure_type": "open_ended_with_burden_on_reader"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "case_introduction",
+      "case_development",
+      "immanent_critique",
+      "conclusion_open"
+    ],
+    "reflexive_move": false,
+    "key_concepts": [
+      "elite theory of democracy",
+      "participatory democracy",
+      "iron law of oligarchy",
+      "democratic elitism",
+      "sovereign power"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Drochon",
+        "Mosca",
+        "Pareto",
+        "Michels",
+        "Schumpeter"
+      ],
+      "engaged_critically": [
+        "elite theory of democracy"
+      ],
+      "referenced_only": [
+        "Dahl",
+        "Mills (C. Wright)",
+        "Machiavelli (implied)"
+      ]
+    },
+    "confidence_notes": "Book review (4 pages). The reviewer's explicit normative position (participatory democracy) distinguishes this from a purely expository review.",
+    "_source_file": "s41296-026-00799-8.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "berg_sorensen_2026",
+    "title": "Freedom for All: what a liberal society could be [Book Review]",
+    "author": "Berg-Sørensen",
+    "year": 2026,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "field_diagnosis",
+      "description": "The review opens by situating Zakaras's book in the context of intensifying attacks on liberal democracy and illiberalism, framing it as a timely defence of radical liberalism based on expansive equal freedom against critics from both left and right.",
+      "anchored_in": [
+        "Zakaras",
+        "radical liberalism",
+        "illiberal renaissance"
+      ],
+      "stakes_claimed": "A reconstructed radical liberalism based on expansive equal freedom can address the genuine failures of existing liberalism without abandoning liberal democracy"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "postliberal critiques (left and right)",
+        "neoliberal liberalism",
+        "libertarian property-rights liberalism"
+      ],
+      "engagement_structure": "synthesis",
+      "immanent_critique": false,
+      "own_position_type": "none",
+      "own_position_explicit": false,
+      "description": "Appreciative review presenting and contextualising Zakaras's radical liberal vision. The reviewer is broadly sympathetic, offering context and some critical observations about what the vision requires."
+    },
+    "epistemic_mode": {
+      "primary": "normative_with_interpretive_case",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "close reading of Zakaras; contextualisation within liberalism debates",
+      "notes": "Book review (4 pages). Primarily expository and appreciative. Reviewer has no strong independent normative position."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "philosophical_text",
+      "case_name": "Zakaras, Freedom for All: What a Liberal Society Could Be (2025)",
+      "case_function": "primary_object_of_analysis",
+      "case_relation_to_argument": "object_of_interpretation",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "medium",
+      "domain": "liberalism / freedom / democracy",
+      "claim_type": "reconstructive",
+      "closure_type": "open_ended_with_burden_on_reader"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "case_introduction",
+      "case_development",
+      "conclusion_open"
+    ],
+    "reflexive_move": false,
+    "key_concepts": [
+      "radical liberalism",
+      "equal freedom",
+      "liberal society",
+      "human flourishing",
+      "illiberalism",
+      "postliberalism"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Zakaras"
+      ],
+      "engaged_critically": [],
+      "referenced_only": [
+        "Rawls (implied)",
+        "Mill (implied)",
+        "postliberal critics (implied)"
+      ]
+    },
+    "confidence_notes": "Book review (4 pages). Primarily expository. Reviewer's framing in terms of contemporary illiberal challenge gives it more contextual richness than a pure summary.",
+    "_source_file": "s41296-026-00800-4.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "martel_2026",
+    "title": "Disembodiment: corporeal politics of radical refusal [Book Review]",
+    "author": "Martel",
+    "year": 2026,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "interpretive_proposition",
+      "description": "The review opens with enthusiastic endorsement of Bargu's Disembodiment as a timely and brilliant work on the relationship between bodily subjectivity, domination, and resistance — framing it as a dialectical history of body and the subject that structures colonialism, slavery, and capitalism.",
+      "anchored_in": [
+        "Bargu",
+        "Horkheimer and Adorno",
+        "Scott (James)"
+      ],
+      "stakes_claimed": "The political ontology of the body is the ground for resistance that domination can never fully extinguish — bodily materiality as the limit of sovereign power"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "Scott (James) on resistance (limited scope)",
+        "theories of complete domination"
+      ],
+      "engagement_structure": "synthesis",
+      "immanent_critique": false,
+      "own_position_type": "none",
+      "own_position_explicit": false,
+      "description": "Appreciative and expository review of Bargu's theory of corporeal resistance. The reviewer contextualises Bargu's contribution relative to James Scott and the Frankfurt School, extending the book's argument rather than critiquing it."
+    },
+    "epistemic_mode": {
+      "primary": "normative_with_interpretive_case",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "close reading of Bargu; engagement with critical theory (Horkheimer and Adorno); analysis of film (Hunger by Steve McQueen)",
+      "notes": "Book review (3 pages). Primarily expository and enthusiastic. The Hunger film and Odysseus parable serve as the key interpretive cases within Bargu's argument as presented by the reviewer."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "philosophical_text",
+      "case_name": "Bargu, Disembodiment: Corporeal Politics of Radical Refusal (2024); film: Hunger (Steve McQueen)",
+      "case_function": "primary_object_of_analysis",
+      "case_relation_to_argument": "object_of_interpretation",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "high",
+      "domain": "resistance / sovereignty / embodiment / colonialism",
+      "claim_type": "critical_diagnostic",
+      "closure_type": "open_ended_with_burden_on_reader"
+    },
+    "move_sequence": [
+      "interpretive_proposition",
+      "case_introduction",
+      "case_development",
+      "normative_derivation",
+      "conclusion_open"
+    ],
+    "reflexive_move": false,
+    "key_concepts": [
+      "disembodiment",
+      "political ontology of the body",
+      "radical refusal",
+      "corporeal resistance",
+      "subject formation",
+      "domination"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Bargu"
+      ],
+      "engaged_critically": [
+        "Scott (James) (gently)"
+      ],
+      "referenced_only": [
+        "Horkheimer and Adorno",
+        "McQueen (Steve, film Hunger)",
+        "Freud (implied)",
+        "Foucault (implied)"
+      ]
+    },
+    "confidence_notes": "Book review (3 pages). The film Hunger is discussed as an interpretive case within Bargu's argument (not independently by the reviewer). Classification as normative_with_interpretive_case reflects both the film analysis and the normative claim about bodily resistance.",
+    "_source_file": "s41296-026-00801-3.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "gokariksel_2026",
+    "title": "Revolution and restoration: the politics of anachronism [Book Review]",
+    "author": "Gökarıksel",
+    "year": 2026,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "polemical_intervention",
+      "description": "The review opens by diagnosing the 'morbid symptoms' of collapsing liberal order and authoritarian resurgence, then positions Tomba's book as an intervention that breaks the current political impasse by animating anachronistic practices as fields of political possibility beyond neoliberal temporality.",
+      "anchored_in": [
+        "Tomba",
+        "Benjamin",
+        "Luxemburg",
+        "Gramsci"
+      ],
+      "stakes_claimed": "Anachronistic practices and insurgent universality offer political resources to break the current impasse of liberal decline without restoring a golden age — decolonial politics of time against unilinear progress"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "democratic backsliding theory (defense of liberal institutions)",
+        "reactionary conservative politics of history",
+        "decolonial critique limited to non-European world"
+      ],
+      "engagement_structure": "dialectical_contrast",
+      "immanent_critique": true,
+      "own_position_type": "friendly_amendment",
+      "own_position_explicit": true,
+      "description": "Substantive critical review endorsing Tomba's anachronism-based approach to political transformation while situating it in relation to Benjamin, Luxemburg, Gramsci, and decolonial theory. The reviewer's own political commitments are aligned with Tomba's."
+    },
+    "epistemic_mode": {
+      "primary": "normative_with_interpretive_case",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "intellectual history; close reading of Tomba and related thinkers; analysis of historical cases (German peasants 1525, Paris Commune 1871)",
+      "notes": "Book review (4 pages). Substantive engagement with Tomba's argument. Historical cases (peasant uprising, Commune) are interpretive cases within the argument about anachronistic politics."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "philosophical_text",
+      "case_name": "Tomba, Revolution and Restoration: The Politics of Anachronism; historical cases: German peasants 1525, Communards 1871",
+      "case_function": "primary_object_of_analysis",
+      "case_relation_to_argument": "illustrative_and_generative",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "high",
+      "domain": "democracy / decolonisation / temporality / property",
+      "claim_type": "prescriptive",
+      "closure_type": "open_ended_with_burden_on_reader"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "case_introduction",
+      "rival_mapping",
+      "case_development",
+      "normative_derivation",
+      "conclusion_open"
+    ],
+    "reflexive_move": false,
+    "key_concepts": [
+      "politics of anachronism",
+      "insurgent universality",
+      "unilinear temporality",
+      "property/democracy/citizenship",
+      "decolonial critique",
+      "revolution and restoration"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Tomba"
+      ],
+      "engaged_critically": [],
+      "referenced_only": [
+        "Benjamin",
+        "Bloch",
+        "Bensaïd",
+        "Luxemburg",
+        "Gramsci",
+        "Harootunian",
+        "Wilder",
+        "Asad"
+      ]
+    },
+    "confidence_notes": "Book review (4 pages). Reviewer is politically aligned with Tomba; the review functions as substantive advocacy for the book's approach rather than critical assessment.",
+    "_source_file": "s41296-026-00802-2.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "engelking_2026",
+    "title": "The life and thought of Alexandre Kojève [Book Review]",
+    "author": "Engelking",
+    "year": 2026,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "interpretive_proposition",
+      "description": "The review opens by characterising the 'recognizable type' of twentieth-century European political philosopher who attracts fascination through proximity to power, and frames Kojève as the most compelling exemplar — positioning Filoni's biography as successfully navigating between reducing thought to biography and insulating it from life.",
+      "anchored_in": [
+        "Filoni",
+        "Kojève",
+        "intellectual biography methodology"
+      ],
+      "stakes_claimed": "A biographical approach to Kojève that holds together life and thought reveals the philosophical coherence behind his apparent paradoxes (theorist and technocrat; universal and particular)"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "biographical reductionism (thought subordinated to political proximity)",
+        "anti-biographical purism (thought insulated from life)"
+      ],
+      "engagement_structure": "dialectical_contrast",
+      "immanent_critique": false,
+      "own_position_type": "none",
+      "own_position_explicit": false,
+      "description": "Expository and appreciative review of Filoni's intellectual biography of Kojève. The reviewer presents Filoni's methodological via media and traces the biographical-philosophical narrative chronologically."
+    },
+    "epistemic_mode": {
+      "primary": "purely_interpretive_hermeneutic",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "intellectual biography; close reading of Filoni's reconstruction of Kojève's life and thought",
+      "notes": "Book review (4 pages). Primarily expository biographical narrative. No normative conclusion; the argument is about how to read Kojève's intellectual life, not about political theory claims."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "philosophical_text",
+      "case_name": "Filoni, The Life and Thought of Alexandre Kojève (trans. Broder, 2025)",
+      "case_function": "primary_object_of_analysis",
+      "case_relation_to_argument": "object_of_interpretation",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "low",
+      "domain": "intellectual history / methodology of political philosophy",
+      "claim_type": "interpretive",
+      "closure_type": "open_ended_with_burden_on_reader"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "case_introduction",
+      "case_development",
+      "conclusion_open"
+    ],
+    "reflexive_move": false,
+    "key_concepts": [
+      "intellectual biography",
+      "philosopher and power",
+      "Kojève",
+      "Hegel",
+      "end of history",
+      "philosophical administration"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Kojève",
+        "Filoni"
+      ],
+      "engaged_critically": [],
+      "referenced_only": [
+        "Hegel",
+        "Dostoevsky",
+        "Solovyov",
+        "Jaspers",
+        "Heidegger (implied)"
+      ]
+    },
+    "confidence_notes": "Book review (4 pages). Classified as purely_interpretive_hermeneutic: the review is entirely about how to read Kojève's intellectual biography with no normative political theory conclusion drawn.",
+    "_source_file": "s41296-026-00803-1.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "fanga_2026",
+    "title": "We are free to change the world: Hannah Arendt's lessons in love and disobedience [Book Review]",
+    "author": "Fanga",
+    "year": 2026,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "interpretive_proposition",
+      "description": "The review opens by presenting Stonebridge's book as a timely and profound exploration of Arendt's enduring relevance for resisting authoritarianism, mendacity, and dehumanisation in the twenty-first century — framing Arendt not as a historical figure but as a 'vibrant and necessary companion'.",
+      "anchored_in": [
+        "Stonebridge",
+        "Arendt",
+        "totalitarianism"
+      ],
+      "stakes_claimed": "Arendt's philosophy of freedom, love, and disobedience offers hard-won strategies for survival and resistance in contemporary dark times"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "purely historical readings of Arendt",
+        "abstract academic Arendtian scholarship"
+      ],
+      "engagement_structure": "absence_critique",
+      "immanent_critique": false,
+      "own_position_type": "none",
+      "own_position_explicit": false,
+      "description": "Appreciative and expository review of Stonebridge's accessible intellectual biography-cum-political argument. The reviewer endorses Stonebridge's approach of weaving biography with philosophical analysis to make Arendt practically relevant."
+    },
+    "epistemic_mode": {
+      "primary": "normative_with_interpretive_case",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "close reading of Stonebridge; intellectual biography; engagement with Arendt's major concepts",
+      "notes": "Book review (4 pages). Primarily expository and appreciative. The review presents Stonebridge's normative argument (Arendt as guide for contemporary resistance) without independent critique."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "philosophical_text",
+      "case_name": "Stonebridge, We Are Free to Change the World: Hannah Arendt's Lessons in Love and Disobedience (2024)",
+      "case_function": "primary_object_of_analysis",
+      "case_relation_to_argument": "object_of_interpretation",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "medium",
+      "domain": "freedom / resistance / authoritarianism / political action",
+      "claim_type": "reconstructive",
+      "closure_type": "open_ended_with_burden_on_reader"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "case_introduction",
+      "case_development",
+      "conclusion_open"
+    ],
+    "reflexive_move": false,
+    "key_concepts": [
+      "political freedom",
+      "civil disobedience",
+      "love and politics",
+      "thoughtlessness",
+      "dark times",
+      "Arendtian political action"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Arendt",
+        "Stonebridge"
+      ],
+      "engaged_critically": [],
+      "referenced_only": [
+        "Benjamin",
+        "Jaspers",
+        "Kafka",
+        "Goethe"
+      ]
+    },
+    "confidence_notes": "Book review (4 pages). Primarily expository. The normative stake is medium rather than high because the reviewer does not independently advance the argument — Stonebridge's argument is reported, not developed.",
+    "_source_file": "s41296-026-00804-0.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "jing_2026",
+    "title": "Confucian comparative political philosophy [Book Review]",
+    "author": "Jing",
+    "year": 2026,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "field_diagnosis",
+      "description": "The review opens by characterising contemporary Confucian political philosophy as a dynamic field pressing on questions that liberal theory treats as settled (democracy, equality, human rights, global justice), then frames Li's book as an unusual entry that maps debates rather than advancing a unified position.",
+      "anchored_in": [
+        "Li (Yong)",
+        "Confucian political philosophy",
+        "comparative political theory"
+      ],
+      "stakes_claimed": "A rigorous, issue-centered comparative mapping of Confucian political philosophy that avoids methodological overreach is valuable — but the book's restraint also raises questions about what would count as settling disputes"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "textual-historicist Confucianism",
+        "normative Confucianism (meritocracy, democracy)",
+        "cosmopolitan vs. nationalist Confucianism"
+      ],
+      "engagement_structure": "immanent_critique",
+      "immanent_critique": true,
+      "own_position_type": "friendly_amendment",
+      "own_position_explicit": true,
+      "description": "Critical appreciative review assessing Li's methodological modesty positively while identifying a tension: the book identifies when texts cannot settle disputes but not always what would. The reviewer endorses comparative methodology while noting the gap."
+    },
+    "epistemic_mode": {
+      "primary": "normative_with_interpretive_case",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "comparative political philosophy; close reading of Confucian texts and Li's reconstruction",
+      "notes": "Book review (4 pages). Reviewer has substantive methodological views about Confucian comparative philosophy that shape the critique. More analytically engaged than a standard expository review."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "philosophical_text",
+      "case_name": "Li (Yong), Confucian Comparative Political Philosophy (2025)",
+      "case_function": "primary_object_of_analysis",
+      "case_relation_to_argument": "object_of_interpretation",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "medium",
+      "domain": "comparative political theory / Confucianism / democracy / methodology",
+      "claim_type": "critical_diagnostic",
+      "closure_type": "open_ended_with_burden_on_reader"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "rival_mapping",
+      "case_introduction",
+      "case_development",
+      "immanent_critique",
+      "conclusion_open"
+    ],
+    "reflexive_move": false,
+    "key_concepts": [
+      "Confucian political philosophy",
+      "comparative political theory",
+      "methodological modesty",
+      "Confucian democracy",
+      "Confucian meritocracy",
+      "textual vs. normative justification"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Li (Yong)"
+      ],
+      "engaged_critically": [
+        "Li (Yong)"
+      ],
+      "referenced_only": [
+        "Angle",
+        "Rawls (implied)",
+        "Confucian thinkers (implied)"
+      ]
+    },
+    "confidence_notes": "Book review (4 pages). Reviewer engages substantively with methodology, producing a more analytically rich review than simple exposition.",
+    "_source_file": "s41296-026-00805-z.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "schupmann_2026",
+    "title": "Protecting democracy in Europe: pluralism, autocracy and the future of the EU [Book Review]",
+    "author": "Schupmann",
+    "year": 2026,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "polemical_intervention",
+      "description": "The review opens by noting the EU's complicity in democratic backsliding — through membership fatalism and depoliticized responses — and presents Theuns's book as an ambitious normative-institutional account of how the EU can legitimately defend democracy in member states.",
+      "anchored_in": [
+        "Theuns",
+        "EU Article 2 TEU",
+        "democratic backsliding"
+      ],
+      "stakes_claimed": "The EU's response to democratic erosion must go beyond procedural containment to treat antidemocrats as genuine political threats — but this requires resolving a tension between substantive democratic values and the means of defending them"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "membership fatalism in EU response",
+        "Article 7 TEU procedure (rejected by Theuns)",
+        "proceduralist liberal democracy"
+      ],
+      "engagement_structure": "immanent_critique",
+      "immanent_critique": true,
+      "own_position_type": "friendly_amendment",
+      "own_position_explicit": true,
+      "description": "Substantive critical review endorsing Theuns's project while identifying an internal tension: the book defends substantive democratic values but constrains the means of their defence in ways that may be insufficient. The reviewer is broadly sympathetic but raises this as a genuine problem."
+    },
+    "epistemic_mode": {
+      "primary": "normative_with_interpretive_case",
+      "secondary": null,
+      "empirical_evidence_present": true,
+      "empirical_evidence_role": "illustrative",
+      "quantitative_methods": null,
+      "qualitative_methods": "policy analysis; legal analysis of EU institutional mechanisms",
+      "data_sources": [
+        "EU Treaty on European Union (Article 2, Article 7)"
+      ],
+      "interpretive_methods": "normative political theory; institutional analysis of EU mechanisms",
+      "notes": "Book review (4 pages). The EU institutional mechanisms (Article 2, 7; infringement proceedings; financial conditionality) are used as illustrative cases within a normative argument about democratic defence."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "philosophical_text",
+      "case_name": "Theuns, Protecting Democracy in Europe (2024); EU institutional mechanisms",
+      "case_function": "primary_object_of_analysis",
+      "case_relation_to_argument": "illustrative_and_generative",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "high",
+      "domain": "democracy / EU institutions / democratic backsliding",
+      "claim_type": "critical_diagnostic",
+      "closure_type": "open_ended_with_burden_on_reader"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "case_introduction",
+      "case_development",
+      "immanent_critique",
+      "counter_objection_response",
+      "conclusion_open"
+    ],
+    "reflexive_move": false,
+    "key_concepts": [
+      "democratic backsliding",
+      "membership fatalism",
+      "pluralism",
+      "dissociation",
+      "containment strategy",
+      "EU democratic legitimacy"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Theuns"
+      ],
+      "engaged_critically": [
+        "Theuns"
+      ],
+      "referenced_only": [
+        "Schmitt (implied through sovereignty framing)",
+        "democratic theorists (implied)"
+      ]
+    },
+    "confidence_notes": "Book review (4 pages). The reviewer's identification of an internal tension in Theuns's argument gives this more critical depth than a standard expository review. The EU institutional material is illustrative of normative claims.",
+    "_source_file": "s41296-026-00806-y.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "zolkos_2026",
+    "title": "Reframing restitution with Roberto Esposito and Achille Mbembe: restitutive justice struggles and the colonial 'dispositif of a thing'",
+    "author": "Zolkos",
+    "year": 2026,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "conceptual_gap",
+      "description": "The paper opens by identifying a discrepancy between the international legal discourse of cultural property (which frames heritage objects as inanimate things subject to ownership rights) and the 'refractory speech acts' of activists and Indigenous spokespersons in restitutive justice struggles, who deploy richer, relational conceptions of thinghood. This discrepancy opens the gap that Esposito and Mbembe are recruited to theorise.",
+      "anchored_in": [
+        "Esposito",
+        "Mbembe",
+        "UNESCO/UNIDROIT cultural property frameworks"
+      ],
+      "stakes_claimed": "Restitutive justice struggles are decolonizing practices that challenge the binary separation between persons and things — a richer and more politically radical understanding of restitution beyond property relations and transfer of ownership"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "international legal discourse of cultural property (UNESCO/UNIDROIT)",
+        "property-rights framework of restitution",
+        "anthropocentric juridical personhood"
+      ],
+      "engagement_structure": "immanent_critique",
+      "immanent_critique": true,
+      "own_position_type": "synthesis",
+      "own_position_explicit": true,
+      "description": "The paper synthesises Esposito's theory of the 'dispositif of a thing' and Mbembe's postcolonial theory of African objects to produce a decolonial critique of western museum discourse and a richer account of restitution that goes beyond legal ownership. The refractory speech acts of activists constitute the empirical-interpretive case."
+    },
+    "epistemic_mode": {
+      "primary": "normative_with_interpretive_case",
+      "secondary": null,
+      "empirical_evidence_present": true,
+      "empirical_evidence_role": "illustrative",
+      "quantitative_methods": null,
+      "qualitative_methods": "analysis of activist speech acts; discourse analysis of restitution debates",
+      "data_sources": [
+        "activist and artist statements in restitution debates",
+        "museum discourse",
+        "Indigenous community spokespersons"
+      ],
+      "interpretive_methods": "conceptual analysis using Esposito and Mbembe; postcolonial theory; critical analysis of legal frameworks",
+      "notes": "Full-length article (20 pages). The activist speech acts and restitution debates function as interpretive cases that are constitutive of the argument — the paper cannot be understood without them — but the core argument is normative-theoretical about what restitution should mean. Classified as normative_with_interpretive_case: the cases generate the theory but the paper's primary output is normative."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "political_event",
+      "case_name": "Restitutive justice struggles; activist 'refractory speech acts'; specific examples including Victoria Hunt's art and African heritage restitution campaigns",
+      "case_function": "generative",
+      "case_relation_to_argument": "illustrative_and_generative",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "high",
+      "domain": "decolonisation / justice / property / personhood",
+      "claim_type": "prescriptive",
+      "closure_type": "strong_normative_conclusion"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "rival_mapping",
+      "case_introduction",
+      "framework_proposal",
+      "case_development",
+      "immanent_critique",
+      "normative_derivation",
+      "conclusion_strong"
+    ],
+    "reflexive_move": false,
+    "key_concepts": [
+      "dispositif of a thing",
+      "restitutive justice",
+      "decolonizing museums",
+      "refractory speech acts",
+      "personhood/thinghood binary",
+      "postcolonial restitution"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Esposito",
+        "Mbembe"
+      ],
+      "engaged_critically": [
+        "UNESCO/UNIDROIT legal framework",
+        "western juridical personhood"
+      ],
+      "referenced_only": [
+        "Sarr",
+        "Markell",
+        "De Line",
+        "Moreton-Robinson",
+        "Pelizzon et al."
+      ]
+    },
+    "confidence_notes": "Full-length article (20 pages). The activist speech acts are on the boundary between illustrative and constitutive evidence — classified as illustrative because the theoretical framework (Esposito + Mbembe) could in principle stand independently of the specific cases.",
+    "_source_file": "s41296-026-00807-x.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "folit_weinberg_van_t_klooster_2026",
+    "title": "Hans Jonas and Sophocles on the ethics of the Anthropocene",
+    "author": "Folit-Weinberg and van 't Klooster",
+    "year": 2026,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "conceptual_gap",
+      "description": "The paper opens with the 'Anthropocene question': what, if anything, is genuinely new about the ethical demands of the Anthropocene? It argues that only an ethics that answers this question precisely is properly an ethics of the Anthropocene — identifying a gap in normative theory that environmental humanities scholars address descriptively but not in terms of normative principles.",
+      "anchored_in": [
+        "Jonas (Hans)",
+        "Sophocles",
+        "Anthropocene scholarship"
+      ],
+      "stakes_claimed": "An ethics of the Anthropocene must specify not only principles for action but principles for how to deliberate — and 5th-century Athenian tragedy provides exactly this, refuting both Jonas's anti-democratic pessimism and claims that democracy is unfit for the Anthropocene"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "Jonas's ethics of responsibility (Imperative of Responsibility 1979)",
+        "Anthropocene pessimism about democracy",
+        "environmental humanities on Anthropocene ethics"
+      ],
+      "engagement_structure": "immanent_critique",
+      "immanent_critique": true,
+      "own_position_type": "synthesis",
+      "own_position_explicit": true,
+      "description": "The paper performs an immanent critique of Jonas — accepting his framework of historical novelty diagnosis while challenging his misdiagnosis of that novelty — and recruits Sophoclean tragedy as an alternative model for democratic deliberation under uncertainty. The synthesis argues that tragedy is a democratic practice of the sort the Anthropocene requires."
+    },
+    "epistemic_mode": {
+      "primary": "normative_with_interpretive_case",
+      "secondary": null,
+      "empirical_evidence_present": false,
+      "empirical_evidence_role": "absent",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [],
+      "interpretive_methods": "close reading of Jonas and Sophocles; classical philology; normative political theory; intellectual history of Athenian democracy",
+      "notes": "Full-length article (21 pages). Sophoclean tragedy is the primary interpretive case — deployed to challenge Jonas's claim that democracy is unfit for the Anthropocene. The case is constitutive of the argument in that the normative conclusion (democratic deliberation through tragedy) cannot be reached without it."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "philosophical_text",
+      "case_name": "Jonas, The Imperative of Responsibility (1979); Sophocles, Athenian tragedy (5th century BCE)",
+      "case_function": "generative",
+      "case_relation_to_argument": "illustrative_and_generative",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "high",
+      "domain": "Anthropocene ethics / democracy / deliberation / environmental politics",
+      "claim_type": "prescriptive",
+      "closure_type": "strong_normative_conclusion"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "rival_mapping",
+      "immanent_critique",
+      "case_introduction",
+      "case_development",
+      "framework_proposal",
+      "normative_derivation",
+      "conclusion_strong"
+    ],
+    "reflexive_move": false,
+    "key_concepts": [
+      "Anthropocene question",
+      "precautionary principle",
+      "democratic deliberation",
+      "tragedy as political practice",
+      "ethics of responsibility",
+      "novelty of Anthropocene"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Jonas (Hans)",
+        "Sophocles"
+      ],
+      "engaged_critically": [
+        "Jonas (Hans)"
+      ],
+      "referenced_only": [
+        "Chakrabarty",
+        "Crutzen",
+        "Hamilton",
+        "Scranton",
+        "Malm and Hornborg"
+      ]
+    },
+    "confidence_notes": "Full-length article (21 pages). The joint use of Jonas (normative theory) and Sophocles (classical case) is methodologically unusual — interdisciplinary between classics and political theory, as explicitly stated. The Sophocles case is constitutive, not merely illustrative.",
+    "_source_file": "s41296-026-00809-9.json"
+  },
+  {
+    "_schema_version": "1.0",
+    "paper_id": "sabsay_2026",
+    "title": "The political aesthetics of cruelty: contemporary authoritarian politics and the struggle between sovereignty and relationality",
+    "author": "Sabsay",
+    "year": 2026,
+    "journal": "Contemporary Political Theory",
+    "opening_move": {
+      "type": "polemical_intervention",
+      "description": "The paper opens with an urgent diagnosis of neo-authoritarian governments worldwide (Trump, Milei, Bukele, Orbán, Meloni, Erdoğan, Modi) as constituting a 'global historical moment obsessed with hostility and destruction' — a political aesthetics of cruelty. The opening directly frames the contemporary as a crisis demanding theoretical response.",
+      "anchored_in": [
+        "Butler",
+        "Derrida",
+        "Freud"
+      ],
+      "stakes_claimed": "Contemporary neo-authoritarianism is best understood through the concept of a 'political aesthetics of cruelty' — a political capture of the death drive — and vulnerability as relational existence offers the resources to contest it"
+    },
+    "theoretical_positioning": {
+      "rivals_engaged": [
+        "liberal diagnoses of democratic backsliding",
+        "voluntarist theories of political mobilisation",
+        "purely structural analyses of neo-authoritarianism"
+      ],
+      "engagement_structure": "framework_proposal",
+      "immanent_critique": false,
+      "own_position_type": "external_alternative",
+      "own_position_explicit": true,
+      "description": "The paper develops an original conceptual framework — political aesthetics of cruelty, death drive, vulnerability as relationality — drawing on Derrida, Freud, and Butler to theorise neo-authoritarianism's psychic-political logic. This is not an immanent critique of rivals but a positive conceptual contribution."
+    },
+    "epistemic_mode": {
+      "primary": "normative_with_interpretive_case",
+      "secondary": null,
+      "empirical_evidence_present": true,
+      "empirical_evidence_role": "illustrative",
+      "quantitative_methods": null,
+      "qualitative_methods": null,
+      "data_sources": [
+        "contemporary authoritarian governments (listed)",
+        "political events"
+      ],
+      "interpretive_methods": "psychoanalytic political theory; Derridean deconstruction; feminist vulnerability theory; analysis of political aesthetics",
+      "notes": "Full-length research article (19 pages). The neo-authoritarian governments named in the opening are illustrative cases for the theoretical framework. The core argument is normative-conceptual, drawing on Freud's death drive, Derrida's analysis of sovereignty and cruelty, and Butler's vulnerability theory."
+    },
+    "case_type": {
+      "has_case": true,
+      "case_medium": "political_event",
+      "case_name": "Contemporary neo-authoritarian governments: Trump (USA), Milei (Argentina), Bukele (El Salvador), Orbán (Hungary), Meloni (Italy), Erdoğan (Turkey), Modi (India)",
+      "case_function": "illustration",
+      "case_relation_to_argument": "illustrative_and_generative",
+      "case_selection_justified": true
+    },
+    "normative_stake": {
+      "level": "high",
+      "domain": "authoritarianism / sovereignty / vulnerability / political aesthetics",
+      "claim_type": "critical_diagnostic",
+      "closure_type": "open_ended_with_burden_on_reader"
+    },
+    "move_sequence": [
+      "puzzle_diagnosis",
+      "empirical_presentation",
+      "framework_proposal",
+      "case_development",
+      "immanent_critique",
+      "normative_derivation",
+      "meta_reflexive_qualification",
+      "conclusion_open"
+    ],
+    "reflexive_move": true,
+    "key_concepts": [
+      "political aesthetics of cruelty",
+      "death drive",
+      "sovereignty",
+      "vulnerability",
+      "relationality",
+      "neo-authoritarianism"
+    ],
+    "thinkers_deployed": {
+      "central": [
+        "Derrida",
+        "Freud",
+        "Butler"
+      ],
+      "engaged_critically": [
+        "liberal democracy discourse",
+        "Derrida (on pessimism about sovereignty/cruelty)"
+      ],
+      "referenced_only": [
+        "Rancière",
+        "Traverso",
+        "Gambetti",
+        "Toscano",
+        "Spinoza (implied)"
+      ]
+    },
+    "confidence_notes": "Full-length research article (19 pages). The use of psychoanalytic concepts (death drive) for political theory is methodologically distinctive in this corpus. The contemporary authoritarian cases are illustrative but generate the theoretical question — hence 'illustrative_and_generative'. Conclusion is qualified/open rather than fully prescriptive.",
+    "_source_file": "s41296-026-00812-0.json"
+  }
+]

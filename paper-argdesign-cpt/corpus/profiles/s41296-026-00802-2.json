@@ -1,0 +1,73 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "gokariksel_2026",
+  "title": "Revolution and restoration: the politics of anachronism [Book Review]",
+  "author": "Gökarıksel",
+  "year": 2026,
+  "journal": "Contemporary Political Theory",
+
+  "opening_move": {
+    "type": "polemical_intervention",
+    "description": "The review opens by diagnosing the 'morbid symptoms' of collapsing liberal order and authoritarian resurgence, then positions Tomba's book as an intervention that breaks the current political impasse by animating anachronistic practices as fields of political possibility beyond neoliberal temporality.",
+    "anchored_in": ["Tomba", "Benjamin", "Luxemburg", "Gramsci"],
+    "stakes_claimed": "Anachronistic practices and insurgent universality offer political resources to break the current impasse of liberal decline without restoring a golden age — decolonial politics of time against unilinear progress"
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["democratic backsliding theory (defense of liberal institutions)", "reactionary conservative politics of history", "decolonial critique limited to non-European world"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": true,
+    "own_position_type": "friendly_amendment",
+    "own_position_explicit": true,
+    "description": "Substantive critical review endorsing Tomba's anachronism-based approach to political transformation while situating it in relation to Benjamin, Luxemburg, Gramsci, and decolonial theory. The reviewer's own political commitments are aligned with Tomba's."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_interpretive_case",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "intellectual history; close reading of Tomba and related thinkers; analysis of historical cases (German peasants 1525, Paris Commune 1871)",
+    "notes": "Book review (4 pages). Substantive engagement with Tomba's argument. Historical cases (peasant uprising, Commune) are interpretive cases within the argument about anachronistic politics."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "philosophical_text",
+    "case_name": "Tomba, Revolution and Restoration: The Politics of Anachronism; historical cases: German peasants 1525, Communards 1871",
+    "case_function": "primary_object_of_analysis",
+    "case_relation_to_argument": "illustrative_and_generative",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "democracy / decolonisation / temporality / property",
+    "claim_type": "prescriptive",
+    "closure_type": "open_ended_with_burden_on_reader"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "case_introduction",
+    "rival_mapping",
+    "case_development",
+    "normative_derivation",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["politics of anachronism", "insurgent universality", "unilinear temporality", "property/democracy/citizenship", "decolonial critique", "revolution and restoration"],
+
+  "thinkers_deployed": {
+    "central": ["Tomba"],
+    "engaged_critically": [],
+    "referenced_only": ["Benjamin", "Bloch", "Bensaïd", "Luxemburg", "Gramsci", "Harootunian", "Wilder", "Asad"]
+  },
+
+  "confidence_notes": "Book review (4 pages). Reviewer is politically aligned with Tomba; the review functions as substantive advocacy for the book's approach rather than critical assessment."
+}

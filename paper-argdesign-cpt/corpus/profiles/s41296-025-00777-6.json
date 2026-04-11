@@ -1,0 +1,72 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "utrata_2025",
+  "title": "Contested territory: a theory of land and democracy beyond sovereign bounds [Book Review]",
+  "author": "Utrata",
+  "year": 2025,
+  "journal": "Contemporary Political Theory",
+
+  "opening_move": {
+    "type": "conceptual_gap",
+    "description": "The review opens by framing Jurkevics's intervention against cosmopolitan political theory: she shares cosmopolitanism's rejection of sovereignty but recovers the concept of territory as the site of a richer, localised democratic politics.",
+    "anchored_in": ["Jurkevics", "cosmopolitan theory"],
+    "stakes_claimed": "Cosmopolitans have abandoned territory along with sovereignty, losing the most promising sites for thick democratic politics; territory can be salvaged for emancipatory purposes"
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["cosmopolitan global governance theorists", "anti-territorial anarchists"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": false,
+    "own_position_type": "none",
+    "own_position_explicit": false,
+    "description": "The review presents Jurkevics's argument appreciatively, framing her recovery of territory as a corrective to cosmopolitan and anarchical theory without adding independent critique."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_interpretive_case",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "close reading of Jurkevics and canonical political theory texts",
+    "notes": "Book review genre; primarily expository and appreciative."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "philosophical_text",
+    "case_name": "Jurkevics, Contested Territory (2025)",
+    "case_function": "primary_object_of_analysis",
+    "case_relation_to_argument": "object_of_interpretation",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "medium",
+    "domain": "democratic theory / territory / sovereignty",
+    "claim_type": "reconstructive",
+    "closure_type": "open_ended_with_burden_on_reader"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "case_introduction",
+    "framework_proposal",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["territorial sovereignty", "local democracy", "cosmopolitanism", "emancipatory land politics", "anarchical politics", "commons"],
+
+  "thinkers_deployed": {
+    "central": ["Jurkevics"],
+    "engaged_critically": ["cosmopolitan theorists"],
+    "referenced_only": ["anarchist tradition (implied)"]
+  },
+
+  "confidence_notes": "Book review genre; primarily expository. The reviewer focuses on accurately presenting Jurkevics's argument rather than independently engaging it."
+}

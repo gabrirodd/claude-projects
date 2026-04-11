@@ -1,0 +1,75 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "pierer_2026",
+  "title": "Hybrid alienation: reproductive labour and emancipation in the anthropocene",
+  "author": "Pierer",
+  "year": 2026,
+  "journal": "Contemporary Political Theory",
+
+  "opening_move": {
+    "type": "conceptual_gap",
+    "description": "The paper opens by identifying a gap in accounts of alienation: standard Marxist alienation theory neglects reproductive labour and reifies 'nature', while attempts to address non-human agency in political theory lack the critical vocabulary to link nature to questions of power and emancipation.",
+    "anchored_in": ["Battistoni", "Wages for Housework movement", "Marxist alienation theory"],
+    "stakes_claimed": "A 'hybrid' account of alienation that centres reproductive labour can critique arrangements that naturalise reproduction without falling back on a reified notion of nature — connecting labour to emancipation in the Anthropocene"
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["standard Marxist alienation theory (production-centred)", "political ecology accounts of non-human agency", "Wages for Housework movement"],
+    "engagement_structure": "synthesis",
+    "immanent_critique": true,
+    "own_position_type": "synthesis",
+    "own_position_explicit": true,
+    "description": "The paper synthesises Marxist alienation critique with feminist political economy and political ecology to produce a 'hybrid' functionalist account that takes seriously both human and non-human labour in constituting the collective."
+  },
+
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "conceptual reconstruction; functionalist analysis of labour and reproduction; feminist and Marxist theory",
+    "notes": "Full-length research article (19 pages). Entirely conceptual-normative; no empirical data. The argument moves between feminist political economy, Marxist theory, and political ecology."
+  },
+
+  "case_type": {
+    "has_case": false,
+    "case_medium": "none",
+    "case_name": null,
+    "case_function": "none",
+    "case_relation_to_argument": "none",
+    "case_selection_justified": false
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "emancipation / ecology / labour / feminist theory",
+    "claim_type": "prescriptive",
+    "closure_type": "open_ended_with_burden_on_reader"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "conceptual_distinction",
+    "framework_proposal",
+    "immanent_critique",
+    "normative_derivation",
+    "meta_reflexive_qualification",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": true,
+
+  "key_concepts": ["hybrid alienation", "reproductive labour", "hybrid labour", "naturalisation of reproduction", "constitution of the collective", "Anthropocene emancipation"],
+
+  "thinkers_deployed": {
+    "central": ["Battistoni", "Wages for Housework movement (Dalla Costa, James)"],
+    "engaged_critically": ["Marxist production-centred theory"],
+    "referenced_only": ["Barca", "Barua", "Jasanoff (implied)", "Fanon (implied)"]
+  },
+
+  "confidence_notes": "Full-length research article. Fully normative despite Anthropocene/ecological subject matter. No empirical evidence. The synthesis of hybrid labour + alienation is the original theoretical contribution."
+}

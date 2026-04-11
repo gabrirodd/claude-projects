@@ -1,0 +1,75 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "zolkos_2026",
+  "title": "Reframing restitution with Roberto Esposito and Achille Mbembe: restitutive justice struggles and the colonial 'dispositif of a thing'",
+  "author": "Zolkos",
+  "year": 2026,
+  "journal": "Contemporary Political Theory",
+
+  "opening_move": {
+    "type": "conceptual_gap",
+    "description": "The paper opens by identifying a discrepancy between the international legal discourse of cultural property (which frames heritage objects as inanimate things subject to ownership rights) and the 'refractory speech acts' of activists and Indigenous spokespersons in restitutive justice struggles, who deploy richer, relational conceptions of thinghood. This discrepancy opens the gap that Esposito and Mbembe are recruited to theorise.",
+    "anchored_in": ["Esposito", "Mbembe", "UNESCO/UNIDROIT cultural property frameworks"],
+    "stakes_claimed": "Restitutive justice struggles are decolonizing practices that challenge the binary separation between persons and things — a richer and more politically radical understanding of restitution beyond property relations and transfer of ownership"
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["international legal discourse of cultural property (UNESCO/UNIDROIT)", "property-rights framework of restitution", "anthropocentric juridical personhood"],
+    "engagement_structure": "immanent_critique",
+    "immanent_critique": true,
+    "own_position_type": "synthesis",
+    "own_position_explicit": true,
+    "description": "The paper synthesises Esposito's theory of the 'dispositif of a thing' and Mbembe's postcolonial theory of African objects to produce a decolonial critique of western museum discourse and a richer account of restitution that goes beyond legal ownership. The refractory speech acts of activists constitute the empirical-interpretive case."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_interpretive_case",
+    "secondary": null,
+    "empirical_evidence_present": true,
+    "empirical_evidence_role": "illustrative",
+    "quantitative_methods": null,
+    "qualitative_methods": "analysis of activist speech acts; discourse analysis of restitution debates",
+    "data_sources": ["activist and artist statements in restitution debates", "museum discourse", "Indigenous community spokespersons"],
+    "interpretive_methods": "conceptual analysis using Esposito and Mbembe; postcolonial theory; critical analysis of legal frameworks",
+    "notes": "Full-length article (20 pages). The activist speech acts and restitution debates function as interpretive cases that are constitutive of the argument — the paper cannot be understood without them — but the core argument is normative-theoretical about what restitution should mean. Classified as normative_with_interpretive_case: the cases generate the theory but the paper's primary output is normative."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "political_event",
+    "case_name": "Restitutive justice struggles; activist 'refractory speech acts'; specific examples including Victoria Hunt's art and African heritage restitution campaigns",
+    "case_function": "generative",
+    "case_relation_to_argument": "illustrative_and_generative",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "decolonisation / justice / property / personhood",
+    "claim_type": "prescriptive",
+    "closure_type": "strong_normative_conclusion"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "case_introduction",
+    "framework_proposal",
+    "case_development",
+    "immanent_critique",
+    "normative_derivation",
+    "conclusion_strong"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["dispositif of a thing", "restitutive justice", "decolonizing museums", "refractory speech acts", "personhood/thinghood binary", "postcolonial restitution"],
+
+  "thinkers_deployed": {
+    "central": ["Esposito", "Mbembe"],
+    "engaged_critically": ["UNESCO/UNIDROIT legal framework", "western juridical personhood"],
+    "referenced_only": ["Sarr", "Markell", "De Line", "Moreton-Robinson", "Pelizzon et al."]
+  },
+
+  "confidence_notes": "Full-length article (20 pages). The activist speech acts are on the boundary between illustrative and constitutive evidence — classified as illustrative because the theoretical framework (Esposito + Mbembe) could in principle stand independently of the specific cases."
+}

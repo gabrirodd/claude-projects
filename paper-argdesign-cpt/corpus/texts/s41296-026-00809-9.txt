@@ -1,0 +1,1114 @@
+[PAGE 1]
+                                                             
+                                                             
+                                                             
+       Contemporary Political Theory (2026) 25:32            
+       https://doi.org/10.1057/s41296-026-00809-9            
+       ARTICLE                                               
+                                                             
+       Hans Jonas and Sophocles on the ethics of the         
+       Anthropocene                                          
+                                                             
+                                                             
+       Benjamin Folit-Weinberg1 · Jens van ’t Klooster2      
+                                                             
+       Accepted: 5 October 2025                              
+       © The Author(s) 2026                                  
+                                                             
+       Abstract                                              
+       What, if anything, is new about the ethical demands that the Anthropocene places
+       on human action? We refer to this question as the Anthropocene question, since
+       only an ethics that provides a precise answer to that question is properly an eth-
+       ics of the Anthropocene. While scholars in the environmental humanities have ad-
+       dressed the Anthropocene question, we bring this question to normative theory. To
+       this end, we put forward a critical reading of Hans Jonas’s 1979 The Imperative of
+       Responsibility, in which he develops normative principles on the basis of a histori-
+       cal diagnosis of novelty. Recent developments in scholarship on 5th-century B.C.E.
+       Athenian tragedy allows us to challenge Jonas, who at crucial points misdiagnoses
+       and overstates this novelty. Using Jonas’s work as an exemplar of a complete ethics
+       of the Anthropocene, we highlight the importance of principles for ethical delibera-
+       tion: an ethics for the Anthropocene needs not only principles for action, but also
+       principles for how to deliberate on action. Criticizing Jonas’s and more recent views
+       that democracy is unfit for the Anthropocene, we show that 5th-century Athenian
+       tragedy was a sophisticated democratic practice of deliberation of the sort that is
+       required for the Anthropocene.                        
+       Keywords Anthropocene · Hans Jonas · Normative theory · Precautionary
+       principle · Democracy · Greek tragedy                 
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+         Benjamin Folit-Weinberg                             
+         folit-weinberg.1@osu.edu                            
+         Jens van ’t Klooster                                
+         j.m.vantklooster@uva.nl                             
+       1 Ohio State University, Columbus, OH 43210, USA      
+       2 University of Amsterdam, Postbus 19268, 1000GGAmsterdam, The Netherlands
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+        32 Page 2 of 21                B. Folit-Weinberg, J. van ’t Klooster
+                                                             
+       The Anthropocene, a term originally introduced by earth scientists, designates the
+       historical era in which human action has become one of the decisive forces shaping
+       the earth’s climate and ecosystems (Crutzen, 2006). Though not without its detractors
+       (Malm & Hornborg, 2014), the term has been taken up far beyond the natural sci-
+       ences to designate a profoundly new historical period (Chakrabarty, 2009; Bonneuil
+       & Fressoz, 2017).                                     
+         What, if anything, is new about the ethical demands that the Anthropocene places
+       on human action? The core premise of this article is that only an ethics that provides
+       a precise answer to this question, which we describe as the Anthropocene question,
+       is properly an ethics of the Anthropocene. In this article, we build on our respective
+       backgrounds in classics and political theory to bring the Anthropocene question to
+       normative theory.                                     
+         While some have argued that the prospect of catastrophe makes all ethics superflu-
+       ous (Scranton, 2015; Hamilton et al., 2015, p. 8), scholars working in the environ-
+       mental humanities have led the way in exploring the Anthropocene question. These
+       scholars tend to identify ethical challenges raised by the new spatial and temporal
+       dimensions of human impact on the planet, but do not theorise these in terms of nor-
+       mative principles. With regard to the spatial dimensions, theorists have mentioned
+       the inadequacy of state-centric accounts of justice, as well as identifying new ethical
+       demands in relation to the non-human environment and, indeed, the planet (Ben-
+       nett, 2010; Zylinska, 2014; Latour, 2017). Emphasizing the temporal extension of
+       human impact, other defining features concern our impact on future people (Yusoff,
+       2013) and pervasive uncertainty about the trajectory of the planet (Morton, 2013,
+       pp. 99–133). These features, in turn, raise new challenges for ethical deliberation
+       (Tsing, 2015; Haraway, 2016; Ghosh, 2017).            
+         Normative theorists have, of course, addressed the topic of human impact on the
+       planet (Gardiner et al., 2010; Moellendorf, 2012; Shue, 2014). The complex distribu-
+       tion of duties to future generations that mark the Anthropocene is by now the subject
+       of an extensive ethical literature that highlights the complex geopolitical, historical,
+       intergenerational nature of responsibilities for private individuals, states and global
+       governance alike (Cripps, 2013; Gosseries and González-Ricoy. 2016; Caney, 2021;
+       Hickey, 2021). Notably, however, normative theorists have not engaged with the his-
+       torical dimension of the Anthropocene question; even when the Anthropocene ques-
+       tion is posed, it is not answered with reference to the history of ethical and political
+       thought (Kelly, 2019; Charbonnier, 2021). This failure to historicise raises the risk
+       of underestimating novelty and simply appending the term ‘Anthropocene’ to tradi-
+       tional frameworks, considerations, and modes of argument (Dryzek and Pickering,
+       2019, pp. 12–17) or failing to acknowledge insight to be gained from established
+       modes of theorising (Bargués et al., 2024).           
+         In short, while many scholars of the environmental humanities address some ver-
+       sion of the Anthropocene question, they do not seek to develop normative principles
+       to guide human action; on the other hand, normative theorists fail to historicize the
+       Anthropocene properly and rarely if ever give the Anthropocene question the atten-
+       tion it deserves. Accordingly, there is a pressing need to develop normative theorizing
+       premised on an answer to the Anthropocene question.   
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+       Hans Jonas and Sophocles on the ethics of the Anthropocene Page 3 of 21 32
+                                                             
+         In fact, there is one thinker who has attempted this task, the German-Jewish phi-
+       losopher Hans Jonas. In his The Imperative of Responsibility (1979), among the first
+       publications to theorize what we would now call the Anthropocene, Jonas develops a
+       new, post-Kantian ethics through a diagnosis of historical novelty. As Jonas argues:
+         Modern technology, informed by an ever-deeper penetration of nature and pro-
+         pelled by the forces of market and politics, has enhanced human power beyond
+         anything known or even dreamed of before. … The altered nature of human
+         action, with the magnitude and novelty of its works and their impact on man’s
+         global future, raises moral issues for which past ethics, geared to the direct
+         dealings of man with his fellowmen within narrow horizons of space and time,
+         has left us unprepared (Jonas, 1984, p. ix).        
+                                                             
+       The ethics that Jonas believes is needed is decidedly Kantian in its ambition to develop
+       normative principles to guide human action. In the absence of such principles, Jonas
+       believed, humanity risks falling prey to ‘a nihilism in which near-omnipotence is
+       paired with near-emptiness, greatest capacity with knowing least for what ends to use
+       it’ (Jonas, 1984, p. 29).                             
+         Although Jonas’s work has been interpreted in relation to the ethical and philo-
+       sophical dimensions of the Anthropocene in passing (Blumenfeld, 2023, p. 162), we
+       find in his work a profound analysis of what ethical demands human impact on the
+       planet places on action. Beyond situating Jonas in contemporary debates, however,
+       we also develop our own ideas by undertaking a critical reading of Jonas’s project of
+       developing normative principles on the basis of a historical diagnosis. We focus on
+       three closely-related sub-questions concerning the Anthropocene: (i) What genuinely
+       new facts about human action characterize today’s context of deliberation? (ii) What
+       new ethical principles do these facts imply? (iii) What new practices of deliberation
+       are needed to act on those principles? We show that Jonas’s answers to these ques-
+       tions constitute an ambitious and compelling, though not infallible, attempt to answer
+       the Anthropocene question (Table 1), and we seek to build on them ourselves.
+         Our critical reading has two primary objectives. From a historical perspective, we
+       challenge and improve Jonas’s diagnosis of novelty. Recent developments in schol-
+       arship on 5th-century B.C.E. Athenian tragedy allow us to challenge Jonas’s mis-
+       diagnoses and overstatements regarding the novelty of the present situation, since
+       these stem from misunderstanding previous eras of profound novelty. Most crucially,
+       Jonas uses Greek tragedy to exemplify the ethical order that must be left behind. In
+       this, Jonas was mistaken. But that is in itself something positive: since tragedy itself
+       responded to uncertainty and novelty in precisely the ways that Jonas thinks we need
+       to, tragedy also offers valuable tools for developing an ethics of the Anthropocene.
+         Second, we also pursue an agenda-setting objective for contemporary normative
+       theory. By distinguishing between the three aspects of novelty (i-iii) that Jonas’s
+       work addresses, we showcase what a complete ethics of the Anthropocene could look
+       like, with Jonas’s work providing an exemplar. Doing so highlights the importance
+       of practices of ethical deliberation, a point which is often neglected: an ethics for
+       the Anthropocene needs not just principles for action, but also principles for how to
+       deliberate on action. Focusing on the nature of principles for deliberation, we also
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+        32 Page 4 of 21                B. Folit-Weinberg, J. van ’t Klooster
+                                                             
+       contribute to recent debates over the Anthropocene and the legitimacy of democratic
+       rule (Mittiga, 2021; Fritsch, 2023; White, 2024). Jonas believed that democracies
+       would find it hard to meet these ethical standards, but as we show, Athenian democ-
+       racy already had a practice of deliberation for collective reflection on novelty, uncer-
+       tainty and catastrophe. That practice was tragedy.    
+         The article is structured as follows. After demonstrating why Jonas should be
+       considered Jonas a thinker of the Anthropocene, we engage critically with Jonas’s
+       account of the context of deliberation, ethical principles, and practices of delibera-
+       tion, respectively, that are proper to the Anthropocene. Each of these three topics is
+       addressed in its own section.                         
+                                                             
+       Table 1 Three sub-questions of Sub-questions Answers  
+       the Anthropocene question                             
+                       Context of deliberation (what makes The specific set of facts
+                       the Anthropocene new?) about human action and the
+                                        circumstances in which we
+                                        act that shape what is an
+                                        appropriate ethics   
+                       Ethical principles (why should these Foundational normative
+                       new features inform the ethics of the assumptions that form the
+                       Anthropocene?)   basis for ethical deliberation
+                                        about our responsibilities
+                       Practices of deliberation (how Social practices of delibera-
+                       should we act on the new principles tion that allow us to meet
+                       set out in light of the new feature of our responsibilities
+                       the Anthropocene?)                    
+         In the section devoted to the context of deliberation proper to the Anthropocene,
+       we critically evaluate Jonas’s view of what features make the Anthropocene a fun-
+       damentally new era for ethics. We demonstrate that while Jonas is right to insist that
+       an ethics for the Anthropocene needs to take profound novelty and uncertainty into
+       account, due consideration of the historical context shows that Jonas is wrong to sug-
+       gest that these features, which were characteristic of 5th-century B.C.E. Athens and
+       have been closely related to the genre of tragedy, are new characteristics of contem-
+       porary human action. Instead, Jonas’s most compelling account of what is new con-
+       cerns the temporal extension and the magnitude of the effects of our actions, which
+       make deliberation on their moral significance profoundly difficult.
+         The following section turns to Jonas’s account of ethical principles to set out
+       what new ethical demands Jonas takes these features of the context of deliberation
+       to imply. That section studies Jonas’s famous principle of responsibility, self-con-
+       sciously modeled on Kant’s categorical imperative: ‘Act so that the effects of your
+       action are compatible with the permanence of genuine human life’ (Jonas, 1984, p.
+       11). We emphasize its close similarity to the precautionary ethics that informs recent
+       empirical work on the boundaries of the earth system (Rockström et al., 2009, 2023),
+       and thereby further develop our critical reading of Jonas’s project to ground ethics in
+       an answer to the Anthropocene question.               
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+       Hans Jonas and Sophocles on the ethics of the Anthropocene Page 5 of 21 32
+                                                             
+         In the final section, we turn to our agenda-setting and contemporary objectives by
+       interpreting Jonas’s account of novel duties for how to deliberate. Jonas’s diagnosis
+       of the ethical predicament of the Anthropocene brings into sharp focus the practical,
+       rather than fundamentally ethical, obstacles toward deliberating on how to act in the
+       face of human impact on the planet. Jonas believed that, confronted with these new
+       challenges, democratic government would no longer be adequate, leading him to
+       favor autocratic rule. Building on our arguments that novelty and uncertainty are not
+       new but were characteristic of the 5th-century B.C.E. Athens where tragedy flour-
+       ished, we explore the institution of Athenian tragedy as a set of practices that allow
+       individuals to act on Jonas’s two principles in both a collective and a democratic way.
+       Criticizing the view, expressed both by Jonas and more recent authors, that democ-
+       racy is unfit for the Anthropocene, we show that tragedy embodies a sophisticated
+       democratic practice of deliberating on novelty, uncertainty and catastrophe.
+       Hans Jonas and the Anthropocene                       
+                                                             
+       Hans Jonas’s acute awareness of the novelty of human impact on the planet led to him
+       to articulate and seek to answer the question of what, if anything, is new about the
+       ethical demands that this impact places on human action. Although the current sense
+       of the term ‘Anthropocene’ only entered circulation after his death, we will argue that
+       Jonas can still be read as a theorist of the Anthropocene.
+         Born in Germany in 1903, Jonas wrote his dissertation under the supervision of
+       Martin Heidegger and alongside Hannah Arendt and Herbert Marcuse. Forced to
+       flee the Nazis in 1933, his mother’s death in Auschwitz precipitated his break with
+       Heidegger (Jonas, 2003). From 1955 onwards, Jonas taught at the New School for
+       Social Research in New York City. Despite the deep scar that the Holocaust left on
+       his life and the impact of the Cold War, Jonas’s ethical thinking identifies a new
+       type of threat to humanity: the slow-moving exhaustion of the planet Earth. As he
+       writes at the start of his The Imperative of Responsibility: In Search of Ethics for the
+       Technological Age, first published in German in 1979, the hardest ‘threat to counter’
+       is one that is ‘slow, long-term, cumulative’, namely, ‘the peaceful and constructive
+       use of worldwide technological power, a use in which all of us collaborate as captive
+       beneficiaries through rising production, consumption, and sheer population growth-
+       that poses threats much harder to counter’ (Jonas, 1984, p. ix). Not having any such
+       term as 'Anthropocene' at his disposal, Jonas consistently describes our new era as
+       the ‘technological age’.                              
+         The idea of the Anthropocene reflects a major advance of 20th-century science,
+       namely, to think of the earth itself as a complex system, one which can be shifted
+       into a different state by human action (Rockström et al., 2009; Bonneuil & Fressoz,
+       2017). If the effects of human action remain small, the earth system accommodates
+       change and stays in the safe operating space associated with the Holocene. However,
+       growing greenhouse gas emissions, nitrogen deposition, biodiversity loss, the intro-
+       duction of novel entities and other major perturbations may push the earth out of
+       its current state, permanently damaging the system’s ability to accommodate human
+       life. Introduced by the atmospheric chemist Paul Crutzen in 2000, the concept com-
+                                                             
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+        32 Page 6 of 21                B. Folit-Weinberg, J. van ’t Klooster
+                                                             
+       bines the words anthropos (‘human being’) and kainos (‘recent, new’) to designate a
+       new epoch after the Holocene, in which human civilization had played out until then
+       (Crutzen, 2006). For Crutzen, that era ended in the early 1950s with the accelerated
+       used of fossil fuel and artificial fertilizers. In subsequent work, he came to define the
+       new era as one where ‘the human imprint on the global environment has now become
+       so large and active that it rivals some of the great forces of Nature in its impact on the
+       functioning of the Earth system’ (Crutzen, 2006).     
+         Although the Imperative of Responsibility appeared only in 1979, it builds on
+       Jonas’s lectures beginning from the 1950s, precisely when Crutzen identifies the start
+       of the Anthropocene (Jonas, 1984, p. ix). Jonas’s ethics is motivated by a recognition
+       that ‘[t]hresholds may be reached in one, direction or another, points of no return,
+       where processes initiated by us will run away from us on their own momentum and
+       toward disaster’ (Jonas, 1984, p. ix). Among other things, Jonas called attention spe-
+       cifically to ‘the so-called green-house effect’, through which ‘the happy-go-lucky
+       feast of a few industrial centuries could be paid for with millennia of altered terres-
+       trial nature’ (Jonas, 1984, p. 190). These passages thus leave little doubt that Jonas’s
+       concern is not merely the environmentalist’s worries about pollution, acid rain or
+       radioactive waste, but rather a profound recognition that human life impacts the very
+       conditions of life on the planet. It is for this reason that we feel comfortable charac-
+       terizing Jonas as a thinker of the Anthropocene.      
+         While Jonas thus identifies the novelty of the Anthropocene, his ethical interpre-
+       tation of its novelty is not always easy to distil from his text; his views resist easy
+       summary and are at times expressed in ways that have limited their academic recep-
+       tion (Schmidt, 2013). These issues are nowhere as clear as in his account of classical
+       antiquity, which we take to be at heart of his answer to the Anthropocene question. In
+       critically assessing his views, our objective in the next section is to develop what we
+       take to be the most promising version of Jonas’s answer.
+       Context of deliberation                               
+       What new facts about human action characterize today’s context of deliberation?
+       Reflecting on the so-called ‘Ode to Man’ in Sophocles’ Antigone, Jonas characterizes
+       the context of deliberation of the past as one where ‘the human condition, deter-
+       mined by the nature of man and the nature of things, was given once for all’, where
+       ‘the human good on that basis was readily determinable’, and where, accordingly,
+       ‘the range of human action and therefore responsibility was narrowly circumscribed’
+       (Jonas, 1984, p. 1).                                  
+         Jonas at times thus suggests that human action in antiquity was not fundamen-
+       tally new relative to previous ways of life; that its outcomes were typically well-
+       understood and easy to predict; and that, accordingly, agents would typically know
+       the normative significance of their actions. On this account, the distinctive features
+       of the Anthropocene are therefore profound novelty and uncertainty. We argue that
+       any ethics that is suitable for the Anthropocene should indeed take these features into
+       account, but that appropriate consideration of scholarship on 5th-century Greece and
+       Athenian tragedy makes clear that they are by no means new. Instead, Jonas’s more
+                                                             
+                                                             
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+       Hans Jonas and Sophocles on the ethics of the Anthropocene Page 7 of 21 32
+                                                             
+       promising account of today’s context of deliberation concerns the ways in which
+       the temporal extension and the magnitude of the effects of our action hinder ethical
+       deliberation.                                         
+       Antiquity                                             
+                                                             
+       Jonas’s engagement with Greco-Roman antiquity centers around his reading of the
+       so-called ‘Ode to Man’, the first choral stasimon of Sophocles’ Antigone. This cel-
+       ebrated song explores the remarkable nature of the human, emphasizing in particular
+       our mastery over the earth and the animal kingdom, as well as distinctively human
+       skills and technologies such as speech, construction and medicine.1 The final stanza
+       highlights the importance of law and religion, which define the boundaries of accept-
+       able human behavior.                                  
+         On Jonas’s reading, the ‘Ode to Man’ serves as the paradigm of what could be
+       described in contemporary terms as a Holocene mindset: a point in history where
+       human action is not seen to change nature fundamentally. In the Ode, Jonas sees a
+       world where:                                          
+         for all his boundless resourcefulness, man is still small by the measure of
+         the elements … He cannot harm them by carving out his little kingdom from
+         theirs. They last, while his schemes have their short-lived way. … All this holds
+         because before our time man’s inroads into nature, as seen by himself, were
+         essentially superficial and powerless to upset its appointed balance (Jonas,
+         1984, p. 3).                                        
+                                                             
+       For Jonas, the 'Ode to Man' thus expresses a context of deliberation where human
+       action cannot fundamentally change the extent to which the planet supports human
+       life. In turn, this timelessness of basic planetary conditions informs Jonas’s observa-
+       tion that at this time, knowledge about the human condition and the ethical criteria
+       that applied to action were deemed to be essentially timeless:
+         The good and evil about which action had to care lay close to the act, either
+         in the praxis itself or in its immediate reach, and were not matters for remote
+         planning … Proper conduct had its immediate criteria and almost immediate
+         consummation … Ethics accordingly was of the here and now … The good
+         man was the one who met these contingencies with virtue and wisdom, cultivat-
+         ing these powers in himself, and for the rest resigning himself to the unknown
+         (Jonas, 1984, pp. 4–5).                             
+                                                             
+       Because humanity’s predicament was unchanging and the planetary consequences of
+       human action were relatively easily foreseen, deliberation depended essentially on
+       cultivating individual moral excellence to meet the contingencies one faced.
+                                                             
+       1 Among the vast literature on the ‘Ode to Man’ see esp. Segal (1964), Segal (1981, pp. 152–206, esp. p.
+       441 n.4). Billings (2021, pp. 172–184) provides an up-to-date bibliography.
+                                                             
+                                                             
+                                                             
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+        32 Page 8 of 21                B. Folit-Weinberg, J. van ’t Klooster
+                                                             
+         Jonas develops this discussion by advancing what we take to be three theses con-
+       cerning the context of deliberation of the Anthropocene. The first concerns epistemic
+       uncertainty: a new gap has opened up between our knowledge and our abilities. What
+       is new to the Anthropocene, as Jonas puts it, is that ‘[k]nowledge… becomes a prime
+       duty beyond anything claimed for it heretofore, and the knowledge must be com-
+       mensurate with the causal scale of our action’ (Jonas,1984, p. 7). Elsewhere, Jonas
+       puts it even more forcefully: ‘extrapolation from presently available data will always,
+       in certainty and completeness of prediction, fall short of the causal pregnancy of our
+       technological deeds’ (Jonas, 1984, p. x).             
+         Jonas’s second thesis concerns normative uncertainty. Beyond a narrowly epis-
+       temic uncertainty, Jonas also holds that what is distinctive about ethics in the ‘techno-
+       logical age’ is that it has become more difficult to foresee the normative significance
+       of our actions. That significance not only depends on empirical knowledge, but also
+       on a conception of the ‘human condition’: the nature of human beings and the natural
+       world in which they operate. Jonas begins his book with the following claims, which
+       frame his presentation of the 'Ode to Man':           
+         All previous ethics – whether in the form of issuing direct enjoinders to do and
+         not to do certain things, or in the form of defining principles for such enjoin-
+         ders, or in the form of establishing the ground of obligation for obeying such
+         principles – had these interconnected tacit premises in common: that the human
+         condition, determined by the nature of man and the nature of things, was given
+         once for all; that the human good on that basis was readily determinable; and
+         that the range of human action and therefore responsibility was narrowly cir-
+         cumscribed (Jonas, 1984, p. 1).                     
+       This in turn leads to a third thesis that lies behind the diagnosis of epistemic and
+       normative uncertainty, the profound novelty of the ethical challenges of the Anthro-
+       pocene. For Jonas, the most fundamental ethical challenge is that our actions are dif-
+       ferent from those of our historical predecessors, which means that we can no longer
+       rely on the past as a guide for proper conduct. While Jonas is certainly right that ‘the
+       altered nature of human action…raises moral issues for which past ethics…has left
+       us unprepared’ (Jonas, 1984, p. x), he sometimes also makes the stronger claim that
+       in the past, ethical knowledge was held to be simple and that what constituted good
+       action was timeless: ‘the best state, so it was thought, is also the best state for the
+       future…since the criteria of a good order (of which durability is one) do not change’
+       (Jonas, 1984, p. 15). The Anthropocene, Jonas argues, raises new ethical challenges
+       because it confronts humanity with ethical questions for which the past contains no
+       reliable answers: profound novelty leads to epistemic and normative uncertainty.
+         Recent scholarship makes it hard to maintain Jonas’s claims concerning novelty.
+       In fact, something like opposite was true: precisely this sense of profound novelty
+       would have been familiar to Sophocles and others throughout the 5th-century B.C.E.
+       – and had indeed begun to be perceptible even in the final third of the 6th-century
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+       Hans Jonas and Sophocles on the ethics of the Anthropocene Page 9 of 21 32
+       B.C.E.2 As the status of the great authorities, the epic poets Homer and Hesiod, began
+       to erode, new space opened up for a scramble of mythographers and historians, proph-
+       ets and diviners, natural scientists and philosophers to stake their claims to knowl-
+       edge and authority. The increasingly widespread adoption of writing began to have a
+       profound impact on the way that knowledge, authority, and truth were conceptualized
+       and asserted. A nascent tradition of what we would call natural science developed
+       new theories about the workings of the natural world, replacing divine caprice with
+       a universe governed by regular, intelligible principles; alongside this, a radical cri-
+       tique of knowledge and a new interest in language revolutionized ideas about what
+       could be known and correctly expressed. In Athens, a series of far-reaching reforms
+       made political, judicial, and other institutions markedly more democratic;3 isonomia,
+       equality before the law, and isēgoria, equality of political power, emerged as new
+       political principles. Sophocles thus lived in a world characterized not by a ‘stable
+       equilibrium’ but by deep and fundamental transformations which left few domains
+       of Greek life unchanged. Indeed, the very text Jonas chooses, the 'Ode to Man', is
+       itself often understood not only as an expression of ‘the changeable human condition’
+       (Dunn, 2007, p. 157) but precisely as a product of debates about the normative sig-
+       nificance of the profound novelty experienced by inhabitants of 5th-century B.C.E.
+       Athens.                                               
+         Moreover, according to a highly influential view, the genre of tragedy emerged as
+       a response to exactly this profound novelty and the normative uncertainty that arose
+       in its wake (Gould, 1983; Vernant, 1988a, b). On this view, the fact that old norms,
+       old codes of behaviour, old conceptions about the legitimacy and nature of law and
+       political power no longer had the same purchase – and are even in tension or indeed
+       direct conflict with new understandings of these things – is intimately linked with
+       tragic form; in the arc of its plots and in the rapid-fire one-line debates of stichomy-
+       thia, tragedy serves as a site for exploring the relationship between old norms and
+       new, and staging a confrontation between them (Vernant, 1988a, b; Goldhill, 2012,
+       pp. 56–80). Here, too, it is ironic that Sophocles’ Antigone has served as the locus
+       classicus for discussions of these topics (Hegel, 1975; Vernant, 1988a, b).
+         A similar point may also be made regarding epistemic uncertainty. In an obvi-
+       ous if perhaps superficial sense, tragedy is the genre that undermines par excellence
+       the notion that human ‘knowledge [can] be commensurate with the causal scale of
+       our action’; most if not all protagonists in extant 5th-century B.C.E. tragedies suf-
+       fer precisely because the opposite is revealed to be true. Here, too, the 'Ode to Man'
+       offers a surprising basis for Jonas’s claims: the apparently optimistic vision of human
+       knowledge it offers is devastatingly undermined both by subsequent choral odes and
+       by the remainder of the play (Linforth, 1961; Segal, 1981). Moreover, the themes and
+       qualities foregrounded in the 'Ode to Man' have been widely seen to be embodied in
+       the protagonist of Sophocles’ subsequent play Oedipus Tyrannus, a play often read
+       2 For the following paragraph, see esp. Buxton (1999), Lloyd (1979, 1987), Osborne (1997, 2018), Folit-
+       Weinberg (2022, 65–112) for further bibliography.     
+       3 Though just when and how is a matter of dispute; for a useful overview of debates and a meta-historiog-
+       raphy with bibliography, see Osborne (2006).          
+                                                             
+                                                             
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+        32 Page 10 of 21               B. Folit-Weinberg, J. van ’t Klooster
+                                                             
+       as the paradigmatic drama of epistemic failure (Knox, 1957; Buxton, 1980; Segal,
+       1981; Goldhill, 1986).                                
+       Magnitude of effects and scale                        
+                                                             
+       Contrary to Jonas’s arguments, then, profound novelty, epistemic and normative
+       uncertainty are by no means unique to the Anthropocene; because they are also char-
+       acteristic features of the very 5th-century B.C.E. Athens that produced the ‘Ode to
+       Man’, they cannot offer a satisfactory basis for answering the Anthropocene ques-
+       tion. This is not to say, however, that Jonas is wrong to identify them as constitutive
+       features of the context of deliberation characteristic of the Anthropocene. The crucial
+       role of novelty and uncertainty in determining today’s context of deliberation comes
+       into view when we consider two further changes stressed by Jonas, which concern
+       the magnitude of the effects and temporal extension of action made possible by 20th-
+       century technology.                                   
+         For Jonas, ‘technology’ appears as a shorthand for a range of new ways that human
+       capacities are expanded through industrialization, capitalism, fossil fuels, modern
+       agriculture, and other similar developments. It is because of these extensions of
+       human agency that our actions have come to affect the earth system in ways that
+       potentially undermine the very ability of humans to live there: ‘No previous ethics
+       had to consider the global condition of human life and the far-off future, even exis-
+       tence, of the race’ (Jonas, 1984, pp. 7–8).           
+         Because technology makes it possible that human action affects the conditions of
+       life on the planet itself, humanity acquires new ethical responsibilities: ‘the nature
+       of human action has de facto changed, and … an object of an entirely new order
+       — no less than the whole biosphere of the planet – has been added to what we must
+       be responsible for because of our power over it’ (Jonas, 1984, p.7). The changed
+       nature of human action, not changes to the earth system per se (Hamilton, 2016;
+       Chakraborty, 2024), gives rise to new ethical challenges and new kinds of uncertainty
+       concerning what we ought to do.                       
+         Jonas claims that these new responsibilities require a fundamental rethinking of
+       ethics. Jonas also identifies several ways that the novelty and uncertainty specific to
+       the Anthropocene hinder us from meeting our ethical responsibilities. Many of these
+       result from extended spatial and temporal scale: whereas in the past there was an
+       immediacy between undertaking an action and seeing its consequences, the nature of
+       climate change displaces the consequences of our actions into the future, sometimes
+       the quite-distant future. As a result, potentially catastrophic but distant outcomes
+       often escape our attention (cf. Gardiner, 2011). Moreover, reversing their ‘biogeo-
+       physical impact’ (Wallenhorst, 2023) may only be possible on a millennial timescale.
+       As we saw, Jonas observes that, unlike ‘past ethics, geared to the direct dealings of
+       man with his fellowmen within narrow horizons of space and time’ (Jonas, 1984, p.
+       ix), today’s ethics involves responsibilities to people we do not know and who may
+       not yet have been born. In addition, Jonas emphasizes that ‘that which is to be feared
+       has never yet happened and has perhaps no analogies in past or present experience’
+       (Jonas, 1984, p. 28). Finally, in contrast to a nuclear war, human impact on the planet
+       takes shape through the incremental effects of many individually actions. This cumu-
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+       Hans Jonas and Sophocles on the ethics of the Anthropocene Page 11 of 21 32
+                                                             
+       lative impact of individual actions is discontinuous, meaning that for long periods
+       of time the impact of these actions can build up until we reach ‘points of no return,
+       where processes initiated by us will run away from us on their own momentum and
+       toward disaster’ (Jonas, 1984, p. ix).                
+         New technologies, and obstacles to meeting the responsibilities they impose on us,
+       combine to form a novel and profoundly challenging context of deliberation. These
+       factors thus provide a starting point for answering the Anthropocene question; they
+       are not yet an answer to the question of what moral requirements are fundamen-
+       tally new – that is, they provide only a part of Jonas’s answer to the Anthropocene
+       question.                                             
+                                                             
+       Ethical principles                                    
+       We now turn to the second part of Jonas's answer, which takes the form of a new
+       foundational moral principle, the principle of responsibility. In its most pithy formu-
+       lation, it requires that one: ‘[a]ct so that the effects of your action are compatible with
+       the permanence of genuine human life’, or, alternatively, ‘[a]ct so that the effects of
+       your action are not destructive of the future possibility of such life’ (Jonas, 1984, p.
+       11). Reading Jonas in light of his project of answering the Anthropocene question
+       helps clarify the exact content of the principle, which has been subject to a range of
+       interpretations (Whiteside, 2006; Schmidt, 2013; Coyne, 2020).
+         Jonas’s principle of responsibility is typically interpreted as a precautionary prin-
+       ciple, which demands that human action should be geared toward avoiding a specific
+       catastrophic outcome (Sandin et al., 2002; Gardiner, 2006; Steel, 2018). Rather than
+       pursuing outcomes that are optimal in some regard (justice, for example), precau-
+       tionary action aims to avoid catastrophically bad outcomes. As the philosophical
+       literature on precautionary principles makes clear, however, the intuitive idea of pre-
+       caution requires considerable clarification. For one thing, there is not one ‘precau-
+       tionary principle’, but rather a family of distinct ethical principles. Moreover, some
+       principles of precaution are indeed irrational, assigning undue weight to potential
+       threats or leading to paralysis potentially prohibiting any action that can be expected
+       to have bad outcomes (Sunstein, 2005). By specifying its content appropriately, how-
+       ever, a precautionary principle can be tailored to a specific context of deliberation to
+       pre-empt irrational and paralysing prescriptions.     
+         A well-specified principle has the following four-fold structure: ‘If there is (i) a
+       threat, which is (ii) uncertain, then (iii) some kind of action to avert it (iv) is the cor-
+       rect course of action’ (Sandin et al., 2002). Each of the elements (i)-(iv) needs elabo-
+       ration for a precautionary principle to be action-guiding: (i) What kind of threat does
+       it apply to? (ii) What level of evidence is required that the threat might occur? (iii)
+       What action should take place? And (iv) What is the deontic status of its requirement?
+       By specifying (i) and (ii), we can avoid irrationality and paralysis; the threat should
+       be sufficiently large to warrant action, and the degree of evidence required should
+       be subject to a minimum threshold. By specifying (iii) and (iv), we can ensure that
+       the deontic requirements of any given principle are proportionate to the outcomes at
+       stake.                                                
+                                                             
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+        32 Page 12 of 21               B. Folit-Weinberg, J. van ’t Klooster
+                                                             
+         Accordingly, we should ask: What is the precise content of Jonas’s precautionary
+       principle, if indeed he articulates one? Some of Jonas’s formulations risk assign-
+       ing an irrationally high weight to specific threats. The principle’s simplest statement
+       asserts that ‘the prophecy of doom is to be given greater heed than the prophecy of
+       bliss’ (Jonas, 1984, p. 31). As he formulates his main insight in the Preface to the
+       English edition of The Ethics of Responsibility:      
+         [A]n imaginative ‘heuristics of fear’, replacing the former projections of hope,
+         must tell us what is possibly at stake and what we must beware of. The mag-
+         nitude of those stakes, taken together with the insufficiency of our predictive
+         knowledge, leads to the pragmatic rule to give the prophecy of doom priority
+         over the prophecy of bliss (Jonas, 1984, p x).      
+                                                             
+       It is hard to find a well-defined class of actions in such formulations. Instead, Jonas’s
+       statement pertains to all actions that could have negative consequences for the quality
+       of life of future generations, implying paralysis.    
+         Jonas invokes a clear notion of precaution when he argues that ‘[n]ever must the
+       existence or the essence of man as a whole be made a stake in the hazards of action’
+       (Jonas, 1984, p. 37). This statement and others like it suggest the following strict
+       principle: If (i) an action has human extinction (ii) as a possible outcome, then (iii)
+       abstaining from that action is (iv) required. Recent commentators have typically
+       zeroed in on this interpretation of Jonas’s principle as it offsets concerns about irra-
+       tionality: human extinction would be catastrophic, and avoiding any action that could
+       have that outcome makes intuitive sense (Whiteside, 2006, pp. 195–208; Coyne,
+       2020, pp. 149–152). It also offers a clear response to concerns about indeterminacy
+       and paralysis: we have a good idea what actions could lead to human extinction (Liu
+       et al., 2018).                                        
+         Reduced to this strict formulation, however, Jonas’s principle of responsibility
+       fails to meet his ambition of setting out a new ethics for the Anthropocene. Human
+       extinction is unlikely to result from gradual environmental degradation.4 If we apply
+       this standard, a high level of CO emissions could go together with adaptation, result-
+                         2                                   
+       ing in a largely unlivable planet, but not the extinction Jonas fears. Unlike what he
+       suggests, it may be true that ‘the dangers which threaten the quality of future life are
+       in general the same as those which, magnified, threaten survival itself’, but it does
+       not follow from this that ‘avoiding the ones is a fortiori avoiding the others’ (Jonas,
+       1984, p. 40). Because actions that really threaten human extinction are quite rare, the
+       strict precautionary principle has a limited application. Notably, Jonas rules out such
+       a narrow interpretation when he writes that his ethics is meant to cover the ‘slow,
+       long-term, cumulative … use of worldwide technological power’, which he takes to
+       be more dangerous and central to his project than ‘the insanity of a sudden, suicidal
+       atomic holocaust, which sane fear can avoid with relative ease’ (Jonas, 1984, p. ix, cf.
+       p. 202). Accordingly, when it comes to catastrophic outcomes, we must distinguish
+       those actions that result in human extinction from those that permanently decrease
+       the quality of human life.                            
+       4 See e.g. Kemp et al. (2022) on catastrophic scenarios associated with climate change.
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+       Hans Jonas and Sophocles on the ethics of the Anthropocene Page 13 of 21 32
+                                                             
+         For Jonas’s principle genuinely to claim to answer the Anthropocene question, it
+       should cover the entire scope of the new ethical demands placed on human action.
+       Such a formulation would prohibit not only those actions which threaten human sur-
+       vival itself but also those that threaten the quality of future life on the planet. A
+       broader reading of the principle of responsibility has considerable textual support in
+       Jonas’s claims that our actions should be compatible with ‘the permanence of genu-
+       ine human life’. This formulation suggests that we should interpret Jonas’s principle
+       of responsibility as requiring that: (i) If an action has permanently reducing the abil-
+       ity of the planet to sustain human life (ii) as a possible outcome, then (iii) abstaining
+       from that action is (iv) required. Today’s earth system sciences provide an upper and
+       lower boundary estimate of threshold values for the earth system (for example, atmo-
+       spheric CO concentration) beyond which the ability of the planet to support human
+             2                                               
+       life can be permanently damaged (Rockström et al., 2009, 2023). Such ‘planetary
+       boundaries’ or ‘safe earth systems boundaries’ specify that class of actions more pre-
+       cisely: Acting in accordance with the permanence of genuine human life requires not
+       crossing planetary boundaries.                        
+         Specified in this way, Jonas’s precautionary principle could be thought to provide
+       the most basic principle for ethical deliberation in the Anthropocene. Its prescription
+       of avoiding a grave harm irrespective of its probability of occurrence is an apt start-
+       ing point for a context of deliberation characterized by great novelty and uncertainty
+       (where, by definition, no probabilities can be attributed to catastrophic outcomes).
+       There are, of course, further questions this principle raises. More fundamentally,
+       one may ask whether ethical principles are of any use at all in a context of ethical
+       deliberation marked by a high degree of epistemic uncertainty (Vallor, 2016, 2024).
+       Clearly, Jonas’s precautionary ethics is just one among other legitimate possibili-
+       ties. Importantly, however, the principle’s focus on damage to the conditions of life
+       for future generations responds directly to the features of the Anthropocene that are
+       genuinely novel. Accordingly, the principle of responsibility articulates an actionable
+       and, crucially, new ethical demand; by doing so, it provides a crucial starting point
+       for Jonas’s answer to the Anthropocene question.      
+       Practices of deliberation                             
+       While the principle of responsibility characterizes a fundamental new ethical demand,
+       it is only one part of Jonas’s answer to the Anthropocene question. In fact, Jonas’s
+       emphasis on new individual and collective practices of deliberation, points that are
+       not often acknowledged, represents his most important agenda-setting contribution
+       to contemporary normative theory. Jonas identifies two new duties for how to delib-
+       erate: first, a duty to have an imaginative encounter with catastrophe, and second, a
+       duty to summon the emotions appropriate to such a catastrophe, especially fear. By
+       showing that Jonas wrongly infers from these duties the superiority of an authori-
+       tarian political system, we also contribute to recent debates over the Anthropocene
+       and the legitimacy of democratic governance. Building on our discussion in 'Context
+       of Deliberation' above, we show that 5th-century Athenian tragedy, and especially
+                                                             
+                                                             
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+        32 Page 14 of 21               B. Folit-Weinberg, J. van ’t Klooster
+                                                             
+       Sophocles, provides a model for how to fulfill Jonas’s two duties without abandoning
+       democracy.                                            
+       An authoritarian Anthropocene?                        
+                                                             
+       The principle of responsibility appears in Chapter One of the Imperative of Responsi-
+       bility. After introducing it, Jonas also considers how to act on humanity’s new moral
+       duties and how to find out how to act on it. Since our moral obligation is to ensure
+       that catastrophic human impact does not happen, he argues, we need new practices to
+       overcome new and profound obstacles to deliberation.  
+         The core of Jonas’s view on how to deliberate consists in two duties of delibera-
+       tion. The first he refers to under the rubric of ‘[v]isualizing the long-range effects
+       of technological enterprise’. In fact, this amounts to a duty of imagination: since
+       the catastrophic risks we face are now fundamentally different to those of the past,
+       we cannot rely on our experience of past catastrophes by must instead ‘creatively
+       imagine’ the catastrophes proper to the Anthropocene (Jonas, 1984, p. 27). Because
+       our imagining these catastrophes will not ‘arise on its own’, Jonas argues, they must
+       therefore be ‘intentionally induced’ (1984, p. 27). To this end, he expresses hope in
+       ‘the infant science of ecology’, which on his view should include not only the natural
+       scientist who studies the physical impact of human action on nature, but also ‘the
+       economist and engineer, the city planner and transportation specialist, and so forth’
+       (Jonas, 1984, p. 185).                                
+         The second duty, which follows closely from the first, is an affective or emotional
+       duty; Jonas describes it under the rubric of ‘[s]ummoning up a feeling appropriate
+       to what has been visualized’ (Jonas, 1984, p. 28). Jonas’s core insight – amply borne
+       out in the intervening decades – responds to the points observed above, namely, that
+       the specific risks of the Anthropocene are too distant in time and causal proximity
+       to our actions, too vast in scale, and too abstract to inspire or motivate us to act with
+       the same urgency that traditional threats do. As a result, we need to undertake extra
+       measures to condition ourselves emotionally so that we act with the same urgency as
+       we would in situations where the consequences of our own actions are immediately
+       visible and affect us directly. This requires ‘purposely making room…in our disposi-
+       tion’ for the emotions summoned by what we imagine. This in turn creates the need
+       for a ‘deliberate attitude’ that ‘must be cultivated; we must educate our soul to a will-
+       ingness to let itself be affected’ by catastrophes in the future. That is:
+         bringing ourselves to this emotional readiness, developing an attitude open to
+         the stirrings of fear in the face of merely conjectural and distant forecasts con-
+         cerning man’s destiny – a new kind of éducation sentimentale – is the second,
+         preliminary duty of the ethic we are seeking…we are obliged to lay ourselves
+         open to the appropriate fear (Jonas, 1984, p. 28).  
+       On Jonas’s view, then, generating the will to act in accordance with the principle of
+       responsibility requires first, having an imaginative encounter with catastrophe, and
+       then second, allowing, indeed conditioning, ourselves to feel the sense of fear appro-
+       priate to what we have imagined; it is this emotional force which will impel us to act.
+                                                             
+                                                             
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+       Hans Jonas and Sophocles on the ethics of the Anthropocene Page 15 of 21 32
+                                                             
+       Only by adhering to these principles can we ensure ‘our highest duty’, namely, ‘to see
+       that responsibility itself is not stifled’ (Jonas, 1984, p. 107).
+         Reflecting on what would be required to act on these duties, Jonas’s account turns
+       notoriously bleak.5 In an infamous section titled ‘The advantage of total govern-
+       mental power’, Jonas enumerates ‘the advantages of autocracy as such’, suggesting
+       that an authoritarian state such as the Soviet Union is better equipped to meet the
+       challenges of the Anthropocene because ‘decisions from the top, which can be made
+       without prior assent from below, meet with no resistance (except perhaps passive)
+       in the social body and, given a reasonable dependability of the lower echelons, are
+       assured of implementation’ (Jonas, 1984, p. 146). Turning to Plato, Jonas is tempted
+       by autocratic deception concerning the true costs of environmental action: ‘Perhaps
+       this dangerous game of mass deception (Plato’s ‘noble lie’) is all that politics will
+       eventually have to offer: to give effect to the principle of fear under the mask of the
+       principle of hope’ (Jonas, 1984, p. 149).             
+         As unattractive as Jonas’s authoritarian turn may seem, some aspects of his rea-
+       soning are difficult to contest. In Jonas’s view, in addition to lacking the benefit of
+       ‘total government power’, democratic governance suffers from the disadvantage of
+       incentivizing short-term modes of thinking (Jonas, 1992, pp. 99–101). Capitalism,
+       meanwhile, operates on the basis of profit-motives, which Jonas thinks are unlikely
+       to respond adequately to the risks of the Anthropocene (Jonas, 1984, pp.145–146).
+       Merely to reject Jonas’s pessimistic conclusion is thus to fail to take sufficiently seri-
+       ously the momentous challenge to liberal democracy that emanates from the Anthro-
+       pocene (cf. Mittiga, 2021).                           
+       Tragedy as a democratic alternative                   
+       So is there a way that we can navigate novelty and uncertainty in the face of planetary
+       boundaries within a democratic system? We think that the observations made above
+       offer the basis for a more optimistic outlook. As we saw, the 5th-century B.C.E. was
+       a time when profound novelty engendered epistemic and normative uncertainty in
+       Athens, and the institution of tragedy is often seen as a means of responding to these
+       features, especially normative uncertainty. In what follows, we explore how tragedy
+       also offered a distinctively democratic framework within which Jonas’s two duties
+       regarding the practices of deliberation could be met.6
+         In fact, nearly all critical discussions of tragedy focus on features central to Jonas’s
+       two duties. Drama has long been seen to hold a specially privileged grip on the imagi-
+       nation of the spectator insofar as it is the medium that most powerfully presents
+       human action before the eyes of the viewer (the word ‘theater’ means ‘a place for
+       viewing/seeing/beholding’). Where other forms of artistic representation such as epic
+       5 On Jonas’s authoritarianism, see especially Wolin (2001, pp. 120–129), Whiteside (2006, pp. 95–101),
+       and Coyne (2020, pp. 145–172). However, not all readers of Jonas’s last interview in Der Spiegel (1992)
+       are likely to conclude that he favors a ‘dictatorship of the saviors of humanity’ (Wolin, 2001, p. 128). For
+       a more favorable interpretation, Dineen (2014).       
+       6 For another return to 5th -century B.C.E. Athens in the service of finding unexpected ways to solve the
+       problems of the Anthropocene – with a similar interest in institutions and practices of deliberation – see
+       also Schlosser (2020).                                
+                                                             
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+        32 Page 16 of 21               B. Folit-Weinberg, J. van ’t Klooster
+                                                             
+       poetry use words sung by a poet to stimulate the imagination of the audience, drama,
+       the performance of human action onstage, quite literally places the imagined world
+       of the story before the eyes of the audience; it is one thing to hear about Oedipus
+       blinding himself, and entirely something else to see someone dressed as Oedipus
+       appear before you with a gory depiction of bloodied eye-sockets.7 Drama is thus
+       the quintessential medium, and the theater the quintessential site, where immedi-
+       ate, vivid imaginative encounters occur. What is more, tragedy is the form of drama
+       where catastrophes, rather than other kinds of action, are presented. Attending tragic
+       drama in the theater – attending the representation of imagined catastrophes in the
+       place of seeing and beholding – thus fulfills in exemplary fashion the deliberative
+       practice of having an imagined encounter with catastrophe.
+         A similar point might be made with respect to the power of tragedy to produce
+       emotions, especially pity and fear, which has always been seen as one of its most
+       fundamental features. An episode recounted by Herodotus, a contemporary of Sopho-
+       cles, illustrates the point vividly. When an early tragedian depicted an event from the
+       recent historical (rather than distant mythical) past, the sack of the city of Miletus, the
+       entire theater ‘burst into tears’ (Hdt. 6.21), and a huge fine was levied against him for
+       presenting a catastrophe that touched the Athenians, close allies of the Milesians, too
+       personally. Since the 5th-century B.C.E., the emotion of fear has also been identified
+       alongside pity as the other characteristic emotion of tragedy (Halliwell, 2011; Munte-
+       anu, 2011, pp. 37–51); in The Republic, Socrates identifies its capacity to generate
+       emotions as ‘the most serious accusation’ against mimetic poetry such as drama (Pl.
+       Rep. 10.605c–606d), while Aristotle’s celebrated definition of tragedy in the Poetics
+       accords emotions a constitutive role in tragedy insofar as tragedy ‘accomplishes,
+       through pity and fear, the katharsis of such emotions’ (Arist. Poet. 1449b27–28).8
+         Tragedy, understood as a part of a practice of deliberation, is inextricably con-
+       nected to Athenian democracy in two ways. The first concerns tragedy’s profoundly
+       communal, civic nature. Jonas’s discussion of imagination and emotions makes no
+       mention of whether the deliberative practices he prescribes are to be undertaken as
+       personal experiences or something else. But 5th-century B.C.E. tragedy was a com-
+       munal experience that occurred in a public space: spectators sat in the Theater of Dio-
+       nysus alongside roughly 15,000 attendees, the largest gathering of Athenian citizens
+       on the calendar. Moreover, the Great Dionysia, the state-sponsored festival when
+       tragedies were performed, was a distinctly civic affair. The seating arrangements
+       within the theater seem to have constructed a map of the Athenian citizen body, and
+       citizens were likely seated by ‘tribe’ (which determined political, military, and other
+       civic service), thereby displaying the city as a city to and for itself (Winkler, 1990;
+       Goldhill, 1997). Several rituals performed before the tragedies created an expressly
+       civic frame; these included a rare gathering of Athens’ top political leaders to perform
+       libations, and, very likely, high-profile recognition of citizens who had undertaken
+       special deeds on behalf of the city. These rituals thus framed the ensuing explo-
+       7 This is, of course, a rough summary of the distinction between mimesis and diegesis; for the relationship
+       between mimesis, drama, and imagination in Plato, see esp. Grethlein (2020), Halliwell (1995, 2002, pp.
+       72–97) and Woodruff (2008).                           
+       8 For further discussion, see e.g. Rorty (1992), Nussbaum (2001) and Munteanu (2011, pp. 238–250).
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+       Hans Jonas and Sophocles on the ethics of the Anthropocene Page 17 of 21 32
+                                                             
+       ration, fundamental to so many tragedies, of how the collective of the democratic
+       polis should incorporate individuals who embody norms and values of an earlier time
+       (Seaford, 1994; Goldhill, 2000) – of how, that is, the democratic city should respond
+       to profound normative uncertainty and change. The institution of 5th-century B.C.E.
+       Athenian tragedy thus appears to have been specially organized to emphasize that
+       citizens attended tragedies as citizens, and watched and responded emotionally to the
+       encounter with catastrophe alongside their fellow citizens.
+         The second point concerns the relationship between tragedy and democratic Ath-
+       ens’ chief political institutions, the Assembly, where citizens spoke and voted for
+       motions, and the Law Court, where citizens served on juries. Scholars have detailed
+       pervasive similarities between the assembly, the law court, and the theater, especially
+       their shared atmosphere of agonistic debate and the way all three construct the demo-
+       cratic citizen as ‘a listening voting member of a collective audience’, (Goldhill, 2012,
+       p. 38). Not for nothing did Plato coin the term ‘theatrocracy’ (Pl. Laws 701b).9
+         Sophocles’ penchant for staging audienceship underscores this point further. The
+       plays of Sophocles are distinctive for the frequency with which a third character
+       (whose invention is often attributed to Sophocles) watches silently as two other char-
+       acters converse, debate, or lament (Easterling, 1997; Goldhill, 2012, pp. 39–55), as if
+       putting the audience on stage. This has a double effect. On the one hand, these scenes
+       force the audience in the theatre to confront its own processes of observing, deliberat-
+       ing on, and acting in response to what it sees, encouraging critical self-reflection by
+       holding a mirror to the nature of spectatorship as such. On the other, it implies that the
+       audience, too, is always potentially subject to the same tragedies that befall the char-
+       acters on stage who fail to deliberate and act correctly (Goldhill, 2012, pp. 11–38,
+       39–55). In view of the role of the democratic citizen as a spectator of speeches, a
+       voter in the assembly, and a juror in the law court, Sophoclean tragedy may thus be
+       seen as a format for developing an essential skill-set of the democratic citizen. By
+       seeing how others see, respond emotionally to, deliberate upon, and ultimately act in
+       response to the suffering and catastrophes of others, the audience gains experience
+       in seeing, responding emotionally, deliberating, and acting in sophisticated, critically
+       self-aware and self-reflexive ways: the actor acts and suffers onstage so that the audi-
+       ence may learn to act differently in the great civic deliberations they undertake in
+       real life.                                            
+       Conclusion                                            
+       In this article, we have sought to the answer the Anthropocene question: what, if
+       anything, is new about the ethical demands that the Anthropocene places on human
+       action. Our strategy relied on a critical reading of Hans Jonas’s Imperative of Respon-
+       sibility from the perspective of contemporary classical scholarship, showing how
+       normative insight into the Anthropocene requires historicism, but also how this his-
+                                                             
+       9 Plato’s critique of tragedy’s ability to play a positive normative role in a democratic context is brought
+       to the fore most recently in (Balot, 2024). Plato’s critique, and Balot’s reading of it, highlights the signifi-
+       cance of much deeper assumptions about human psychology in shaping aspects of this question.
+                                                             
+                                                             
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+        32 Page 18 of 21               B. Folit-Weinberg, J. van ’t Klooster
+                                                             
+       toricism can generate fundamental normative claims. Criticizing Jonas’s claim that
+       the 20th-century raises profoundly new ethical challenges as a result of its novelty
+       and uncertainty, the absence of which he wrongly diagnoses in Sophocles’ Antigone,
+       we argued that the distinctiveness of the Anthropocene should instead be situated
+       in the temporal and spatial extension of human action, which creates a new duty
+       to avoid permanent damage to the ability of the planet to support human life. Hav-
+       ing thus clarified what genuinely new facts about human action characterize today’s
+       context of deliberation, we examined what new ethical principles these facts imply,
+       focusing on Jonas’s principle of responsibility; we interpreted Jonas’s principle of
+       responsibility as requiring that we abstain from actions that threaten the quality of
+       future life on the planet, a principle we interpreted as a type of precautionary princi-
+       ple closely aligned with 21st-century conceptions of planetary boundaries. Following
+       Jonas, however, and in light of his fears about inaction in the face of environmental
+       degradation, we turned to his account of the practices of deliberation required to
+       act on the principle, settling on the importance of a duty to have an imaginative
+       encounter with catastrophe, and a duty to summon the emotions appropriate to this
+       encounter. We rejected Jonas’s claim, however, that such duties require giving up on
+       democracy; observing that 5th-century B.C.E. Athenian tragedy was itself a response
+       to profound novelty and epistemic and normative uncertainty, we observed how the
+       institution of 5th-century B.C.E. Athenian tragedy meet Jonas’s two duties of delib-
+       eration within a civic, democratic frame – and does so remarkably well.
+         This final point is worth reflecting on. Today, movies such as ‘Don’t Look Up’ and
+       novels such as Kim Stanley Robinson’s The Ministry for the Future might be thought
+       to offer similarly vivid encounters with catastrophe. There is a crucial difference,
+       however, between watching such a movie at home (or even in the cinema) and watch-
+       ing it within the frame of the democratic institutions of 5th-century B.C.E. Athens
+       – not to mention the level of the human species (Dryzek & Pickering, 2019). This
+       gap shows us what it is we lack today – and leads the way toward thinking about how
+       we can find a new and comparable set of deliberative practices in the 21st-century.
+       Acknowledgements We wish to thank Emma Cole, Lewis Coyne, Harriet Fertik, Simon Goldhill,
+       Thomas Hale, Adam Hawkes, Tom Hawkins, Marco Meyer, Pantelis Michelakis, Dana Munteanu, Ellen
+       O’Gorman, Robin Osborne, Christopher Otter, Enzo Rossi, and Justus Schollmeyer for helpful discussions
+       or comments on earlier versions of this article.      
+       Declarations                                          
+       Competing Interests The authors declare no competing interests.
+       Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+       which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long
+       as you give appropriate credit to the original author(s) and the source, provide a link to the Creative
+       Commons licence, and indicate if changes were made. The images or other third party material in this
+       article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line
+       to the material. If material is not included in the article’s Creative Commons licence and your intended use
+       is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission
+       directly from the copyright holder. To view a copy of this licence, visit h t t p : / / c r e a t i v e c o m m o n s . o r g / l i c e n
+       s e s / b y / 4 . 0 / .                               
+                                                             
+
+[PAGE 19]
+                                                             
+                                                             
+                                                             
+       Hans Jonas and Sophocles on the ethics of the Anthropocene Page 19 of 21 32
+       References                                            
+                                                             
+       Balot, R. K. (2024). Tragedy, Philosophy, and Political Education in Plato’s Laws. Oxford University
+         Press.                                              
+       Bargués, P., Chandler, D., Schindler, S., & Waldow, V. (2024). Hope after ‘the end of the world’: Rethink-
+         ing critique in the Anthropocene. Contemporary Political Theory, 23, 187–204.
+       Bennett, J. (2010). Vibrant Matter: A Political Ecology of Things. Duke University Press.
+       Billings, J. (2021). The Philosophical Stage: Drama and Dialectic in Classical Athens. Princeton Univer-
+         sity Press.                                         
+       Blumenfeld, J. (2023). Climate barbarism: Adapting to a wrong world. Constellations, 30, 162–178.
+       Bonneuil, C., & Fressoz, J.-B. (2017). The Shock of the Anthropocene: The Earth, History and Us. Trans.
+         David Fernbach. Verso Books.                        
+       Buxton, R. G. A. (1980). Blindness and limits: Sophokles and the logic of myth. Journal of Hellenic Stud-
+         ies, 100, 22–37.                                    
+       Buxton, R. G. A. (Ed.). (1999). From Myth to Reason? Studies in the Development of Greek Thought.
+         Oxford University Press.                            
+       Caney, S. (2021). Climate Justice. In E. N. Zalta (Ed.), The Stanford Encyclopedia of Philosophy. Winter.
+         Metaphysics Research Lab, Stanford University. h t t p s : / / p l a t o . s t a n f o r d . e d u / a r c h i v e s / w i n 2 0 2 1 / e n t r i e s
+         / j u s t i c e - c l i m a t e /                   
+       Chakrabarty, D. (2009). The climate of history: Four theses. Critical Inquiry, 35(2), 197–222.
+       Chakraborty, A. (2024). Rethinking the Anthropocene: Not a time-transgressive event but a sudden rupture
+         on the geologic time scale. Anthropocene, 48(December), Article 100454.
+       Charbonnier, P. (2021). Affluence and Freedom: An Environmental History of Political Ideas. Trans.
+         Andrew Brown. Polity.                               
+       Coyne, L. (2020). Hans Jonas: Life, Technology and the Horizons of Responsibility. Bloomsbury.
+       Cripps, E. (2013). Climate Change and the Moral Agent: Individual Duties in an Interdependent World.
+         Oxford University Press.                            
+       Crutzen, P. J. (2006). The ‘Anthropocene’. Earth System Science in the Anthropocene. (Eds.) Eckart Ehlers
+         and Thomas Krafft. Springer.                        
+       Der Spiegel. 1992. “Dem bösen Ende näher,” May 10, 1992, sec. Politik h t t p s : / / w w w . s p i e g e l . d e / p o l i t i k / d
+         em - b o e s e n - e n d e - n a e h e r - a - e 2 9 9 7 c 8 f - 0 0 0 2 - 0 0 0 1 - 0 0 0 0 - 0 0 0 0 1 3 6 8 0 5 3 5
+       Dinneen, N. (2014). Hans Jonas’s noble ‘Heuristics of fear’: Neither the good lie nor the terrible truth.
+         Cosmos and History: The Journal of Natural and Social Philosophy, 10, 2.
+       Dryzek, J. S., & Pickering, J. (2019). The Politics of the Anthropocene. Oxford University Press.
+       Dunn, F. M. (2007). Present Shock in Late Fifth-Century Greece. The University of Michigan Press.
+       Easterling, P. E. (1997). Form and Performance. In P. E. Easterling (Ed.), The Cambridge Companion to
+         Greek Tragedy. Cambridge University Press.          
+       Folit-Weinberg, B. (2022). Homer, Parmenides, and the Road to Demonstration. Cambridge University
+         Press.                                              
+       Fritsch, M. (2023). Climate change and democracy. In G. Pellegrino & M. Di Paola (Eds.), Handbook of
+         the philosophy of climate change. Springer.         
+       Gardiner, S. (2006). A core precautionary principle. Journal of Political Philosophy, 14, 33–60.
+       Gardiner, S. (2011). A Perfect Moral Storm: The Ethical Tragedy of Climate Change. Oxford University
+         Press.                                              
+       Gardiner, S., Caney, S., Jamieson, D., & Shue, H. (2010). Climate Ethics: Essential Readings. Oxford
+         University Press.                                   
+       Ghosh, A. (2017). The Great Derangement: Climate Change and the Unthinkable. University of Chicago
+         Press.                                              
+       Goldhill, S. (1986). Reading Greek Tragedy. Cambridge University Press.
+       Goldhill, S. (1997). The audience of Athenian tragedy. In P. E. Easterling (Ed.), The Cambridge compan-
+         ion to Greek tragedy. Cambridge University Press.   
+       Goldhill, S. (2000). Civic ideology and the problem of difference: The politics of aeschylean tragedy, once
+         again. Journal of Hellenic Studies, 120, 34–56.     
+       Goldhill, S. (2012). Sophocles and the Language of Tragedy. Oxford University Press.
+       Gosseries, A., & González-Ricoy, I. (2016). Institutions for Future Generations. Oxford University Press.
+       Gould, J. (1983). Homeric epic and the tragic moment. In T. Winnifrith (Ed.), Aspects of the epic. Penelope
+         Murray, and K. W. Grandsden. Macmillan. pp: 32-45.  
+
+[PAGE 20]
+                                                             
+                                                             
+                                                             
+        32 Page 20 of 21               B. Folit-Weinberg, J. van ’t Klooster
+       Grethlein, J. (2020). Plato in therapy: A cognitivist reassessment of the Republic ’s idea of Mimesis. The
+         Journal of Aesthetics and Art Criticism, 78, 157–70.
+       Halliwell, S. (1995). Plato, imagination and romanticism. In Ayres (Ed.), The passionate intellect: Essays
+         on the transformation of classical traditions presented to I. G. Kidd. Routledge.
+       Halliwell, S. (2002). The Aesthetics of Mimesis: Ancient Texts and Modern Problems. Princeton University
+         Press.                                              
+       Halliwell, S. (2011). Between Ecstasy and Truth: Interpretations of Greek Poetics from Homer to Longi-
+         nus. Oxford University Press.                       
+       Hamilton, C. (2016). The anthropocene as rupture. The Anthropocene Review, 3, 93–106.
+       Hamilton, C., Bonneuil, C., & Gemenne, F. (Eds.). (2015). The Anthropocene and the Global Environ-
+         mental Crisis. Routledge.                           
+       Haraway, D. J. (2016). Staying with the Trouble: Making Kin in the Chthulucene. Experimental Futures.
+         Duke University Press.                              
+       Hegel, G. W. F. (1975). Aesthetics: Lectures on Fine Art Volume I. Trans. T. M. Knox. Oxford University
+         Press.                                              
+       Hickey, C. (2021). Climate change, distributive justice, and ‘Pre-Institutional’ limits on resource appro-
+         priation. European Journal of Philosophy, 29, 215–235.
+       Jonas, H. (1984). The Imperative of Responsibility: In Search of an Ethics for the Technological Age.
+         University of Chicago Press.                        
+       Jonas, H. (2003). Erinnerungen. Insel.                
+       Kelly, D. (2019). Politics and the Anthropocene. Polity.
+       L. Kemp, C. Xu, J. Depledge, K.L. Ebi, G. Gibbins, T.A. Kohler, J. Rockström, M. Scheffer, H.J. Schelln-
+         huber, W. Steffen, & T.M. Lenton, Climate Endgame: Exploring catastrophic climate change sce-
+         narios, Proc. Natl. Acad. Sci. U.S.A. 119 (34) e2108146119, (2022)
+       Knox, B. (1957). Oedipus at Thebes: Sophocles’ Tragic Hero and His Time. Yale University Press.
+       Latour, B. (2017). Facing Gaia: Eight Lectures on the New Climatic Regime. Trans. Catherine Porter.
+         Polity.                                             
+       Linforth, I. M. (1961). Antigone and Creon. University of California Publications in Classical Philology,
+         15, 183–260.                                        
+       Liu, H. Y., & Lauta, K. C., and Matthijs Michiel Maas (2018). Governing boring apocalypses: A new
+         typology of existential vulnerabilities and exposures for existential risk research. Futures, 102(Sep-
+         tember), 6–19. Futures of research in catastrophic and existential risk.
+       Lloyd, G. E. R. (1979). Magic, Reason, and Experience: Studies in the Origin and Development of Greek
+         Science. Cambridge University Press.                
+       Lloyd, G. E. R. (1987). The Revolutions of Wisdom: Studies in the Claims and Practice of Ancient Greek
+         Science. University of California Press.            
+       Malm, A., & Hornborg, A. (2014). The geology of mankind? A critique of the anthropocene narrative. The
+         Anthropocene Review, 1, 62–69.                      
+       Mittiga, R. (2021). Political legitimacy, authoritarianism, and climate change. American Political Science
+         Review, December 6, 1–14.                           
+       Moellendorf, D. (2012). Climate change and global justice. WIREs Climate Change, 3, 131–143.
+       Morton, T. (2013). Hyperobjects: Philosophy and Ecology after the End of the World (1st edition). Uni-
+         versity of Minnesota Press.                         
+       Munteanu, D. L. (2011). Tragic Pathos Pity and Fear in Greek Philosophy and Tragedy. Cambridge
+         University Press.                                   
+       Nussbaum, M. C. (2001). The Fragility of Goodness: Luck and Ethics in Greek Tragedy and Philosophy
+         (Rev. ed). Cambridge University Press.              
+       Osborne, R. (1997). The Polis and Its Culture. In C.C.W. Taylor (Ed.), Routledge History of Philosophy
+         (Volume 1). Taylor. Routledge.                      
+       Osborne, R. (2006). When was the Athenian Democratic revolution?. In S. Goldhill & R. Osborne
+         (Eds.), Rethinking revolutions through ancient Greece. Cambridge University Press.
+       Osborne, R. (2018). The Transformation of Athens: Painted Pottery and the Creation of Classical Greece.
+         Princeton University Press.                         
+       Rockström, J., Steffen, W., & Noone, K. (2009). Planetary Boundaries: Exploring the Safe Operating
+         Space for Humanity. Ecology and Society, 14(2).     
+       Rockström, J., Gupta, J., Qin, D., et al. (2023). Safe and Just Earth System Boundaries. Nature, 619,
+         Article 7968.                                       
+       Rorty, A. (Ed.). (1992). Essays on Aristotle’s Poetics. Princeton University Press.
+
+[PAGE 21]
+                                                             
+                                                             
+                                                             
+       Hans Jonas and Sophocles on the ethics of the Anthropocene Page 21 of 21 32
+       Sandin, P., Peterson, M., Hansson, S. O., Rudén, C., & Juthe, A. (2002). Five charges against the precau-
+         tionary principle. Journal of Risk Research, 5, 287–99.
+       Schlosser, J. A. (2020). Herodotus in the Anthropocene. University of Chicago Press.
+       Schmidt, J. C. (2013). Defending Hans Jonas? Environmental ethics: On the relation between philosophy
+         of nature and ethics. Environmental Ethics, 35, 461–79.
+       Scranton, R. (2015). Learning to Die in the Anthropocene: Reflections on the End of a Civilization. City
+         Lights Publishers.                                  
+       Seaford, R. (1994). Reciprocity and Ritual: Homer and Tragedy in the Developing City-State. Clarendon
+         Press.                                              
+       Segal, C. (1964). Sophocles’ praise of man and the conflicts of the ‘Antigone’. Arion, 3, 46–66.
+       Segal, C. (1981). Tragedy and Civilization: An Interpretation of Sophocles. Harvard University Press.
+       Shue, H. (2014). Climate Justice: Vulnerability and Protection. Oxford University Press.
+       Steel, D. (2018). Philosophy and the Precautionary Principle: Science, Evidence, and Environmental
+         Policy. Cambridge University Press.                 
+       Sunstein, C. R. (2005). Laws of Fear: Beyond the Precautionary Principle. Cambridge University Press.
+       Tsing, A. L. (2015). The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins.
+         Princeton University Press.                         
+       Vallor, S. (2016). Technology and the Virtues: A Philosophical Guide to a Future Worth Wanting. Oxford
+         University Press.                                   
+       Vallor, S. (2024). The AI Mirror: How to Reclaim Our Humanity in an Age of Machine Thinking. Oxford
+         University Press.                                   
+       Vernant, J. P. (1988a). Tensions and Ambiguities in Greek Tragedy. In Myth and Tragedy in Ancient
+         Greece, trans. Janet Lloyd. Zone Books.             
+       Vernant, J. P. (1988b). The Historical Moment of Tragedy in Greece: Some Social and Psychological Con-
+         siderations. In Myth and Tragedy in Ancient Greece, trans. Janet Lloyd. Zone Books.
+       Wallenhorst, N. (2023). A Critical Theory for the Anthropocene. Springer.
+       White, J. (2024). Technocratic myopia: On the pitfalls of depoliticising the future. European Journal of
+         Social Theory, 27(2), 260–278.                      
+       Whiteside, K. H. H. (2006). Precautionary Politics: Principle and Practice in Confronting Environmental
+         Risk. MIT Press.                                    
+       Winkler, J. J. (1990). The Ephebes’ Song: Tragōidia and Polis. In J. J. Winkler & F. I. Zeitlin (Eds.), Noth-
+         ing to Do with Dionysus. Princeton University Press.
+       Wolin, R. (2001). Heidegger’s Children: Hannah Arendt, Karl Löwith, Hans Jonas, and Herbert Marcuse.
+         Princeton Princeton University Press.               
+       Woodruff, P. (2008). The Necessity of Theater: The Art of Watching and Being Watched. Oxford University.
+       Yusoff, K. (2013). Geologic life: Prehistory, climate, futures in the Anthropocene. Environment and Plan-
+         ning D: Society & Space, 31, 779–795.               
+       Zylinska, J. (2014). Minimal Ethics for the Anthropocene. Open Humanities Press.
+       Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps
+       and institutional affiliations.                       
+       Benjamin Folit-Weinberg is Assistant Professor in the Department of Classics at Ohio State University.
+       His research focuses on early and classical Greek thought. He is the author of Homer, Parmenides, and the
+       Road to Demonstration (Cambridge University Press, 2022).
+       Jens van ’t Klooster is Associate Professor of Political Economy at the Department of Political Science
+       of the University of Amsterdam. His research focuses on the governance of the financial system and the
+       politics of environmental policy.                     

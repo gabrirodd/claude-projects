@@ -1,0 +1,1120 @@
+[PAGE 1]
+                                                             
+                                                             
+                                                             
+       Contemporary Political Theory (2026) 25:5             
+       https://doi.org/10.1057/s41296-025-00779-4            
+       RESEARCH                                              
+                                                             
+       A critique of the polarisation narrative: expanding the
+       limits of democracy, parties and political participation
+                                                             
+                                                             
+       Juan Roch1 · Daniel Balinhas2 · Aurelien Mondon3      
+                                                             
+       Received: 25 November 2024 / Accepted: 5 September 2025
+       © The Author(s) 2025                                  
+                                                             
+       Abstract                                              
+       Public discourse about polarisation has become one of the latest hypes in politics,
+       whether it is in the political sphere proper, the media, or academia. Much like the
+       populist hype and anti-populist discourse that preceded it, this phenomenon has
+       prompted some interesting and useful developments in understanding our reaction-
+       ary context. However, it also risks obscuring certain trends by mislabelling them as
+       polarisation. One consequence has been found in demands for a return to post-polit-
+       ical technocratic management with a focus on ‘concrete issues’ and public policies.
+       This, it is argued, will move the focus away from divisive and irrational demands
+       by the ‘extremes’ and restore order. This article contends that this ‘polarisation
+       narrative’ simplifies complex issues through a bad analogy: the construction of a
+       spectrum where good should be found in the middle of diametrically opposed politi-
+       cal positions. To address this, we develop a critique of this narrative and highlight
+       its limitations by examining democracy, political parties, and political participation
+       in the public sphere. Subsequently, in response to the diagnoses and proposals of
+       the polarisation narrative, this article explores potential alternatives that offer new
+       pathways for democratic expansion.                    
+       Keywords Polarization · Narrative · Political parties · Public sphere · Democratic
+       expansion                                             
+                                                             
+                                                             
+                                                             
+         Aurelien Mondon                                     
+         am2124@bath.ac.uk                                   
+         Juan Roch                                           
+         jrochg@uoc.edu                                      
+         Daniel Balinhas                                     
+         Daniel.BalinhasPerez@ul.ie                          
+       1 National University of Distance Education, Madrid, Spain
+       2 University of Limerick, Limerick, Ireland           
+       3 University of Bath, Bath, United Kingdom            
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+        5  Page 2 of 21                         J. Roch et al.
+                                                             
+       ‘Polarisation’ is often considered a key word to define our turbulent times. Indeed, it
+       was made word of the year in 2023 by the Spanish Foundation FundeuRae and Mer-
+       riam-Webster in 2024.1 This salience is echoed by a Nexis search of the term in the
+       New York Times, which clearly demonstrates the rise of the term and its correlation
+       with President Donald Trump’s ascendency in the United States (see Fig. 1). Strik-
+       ingly, numbers not only rose steeply from 218 in 2015 to 496 in 2016, 694 in 2017,
+       and a high of 841 in 2018, Trump himself is by far the most mentioned personality in
+       the sample (present in over 2700 articles out of the 8008 articles sample). This trend
+       can also be witnessed in academia with a sharp rise in articles whose titles include
+       either ‘polarisation’ or ‘polarization’ from 2019 (see Fig. 2).
+         We argue that rather than simply reflecting new political developments, polarisa-
+       tion has been constructed and consolidated to shape our understanding of the world,
+       which is what we call here the mainstream polarisation narrative. As such, it serves
+       increasingly as one of the key terms to interpret current political problems, espe-
+       cially regarding democracy. Indeed, the use of polarisation has become common in
+       recent scholarly literature to explain the fundamental problems of today’s democracy,
+       whether it is the rise of the far right, ‘backsliding’, dissatisfaction with democracy,
+       ‘populism’ or wider social conflict (Klein, 2020; Orriols, 2023; Torcal, 2023; Miller,
+       2023; Neil and O’Brian, 2024). The mainstream polarisation narrative often frames
+       excessive voter affectivity as the core problem, portraying it as an ‘affective disease’
+       that has ‘infected’ voters through ‘fake news’ and ‘populism’ and must be cured by
+       returning them to rationality (see Arbatli and Rosenberg, 2021; Casal Bértoa and
+       Rama, 2021; Torcal, 2023). As such, the ontology underlying the dangers posed by
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+       Fig. 1 Articles in the New York Times with ‘polarization’ (Nexis)
+       1 See ‘Polarization: the word of the year 2023 according to FundéuRAE’.
+                                                             
+       h t t p s : / / f r a n c i s c o t o r r e b l a n c a . e s / e n / p o l a r i z a t i o n - t h e - w o r d - o f - t h e - y e a r - 2 0 2 3 - a c c o r d i n g - t o - f u n d e u r a e / and
+       ‘2024 Word of the Year: Polarization’, h t t p s : / / w w w . m e r r i a m - w e b s t e r . c o m / w o r d p l a y / w o r d - o f - t h e - y e a r.
+                                                             
+                                                             
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+       A critique of the polarisation narrative: expanding the limits of… Page 3 of 21 5
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+       Fig. 2 Articles in social sciences with ‘polarisation’ or ‘polarization’ in the title (Web of Science)
+                                                             
+       polarisation is that of the ‘sovereign voter’, one who acts rationally and judges the
+       costs and benefits of their vote.2                    
+         One common recipe proposed to combat polarisation is a return to post-politi-
+       cal technocratic management with a focus on ‘concrete issues’ and public policies
+       (Miller, 2020, 2023). This, it is argued, will move the focus away from divisive ‘iden-
+       tity politics’ and restore order. While it may sound like a reasonable attempt to engage
+       with the state of polycrisis, this article contends that this approach to polarisation
+       obscures our current context by simplifying complex issues through a bad analogy:
+       the construction of a spectrum where good should be found in the middle of diametri-
+       cally opposed and extreme political positions. This is problematic because restoring
+       rationality in these terms risks promoting a return to indifference, apathy, and the
+       absence of healthy political conflict (see Rancière, 1996; Mair, 2006). Furthermore, it
+       leaves unaddressed the hegemonic structural and organisational dimensions of com-
+       munication flows in capitalist societies (Williams, 2005 [1980]) and how inequality
+       and marketisation are key driving forces to understand polarisation and the chal-
+       lenges of democracy.                                  
+         This article thus aims to unpack the discourses surrounding polarisation and key
+       subdimensions of this narrative. We argue that carefully evaluating these dimen-
+       sions—and their relationship to polarisation—is essential to fully understand the
+       normative and political implications of how we conceptualise and respond to the
+       challenges facing democracy. Contrary to the mainstream polarisation narrative, this
+       article emphasises the often-overlooked role that political parties and mass organ-
+       isations have historically played in advancing democratic inclusion. Likewise, we
+       address the long-term market-driven concentration of the media in capitalist societ-
+       2 This basic idea comes from Anthony Downs’ work An Economic Theory of Democracy (1957), in which
+        he describes politics as the equivalent in its ambit of a commodity exchange.
+                                                             
+                                                             
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+        5  Page 4 of 21                         J. Roch et al.
+                                                             
+       ies, and the associated democratic struggles to construct new, emancipatory pub-
+       lic spheres—both of which are essential to properly understanding contemporary
+       polarisation.                                         
+         In the following, we first trace the origins and meaning of what we term the main-
+       stream polarisation narrative, comparing it in particular to the rise of populist and
+       anti-populist discourse, which we argue had a similar function and impact. Secondly,
+       we unpack this polarisation narrative by focusing on three main elements: the under-
+       lying conception of democracy, the role of political parties, and political participation
+       in the public sphere. Our main argument contends that this polarisation narrative can
+       lead to a narrowed view of the current situation, thus preventing the urgent need for
+       democratic expansion, which we turn to in the final section.
+       From populism to the polarisation narrative           
+                                                             
+       While the use of polarisation has witnessed a revival, it has long been a subject of
+       study, with Gabriel Almond and Sidney Verba’s Civic Culture (1963) being amongst
+       the first to offer an in-depth analysis. In the field of political science, a distinction
+       has often been made between ideological polarisation and affective polarisation. The
+       former refers to the ideological distance that exists between the parties competing in
+       an election or the citizens based on their positions, and the latter relates to the degree
+       of dislike towards those— parties, groups— holding opposing or distant positions
+       (Kleinfeld, 2023, p. 20; Orriols, 2023, pp. 125–137).3 Despite the nuance provided
+       by the most widely used measures (feeling thermometers and like-dislike scales)
+       to assess the degree of citizens’ (dis)like towards different political groups (mainly
+       parties), discourse about polarisation often slips into terms with greater normative
+       connotations (i.e. hostility, prejudice) (i.e. Iyengar & Westwood, 2015; Rudolph &
+       Hetherington, 2021).                                  
+         Furthermore, the polarisation of political parties is correlated with citizen polarisa-
+       tion (both affective and ideological). It is generally assumed that one of the factors
+       explaining the increase in polarisation in contemporary societies is the importance
+       of polarising political actors (new parties or radical movements), who are also often
+       referred to as ‘populist’ as we explore below. Moreover, the development of social
+       media and ‘new’ communication patterns is considered particularly relevant in the
+       literature. This can be witnessed in research on the ‘echo chambers’ of digital com-
+       munication, for example (Bennett & Kneuer, 2024; Al Atiqi, 2023). It is argued that
+       citizens become increasingly trapped in closed, exclusive, and like-minded commu-
+       3 It is particularly important here the use of ‘affective polarisation’, which is the type of political polari-
+        sation that is more frequently associated with different social and democratic ills. However, separating
+        the cognitive/ideological components of polarisation and the emotional/affective ones risks artificially
+        separating two processes that go hand in hand, as previous literature has shown (see Simon et al., 2019).
+        Indeed, within the polarisation literature, the link between ideological and affective polarisation has been
+        consistently shown (Hernández et al., 2021; Orr et al., 2023). Furthermore, as stated by literature in social
+        psychology, collective coordination in at least some values, beliefs or ways of life is a precondition for
+        group formation in our societies (Quayle, 2025; Smith et al., 2024). Thus, what the polarisation narrative
+        interprets as ‘tribalism’ or an irrational defence of a group or a political party driven by loyalty, is often
+        actually driven by value-based, ideological or policy-based disagreements (Orr et al., 2023).
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+       A critique of the polarisation narrative: expanding the limits of… Page 5 of 21 5
+                                                             
+       nities, an aspect that can lead to the narrowing and radicalisation of their opinion and
+       worldview. For example, respondents in the U.S. claim to experience more negative
+       emotions towards those in distant ideological positions than in the time of Almond
+       and Verba’s book (1963) (see Iyengar et al., 2019; Druckman et al., 2022).
+         Yet, we contend that the current focus on polarisation is hyped, and that the prem-
+       ises and normative implications underlying this focus and research agenda are often
+       insufficiently examined and clarified. While polarisation may play a role in illuminat-
+       ing some political trends, its uncritical use often exaggerates its novelty, significance
+       and spread and in turn obscures other trends or issues. We understand ‘hype’ the way
+       Glynos and Mondon (2019) defined it with regards to populism:
+         ‘The term “populist hype” captures the way politicians, as well as journalists and
+       academic commentators: (1) exaggerate the significance of populism through the
+       sheer volume of content devoted to its discussion; (2) present a simplistic picture of
+       the “rise” of populism (with that “rise” feeding and legitimizing the hype) …; and
+       (3) exaggerate the political and societal impact of populism per se (to the detriment
+       of the substantive ideologies of different populist actors), usually by characterizing
+       populism as such as an acute threat to democracy (Goyvaerts et al., 2024, p. 532)’.
+         Therefore, by polarisation hype, we do not argue that the use of the term itself
+       is automatically useless, problematic, or even an exaggeration in precise and thor-
+       ough discussion and analysis, but that its careless overuse is unhelpful if it obscures
+       other political processes. This is therefore similar to populist hype, where the threat
+       of populism takes the shape of populist leaders followed by gullible peoples who
+       threaten the liberal status quo by portraying the world in a Manichean and captious
+       manner (see Roch, 2024 for a critique). To put it simply, anti-populist discourse sug-
+       gests that populists lie or manipulate citizens and distort normal information flows
+       that are the basis for a healthy public sphere in liberal democracies. Populism is thus
+       often described as a viral disease that spreads and gradually infects democracy with
+       its symptoms (Taggart, 2004; Müller, 2016; Serrano Zamora, 2022).
+         While populism remains ubiquitous in public discourse in the 2020 s, we argue
+       that it has become complemented with the polarisation narrative, both aiming to cap-
+       ture key threats to liberal democracy. Echoing research on the use of populism in the
+       media and academia (Brown & Mondon, 2020; Hunger & Paxton, 2021), a study
+       of the media’s use of the term polarisation in Spain (Porto Requejo, 2023) noted ‘a
+       possible abuse of the term by the media’ and confirmed the word polarisation as a
+       keyword, which plays an essential role in political and media discourse and helps to
+       define the current social and cultural context’. Interestingly, the most frequent meta-
+       phors associated with the term polarisation in the media are those of disease and virus
+       (p. 236). Therefore, building on the disease metaphor, the category of populism has
+       served as a first warning to drive out the ‘savage other’ that came to infect us with
+       their populist ideology, while the category of polarisation assumes that ‘the other’
+       has already infected us: as citizens or as a political system, we are all polarized to a
+       greater or lesser degree. The solution is no longer as simple as expelling the ‘popu-
+       lists’, but rather to be found in the need for de-radicalisation of political demands and
+       the return towards more consensual politics.          
+                                                             
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+        5  Page 6 of 21                         J. Roch et al.
+       Decoupling polarisation from a harmful polarisation narrative
+                                                             
+       We argue that, much like populism, polarisation, as a concept carefully defined and
+       applied, can shed some light on the state and evolution of inter-group relations. Along
+       these lines, there are different – though minoritarian – contributions within the polari-
+       sation literature that understand and analyse the latter as a process that is linked to
+       broader historical, socioeconomic, and political dynamics (e.g. Balinhas & Tileaga,
+       2025; Comellas and Torcal, 2025; Roch, 2025; Hübscher et al., 2023; Röllicke, 2023;
+       Rothers, 2025). Among these contributions, Smith et al.’s (2024) approach envisages
+       polarisation as a process that emerges through communication and the cut and thrust
+       of social interaction. They argue that it is through everyday human interaction that
+       shared beliefs, emotions and common ways to act upon the world come together to
+       (re)produce group identities with political significance. These opinion-based groups
+       and identities become meaningful through a differentiation with perceived outgroups
+       whose values or beliefs are seen as incompatible.     
+         This process of inter-group differentiation, usually involving both value-based
+       (i.e. ideological, issue-based) and affective polarisation constitutes a foundation for
+       citizens’ collective engagement and collective action (Simon et al., 2019; Smith et al.,
+       2024). Bearing this in mind, it is not surprising that negative inter-group emotions are
+       common individual-level predictors of collective action, or that more recently, affec-
+       tive polarisation has been found to be a predictor of collective action too (Bettarelli et
+       al., 2022). Following this rationale of polarisation as a process, ‘polarisation’ would
+       not be in and of itself a societal problem, but a social-psychological process that
+       underpins group creation and the struggles of particular groups to produce some sort
+       of social change. This change, depending on the substantive contents of the ‘pola-
+       rising’ political actors, could lead to more inclusive and democratic societies and
+       thereby, to democratic expansion, or to more exclusive societies and thus to demo-
+       cratic erosion. Therefore, the normative value of specific instances of ‘polarisation’
+       needs to be evaluated in context, not as an abstract moral category that is to blame for
+       the different problems that liberal democracies are experiencing.
+         Yet the widespread use of the term by academics, media, politicians and pundits
+       has contributed to the reification of the concept of polarisation, which is now com-
+       monly treated as an objective feature of our political era and assumed to be inher-
+       ently detrimental to democracy – despite the fact that empirical evidence linking
+       polarisation to democratic erosion remains inconclusive (see Broockman et al., 2023;
+       Voelkel et al., 2023). Mainstream polarisation literature treats polarisation as a static,
+       a-contextual and self-contained problem, which is often framed as a threat to demo-
+       cratic stability, normally citing low-intensity examples such as institutional gridlock
+       and high-intensity examples implying the erosion of democratic norms (Arbatli and
+       Rosenberg, 2021; Piazza, 2023). These approaches create an illusion of explanation
+       for democratic backsliding, ignoring other, more significant processes at play.
+         This is why we argue that the wider, broad-brush use of ‘polarisation’ is not only
+       inaccurate but prevents a serious analysis of the state of democracy today and its
+       current shortcomings, instead serving to legitimise and reinforce the existing liberal
+       order (see Druckman et al., 2022; Casal Bértoa and Rama, 2021). In the following
+       sections, we unpack the key concepts and implications embedded in the polarisation
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+       A critique of the polarisation narrative: expanding the limits of… Page 7 of 21 5
+                                                             
+       narrative, with particular attention to the notions of democracy, political parties, and
+       the public sphere.                                    
+       Polarisation and democracy                            
+                                                             
+       The fear of the masses and the polarisation narrative 
+                                                             
+       The role of ‘the people’ in the quasi-democracies of the late nineteenth and early
+       twentieth centuries was highly contested. While the nascent liberal elite had played
+       a central role in the various revolutions and reforms which took place from the eigh-
+       teenth century in wresting power away from the arbitrary rule of absolute monarchs
+       and emperors, as well as religious institutions, they remained broadly suspicious of
+       ‘the people’ as a whole and feared the power of the masses (Wood, 2012, 2016). The
+       latter was characterised by leading thinkers as atavism and uncontrolled emotional-
+       ity, thus provoking individuals’ descent into irrationality (Le Bon, 1963 [1895]). This
+       explains why the rise of the mass party, which facilitated the entry of ‘the people’ in the
+       bourgeois political structures, was often considered as disrupting (see, for instance,
+       Ostrogorsky, 1902). For obvious reasons, the demands of the masses clashed directly
+       with those of the capitalist class, as the former demanded the rights promised by the
+       revolutions and reforms to be enacted and expanded rather than vaguely gestured at.
+       Rather than acknowledging the deeply undemocratic nature of the bourgeois liberal
+       democratic settlement, the problem was pinned on ‘the people’ who disturbed sen-
+       sible, rational deliberation processes. Wealth and science became the replacement
+       for the arbitrary power of the old regimes based on blood and/or religion (Rancière,
+       2007). A ‘semi-sovereign people’ (Mair, 2006) were given some say, but ultimately
+       were expected to peacefully submit to the will of those who know and must lead.
+       With the fall of the Soviet bloc and the apparent ‘end of history’, it seemed that peace
+       had been reached at last. Mass parties and class mobilisation fell into irrelevance,
+       and ‘the people’ could turn to depoliticised consumption and individual fulfilment.
+       What we saw emerging was ‘a notion of democracy that is being steadily stripped of
+       its popular component—democracy without a demos’ (Mair, 2006). Politics and its
+       antagonism were no longer useful, all that was needed was policing, that is, manag-
+       ing the status quo (Rancière, 1996). This was short-lived, and cracks soon appeared
+       in the post-political order as ‘really existing liberalism’ (Finlayson, 2012) failed to
+       fulfil the aspirations of the people and capitalism their basic needs, let alone hopes.
+       At first, the backlash was mistaken, consciously or not, as ‘populism’ as discussed
+       in the previous section. We argue here that the polarisation narrative indicates more
+       precisely than the populism one what its virtuous opposite is and how we should deal
+       with the ‘disease’. According to this narrative, the main problem of modern represen-
+       tation is the lack of or departure from ‘reasonable’ deliberation and decision-making:
+       there is too much politics and not enough police (Rancière, 1996). Deliberation can
+       be understood as the process by which various actors enter into a creative discussion
+       through the use of persuasion and agreement (see Habermas, 1984; Manin, 1997;
+       198; Risse, 2000). Polarisation prevents this and this oft-considered pillar of mod-
+       ern representation must be recovered: we must learn to deliberate again and act like
+       grown-ups, something which is also core to anti-populist discourse. To achieve this,
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+        5  Page 8 of 21                         J. Roch et al.
+                                                             
+       the typical advice for ensuring good deliberation is depersonalization and discussion
+       about concrete and limited matters. This implies, on one side, a compromise to stay
+       away from more ideological and systemic arguments, and on the other, striving for
+       conciliation and consensus. In a nutshell, politicians and citizens must change their
+       language and deliberate about public policies rather than confront divergent identities
+       and ideologies (Miller, 2023; Torcal, 2023).          
+                                                             
+       The ‘good old times’ of deliberation: rational citizens or silent,
+       depoliticised citizens?                               
+                                                             
+       The polarisation narrative urges an individual exercise of self-correction and toler-
+       ance to increase deliberative capacity (Orriols, 2023, p. 126). This idea has become
+       increasingly common as a trope in liberal circles, as exemplified by popular media
+       gimmicks such as the Guardian’s ‘Dining across the divide’ series and its tagline:
+       ‘Can breaking bread together help bridge political differences?’4 However, this view
+       rests on overly simplistic assumptions, as the emphasis on individual virtues as a
+       remedy for polarisation overlooks—or intentionally obscures—the deeper political
+       dynamics and structural contradictions at play.       
+         Yet arguments around the need to overcome polarisation and return to a state of
+       depoliticised management of democracy are widespread and powerful. President
+       Joe Biden’s election speech in 2020 was a model in this sense as he pledged ‘to be
+       a president who seeks not to divide but to unify’,5 contrasting with the polarising
+       politics of Trump. Biden went on to read from the polarisation playbook, stating
+       that ‘It’s time to put away the harsh rhetoric. To lower the temperature. To see each
+       other again. To listen to each other again … To make progress, we must stop treating
+       our opponents as our enemy. We are not enemies. We are Americans’. The African
+       American community got a special mention for ‘[standing] up again for [Biden]’, yet
+       this was qualified by the newly elected president, who thanked absolutely everyone
+       for his election: ‘I am proud of the coalition we put together, the broadest and most
+       diverse in history. Democrats, Republicans, and independents … Progressives, mod-
+       erates, and conservatives. Young and old. Urban, suburban, and rural. Gay, straight,
+       transgender. White. Latino. Asian. Native American’. In his attempt at reconciliation
+       and national healing, Biden lumped together the many communities at the sharp end
+       of Trump’s politics with those who had supported said exclusionary politics. While
+       it may have sounded reassuring after the first Trump presidency to those who had
+       not been directly affected, it proved incredibly misjudged in hindsight, considering
+       the events of 6 January 2021 and the storming of the Capitol by a mob encouraged
+       by Trump, who had clearly no care for democracy, healing, or deliberation. Worse,
+       the lead-up to the 2024 election has shown that Biden’s reconciliatory approach did
+       4 See the section of the Guardian ‘Dining across the divide. Can breaking bread together help bridge
+        political differences?’ h t t p s : / / w w w . t h e g u a r d i a n . c o m / l i f e a n d s t y l e / s e r i e s / d i n i n g - a c r o s s - t h e - d i v i d e.
+       5 See the article ‘‘This is the time to heal’: Joe Biden addresses Americans in election victory speech’, 8
+        November, 2020, h t t p s : / / w w w . t h e g u a r d i a n . c o m / u s - n e w s / 2 0 2 0 / n o v / 0 7 / j o e - b i d e n - s p e e c h - u s - e l e c t i o n - w i n
+        - k a m a l a - h a r r i s.                         
+                                                             
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+       A critique of the polarisation narrative: expanding the limits of… Page 9 of 21 5
+                                                             
+       nothing to appease Trump and his supporters or address their increasingly far-right
+       politics and positioning.                             
+         Similar arguments to Biden’s have been made with regards to the rise of far right
+       politics in Europe. This was particularly explicit in France after President Emmanuel
+       Macron called a snap election following the Rassemblement National victory in the
+       2024 European Elections. The president’s strategy was to equate both the far-right
+       party and the new popular union on the left (which spanned all parties from the
+       centre left —including Francois Hollande, hardly a revolutionary— to the far left)
+       as two sides of the same polarising coin. The line was even pushed by the French
+       male football team’s captain Kylian Mbappé during the Euros, as he asked for French
+       people to vote ‘against the extremes’ as if a moderate social democratic programme
+       was equivalent to a far right one.6 In the United Kingdom, Sir Keir Starmer ran a
+       campaign based on his record of purging his party and programme of any trace of lef-
+       twing politics: ‘Labour is for everyone’ but, as his record in government has shown,
+       mostly right-wing voters, regardless of their views, demands, and the threats they
+       pose to many communities Labour should protect.7      
+         What has become clear with this narrative is that more often than not, and even
+       though false equivalences are created between the left and the far right, it is the
+       former that ends up being painted as the real threat, while the latter can be accom-
+       modated. This could be seen in calls for Prime Minister Giorgia Meloni and Macron
+       to overcome their differences and ‘join forces to save Europe’ and for ‘Centrists and
+       pragmatic right-wing parties could at least compromise on the most urgent global
+       threats’.8 This opinion piece in the Guardian is particularly symptomatic of the stage
+       of mainstreaming of far-right politics we have now reached (Brown, 2024; Newth et
+       al., 2025). Not only is Meloni’s far-right party, which not so long ago boasted about
+       its fascist roots (Brown & Newth, 2024), euphemised as a ‘pragmatic right-wing’
+       party, but it is welcomed as a solution to polarisation, the very crisis invented to
+       exclude the far right originally. The mask fully slips in the conclusion: ‘As the Euro-
+       pean elections become polarised, could it be a post-ideological compromise instead
+       that benefits voters by driving the next round of European integration?’. A similar
+       move was witnessed as Starmer praised Meloni’s handling of immigration.9 This has
+       made it all too clear that the problem was never polarisation or even far-right politics,
+       6 See the article ‘France captain Kylian Mbappé urges vote against rising ‘extremes’ in election’, 17 June,
+        2024, h t t p s : / / w w w . t h e g u a r d i a n . c o m / f o o t b a l l / a r t i c l e / 2 0 2 4 / j u n / 1 7 / k y l i a n - m b a p p e - f r e n c h - e l e c t i o n - c o m m e
+        n t - e u r o - 2 0 2 4 - f r a n c e - v o t e - a g a i n s t - e x t r e m e s.
+       7 See the article ‘It’s time to end the UK’s divisions: Labour is for everyone’, 4 May 2024:
+       h t t p s : / / w w w . t h e g u a r d i a n . c o m / p o l i t i c s / a r t i c l e / 2 0 2 4 / m a y / 0 4 / i t s - t i m e - t o - e n d - t h e - u k s - d i v i s i o n s - l a b o u r - i s - f o
+       r - e v e r y o n e.                                  
+       8 See the article ‘Macron and Meloni appear poles apart – but what if they joined forces to save Europe?’,
+        6 June 2024.                                         
+       h t t p s : / / w w w . t h e g u a r d i a n . c o m / c o m m e n t i s f r e e / a r t i c l e / 2 0 2 4 / j u n / 0 6 / m a c r o n - a n d - m e l o n i - a p p e a r - p o l e s - a p a r
+       t - b u t - w h a t - i f - t h e y - j o i n e d - f o r c e s - t o - s a v e - e u r o p e.
+       9 See the article ‘Starmer ‘very interested’ in Italy’s plan to offshore asylum applications in Albania, says
+        Meloni – as it happened’, 16 September 2024, h t t p s : / / w w w . t h e g u a r d i a n . c o m / p o l i t i c s / l i v e / 2 0 2 4 / s e p / 1 6 / k
+        e i r - s t a r m e r - g i o r g i a - m e l o n i - i m m i g r a t i o n - u k - p o l i t i c s - l i v e.
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+        5  Page 10 of 21                        J. Roch et al.
+                                                             
+       but the challenge to the status quo. If the former accepts not to threaten the latter and
+       politicisation is put back in its box, all is well.   
+         Hence, the polarisation narrative conceals that the problem of deliberation is more
+       complex than simply allowing technocratic politicians who see their role as managers
+       of democracy to get on with their job. If we look beyond the current hype surround-
+       ing polarisation, we do not uncover a previously deliberative subject silenced by
+       recent divides. Rather, we find a subject that had long remained unheard—excluded
+       from the public sphere, where access to traditional media was historically uneven,
+       obstructed by structural barriers and powerful gatekeepers. The heyday of democracy
+       was not a society where consensus was politely found on key issues, as proponents
+       of the polarisation narratives argue, but one where ideas were contested radically.
+       The aim was not to search for a middle ground, but for a better society, whatever that
+       meant for the proponents. Grown-up deliberation is not a testament to the quality of
+       the democratic workings, but rather a clear sign of the depoliticisation of the people
+       and public arena.                                     
+         The mainstream polarisation narrative, therefore, does not aim to bring us back to
+       a state of democratic engagement, but rather it serves to protect the liberal hegemony
+       by defusing any attempt at challenging it through repoliticisation. This takes place
+       through a dual movement. First, it posits liberalism as a bulwark against the far right
+       as the historical threat to what is good, building on the trauma of the Second World
+       War and the historiography which constructed the west and liberalism as the saviour,
+       ignoring their complacency and complicity in the rise of fascism and other atrocities
+       both preceding and following it (Mondon, 2024). Second, it prevents any discussion
+       of alternatives on the left by creating a horseshoe theory whereby the threat posed by
+       the left, no matter how moderate, is considered as equally dangerous or unrealistic
+       as that posed by the far right. We argue that this leads to a mainstreaming of far-right
+       politics through its equation with the left, as it becomes posited as an alternative to
+       a deeply distrusted status quo and euphemised and legitimised by populist hype in
+       particular. Therefore, in these circumstances, the threat to democracy is not polarisa-
+       tion in and of itself, but the use of the concept to flatten opposition to really existing
+       liberalism and prevent an open political discussion of the state of polycrisis.
+       Polarisation and political parties: On partisan (mis)perceptions, the
+       symmetry of intolerance thesis and its alleged solutions
+       Now that we have outlined some issues at the broadest level (democracy), we turn to
+       a more precise focus on parties and supporters. While many of the elements discussed
+       here relate directly to the previous section, this level plays a particular role in limit-
+       ing both the understanding of democracy to and within electoral systems and, even
+       further, to only some views and actors within said system.
+         Partisanship, that is, individuals’ identification with a political party, is one of
+       the core concepts around which the affective expression of polarisation (i.e. affec-
+       tive polarisation) is based, at least in the key literature. By this token, Iyengar et al.
+       (2012, p. 407), based on the US context, contend that ‘the mere’ act of identifying
+       with a political party is enough to prompt negative feelings towards the out-party. In
+                                                             
+                                                             
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+       A critique of the polarisation narrative: expanding the limits of… Page 11 of 21 5
+                                                             
+       the same vein, Torcal (2023) argues that parties generate mega-identities that blur
+       the rational view of voters. Partisanship would involve both an instrumental (i.e.
+       rational) and an expressive (i.e. emotional) component (Huddy, Mason and Aarøe,
+       2015; Hartman et al., 2022). On the one hand, the instrumental component is marked
+       by individual evaluations regarding whether parties’ proposals might be congruent
+       with their interests and principles. On the other, the expressive component envis-
+       ages partisanship as a subjective sense of belonging that implies the search for posi-
+       tive differentiation of the in-group -party in this case- from the out-groups (Tajfel &
+       Turner, 1979). Individuals, due to this subjective sense of belonging and an inter-
+       nalised attachment to a party/group, would strive to protect and achieve a positive
+       ingroup status.                                       
+         Thus the polarisation narrative generally mobilises a notion of partisanship as a
+       source of biases, nourished and spread by new communication paradigms and social
+       networks’ algorithms that foster the creation of echo chambers, and privilege highly
+       negative, confrontative, and emotionally charged communication. Furthermore, this
+       is incentivised by the increasingly uncivil behaviour of the political elites, who seem
+       to be motivated to foster a ‘tribalist’ defence of their party organisations. Following
+       this rationale, negativity towards a political outgroup would stem from biased percep-
+       tions and meta-perceptions (Moore-berg et al., 2020; Druckman et al., 2022).10 That
+       is, a good deal of the political polarisation we are currently witnessing would stem
+       from entrenched party identities and an almost irrational defence of the ingroups.
+       By this token, Torcal (2023) talks about party supporters becoming ‘hooligans’ and
+       Mason (2015) talks about ‘uncivil agreement’ in order to express the idea that current
+       levels of political conflict and affective polarisation have weak correlations to ‘sub-
+       stantive’ ideological or policy-based differences (see also Svolik, 2019).
+         Additionally, party supporters on both sides of the ideological spectrum with the
+       most inaccurate misperceptions and meta-perceptions of the ‘political others’ would
+       be precisely those more politically active, and those that locate themselves closer to
+       the ideological extremes of the left-right continuum, thereby being the ones whose
+       contribution to the lack of political compromise and the decreasing quality of deliber-
+       ation and consensual politics is larger. Contrarily, those with more moderate ideologi-
+       cal positions seem to hold weaker biases, so they can ‘judge’ better. Linking this with
+       the moral panics that tend to follow polarisation studies, ‘radicals’ on both the left
+       and the right are putting in jeopardy some of the mainstays of (liberal) democracy.
+         Departing from these conceptions of political parties and partisanship, de-polari-
+       sation is deemed as both necessary and based on the principles of intergroup contact
+       (Allport, 1954), as it can lead to de-biasing and improving the quality of delibera-
+       tion. Dining across the divide, having a beer with a supporter of a political group
+       we disagree with, fostering civil conversations between people with opposite views,
+       the search for compromises, and the public performances of warmth between party
+       elites are all examples of different types of contact which would help ‘de-polarise’.
+       Furthermore, the political discourse of party elites in campaigning or public debates
+       10 In psychology, metaperceptions refer to how people think others perceive them. Applied to political
+       groups, it means how members of one political group believe others—whether from opposing groups or
+       the general public—view their group.                  
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+        5  Page 12 of 21                        J. Roch et al.
+                                                             
+       is deemed crucial to revert polarisation and the dominant literature on the topic rec-
+       ommends a focus on public policy rather than to refer to identities grouping political
+       preferences (Miller, 2020, 2023).                     
+         While this conceptual framework has certain merits—since civility and dialogue
+       between opposing ideological views are not inherently negative—it also presents fun-
+       damental shortcomings and implicitly (re)produces underlying ideological assump-
+       tions. Among them, the polarisation narrative tends to presuppose that there is a
+       ‘correct’ and ‘accurate’ way to perceive a social or political group and its ideological
+       values. Even more problematic, it claims that there is an intrinsic negative potential
+       in the passionate engagement with collective action and the feeling of belonging to
+       an in-group. It thus disincentivises collective actor engagement, which has been one
+       of the pillars of democratic expansion.               
+         Under the polarisation narrative, groups and political parties, in particular, are
+       seen in their limited role as an aggregation of individual preferences. Mobilising
+       collective identities is seen as potentially dangerous and a distortion of good poli-
+       tics (Miller, 2023). Thus, a political party in its virtuous form must be a platform to
+       aggregate, simplify, organise, and communicate individual preferences; that is, to
+       facilitate social election by citizens (Kitschelt, 2004). This is why the polarisation
+       narrative recommends focusing aseptically on public policy, which is very limited in
+       its understanding of politics and power, while ignoring fundamental potentials of a
+       political party and, more generally, a political organisation or group, as well as their
+       impact on democracy.                                  
+         Therefore, the mainstream polarisation narrative overlooks fundamental facets of
+       party politics as vehicles of democratisation. First, it disregards the historical role of
+       party politics as collective organisations that have served to represent marginalised
+       voices and groups (Katz & Mair, 2014, p. 351). Second, party organisations are plat-
+       forms not only to represent but also to mobilise excluded groups and identities and
+       allow for their self-expression and self-organisation (Von Beyme, 1985, p. 16). In
+       fact, democratisation has been closely linked to the development of mass political
+       organisations, especially in the transition from the nineteenth to the twentieth cen-
+       tury. The departure from a restricted parliamentarism to party democracy (Manin,
+       1997) implied universal suffrage and the expansion of political participation. These
+       dynamics of social mobilisation and democratisation were based on a redefinition
+       and expansion of the “we”, the legitimate demos (Rancière, 1996, pp. 66–67), since
+       different narratives struggle to define how a given group ‘really’ is and how this
+       group and its demands should be treated (Tileaga, 2014).
+         Many contemporary political struggles are precisely struggles for hegemony in
+       which specific social representations of different political groups are at play. Conse-
+       quently, it is possible to identify a democratising polarisation that, by including and
+       bringing up new identities and cleavages (Lipset & Rokkan, 1990), or reactivating
+       old ones, increases both polarisation and paves the way for mass movements advo-
+       cating the expansion of democracy. Hence, the recommendations that are frequently
+       associated with the polarisation narrative to favour an aseptic and technocratic role
+       for a political party should be reconsidered. If we do not want to throw the baby out
+       with the bathwater, we need to identify, separate, and even defend the democratis-
+       ing polarisation of mass organisations. Of course, as already argued, this must be
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+       A critique of the polarisation narrative: expanding the limits of… Page 13 of 21 5
+                                                             
+       carefully distinguished from reactionary politics that indeed represent a reaction to
+       democratic expansion rather than a radical break from the status quo.
+                                                             
+       Polarisation, political participation, and the public sphere
+                                                             
+       As we have discussed above, the polarisation narrative emphasises the need for a
+       deliberative turn to counter the democratic decline in contemporary societies. But
+       how is such deliberation conceived? How are the subjects of deliberation and the
+       arena in which it takes place imagined? In the mainstream polarisation narrative,
+       political deliberation tends to be conceived as the rational and critical exchange of
+       information about public policy and the absence of identitarian markers or emotional
+       attachments (see Torcal, 2023; Miller, 2023). This view stems from the Habermasian
+       (1993[1962]) conception of the public sphere as the space mediating between state
+       and civil society, where matters of public concern are exposed and discussed from a
+       critical and deliberative standpoint. Departing from this reasoning, the polarisation
+       narrative identifies social conflict and emotional bonds as serious challenges for a
+       proper deliberation in the public sphere.             
+         Likewise, recent literature has turned its attention to the spread of disinformation
+       and fake news as one of the crucial threats to a healthy public sphere (Vallespín,
+       2021, p. 16; Bennett & Kneuer, 2024). Echo chambers would be the digital version of
+       the polarisation denounced by Habermas in the sixties, as they reproduce identitarian
+       bubbles in the digital space, separating individuals and preventing their communica-
+       tion and rational exchange. In responding to this narrative of polarisation, it is crucial
+       to first question the underlying assumption of a singular public sphere—one that
+       appears ‘out of the blue’ and is presumed to be neutral and symmetrical by nature.
+         The history of the public sphere is a history of exclusion and the construction of a
+       sphere of legitimation of the capitalist socioeconomic order. As Fraser put it (1990),
+       the ideal of the liberal public sphere as unified, transparent, and neutral is contested
+       by the disruption of multiple self-organised and alternative public spheres (see also
+       Thompson (1966 [1963], pp. 419–423). Therefore there have always been competing
+       public spheres derived from several exclusions and the attempt of appropriation of
+       the public sphere to legitimise the status quo. Importantly, the liberal public sphere,
+       since its inception, has had a class character facilitating coordination for market oper-
+       ations and expansion (see Negt & Kluge, 1993 [1972]). 
+         The second problem with the Habermasian conception of the public sphere is
+       related to the conditions of deliberation and whether it is desirable or even possible
+       to enter the public sphere bracketing previous social differences and social identities
+       related to status, class, or gender. According to Thompson (1966 [1963], p. 423),
+       the plebeian public spheres had a clear difference with respect to the liberal one.
+       The plebeian spheres were built around the commons, the interdependencies between
+       individuals in relation to their needs and values in life. Even before the socialist
+       movement began to grow on the basis of this type of plebeian associationism, the
+       Christian tradition had already hinted towards collectivism and concern for the life
+       conditions and identities of others. Hence, the neutral character of the liberal public
+       sphere is political and contingent on the particular interests of the dominant classes.
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+        5  Page 14 of 21                        J. Roch et al.
+                                                             
+         The question is whether we still have a restricted and exclusionary public sphere.
+       In contemporary liberal democracies, everybody can be potentially included in the
+       public sphere, or so we are told. Yet we argue that an asymmetry remains, and access
+       is in fact far from even, in terms of class and other elements of discrimination based
+       on entrenched power structures. As Raymond Williams explains, the history of the
+       media and public spheres can never be a decontextualized technical history. The vari-
+       ous media, artefacts, and technologies that serve to connect and integrate individuals
+       in a given society emerge in the historical context ‘of the general development of
+       the productive forces and of social orders and bonds’ (2005 [1980], pp. 37–39). In
+       this vein, the polarisation narrative tends to associate current problems exclusively
+       with characteristics of social media and ignores the fact that they have deeper roots
+       in the way the media landscape changed in the twentieth century. Core is the issue of
+       ownership concentration and the relationship between media and capital, first seen
+       in television and traditional mass media (see Bagdikian, 2004). This ownership con-
+       centration remains central in the age of digital media. Generally speaking, the turn to
+       the digital platform economy has led to an increased concentration of ownership of
+       digital communication flows (and all the associated economic and value production)
+       comparable to the era of the large television conglomerates (Thompson, 1998, p. 109;
+       Bagdikian, 2004; Cioffi et al., 2022).                
+         In addition to the property issue, not all sociopolitical groups have the same mate-
+       rial means, legitimacy, and capacity to spread and (re)produce narratives about how
+       society works, what the main problems are, and how we should face them. Some
+       needs/demands are given more space in the media, directly impacting policy priori-
+       ties. Meanwhile, the manifold subaltern subjects’ subjectivities, desires, and needs
+       can rarely be spoken for (Spivak, 1988), and when they are, it tends to be from the
+       lens of the privileged. Indeed, many struggles for equality and recognition (e.g. femi-
+       nism, antiracist or decolonial movements…), apart from fighting for equal access to
+       material means necessary for life, often incorporate a challenge to the ways histori-
+       cally disadvantaged and marginalised groups have been depicted.
+         Therefore, the desired goal of the mainstream polarisation narrative to guarantee
+       proper deliberation should require a deep analysis of the origins and nature of the
+       public sphere, which does not merely depend on the aggregated predispositions or
+       attitudes of individuals. It is necessary to include a proper account of the nature and
+       structure of the public spheres, how they are (re)produced in the first instance, and
+       if the current conditions allow for a proper democratic debate. In this context, it is
+       pertinent to question: Is deliberation and finding the ‘virtuous middle point’ desirable
+       when the public sphere and the opinions that are frequently heard and disseminated
+       are clearly skewed towards one side of the spectrum and an uncritical defence of the
+       status quo?                                           
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+       A critique of the polarisation narrative: expanding the limits of… Page 15 of 21 5
+       Expanding democracy: limits and alternatives to the polarisation
+       narrative                                             
+                                                             
+       Positive social change involving democratic expansion has usually been based on
+       the radical politicisation of oppressions that were deemed as normal or natural. Col-
+       lective action, as one of the main ways leading to positive social change (Reicher,
+       2012), is favoured by cognitive-ideological aspects such as the evaluation of specific
+       unjust situations. At the same time, situations of injustice often lead to feelings of
+       moral outrage and anger that are also key in motivating citizens to participate in
+       collective action (Simon, 2020; Van Zomeren et al., 2008). Collective action implies
+       the emergence of publicly recognised forms of conflict. In fact, political conflict and
+       polarisation have often been at the basis of the defence of democracy, which histori-
+       cally required an unequivocal denunciation of politics that curtail democracy itself or
+       the equal rights of some.                             
+         This is no less the case in a context of democratic struggle in capitalist societies in
+       which inequality, exclusion, and alienation are core to the system. The mainstream
+       polarisation narrative typically assumes a causal chain that begins with polarisation
+       and ends with democratic erosion, but this directionality is unconvincing. A more
+       plausible alternative is to consider the inverse: current levels of polarisation and con-
+       flict might be seen as a consequence – or perhaps both a cause and consequence – of
+       ongoing and historical democratic erosion under capitalism and more strongly under
+       its neoliberal mutation (Wood, 2016; Stavrakakis, 2018). The last decades of impo-
+       sition of the neoliberal logic within liberal democracies have led to an erosion of
+       sovereignty and equality, alongside the institutionalisation of dubiously democratic
+       practices since the 1970 s, and even more so since the 1990 s (Harvey, 2005).
+         During this period, polarisation has intensified, while fundamental rights like
+       access to housing, education, healthcare, or even the ‘right to the city’ no longer
+       guaranteed for expanding sectors of the citizenry (see Di Masso, 2012; Harvey, 2008;
+       Lefebvre, 1968; Moulaert et al., 2001). These inequalities tend to be ‘spatialised’,
+       often leading to socio-spatial segregation. Given these growing trends in inequality
+       and segregation, it should not be surprising that many are increasingly angry and
+       opposed to politics-as-usual. In other words, is it surprising that societies that have
+       become more unequal and fragmented are progressively becoming more – ideologi-
+       cally and affectively – polarised, especially when the different issues brought about
+       by this inequality and fragmentation become politicised (see Balinhas, 2023; Simon,
+       2020)? Is it surprising that already polarised societies in terms of their social organ-
+       isation provide a breeding ground for the emergence of political antagonism?
+         We argue that it is not, and more importantly, we contend that bottom-up polari-
+       sation can be positive for democracy. In other words, the ability for those excluded
+       to become vocal political subjects is essential in a democracy worthy of the name.
+       Hence, polarisation can be positive and is, in fact, unavoidable in our current predica-
+       ment. Yet it must not be seen a priori as a symmetrical continuum of positions on both
+       extremes, as it often implies an imbalanced struggle between those excluded sectors
+       and the dominant classes in capitalist societies. Mainstream understandings of polari-
+       sation force us instead to embrace the ‘horseshoe theory’ and tend to obscure this
+                                                             
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+        5  Page 16 of 21                        J. Roch et al.
+                                                             
+       imbalanced struggle between the many excluded and the few privileged by equating
+       them with the elitist and anti-democratic politics found on the far right.
+         A further twist that we need to add to this line of argument is that while processes
+       of democratic expansion, in their dynamics of contestation of the status quo tend to
+       require and/or produce at least some degree of polarisation, as is clear from historical
+       evidence on labour rights, racial/gender equality etc., democratic erosion does not
+       require conflict and polarisation. In this sense, the documented erosion of different
+       mainstays of liberal democracies in the west (e.g. equality, rights, people’s sover-
+       eignty) started and developed with special intensity from the 90 s onwards under rule
+       of centre-left and centre-right parties that embraced a consensus under an unques-
+       tioned neoliberal economic rationale – that is, a lack of polarisation – long before
+       so-called ‘populist’ parties grew in support (see Crouch, 2004; Mair, 2006). This
+       calls our attention to how ‘really existing liberalism’ (Mondon, 2024), through an
+       elite-level consensus, has been co-existing with dynamics of (post)colonialism, rac-
+       ism, and exclusion, as well as the limitation of people’s sovereignty in favour of
+       the market’s interests. It is thus precisely the neoliberal technocratic consensus and
+       lack of contestation which has brought us to the current point of mainstreaming of
+       reactionary politics and the politics of exclusion, and this is something that should be
+       considered before ahistorical and a-contextual calls for ‘depolarisation’ as a univer-
+       sally desirable policy goal.                          
+         What links instances of democratic backsliding in the west is not polarisation per
+       se, but a (neo)conservative backlash that capitalises on the broken promises of the
+       liberal status quo and the performance of really existing liberalism in the last decades.
+       Thus we argue that the essential question that researchers, journalists, and policy-
+       makers need to ask themselves is what political purposes polarisation serves, for
+       whom, and under what conditions. Understanding polarisation in this way enables us
+       to distinguish between democratic contestations of the status quo and anti-democratic
+       reactions, rather than collapsing both under the same label of ‘polarisation’. Often,
+       far from being the problem, polarisation may be a democratic necessity, a means
+       through which organized groups articulate alternatives and resist domination core to
+       a system that is often only democratic by name.       
+         Likewise, to equip ourselves for the necessary social conflict and politicisation in
+       democracy, we need to put forward alternative views on party and mass organisa-
+       tion as well as political communication in the public sphere, different from those
+       mobilised by the mainstream polarisation narrative. Reducing collective identity and
+       collective organisations, such as mass parties, to intrinsic hate-based feelings of in-
+       group/out-group relations serves to disarm popular classes in capitalist societies. For
+       the coordination of the many is absolutely necessary to build bridges and platforms
+       through big collective organisations, for instance, parties. In-group and out-group
+       distinctions are certainly intrinsic properties of mass party organisation, but they do
+       not necessarily imply hate or aggression; they may rather lead to the healthy and nec-
+       essary identification of those privileged groups extracting value and resources from
+       the many at the bottom.                               
+         What should be at the core of our reflections on the main challenges of democracy
+       and polarisation is not the need to individualise and undermine collective identities,
+       but the urgency to rethink democratic mass political organisations. Among the main
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+       A critique of the polarisation narrative: expanding the limits of… Page 17 of 21 5
+                                                             
+       obstacles in this endeavour are not in-group identities or feelings of belonging, but
+       undemocratic and rigidly hierarchical political organisations and politics. Certainly,
+       political struggle through ideological and affective polarisation is not without prob-
+       lems and potential dangers. Bonapartism and hierarchical organisational structures
+       can deviate, also on the left, towards unfruitful affective polarisation, propagating
+       hate based on identity, while ignoring the need for class-based, intersectional politi-
+       cal alliances and the structural underpinnings of political conflict. In fact, the basic
+       developments of capitalist societies in the last decades (marketisation, individual-
+       ism, rise of inequality) have paved the way for the superficial and undemocratic use
+       of politics. As a consequence, the personalisation and elitism of parties can lead to
+       the rise of harmful and unfruitful polarisation. In a similar vein, our participation
+       in the public sphere and social media is mediated by crucial structural transforma-
+       tions that we have described above. To face polarisation in the public sphere and its
+       impact on democracy, we argue that the first step must be to problematise property
+       relations and value extraction in the platform economy (Mau, 2019; Cini, 2023). It
+       is urgent to mobilise a deep reflection on ownership concentration and conditions for
+       the infrastructure of digital communication, as the main driver organising the pub-
+       lic sphere nowadays. Subsequently, we must address the various groups confronting
+       in the public sphere and distinguish between the powerful actors and those histori-
+       cally excluded from the public view in capitalist societies. These two elements must
+       precede further reflections on the ways to minimise aggressive contention, anger,
+       and distrust that permeate social media and, more generally, the public sphere. If
+       our main goal is to revitalise democratic mobilisation, we cannot lose sight of the
+       structural dynamics historically serving to extract value from the many and establish-
+       ing the infrastructural conditions for the production and reproduction of media. To
+       put it bluntly, regarding mass organisation and the digital public sphere, we contend
+       that political polarisation can be positive when embedded in a large-scale process
+       of democratic expansion. Accordingly, the mainstream polarisation narrative in the
+       terms in which it has been presented here functions rather as an ideological disposi-
+       tive to prevent such democratic expansion by disarming the people from the tools for
+       their self-emancipation: a structural and deep critique of social relations and large
+       platforms for self-expression and political organisation.
+       Author contributions J.R. developed the main idea and structure of the article as well as revised its overall
+       coherence. J.R. contributed to write the text, together with the other two authors, within the sections of the
+       article.D.B. contributed to write the text within the sections of the article. He also read the whole manu-
+       script and critically commented on it.A.M. contributed to write the text within the sections of the article.
+       He also read the whole manuscript and critically commented on it.
+       Funding The second author, Daniel Balinhas, was supported by the Irish Research Council (now Taighde
+       Éireann – Research Ireland) under grant number CHISTERA-CW68565 (CON-NET).
+       Data availability No datasets were generated or analysed during the current study.
+       Declarations                                          
+       Competing interests The authors declare no competing interests.
+                                                             
+                                                             
+                                                             
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+        5  Page 18 of 21                        J. Roch et al.
+       Disclosure statement No potential conflict of interest was reported by the author(s).
+                                                             
+       Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+       which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long
+       as you give appropriate credit to the original author(s) and the source, provide a link to the Creative
+       Commons licence, and indicate if changes were made. The images or other third party material in this
+       article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line
+       to the material. If material is not included in the article’s Creative Commons licence and your intended use
+       is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission
+       directly from the copyright holder. To view a copy of this licence, visit h t t p : / / c r e a t i v e c o m m o n s . o r g / l i c e n
+       s e s / b y / 4 . 0 / .                               
+       References                                            
+       Al Atiqi, M. (2023). Echo Chamber and Polarization in Social Media. An Agent-Based Modeling
+         Approach. Springer.                                 
+       Allport, G. W. (1954). The nature of prejudice. Doubleday.
+       Almond, G., & Verba, S. (1963). The Civic Culture: Political Attitudes and Democracy in Five Nations.
+         Princeton University Press.                         
+       Arbatli, E., & Rosenberg, D. (2021). United we stand, divided we rule: How political polarization erodes
+         democracy. Democratization, 28(2), 285–307. h t t p s : / / d o i . o r g / 1 0 . 1 0 8 0 / 1 3 5 1 0 3 4 7 . 2 0 2 0 . 1 8 1 8 0 6 8
+       Bagdikian, C. H. (2004). The New Media Monopoly. Beacon Press.
+       Balinhas, D. (2023). Bringing critical social psychology to the study of political polarization. Social and
+         Personality Psychology Compass, 17(1), e12721. https://doi.org/10.1111/spc3.12721
+       Balinhas, D., & Tileaga, C. (2025). Divided opinion: The interactional accomplishment of ideological
+         antagonism. Journal of Social and Political Psychology, 13(1), 132–154. h t t p s : / / d o i . o r g / 1 0 . 5 9 6 4 / j
+         s p p . 1 3 8 7 1                                   
+       Bennett, W. L., & Kneuer, M. (2024). Communication and democratic erosion: The rise of illiberal public
+         spheres. European Journal of Communication, 39(2), 177–196.
+       Bettarelli, L., Close, C., & Van Haute, E. (2022). Is protest only negative? Examining the effect of emo-
+         tions and affective polarization on protest behaviour. Politics and Governance, 10(4), 311–324.
+         https://doi.org/10.17645/pag.v10i4.5665             
+       Broockman, D. E., Kalla, J. L., & Westwood, S. J. (2023). Does affective polarization undermine demo-
+         cratic norms or accountability? Maybe not. American Journal of Political Science, 67(3), 808-828.
+         https://doi.org/10.1111/ajps.12719                  
+       Brown, K. (2024). Perceptions of the ‘mainstream’ and the mainstreaming of the far right: from Ed
+         Sheeran to Keir Starmer. Journal of Political Ideologies, 1–22. h t t p s : / / d o i . o r g / 1 0 . 1 0 8 0 / 1 3 5 6 9 3 1 7 .
+         2 0 2 4 . 2 4 0 8 2 4 1                             
+       Brown, K., & Mondon, A. (2020). Populism, the media and the mainstreaming of the far right: The guard-
+         ian’s coverage of populism as a case study. Politics, 41(3), 279–295.
+       Brown, K., & Newth, G. (2024). ‘Post-fascism’, or how the far right talks about itself: The 2022 Italian
+         election campaign as a case study. Critical Discourse Studies. h t t p s : / / d o i . o r g / 1 0 . 1 0 8 0 / 1 7 4 0 5 9 0 4 . 2 0
+         2 4 . 2 3 3 9 8 5 8                                 
+       Butler, J. (1993). Bodies that matter. Routledge.     
+       Casal Bértoa, F., & Rama, J. (2021). Polarization: What do we know and what can we do about it? Fron-
+         tiers in Political Science, 3, 687695.              
+       Cini, L. (2023). How algorithms are reshaping the exploitation of labour-power: Insights into the process
+         of labour invisibilization in the platform economy. Theory and Society, 52, 885–911. h t t p s : / / d o i . o r g
+         / 1 0 . 1 0 0 7 / s 1 1 1 8 6 - 0 2 3 - 0 9 5 2 0 - 9
+       Cioffi, J. W., Kenney, M. F., & Zysman, J. (2022). Platform power and regulatory politics: Polanyi for the
+         twenty-first century. New Political Economy, 27(5), 820–836.
+       Comellas, J. M., & Torcal , M. (2025). A longitudinal study on the dynamic relationship between affec-
+         tive polarization and radical right’s emergence: The case of VOX in Spain. Political Studies,
+         00323217251340890. https://doi.org/10.1177/00323217251340890
+
+[PAGE 19]
+                                                             
+                                                             
+                                                             
+       A critique of the polarisation narrative: expanding the limits of… Page 19 of 21 5
+       Di Masso, A. (2012). Grounding citizenship: Toward a political psychology of public space. Political
+         Psychology, 33(1), 123–143.                         
+       Druckman, J. N., Klar, S., Krupnikov, Y., Levendusky, M., & Ryan, J. B. (2022). (Mis)estimating affective
+         polarization. The Journal of Politics, 2022 84(2), 1106–1117.
+       Finlayson, L. (2012). The political is political. University of Cambridge.
+       Fraser, N. (1990). Rethinking the public sphere: A contribution to the critique of actually existing democ-
+         racy. Social Text No, 25/26, 56–80.                 
+       Glynos, J., & Mondon, A. (2019). The political logic of populist hype: The case of right-wing populism’s
+         ‘meteoric rise’ and its relation to the status quo. In P. CossariniF Vallespín (Ed.), Populism and
+         passions: Democratic legitimacy after austerity (pp. 82-101). Routledge Advances in Democratic
+         Theory, Routledge.                                  
+       Goyvaerts, J., Brown, K., Mondon, A., De Cleen, B., & Glynos, J. (2024). On the politics of ‘Populism’:
+         The case of populist hype. In G. Katsambekis, & Y. Stavrakakis (Eds.), Elgar research handbook
+         on populism (pp.527-539). Edward Elgar Publishing. https://doi.org/10.4337/9781800379695.00059
+       Habermas, J. (1984). The Theory of Communicative Action: Reason and the rationalization of society.
+         Beacon Press.                                       
+       Habermas, J. (1993). The Structural Transformation of the Public Sphere. An Inquiry into a Category of
+         Bourgeois Society. The MIT Press.                   
+       Hartman, R., Blakey, W., Womick, J., Bail, C., Finkel, E. J., Han, H., Sarrouf, J., Schroeder, J., Sheeran,
+         P., Van Bavel, J. J., Willer, R., & Gray, K. (2022). Interventions to reduce partisan animosity. Nature
+         Human Behaviour, 6(9), Article 9.                   
+       Harvey, D. (2005). A Brief History of Neoliberalism. Oxford University Press.
+       Harvey, D. (2008). The right to the city. New Left Review, 53, 23–40.
+       Hernández, E., Anduiza, E., & Rico, G. (2021). Affective polarization and the salience of elections. Elec-
+         toral Studies, 69, 102203. h t t p s : / / d o i . o r g / 1 0 . 1 0 1 6 / j . e l e c t s t u d . 2 0 2 0 . 1 0 2 2 0 3
+       Hübscher, E., Sattler, T., & Wagner, M. (2023). Does austerity cause polarization? British Journal of
+         Political Science, 53(4), 1170–1188. https://doi.org/10.1017/S0007123422000734
+       Huddy, L., Mason, L., & Aarøe, L. (2015). Expressive partisanship: Campaign involvement, political emo-
+         tion, and partisan identity. American Political Science Review, 109(1), 1–17.
+       Hunger, S., & Paxton, F. (2021). What’s in a buzzword? A systematic review of the state of populism
+         research in political science. Political Science Research and Methods, online first.
+       Iyengar, S., & Westwood, S. J. (2015). Fear and loathing across party lines: New evidence on group polar-
+         ization. American Journal of Political Science, 59(3), 690–707.
+       Iyengar, S., Sood, G., & Lelkes, Y. (2012). Affect, not ideology: A social identity perspective on polariza-
+         tion. Public Opinion Quarterly, 76(3), 405–431.     
+       Iyengar, S., Lelkes, Y., Levendusky, M., Malhotra, N., & Westwood, S. J. (2019). The origins and con-
+         sequences of affective polarization in the united States. Annual Review of Political Science, 22,
+         129–146.                                            
+       Katz, R. S., & Mair, P. (2014). [1995]) Changing models of Party Organization and Party Democracy: The
+         Emergence of the Cartel Party, in On parties, party systems and democracy: selected writings of Peter
+         Mair, edited by Ingrid van Biezen, pp.: 393–414, ECPR Press, Essex.
+       Kitschelt, H. (2004). Diversification and reconfiguration of party systems in postindustrial democracies.
+         Friedrich-Ebert-Stiftung.                           
+       Klein, E. (2020). Why We’re Polarized. Avid Reader.   
+       Kleinfeld, R. (2023). The literature on polarization (pp. 14–40). In Polarization, democracy, and political
+         violence in the United States: What the rese arch says. Carnegie Endowment for International Peace.
+         http://www.jstor.org/stable/resrep53058.6           
+       Laclau, E., & Mouffe, C. (1985). Hegemony and Socialist Strategy. Towards a Radical Democratic Poli-
+         tics. Verso.                                        
+       Le Bon, G. (1963). Psychologie des foules. Les Presses universitaires de. France.
+       Lefebvre, H. (1968). Le droit à La Ville. Anthropos.  
+       Lipset, S. M., & Rokkan, S. (1990). Cleavage Structures, Party Systems, and Voter Alignments, in Peter
+         Mair (Ed.) The West European Party System (Oxford: Oxford University Press, 1990), pp. 91–111.
+       Mair, P. (2006). Ruling the Void. New Left Review, 42, Nov/Dec.
+       Manin, B. (1997). The Principles of Representative Government. Cambridge University Press.
+       Mau, S. (2019). The Metric Society. On the quantification of the social. Polity Press.
+
+[PAGE 20]
+                                                             
+                                                             
+                                                             
+        5  Page 20 of 21                        J. Roch et al.
+       Miller, L. (2020). Polarización en España: más divididos por ideología e identidad que por políticas
+         públicas (EsadeEcPol Insight No. 18, pp. 1–14). EsadeEcPol. h t t p s : / / d o b e t t e r . e s a d e . e d u / e s / p o l a r i z
+         ac i o n - e s p a n a                              
+       Miller, L. (2023). Polarizados. La política que nos divide. Deusto.
+       Mondon, A. (2024). ‘Really existing liberalism, the bulwark fantasy, and the enabling of reactionary, far
+         right politics’, Constellations, online first.      
+       Moore-Berg, S. L., Hameiri, B., & Bruneau, E. (2020). The prime psychological suspects of toxic political
+         polarization. Current Opinion in Behavioral Sciences, 34, 199-204. h t t p s : / / d o i . o r g / 1 0 . 1 0 1 6 / j . c o b e h
+         a. 2 0 2 0 . 0 5 . 0 0 1                            
+       Moulaert, F., Swyngedouw, E., & Rodríguez, A. (2001). Social polarization in metropolitan areas: The role
+         of new urban policy. European Urban and Regional Studies, 8(2), 99–102.
+       Müller, J. W. (2016). What is Populism? University of Pennsylvania Press.
+       Negt, O., & Kluge, A. (1993). Public Sphere and Experience Toward an Analysis of the Bourgeois and
+         Proletarian Public Sphere. University of Minnesota Press.
+       O’Brian, Neil A.. (2024). The Roots of Polarization. From the Racial Realignment to the Culture Wars.
+         The University of Chicago Press.                    
+       Newth, G. H., Brown, K., & Mondon, A. (2025). Researching and Understanding Far-Right Politics in
+         Times of Mainstreaming. The Journal of Race, Ethnicity, and Politics. Online first.
+       Orr, L. V., Fowler, A., & Huber, G. A. (2023). Is affective polarization driven by Identity, Loyalty, or sub-
+         stance? American Journal of Political Science, 67(4), 948–962.
+       Orriols, L. (2023). Democracia de trincheras. Por qué Votamos a Quienes Votamos. Ediciones Península.
+       Ostrogorsky, M. (1902). Democracy and the Organization of Political Parties. Macmillan Co.
+       Piazza, J. A. (2023). Political polarization and political violence. Security Studies, 32(3), 476–504. h t t p s : /
+         / d o i . o r g / 1 0 . 1 0 8 0 / 0 9 6 3 6 4 1 2 . 2 0 2 3 . 2 2 2 5 7 8 0
+       Porto Requejo, M., & Dolores (2023). Polarización En periódicos españoles: Significado y contextos de
+         Uso. Cultura Lenguaje Y Representación, XXX, 223–242.
+       Quayle, M. (2025). Social identity networks: People holding attitudes are a collective social identity infor-
+         mation system and bipartite networks are a useful way to represent them. European Review of Social
+         Psychology, 1–66. h t t p s : / / d o i . o r g / 1 0 . 1 0 8 0 / 1 0 4 6 3 2 8 3 . 2 0 2 5 . 2 5 1 4 4 3 3
+       Rancière, J. (1996). Dis-agreement: Politics and Philosophy. University of Minnesota.
+       Rancière J. (2007) Hatred of Democracy. London: Verso.
+       Crouch C. (2004). Post-democracy. Cambridge: Polity Press.
+       Reicher, S. (2012). From perception to mobilization: The shifting paradigm of prejudice. In J. Dixon & M.
+         Levine (Eds.), Beyond prejudice: Extending the social psychology of conflict, inequality and social
+         change (pp. 27–47). Cambridge University Press. https://doi.org/10.1017/CBO9781139022736.003
+       Risse, T. (2000). Let’s Argue! Communicative action in world politics. International Organization, 54(1),
+         1–39. http://www.jstor.org/stable/2601316           
+       Roch, J. (2024). The Populism-Euroscepticism nexus. A Discursive Comparative Analysis of Germany and
+         Spain. Routledge.                                   
+       Roch, J. (2025). ¿Polarizados o paralizados? Surgimiento y transformaciones Del movimiento
+         democrático. Tecnos.                                
+       Röllicke, L. (2023). Polarisation, identity and affect—Conceptualising affective polarisation in multi-party
+         systems. Electoral Studies, 85, 102655. h t t p s : / / d o i . o r g / 1 0 . 1 0 1 6 / j . e l e c t s t u d . 2 0 2 3 . 1 0 2 6 5 5
+       Rothers, A. (2025). The Poles in polarization: Social categorization and affective polarization in multiparty
+         systems. Electoral Studies, 95, 102908. h t t p s : / / d o i . o r g / 1 0 . 1 0 1 6 / j . e l e c t s t u d . 2 0 2 5 . 1 0 2 9 0 8
+       Rudolph, T. J., & Hetherington, M. J. (2021). Affective polarization in political and nonpolitical settings.
+         International Journal of Public Opinion Research, 33(3), 591–606.
+       Serrano Zamora. (2022). Is populism a social pathology? The myth of immediacy and its effects. European
+         Journal of Social Theory, 25(4), 578–595.           
+       Simon, B. (2020). A new perspective on intergroup conflict: The social psychology of politicized struggles
+         for recognition. Theory & Psychology, 30(2), 147–163.
+       Simon, B., Reininger, K. M., Schaefer, C. D., Zitzmann, S., & Krys, S. (2019). Politicization as an anteced-
+         ent of polarization: Evidence from two different political and National contexts. British Journal of
+         Social Psychology, 58(4), 769–785. https://doi.org/10.1111/bjso.12307
+       Smith, L. G., Thomas, E. F., Bliuc, A. M., & McGarty, C. (2024). Polarization is the psychological founda-
+         tion of collective engagement. Communications Psychology, 2(1), Article 41. h t t p s : / / d o i . o r g / 1 0 . 1 0 3
+         8 / s 4 4 2 7 1 - 0 2 4 - 0 0 0 8 9 - 2             
+
+[PAGE 21]
+                                                             
+                                                             
+                                                             
+       A critique of the polarisation narrative: expanding the limits of… Page 21 of 21 5
+       Spivak, G. C. (1988). Can the subaltern speak? In P. Williams, & L. Chrisman (Eds.), Colonial discourse
+         and postcolonial theory (pp. 66–111). Harvester Wheatsheaf.
+       Stavrakakis, Y. (2018). Paradoxes of polarization: Democracy’s inherent division and the (anti-) populist
+         challenge. American Behavioral Scientist, 62(1), 43–58.
+       Svolik, M. W. (2019). Polarization versus democracy. Journal of Democracy, 30(3), 20–32.
+       Taggart, P. (2004). Populism and representative politics in contemporary Europe. Journal of Political
+         Ideologies, 9(3), 269–288.                          
+       Tajfel, H., & Turner, J. C. (1979). An integrative theory of intergroup conflict. In W. G. Austin, & S.
+         Worchel (Eds.), The social psychology of intergroup relations (pp. 33–47). Brooks/Cole.
+       Thompson, E. P. (1966). The Making of the English Working Class. Vintage Books.
+       Thompson, J. B. (1998). Los media y La Modernidad. Una Teoría de Los medios de Comunicación. Paidós.
+       Tileaga (2014). Prejudice as Collective Definition: Ideology, Discourse and Moral Exclusion. In: Antaki,
+         C. and Condor, S. (eds.) Rhetoric, ideology and social psychology: Essays in honour of Michael Bil-
+         lig (pp. 71-82). Routledge.                         
+       Torcal, M. (2023). De votantes a hooligans. La polarización política en España. Catarata.
+       Vallespín, F. (2021). La sociedad de La intolerancia. Galaxia Gutenberg.
+       Van Zomeren, M., Postmes, T., & Spears, R. (2008). Toward an integrative social identity model of collec-
+         tive action: A quantitative research synthesis of three socio-psychological perspectives. Psychologi-
+         cal Bulletin, 134(4), 504.                          
+       Voelkel, J. G., Chu, J., Stagnaro, M. N., Mernyk, J. S., Redekopp, C., Pink, S. L., ... & Willer, R. (2023).
+         Interventions reducing affective polarization do not necessarily improve anti-democratic attitudes.
+         Nature human behaviour, 7(1), 55-64. https://doi.org/10.1038/s41562-022-01466-9
+       Von Beyme, K. (1985). Political Parties in Western Democracies. Palgrave Macmillan.
+       Williams, R. (2005). Culture and materialism. Verso. (Original work published 1980)
+       Wood, E. M. (2012). Liberty and Property: A Social History of Western Political Thought from the Renais-
+         sance to Enlightenment. Verso Books.                
+       Wood, E. M. (2016). Democracy Against Capitalism: Renewing Historical Materialism. Verso Books.
+       Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps
+       and institutional affiliations.                       
+       Juan Roch is assistant professor of political science at National University of Distance Education (UNED,
+       Madrid). His research interests focus on populist and nationalist discourses, the crises of the European
+       Union, and the study of legitimacy in contemporary liberal democracies. He is author of the books. The
+       Populism-Euroscepticism Nexus: A discursive comparative analysis of Germany and Spain (Routledge,
+       2023) and ¿Polarizados o paralizados? Surgimiento y transformaciones del movimiento democrático
+       (Tecnos, 2025).                                       
+       Daniel Balinhas is postdoctoral researcher in social psychology at Limerick University. His work focuses
+       on intergroup processes and conflict, political polarization, and the study of social forces that produce,
+       develop, and sustain group-based inequalities.        
+       Aurelien Mondon is a Professor of Politics at the University of Bath and co-convenor of the Reaction-
+       ary Politics Research Network. His research focuses predominantly on the mainstreaming of reactionary
+       politics through elite discourse. He is the author of The Mainstreaming of the Extreme Right in France
+       and Australia: A Populist Hegemony? (2013) and co-author of Reactionary democracy: How racism and
+       the populist far right became mainstream (2020) with Aaron Winter. He is the co-editor of After Charlie
+       Hebdo: Terror, racism and free speech (2017) and The Ethics of Researching the Far Right (2024).
+                                                             
+                                                             

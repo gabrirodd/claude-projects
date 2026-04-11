@@ -1,0 +1,72 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "mendez_oberprantacher_2025",
+  "title": "Subaltern silence: A postcolonial genealogy [Book Review]",
+  "author": "Mendez, Oberprantacher",
+  "year": 2025,
+  "journal": "Contemporary Political Theory",
+
+  "opening_move": {
+    "type": "polemical_intervention",
+    "description": "The review opens with Olson's concluding claim that subaltern silence is ubiquitous in the contemporary world, using Mbembe's 'Becoming Black' to establish the stakes: subalternity is not an elsewhere but a present condition.",
+    "anchored_in": ["Olson", "Mbembe", "Spivak"],
+    "stakes_claimed": "How to articulate silence without muting it — the paradox of speaking for/with subalterns without ventriloquism"
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["Olson's book (primary)", "abstraction of Haiti into theoretical model"],
+    "engagement_structure": "immanent_critique",
+    "immanent_critique": true,
+    "own_position_type": "external_alternative",
+    "own_position_explicit": true,
+    "description": "The review endorses Olson's genealogical project but raises a tension: his focus on Haiti-as-paradigm risks abstracting a specific historical-political site into a general theoretical model, suppressing its own epistemic complexity."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_interpretive_case",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "postcolonial genealogy; close reading of Olson and Spivak",
+    "notes": "Book review genre. The central tension raised (paradigm case vs. dynamic historical site) is the reviewers' independent critical contribution."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "historical_event",
+    "case_name": "Saint-Domingue/Haiti (1685-1861); Olson, Subaltern Silence (2024)",
+    "case_function": "primary_object_of_analysis",
+    "case_relation_to_argument": "object_of_interpretation",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "medium",
+    "domain": "postcolonial theory / democracy / recognition",
+    "claim_type": "critical_diagnostic",
+    "closure_type": "open_ended_with_burden_on_reader"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "case_introduction",
+    "genealogical_reconstruction",
+    "immanent_critique",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["subaltern silence", "postcolonial genealogy", "subalternity", "ventriloquism", "marronage", "modes of subordination"],
+
+  "thinkers_deployed": {
+    "central": ["Olson", "Spivak", "Mbembe"],
+    "engaged_critically": ["Olson"],
+    "referenced_only": ["Soulouque", "Haitian revolutionary figures (implicit)"]
+  },
+
+  "confidence_notes": "Book review genre with substantive immanent critique. The reviewers' concern about theorising from Haiti is the distinctive contribution."
+}

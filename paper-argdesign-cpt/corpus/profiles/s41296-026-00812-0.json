@@ -1,0 +1,75 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "sabsay_2026",
+  "title": "The political aesthetics of cruelty: contemporary authoritarian politics and the struggle between sovereignty and relationality",
+  "author": "Sabsay",
+  "year": 2026,
+  "journal": "Contemporary Political Theory",
+
+  "opening_move": {
+    "type": "polemical_intervention",
+    "description": "The paper opens with an urgent diagnosis of neo-authoritarian governments worldwide (Trump, Milei, Bukele, Orbán, Meloni, Erdoğan, Modi) as constituting a 'global historical moment obsessed with hostility and destruction' — a political aesthetics of cruelty. The opening directly frames the contemporary as a crisis demanding theoretical response.",
+    "anchored_in": ["Butler", "Derrida", "Freud"],
+    "stakes_claimed": "Contemporary neo-authoritarianism is best understood through the concept of a 'political aesthetics of cruelty' — a political capture of the death drive — and vulnerability as relational existence offers the resources to contest it"
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["liberal diagnoses of democratic backsliding", "voluntarist theories of political mobilisation", "purely structural analyses of neo-authoritarianism"],
+    "engagement_structure": "framework_proposal",
+    "immanent_critique": false,
+    "own_position_type": "external_alternative",
+    "own_position_explicit": true,
+    "description": "The paper develops an original conceptual framework — political aesthetics of cruelty, death drive, vulnerability as relationality — drawing on Derrida, Freud, and Butler to theorise neo-authoritarianism's psychic-political logic. This is not an immanent critique of rivals but a positive conceptual contribution."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_interpretive_case",
+    "secondary": null,
+    "empirical_evidence_present": true,
+    "empirical_evidence_role": "illustrative",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": ["contemporary authoritarian governments (listed)", "political events"],
+    "interpretive_methods": "psychoanalytic political theory; Derridean deconstruction; feminist vulnerability theory; analysis of political aesthetics",
+    "notes": "Full-length research article (19 pages). The neo-authoritarian governments named in the opening are illustrative cases for the theoretical framework. The core argument is normative-conceptual, drawing on Freud's death drive, Derrida's analysis of sovereignty and cruelty, and Butler's vulnerability theory."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "political_event",
+    "case_name": "Contemporary neo-authoritarian governments: Trump (USA), Milei (Argentina), Bukele (El Salvador), Orbán (Hungary), Meloni (Italy), Erdoğan (Turkey), Modi (India)",
+    "case_function": "illustration",
+    "case_relation_to_argument": "illustrative_and_generative",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "authoritarianism / sovereignty / vulnerability / political aesthetics",
+    "claim_type": "critical_diagnostic",
+    "closure_type": "open_ended_with_burden_on_reader"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "empirical_presentation",
+    "framework_proposal",
+    "case_development",
+    "immanent_critique",
+    "normative_derivation",
+    "meta_reflexive_qualification",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": true,
+
+  "key_concepts": ["political aesthetics of cruelty", "death drive", "sovereignty", "vulnerability", "relationality", "neo-authoritarianism"],
+
+  "thinkers_deployed": {
+    "central": ["Derrida", "Freud", "Butler"],
+    "engaged_critically": ["liberal democracy discourse", "Derrida (on pessimism about sovereignty/cruelty)"],
+    "referenced_only": ["Rancière", "Traverso", "Gambetti", "Toscano", "Spinoza (implied)"]
+  },
+
+  "confidence_notes": "Full-length research article (19 pages). The use of psychoanalytic concepts (death drive) for political theory is methodologically distinctive in this corpus. The contemporary authoritarian cases are illustrative but generate the theoretical question — hence 'illustrative_and_generative'. Conclusion is qualified/open rather than fully prescriptive."
+}

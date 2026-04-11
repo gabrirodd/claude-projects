@@ -1,0 +1,73 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "rozenburg_2025",
+  "title": "The two faces of democracy: decentering agonism and deliberation [Book Review]",
+  "author": "Rozenburg",
+  "year": 2025,
+  "journal": "Contemporary Political Theory",
+
+  "opening_move": {
+    "type": "conceptual_gap",
+    "description": "The review opens by affirming the need to bridge deliberative and agonist theories of democracy, positioning Scudder and White's book as an attempt to hold both legitimate democratic modes simultaneously.",
+    "anchored_in": ["Scudder", "White", "deliberative democracy", "agonism"],
+    "stakes_claimed": "Democratic theory needs to account for both legitimacy-through-reason and conflict-through-struggle; neither model alone is sufficient"
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["deliberative democracy", "agonist democracy", "Scudder and White's synthesis"],
+    "engagement_structure": "immanent_critique",
+    "immanent_critique": true,
+    "own_position_type": "external_alternative",
+    "own_position_explicit": true,
+    "description": "The review argues that Scudder and White's 'communicative model' ultimately fails to integrate the two models, and offers an independent diagnosis of why the synthesis is unsuccessful."
+  },
+
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "conceptual analysis of deliberative and agonist models",
+    "notes": "Book review; the reviewer's own position (that the synthesis fails) is the substantive contribution. The argument is conducted entirely within conceptual-normative space."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "philosophical_text",
+    "case_name": "Scudder and White, The Two Faces of Democracy (2023)",
+    "case_function": "primary_object_of_analysis",
+    "case_relation_to_argument": "object_of_interpretation",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "medium",
+    "domain": "democratic theory",
+    "claim_type": "critical_diagnostic",
+    "closure_type": "open_ended_with_burden_on_reader"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "case_introduction",
+    "case_development",
+    "immanent_critique",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["deliberative democracy", "agonism", "moral equality of voice", "communicative model", "democratic legitimacy", "contestation"],
+
+  "thinkers_deployed": {
+    "central": ["Scudder", "White"],
+    "engaged_critically": ["Scudder", "White"],
+    "referenced_only": ["deliberative theorists (Habermas implied)", "agonist theorists (Mouffe, Laclau implied)"]
+  },
+
+  "confidence_notes": "Book review genre with strong reviewer intervention — reviewer argues the synthesis fails. The immanent critique of Scudder and White is the independent contribution."
+}

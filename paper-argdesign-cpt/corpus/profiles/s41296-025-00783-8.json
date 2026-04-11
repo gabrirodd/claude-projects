@@ -1,0 +1,73 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "bruyneel_2025",
+  "title": "Remapping Sovereignty: decolonization and self-determination in North American Indigenous political thought [Book Review]",
+  "author": "Bruyneel",
+  "year": 2025,
+  "journal": "Contemporary Political Theory",
+
+  "opening_move": {
+    "type": "polemical_intervention",
+    "description": "The review opens with a sharp critique of political theory as 'disavowal' — attending to Indigenous concerns mainly as a vehicle for settler self-reflection rather than for genuine engagement with Indigenous political demands.",
+    "anchored_in": ["Temin", "Indigenous political thought", "settler colonialism"],
+    "stakes_claimed": "Political theory must move beyond 'colonial condescension' and engage seriously with Indigenous political thought on its own terms"
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["settler-centric political theory", "'political theory as disavowal'"],
+    "engagement_structure": "immanent_critique",
+    "immanent_critique": true,
+    "own_position_type": "external_alternative",
+    "own_position_explicit": true,
+    "description": "The review endorses Temin's recovery of Indigenous political thought but raises an immanent critique about the scope of 'remapping' — pressing on what it means to take Indigenous self-determination seriously in practice."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_interpretive_case",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "close reading of Indigenous political thinkers and Temin's analysis; decolonial critique",
+    "notes": "Book review genre with strong reviewer intervention. The reviewer's concept of 'political theory as disavowal' is the independent theoretical contribution."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "political_event",
+    "case_name": "North American Indigenous decolonisation movements; Temin, Remapping Sovereignty (2023)",
+    "case_function": "primary_object_of_analysis",
+    "case_relation_to_argument": "object_of_interpretation",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "sovereignty / decolonisation / recognition",
+    "claim_type": "critical_diagnostic",
+    "closure_type": "open_ended_with_burden_on_reader"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "case_introduction",
+    "case_development",
+    "immanent_critique",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["Indigenous sovereignty", "self-determination", "settler colonialism", "political theory as disavowal", "remapping", "decolonisation"],
+
+  "thinkers_deployed": {
+    "central": ["Temin", "Indigenous political thinkers (Coulthard, Simpson, et al. implied)"],
+    "engaged_critically": ["settler political theory"],
+    "referenced_only": []
+  },
+
+  "confidence_notes": "Book review genre with strong immanent critique. The reviewer's independent concept ('political theory as disavowal') is the substantive contribution."
+}

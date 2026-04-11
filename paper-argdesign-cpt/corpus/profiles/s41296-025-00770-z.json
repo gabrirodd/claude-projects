@@ -1,0 +1,73 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "sajo_2025",
+  "title": "Democracy despite itself: liberal constitutionalism and militant democracy [Book Review]",
+  "author": "Sajó",
+  "year": 2025,
+  "journal": "Contemporary Political Theory",
+
+  "opening_move": {
+    "type": "normative_puzzle",
+    "description": "The review opens with the tension at the heart of militant democracy: measures that restrict democratic choices in order to defend democracy risk turning democracy into tyranny by democratic means.",
+    "anchored_in": ["Schupmann", "Rawls", "Schmitt"],
+    "stakes_claimed": "Justifying militant democracy requires resolving the paradox that defensive restrictions of freedom may undermine the freedom they aim to protect"
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["Schupmann's liberal-Schmittian synthesis"],
+    "engagement_structure": "immanent_critique",
+    "immanent_critique": true,
+    "own_position_type": "external_alternative",
+    "own_position_explicit": true,
+    "description": "The review endorses the need for militant democracy justification but raises the problem of identification: how to trigger militant democracy before democratic essentials are already subverted, as Hungary/PiS/Fidesz show."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_interpretive_case",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "close reading of Schupmann; political analysis of Hungary, India, Turkey, Poland",
+    "notes": "Book review with substantive immanent critique. Contemporary political examples (Hungary, Poland, Turkey) used to illustrate the identification problem in militant democracy."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "political_event",
+    "case_name": "Hungary (Fidesz), Poland (PiS), Turkey, India; Schupmann, Democracy Despite Itself (2024)",
+    "case_function": "test_case_for_framework",
+    "case_relation_to_argument": "evidence_for_claim",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "democratic theory / constitutional law",
+    "claim_type": "critical_diagnostic",
+    "closure_type": "open_ended_with_burden_on_reader"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "case_introduction",
+    "case_development",
+    "immanent_critique",
+    "empirical_presentation",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["militant democracy", "legal revolution", "liberal constitutionalism", "illiberal democracy", "democratic essentials", "party ban"],
+
+  "thinkers_deployed": {
+    "central": ["Schupmann", "Rawls", "Schmitt"],
+    "engaged_critically": ["Schupmann"],
+    "referenced_only": ["Oppenheimer", "Edwards"]
+  },
+
+  "confidence_notes": "Book review genre with strong political examples. The reviewer (Sajó, Democracy Institute, CEU) brings expert knowledge of Hungarian and Eastern European democratic backsliding that inflects the critique."
+}

@@ -1,0 +1,75 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "folit_weinberg_van_t_klooster_2026",
+  "title": "Hans Jonas and Sophocles on the ethics of the Anthropocene",
+  "author": "Folit-Weinberg and van 't Klooster",
+  "year": 2026,
+  "journal": "Contemporary Political Theory",
+
+  "opening_move": {
+    "type": "conceptual_gap",
+    "description": "The paper opens with the 'Anthropocene question': what, if anything, is genuinely new about the ethical demands of the Anthropocene? It argues that only an ethics that answers this question precisely is properly an ethics of the Anthropocene — identifying a gap in normative theory that environmental humanities scholars address descriptively but not in terms of normative principles.",
+    "anchored_in": ["Jonas (Hans)", "Sophocles", "Anthropocene scholarship"],
+    "stakes_claimed": "An ethics of the Anthropocene must specify not only principles for action but principles for how to deliberate — and 5th-century Athenian tragedy provides exactly this, refuting both Jonas's anti-democratic pessimism and claims that democracy is unfit for the Anthropocene"
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["Jonas's ethics of responsibility (Imperative of Responsibility 1979)", "Anthropocene pessimism about democracy", "environmental humanities on Anthropocene ethics"],
+    "engagement_structure": "immanent_critique",
+    "immanent_critique": true,
+    "own_position_type": "synthesis",
+    "own_position_explicit": true,
+    "description": "The paper performs an immanent critique of Jonas — accepting his framework of historical novelty diagnosis while challenging his misdiagnosis of that novelty — and recruits Sophoclean tragedy as an alternative model for democratic deliberation under uncertainty. The synthesis argues that tragedy is a democratic practice of the sort the Anthropocene requires."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_interpretive_case",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "close reading of Jonas and Sophocles; classical philology; normative political theory; intellectual history of Athenian democracy",
+    "notes": "Full-length article (21 pages). Sophoclean tragedy is the primary interpretive case — deployed to challenge Jonas's claim that democracy is unfit for the Anthropocene. The case is constitutive of the argument in that the normative conclusion (democratic deliberation through tragedy) cannot be reached without it."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "philosophical_text",
+    "case_name": "Jonas, The Imperative of Responsibility (1979); Sophocles, Athenian tragedy (5th century BCE)",
+    "case_function": "generative",
+    "case_relation_to_argument": "illustrative_and_generative",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "Anthropocene ethics / democracy / deliberation / environmental politics",
+    "claim_type": "prescriptive",
+    "closure_type": "strong_normative_conclusion"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "immanent_critique",
+    "case_introduction",
+    "case_development",
+    "framework_proposal",
+    "normative_derivation",
+    "conclusion_strong"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["Anthropocene question", "precautionary principle", "democratic deliberation", "tragedy as political practice", "ethics of responsibility", "novelty of Anthropocene"],
+
+  "thinkers_deployed": {
+    "central": ["Jonas (Hans)", "Sophocles"],
+    "engaged_critically": ["Jonas (Hans)"],
+    "referenced_only": ["Chakrabarty", "Crutzen", "Hamilton", "Scranton", "Malm and Hornborg"]
+  },
+
+  "confidence_notes": "Full-length article (21 pages). The joint use of Jonas (normative theory) and Sophocles (classical case) is methodologically unusual — interdisciplinary between classics and political theory, as explicitly stated. The Sophocles case is constitutive, not merely illustrative."
+}

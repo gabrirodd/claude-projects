@@ -1,0 +1,74 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "buxton_bagg_enoch_marriott_moyn_2025",
+  "title": "New perspectives on Judith Shklar [Critical Exchange]",
+  "author": "Buxton, Bagg, Enoch, Marriott, Moyn",
+  "year": 2025,
+  "journal": "Contemporary Political Theory",
+
+  "opening_move": {
+    "type": "conceptual_gap",
+    "description": "The exchange opens by identifying Shklar as an underappreciated figure whose 'negative method' is increasingly attracting scholarly attention, and framing the five contributions as advancing new applications of her thought.",
+    "anchored_in": ["Shklar", "Berlin", "Rawls", "Walzer", "Forrester"],
+    "stakes_claimed": "Recovering and extending the political relevance of Shklar's negativism — for radical politics, analytic philosophy, emotional response, and the Mill connection"
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["positive doctrines of justice", "conservative readings of Shklar", "grand-narrative political theory"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": false,
+    "own_position_type": "internal_reconstruction",
+    "own_position_explicit": true,
+    "description": "A multi-author critical exchange: each contributor reconstructs a different facet of Shklar's thought for contemporary use, collectively arguing for the enduring relevance of her negativist liberalism."
+  },
+
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "close reading of Shklar's texts; intellectual-historical contextualisation",
+    "notes": "Critical exchange format: 5 essays on Shklar, covering radical politics (Bagg), analytic engagement (Enoch), emotional hermeneutics (Marriott), and the Mill connection (Moyn), framed by Buxton's introduction."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "philosophical_text",
+    "case_name": "Shklar's Liberalism of Fear (1989); Legalism (1964); American Citizenship lectures (1991)",
+    "case_function": "primary_object_of_analysis",
+    "case_relation_to_argument": "object_of_interpretation",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "liberalism / democratic theory / methodology",
+    "claim_type": "reconstructive",
+    "closure_type": "research_agenda"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "case_introduction",
+    "rival_mapping",
+    "case_development",
+    "framework_proposal",
+    "meta_reflexive_qualification",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": true,
+
+  "key_concepts": ["liberalism of fear", "summum malum", "negative method", "cruelty", "negativism", "fear as political emotion"],
+
+  "thinkers_deployed": {
+    "central": ["Shklar"],
+    "engaged_critically": ["positive liberal theorists (Rawls, Walzer)"],
+    "referenced_only": ["Berlin", "Mill", "Forrester", "Robin", "Hirschman", "Gatta", "Hall", "Hess"]
+  },
+
+  "confidence_notes": "Multi-author critical exchange (27 pages). Treated as a single profile since all contributions are organised around extending Shklar's thought. The 'fully_normative' classification reflects the dominant mode across all five pieces."
+}

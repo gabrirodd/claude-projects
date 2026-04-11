@@ -1,0 +1,72 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "hyde_saracino_2025",
+  "title": "Facing authority: a theory of political legitimacy [Book Review]",
+  "author": "Hyde, Saracino",
+  "year": 2025,
+  "journal": "Contemporary Political Theory",
+
+  "opening_move": {
+    "type": "normative_puzzle",
+    "description": "The review opens by situating Fossen's book within non-ideal theory, framing political legitimacy as a pressing practical question in conditions of institutional fragility and democratic backsliding.",
+    "anchored_in": ["Fossen", "non-ideal theory", "political legitimacy"],
+    "stakes_claimed": "In conditions of turbulence, we need practical accounts of how to face authority when justice and consensus are precarious"
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["abstract ideal-theory accounts of legitimacy"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": false,
+    "own_position_type": "none",
+    "own_position_explicit": false,
+    "description": "The review presents Fossen's 'facing authority' approach appreciatively — legitimacy as a practical orientation toward authority rather than an abstract concept — without substantial independent critique."
+  },
+
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "conceptual analysis of political legitimacy",
+    "notes": "Book review genre; primarily expository."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "philosophical_text",
+    "case_name": "Fossen, Facing Authority (2024)",
+    "case_function": "primary_object_of_analysis",
+    "case_relation_to_argument": "object_of_interpretation",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "medium",
+    "domain": "democratic theory / political legitimacy",
+    "claim_type": "reconstructive",
+    "closure_type": "open_ended_with_burden_on_reader"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "case_introduction",
+    "case_development",
+    "framework_proposal",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["political legitimacy", "facing authority", "non-ideal theory", "practical philosophy", "democratic backsliding", "authority"],
+
+  "thinkers_deployed": {
+    "central": ["Fossen"],
+    "engaged_critically": [],
+    "referenced_only": ["Rawls (non-ideal theory tradition implied)"]
+  },
+
+  "confidence_notes": "Book review genre; primarily expository. The contemporary political framing (pandemic, wars, backsliding) functions as rhetorical scene-setting."
+}

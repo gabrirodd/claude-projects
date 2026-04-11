@@ -1,0 +1,73 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "sakurai_2025",
+  "title": "Rethinking political thinkers [Book Review]",
+  "author": "Sakurai",
+  "year": 2025,
+  "journal": "Contemporary Political Theory",
+
+  "opening_move": {
+    "type": "conceptual_gap",
+    "description": "The review opens by mapping the disciplinary landscape of global/comparative political theory, then locates the reviewed volume's place (and limits) within it.",
+    "anchored_in": ["comparative political theory (CPT)", "international political theory (IPT)", "global intellectual history (GIH)"],
+    "stakes_claimed": "Whether PT can genuinely broaden beyond its Western, Anglophone, male-dominated canon"
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["Ramgotra and Choat (eds.)", "decolonisation discourse in PT"],
+    "engagement_structure": "immanent_critique",
+    "immanent_critique": true,
+    "own_position_type": "external_alternative",
+    "own_position_explicit": true,
+    "description": "The review performs an immanent critique: accepting the editors' decolonisation premise, but showing that language parochialism undercuts it, and arguing for genuine CPT as a more consistent alternative."
+  },
+
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "close reading of the volume's introduction and table of contents",
+    "notes": "Argument proceeds entirely through normative and methodological critique; no empirical data deployed."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "philosophical_text",
+    "case_name": "Ramgotra and Choat (eds.), Rethinking Political Thinkers (2024)",
+    "case_function": "primary_object_of_analysis",
+    "case_relation_to_argument": "object_of_interpretation",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "medium",
+    "domain": "methodology / disciplinary politics of political theory",
+    "claim_type": "critical_diagnostic",
+    "closure_type": "open_ended_with_burden_on_reader"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "immanent_critique",
+    "conceptual_distinction",
+    "normative_derivation",
+    "conclusion_strong"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["language parochialism", "decolonising political theory", "comparative political theory", "canon", "non-Western political thought", "global intellectual history"],
+
+  "thinkers_deployed": {
+    "central": ["Ramgotra", "Choat"],
+    "engaged_critically": ["decolonisation discourse"],
+    "referenced_only": ["Skinner"]
+  },
+
+  "confidence_notes": "Book review: reviewer's own argument is a methodological critique. The 'fully_normative' classification reflects the reviewer's own methodological stance, not empirical engagement. The move sequence captures the review's argumentative logic."
+}

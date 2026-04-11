@@ -1,0 +1,72 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "stitzlein_2025",
+  "title": "Civic education in polarized times [Book Review]",
+  "author": "Stitzlein",
+  "year": 2025,
+  "journal": "Contemporary Political Theory",
+
+  "opening_move": {
+    "type": "empirical_anomaly",
+    "description": "The review opens by situating the collection against the 'pressing problem of polarization' and the increasing importance of civic education to address it.",
+    "anchored_in": ["Beaumont", "Beerbohm", "Shiffrin", "Driver", "Ben-Porath", "Gutmann", "Thompson"],
+    "stakes_claimed": "Polarization threatens democratic life; civic education is both more important and more difficult in this context"
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["Driver's student-centred approach", "Shiffrin's free speech model"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": true,
+    "own_position_type": "friendly_amendment",
+    "own_position_explicit": true,
+    "description": "The review evaluates the collection's contributions, endorsing the dialogue format and Driver's approach while raising Morton's critique about imaginative limitation."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_qualitative_empirical",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "close reading and evaluation of contributors' proposals for civic education",
+    "notes": "Book review genre. The collection itself discusses qualitative and historical evidence about civic education; the review's own argument is evaluative-normative."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "legal_case",
+    "case_name": "Driver's student constitutional rights approach; Beaumont and Beerbohm (eds.), Civic Education in Polarized Times (2024)",
+    "case_function": "primary_object_of_analysis",
+    "case_relation_to_argument": "object_of_interpretation",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "medium",
+    "domain": "democratic theory / education / citizenship",
+    "claim_type": "prescriptive",
+    "closure_type": "open_ended_with_burden_on_reader"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "case_introduction",
+    "case_development",
+    "immanent_critique",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["civic education", "polarization", "constitutional rights", "student-centred learning", "democratic legitimacy", "moral equality of voice"],
+
+  "thinkers_deployed": {
+    "central": ["Driver", "Morton", "Beaumont", "Beerbohm"],
+    "engaged_critically": ["Driver"],
+    "referenced_only": ["Shiffrin", "Ben-Porath", "Gutmann", "Thompson", "Paul-Binyamin", "Jayusi", "Tamir"]
+  },
+
+  "confidence_notes": "Book review genre. Normative mode classified as normative_with_qualitative_empirical to flag that the broader collection draws on qualitative/historical evidence about polarisation and education, even though this review is primarily evaluative."
+}

@@ -1,0 +1,73 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "schupmann_2026",
+  "title": "Protecting democracy in Europe: pluralism, autocracy and the future of the EU [Book Review]",
+  "author": "Schupmann",
+  "year": 2026,
+  "journal": "Contemporary Political Theory",
+
+  "opening_move": {
+    "type": "polemical_intervention",
+    "description": "The review opens by noting the EU's complicity in democratic backsliding — through membership fatalism and depoliticized responses — and presents Theuns's book as an ambitious normative-institutional account of how the EU can legitimately defend democracy in member states.",
+    "anchored_in": ["Theuns", "EU Article 2 TEU", "democratic backsliding"],
+    "stakes_claimed": "The EU's response to democratic erosion must go beyond procedural containment to treat antidemocrats as genuine political threats — but this requires resolving a tension between substantive democratic values and the means of defending them"
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["membership fatalism in EU response", "Article 7 TEU procedure (rejected by Theuns)", "proceduralist liberal democracy"],
+    "engagement_structure": "immanent_critique",
+    "immanent_critique": true,
+    "own_position_type": "friendly_amendment",
+    "own_position_explicit": true,
+    "description": "Substantive critical review endorsing Theuns's project while identifying an internal tension: the book defends substantive democratic values but constrains the means of their defence in ways that may be insufficient. The reviewer is broadly sympathetic but raises this as a genuine problem."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_interpretive_case",
+    "secondary": null,
+    "empirical_evidence_present": true,
+    "empirical_evidence_role": "illustrative",
+    "quantitative_methods": null,
+    "qualitative_methods": "policy analysis; legal analysis of EU institutional mechanisms",
+    "data_sources": ["EU Treaty on European Union (Article 2, Article 7)"],
+    "interpretive_methods": "normative political theory; institutional analysis of EU mechanisms",
+    "notes": "Book review (4 pages). The EU institutional mechanisms (Article 2, 7; infringement proceedings; financial conditionality) are used as illustrative cases within a normative argument about democratic defence."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "philosophical_text",
+    "case_name": "Theuns, Protecting Democracy in Europe (2024); EU institutional mechanisms",
+    "case_function": "primary_object_of_analysis",
+    "case_relation_to_argument": "illustrative_and_generative",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "democracy / EU institutions / democratic backsliding",
+    "claim_type": "critical_diagnostic",
+    "closure_type": "open_ended_with_burden_on_reader"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "case_introduction",
+    "case_development",
+    "immanent_critique",
+    "counter_objection_response",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["democratic backsliding", "membership fatalism", "pluralism", "dissociation", "containment strategy", "EU democratic legitimacy"],
+
+  "thinkers_deployed": {
+    "central": ["Theuns"],
+    "engaged_critically": ["Theuns"],
+    "referenced_only": ["Schmitt (implied through sovereignty framing)", "democratic theorists (implied)"]
+  },
+
+  "confidence_notes": "Book review (4 pages). The reviewer's identification of an internal tension in Theuns's argument gives this more critical depth than a standard expository review. The EU institutional material is illustrative of normative claims."
+}

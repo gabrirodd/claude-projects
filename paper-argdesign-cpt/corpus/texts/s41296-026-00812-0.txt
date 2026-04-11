@@ -1,0 +1,1011 @@
+[PAGE 1]
+                                                             
+                                                             
+                                                             
+       Contemporary Political Theory (2026) 25:33            
+       https://doi.org/10.1057/s41296-026-00812-0            
+       RESEARCH                                              
+                                                             
+       The political aesthetics of cruelty: contemporary     
+       authoritarian politics and the struggle between       
+       sovereignty and relationality                         
+                                                             
+                                                             
+       Leticia Sabsay1                                       
+                                                             
+       Received: 27 January 2025 / Accepted: 2 March 2026    
+       © The Author(s) 2026                                  
+                                                             
+       Abstract                                              
+       In a historical present marked by the ascendance of neo-authoritarianisms across
+       the world, we bear witness to a renewed politics of hatred and violence and the
+       heightening of the vulnerability of life. In this context, vulnerability has either been
+       weaponised to justify violent forms of government or critically mobilised to stake
+       a claim for justice, thereby becoming the object of political dispute. Against this
+       backdrop, I explore this neo-authoritarian moment as one that enacts a political
+       aesthetics of cruelty. This political aesthetics, I argue, points to the political capture
+       of a death drive, that is, an inclination to destruction which has made itself available
+       to social mobilisation through the normalisation of murderous hatred and political
+       violence pivoting around the idealisation of sovereignty. In this vein, I examine
+       vulnerability as a concept that foregrounds the relational character of our existence
+       while illuminating the psychic register of relationality that challenges the drive to
+       sovereign mastery and the sovereign self. Ultimately, I ask whether, and under what
+       terms, those instances that invoke the relational dimension of bodily vulnerability
+       can indeed challenge this political aesthetics of cruelty, and what kind of hope they
+       may open.                                             
+       Keywords Authoritarianism · Cruelty · Death drive · Political aesthetics ·
+       Vulnerability                                         
+                                                             
+                                                             
+       We are living in a historical present marked by the COVID pandemic, the steep accel-
+       eration of planetary climate emergency, and the intensification of ongoing and more
+       recent wars whose power of destruction is, in some senses, unprecedented. These
+       phenomena have made life’s sacrificial character and the uneven exposure to death
+                                                             
+                                                             
+         Leticia Sabsay                                      
+         l.sabsay@lse.ac.uk                                  
+       1 London School of Economics and Political Science, London WC2A 2AE, UK
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+        33 Page 2 of 19                           L. Sabsay  
+                                                             
+       and annihilation candidly apparent. This disparate devaluation of all living beings,
+       together with the increasing precarisation of people’s living conditions, is paralleled
+       by the ascendance of neo-authoritarianisms that either deny these planetary dangers
+       or manically imagine them under control, thereby prompting a renewed politics of
+       hatred and a rampant disregard for, if not investment in, the heightened vulnerabil-
+       ity and exposure of life to violence. From the governments of Donald Trump in the
+       USA, Nayib Bukele in El Salvador, and Javier Milei in Argentina, to those of Viktor
+       Orbán in Hungary, Giorgia Meloni in Italy, Tayyip Erdoğan in Turkey, and Narendra
+       Modi in India, to name a few, we are not quite unanimously sure about how to name
+       such different geo-political presents –whether neo-authoritarianism, neo-fascism,
+       techno-fascism, or authoritarian post-neoliberalism, as recent literature makes clear
+       (Traverso, 2018; Gambetti, 2021; Toscano, 2023; Semán, 2024; Catanzaro, 2026).
+       The diversity of contexts in which we live, contexts that expose the pervasiveness of
+       coloniality as a condition of our present and the heightening of global inequalities,
+       makes it difficult, if not impossible, to reach a common diagnosis. However, despite
+       this differentiated complexity, we may agree or share the feeling that we live in a
+       global historical moment obsessed with hostility and destruction.
+         In this article, I suggest that, notwithstanding significant differences across con-
+       texts, this common political pull towards hostility and destruction, as well as the
+       normalisation of hatred as a political tool, point to what I conceptualise as a political
+       aesthetics of cruelty. To do so, I build on earlier work in which I tentatively framed
+       cruelty (Sabsay 2020a) as the backdrop to the feminist resurgence of the past decade.
+       Considering the alarming scale of devastation facilitated by the now-consolidated
+       decline of democratic ideals and the discrediting of institutional politics, here I fur-
+       ther elaborate on cruelty, connecting pleasure and suffering as a fulcrum of contem-
+       porary political aesthetics. Against this backdrop, I then critically interrogate whether
+       vulnerability could offer a potential site of investment to counter it. The reflections I
+       offer on sovereignty, cruelty, vulnerability, and political aesthetics engage with criti-
+       cal scholarship in the tradition of Jacques Derrida, Sigmund Freud, Theodor Adorno,
+       and Judith Butler, in pursuit of a lens through which to illuminate some of the psy-
+       chosocial aspects that may be operating at the core of authoritarian and destructive
+       tendencies in contemporary politics. Rather than advancing an all-encompassing
+       diagnosis, mine is a speculative effort aimed at contributing to ongoing debates about
+       the current drive to render life in all its manifestations –nonhuman, human (and, by
+       extension, all its hierarchies and sites of dehumanisation), and social– ever more
+       vulnerable (Braidotti, 2015; Butler, 2022; Wilson Gilmore, 2022; Daigle, 2023;
+       Edmeads, 2024).                                       
+         My argument develops as follows. I take as a point of departure the hypothesis
+       that contemporary violent cultural and political trends are linked to a profound sense
+       that sovereignty is endangered –both at social and subjective levels. Drawing on
+       Derrida’s work on sovereignty and cruelty (Derrida, 2002, 2009, 2014, 2017), I first
+       argue that the sense that the sovereign power to determine the course of our indi-
+       vidual, collective and social lives is under threat if not already lost unleashes reactive
+       responses that idealise the authoritarian exercise of sovereign mastery as well as the
+       cruelty associated with it. Secondly, I contend that this process entails mobilising a
+       psychically powerful inclination towards violence and destruction directed at either
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+       The political aesthetics of cruelty: contemporary authoritarian politics… Page 3 of 19 33
+                                                             
+       others or oneself. I explain this inclination as a particular psychosocial manifesta-
+       tion of the death drive (Freud, 1962, 2011). While the death drive and the aggressive
+       impulses connected to it are essential to the development of the self, they can also
+       facilitate violent and destructive aims. As Derrida (2002) reminds us, in Freud, it is
+       also the death drive that is operative in the enactment and manifestation of cruelty. It
+       is my argument, then, that in our current conditions, where the world as we knew it
+       seems to be arriving at its end, this psychic impulse –the death drive– has made itself
+       distinctly available to be politically mobilised in particularly violent and destructive
+       ways. I develop this two-fold argument in the next two sections.
+         Following this, I thirdly posit that the deadly management of this sense of lost
+       sovereignty is enacted by and manifested in what I characterise as a political aesthet-
+       ics of cruelty. In other words, the political mobilisation of the death drive towards
+       destruction and violence, as it happens in our authoritarian times, leads to a vision of
+       society and politics that is fundamentally cruel. Cruelty, I argue in the third section,
+       is intimately linked to a renewed idealisation of sovereign mastery. As such, it could
+       be considered pivotal to contemporary political aesthetics, that is, as characterising
+       the aesthetic dimension of the political (Rancière, 2013). To the extent that this politi-
+       cal aesthetics of cruelty consecrates full autonomy and unlimited self-sufficiency,
+       building on Butler (2009, 2020), I examine the notion of vulnerability as a modality
+       of relationality that could challenge the identification with neoliberal authoritarian
+       versions of the sovereign self.                       
+         In the last section, I ask whether relationality, as figured through vulnerability,
+       could be considered a potential site of hope. Wrestling with Adorno’s (2005, 2020)
+       sombre yet prophetic vision of the politics of his time and the allure of utopian invo-
+       cations to relationality, I explore the feasibility of grounding resistance to the politi-
+       cal aesthetics of cruelty discussed earlier in the relational and vulnerable character of
+       our bodily existence. I do so, based on my contention that it is precisely vulnerability
+       that is exposed in this sense of lost or endangered sovereign power. Put in psycho-
+       social terms: when our lack of absolute sovereign mastery cannot be successfully
+       disavowed, vulnerability becomes apparent. This is arguably so to the extent that the
+       psychic impulse towards mastery, necessary for the formation of the self, emerges
+       in part as a path to process our unpleasant relational dependency on others and the
+       world (Freud, 1961, 2011, pp. 56–60; Brown, 1985, pp. 105–112).
+         Vulnerability thus haunts any sovereign effort to disavow it. From this standpoint,
+       and building on Butler’s (2009, 2020) argument that our relation to vulnerability
+       is constitutively ambivalent, I explore how this disavowal of vulnerability might
+       be addressed differently. Thereby, in contrast to sovereign and solipsistic modes of
+       agency that recoil from a relational approach to bodily vulnerability, I underscore
+       the Freudian link between eros and relationality and finally consider whether –and
+       on what terms– those instances that illuminate the relational and erotic dimension of
+       bodily vulnerability might open an alternative path to the prevailing political aesthet-
+       ics of cruelty. At this juncture in my inquiry lies the question of what kind of hope this
+       path might open, one that would demand the seemingly impossible task of radically
+       detaching from the desire for sovereign mastery.      
+                                                             
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+        33 Page 4 of 19                           L. Sabsay  
+       Cruel sovereignty                                     
+                                                             
+       In the lectures gathered in The Beast and the Sovereign (2009), Derrida reminds us
+       of sovereignty’s intrinsic link with political domination, violence, and cruelty as part
+       of his project to deconstruct the classic western notion of sovereignty as absolute,
+       indivisible, and unconditional. As Derrida explains (2009, pp. 75–76), sovereignty
+       is defined as the force to establish the law and, therefore, is beyond the law. As a
+       result, it wields legitimate power over life and death, that is, the use of violence,
+       and as such, according to the philosophical tradition of Thomas Hobbes and Carl
+       Schmitt, sovereignty inaugurates the political. Here, Derrida continues, the political
+       emerges as a modality of domination and mastery that affirms the superiority of the
+       sovereign, as well as the determination of an enemy of said sovereign (be it a nation-
+       state or a sovereign people) with whom only an antagonistic relationship would be
+       possible (Derrida, 2009, pp. 26–30, 77–78). Regardless of whether one subscribes
+       to this proposition, Derrida reiterates that within the western philosophical tradition,
+       hostility and violence (as much as fear) are at the core of the principle of sovereignty
+       that structures politics.                             
+         Derrida is giving these lectures in the aftermath of the terrorist attacks of 11 Sep-
+       tember 2001, analysing the reconfiguration of struggles for sovereignty against inter-
+       national law that followed. In this vein, he makes clear that it would be naïf to believe
+       that invocations to the universality of human rights and international penal law do not
+       participate in the dispute for sovereignty, for these invocations are sustained in the
+       presumed sovereignty of humanity or the human person (Derrida, 2009, pp. 70–71).
+       The problem with these invocations is not only that the human is a fraught category,
+       as we have long learned from foundational postcolonial, decolonial, and Black femi-
+       nist critical theory (Fanon, 1986; Said, 1995; Hartman, 1997; Spivak, 1999; Quijano,
+       2000; Lugones, 2007; Wynter, in McKittrick, ed., 2015). More than that, and to the
+       extent that, because of its relation to law, sovereignty signifies the legitimate exercise
+       of violence, the appellation to the sovereign universality of the human cannot entirely
+       sever its ties to destruction, if not even cruelty, either.
+         The ineffability of violence and cruelty attached to sovereignty is also made clear
+       in Derrida’s seminars on The Death Penalty, published in two volumes (2014, 2017).
+       From the outset, Derrida points out that even if the death penalty were abolished, it
+       would survive, assuming other forms (Derrida, 2014, p. 11, Rottemberg, 2012, pp.
+       146–149). He arrives at this pessimistic conclusion insofar as capital punishment, for
+       him, is not only the emblematic figure of cruel punishment but also fundamentally,
+       the ultimate sign of sovereignty. Arguably, then, one might interpret Derrida’s pessi-
+       mistic conclusion as ultimately suggesting that it is sovereignty (that is, the sovereign
+       right to kill –or let die (Derrida, 2017, p. 198)– or exert violence against others) that
+       will survive the abolition of the death penalty. Furthermore, in these seminars where
+       Derrida directly links sovereignty with cruelty, he suggests that while we may arrive
+       at more humane forms of punishment, this does not mean that cruelty will disappear
+       but rather mutate (Derrida, 2017, pp. 6–10). As Elizabeth Rottemberg states when
+       considering Derrida’s analysis of the guillotine and the passage ‘from bloody cruelty
+       to a cruelty without blood’, this will ‘not signal the end of cruelty’, neither a progres-
+                                                             
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+       The political aesthetics of cruelty: contemporary authoritarian politics… Page 5 of 19 33
+                                                             
+       sive path against cruelty or towards less cruel means, ‘but rather a shift in both the
+       form and the visibility of cruelty’ (Rottemberg, 2012, p. 154).
+         In sum, according to these Derridean insights, cruelty is intrinsically associated
+       with sovereignty and, subsequently, with the modern western configuration of poli-
+       tics sustained by sovereignty. Sovereignty is intrinsically cruel since it is established
+       by the principle of the right to violence and to determine the forms of legitimate vio-
+       lence –a cruel principle indeed. In moments of crisis, when sovereignty is in dispute,
+       cruelty makes itself apparent at the heart of politics.
+         We could arguably think of our historical present as one in which renewed dis-
+       putes over sovereignty and its reconfigurations –especially the forms it takes, the
+       conditions under which it is exercised, and by whom and against whom– are centrally
+       at stake. In just over a decade, manifold nationalist impulses have been exponentially
+       articulated through rhetoric that pivots around the recovery of control –heralding
+       sovereign power– over national territories and the destinies of (exclusionary versions
+       of) their peoples. Donald Trump’s 2025 presidency programme and the consolidation
+       of the MAGA (Make America Great Again) movement, whose name derived from
+       the chief slogan of his 2016 presidential campaign, and Boris Johnson’s promise to
+       ‘Make Britain Great Again’, reinscribing Margaret Thatcher’s plea from her 1950
+       ‘General Election Address’, as part of his commitment to implement Brexit clearly
+       illustrate the point.                                 
+         Also, regionally, the idea that the sovereign control of borders is under threat
+       has been pivotal to the success of new far-right forces in the 2024 European Parlia-
+       ment elections, as well as to the justification of the European Union’s (and Euro-
+       pean national states’) unspeakable anti-immigration policies, which both enact and
+       externalise the racially inflected, deadly treatment of dehumanised people. Indeed,
+       critiques of humanitarianism seem anachronistic in the current scenario, where invo-
+       cations to Europe activate a powerful drive towards violence and spectacular cruelty
+       across the political spectrum. The anti-migrant impulse is, after all, very much in
+       line with the investment in national sovereignty expressed by far-right resolute Euro-
+       sceptics, European Patriots and Conservatives alike,1 as much as with the British
+       Labour Party. Proof of this became evident as soon as PM Sir Keir Starmer assumed
+       office, when, during his first week in power, he travelled to Italy to learn from Giorgia
+       Meloni’s immigration policy, which he publicly praised.2
+         Not only contemporary wars and genocidal violence but also the re-emergence
+       of nationalisms across the political spectrum, often articulated through hatred and
+       enacted violently (both against external and internal populations), make clear that
+       the activation of cruel and destructive impulses against others accompanies the sense
+       of endangered sovereignty. Nationalisms and their others, however, are not the only
+       catalysers of cruelty. Given the role of the global south in capital accumulation and
+       colonial extractive enterprises in Argentina, for instance, sovereignty is not straight-
+       1 Europe Sovereign Nations Group (ESN), Patriots for Europe Group and The European Conservatives
+       and Reformists Party (ECR) reflect the European right-wing spectrum concerning national sovereignty.
+       2 See The Guardian, 16 September 2024: h t t p s : / / w w w . t h e g u a r d i a n . c o m / u k - n e w s / 2 0 2 4 / s e p / 1 6 / g i o r g i a - m e l
+       o n i - s t a r m e r - s h o w e d - g r e a t - i n t e r e s t - i n - o u r - a l b a n i a - m i g r a t i o n - d e a l (Accessed 12 December 2024).
+                                                             
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+        33 Page 6 of 19                           L. Sabsay  
+                                                             
+       forwardly attached to the nation but rather articulated by the libertarian government
+       of Javier Milei in terms of market-driven, individualist freedom against the state.
+         Milei, an outsider to politics who gained popularity on social media and as an
+       eccentric commentator on television panels, took power in December 2023, capitalis-
+       ing on his anti-political rhetoric. His party, La Libertad Avanza (Freedom Advances),
+       formed in 2021, won on a platform promising to reduce the state to its minimal
+       expression, including closing the central bank and dollarising the economy, not only
+       to combat a political class presented as intrinsically corrupt, but also to dismantle
+       what he frames as oppressive welfare policies and ‘totalitarian’ progressive prin-
+       ciples of inclusion and equality, in defence of the market as the ultimate sovereign.
+       A self-described libertarian, Milei is a whimsically idiosyncratic economist aligned
+       with anarcho-capitalist Murray Rothbard. A declared admirer of Trump and Elon
+       Musk, he has aligned Argentina with Trumpist US interests and saddled the country
+       with unsustainable debt, enabling international capitalist agendas to dictate its eco-
+       nomic policies, subjecting it to ever-increasing poverty. This has entailed the shrink-
+       ing and closure of numerous public institutions, reducing or eliminating welfare
+       protections, laying off public employees, and stagnating salaries, all in the name of
+       a sovereign and cruel, market-driven freedom that catalyses a powerful inclination
+       towards destruction.                                  
+         The thanatic tone that taints contemporary politics can attach to different signi-
+       fiers and is also present in the enactment of suicidal political decisions (such as the
+       Argentine vote for Milei, who promised to destroy the state and all things public, or
+       the vote for Brexit in the UK). The question of climate emergency and the reluctance,
+       if not cynicism, with which it has been addressed by political leaders in myriad inter-
+       national, regional, national, and local arenas is a good example of this suicidal logic.
+       The disregard for our planetary survival shows not only a necropolitical dismissal
+       of the (so-called) global south, although this dismissal is undoubtedly at the heart of
+       climate change denialism. It also decisively reveals a rampant all-powerful drive to
+       destructiveness paired with the fantasy of an omnipotent human species that has self-
+       attributed the sovereign right to destroy the planet and itself.
+         These are just some vignettes of broad political trends. One can surely think of
+       many instances where dealing with death and the decimation of entire populations,
+       peoples, (always already hierarchised) human, dehumanised, and all forms of nonhu-
+       man life, compromising the whole planet, seems to be leading to more destruction
+       winning the game. Of course, this is not new –the lives of entire generations destined
+       to live in refugee camps, subjected to wars, past and present genocidal violence per-
+       petrated by settler-colonial powers, or the perpetual destitution suffered by the sub-
+       altern in the postcolony are testament to how sovereignty and cruelty have remained
+       attached to the political after the formal end of slavery and decolonisation in western
+       late modernity. Looking inward, the two world wars have typically been the object of
+       extensive intellectual reflection precisely along these lines. What appears to be new
+       is the expansion and accelerated normalisation of sovereign destructive cruelty in our
+       apocalyptic ‘permacrisis’ times, which, as Geerts and Carstens (2024) note, paves
+       the way for intensified resentment and mimetic forms of violence at both macro and
+       micro levels. Beyond the planetary scale of destruction that has accompanied capital-
+       ism’s development, the 2008 global financial crisis, and even more so, the COVID-19
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+       The political aesthetics of cruelty: contemporary authoritarian politics… Page 7 of 19 33
+                                                             
+       pandemic, also revealed, in a startling manner, how easily life can become sacrifical
+       for populations who believed themselves exempt from ‘the disposable’. This ten-
+       dency aligns with a technologised and renewed post-truth politics of hatred, encour-
+       aged by political leaders and widely amplified through media and digital networks.
+       The growing popularity of new and extreme-right politicians, preceded by now
+       consolidated authoritarian and securitarian governmental rationales at the heart of a
+       thwarted version of neoliberal democracy, and the intensified circulation of hatred at
+       micro levels—assisted by tech tycoons such as Musk and Mark Zuckerberg—further
+       inflect this process anew.                            
+         Confronted with this scenario, one of the most pressing questions in the last
+       decade has revolved around the traction that authoritarian neoliberal, nationalistic,
+       far-right-wing populist, neo-fascist, libertarian and white supremacist movements
+       have been having among an increasing number of people. This tendency also marked
+       the shift of the whole political field towards right-wing, conservative, if not reaction-
+       ary, and authoritarian dynamics at local, national, transnational, and international
+       levels. Clearly, each context demands specific analyses, and it would be just wrong to
+       subsume one authoritarian emergence under the other. However, it would be equally
+       wrong to conceive of each of them in isolation, or as a series of parallel but struc-
+       turally unrelated phenomena, for they are all tied to the nature of colonial global
+       (and thus racial) capitalist accumulation, which in turn, has led to a permacrisis of
+       planetary proportions (Wilson Gilmore, 2022; Geerts & Carstens, 2024; Catanzaro,
+       2026). Furthermore, quite pragmatically, the political actors that lead them develop
+       common tactics and form strategic alliances across their differences. As the annual
+       international summits of CPAC (Conservative Political Action Conference), taking
+       place in disparate parts of the Globe since 2017, and the European VIVA Conference
+       organised since 2021 by Spanish Party Vox, backed up by ECR since 2022 and with
+       ample presence of right-wing leaders from across the Americas, make clear, they
+       work transnationally in articulated ways.             
+         In the face of the increasing influence of these emergent actors, already recog-
+       nised as ‘the reactionary international’ years ago (Tokatlian, 2018), my interest is in
+       the political articulation of collective destructive feelings that traverse them all.3 I
+       contend that these destructive impulses are called upon by the partially orchestrated
+       sense that sovereign powers are under threat. The call of these reactionary actors
+       resonates with those who perceive their hegemonic positions or privileges as being
+       threatened or questioned –and their futures as denied– as is the case of the racist
+       glorification of misogyny propagated by the new alternative right that has thrived in
+       online media, with Andrew Tate as one of its most visible exemplars.
+         More broadly, they enact a powerful call among those whose lives are out of their
+       control, imperilled by an insurmountable neoliberal imperative that either intensifies
+       all sorts of incertitude, threatens their life standards, their chances for survival or
+       heightens their already precarious lives. The economy of debt (Ahn, 2013; Brown,
+       3 While being common currency within the left, ironically, this label was massively popularised by
+       Emmanual Macron at the start of 2025. See Le Monde, 11 January, 2025: h t t p s : / / w w w . l e m o n d e . f r / e n / i n t e r
+       n a t i o n a l / a r t i c l e / 2 0 2 5 / 0 1 / 1 1 / m a c r o n - t r i e s - t o - c h a r m - m u s k - w h i l e - a c c u s i n g - h i m - o f - b e i n g - r e a c t i o n a r y _ 6 7 3 6
+       9 5 0 _ 4 . h t m l (Accessed 18 January 2025).       
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+        33 Page 8 of 19                           L. Sabsay  
+                                                             
+       2015; Cavallero & Gago, 2021), where people are deprived of proper access to food,
+       shelter, healthcare, and education or are deemed to be in debt forever, emerges as an
+       unstoppable economic force that certainly makes them more vulnerable (albeit dif-
+       ferentially) (Butler, 2009), and challenges any sense of sovereign mastery over their
+       own lives. Hence, the violent displacement of resentment or frustration towards oth-
+       ers (Sabsay 2020b) or the desire to become all-powerful individuals with sovereign
+       and unlimited powers exempted from any ethical regard for others than themselves.
+       Such is the direction in which authoritarian neoliberal and new right-wing discourses
+       like Milei’s have resignified and affectively capitalised on the political signifier ‘free-
+       dom’. Milei’s libertarian party, called La Libertad Avanza, and chief slogan, Viva
+       la Libertad, carajo! with which he usually closes all public interventions, are not
+       circumscribed to uphold limitless market freedom. They invoke the allure of uninhib-
+       ited capitalist freedom (Catanzaro, 2026) akin to absolute sovereign mastery, entic-
+       ing subjects to act as they please without any regard for social costs, beyond any
+       externally imposed law or ethical limit concerning how this freedom may destroy or
+       negatively impact others’ or even one’s own fate.     
+         To understand the psychosocial dynamics of this critical political juncture, I pro-
+       pose the hypothesis that the political articulation of collective destructive feelings,
+       invoking fantasies of sovereignty, belongs to the social channelling of the death drive
+       towards destructiveness and aggression, and to the unleashing of cruelty, understood
+       as the pleasure of causing or participating in suffering which can derive from (sadistic
+       or masochistic) aggressive impulses (Freud, 1961). The relationship between cruelty,
+       the death drive and sovereignty is also thematised by Derrida in ‘Psychoanalysis
+       Searches the States of Its Soul: The Impossible Beyond Sovereign Cruelty’ (2002).
+       In this essay, Derrida reflects on the entanglement between cruelty and the psychic
+       register of the will to (sovereign) power. Sovereignty and cruelty’s connection to
+       the death drive emerges when Derrida traces Freud’s use of the term ‘cruelty’ while
+       moving away from the theological-political notion of sovereignty (discussed above)
+       to focus on the will to sovereign mastery, which he redescribes as a drive (Derrida,
+       2002, p. 273, Martínez Ruiz, 2021, p. 104). Building on this reading, in the follow-
+       ing section, I bring together the destructive manifestation of the death drive and the
+       impulse to reaffirm a sovereign mastery that is imagined as lost or imperilled from a
+       psychosocial perspective.                             
+       The political life of the death drive                 
+       Freud advances his theory of the death drive throughout the looming first decade of
+       the interwar period to understand the limitless human capacity for massive destruc-
+       tion as seen in the war and the innumerable atrocities of history. He first developed
+       this notion in 1920 in Beyond the Pleasure Principle, and in 1929, reintroduced it in
+       Civilisation and Its Discontents to consider the development of societies. There, he
+       asserts that ‘cruel aggression’, defined as an instinctual inclination, has been at the
+       heart of human history, as it is testified by ever-present violence and war (Freud,
+       1962, pp. 58–59). Freud’s idea here is that human and social life revolves around the
+       tension between two basic drives: eros and thanatos, the first concerned with affirm-
+                                                             
+                                                             
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+       The political aesthetics of cruelty: contemporary authoritarian politics… Page 9 of 19 33
+                                                             
+       ing life, and the second invested in ending it. Humans are ambivalent, and their lives,
+       as much as societies, can be understood as a battle between attachments to hate and
+       love: aggression and destruction on the one hand and, on the other hand, affection,
+       care, and reparation. For Freud, in societal terms, the death drive or thanatos relates to
+       the impulse to break social bonds, to tear societies apart. It mobilises aggressiveness
+       and hostility between persons, groups, and peoples. Meanwhile, eros is the impulse
+       to form social bonds with others to create communities and relationships; it keeps us
+       together.                                             
+         What is crucial in Freud’s death drive theory is that not only can we not get rid
+       of these basic human impulses –they are both constitutive and necessary for our
+       development–but also both drives never work in isolation from each other. Revis-
+       ing his theory of masochism in light of his later consideration of the pleasure prin-
+       ciple, Freud (1961, p. 164) affirms that ‘very extensive fusion and amalgamation, in
+       varying proportions, of the two classes of instincts takes place’. The death drive is
+       insurmountable, and libido’s (eros) work consists partly in taming and/or diverting
+       it outwards, maintaining it bound to life. Seen in this light, the best we can hope for,
+       then, is that eros is able to contain the death drive, channelling the aggression associ-
+       ated with it (Klein, 1975) towards non- or at least less destructive aims. In Derrida’s
+       terms, eros signals the indirect way in which Freud finds any hope. Eros, the drive
+       that affirms life, is ultimately the vessel for the deferral of death (Derrida, 2002, pp.
+       271–272).                                             
+         In Civilization and its Discontents, Freud highlights the painful process through
+       which social selves are formed, as infants confront a limit that challenges their sense
+       of wholeness and unity with the world, thrusting them into the human condition
+       of incompleteness and dependence. This first experience of wholeness and primal
+       fusion with the world (invoked as an ‘oceanic feeling’ (Freud, 1962, p. 11) and psy-
+       choanalytically understood in the first instance as a fusion between the infant and
+       the primary carer) is what the human will long for and try to regain throughout their
+       life. The route to wholeness, though, could involve the acceptance of the difference
+       between self and other, leading to the search for this wholeness through symbolic
+       means and relations with others (pointing towards love bonds later signified as eros).
+       Or, on the contrary, the denial of the split between self and other and the search for
+       wholeness by undoing the difference between the two, which ultimately entails the
+       desire to destroy the other (pointing towards aggression and the death drive, later
+       signified as thanatos).                               
+         According to Melanie Klein (1986)–who mobilised Freud’s theory of the death
+       drive to develop her theory of subject formation–the key is that for the formation
+       of the self, the first task is to establish boundaries that distinguish and detach the
+       self from the object/world. This separation–a traumatic one–speaks to the thanatic
+       impulse to break bonds as well. In parallel, this separation is associated with a primal
+       experience of helplessness and an absolute dependence on others for our survival.
+       Thus this separation also triggers aggression towards the ones on whom we depend,
+       insofar as they are reminders of our traumatic –and ultimately failed– attempt at
+       achieving almighty self-sufficiency. Hence, the murderous feelings that come with
+       the conflicted sense of our vulnerability or dependency (Sabsay 2020b). The aggres-
+       sion perceived as coming from the other, who may or may not satisfy our needs as
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+        33 Page 10 of 19                          L. Sabsay  
+                                                             
+       dependent beings, is, in fact, a reflection of our aggression against them. In other
+       words, accompanying the fact that we develop attachments to objects and others to
+       survive, there is the impulse to protect ourselves by securing boundaries against those
+       attachments.                                          
+         By transposing the individual process of socialisation onto broader human and
+       social dynamics, Freud (1962) highlights how they demand the renunciation of
+       instinctual satisfaction, encompassing both pleasure-seeking and destructive ener-
+       gies. Both levels entail the renunciation of primal hostility as well as sexual drives,
+       which is effectuated through the cultural deviation of drive energies into love bonds
+       with others (whose sexual aim is cut off) (Freud, 1962, p. 59). Sexual life needs to
+       be restricted for humans to be able to live in society, and this demands a process of
+       repression by which sexual drives are re-channelled towards asexual loving bonds.
+       This process of repression, facilitated by social norms (internalised in the super-ego),
+       will also divert the hostile impulses of the death drive. But this diversion entails that
+       destructiveness will become embedded in the process of socialisation, that is, in the
+       repressive character of society itself.4 The inclination towards aggression and vio-
+       lence cannot, thus, be eradicated from societal life. To the extent that aggression and
+       destructiveness are put to work in the service of repression, they are also triggered by
+       it. As Rosaura Martínez Ruiz’ (2021, pp. 53–57, 70–72) masterfully detailed explana-
+       tion makes clear, the discontent that civilisation produces evokes the ambivalent rela-
+       tion that humans have to the law that civilisation imposes on them. Aggressiveness
+       manifests both in the repressive work of law and in the human unconscious resistance
+       and hostility towards it.                             
+         By engaging the concept of the death drive in order to examine our violent and
+       cruel historical present, I do not aim to naturalise violence. I concur with Hannah
+       Arendt’s warning against seeking in the death drive a rationale for the normalisation
+       of violence and extermination that shapes international politics. I also emphatically
+       oppose the highly problematic view that a ‘secret death wish of the human species’
+       or ‘an irrepressible instinct of aggression’ can explain the violent history of humanity
+       (Arendt, 1970, p. 5). Rather, my endeavour is to illuminate the role of the psychic
+       register in facilitating (or not) particular political dynamics, as there is no political
+       gesture that can have a productive life if it is not by interpellating us psychically.
+       Based on this understanding of the relationship between psychic life and politics,
+       I maintain that the contemporary conjuncture politically channels the death drive,
+       realising it in cruel aggression, destruction, and hatred. Along these lines, my point is
+       that the death drive is easily activated under destructive forms by the painful experi-
+       ence of dependency, and that, consequently, in a context where heightened ‘socially
+       induced vulnerability’ (Butler, 2016, p. 25) is framed as, or deflected through, the
+       threat of endangered sovereignty, this politically orchestrated sense of jeopardised
+       sovereignty becomes politically cathected (that is, libidinally attached) to the refusal
+       of our relational formation as subjects and our constitutive lack of self-sufficiency.
+         Such refusal manifests in forms of denial, where the aggressive manifestations
+       of the death drive become attached to the denial of one’s own dependence, vulner-
+       4 Primal hostility towards others is what law and ethics try to contain. However, Freud’s pessimistic con-
+       clusion is that this cultural effort against aggressiveness ultimately tends to fail (Freud, 1962, pp. 59–62).
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+       The political aesthetics of cruelty: contemporary authoritarian politics… Page 11 of 19 33
+                                                             
+       ability, fallibility, or finitude –a phenomenon that the global exposure to COVID-
+       19 has fuelled in unfathomable ways. The fact that an imperceptible virus–a form
+       of minimal life that lingers between the organic and the inorganic–has thrown the
+       world upside down is a testament to how little or sovereign power humanity has
+       over its survival. The planetary scale of this deadly pandemic has done nothing other
+       than expose, in the most extreme ways, how vulnerable our lives are. The collective
+       traumatic consequences of this global experience remain obscure. Still, during the
+       pandemic and throughout its aftermath, we have witnessed forms of suicidal and
+       murderous denial, arguably aimed at erasing the deepening sense of survival at risk.
+       Add to this the experience of an increasing number and scale of climate emergencies.
+       In the face of overwhelming uncertainty, the refusal of vulnerability today seems
+       prone to being politically captured as an idealised imperative to overcome the lack of
+       sovereign power over life.                            
+         Through this political capture, vulnerability is negatively signified as the loss of
+       sovereign autonomy. At the social or governmental levels, it might translate into a
+       mandate to regain an imagined, threatening loss of sovereign power over borders
+       and populations, and over the fate of social orders as we know them. This logic
+       expresses, as Butler (2016, p. 26) remarks in their undoing of the binary opposi-
+       tion between vulnerability and agency/resistance, a ‘resistance to vulnerability that
+       belongs to certain projects of thought and certain formations of politics organized
+       by sovereign mastery’. In the current context, the impulse to disavow vulnerability
+       is captured in politically authoritarian modes through the mobilisation of a stubborn
+       investment in enhancing or recovering (what is, in fact, a fantasy of) an almighty,
+       self-sufficient sovereign power that we never had in the first place. Only seemingly
+       paradoxical, alongside this disavowal lies an overt, even uncompromising, effort to
+       produce increasingly extreme vulnerability in others. What appears distinctive about
+       the contemporary moment is that, in such defensive modes, the investment in unre-
+       strained and ruthless state or solipsistic individual sovereignty seems to override any
+       other principle and is put to work at all costs, no matter the consequences, even if –or
+       perhaps most so if– it entails the destruction of others or even ourselves.
+       Vulnerability and the political aesthetics of cruelty 
+       While war and genocidal violence stand as emblematic instances where the death
+       drive’s destructive orientation seems to have dominated eros, our neo-authoritarian
+       political landscape can also be interpreted as one where the death drive has most
+       successfully recruited eros to satisfy its aggressive impulses, as the logic of denial
+       described in the previous section illustrates. This logic of denial might explain in part
+       the rise and increasing popularity of neo-authoritarian and neo-fascist politics, which
+       appeal to this form of almighty power that negates the other and despises difference,
+       questioning basic democratic principles.              
+         However, in parallel with this, a subsequent way in which this denial may work
+       is by attaching the death drive to otherwise democratic and life-affirming ideals. The
+       mobilisation of freedom articulated as unlimited sovereign individual autonomy by
+       new right-wing parties mentioned earlier might be a case in point. What is at stake in
+       this idea that the death drive attaches itself to democratic life-affirming ideals such
+                                                             
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+        33 Page 12 of 19                          L. Sabsay  
+                                                             
+       as freedom is that it operates in ways that encourage the disavowal of the need to
+       live together, including both the pleasures and the burdens of being connected with
+       others. At the level of social meaning-making, when the death drive attaches to these
+       ideals, it paves the way for their successful resignification in ways that call for more
+       death and destruction rather than life, empathy, reparation, and care. Hence, the easi-
+       ness with which the far-right has capitalised on these signifiers. After all, this cruel
+       fantasy of sovereign individual autonomy, now turned into cruel self-sufficiency, has
+       a long history, easily recognisable in the move from liberal to neoliberal imperatives.
+       It is a truism that neoliberalism is profoundly anti-social.
+         Another significant way in which the death drive recruits eros is by finding plea-
+       sure in suffering and making suffer, or in the indifference toward unnecessary or
+       avoidable suffering: the realm of cruelty. Cruelty has been central to western moder-
+       nity all along. As Derrida (2002) reminds us, cruelty is inherent in the drive for sover-
+       eign mastery that has structured western history. Contemporarily, however, this cruel
+       pleasure in aggression, which extends to annihilating the other, points to a distinctive
+       political aesthetics where the death drive has been socially activated and attached to
+       politics in particular ways. Concerned with the mutations that cruelty seems to have
+       undergone in this historical present, I contend that cruelty works within a political
+       aesthetics that not only promotes manifold manifestations of violence and destruction
+       but also triggers a (sometimes glorified, sometimes more or less disavowed) desire
+       for and fulfilment of pleasure in hate.               
+         I consider cruelty as a structuring vector of current political aesthetics based on
+       the understanding that the realm of the political has an aesthetic dimension. Drawing
+       on Muñoz (2009) and Rancière (2013), my point of departure is that each politi-
+       cal regime implies a distribution of what is thinkable about the form of society and
+       collective life (Muñoz, 2009; Plot, 2009; Rancière, 2013). As Martin Plot (2009)
+       explains, this aesthetic dimension involves what is made visible and invisible within
+       society, which affects what is socially accepted as articulable and doable, how we
+       perceive society and what remains excluded from this perception. Along these lines,
+       my point is that this is a political aesthetics where cruelty –attached as it is to a pro-
+       found anti-relational or anti-social ethos proper to the death drive– is undergoing a
+       baffling process of expansion and normalisation. To think of cruelty as a driving vec-
+       tor of contemporary political aesthetics points to a shift in which cruelty ceases to be
+       covert – there is no political need for cruel measures to be bitterly justified, disguised,
+       or regretted – and becomes sadistically and masochistically assented to as standard.
+       As Nora Merlin (2025) observes in her analysis of Argentine President Milei’s dis-
+       course within the context of the global rise of the new right, what distinguishes the
+       contemporary enjoyment of cruelty is its uninhibited display and approval, facilitated
+       by its disassociation from guilt or shame (Merlin, 2025: 67–80).
+         In my view, this process points to a reconfiguration of the ‘distribution of the
+       sensible’ that, according to Rancière (2013), characterises the aesthetic dimension of
+       the political. In this political aesthetics, cruelty assumes a renewed visibility and is
+       normalised as a structuring horizon for imagining society.
+         This political aesthetics of cruelty is manifest in the articulation of fantasies of
+       state and self-sovereignty with contemporary forms of fascination with violence
+       against others. This fascination –if not pleasure in participating in or witnessing
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+       The political aesthetics of cruelty: contemporary authoritarian politics… Page 13 of 19 33
+                                                             
+       scenes of violence and hatred– is perfectly exemplified by the crudeness of war and
+       state-sponsored violence as well as neo-fascist and far-right leaders raving, but also
+       by media’s obsessive over-exposition of scenes of political violence as well as the
+       ceaseless circulation of hatred within social networks. Nihilist or repudiated indif-
+       ference rather than a fascination with violence, on the other hand, are not exempt
+       from participating in the political aesthetics of cruelty either. This exposition triggers
+       for the vast majority, at its best, forms of narcissistic empathy with the suffering of
+       others (Chouliaraki, 2012), outrage or moral condemnation. All of them are modes
+       of witnessing that ultimately confirm the disavowal of either our fascination with or
+       indifference towards violence, making us relatively complicit with cruelty as a politi-
+       cal aesthetics.                                       
+         Perhaps to challenge what Adorno identified as the coldness characteristic of west-
+       ern capitalist modernity (see Edmeads, 2024), which is intimately linked to cruelty,
+       vulnerability has increasingly been invoked as a ground for countering the escalation
+       of precarity, violence and destruction in a globally mediated world. In critical dia-
+       logue with its renewed currency (Chouliaraki, 2024), feminists have engaged with
+       the concept of vulnerability, elaborating on a range of relational ontologies from
+       different philosophical perspectives to underscore its potential (Drichel, 2013; Mack-
+       enzie et al., 2013; Gilson, 2014; Pulkkinen & Cano Abadía, 2020; Daigle, 2023). In
+       turn, vulnerability has also been weaponised to justify the most violent impulses.
+       Vulnerability can (and does) also work in tandem with the activation of a death drive,
+       and, like other life-affirming ideals (i.e. freedom), it has been put to serve a political
+       aesthetics of cruelty as well. The idea that ‘identity politics’ and liberal progressive
+       and inclusive programmes have made whiteness vulnerable is at the core of white
+       supremacist groups’ discourse, as it is to nationalistic anti-migrant discourses. Simi-
+       larly, the idea that the nation and ‘family values’ are vulnerable to their disappearance
+       by the politics of sexual and gender diversity is also at the heart of anti ‘gender ideol-
+       ogy’ campaigns, which, in this way, collude with white supremacist and nationalist
+       movements as well.                                    
+         Given these mobilisations of vulnerability, my argument that the denial of vulner-
+       ability in oneself is at the core of the pairing of cruelty and sovereignty might seem
+       contradictory. As the examples above suggest, recognising vulnerability, rather than
+       its disavowal, appears to underpin these discourses and mobilisations driven by rac-
+       ism and misogyny, as Butler also reminds us (2016, p. 23), but also hatred. The logic
+       in these cases is that the mobilisation of vulnerability works in at least two duplici-
+       tous ways. Either vulnerability is denied entirely, hence the leap into the rampant
+       acting out of sovereignty (as in the case of denialists of COVID, climate change,
+       or gender- and sexuality-based violence).5 Or is evoked as something that not only
+       needs to be overcome –something we could and should get rid of– but also as a posi-
+       tion that is only acknowledged if it is ready to be displaced and projected onto some-
+       one else; likely, ‘the other’. In the latter case, the logic goes like this: I have been
+       allegedly thrown into an unjust position of vulnerability, and this is unjust because
+       5 Arguably, this is linked to contemporary manifestations of misogyny and to political positions that chal-
+       lenge the recognition of gender-based violence, such as those taken by the Spanish party Vox. This is a line
+       of argument I cannot pursue here.                     
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+        33 Page 14 of 19                          L. Sabsay  
+                                                             
+       vulnerability is at odds, if not constitutively opposed, to my identity. Vulnerability
+       does not belong to me because it has never defined who I am: it threatens my identity
+       or impedes me from being who I am supposed to be, destined to be, or want to be.
+       This ambivalent acknowledgement of vulnerability is paired with disavowal: I have
+       been made or feel vulnerable, but I shouldn’t be or feel this way because –constitu-
+       tively or by definition– vulnerable, I am not. Hence, the displacement and projection
+       of vulnerability onto someone else, who, by definition, should be put into a vulner-
+       able position, for it is their vulnerable position that sustains my identity or sense of
+       being as what the other is not.                       
+         One may object that this is just a disingenuous instrumentalisation of vulnerabil-
+       ity, that the mobilisation of vulnerability within progressive and humanist discourses
+       reflects, on the contrary, an empathic orientation towards others. Further complicat-
+       ing the matter is that vulnerability does not have a stable, univocal meaning nor does
+       it foreground a distinct political orientation. Instead, it is the object of political dis-
+       pute. Disparate feminist investments in vulnerability may illustrate the point: pivot-
+       ing around notions of victimhood, for instance, certain forms of carceral logics have
+       invested in the vulnerability of the victim to amplify punitive claims and calls for the
+       enhancement of state-sponsored violence (Ni Una Menos, 2019; Rodriguez et al.,
+       2020; Sabsay, 2022). Similarly, feminists who declare that the recognition of trans*
+       dignity and human rights endanger women’s rights and safety rely on a ‘naturalistic’
+       notion of sex and femaleness that is utterly invested with vulnerability (Tudor, 2023).
+         Considering the myriad uses of vulnerability, the question arises: would a political
+       aesthetics centred on vulnerability be able to challenge this cruelty and offer hope
+       that other better ways of inhabiting this world and living together might be possible?
+       Vulnerability, erotic relationality and hope          
+       In a harsh battle against burgeoning pessimism, I, like many, am wrestling with the
+       question of what kind of politics might prompt hope today. Arguably, the disparate
+       invocations of vulnerability I described reflect our ambivalent relation to it. There-
+       fore to the extent that we cannot just discard this ambivalence, if vulnerability is to
+       offer any potential for hope, the quest would be to find modes of addressing the dis-
+       comfort with vulnerability differently.               
+         As suggested earlier, vulnerability has been invested with hope through its elabo-
+       ration as the locus of interdependence, radical relationality, and ‘transjective’ (Daigle,
+       2023) capacities to affect and be affected. Informed by Butler’s (2009, 2016, 2020)
+       theorisation of vulnerability, I wish to underscore, however, that the emphasis on
+       relationality as an ethical ground for hope would be inoperative if separated from its
+       social materialisation or if formulated in a purely affirmative stance. On the contrary,
+       it must linger with the negative, for ‘we are bound to others not only through net-
+       works of libidinal connection, but also through modes of unwilled dependency and
+       proximity that may well entail ambivalent psychic consequences, including binds of
+       aggression and desire’ (Butler, 2009, p. 30).         
+         Critically engaging with Klein, Butler (2020, pp. 87–101) highlights that the ethi-
+       cal question arises precisely because of the ambivalent nature of our desires, which
+                                                             
+                                                             
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+       The political aesthetics of cruelty: contemporary authoritarian politics… Page 15 of 19 33
+                                                             
+       encompass life-affirming and murderous wishes, while, importantly, challenging
+       Klein’s vision of the management of destructiveness as exclusively aimed at self-
+       preservation. As Butler states (2009, p. 44), ‘[i]f I seek to preserve your life, it is not
+       only because I seek to preserve my own, but because who “I” am is nothing without
+       your life, and life itself has to be rethought as this complex, passionate, antagonistic,
+       and necessary set of relations to others’. It follows from this that the acknowledge-
+       ment of our dependent and relational lives would also entail dealing with the ambiva-
+       lence between eros and the death drive, maybe with the hope that eros will channel
+       aggression in ways that affirm life over death.       
+         Two features of this understanding of vulnerability gesture towards what I take as
+       a more operative configuration of hope, as a (Blochian) disposition towards a not-
+       yet-actualised horizon, a force that, while indeterminate, may fill us –even if only for
+       a fleeting moment– with the sensation that another better world is possible (Muñoz,
+       2009). These two features are, in the first place, that vulnerability can be connected to
+       eros, understood as the realm of connection with others. Secondly, that vulnerability
+       fractures sovereignty, rather than simply refusing it.
+         Regarding the first feature, as I have argued elsewhere (Sabsay 2016a, b), vulner-
+       ability points to the idea that subjects are ultimately permeable thresholds where
+       multiple voices, forces, experiences, and connections meet. This register of vulner-
+       ability as the capacity to affect and be affected, evokes Spinoza’s conatus, the striving
+       of all things natural (humans among them) to persevere in their being. The striving
+       for perseverance, which in Spinoza manifests in passions such as desire –a desire
+       for, a desire to– immediately connects us with something other than our own being.
+       Furthermore, Spinoza’s conatus is akin to eros, the force that affirms life by forging
+       bonds with others (see Sours, 1961). Indeed, contra Spinoza’s vitalist vision, Freud
+       (2011, p. 87) turns to Arthur Schopenhauer to develop the concept of the death drive,
+       conceptualised as the inclination of all things natural (human beings among them) to
+       return to that oceanic feeling of being one with the world I referred to earlier, which
+       ultimately points to an inorganic state. This state of absolute peace is at the basis of
+       the insurmountable inclination to eliminate the excitation that disturbs the organism –
+       the nirvana principle (Freud, 2011, p. 92). It is at this point that the pleasure principle
+       meets the death drive, as it seeks to assuage excitation through a discharge of energy
+       (libido) that would return the organism to its previous equilibrium –a dormant state
+       that ultimately evokes death (Freud, 2011, pp. 51–54, 77–81).
+         But if only this principle organises life, why don’t we go directly to self-destruc-
+       tion and instead are so invested in keeping on living? It is in part responding to this
+       question that, together with the thanatic inclination of the pleasure principle, Freud
+       postulates that eros aims to defer death and affirm life in its relational dimension.
+       Therefore, if hope emerges at all, it will be necessarily attached to eros, as Rosaura
+       Martínez Ruiz (2021) emphatically sustains. This hope would link to the erotic defer-
+       ral of death through a striving to be affected and to affect others in ways that affirm
+       life; that is, in ways that pre-empt the defusion of the death drive and keep it enlisted
+       under the purview of eros, rather than the other way around.
+         It follows that, if vulnerability is reconceived as an instance of erotic relationality,
+       it would point to the disturbance of the fantasy of sovereignty at the core of the politi-
+       cal aesthetics of cruelty. The erotic force of relationality haunts (and may therefore
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+        33 Page 16 of 19                          L. Sabsay  
+                                                             
+       unsettle) the desire to articulate forms of sovereign agency that, at both social and
+       subjective levels, disregard or stubbornly disavow the fact that, in a Butlerian sense,
+       we are always already given to others and the world, just as they are given to us. We
+       may find this haunting in aesthetic moments that, in a Rancièran sense, confront us
+       with forms of production of the sensible that articulate a critique of the present, as an
+       illumination that reveals what is excluded by existing regimes while also offering an
+       aesthetic anticipation of an alternative psycho-political economy.
+         The striving for sovereign mastery against which this hope could emerge has his-
+       torically translated into the paramount capacity for destruction of western instru-
+       mental modern reason, structured around objectifying knowledge and the desire to
+       dominate nature and others (Adorno, 2005). Therefore, a political aesthetics of erotic
+       relationality may emphasise the ultimate impossibility of this desire’s absolute reali-
+       sation. Illuminating other potential but thwarted futures opened in the past or today,
+       such political aesthetics may point to another more just, less violent not-yet and, in
+       this sense, affirm hope (Muñoz, 2009). In this light, moments of hope could emerge
+       precisely in those fugitive aesthetic experiences that unveil non-instrumental, non-
+       dominating and ultimately non-fully knowable subject-object relations.
+         The hope that emerges in those moments is not only one that cannot fully know
+       what its prospects are insofar as hope starts where knowledge ends, in the Blochian
+       sense that it dwells in the realm of the not-yet as an expectation of a better reality
+       that has not yet shown. In Derridean terms, it is a hope that emerges messianically, as
+       justice-to-come, understood, as Chipato and Chandler (2024: 12, 14) suggest, as ‘a
+       vantage point to critique … the disavowed grounds enabling and constraining mod-
+       ern conceptions of the political’. In other words, this hope cannot posit any content
+       that would reproduce a subject-object relationship at the heart of the desire for sov-
+       ereign mastery and the cruelty historically associated with it. Based on Timo Jütten’s
+       reading of Adorno (2019), I would pose this as a negative hope. A negative hope
+       points to a radical alterity we cannot know or imagine. It is a hope that, while opening
+       a portal to a different mode of being, actively refuses to engage with any positive idea
+       of “what should be” (Adorno, 2005; Jütten, 2019). As Jütten (2019, p. 293) suggests,
+       this hope would be linked to a ‘minimal ethics [that] is characterised by humility with
+       regard to one’s moral and ethical convictions, including one’s ability to know what
+       the right thing is’. As a force that feeds the courage to continue resisting the wrong
+       life (Adorno, 2005; Butler, 2012), this negative hope must yield the sovereign claim
+       to know. It is, ultimately, a vulnerable hope.        
+       Conclusion                                            
+       In this article, I have argued that our historical present could be characterised by a
+       political aesthetics of cruelty and asked what the grounds for hope might be today.
+       Drawing on Derrida and Freud, I proposed that the cruelty at the heart of emerging
+       authoritarianisms can be traced to the principle of sovereignty that structures modern
+       western political reason. I subsequently examined the destructiveness immanent to
+       this principle as it manifests contemporarily, interpreting it as a specific political
+       capture of the death drive. In doing so, I approached cruelty as a political aesthetics
+                                                             
+                                                             
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+       The political aesthetics of cruelty: contemporary authoritarian politics… Page 17 of 19 33
+                                                             
+       in order to elucidate the ongoing normalisation and revaluation of violence, destruc-
+       tion, and hatred. Against this backdrop, I interrogated the political mobilisation of
+       vulnerability and, drawing on Butler, examined its potential and its impasses as a
+       counterweight to the attachment to sovereignty. In doing so, I reconsidered vulner-
+       ability in the light of erotic relationality and, subsequently, as a psychosocial instance
+       that gestures toward hope for a less destructive world.
+         Vis-à-vis our planetary dreadful present and foreseeable future, drawing on
+       Adorno, I connected this orientation towards erotic relationality to a negative form of
+       hope that would refuse the satisfaction of the drive to sovereign mastery expressed in
+       the reproduction of instrumental subject-object relations, even if this is hardly think-
+       able given our subject formation. Hence, my proposal that this can only be a radi-
+       cally negative, vulnerable hope. Derrida (2002, p. 241) asks psychoanalysis whether
+       ‘is there, for thought… another beyond… that would stand beyond these possibles
+       that are still both the pleasure…and the death or sovereign mastery drives …’, to
+       conclude: ‘[h]ere, beyond the most difficult, the im-possible itself’ (Derrida, 2002, p.
+       278). And so does my plea: if a non-sovereign relation to an unconditional unknown
+       can emerge in political aesthetic experiences that may challenge our historically fur-
+       nished psychic economy, a genuinely other, less destructive world might, tenuously
+       perhaps, be possible, too.                            
+       Acknowledgements The author thanks the two anonymous reviewers and the editors for their insightful
+       and constructive comments, which were most helpful in refining and strengthening the arguments devel-
+       oped in this article.                                 
+       Author contributions This is a single-authored article. LS did all the research, and wrote the whole content
+       and revised the manuscript.                           
+       Funding The author received no funding for the research, authorship and/or publication of this article.
+       Data availability No datasets were generated or analysed during the current study.
+                                                             
+       Declarations                                          
+       Competing interests The author declared that there are no competing interests as defined by Palgrave or
+       other interests that might be perceived to influence the results and/or discussion reported in this article.The
+       authors declare no competing interests.               
+                                                             
+       Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+       which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long
+       as you give appropriate credit to the original author(s) and the source, provide a link to the Creative
+       Commons licence, and indicate if changes were made. The images or other third party material in this
+       article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line
+       to the material. If material is not included in the article’s Creative Commons licence and your intended use
+       is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission
+       directly from the copyright holder. To view a copy of this licence, visit h t t p : / / c r e a t i v e c o m m o n s . o r g / l i c e n
+       s e s / b y / 4 . 0 / .                               
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+        33 Page 18 of 19                          L. Sabsay  
+       References                                            
+                                                             
+       Adorno, T. (2005). ([1951]) Minima moralia: reflections on a damaged life. Translated by E. F. N. Jeph-
+         cott. London: Verso.                                
+       Adorno, T. (2020). Aspects of the new right-wing extremism. Translated by W. Hoban. Cambridge: Polity
+         Press.                                              
+       Ahn, I. (2013). Deconstructing the economy of debt: Karl Marx, Jürgen Habermas, and an Ethics of Debt.
+         Trans-Humanities, 6(1), 5–32.                       
+       Arendt, H. (1970). On violence. Harcourt Brace Jovanovich,.
+       Braidotti, R. (2015). Posthuman affirmative politics. In S. E. Wilmer, & A. Žukauskaitė (Eds.), Resisting
+         Biopolitics: Philosophical, Political, and Performative Strategies (pp. 30–56). Routledge.
+       Brown, N. O. (1985). [1959]) Life Against death: The psychoanalytical meaning of history. Wesleyan
+         University.                                         
+       Brown, W. (2015). Undoing the demos: Neoliberalism’s stealth revolution. zone books.
+       Butler, J. (2009). Frames of war. Verso.              
+       Butler, J. (2012). Can one lead a good life in a bad life? Radical Philosophy, 176, 9–18.
+       Butler, J. (2016). Rethinking vulnerability and resistance. In J. Butler, Z. Gambetti, & L. Sabsay (Eds.),
+         Vulnerability in resistance (pp. 12–27). Duke University Press.
+       Butler, J. (2020). The force of non-violence: An ethico-political bind. Verso.
+       Butler, J. (2022). What world is this? A pandemic phenomenology. Columbia University.
+       Catanzaro, G. (2026). Spectrology of authoritarian neoliberalism: Toward a critique of neoliberal ideol-
+         ogy in late capitalism. Polity.                     
+       Cavallero, L., & Gago, V. (2021). A feminist reading of debt. Pluto.
+       Chipato, F., & Chandler, D. (2024). Justice ‘to Come’? Decolonial deconstruction, from postmodern poli-
+         cymaking to the black horizon. International Political Sociology, 18(4), olae041. h t t p s : / / d oi . o r g / 1 0
+         . 1 0 9 3 / i p s / o l a e 0 4 1                   
+       Chouliaraki, L. (2012). The ironic spectator: solidarity in the age of post-humanitarianism. Polity.
+       Chouliaraki, L. (2024). Wronged: The weaponization of victimhood. Columbia University.
+       Daigle, C. (2023). Posthumanist vulnerability: An affirmative ethics. Bloomsbury.
+       Derrida, J. (2002). Psychoanalysis searches the states of its soul: the impossible beyond of a sovereign
+         cruelty. Without Alibi (pp. 238–280). Stanford University Press.
+       Derrida, J. (2009). The beast and the sovereign Vol. I. University of Chicago Press.
+       Derrida, J. (2014). The death penalty Vol. I. University of Chicago Press.
+       Derrida, J. (2017). The death penalty Vol. II. University of Chicago Press.
+       Drichel, S. (Ed.). (2013). Special issue on Vulnerability. SubStance, 132.
+       Edmeads, L. (2024). Towards an ethics of undoing: Reimagining precarity, instrumental reason, and
+         moral philosophy with Adorno and Butler. PhD Thesis, University of Brighton: Author.
+       Fanon, F. (1986). [1952]) Black skin, white masks. Pluto.
+       Freud, S. (1962). [1929]) Civilisation and its discontents. Edited and translated by James Strachey. New
+         York: W.W. Norton & Company.                        
+       Freud, S. (2011). [1920]) Beyond the pleasure principle. Edited and translated by T. Dufresne. Ontario:
+         Broadview Editions.                                 
+       Freud, S. (1961 [1924]). The economic problem of masochism. In The standard edition of the complete
+         psychological works of sigmund freud, vol. XIX, pp. 155–170. Edited and translated by J. Strachey.
+         London: The Hogarth Press and the Institute of Psychoanalysis.
+       Gambetti, Z. (2021). The new fascist moment. Historical Materialism Blog, 21 June. h t t p s : / / w w w . h i s t o r i c
+         a l m a t e r i a l i s m . o r g / b l o g / n e w - f a s c i s t - m o m e n t (Accessed: 6 December 2024).
+       Geerts, E., & Carstens, D. (2024). Mimetic resentment’s violent somatechnics in permacrisis times: critical
+         cartographical contours and coordinates. Somatechnics, 14(2), 139–161.
+       Gilson, E. (2014). The ethics of vulnerability: a feminist analysis of social life and practice. Routledge.
+       Hartman, S. (1997). Scenes of subjection: terror, slavery, and self-making in nineteenth-century america.
+         Oxford University Press.                            
+       Jütten, T. (2019). Adorno on hope. Philosophy and Social Criticism, 45(3), 284–306.
+       Klein, M. (1975). [1958]) On the development of mental functioning. Envy and Gratitude (pp. 236–246).
+         Delacorte.                                          
+       Klein, M. (1986). [1935]) A contribution to the psychogenesis of manic-depressive states. In J. Mitchell
+         (Ed.), Selected Melanie Klein (pp. 115–146). Penguin.
+
+[PAGE 19]
+                                                             
+                                                             
+                                                             
+       The political aesthetics of cruelty: contemporary authoritarian politics… Page 19 of 19 33
+       Lugones, M. (2007). Heterosexualism and the colonial modern gender system. Hypatia, 22(1), 186–209.
+       Mackenzie, C., Rogers, W., & Dodds, S. (Eds.). (2013). Vulnerability: New essays in ethics and feminist
+         philosophy. Oxford University Press.                
+       Martínez Ruiz, R. (2021). Eros beyond the death drive. Fordham University.
+       McKittrick, K. (Ed.). (2015). Sylvia wynter: On being human as praxis. Duke University Press.
+       Merlin, N. (2025). La Libertad Avanza y el Goce de la Crueldad. In F. Rosemberg (Ed.), El Goce de la
+         Crueldad: Argentina en Tiempos de Milei (pp. 67–80). Ediciones Continente.
+       Muñoz, J. E. (2009). Cruising utopia: The then and there of queer futurity. New York University.
+       Ni Una Menos. (2019). Amistad política + inteligencia colectiva: Documentos y manifiestos 2015–2018.
+         Ni Una Menos.                                       
+       Plot, M. (2009). The democratico-political: social flesh and political forms in lefort and merleau-ponty.
+         Theory & Event, 12(4), n/a. h t t p s : / / w w w . p r o q u e s t . c o m / s c h o l a r l y - j o u r n a l s / d e m o c r a t i c o - p o l i t i c a l - s o c i
+         a l - fl e s h - f o r m s - l e f o r t / d o c v i e w / 2 1 0 8 2 9 7 5 4 / s e - 2 (Accessed: 8 November 2024).
+       Pulkkinen, T., & Abadia, C., M. (Eds.). 2020 Special Issue on ‘Vulnerability’ within Contemporary Femi-
+         nist Politics and Theory. Redescriptions, 2(23).    
+       Quijano, A. (2000). Coloniality of power, eurocentrism, and latin america. Nepantla: Views from South,
+         1(3), 533–580.                                      
+       Rancière, J. (2013). The politics of aesthetics: the distribution of the sensible. Edited and translated by
+         Gabriel Rockhill. London: Bloomsbury.               
+       Rodriguez, S., Ben-Moshe, L., & Rakes, H. (2020). Carceral protectionism and the perpetually (in)vulner-
+         able. Criminology & Criminal Justice, 20(5), 537–550.
+       Rottemberg, E. (2012). Cruelty and its vicissitudes: jacques derrida and the future of psychoanalysis. The
+         Southern Journal of Philosophy, 50 Spindel Supplement, 143–159.
+       Sabsay, L. (2016a). The political imaginary of sexual freedom. Palgrave.
+       Sabsay, L. (2016b). Permeable bodies: vulnerability, affective powers, hegemony. In J. Butler, Z. Gam-
+         betti, & L. Sabsay (Eds.), Vulnerability in Resistance (pp. 278–302). Duke University Press.
+       Sabsay, L. (2020a). The political aesthetics of vulnerability and the feminist revolt. Critical Times, 3(2),
+         179–199.                                            
+       Sabsay, L. (2020b). Beyond populist borders: embodiment and the people in laclau’s political ontology.
+         Theory & Event, 23(3), 810–833.                     
+       Sabsay, L. (2022). Gender(Ed.) violence in neo-authoritarian times. Cultural Dynamics, 35(1–2), 29–46.
+       Said, E. (1995 [1978]) Orientalism. London: Penguin.  
+       Semán, P. (Ed.). (2024). Esta entre Nosotros. Siglo XXI.
+       Sours, J. (1961). Freud and the philosophers. Bulletin of the History of Medicine, 35(4), 326–345.
+       Spivak, G. C. (1999). A critique of postcolonial reason: toward a history of the vanishing present. Harvard
+         University Press.                                   
+       Tokatlian, J. G. (2018). Una internacional reaccionaria. Crisis, 6 December, n/p. h t t p s : / / r e v i s t a c r i s i s . c o m .
+         ar / n o t a s / u n a - i n t e r n a c i o n a l - r e a c c i o n a r i a (Accessed: 6 December 2024).
+       Toscano, A. (2023). Late fascism: Race, Capitalism and the Politics of Crisis. Verso.
+       Traverso, E. (2018). Las Nuevas Caras de la Derecha. Siglo XXI.
+       Tudor, A. (2023). The anti-feminism of anti-trans feminism. European Journal of Women’s Studies, 30(2),
+         290–302.                                            
+       Wilson Gilmore, R. (2022). Abolition geography: essays towards liberation. Verso.
+       Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps
+       and institutional affiliations.                       
+       Leticia Sabsay is associate professor of gender and contemporary culture at the department of gender
+       studies, London School of Economics and Political Science. Her work interrogates the entanglement
+       of political identifications, gender and embodiment. She has written extensively on sexual politics and
+       the mobilisation of ideals of freedom, justice, and democracy across transnational contexts. Her current
+       research is focused on the psychosocial dynamics of contemporary authoritarian trends. She is the author
+       of The Political Imaginary of Sexual Freedom (Palgrave, 2016) and has co-edited with Judith Butler and
+       Zeynep Gambetti, Vulnerability in Resistance (Duke, 2016). In Spanish, she authored the monographs Las
+       Normas del Deseo: Imaginario Sexual y Comunicación (Cátedra, 2009) and Fronteras Sexuales: Espacio
+       Urbano, Cuerpos y Ciudadanía (Paidós, 2011).          

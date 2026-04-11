@@ -1,0 +1,72 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "fumagalli_2025",
+  "title": "Politicizing political liberalism: on the containment of illiberal and antidemocratic views [Book Review]",
+  "author": "Fumagalli",
+  "year": 2025,
+  "journal": "Contemporary Political Theory",
+
+  "opening_move": {
+    "type": "normative_puzzle",
+    "description": "The review opens with the puzzle that Rawlsian scholarship has until recently largely ignored the challenge posed by antidemocratic forces, despite Rawls's own recognition that unreasonable doctrines are a permanent feature of democratic life.",
+    "anchored_in": ["Rawls", "Badano", "Nuti"],
+    "stakes_claimed": "Political liberalism needs to reckon seriously with illiberal threats from within, not just treat them as marginal aberrations"
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["Rawlsian political liberalism (standard version)", "accommodationist approaches"],
+    "engagement_structure": "immanent_critique",
+    "immanent_critique": false,
+    "own_position_type": "none",
+    "own_position_explicit": false,
+    "description": "The review presents Badano and Nuti's 'politicization' of political liberalism as a necessary extension of Rawlsian theory to address antidemocratic threats, without independent critique."
+  },
+
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "close reading of Rawls and Badano/Nuti",
+    "notes": "Book review genre; primarily expository."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "philosophical_text",
+    "case_name": "Badano and Nuti, Politicizing Political Liberalism (2024); Rawls, Political Liberalism",
+    "case_function": "primary_object_of_analysis",
+    "case_relation_to_argument": "object_of_interpretation",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "democratic theory / political liberalism / constitutional design",
+    "claim_type": "prescriptive",
+    "closure_type": "open_ended_with_burden_on_reader"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "case_introduction",
+    "case_development",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["political liberalism", "unreasonable doctrines", "containment", "antidemocratic views", "illiberal forces", "politicization"],
+
+  "thinkers_deployed": {
+    "central": ["Rawls", "Badano", "Nuti"],
+    "engaged_critically": ["standard Rawlsian approaches"],
+    "referenced_only": ["militant democracy literature (implied)"]
+  },
+
+  "confidence_notes": "Book review genre; primarily expository. The connection with militant democracy literature is implicit."
+}

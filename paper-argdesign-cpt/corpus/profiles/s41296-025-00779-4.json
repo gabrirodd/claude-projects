@@ -1,0 +1,75 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "roch_balinhas_mondon_2025",
+  "title": "A critique of the polarisation narrative: expanding the limits of democracy, parties and political participation",
+  "author": "Roch, Balinhas, Mondon",
+  "year": 2025,
+  "journal": "Contemporary Political Theory",
+
+  "opening_move": {
+    "type": "empirical_anomaly",
+    "description": "The paper opens by diagnosing the 'polarisation narrative' as a discursive construction that, like the populism hype before it, shapes political understanding while obscuring real structural trends — specifically, it constructs a spectrum where legitimacy resides in the 'centre' and excludes democratic demands from the 'extremes'.",
+    "anchored_in": ["polarisation literature", "populism studies", "Mouffe", "Laclau"],
+    "stakes_claimed": "The polarisation narrative legitimises technocratic post-political management and forecloses possibilities for democratic expansion; a critique of the narrative is needed to recover democratic alternatives"
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["mainstream polarisation narrative", "post-political technocratic discourse", "centrist democratic theory"],
+    "engagement_structure": "sustained_critique",
+    "immanent_critique": true,
+    "own_position_type": "external_alternative",
+    "own_position_explicit": true,
+    "description": "The paper performs a critical discourse analysis of the polarisation narrative and proposes democratic expansion as an alternative framework, drawing on agonistic, Gramscian, and participatory democratic theory."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_qualitative_empirical",
+    "secondary": null,
+    "empirical_evidence_present": true,
+    "empirical_evidence_role": "supportive",
+    "quantitative_methods": "content analysis of NYT articles (Nexis search); frequency counts of 'polarisation' in academic publications",
+    "qualitative_methods": "critical discourse analysis of the polarisation narrative",
+    "data_sources": ["Nexis database NYT polarisation articles 2015-present", "academic publication frequency data"],
+    "interpretive_methods": "discourse analysis; Gramscian hegemony theory",
+    "notes": "The empirical data (media/publication counts) are supportive illustrations of the narrative's construction and growth, not constitutive of the normative argument for democratic expansion."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "political_event",
+    "case_name": "Trump's political rise and the polarisation discourse in the United States; European far-right mainstreaming",
+    "case_function": "illustration",
+    "case_relation_to_argument": "illustrative_only",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "democratic theory / political parties / public sphere",
+    "claim_type": "critical_diagnostic",
+    "closure_type": "research_agenda"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "empirical_presentation",
+    "rival_mapping",
+    "immanent_critique",
+    "conceptual_distinction",
+    "framework_proposal",
+    "normative_derivation",
+    "conclusion_strong"
+  ],
+
+  "reflexive_move": true,
+
+  "key_concepts": ["polarisation narrative", "democratic expansion", "post-politics", "technocratic management", "affective polarisation", "hegemony"],
+
+  "thinkers_deployed": {
+    "central": ["Mouffe", "Laclau"],
+    "engaged_critically": ["mainstream polarisation theorists", "Klein", "Svolik"],
+    "referenced_only": ["Gramsci", "Thompson (E.P.)", "Wood (E.M.)", "Stavrakakis", "Spivak"]
+  },
+
+  "confidence_notes": "21-page research article with light quantitative evidence (media frequency data) used supportively. The core argument is critical-normative; the empirical material illustrates the narrative's discursive construction rather than proving it."
+}

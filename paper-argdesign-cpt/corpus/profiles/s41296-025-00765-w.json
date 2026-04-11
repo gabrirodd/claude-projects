@@ -1,0 +1,72 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "battaglini_2025",
+  "title": "Race, time, and utopia: critical theory and the process of emancipation [Book Review]",
+  "author": "Battaglini",
+  "year": 2025,
+  "journal": "Contemporary Political Theory",
+
+  "opening_move": {
+    "type": "reconstructive_diagnosis",
+    "description": "The review opens by presenting Paris's central claim: utopia functions as a critical theory in Black political thought to break with racialized temporal domination and inaugurate new social possibilities.",
+    "anchored_in": ["Paris", "Du Bois", "critical theory"],
+    "stakes_claimed": "Diagnosing and conceptualising racial injustice as temporal domination in order to formulate emancipatory resources"
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["blueprint conceptions of utopia", "pure structural accounts of racial justice"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": false,
+    "own_position_type": "none",
+    "own_position_explicit": false,
+    "description": "The review is appreciative and expository, presenting Paris's two innovations (utopia as 'not-yet'; racial injustice as temporal domination) and contextualising their theoretical contributions."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_interpretive_case",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "close reading of Paris and critical theory tradition; Du Bois exegesis",
+    "notes": "Book review genre; largely expository. The normative stake belongs to the reviewed book's argument (utopian emancipation from racial domination)."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "philosophical_text",
+    "case_name": "Paris, Race, Time, and Utopia (2025); Du Bois's work",
+    "case_function": "primary_object_of_analysis",
+    "case_relation_to_argument": "object_of_interpretation",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "race / emancipation / democratic theory",
+    "claim_type": "reconstructive",
+    "closure_type": "open_ended_with_burden_on_reader"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "framework_proposal",
+    "case_development",
+    "conceptual_distinction",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["utopia as not-yet", "racial injustice as temporal domination", "non-synchronous time", "emancipatory forms of life", "Black political thought", "critical theory"],
+
+  "thinkers_deployed": {
+    "central": ["Paris", "Du Bois"],
+    "engaged_critically": [],
+    "referenced_only": ["critical theory tradition (Bloch, Frankfurt School implied)"]
+  },
+
+  "confidence_notes": "Book review genre. High normative stake reflects the book's project, not an independent reviewer intervention. The review is primarily expository."
+}

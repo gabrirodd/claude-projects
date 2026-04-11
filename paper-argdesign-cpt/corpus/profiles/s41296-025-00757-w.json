@@ -1,0 +1,74 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "mcmanus_2025a",
+  "title": "Equality: what it means and why it matters [Book Review]",
+  "author": "McManus",
+  "year": 2025,
+  "journal": "Contemporary Political Theory",
+
+  "opening_move": {
+    "type": "empirical_anomaly",
+    "description": "The review opens with a polemical diagnosis of contemporary democratic crisis — the 2024 US election as symptom of entrenched oligarchy — to frame the reviewed book's stakes.",
+    "anchored_in": ["Piketty", "Sandel", "Trump"],
+    "stakes_claimed": "Understanding what equality means in an era of intensifying plutocracy and meritocratic ideology"
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["meritocracy", "liberal egalitarianism", "Sandel's communitarianism"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": true,
+    "own_position_type": "friendly_amendment",
+    "own_position_explicit": true,
+    "description": "The review endorses the Piketty-Sandel dialogue but presses for a more radical structural critique that goes beyond the conversation's reformism."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_interpretive_case",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "close reading of the Piketty-Sandel dialogue, with political-diagnostic framing",
+    "notes": "Book review with strongly polemical political framing. The reviewer's own normative commitments (socialist egalitarianism) shape the critical assessment."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "political_event",
+    "case_name": "2024 US Presidential election; Piketty & Sandel, Equality (2025)",
+    "case_function": "illustration",
+    "case_relation_to_argument": "illustrative_and_generative",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "justice / equality / democratic theory",
+    "claim_type": "critical_diagnostic",
+    "closure_type": "open_ended_with_burden_on_reader"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "empirical_presentation",
+    "case_introduction",
+    "case_development",
+    "immanent_critique",
+    "normative_derivation",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["equality", "meritocracy", "oligarchy", "egalitarianism", "moral luck", "populism"],
+
+  "thinkers_deployed": {
+    "central": ["Piketty", "Sandel"],
+    "engaged_critically": ["Sandel"],
+    "referenced_only": ["Mill"]
+  },
+
+  "confidence_notes": "Short book review (3 pages) with unusually strong political framing. Reviewer is Matthew McManus — same person whose book was reviewed in 00756-x — lending the review a distinctive ideological voice."
+}

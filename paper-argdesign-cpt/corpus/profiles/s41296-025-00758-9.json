@@ -1,0 +1,76 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "ghumkhor_gillespie_mcmorrow_2025",
+  "title": "Race still matters: the (post) racial politics of conspiracy theories",
+  "author": "Ghumkhor, Gillespie, McMorrow",
+  "year": 2025,
+  "journal": "Contemporary Political Theory",
+
+  "opening_move": {
+    "type": "empirical_anomaly",
+    "description": "The paper opens by diagnosing the proliferation of racist conspiracy theories (Great Replacement, White Genocide, QAnon, Eurabia) in liberal-democratic societies as a phenomenon that standard 'post-truth' explanations fail to account for.",
+    "anchored_in": ["Mills (racial contract)", "Bonilla-Silva", "post-truth literature"],
+    "stakes_claimed": "The dominant post-truth explanation reproduces a postracial obfuscation that conceals the structural-racial conditions enabling conspiracy theories in liberal democracies"
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["post-truth theorists", "postracialism", "apolitical/ahistorical conspiracy theory research"],
+    "engagement_structure": "sustained_critique",
+    "immanent_critique": true,
+    "own_position_type": "external_alternative",
+    "own_position_explicit": true,
+    "description": "The paper argues against both post-truth and postracial frameworks, proposing a Lacanian psychoanalytic reading of conspiracy theories as symptoms of a repressed racial contract structuring liberal democracy."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_interpretive_case",
+    "secondary": "fully_normative",
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "Lacanian psychoanalytic theory; critical race theory; postcolonial analysis; conceptual analysis of conspiracy theories",
+    "notes": "Despite the subject matter (empirical phenomena: conspiracy theories, racial politics), the argument is entirely theoretical-interpretive. Examples (QAnon, Great Replacement) are used illustratively to instantiate the theoretical framework, not as systematic empirical evidence."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "political_event",
+    "case_name": "QAnon, Great Replacement Theory, White Genocide, Eurabia conspiracy theories",
+    "case_function": "illustration",
+    "case_relation_to_argument": "illustrative_only",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "race / democracy / epistemology",
+    "claim_type": "critical_diagnostic",
+    "closure_type": "strong_normative_conclusion"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "immanent_critique",
+    "framework_proposal",
+    "case_introduction",
+    "case_interpretation",
+    "conceptual_distinction",
+    "normative_derivation",
+    "conclusion_strong"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["racial contract", "postracialism", "post-truth", "conspiracy theories", "Lacanian psychoanalysis", "liberal-democratic imaginary"],
+
+  "thinkers_deployed": {
+    "central": ["Mills (Charles W.)", "Lacan", "Bonilla-Silva"],
+    "engaged_critically": ["post-truth theorists", "postracial discourse"],
+    "referenced_only": ["Goldberg", "Asad", "Stavrakakis", "Zupančič", "Dean", "Losurdo"]
+  },
+
+  "confidence_notes": "The paper uses conspiracy theories as illustrative examples to make a theoretical claim about the racial structure of liberal democracy. The epistemic mode is normative-interpretive, not empirical, despite engaging empirical phenomena."
+}

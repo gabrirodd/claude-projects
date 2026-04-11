@@ -1,0 +1,1001 @@
+[PAGE 1]
+                                                             
+                                                             
+                                                             
+       Contemporary Political Theory (2025) 24:766–784       
+       https://doi.org/10.1057/s41296-025-00768-7            
+       ARTICLE                                               
+                                                             
+       Imagining democratic insurgency: enthusiasm, sublimity,
+       and finitude                                          
+                                                             
+                                                             
+       Stephen K. White1                                     
+                                                             
+       Accepted: 19 April 2025 / Published online: 26 June 2025
+       © The Author(s) 2025                                  
+                                                             
+       Abstract                                              
+       Recent appeals to the aesthetic-affective realm, specifically to sublimity, tend to con-
+       centrate on how it can work to disrupt political power. But another, older, tradition
+       of interpretation looks to sublimity not as a generator of dissensus, but rather as
+       a feeling that can bind people together to enact democratic power. Its roots are in
+       eighteenth-century figures as diverse as Kant, Robespierre, and John Adams. But
+       there is a perennial problem with this tradition: The enthusiastic exaltation associ-
+       ated with being motivated by the sublimity of popular democratic movements is dif-
+       ficult to differentiate from a similar motivation evident in fascist ones. I engage this
+       difficulty in two ways. First, I trace how it troubles William E. Connolly’s attempt
+       to link the aesthetic-affective dimension in politics with the myth of a general strike
+       as a way of motivating future collective democratic action. But my engagement with
+       Connolly is not just critical. It also, secondly, draws positive value from his thinking
+       about how mortality needs to be folded into our political sensorium. That insight
+       is crucial if we are to conceive and cultivate a sense of sublimity that is associated
+       not just with enthusiasm, but also with a certain kind of sobriety about our fini-
+       tude, our human limits. The embrace of a two-fold sense of sublimity, encompassing
+       both “enthusing” as well as “sobering” dimensions, can help constitute a democratic
+       sensibility that deflates proto fascistic tendencies to see ourselves as embodying an
+       unlimited will to power when we participate in collective insurgency.
+       Keywords Myth · Democracy · Insurgency · Sublimity · Finitude · William E.
+       Connolly                                              
+                                                             
+       The association of sublimity with politics is a venerable one. In recent years, many
+       scholars have envisioned the feeling of sublimity primarily as a source of dissensus
+       and disruption that can loosen the hold of frames of power. The connection of that
+       feeling with the unsettling of normalized expectations allows it to play this role in
+                                                             
+       *                                                     
+         Stephen K. White                                    
+         skw2n@virginia.edu                                  
+       1 University of Virginia, Charlottesville, VA 22904, USA
+        Vol:.(1234567890)                                    
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+       Imagining democratic insurgency: enthusiasm, sublimity,… 767
+                                                             
+       relation to persistent injustice. We might think of this effect as a “centrifugal” force
+       on political power, disrupting its grip on the consciousness of individuals.1 But there
+       is another tradition of interpretation, an older one, that looks to ways in which our
+       aesthetic-affective reactions can enhance, as opposed to disrupt, the concentration
+       of power—more particularly for present purposes, the democratic concentration of
+       power. In the eighteenth century, attention began to focus on the phenomenon of
+       popular insurgency. This tradition attends to the motivating power of the sublimity
+       of shared, democratic enthusiasm and awe to bind together those struggling against
+       authoritarian orders. We can envision this way of understanding the influence of
+       feelings of sublimity as involving a binding, “centripetal” force on the generation of
+       power in collective action.                           
+         Neither of these approaches to sublimity can claim to be categorically preferable.
+       The centripetal and the centrifugal perspectives each brings a valuable, but contest-
+       able, angle of insight into politics. And each is also entangled with a distinctive
+       problem. For the centrifugal, a persisting question is whether it ends up authorizing
+       only a negative attitude toward any coherent formation of political power, authori-
+       tarian or democratic, even though it imagines its role to be one of opening space
+       for democracy. In short, power is engaged only for the purpose of disruption; it is
+       not explicitly affirmed as something to be shared and enhanced. For the centripetal,
+       the critical doubt is whether its solidifying affirmation of popular manifestations of
+       power can also sufficiently differentiate between types of insurgencies. In short, it
+       is not immediately clear how one can distinguish between enthusiasm for popular
+       democratic phenomena of power and enthusiasm for fascist ones.
+         In what follows, I want to critically rethink the centripetal conception with the
+       intention of mitigating the fascism problem. In today’s climate of emerging proto
+       fascism in a variety of countries around the world, this sort of endeavor will hope-
+       fully be seen as having potential real-world implications, a characterization some-
+       times denied to explorations of topics associated with aesthetics.2 To give my dis-
+       cussion a specific referent for engaging this nexus of questions, I turn to the work
+       of William E. Connolly. He has made important contributions to understanding how
+       our aesthetic-affective sensibility relates to politics, as well as to how we should fold
+       those insights together with democratic insurgency. Connolly has argued that effec-
+       tive resistance to the cascading problems of climate destruction, racism, extractive
+       capitalism, inequality, and right-wing populism requires us to consider novel ways
+       of motivating democratic action; in short, generating centripetal force. More par-
+       ticularly, he has promoted the value of a “turn to myth” for the political left, more
+       1 Perhaps the best representative of this dominant contemporary way of conceiving the political sublime
+       is Shapiro, 2018, pp. 2–4, 39, 172. Jacques Rancière characterizes this general approach as aiming “to
+       think politics and aesthetics under the concept of dissensus” (2011, p. 1).
+       2 When I refer to the fascism problem today in the U.S. and elsewhere, I am speaking of the congealing
+       of several characteristics apparent on the right that constitute an emerging threat: Continual intensifica-
+       tion of a sense of “us” vs. “them,” with the latter defined especially in racial and ethnic terms; a growing
+       enthusiasm for violence directed at “them” that is encouraged by leaders; and all this is bathed in the
+       imaginary of a “mythic past,” whose greatness we are promised can be regained. See Stanley (2020, pp.
+       xiii, xxviii-xxxii, 5, 58, 183, 187).                 
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+       768                                       S. K. White 
+                                                             
+       particularly, the myth of “the general strike,” as crucial to an effective appeal to take
+       up collective action. Although he does not explicitly use a concept of sublimity in
+       this context, I will argue that he in fact operates with one, more particularly one
+       that is centripetal.3 The problem with this implicit deployment is that it allows the
+       fascism problem to persist, even though this is manifestly not Connolly’s intention
+       (2017a, pp. 1, 121–149; 2022, pp. 140–141).\ My point is not to claim that Connolly
+       ends up supporting fascism, but rather that he configures a sensibility supporting
+       violence on the left that is difficult to clearly distinguish from that of fascism, with
+       its appeals to myth and enthusiasm for vehement action. The goal of my analysis is
+       simply to encourage those on the democratic left to think more carefully about how
+       we should imagine a distinctly democratic approach to violence.
+         This engagement with Connolly should not be seen as a simple, one-dimensional
+       critique. Rather, my aim is to show that he could avoid the fascism difficulty if he
+       were to explicitly embrace a certain understanding of the centripetal sublime that I
+       will propose. Moreover, adopting that understanding also opens up an overlooked
+       congruence between Connolly’s account of democratic insurgency, on the one hand,
+       and the fundamental commitments of his own ontology of identity\difference, on the
+       other—commitments that I share, and that are in fact crucial to the character of the
+       centripetal conception of democratic sublimity that I propose. Thus, my strategy is
+       one of constructive critique aimed at a mutually acceptable theoretical stance.
+         Toward that goal, I pursue two lines of argument that provide grounds not for
+       summarily rejecting his appeal to the myth of a general strike, but rather for recon-
+       ceptualizing it in a more clearly democratic fashion. First, Connolly needs to rec-
+       ognize that his account of that myth implicitly appeals to a conception of the cen-
+       tripetal sublime. This emerges when he embraces the ideas of Georges Sorel who
+       explicitly invokes the motivating power of sublimity, something that ended up
+       making the latter’s ideas attractive to twentieth-century fascists. Thus, in turning
+       to Sorel, Connolly unintentionally becomes entangled with this problem. Second,
+       I argue that the way to address this difficulty is not by rejecting an embrace of the
+       sublime altogether, but rather by adopting a modified conception of it. Taking this
+       turn would also have an unexpected value for the coherence of Connolly’s work as a
+       whole. This is because it helps better align his recent discussions of insurgency with
+       his earlier reflections on identity\difference, especially in how the latter thematizes
+       the role of human finitude or mortality.4 With my suggested reconfiguration, we
+       achieve a perspective that highlights the admirable role a centripetal sublimity can
+       play in sustaining specifically democratic upwellings of popular collective action.
+         Centripetal conceptions of a political sublime have typically focused on the awe
+       and elevating enthusiasm associated with motivating popular manifestations. In the
+       3 My attention to the centripetal character of Connolly’s approach should not be taken as a claim that
+       nothing he says is sympathetic to the centrifugal view. Clearly, he is interested in evoking dissensus in
+       relation to existing political ideas and forms. My point is simply that what is most distinctive in his work
+       is the way it engages the question of how to generate the positive, binding force of collective democratic
+       commitment.                                           
+       4 As Connolly says, he is presenting an interpretation of “life, identity, and death” (1991, p. 172). The
+       role of finitude in Connolly is elaborated in White (2000, pp. 106–150).
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+       Imagining democratic insurgency: enthusiasm, sublimity,… 769
+                                                             
+       eighteenth century, this association became common and was deployed by a remark-
+       able variety of figures, including, notably, Kant (2011, pp. 22–25, 95; 2000, pp.
+       153–154, 246–247; 1991, p. 182), Robespierre (Huet, 1994, p. 61), and John Adams
+       (1773, 1964). But for Kant and Adams, this salutary elevation could become prob-
+       lematic if it morphed into feelings of sheer enthusiasm for violence divorced from
+       all sense of restraint. In what follows I want to pick up on this concern and address
+       it by means of the articulation of a more capacious comprehension of the role sub-
+       limity can play in political life, something that can help us see what is problem-
+       atic about a reduction of sublimity into a feeling of unlimited enthusiasm. This will
+       involve unpacking how our aesthetic-affective sensibility may be intertwined with a
+       consciousness of human finitude. We might speak here of re-vivifying a “sobering”
+       dimension of the sublime. A core contention of this article is that when we want to
+       characterize the centripetal sublimity of democratic politics, this dimension must be
+       brought more into the foreground, so that an experience of sublimity is imagined as
+       encompassing both “enthusing” and “sobering” elements.5
+         With the foregoing goals in mind, let me begin by recounting how Connolly
+       theorizes democratic resistance. He has done a stellar job of analyzing the visceral,
+       aesthetic-affective dimension of politics, focusing on how we might cultivate a self
+       that is more aware and militant “as fascist movements proliferate and the Anthropo-
+       cene gallops at an accelerating pace” (2023, p. 26). Although Connolly has provided
+       perceptive elucidation of how we can work on ourselves and each other to make our
+       sensorium more resistant to disturbing trends in the regnant political culture, for a
+       long time he had relatively less to say about the visceral dimension of vehement,
+       collective democratic insurgency itself. In the last decade, however, he has moved
+       further in this direction with his bold appeal to the vivid idea of “cross-regional gen-
+       eral strikes,” something he hopes will appear as the culmination of merging strands
+       of political resistance (2017, p. 12).                
+         But this appeal remains somewhat perplexing. He indicates that such a strike
+       has the character of a “myth” (2017, pp. 12, 120, 146–147). My sense is that Con-
+       nolly sees the need for democratic insurgency to appear as a looming, powerful ideal
+       about which we should feel awe and enthusiasm, but he is not very clear about its
+       form and the character of its attractiveness. The appeal to a general strike seems to
+       function primarily as a symbolic driver of a hoped for, highly disruptive force of
+       resistance against normalized politics. One of the main theorists of the idea of a gen-
+       eral strike—and the one from whom Connolly draws his inspiration is the late nine-
+       teenth and early twentieth-century French political thinker, Sorel (Connolly. 2017,
+       pp. 129–131, 147). He believed that “terrifying” violent action, including bloodshed,
+       was a crucial part of a general strike, something he hoped would “completely anni-
+       hilate” the existing regime (Sorel, 1961, pp. 274–275). Without violence, he argued,
+       revolutionary movements will fail to continually rejuvenate the awe and enthusiasm
+       associated with a “sublime” (Sorel, 1961, pp. 139, 275), “epic state of mind” (Sorel,
+       quoted in Jennings, 1985, p. 135).                    
+       5 The character of such a bivalent conception of the sublime is explained at greater length in White
+       (2025).                                               
+                                                             
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+       770                                       S. K. White 
+                                                             
+         After his initial embrace of Sorel, however, Connolly struggles to create some
+       distance from him regarding the violent characteristics of a general strike. But this
+       secondary gesture generates some perplexity as to why he attaches his views to that
+       thinker’s images in the first place. My key question for Connolly can now be stated
+       this way: How might he clarify this striking appeal to a mythic of enthusiastic demo-
+       cratic insurgency in a way that more persuasively coheres with both core democratic
+       values and the deepest commitments of his work as a whole? In trying to answer
+       these questions, I begin by considering in how the aesthetic-affective dimension of
+       democratic insurgency has been taken up historically, especially how it has been
+       associated with the topic of the sublime and entangled with the issue of political
+       violence. This will help locate Connolly’s invocation of a general strike in a broader
+       philosophical and historical context. In the next section, I explore how the issue of
+       violence in democratic insurgency might be productively negotiated by means of
+       a thematization of human finitude that is alien to fascism. My analysis starts in an
+       unexpected place, namely, Edmund Burke’s reflections on how the feeling of sub-
+       limity is entangled with our mortality. This path might seem to be a complete non-
+       starter, given Burke’s fulsome rejection of any sort of vehement democratic mani-
+       festation in Reflections on the Revolution in France (1987). But there may yet be
+       something of value that can be redeemed in the way he associates finitude with the
+       sublime. This unlikely interpretive path will hopefully be rendered less question-
+       able when I suggest that a central theme in Connolly’s own thought runs parallel
+       in its attention to finitude. Then in the subsequent section I try to flesh out how this
+       way of thinking about the sublime encompasses a sensibility not only related to awe
+       and enthusiasm, but also to a sobering sense of how our finitude should infuse our
+       engagement with politics in general, but especially insurgent movements. In the final
+       section, I show how my weaving together of these threads might help to provide a
+       better context for Connolly’s appeal to the myth of a general strike as part of the
+       motivational palate of democratic resistance. My specific claim here is intended to
+       apply more generally to any attempt to bring the motivating force of sublimity into
+       the imagination of emerging democratic power.         
+       The aesthetic‑affective dimension of democratic insurgency
+       I have suggested that there is a problem with how Connolly connects aesthetic-affec-
+       tive sensibility in general with the motivation of democratic insurgency. At the heart
+       of this deficiency is his neglect of what is, historically, the most salient orientation
+       to conceptualizing the aesthetic-affective dimension of collective action. Here, I
+       refer to the tradition of comprehending the visceral appeal of popular movements
+       through the notion of sublimity. As noted above, the distinctively modern version
+       of this was highlighted in the eighteenth century with the emergence of democratic
+       revolutions. The first prominent philosophical characterizations of what we might
+       call, following Jason Frank (2021), the “democratic sublime,” were either cautiously
+       measured in their judgment (Kant, 1991, pp. 182–184) or downright hostile (Burke,
+       1987, pp. 9–10, 15, 57, 134). Neither of these thinkers wanted to be seen as encour-
+       aging what Robespierre lauded as the “sublime enthusiasm” of violent revolutionary
+                                                             
+                                                             
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+       Imagining democratic insurgency: enthusiasm, sublimity,… 771
+                                                             
+       action—the ‘volcanic’ eruptions of democracy, as it were (quoted in Huet, 1994, p.
+       61).                                                  
+         The association of the sublime with natural phenomena like volcanos or vertigi-
+       nous mountain peaks was a familiar one; but it must be remembered that the concept
+       of the sublime in politics was always entangled with our moral character. In Burke, it
+       is our character as mortal creatures of God who are embedded in social hierarchies;
+       in Kant, it is our character as noumenal beings.6 Both believed that the significance
+       of these moral frames can be heightened through cultivation. Of course, each of
+       them thought that their way of perceiving these foundational values—noumenal in
+       Kant and hierarchical, theistic in Burke—merely reflected something intrinsic to the
+       metaphysical character of the world. Thus, each in his own way differentiated (even
+       if not entirely explicitly) between something like a “real” or “authentic” (eigentlich)
+       sublime and a “false” sublime, with only the former involving “true enthusiasm.”7
+       The question of how exactly we should draw that distinction and cultivate it was
+       approached differently by these two philosophers, as they witnessed the violence of
+       the French Revolution.                                
+         What I want to suggest is that Connolly needs to better engage the knot of ques-
+       tions that is highlighted by those who have grappled with the entanglement of demo-
+       cratic insurgency, foundational values, and the sublime. As I suggested above, this
+       whole terrain of reflection becomes salient to Connolly when he appeals to the idea
+       of a general strike as the culmination of the micro-politics of the self and the politics
+       of “swarming” between diverse groups that he hopes will gather momentum toward
+       a culminating volcanic eruption (2019, pp. 43; 2017, pp. 6, 123–129).
+         The general strike is an image, not a blueprint for action. Like Sorel, Connolly
+       promotes the idea of a general strike as a novel addition to our political mythic. In
+       short, it needs to be part of the aesthetic-affective imaginary that generates enthusi-
+       asm for vehement democratic movements. But Connolly, unlike Sorel, is quite clear
+       that his idea of a general strike is to be one of restrained violence not involving sub-
+       stantial “bloodshed.” This limitation is stated in relatively categorical terms. But the
+       only reason Connolly gives for his position is that recourse to bloodshed on the left
+       is strategically bad in the sense that it is likely to give those on the right the excuse
+       to raise the level of their own violence (2017, pp. 131–132). This is no doubt a seri-
+       ous consideration today; but I would question whether purely strategic reasoning
+       here is adequate to comprehending the issue of bloodshed as it emerges at this point
+       in the discussion of democratic insurgency.           
+       6 Burke’s early treatment of the sublime tried to present itself as an empirical analysis of our “natu-
+       ral” aesthetic-affective reactions. But this is not empiricism in our contemporary sense. It presumes the
+       naturalness of the Great Chain of Being. The normative core of his analysis of our “natural” sensorium
+       becomes increasingly evident in his later reactions to the French Revolution (White, 1994, pp. 4–5,
+       25–27).                                               
+       7 In a letter attributed to him, Burke explicitly refers to a “false sublime,” see Boulton, 1958, p. cxii.
+       Even if it were to turn out that Burke did not explicitly use the term, it is clear that he continually
+       employed the concept; see White, 1994, pp. 72–75. For Kant’s terminology, see 1991, pp. 182–183;
+       Kant, 2000, pp. 129–30. This English edition translates das eigentliche Erhaben as the “properly sub-
+       lime” (Kant, 1974, p. 166). I prefer rendering this as “real” or “authentic.” This accords more with the
+       contrasting sense of a “false” sublime in Kant; see Clewis, 2009, pp. 180–181.
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+       772                                       S. K. White 
+                                                             
+         One of my reasons for highlighting the importance of discussions of the sublime and
+       politics becomes clearer in the light of this concern. That is because the issue of vio-
+       lence, as I noted above, has always been at the center of discussions of modern demo-
+       cratic insurgency. Concern about violence in the French Revolution led Kant to affirm
+       the feeling of sublimity when experienced by one observing that novel emergence of
+       popular politics, but he did not allow that to extend to any enthusiasm that might draw
+       one toward participation in revolutionary violence. (Kant, 1991, pp. 182–184). Such cau-
+       tion became vivid condemnation in Burke who believed that the French Revolution was
+       awash in a “false” sublime: One powered by awe and enthusiasm in the face of scenes
+       of human willfulness un-leashed from all the hierarchical social and political bonds of
+       the ancien régime, as well as from the humility embodied in Christian values. Unlimited
+       willfulness—human infinitude—was displacing a proper appreciation of our character
+       as finite creations of an infinite deity atop the Great Chain of Being. This, to Burke, was
+       at the core of the felonious assault on western civilization ushered into history by popu-
+       lar insurgency; and when The Terror emerged, Burke could say he told us so.
+         Generations of scholars of both liberal and conservative persuasions have at least
+       tacitly followed Burke in his suspicions about the role of aesthetic-affective empower-
+       ment of forceful democratic insurgency, even if they have not all wanted to endorse his
+       nostalgia for a hierarchical world. Frank, in his The Democratic Sublime, has tried to
+       show that this recurring suspicion amounts to a tendentious “democratic terror thesis”
+       (Frank, 2021, pp. 68–69). As he argues, invocations of it simply tar every democratic
+       manifestation in the streets with the brush of impending violence, terror, and authoritar-
+       ianism. Although I agree with the bulk of Frank’s counterargument here, he neverthe-
+       less clears the field of obstacles to his categorical affirmation of a democratic sublime
+       a bit too quickly. By this I mean that he succeeds in showing that there is no necessary
+       slide to terror and authoritarianism in vehement popular manifestations, but he has not
+       refuted the argument that such manifestations may slide that way, if we simply bathe
+       our action-oriented attitudes in the accelerant of a supportive aesthetic-affective sensi-
+       bility. In short, popular insurgencies whose motivation is enhanced by such a sensibility
+       may track in a democratic direction, but they may also track in populist authoritarian
+       ones as well.                                         
+         This is hardly a minor academic issue today, as many democratic polities confront
+       right-wing populist movements. More events such as the insurgency in Washington,
+       DC, on January 6, 2021, are not a remote possibility. Clearly, that event was an authen-
+       tic, vehement popular manifestation, fired by collective enthusiasm; in short, entangled
+       with an elevating sense of the sublime. Many of the participants felt they were acting
+       together to “stop the steal” and save democracy. Is their feeling of being part of a sub-
+       lime and estimable event defensible? Or is it a stunted, indefensible manifestation of a
+       democratic ethos?                                     
+       The sublime and finitude                              
+       As noted earlier, Burke’s account of the sublime is deeply unfashionable today.
+       But I want to suggest that there may yet be something partially valuable in his cri-
+       tique of political insurrection, once we detach it from his affinity for hierarchy, both
+                                                             
+                                                             
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+       Imagining democratic insurgency: enthusiasm, sublimity,… 773
+                                                             
+       theological and social-political. We might then begin to reconfigure his critique of
+       modern, systemic political willfulness as calling valuable attention to a forgetting of
+       our mortality, our finitude.8                         
+         But how exactly might the cultivation of a sense of finitude infuse a feeling of the
+       sublime, after one has given up the more familiar, apparently necessary, contrasting
+       figure of divine infinitude? Burke was struck by the way in which some experiences
+       of pain or the closeness of death can bring not just fear or terror, but also a curious
+       sense of pleasurable elevation.9 Of course, if one is immediately threatened with
+       death, there is nothing positive about it; it is merely terrifying. But if one is some-
+       what removed from the danger, that space may allow for a subtle sense of elevation
+       that, however, remains in tension with the “sobriety” evoked by the coerced viv-
+       idness of our mortality experienced against the background of God’s immortality
+       (Burke, 1990, p. 32). But if we relinquish that transcendental anchor, however, the
+       compound sense of both pleasure and sobriety must be comprehended as emerging
+       somewhat differently. It can arise, I would suggest, from experiencing our real but
+       precarious, capacity to challenge and temporarily exceed limits in pursuing our ide-
+       als, in this case the collective ideal of a sustainable democratic world. (This sort of
+       experience would especially stand out if we were experiencing our finitude against
+       the ontological background of an infinite becoming of the world around us, an idea
+       at the core of Connolly’s own ontology, as I will show in a moment.)10
+         The key issue here becomes how to conceptualize this in a way that does not
+       inflate the exhilaration of challenging limits into a confidence in human limitless-
+       ness. The feeling of sublimity needs to be better associated with the evocation
+       of an experience of finitude joined with an uplifting, exhilarating sense of the
+       human spirit engaging its limits in a world of becoming. This means embracing
+       what I called above the “sobering” dimension of the sublime. It contrasts with,
+       but also should accompany, the more familiar sense of an “enthusing” sublime
+       that Frank so admirably illustrates. Democratic life must cultivate a sensibility
+       characterized by a tensional congruence of the two, if it is to adequately distin-
+       guish its own occasional resort to violence from that of fascism or of groups on
+       the left for whom violence became simply an enthusiastically embraced strategy,
+       like the Weather Underground or the Red Army Faction. 
+         One might argue, however, that my suggestions about a distinctive democratic
+       sensibility are not well grounded: Don’t all regimes, even fascist ones, attend in
+       some way to our finitude? Those who die in the favored cause are exalted and
+       8 As I suggested earlier (n. 6), various commentators, from Kant to the editor of a modern edition of A
+       Philosophical Enquiry mistakenly see Burke as providing “a merely empirical exposition” of the sub-
+       lime, thus missing entirely the philosophical centrality of finitude (Kant, 2000, p. 158; Burke, 1990, p.
+       xi). Jean François Lyotard is one of the few contemporary philosophers who correctly comprehends this
+       centrality (1989, pp. 204–206). A good treatment of how the normativity of Burke’s early work on aes-
+       thetics is connected to his later political texts, is O’Neill (2012).
+       9 For Burke, “death is the king of terrors” that can evoke the sublime; and pain is the “emissary” of
+       death (1990, pp. 33–34, 36).                          
+       10 A modified Nietzschean notion of being as becoming is crucial to Connolly’s underlying ontology.
+       One must learn to “respect the diversity of life flowing over and through officially sanctioned identities…
+       Life exceeds identity” (1991, p. 170).                
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+       774                                       S. K. White 
+                                                             
+       remembered as martyrs. But here the enthusing valence of sublimity is consist-
+       ently given effective priority; the other, sobering valence, plays a markedly sub-
+       ordinate, even disappearing, role. The fascist does not allow deaths to resonate
+       with any real depth, but rather categorically locks them into a script in which
+       they serve a grief-transcending purpose without limits: the further “hardening
+       [of] oneself like steel” against the enemy (Junger, 2008, pp. 16–17). We have
+       seen a similar, if milder, version of this strategy pursued by the Trump move-
+       ment. Leaders radically reinterpret moments that might otherwise be interpreted
+       as evoking a sense of finitude and humility. For example, the enthusiasm of an
+       election contest juxtaposed to the sobering moment of acknowledging that your
+       party has lost is a crucial, if often overlooked, moment in the experience of dem-
+       ocratic life. But Trump and his circle consistently urged supporters to literally
+       deny these moments in relation to the 2020 election; thus, a loss was not really a
+       loss, but only the occurrence of fraud and conspiracy by opponents. Supporters
+       are accordingly encouraged to harden their hostility toward the enemy and enthu-
+       siastically pursue their fight to retain power.       
+         If one tries to think of a vivid example of how bivalent sensibility informs polit-
+       ical protest in democratic polities, civil disobedience is likely to come quickly to
+       mind given its notable highlighting of the sobering dimension. In his 1963, “Letter
+       from a Birmingham Jail,” Martin Luther King, Jr., speaks of the “sublime courage”
+       of the protestors as they faced the violence of police dogs and batons with a spirited
+       sense of collective empowerment and sobriety (King 1963). Although this charac-
+       terization of the protests is apt, it is nevertheless important not to misinterpret the
+       exemplary character of what went on in places like Birmingham, Alabama in the
+       1960s. These episodes quickly came to be distorted into narrowly restrictive mod-
+       els of how oppositional protest should be conducted in liberal, constitutional orders.
+       This sort of idealized interpretation allowed many white Americans to see any sort
+       of more vehement, “uncivil” protests on the part of blacks in that era as patently ille-
+       gitimate. The latter were seen as unacceptable in a “reasonably just” society, as John
+       Rawls characterized the existing order. (Pineda, 2021, pp. 22–52). But for blacks in
+       America at that time, the U.S. hardly fit that description. Thus, while instances like
+       Birmingham should indeed be seen as embodying an admirable bivalent sensibility,
+       that judgment should not be equated with the further claim that this status simulta-
+       neously denies legitimacy to more uncivil modes of protest of the kind that tended
+       to become prevalent in later years, both in the civil rights movement and in the anti-
+       Vietnam war protests. The choice of a mode of protest always involves weighing the
+       degree of injustice present in a regime against the degree of violence being enter-
+       tained as appropriate by opposition actors. These are typically rough and fallible
+       decisions in fraught contexts; and they may only find fuller justification after some
+       passage of time (as I will explain further in a moment).
+         It is thus crucial not to confuse my claims about the significance of a bivalent sen-
+       sibility with a narrow liberal position that accords certain actions like civil disobedi-
+       ence an overly idealized status without regard to context. My argument aims rather
+       to highlight that democratic decisions about vehement protest should involve a range
+       of ethical and strategic concerns infused with a sense of sublimity. It thus differs
+       from both a narrow liberal argument mandating a blanket prohibition on violence,
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+       Imagining democratic insurgency: enthusiasm, sublimity,… 775
+                                                             
+       on the one hand, and a fascist one where the deployment of violence is animated
+       merely by strategic calculations and a sense of enthusiasm for the deed, on the other.
+         The background orientation provided by such a bivalent sublimity is needed
+       to provide coherence to a position like Connolly’s, with its somewhat perplexing
+       notion of a violent general strike that is nevertheless to be “bloodless” (Connolly,
+       2017, pp. 128–129). In short, for actors to plausibly pursue his scenario of a vehe-
+       ment, but restrained, opposition, they would need to embrace something like this
+       sort of sensibility. But further argument is needed for this claim to be sufficiently
+       convincing. Toward that end, two additional issues have to be engaged.
+         First, any claim highlighting a sense of finitude in democratic life is likely to
+       meet with some wariness. Bonnie Honig has warned against the danger of what she
+       calls a “mortalist humanism” that threatens to turn attention too sharply away from
+       admirable, contestatory upwellings of democracy (Honig, 2013, pp. 15, 19, 26–27,
+       30, 146–147). Following this sentiment, Frank similarly contends that a focus on
+       finitude and the associated stress on human vulnerability efface “democratic con-
+       tention” and “the importance of inspiring new assemblages of collective, demotic
+       power” (Frank, 2021, pp. 9; 2009, pp. 670–671). In short, focusing on finitude
+       means agonistic enthusiasm is being traded away for humility and quiescence. This
+       feels like a bad exchange; and it would presumably worry Connolly as well, given
+       the centrality of the notion of agonism to his work as a whole. Accordingly, my
+       attempt to affirm the value of a “sobering sublime,” attached to a highlighting of
+       finitude, would seem to be a dead end. Then again, maybe not.
+         From time to time in Connolly’s recent work, the theme of finitude surfaces. In
+       Facing the Planetary, for example, he affirms “Nietzschean explorations of mortal-
+       ity…in a world of becoming” (2017, pp. 190; 2019, 88). But such statements are rel-
+       atively few and scattered. To grasp the full importance of this topic for him, we need
+       to return to his earlier, pathbreaking Identity\Difference (1991). There our anxiety
+       about mortality is at the core of an ontology that continues to animate Connolly’s
+       thought today. Significantly, that book is also where his distinctive take on agonism
+       is first developed. Given the suspicions just noted about the danger that a stress on
+       finitude represents for agonism, it is useful to recall its insights.
+         Connolly claims there that our identity takes shape through its constitutive rela-
+       tion with what it is not; in short, I don’t exist as a purely self-constituting being
+       which then goes out into the world to encounter what is different. This means that
+       I am not the ontological sovereign of myself. I am constitutively entangled. That
+       is the source of an underlying existential ressentiment. Why is that the case? It is
+       because this underlying anxiety is cathected with awareness of my mortality. The
+       closer I can feel to being sovereign, the freer I feel from the bondedness of my fini-
+       tude. If so, then I will continually resent the fact that the would-be sovereignty of my
+       identity is always already constrained by its entanglement with others. That resent-
+       ment of my condition manifests itself in a persistent “temptation” to transfigure what
+       is “different” into what is “other,” with the latter being the object of abiding hostil-
+       ity, underlain by a wish that this other’s impeding of my/our will could be erased
+       from the world (1991, pp. ix-x, 1-3, 8-9).            
+         The existential relation of identity\difference is thus a deep source of agonism in
+       human affairs. And it is resilient because our anxiety about mortality is ineliminable.
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+       776                                       S. K. White 
+                                                             
+       Although we may not be able to free ourselves from it, we can resist the persistent
+       temptation to assuage that anxiety and resentment by indulging the desire to domi-
+       nate the other, especially in political life, where that hostility can manifest itself in
+       such horrendous ways. Connolly’s hope is that we can cultivate our sensibility in
+       such a fashion as to temper this dynamic, so that we do not allow politics to slide
+       from a “agonism of respect” to an imperial agonism of annihilation (1991, pp. x, 10,
+       33, 166–167, 170).                                    
+         This would seem to indicate that an investment in agonism is not at all incompat-
+       ible with a deep embrace of mortality. It should, of course, be emphasized here that
+       this relationship is, for Connolly, not conceived in theistic terms, in relation to which
+       our mortal condition stands out; rather it appears against the background of an onto-
+       logical picture of non-theistic being as becoming.    
+         This ontology is crucial to the second issue that must be engaged if my Connolly
+       interpretation is to be convincing. A critic might suggest that I am inappropriately
+       bringing aspects of his early work on human identity\difference to bear on issues
+       related to his later work that focuses on non-human nature and a radical politics
+       of democratic response to the climate crisis. The claims arising from the former,
+       including the crucial place of finitude, are, it might be argued, simply not related
+       to the latter. But there is in fact a close relationship between the two. To grasp its
+       character, one must attend to how the ontological background structures Connol-
+       ly’s thinking on the latter issue, as well as the former. Although Connolly origi-
+       nally developed the identity\difference conception primarily to think about self and
+       human other, this relation should not be understood as only having a purely inter-
+       human dimension. Its embeddedness in his encompassing ontology of becoming has
+       significant implications for the relation of self and non-human otherness. And this
+       connection allows one to see how his earlier reflections open into the concerns of
+       his later work on the climate crisis, with its focus on how we need to reconceptual-
+       ize our understanding of non-human nature in order to adequately comprehend and
+       respond to that crisis.                               
+         Understanding the process of becoming as applying to non-human nature means
+       seeing the latter as characterized by a powerful and increasing dynamism. Follow-
+       ing recent scientific opinion, Connolly wants to expand our comprehension of both
+       the scope and speed of change in nature to include how things like ocean currents
+       are being rapidly transformed by human-caused climate warming. The processes
+       of non-human, natural becoming are not as fixed or slow as humans have typically
+       imagined them in the Anthropocene.                    
+         How does this more rapid non-human becoming relate to the identity\difference
+       dynamic? The solidity of my identity is fundamentally threatened by such becoming
+       in nature, especially the acceleration that results from human intervention. A stable
+       and systematically pliable non-human natural world is a crucial part of the imagi-
+       nary embedded in modern life. Such a world helps sustain the continued assumption
+       that we can achieve an infinitely increasing mastery of nature with relatively little
+       cost. But nature now appears as something more precarious or fragile in relation to
+       our efforts to manipulate it and more subject to rapid becoming, especially a becom-
+       ing that also demonstrates the fragility of our frameworks for human planning. This
+       threatens a core component of the imagined sovereignty of modern selves, just as
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+       Imagining democratic insurgency: enthusiasm, sublimity,… 777
+                                                             
+       does the existence of human others who challenge our identity (Connolly, 2013). For
+       example, the human-caused warming of the climate is linked to increasingly intense
+       storms and rising sea levels that threaten settled patterns of living necessary to the
+       stability of the background conditions in which modern identity is anchored.
+         Moreover, when we see this link between Connolly’s early account of identity
+       and his later work on the climate crisis, it helps us to better understand why climate
+       change deniers manifest such dogged resistance to accepting scientific facts. What
+       would otherwise seem to be an obviously irrational stance gains its sense from a
+       low-grade rage at the idea that natural otherness seems to be willfully assaulting the
+       stability of our identity as sovereign, modern selves. Determined, increasingly vehe-
+       ment denial and hostility toward those “others” who worry about fragility seem to
+       be the only ways to protect the integrity of that identity and keep our finitude at bay.
+         If the argument in the preceding paragraphs is valid, then there is no reason that
+       the “later” Connolly should not be able to find value in a bivalent conception of the
+       sublime that embodies the centrality of finitude. Such a conception would encom-
+       pass the feelings of elevation, awe, and enthusiasm that can attend and help motivate
+       vehement popular manifestations but do so in a way that “tempers” or sobers the
+       feeling of agonism directed at our political opponents (Scudder and White, 2023, pp.
+       71–106.).                                             
+       Picturing a two‑fold sublime                          
+                                                             
+       Although I have suggested that some political phenomena, such as civil disobedi-
+       ence, can model a fully bivalent feeling of sublime, it needs to be acknowledged
+       that vehement democratic manifestations at a given time may be characterized pre-
+       dominantly by enthusiastic turmoil, mixed with some sorts of violence, manifesting
+       little apparent sense of sobriety. And that may not be inappropriate, depending on
+       the intensity of the harms being contested and the goals being pursued. But, if so,
+       doesn’t this mean that a feeling of the sublime in a fully bivalent sense will often not
+       be readily apparent in tumultuous politics? Here, we need to recognize, as I noted
+       above, that a sequence of decisions associated with collective insurgency may only
+       be capable of adequate evaluation over extended periods of time, as democratic
+       actions are reflected upon and moderated, thereby hopefully manifesting the increas-
+       ing presence of a sobering component.                 
+         Taking temporality in this sense into account helps in clarifying the distinction
+       between democratic insurgent actions and proto-fascist variants. The degree to
+       which the former show characteristics of a sobering sublime will be crucial to this
+       judgment. Over time, democratic movements should be able to modulate their self-
+       image and behavior to better align their commitment to militancy with a capacious,
+       bivalent sense of sublimity.                          
+         But if insurgent democratic actions are, on their own, often unlikely to immedi-
+       ately manifest a full sense of sublimity, where might we look for aid in vivifying
+                                                             
+                                                             
+                                                             
+                                                             
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+       778                                       S. K. White 
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+       Fig 1 Sethembile Msezane, Chapungu: The Day Rhodes Fell (2015). See “Standing for art and truth: A
+       chat with Sethembile Msezane,” TED Blog; https:// blog. ted. com/ stand ing- for- art- and- truth-a- chat- with-
+       sethe mbile- mseza ne/                                
+                                                             
+       and cultivating such a compound feeling that might then be brought to bear on our
+       judgments of political action? There are, of course, vivid historical examples of full
+       manifestations of a two-fold sublimity. It is important to keep these alive in public
+       memory. Here, I have already mentioned civil disobedience in the 1950s and 1960s.
+       Similarly, we can look to events like the Boston Tea Party, attending especially to
+       how it represented great popular enthusiasm balanced with a remarkable attention
+       to minimizing bloodshed.11 But we should also attend to how aesthetic representa-
+       tions can provide us with images that can evoke both senses of the sublime simul-
+       taneously. As an example, consider the public enactments of the contemporary
+       South African performance artist, Sethembile Msezane. In one of her works (Fig 1),
+       she inserted herself into a setting of enthusiastic collective democratic action that
+       occurred at the University of Cape Town during the dismantling and removal of a
+       large statue of Cecil Rhodes in 2015.                 
+         On one level, her appearance might appear to fit seamlessly with the crowd’s
+       enthusiastic sense of sublimity at the toppling of this prominent figure in South
+                                                             
+       11 In this regard, Benjamin Carp’s Defiance of the Patriots (2010) is exemplary.
+                                                             
+                                                             
+                                                             
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+       Imagining democratic insurgency: enthusiasm, sublimity,… 779
+                                                             
+       Africa’s racist history. Clad as an eagle, she seems to soar triumphantly above the
+       scene of Rhodes being toppled. And yet Msezane clearly wants to strike, as well, a
+       note of sobriety. The bird she is mimicking is the Chapungu, a species that is threat-
+       ened today in South Africa. And the easy enthusiasm of the crowd snapping photo-
+       graphs is juxtaposed to what Msezane clearly intended to be a long, grueling ordeal
+       for herself. This and other performances she has staged portray a sense of the vul-
+       nerability, precarity, and pain of the human body, especially the black female body
+       in the history of that country. The suffering is intended as part of the drama of these
+       performances. As she said of her condition when she stepped off the plinth after
+       hours in 90-degree-F weather: “By the time I came down, I was shaking and experi-
+       encing sunstroke. But I also felt a burst of life inside” (Msezane, 2020).12
+       A sobering sublime and connolly’s appeal to sorel’s general strike
+                                                             
+       If my reflections so far have lent the notion of a sobering aspect of sublimity some
+       general plausibility, what exactly is its specific value for Connolly’s take on what
+       is to be done to contest our current political threats? He points us to two general
+       strategies: The “politics of swarming” and the “cross-regional general strike.”13 The
+       former refers to multiple forms of local knowledge-building, sensibility tuning, and
+       organizing to draw together diverse constituencies who have a stake in combatting
+       present ills. This idea seems plausible and admirable. But how do we imagine such a
+       multifaceted “rhizomatic complex” of activity binding itself into the form of a vehe-
+       ment collective insurgency (Connolly, 2017, pp. 12, 120)? We need some way of
+       animating the motivation of “dispersed participants” so that they coalesce into the
+       “perfect storm” of a general strike. Such motivation “dissolves the sense of being
+       neutralized by the everyday practices of capitalism” and vivifies “the prospect of
+       acting collectively” (Connolly, 2017, pp. 129, 148).  
+         Crucial to generating the needed motivation for such an eruption is the looming
+       image of the general strike presented in Sorel’s Reflections on Violence, published
+       in 1908. As Connolly says, Sorel makes clear “how such a … myth…can sharpen
+       needed energies and divisions” between “us” and “them” and motivate insurgent
+       collective action (Connolly, 2017, p. 130). Sorel looked to this myth to weld the
+       working class into a monolithic “terrifying” weapon of “war” (1961, pp. 274–275).
+         Connolly thus turns to the general strike for its force as a mythic image of a polit-
+       ical upheaval. He lauds Sorel for his “projection of a vision” intended to “mobilize
+       [people] to act” (2017, p. 147). Sorel emphasized that the sense and power of this
+       vision could not be transmitted by reasoned explication (1961, pp. 122–124). It was
+       to move an audience of workers by its visceral, aesthetic-affective appeal to their
+                                                             
+                                                             
+       12 For a more extended analysis of other, similar performances of Msezane, as well as ones with com-
+       parable evocations of bivalent sublimity by Kehinde Wiley, see White (2025); see also Msezane (2017).
+       13 Although the notion of a general strike is discussed at greatest length in chapter five of Connolly
+       (2017), he continues, more recently, to affirm it in Connolly (2022, p. 141).
+                                                             
+                                                             
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+       780                                       S. K. White 
+                                                             
+       imagination to enthusiastically take up the violent task of the revolutionary over-
+       throw of capitalism.14                                
+         But immediately after announcing his investment in Sorel’s central idea, Con-
+       nolly begins a process of significant qualification. This is where the trajectory of his
+       thinking gets problematic. The reason is that we are first incited to cathect with a
+       powerful, visceral image of a volcanic, lethal, explosion whose appeal exceeds rea-
+       son; but then we are provided with an opposing list of reason-based cautions. We are
+       accordingly told to look to insights from other thinkers like Gandhi on nonviolence,
+       cautioned that such a strike must be “bloodless,” and informed that the unified fist
+       of Sorelian opposition must rather take the form of “pluralist assemblages” moving
+       in “slow motion” (Connolly, 2017, pp. 128–129). In sum, participants in Connolly’s
+       general strike are incited to be furiously enthusiastic in collectively toppling the pil-
+       lars of the contemporary economic-political order, but then abruptly told to restrain
+       themselves with cautious, rational qualifications.    
+         My point in emphasizing the sharp contrast between the visceral appeal to a
+       mythic versus the subsequent rational chastening of it is not meant to question Con-
+       nolly’s cautions themselves. In fact, I agree with them. Rather what I want to high-
+       light is the striking divergence between his declaration of a need to move beyond
+       reason alone by looking to the aesthetic-affective power of the mythic, on the one
+       hand, followed by his announcement that we must radically deflate that aesthetic-
+       affective force with reason alone, on the other. Here, ironically, Connolly could be
+       his own best critic, given his assertions about the unpersuasiveness of any thinking
+       that fails to acknowledge the persistent force of aesthetic-affective dynamics in poli-
+       tics. I want to suggest that we embrace an alternative way of proceeding here that
+       might allow a better negotiation of this problem—but do so in a way that neverthe-
+       less respects the deepest commitments of Connolly’s thought. This will, however,
+       require an openness on his part to embracing the language of sublimity.
+         With that goal in mind, let me begin by noting that although Connolly appeals to
+       the power of Sorel’s aesthetic-affective framing, he curiously does not pick up on
+       the latter’s explicit binding of his myth of collective action with the feeling of the
+       sublime. For example, Sorel refers to the “sublime work” of revolutionary action
+       and urges us to see how the myth of the general strike is “capable of inspiring sub-
+       limity” (pp. 139, 214–215, 275). I assume that Connolly’s inattention to this usage
+       in Sorel is not intentional, but rather simply an oversight. Perhaps, however, instead
+       of either overlooking Sorel’s sublime or simply adopting it, one could here embrace
+       a bivalent notion of sublimity. This might help avoid enhancing the danger of freely
+       accelerating violence and bloodshed in popular insurgency through the depletion of
+       some dimensions of its motivational power; in short, we would be looking for an
+       14 My concerns about violence in this context do not constitute an argument against the idea of a gen-
+       eral strike itself, nor against the idea of affirming a mythic dimension in democratic theory. My focus is
+       merely on the problems that emerge from Connolly’s appeal to Sorel’s specific account of the general
+       strike. Regarding my views on the importance of a mythic dimension in democratic theory, see Scudder
+       and White (2023, pp. 106–170.                         
+                                                             
+                                                             
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+       Imagining democratic insurgency: enthusiasm, sublimity,… 781
+                                                             
+       influence on our visceral, aesthetic-affective register, rather than solely to prudential
+       dictates.                                             
+         This criticism of Connolly is not a categorical claim that one cannot bring aes-
+       thetic-affective sensibility into a relation with rational-moral cautions. As my discus-
+       sion of Burke and Kant noted, there has typically been an entanglement of the two
+       in discussions of sublimity. And Connolly similarly promotes combining appeals to
+       our sensibility with “refined processes of reflection” (2017a, pp. xxi-xxii, 84). My
+       objection is rather that in his invocation of a general strike the aesthetic-affective
+       force he appeals to is diametrically opposed to his rational-moral reflections. All of
+       the force on the visceral register is on the side of Sorel’s sublime mythic image. It is
+       no secret that his demotion of reason in this formulation of what I have been calling
+       an exclusively enthusing sublime is something that undemocratic characters, starting
+       with Mussolini, have found attractive.15              
+         Now Connolly, as noted above, is acutely aware that “there is never a vacuum on
+       the visceral register of affective communication” (2017a, p. 17). But his formula-
+       tions seem to leave just such a vacuum in the democratic sensorium that he wants so
+       much to help cultivate. If one is to effectively fight fascism’s visceral strength, then
+       one must draw some resources from that same register. Connolly clearly does not
+       want to follow Sorel’s simple, enthusiastic embrace of violence, but his caution in
+       this regard needs to be better supported by insights about the cultivation of an appro-
+       priate countervailing sensibility.                    
+         As Connolly says repeatedly, fascism is a threat we must “counter on the visceral
+       register” (2017a, p. 19). But what then might provide the positive, aesthetic-affective
+       source of such a counterforce? It is here that turning to the sobering dimension of
+       sublimity can be helpful, especially when it is interpreted in terms of the ontological
+       grounding that Connolly has so compellingly sketched in his earlier work. There the
+       self is imagined as continually and consciously negotiating its finitude by resisting
+       the temptation to transform difference into otherness, a tendency that is generated by
+       our modern, perpetually renewed tendency to repress any abiding acknowledgement
+       of our mortality. A resistant attitude here would reflect and help manifest an attach-
+       ment to being as becoming, in the sense that our orientation to difference would
+       now acknowledge that condition of the world by expressing a “presumptive generos-
+       ity” and “agonistic respect” toward the continual becoming of difference (2005, p.
+       31;1991, p. x).                                       
+         This ontological scene, and the proto narrative it supports, together provide a
+       positive, existential framing for affirming and cultivating a sobering dimension of
+       sublimity. And that cultivation would help us to feel motivated not just by sublime
+       enthusiasm for collective action in the pursuit of democratic political goals, but also
+       by an abiding resistance to the temptations to self-righteousness and certainty that
+       feed a sense of unlimited, iron willfulness. As Connolly has noted, fascism revels
+       in images of the “armored male” body imagining itself capable of annihilating any
+       obstacle to its will (2017a, pp. 53–58, 84–86). He highlighted this deep association
+       15 Mussolini stressed his debt to Sorel, saying he was crucial in helping him to learn how to build “the
+       energy and power of … fascist cohorts,” quoted in Edward Shils’s introduction to Sorel (1961, p. 24).
+                                                             
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+       782                                       S. K. White 
+                                                             
+       well before the January 6, 2021 insurrection in Washington, when we witnessed so
+       many of Trump’s enthusiastic male co-conspirators proudly clad in full tactical mili-
+       tary armor. Contrast that with the vulnerable, but courageous, body as it appears in
+       Msezane’s performances.                               
+                                                             
+       Conclusion                                            
+                                                             
+       The armored male of a fascist mythic has a clarifying, romantic, almost transcen-
+       dental affinity for violence and bloodshed.16 How might folding in a sensitivity for
+       the sobering sublime help a democratic political mythic—Connolly’s as well as oth-
+       ers—to resist the pull of such a sensibility in the context of engaging in vehement
+       collective action? Being receptive to a sobering sublimity does not bring us to any
+       absolute prohibition on violence and possible bloodshed. They may in fact become
+       necessary in pressing circumstances. But the cultivation of a sensibility animated
+       by a bivalent sublime might help lessen our propensity to imagine violent action
+       as a pure medium for exhilaration, self-cleansing, and an iron transcendence of the
+       complexities of politics. More precisely, it should better dispose us to feel the dif-
+       ference between violence and bloodshed as attractive lures, on the one hand, and as
+       occasionally grim necessities, on the other.          
+       Acknowledgements The author would like to thank the participants in a conference at Johns Hopkins
+       University in November 2023, honoring William E. Connolly’s work, for their insights and reactions to
+       an early draft of this paper. Thanks are also due to, Kathy Ferguson, Ross Mittiga, Smita Rahman, and
+       two anonymous reviewers for their insights, and to Sam Chambers for his astute editorial suggestions.
+       Data availability Not applicable.                     
+       Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+       which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long
+       as you give appropriate credit to the original author(s) and the source, provide a link to the Creative
+       Commons licence, and indicate if changes were made. The images or other third party material in this
+       article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line
+       to the material. If material is not included in the article’s Creative Commons licence and your intended
+       use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permis-
+       sion directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/
+       licenses/by/4.0/.                                     
+       References                                            
+       Adams, John. (1773) From John Adams to James Warren, 17 December 1773.” https:// found ers. archi ves. gov/
+         docum ents/ Adams/ 06- 02- 02- 0001.                
+       Adams, J. (1964) In L.H. Butterfield (ed.) Diary and autobiography of John Adams. Atheneum, pp.
+         1771–1781.                                          
+       Boulton, J.T. (1958) Editor’s introduction. In E. Burke (ed.) A philosophical enquiry into the origin of our
+         ideas of the sublime and the beautiful. Routledge and Kegan Paul.
+                                                             
+       16 “Steel romanticism” was a term Goebbels particularly liked; quoted in Wackerfuss (2013, p. 298).
+                                                             
+                                                             
+                                                             
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+       Imagining democratic insurgency: enthusiasm, sublimity,… 783
+                                                             
+       Burke, E. (1987) In J.G.A. Pocock (ed.) Reflections on the revolution in France. Hackett.
+       Burke, E. (1990) In A. Phillips (ed.) A philosophical enquiry into the origin of our ideas of the sublime and
+         beautiful. Oxford University Press.                 
+       Carp, B.L. (2010) Defiance of the patriots: The Boston tea party and the making of America. Yale University
+         Press.                                              
+       Clewis, R. (2009) The Kantian sublime and the revelation of freedom. Cambridge University Press.
+       Connolly, W.E. (1991) Identity\Difference: Democratic negotiation of political paradox. University of Min-
+         nesota Press.                                       
+       Connolly, W.E. (2005) Pluralism. Duke University Press.
+       Connolly, W.E. (2013) The fragility of things: Self-Organizing processes, neoliberal fantasies, and demo-
+         cratic activism. Duke University Press.             
+       Connolly, W.E. (2017a) Facing the planetary: Entangled humanism and the politics of swarming. Duke Uni-
+         versity Press.                                      
+       Connolly, W.E. (2017b) Aspirational fascism: The struggle for multifaceted democracy under trumpism. Uni-
+         versity of Minnesota Press.                         
+       Connolly, W.E. (2019) Climate machines, fascist drives and truth. Duke University Press.
+       Connolly, W.E. (2022) Resounding events: Adventures of an academic from the working class. Duke Univer-
+         sity Press.                                         
+       Frank, J. (2021) The democratic sublime: On aesthetics and popular assembly. Oxford University Press.
+       Honig, B. (2013) Antigone, interrupted. Cambridge University Press.
+       Huet, M.-H. (1994) The revolutionary sublime. Eighteenth Century Studies 28(1): 51–64.
+       Jennings, J. (1985) Georges Sorel: The character and development of his thought. Macmillan.
+       Junger, E. (2008) On Pain, trans. In C. David (ed.) Durst with a preface by Russell Berman. Telos.
+       Kant, I. (1974) In W. Weischedel (ed.) Kritik der Urteilskraft. Suhrkamp.
+       Kant, I. (1991) A renewed attempt to answer the question: Is the human race continually improving? In H.
+         Reiss (ed.) Political writings. Cambridge University Press, pp. 177–190.
+       Kant, I. (2000) In P. Guyer (ed.) Critique of the power of judgment trans. Paul Guyer and Eric Matthews.
+         Cambridge University Press.                         
+       Kant, I. (2011) In P. Frierson and P. Guyer (eds.) Observations on the feeling of the beautiful and sublime and
+         other writings. Cambridge University Press.         
+       King, Martin Luther Jr. 1963. https:// www. africa. upenn. edu/ Artic les_ Gen/ Letter_ Birmi ngham. html
+       Lyotard, J.-F. (1989) The Sublime and the Avant-Garde. In A. Benjamin (ed.) The lyotard reader. Blackwell.
+       Msezane, Sethembile. (2017) https:// blog. ted. com/ stand ing- for- art- and- truth-a- chat- with- sethe mbile- mseza
+         ne/.                                                
+       Msezane, Sethembile. (2020) https:// ideas. ted. com/ we- dont- need- statu es- we- can- prese rve- our- histo ry- in -
+         more- memor able- ways/.                            
+       O’Neill, D.I. (2012) The sublime, the beautiful, and the political in Burke’s work. In K. Vermeir and M.F.
+         Deckard (eds.) The science of sensibility reading Burke’s philosophical inquiry. Springer, pp. 193–221.
+       Pineda, E. (2021) Seeing like an activist: Civil disobedience and the civil rights movement. Oxford University
+         Press.                                              
+       Rancière, J. (2011) The thinking of Dissensus: Politics and aesthetics. In P. Bowman and R. Stamp (eds.)
+         Readingm Rancière. Continuum, pp. 1–17.             
+       Scudder, M.F. and White, S.K. (2023) The two faces of democracy: Decentering agonism and deliberation.
+         Oxford University Press.                            
+       Shapiro, M.J. (2018) The political sublime. Duke University Press.
+       Sorel, G. (1961) In E. Shils (ed.) Reflections on violence, trans T. E. Hulme and J. Roth. NY: Collier, pp. 5–6.
+       Stanley, J. (ed.) (2020) How fascism works: The politics of Us and them. Random House.
+       Wackerfuss, A. (2013) The myth of the unknown storm trooper: Selling SA stories in the third Reich. Central
+         European History 46: 298–324.                       
+       White, S.K. (1994) Edmund Burke: Modernity, politics, and aesthetics. Sage.
+       White, S.K. (2000) Sustaining affirmation: The strengths of weak ontology in political theory. Princeton Uni-
+         versity Press.                                      
+       White, S.K. (2025) The aesthetics of democratic power: sensibility, normativity and the sublime.
+         Constellations.                                     
+
+[PAGE 19]
+                                                             
+                                                             
+                                                             
+       784                                       S. K. White 
+       Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and
+       institutional affiliations.                           
+                                                             
+       Stephen K. White is the James Hart Professor of Politics Emeritus at the University of Virginia. He is the
+       author of numerous articles and books, the most recent of which is The Two Faces of Democracy: Decen-
+       tering Agonism and Deliberation, with Mary F. Scudder (Oxford University Press, 2023).
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             

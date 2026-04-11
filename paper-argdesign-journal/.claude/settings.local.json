@@ -57,7 +57,12 @@
       "Bash(python scripts/analyse_paper.py --paper yokum-2022-a-call-for-psycho-affective-change-fanon-feminism-and-white-negrophobic-femininity)",
       "Bash(python scripts/analyse_paper.py --paper \"çevik-2024-from-empire-to-nation-management-of-religious-pluralism-in-the-ottoman-empire-and-turkey\")",
       "Bash(sed 's/→/->/g' \"/Users/Gabri/Desktop/claude/paper-argdesign-psc/outputs/typology_report.md\")",
-      "Bash(pandoc /tmp/psc_typology_ascii.md -o \"/Users/Gabri/Desktop/claude/paper-argdesign-psc/outputs/typology_report.pdf\" --pdf-engine=xelatex -V geometry:margin=2.5cm -V fontsize=11pt -V mainfont=\"Georgia\" -V monofont=\"Courier New\" -V linestretch=1.3)"
+      "Bash(pandoc /tmp/psc_typology_ascii.md -o \"/Users/Gabri/Desktop/claude/paper-argdesign-psc/outputs/typology_report.pdf\" --pdf-engine=xelatex -V geometry:margin=2.5cm -V fontsize=11pt -V mainfont=\"Georgia\" -V monofont=\"Courier New\" -V linestretch=1.3)",
+      "Bash(mkdir -p /Users/Gabri/Desktop/claude/paper-argdesign-cpt/corpus/papers)",
+      "Bash(mkdir -p /Users/Gabri/Desktop/claude/paper-argdesign-cpt/corpus/texts)",
+      "Bash(mkdir -p /Users/Gabri/Desktop/claude/paper-argdesign-cpt/corpus/profiles)",
+      "Bash(mkdir -p /Users/Gabri/Desktop/claude/paper-argdesign-cpt/outputs)",
+      "Bash(mkdir -p /Users/Gabri/Desktop/claude/paper-argdesign-cpt/scripts)"
     ]
   }
 }

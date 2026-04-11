@@ -1,0 +1,1066 @@
+[PAGE 1]
+                                                             
+                                                             
+                                                             
+       Contemporary Political Theory (2026) 25:30            
+       https://doi.org/10.1057/s41296-026-00807-x            
+       ARTICLE                                               
+                                                             
+       Reframing restitution with Roberto Esposito and Achille
+       Mbembe: restitutive justice struggles and the colonial
+       ‘dispositif of a thing’                               
+                                                             
+                                                             
+       Magdalena Zolkos1                                     
+                                                             
+       Accepted: 27 September 2025                           
+       © The Author(s) 2026                                  
+                                                             
+       Abstract                                              
+       Struggles for postcolonial restitution of heritage objects held in museums and other
+       knowledge institutions in the west have challenged the legal and regulatory frame-
+       works securing the collections’ integrity and unseizability and they have oppugned
+       the epistemological power dynamics that manifest through the re-semanticization
+       of the acquisitioned and confiscated objects as ‘mere things’. Drawing attention to
+       the contrast between the international legal discourse of cultural property and what
+       I call ‘refractory speech acts’ deployed by activists, artists and spokespersons from
+       Indigenous communities within restitutive justice movements, I turn to political
+       theories of Roberto Esposito and of Achille Mbembe to outline the critique of the
+       epistemological power of western museums through the conceptual rubric of the
+       ‘dispositif of a thing’ and to explore the possibilities for counter-action and alterna-
+       tive (non-Eurocentric and non-anthropocentric) understandings emerging through
+       restitutive struggles today. Ultimately, I argue that the language, art and political
+       action instantiated by these struggles are decolonizing practices that challenge the
+       binary separation between persons and things, which offer a richer, and more po-
+       litically radical, understanding of restitution beyond property relations and transfer
+       of ownership.                                         
+       Keywords Postcolonial heritage restitution · Dispositif of a thing · Decolonizing
+       museums · Roberto esposito · Achille mbembe           
+                                                             
+                                                             
+                              Power concedes nothing without a demand.
+                                       Frederick Douglass, 1857.
+                                                             
+                                                             
+                                                             
+         Magdalena Zolkos                                    
+         magdalena.a.zolkos@jyu.fi                           
+       1 University of Jyväskylä, FI-40014 Jyvaskyla, Finland
+                                                             
+                                                             
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+        30 Page 2 of 20                          M. Zolkos   
+                                                             
+         Restitution of heritage objects that belong to colonized groups and societies and
+       that are currently held in western collections and museums, is a pressing and ongo-
+       ing issue globally. Heritage returns are regulated by international legal instruments
+       developed by UNESCO in 1954 and 1970 and by UNIDROIT in 1995, and they
+       center on the discourse of ownership rights and frame the objects as inanimate cul-
+       tural property acquisitioned through looting or theft, primarily during armed conflicts
+       (Prażmowska-Marcinowska, 2022; Roodt, 2025). The language used by participants
+       of restitutive justice struggles—artists, activists, communal spokespersons—is strik-
+       ingly at odds with the international discourse of cultural property; for one, they fre-
+       quently deploy much richer conceptions of thinghood, including those grounded in
+       Indigenous cosmologies and ontologies, and divorced from the ideas of objects as
+       property or as ‘servile tools’ of human persons (De Line, 2018; Rosiek et al., 2020;
+       Bruchac, 2024; Amo-Agyemang, 2024). Numerous speakers have emphasized rela-
+       tionality and mutual entanglement of human and other-than-human beings and have
+       recognized the objects’ spiritual and ancestral meanings and their capacities to exert
+       effects in the world (see Victoria Hunt in Zolkos, 2025). One example of such per-
+       sonification of the disputed heritage items in restitutive justice speech acts is when
+       their legal belonging to western museums and universities is articulated as ‘impris-
+       onment’ and ‘hostage-taking’; another example is the deployment of the language of
+       release, disenclosure welcome and homecoming, rather than reappropriation, in the
+       cases of successful repatriations (Chuchu & Ngumi, 2023; Ngumi, 2022). In notable
+       instances, the items themselves are addressed as interlocutors and acknowledged as
+       potent presences and ancestral beings who are mourned and greeted on their return.
+         The contrast between the language deployed by restitutive justice activism on the
+       one hand and the discourse of international law governing cultural property returns
+       and of state-level negotiations, requires closer attention. However, rather than view
+       this issue merely as a matter of different articulations or different political ‘genres’
+       (of law and of art and activism), I take the perspective of power-relations and power-
+       differentials, and approach restitutive justice discourse as ‘refractory speech acts’.
+       The language practice at hand is a form of political action that contravenes and resists
+       not simply the dominant representations of the history of colonial heritage acquisi-
+       tions, translocations to and inclusions in ethnographic collections, but also the appa-
+       ratus governing cultural restitutions and repatriations today (by ‘refractory’ I mean
+       literally ‘unruly’ and ‘indocile’—refusing to be ruled or moulded by the dominant
+       discourse). I focus on how these speech acts trouble and disarticulate the Eurocen-
+       trism and anthropocentrism of the political ontology of objects rooted in the binary
+       distinction between things and persons (what Roberto Esposito calls ‘the dispositif
+       of a thing’), which has been operative in the traditional institutional and discursive
+       framework of ethnographic museums. By refusing the person-thing divide restitu-
+       tive struggles pursue emancipatory goals. They perform restitution; they reclaim and
+       recapture these items, and actively change the semantics of repatriation, including
+       rehoming and re-narrating them upon the objects’ release.
+         This inquiry imbricates, on the one hand, with critical discussions and practices
+       that have surfaced under the rubric of ‘decolonizing the museum’ (see e.g. Maranda,
+       2021; Macdonald, 2022; Wali & Collins, 2023). It is a critical project that builds on
+       the recognition of museums as, in the words of Anupama Arora (2021, p. 121), ‘insti-
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+       Reframing restitution with Roberto Esposito and Achille Mbembe:… Page 3 of 20 30
+                                                             
+       tutions of power, sites of knowledge production and of memory and memorialization’
+       implicated in the history of colonization, which ‘construct particular narratives of the
+       past and present, cultural spaces that narrate the nation; and as “contact zones” or
+       spaces of encounter and conflict’. While most of the contributions to museum decolo-
+       nization have come from the fields of museum education and ethnography, as well
+       as anthropology, aesthetics and heritage studies, my approach is political-theoretical
+       and aims to develop a critique of the re-semanticization—what Janne Säynäjäkangas
+       (2025) calls, in a different context, ‘radical simplification’—of non-western objects
+       incorporated into museums as part of colonial cultural extractions that led to their
+       translocation, inclusions in collections and conversion into ‘artifacts’ and ‘exhibits’,
+       which is organized according to two dominant logics: of knowledge and visibility
+       and of a non-identity of persons and things. The exhibit as a foundational epistemic
+       category of the modern museum, and an outcome of processes of museumification
+       (cf. Kim, 2024), reduces the complexity and heterogeneity of pre-colonial meanings
+       of the objects at hand to inanimate and passive items that exist separately from their
+       communal embeddedness and relationality. Enclosed within transparent plastic or
+       glass display cases, the items, subjected to traditional European exhibition methods,
+       were placed under a double organizing principle of haptic prohibition and public vis-
+       ibility (they were ex-habere; offered to public view, literally ‘held out’ for everyone
+       to view), (see Mugabowagahunde, 2016).                
+         On the other hand, this inquiry also has points of connection with scholarship
+       on Indigenous relational ontologies and biocentric normative systems that recognize
+       other-than-human entities, including lakes and rivers, as ‘ancestral personhood’ and
+       ‘environmental personhood’ (Clark et al., 2019; Moreton-Robinson, 2020; Pelizzon
+       et al., 2021). Pelizzon et al. (2021) argue that the limitation of the concept of a person
+       in western juridical tradition is due to its association with a character (persona) con-
+       stituted by law through assignation of rights and duties. Their conceptualization of
+       ‘ancestral personhood’, which the authors situate at the interstices of different legal
+       orders, relies thus not on a formal recognition, but on embeddedness within a world
+       and storytelling. In turn, Clark et al. (2019, p. 794) stress the relational dimension
+       of Indigenous biocentric approaches, which move from representative speech and
+       action (speaking about and on behalf of) to a second person address and receptivity
+       (speaking and listening to), (for critical discusions see Reeves & Peters, 2021). The
+       difference is that the standing of nature at hand involves jurisprudential develop-
+       ments; in the case of recognition of cultural heritage items as beings—taken hostage,
+       imprisoned, wounded, as well as addressees and returnees—the speech acts are pri-
+       marily in the realm of politics and culture, not law (though see e.g. The Rutzolijiri-
+       saxik Voluntary Guidelines for the Repatriation of Traditional Knowledge, which
+       also include cultural and heritage knowledge).        
+         I highlight the problematic encapsulation of objects in colonial collections within
+       the category of inanimate and passive thinghood through the prism of Roberto Esposi-
+       to’s concept of ‘the dispositif of a thing’. If it is indeed the case, as I propose, that
+       restitutive speech acts of reclaiming and rehoming heritage trouble and fracture the
+       binary opposition of persons and things, the argument is that they open possibilities
+       for a richer and more political understanding of the postcolonial object movement.
+       According to Esposito, the contemporary legacy of the Roman legal tradition is a cul-
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+        30 Page 4 of 20                          M. Zolkos   
+                                                             
+       tural understanding of things that are entirely separate from, and incompatible with,
+       personhood and that become subordinate to persons’ mastery as possessions. One is a
+       person, Esposito argues, insofar as one is not a thing, but can own things. These two
+       disparate logics—of persons and of things—are not only theoretical figurations, but
+       a foundation of a juridical frame that dominates, and is reproduced through, social
+       practices, relations, and beliefs, as well as through structures of knowledge. I develop
+       a reading of the thing/person in Esposito’s work that helps understand the political
+       import of restitutive justice utterances and representations that subvert and contra-
+       vene the dominant ‘dispositif of a thing’ because they regard heritage objects as con-
+       cordant with personhood.                              
+         The outline of Esposito’s ‘dispositif of a thing’ is followed by a discussion of
+       Achille Mbembe’s critique of heritage returns that articulates a political conception
+       of restitution as a decolonizing practice. While there are of course other notable the-
+       oretical-postcolonial conceptualizations of restitution (see e.g. Bachir Diagne, 2023,
+       2024), Mbembe’s contribution sheds light on restitutive speech and representations
+       as counteraction and emphasizes that restitutions are a condition of possibility of
+       political freedom, as well as cultural resurgence. When concatenated to the broader
+       goals of decolonization, justice and social repair, restitution is an act, or a practice, of
+       what Mbembe calls ‘disenclosure’ (2021). Restitution involves traversal of boundar-
+       ies and liberation of objects, relationally embedded in the history and the present of
+       the descendant communities of their custodians, from enclosures (institutional, legal,
+       spatial and epistemic). Mbembe (2001) theorizes colonial power as a ‘divine com-
+       mandment’ that both nullifies (a pre-colonial order) and creates (a new order of domi-
+       nation). If one views the person/thing binary in the history of cultural extractivism
+       and the translocation of objects together with Mbembe’s theory of colonial power,
+       this casts into relief the nullifying and creative effects of the colonial ‘dispositif of a
+       thing’ and its refusal as a practice of refractory politics.
+         I deploy the vernacular of ‘restitutive speech acts’ to emphasize that when par-
+       ticipants in postcolonial object movements challenge the disjointedness of things
+       and persons through their language practice, they make political (and philosophi-
+       cal) interventions. Echoing Judith Butler’s insights from Excitable Speech (1997),
+       we can ask what kind of political action is at hand when such speech is uttered;
+       under what circumstance can we view it as counteraction and resistance? Recogniz-
+       ing the performative dimension of the language of restitutive struggles, as well as
+       its diverse manifestations, is key here. By going beyond the formal framework of
+       heritage returns and cultural exchanges, including refusal to adopt and repeat the
+       core categories of its object epistemology (property, inanimacy, passivity), activists
+       and artists enact and implement emancipatory political imaginaries. This aspect is
+       conspicuous in, for instance, three recent cinematic productions addressing questions
+       of post-colonial restitutions, which I use in the article as examples (and without being
+       able to provide a detailed analysis): Mati Diop’s Dahomey (2024) that dramatizes the
+       return of twenty-six royal treasures from the Kingdom of Dahomey to Benin; Suvi
+       West’s Homecoming (2023) about the Finnish Sámi rehoming of annexed ancestral
+       heritage; or Victoria Hunt’s film TAKE (2019) narrating the removal, and struggle for
+       the return, of the ancestral Māori meetinghouse, Hinemihi. While a detailed analysis
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+       Reframing restitution with Roberto Esposito and Achille Mbembe:… Page 5 of 20 30
+                                                             
+       of these works is outside of the scope of this article, I refer to them as examples of
+       restitutive narratives and representations, which reclaim and rehome objects.
+                                                             
+       Roberto esposito’s thing/person dispositif            
+                                                             
+       Within his project on the critique of modern power, the Italian political philosopher
+       Roberto Esposito outlines a principle of mutual opposition between ‘the world of
+       things [and] the world of persons’ (2015, p. 3). The chasm separating human person-
+       hood as a legal category from the formal and symbolic status of material objects is for
+       Esposito not only a matter of structures of knowledge and representation, but also of
+       morality, conscience and social recognition. The backdrop against which Esposito’s
+       articulates this thing/person binary is his biopolitical critique of power defined as
+       ‘a contest, or a conflict, between two subjective wills’ (2016, p. 27). Within this
+       political-juridical framework, to exercise power means to subjugate the other to one’s
+       will, which is modelled on the imaginary of proprietary relationships that human
+       persons establish with the world of things, which they master, control and bend to
+       their desires. Esposito identifies the axiomatic incompatibility and separateness of
+       persons and things, deeply entrenched within the Eurocentric thinking about legal
+       standing, rights, and moral agency, from the perspective of its profound crisis today.
+       This crisis has become conspicuous in different domains of social life, including
+       in digital technology, biotechnology, social robotics and human-machine relation-
+       ships, which all complicate and destabilize the opposition between human persons
+       and things as mutually exclusive categories (Dehnert & Gunkel, 2025). The alleg-
+       edly impervious boundary between objects and humans has been shown to be highly
+       porous in the case of, for instance, contemporary technologies enabling modification
+       of bodies through their fusion with inorganic parts in tissue engineering industry
+       and in regenerative medicine, or with regard to developments in robotics that place
+       AI-enabled automatons in relationships of care, kinship and intimacy with humans
+       (Vallor, 2011). Working within the political-theoretical register of human rights, Vat-
+       ter and De Leeuw have argued that legal personhood based on the opposition of per-
+       sons and things offers an inadequate protection of the ‘“precarious” reality of human
+       embodied life’ (2023, p.106). A legal person is not synonymous with an embodied
+       human, but, rather, is a legal construct and a governmental modality (a ‘power dis-
+       positive’) that turns the body into a ‘“thing” under the ownership or dominium of the
+       legal person’ (2023, p. 113).                         
+         While in Esposito’s writings, and those of his interlocutors, the epistemic and
+       ontological crisis of the thing/person distinction produces multifarious consequences
+       (see Vermeulen, 2017; D’Angelo, 2022), its core implication for my argument is the
+       reductive conception of material objects, which are depicted as passive, inanimate
+       and subjugated to the will of persons, and equated with human possessions. The
+       institution and discourse of the colonial museum becomes, from this perspective,
+       not only a material and ideational product of coloniality and cultural appropriation
+       (Maranda, 2021), by a site of the operations of power, knowledge and practices that
+       correspond to ‘the dispositif of a thing’. This dispositif positions actors engaged in
+       restitutive advocacy and activism in a specific relation to the law and the cultural her-
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+        30 Page 6 of 20                          M. Zolkos   
+                                                             
+       itage discourse, rendering some actions and utterances acceptable and legible, such
+       as reclaiming heritage as stolen properly (cf. Nichols, 2018), and other actions and
+       utterances, for instance, engaging in public ceremonies that mourn the objects’ loss or
+       acknowledging the objects as agential embodiments of ancestral beings, or ascribing
+       to them animistic power, as illegible according to the dominant logic. While Esposito
+       does not mention ethnographic museums or public heritage laws in his discussion of
+       the legal and political apparatus of the person/thing distinction, the ‘dispositif of a
+       thing’ is operative in the process of de-semanticization of the colonial heritage into
+       the category of museal exhibits and their voiding of (pre-colonial) meanings and rela-
+       tional significance. Esposito’s critique imbricates with postcolonial perspectives of
+       restitution that articulate non-anthropocentric conceptions of objecthood as intimated
+       by the claim in The Third Person that ‘the person is not to be conceived of as the only
+       form within which life is destined to flow’ (2011, p. 140).
+         According to Esposito, the conceptual sedimentation of persons and things as
+       disjoint sets in European law and philosophy has its roots in Gaius’ Institutes that
+       defined legal subjectivity negatively as ‘not a thing’. In effect, (some) humans have
+       gained the status of persons (in the course of their lives) insofar as they are owners
+       and proprietors of things (patria). Things as legal constructs (res) are thus of para-
+       mount social importance because they stabilize and categorize relationships between
+       persons (Esposito, 2016, p. 69). Persons and things are, at the same time, ‘the oppo-
+       site and the horizon of the other’ (Esposito 2012b, p. 10). Law’s division into three
+       schemes in Institutes—the family law of persons (personae), laws pertaining to mate-
+       rial things (res), and procedural law dealing with human actions (actiones)—puts
+       into operation a dichotomous and exclusionary formula that makes ‘thing [into] a
+       non-person and person [into] a non-thing’ (Esposito, 2015, p. 17). Things become
+       synonymous with inanimate possessions, artifacts and household ‘goods’; the thing-
+       person relation is that of ‘instrumental domination’ (2015, p. 16). Thus, within the
+       framework of Roman law, the primary characteristic of things concerns their social
+       function and instrumental value, which, importantly, is filtered through the relations
+       of ownership and property. Even when the things ‘do not belong to anyone’, Esposito
+       writes (2016, p. 70), ‘in principle they … never evade the regime of at least potential
+       appropriability’.                                     
+         The crux of Esposito’s critique is that the person/thing binary produces dual politi-
+       cal effects that have ricocheted in western politics and culture until today: the ‘de-
+       personalization of persons’ and the ‘de-realization of things’ (2015, pp. 4–8). On
+       the one hand, the person/thing chasm produces an effect whereby (some) people are
+       barred from personhood (or slide out of it or fail to attain it); one the other hand, it
+       also transforms objects into passive and inanimate instruments of the human will.
+       Persons and things ‘face each other in a relationship of mutual interchangeability: to
+       be a subject, modern man must make the object dependent on his own production’—
+       as well as representation and language—while at the same time ‘the object cannot
+       exist outside of the ideational power of the subject’ (Esposito, 2015, p. 63). First, the
+       de-personalization, or reification, of persons, means the exclusion or erasure of some
+       humans from the category of personhood as ‘the invisible bond that unites [persons
+       and things] turns some type of men […] into some kind of things who, like things,
+       are made absolutely available to people’ (2016, p. 28). In Roman law, the category
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+       Reframing restitution with Roberto Esposito and Achille Mbembe:… Page 7 of 20 30
+                                                             
+       of personhood was not encompassing of all people, but, in fact, differential and inter-
+       nally stratified, depending on their status as propriators; personhood was attained by
+       some, to ‘varying degrees’, and at only at certain life moments. For Esposito, de-
+       personalization rests on a set of juridical and political meachnisms effectuating the
+       removing of groups of people, or individuals, from the community of persons and
+       forcing them into the category of things (importantly, Mussawir and Parsley provide
+       a more nuanced reading of the Roman law of persons arguing that, rather than a signi-
+       fier of social stratification and exclusion or of the abstraction of formal legal catego-
+       ries, it needs to be viewed through the lens of law as a ‘technique’ or ‘art’ involved in
+       fictionalizing and creatively ‘fashioning’ the legal subject without much concern for
+       its alignment with ‘an order of natural reality’, see 2017, p. 50).
+         The breadth of Esposito’s critical gesture is notable, if not all together uncontro-
+       versial: while the conception of ‘de-personalization of persons’ builds on the histori-
+       cally specific Marxian and postcolonial studies insights that capitalist and colonial
+       socio-economic relations determine whether people are recognized as human per-
+       sons—in order to attain personhood, they needs to own ‘things’ (including land,
+       which is thereby reduced to an appropriable object)—as well as makes a more gen-
+       eral proposition that ‘a thing’ is a mobile and sliding sign that can be carried over
+       or transposed onto people. Thus, de-personalization creates ‘men-things’ and is the
+       reverse side of the history of liberal progress and gradual attainment of rights as a
+       subterrenian history of the production of ‘non-persons, almost-persons, temporary
+       persons [and] anti-persons’ (Esposito, 2016, p. 29; 2015, p. 30). Esposito’s para-
+       digmatic example of these differential and chiasmic operations of personhood is the
+       legal status of insolvent debtors and of slaves in ancient Rome, which, as Esposito
+       puts it, ‘hovered between the regimes of persons and things’ (2015, p. 15; see also,
+       2012b, pp. 75–80). Thus, rather than ‘being the absolute opposite of the person, the
+       thing appears here as the central mechanism inside the category of a person—that
+       which, only by having been possessed or consumed, makes the person truly such
+       as the subject of this possession’ (2015, p. 48). As Vatter and de Leeuw argue ref-
+       erencing Orlando Patterson’s notion of slavery as ‘social death’ (2019, p. 7), what
+       Esposito outlines here is a relationship of radical exclusion from personhood and
+       from ‘human community’ that renders the ‘non-persons’ appropriable. In The Third
+       Person Esposito gives another example of de-personalization analyzing the language
+       used by Nazi propaganda to de-humanize groups considered to be the enemies of
+       the nation. He emphasizes the normalization of object-centered descriptives in rela-
+       tion to those groups and to genocidal violence as ‘pieces (Stücke), replacement parts
+       (Häftlinge), human material (Menschenmaterial), to be loaned (ausleihen), unloaded
+       (abladen), shipped (verschiffen), and eventually, of course, destroyed’ (2012b, p. 61).
+       These examples cast into relief personhood not as an intrinsic category of any beings
+       of entities, but as a biopolitical operation (see Reeves & Peters, 2021).
+         The other (reverse) effect of the person/thing dispositif is the ‘dematerialization’
+       or ‘derealization’ of things, which Esposito conceptualizes through a combined read-
+       ing of Heidegger and Marx. The process of derealization implies an epistemic reduc-
+       tion of objects ‘stripping away [their] fleshy part’ and ‘abstracting their material
+       content’, making them lose ‘their own [living] substance’ (2016, p. 8; 2015, p. 6). In
+       the Marxian perspective, ‘things’ are productive outputs (commodities) whose value
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+        30 Page 8 of 20                          M. Zolkos   
+                                                             
+       depends on their use or the worth they hold in market exchanges (Halewood, 2014;
+       Rappaport,2017). Following Martin Heidegger, Esposito also problematizes the defi-
+       nition of things as that which is at human disposal—things are ‘at our disposition’ or
+       ‘standing in reserve’; they are in principle always ‘reproducible and replaceable’ with
+       ‘something equivalent’ within a certain order (2016, p. 87). The modern meaning of
+       the very ‘dispose’ in English (from ca. 1620 s) is illustrative of this relationship as it
+       signifies power that legal persons hold to make use of the things they own, to control
+       them or do away with. Here Esposito’s work can be productively viewed in con-
+       junction with the field of ‘thing theory’, whose core contributors have also stressed
+       the simplification and impoverishment of our cultural discourse of objects (see e.g.
+       Brown, 2001; Bryant, 2011). According to these critics, who are less concerned than
+       Esposito in identifying Roman and Greek philosophic ‘survivals’ in our contempo-
+       rary thinking about objects, and more in assessing the impact of western modernity
+       and modern capitalism, with the emergence of mass production economies the types
+       of things we recognize as singular and unique (such as artworks or family mementos)
+       have radically diminished. In contrast, the preponderance of the economic vernacular
+       in the public discussions of things—as resources, tools of production, outputs, com-
+       modities, disposables and waste—is illustrative of the difficulties faced by restitutive
+       actors deploying language of worth and importance that is incompatible with, and
+       transcends, considerations of market value or private and public utility. Their differ-
+       ences notwithstanding, Esposito and the ‘thing theory’ authors such as Bill Brown
+       identify the cultural impact of the ‘derealization’ of objects as not only their fun-
+       damental reproducibility and replaceability, but their voiding of an affective force,
+       potency, and agential propensity (cf. Esposito, 2016, pp. 33–34).
+       The colonial thing dispositif                         
+       Contributors to the postcolonial restitution debates insist on the recognition of the
+       violent origins of colonial collections, not only in the cases of plunder or booty, but
+       when heritage acquisitions took the form of economic transactions or (supposedly)
+       gifts and donations (see e.g. Losson, 2022 who complicates the notion of ‘gifted
+       object’ with reference to Aztec emperor Montezuma’s featherhead in the holdings
+       of the World Museum Vienna). They argue that focusing disputes only on objects
+       acquisitioned through acts prohibited by customary international humanitarian law,
+       such as pillage and taking of ‘war trophies’ during military colonial expeditions (see
+       e.g. LeGall & Machona, 2022), would mean adopting the optic of an overly nar-
+       row and decontextualized conception of violence as a use of physical force. In this
+       context, Mbembe (2018a) makes the point that even though relying on of interna-
+       tional law by restitutive justice struggles might be necessary, the current framework
+       of legal rights and obligations offers little basis for redress of past dispossessions
+       (with the exception of spoils of war—and even in this case only if they occurred
+       after the 1907 Hague Convention, while placing the burden of proof on the harmed
+       subject, see Arndt, 2011). One of the effects of cultural extractivism is the ‘cesura
+       [that] has opened between the law of property and the act of creation’ whereby ances-
+       tral belonging does not connote rights to own, ‘to use, to derive profit from, [or] to
+       dispose of’. For that reason, Mbembe argues (2018a), decolonial politics of restitu-
+                                                             
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+       Reframing restitution with Roberto Esposito and Achille Mbembe:… Page 9 of 20 30
+                                                             
+       tion must ‘[untie] law from obligations of justice’. The Māori artist Victoria Hunt
+       exemplifies poignantly this in her film TAKE: while the ‘purchase’ of the communal
+       meeting house Hinemihi by William Hillier resulted in her translocation and legal
+       ownership by the British National Trust, Hunt insists that this never interrupted the
+       community’s spiritual ownership of Hinemihi, and their relationship based on care,
+       knowledge and custodianship.                          
+         Sharing the skepticism about law as a guarantor of justice and redress, other aca-
+       demic authors and public intellectuals, including Lotte Arndt, Souleymane Bachir
+       Diagne, Paul Basu, El Hadji Malick Ndiaye, Njoki Ngumi, Simon Njami, Felwine
+       Sarr (and others), have drawn on systemic, economic, cultural and epistemic con-
+       ceptions of violence to formulate deeply contextualized critiques of cultural extrac-
+       tivism, object translocation, and presentational aesthetics traditionally deployed by
+       ethnographic museums. Among them, Jim Chuchu and Njoki Ngumi contribute a key
+       observation that it is important to not frame the question of violent acquisitions as an
+       event that belongs squarely to the past, but to take the current museal, scholarly and
+       legal governance of the heritage items as a sign of the continuity of colonial relations.
+       What Chuchu and Ngumi mean by coloniality in this case is a mode of international
+       governance based on commandments and prohibitions that severely restricts the
+       agency and capacity of colonized groups and societies to exercise self-determination
+       with respect to their own heritage, making them dependent on ‘benevolent acts’ of
+       Western governments and institutions. These colonial governmentalities manifest
+       through, for instance, deaccession rules and regulations, as well as through ‘innumer-
+       able technicalities, explanations, policies, and laws that are firmly in place to prevent
+       the return of objects’ (Chuchu & Ngumi, 2023).        
+         Echoing these critical sentiments, Mbembe (2019d) dubs western ethnographic
+       museums ‘crime scenes’ and ‘spaces of captivity’ whose continuous existence proves
+       that colonialism ‘is not something we can relegate to the distant past’, and which
+       rely on and invigorate the political apparatus controlling the movement of the object
+       and isolating and immobilizing them (physically and discursively), while generating
+       economic and symbolic profits (Arndt, 2011). Mbembe’s point is that even in the
+       case of nominally successful postcolonial heritage returns, insofar as they follow the
+       logic of a gift, rather than are a response to a claim-making (Azoulay, 2015, 2019),
+       they are vulnerable to become instruments for the displays and cementation of colo-
+       nial power. In this regard, Mbembe’s (and others’) decolonial critique of restitution
+       draws out in my view the contemporary relevance of Frederick Douglass important
+       claim from 1857 that ‘[p]ower concedes nothing without a demand’, as they reframe
+       restitution away from the imaginary of charitable endowments or tokens of generos-
+       ity and recognition of the former imperial states and institutions and towards a far
+       more radical notion of restitution through political struggle, resistance, reclaiming
+       and reappropriation. Rather than seeking recognition, they demand an acknowledg-
+       ment (cf. Markell, 2003), which is a central point in Mbembe’s intervention when
+       he narrates restitution as an opportunity to develop ‘a capacity for truth’, laying out
+       foundation for ‘a new relation’ (2018a; cf. Sarr & Savoy, 2018).
+         Returning to Esposito’s ‘person/thing dispositif’, his account the Roman juridi-
+       cal notion of property rested on the imagery of an action of ‘prior appropriation’—
+       the taking of spoils and (or) in the speech act declaring and claiming res nullius
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+        30 Page 10 of 20                         M. Zolkos   
+                                                             
+       (that thing that belongs to no one belongs to me). He writes that in its ‘primordial
+       form’ property was ‘neither transmitted nor inherited [but] seized. … Property had
+       nothing behind it, except the act that made it so’ (2016, p. 21). Thus, for a thing to
+       ‘become unequivocally one’s own, it had to have been torn from nature or from other
+       people. That which is your own … is what you take with your hand, manu captum
+       […]’ (2016, p. 22), (the acquisition of the Dahomey treasure depicted by Mati Diop’s
+       recent film, exemplifies such violent acquisition). While Esposito makes here a point
+       about the absence of an ‘insurmountable boundary between law and violence’ in the
+       ancient juridical genesis of property and acquisitions (and about Roman law’s pat-
+       rimonialistic character), Mbembe (2018a) formulates a strikingly similar postulate
+       about the violent beginnings of Western ethnographic collections as ‘acts of confisca-
+       tion’, including cases that occurred through the ‘fictions [of] voluntary transactions
+       between economic and political equals’ and through free market exchanges ‘where
+       the value of the object was determined by [means of an] objective calculus’. The
+       traditional presentational aesthetics in ethnographic museums de-realize the objects
+       by alienating them from their violent history, perpetuating the imaginary of an object
+       that (to borrow Esposito’s felicitous phrase) ‘spontaneously offers itself to a grasp’
+       and ‘falls into one’s hand’. The discourse of ‘universal human heritage’ deployed
+       by so-called encyclopedic museums to prevent and oppose restitutions (see Losson,
+       2022) is, from this perspective, a form of things’ de-realization.
+         Extraction and translocation of cultural heritage exemplify the material and sym-
+       bolic dynamics of ‘thing derealization’. Among others, Sebastian De Line (2018) has
+       written about the colonial ‘translation of beings into objects’ through insertion into
+       legal, institutional, and discursive frameworks of ethnographic and natural history
+       museums, art galleries, or private collections in the west. He argues that these items
+       were wrenched from their communities and from the ‘original contextual meanings
+       [of] animate beingness’, which were very different from the dichotomous person/
+       thing paradigm and were derived instead from worldviews in which humans and
+       other-than-human beings were complementary, relational, and co-constitutive. From
+       this perspective, dispossession means mutually imbricating processes of physical,
+       discursive and symbolic extraction (of items) from whole systems of knowledge, use,
+       and belonging that recognized them beings and presences with whom humans and
+       more-than-humans shared the world (De Line, 2018). In turn, Mbeme (2021) consid-
+       ers the ‘derealization’ of things’ through the annexed items’ re-semanticization and
+       de-vitalization as a key political effect of extraction and dispossession. Historically,
+       this has occurred through three different modalities of the non-European objects’
+       reception in Europe, which he articulated through the optical metaphors of the mis-
+       sionary gaze, the racializing gaze, and the ethnographic gaze, which in turn have
+       produced three kinds of ‘derealized things’—the idol, the fetish, and the artifact.
+       The missionary gaze viewed the objects as manifestations of the demonic and an
+       expression of ‘ancient forms of knowledge’, which needed to be destroyed by way of
+       ‘extirpating idolatry’. The racializing gaze was equally engaged in a construction of
+       difference, but it developed historically in connection to biological determinist race
+       ideologies of the 19th century (it resulted in the construction of a fetish, imbuing
+       the objects with meanings of ‘excessive crudeness’, ‘sensual coarseness’ and ‘erotic
+       stain’). The 20th century ethnographic gaze grounded the object within their anthro-
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+       Reframing restitution with Roberto Esposito and Achille Mbembe:… Page 11 of 20 30
+                                                             
+       pological context by drawing on epistemic categories from European knowledge
+       traditions, including those of religious art. Accordingly, what was displaced or nul-
+       lified by these semantic and discursive constructions of colonized people’s heritage
+       as a ‘thing’ was their embeddedness within heterogeneous systems of meaning and
+       belonging, and their recognition as potent and powerful (to cite Esposito again, their
+       irreducibility to ‘servile tools’ of human persons).  
+         In this context, Lotte Arndt’s contribution to the decolonial restitution criticism is
+       particularly noteworthy because she points directly to thing-centric dimension in the
+       violence of cultural extractivism. Arndt’s account of cultural colonial extractivism
+       recognizes the heritage items themselves as targets and victims of injurious actions,
+       including their despoilment, isolation, and modification: as Arndt argues, in addition
+       to the ‘violence of theft, confiscation [etc.], we must include violence done to the
+       object itself, which is often stripped of its accoutrements, varnished or even remod-
+       eled’ (2011, p. 66; see also Sarr & Savoy, 2018, p. 30). The colonial modality of
+       what Esposito theorizes as things’ de-realization is thus their ‘diasporization’, mean-
+       ing not only circulation and dispersal but also a kind of alienation (cf. Peffer, 2005;
+       Basu, 2017). The importance of Arndt’s postulate is that, drawing on the insights of
+       John Peffer, she articulates the process of semantic reformulation accompanying the
+       objects’ translocation into museal institutions as violence inflicted on them (which, of
+       course, is inseparable from the violence perpetrated against their originating commu-
+       nities). A poignant example of the violence of the colonial ‘thing dispositif’ is found
+       in Hunt’s film TAKE (2019). Hunt narrates Hinemihi extraction as a violent ‘sever-
+       ing of relations’ that abruptly interrupts the ‘communal, spiritual, and mnemonic co-
+       belonging of Hinemihi and her people’ to each other (Zolkos, 2025) and as a series
+       of brutal incisions into her body—in effect of the translocation, Hinemihi’s elements
+       were removed, gifted to other collectors, and some went missing. Hunt’s articulation
+       of embodiment imbricates closely with Prażmowska-Marcinowska’s point (2022, p.
+       137) that for numerous participants in restitutive justice struggles disputed entities
+       are irreducible to ‘cultural property’, but, rather, are ““living” objects that embody
+       … moral values [and] traditions’.                     
+         Finally, the aptness of Esposito’s concept of the thing/person binary for critical res-
+       titution debate is that many its contributors also take seriously the claim that, within
+       the dominant (colonial) power apparatus, ‘things’ and ‘persons’ are inseparable, but,
+       rather, ‘form part of the same horizon’ (Esposito, 2015, p. 2). Mbembe takes the
+       antithetical distinction between thinghood and ‘humanhood’ (rather between thing-
+       hood than personhood) as a cornerstone of emancipatory struggles, including those
+       centered around historical justice and heritage repatriations (2018b; see also 2021;
+       2024). For him, European states’ recalcitrant refusals to restitute cultural heritage
+       items to former colonies and the current securitization of Europe’s borders through
+       technologies of deportation and immobilization of racialized and ‘undesirable’ peo-
+       ple (frequently residents of the same places where the artworks come from) defines
+       that shared horizon (2019d; on the paradigms of mobility and border-technology, see
+       Shachar, 2020). For both the objects and the people, the border is sealed and impass-
+       able, though while the former are enclosed within, the latter are enclosed without
+       (if the power orders the border to open, it is only to deport the people outside and to
+       allow more objects inside). The border security technologies aimed at keeping human
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+        30 Page 12 of 20                         M. Zolkos   
+                                                             
+       bodies out and the deaccession prohibitions aimed at keeping things in are both, for
+       Mbembe,                                               
+         symptoms of coloniality.                            
+         The dual effect of racial capitalism is, on the one hand, turning the human ‘into
+       an object’ (that can be commodified, and from whom optimal labor power can be
+       extracted) and, on the other thing, the ‘compulsion to put things into order’, that
+       is to ‘categorize, separate, measure, name and classify’ them as a ‘precondition to
+       extract their inner value’ (Mbembe 2018b). Mbembe pursues further the connection
+       between bodies kept out and things kept in along the lines of Esposito’s shared nexus
+       of ‘de-personalization of persons’ and ‘de-realization of things’, when he asks, rather
+       provocatively, whether, ‘after the objects were in the European museums for so long’,
+       Europe has learnt the most valuable lesson that they have offered—‘how to come to
+       terms with those who come from outside it’ (2018a; 2019a).1
+         Blurring the distinction between deportations of persons and restitution of object
+       (once they have become de-valued, thus equating restitutions and expulsions),
+       Mbembe calls the psycho-political undercurrent of both the ‘genocidal unconscious’
+       (2018b). Reminiscent of Hannah Arendt’s understanding of Adolf Eichmann’s crime
+       but developed directly through Mbembe’s critical reading of Alexis de Tocqueville’s
+       advocacy for African Americans’ ‘self-repatriation’ as a kind of democratic necessity,
+       the notion of the ‘genocidal unconscious’ channels a desire to get rid of those whom
+       the subject does not want to (‘cannot’) share the world with. Mbembe thus radicalizes
+       restitution as not only a political struggle, but also an ethical demand, by asserting
+       that it must not come from devaluation and debasement of, or desire to expel and be
+       rid of, the Other, but bring about an actual experience of loss, and as such constitute
+       a counter-gesture to the ‘genocidal unconscious’—to express and contribut to what
+       Mbembe calls a ‘planetary consciousness’ (2019e), affirming the world ‘as belonging
+       to all of us who inhabit it’ (2019d). Rather than follow the logic of partition and isola-
+       tion, reframed restitutions can embody the logic of a connection and support shared
+       remembrance (2018a).                                  
+       Colonial power as a commandment and irreverent speech acts
+       Building on the discussion of Esposito’s account of power modelled on the legal
+       opposition between personhood and thinghood, and of the colonial ‘thing dispositif’
+       operative in cultural extractivism and museumification of ancestral heritage items
+       as art objects and ethnographic exhibits (De Line, 2018; Mbembe, 2021), I return
+       now to the question of ‘refractory speech acts’ deployed by contributors to restitutive
+       justice struggles. Can we understand their utterances and representations as practices
+       of counter-power? How do these acts of defiance against the dominant dispositif
+       disarticulate and create ‘cracks’ in the state-centric, juridical-museological discourse
+       governing restitutions today?                         
+       1 Suvi West’s Máhccan (Homecoming) depicting the repatriation of the Finnish Sámi ancestral heritage,
+       gives a powerful example of this dual dispositif of ‘de-personalization of persons’ and ‘de-realization of
+       things’: the film juxtaposes, on the one hand, the history of cultural extractivism that alienated ceremonial
+       items from their assemblages of human relationships, knowledges, skills and rituals, with exoticization of
+       the Sámi and other Indigenous peoples within ‘ethnological expositions’ (or ‘human zoos).
+                                                             
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+       Reframing restitution with Roberto Esposito and Achille Mbembe:… Page 13 of 20 30
+                                                             
+         By deploying the speech act theory, I have aimed to emphasize the performative
+       dimension of restitutive language, which includes reclamations, retrievals and dis-
+       enclosures of the political ontology of the objects from the category of thinghood.
+       In this context, Achille Mbembe’s political theological critique of colonial power
+       offers a (potentially) productive avenue for understanding restitutive language acts
+       as irreverent in relation to the power’s commandment. Specifically, the speakers’
+       irreverence manifests as ‘calling out’ the states and institutions that enjoy the status
+       of ‘legal owners’ of objects with colonial provenance (this is well illustrated by the
+       restitution debate in Diop’s Dahomey where some of the speakers describe the French
+       Senate’s approval of repatriation as ‘an insult’, because of the meagre number of
+       actually restituted objects, and de-mask France’s purported humanitarian motivations
+       as thinly veiled self-interest). By declaring alliegance to other social norms and other
+       value systems and ethical considerations, the utterers manifest as irreverent in that
+       they literally refuse to ‘stand in awe, fear, respect’ (vereri) in relation to the institu-
+       tions that currently hold the items and that seek to determine restitutive terms and
+       semantics, as well as in relation to colonial and international humanitarian laws that
+       have reduced belonging and human and more-than-human relationality to ownership
+       and proprety. By theorizing colonial power as a ‘command’ and a ‘commandment’,
+       Mbembe frames the material and discursive processes underwriting cultural extrac-
+       tivism as a key effect of coloniality, linked to a symbolic economy of the ‘political-
+       theological transfers of monotheistic principles’ (Collison, 2022).
+         In On the Postcolony (2001) Mbembe conceptualizes the performative dimen-
+       sion of a command against his broader political-theological postulate that sovereign
+       power in the colony is modelled on an Abrahamic divine commandment. Thus, the
+       term ‘commandment’ means for Mbembe not merely a behest, order, or mandate;
+       rather, referencing the Judeo-Christian tradition and the decalogue, he defines com-
+       mandment as foundational inauguration of a framework for social life. Its performa-
+       tive dimension means that the commandment produces, or calls into being, what it
+       describes (cf. Collison, 2024). The distinctive feature of the commandment is that it
+       introduces a radical discontinuity of the political ‘now’ and a prior order, thus bifur-
+       cating the temporality into the colony into a ‘before’ and ‘after’. Here the performa-
+       tive dimension of the commandment and the requisitionary dimension of the colony
+       (the colonizer’s authorized access to bodies, objects, resources and knowledges)
+       closely overlap. Combining law and lawlessness (cf. Kohn & McBride, 2011, p. 91)
+       power as a commandment ‘moves’ alongside two vectors: it both seeks to produce (a
+       new order) and to destroy or render void (a prior order). It concurrently ‘brings new
+       entities into being’ and revokes ‘entities that already existed’; it ‘lets a thing be or lets
+       it not be’ (Mbembe, 2001):                            
+         [To] colonize is to put to work the two-faceted movement of destroying and creat-
+       ing, creating by destroying, creating destruction and destroying the creation, creating
+       to create, and destroying to destroy. To this extent, to colonize is, par excellence, a
+       gratuitous act. To colonize is also to deploy a subjectivity freed of any limit, a subjec-
+       tivity seeing itself as absolute but which, to experience that absolute, must constantly
+       reveal it to itself by creating, destroying, and desiring the thing and the animal that it
+       has previously summoned into existence. From the standpoint of the conqueror, the
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+        30 Page 14 of 20                         M. Zolkos   
+                                                             
+       colony is a world of limitless subjectivity. In this, the act of colonizing resembles a
+       miracle (Mbembe, 2001, p. 189).                       
+         In her discussion of Mbembe’s political theology, Benedetta Lanfranchi (2019)
+       has linked the destructive vector of colonial power to ‘epistemic closure’, which
+       renders other forms of knowledge and historical experiences subordinate to its own
+       position of ‘universal reason’. The space of the museum and the discourse of eth-
+       nographic collections illustrate this dynamic of Mbembe’s ‘theologically inflected’
+       (Ringer, 2021) notion of colonial power. Situating the ‘thing dispositif’ as an oper-
+       ation of a commandment casts into relief the bi-vectoral operation of power that
+       appropriates and extracts by simultaneously nullifying these items’ prior relations
+       of belonging and meaning-making within their origin communities and creating a
+       new set of signs, identities and significations. The colonial ‘derealization of things’
+       proceeds through the dual dynamic of construction of artifacts or exhibits through
+       museumification and devaluation and elimination of pre-colonial systems of knowl-
+       edge and thought that recognized these items as ‘depositories of vital force, of differ-
+       ent energies, destructive [or] nurturing the reserves of life and potentiality’ (Mbembe
+       2019a), and as ‘mediators of correspondence, of metaphors and passages within an
+       ecosystem characterized by fluidity and circularity’ (Sarr & Savoy, 2018, p. 34). The
+       signifier ‘native’, applied either to people or to objects, is a ‘creation and object of
+       the colonizer’s imagination’ and ‘the supreme example of the power of his/her arbi-
+       trariness’, which is in turn a condition of possibility of the colonizer’s emergence as
+       a sovereign subject as they are ‘only conscious of self in the enjoyment of the thing
+       that he or she produces and possesses’ (Mbembe, 2001, pp. 188–189).
+         Taking Mbembe’s notion of power as a commandment as a lens through which
+       to view cultural extractivism highlights the need to attend to the two parallel trajec-
+       tories of, on the one hand, acts of physical confiscation and translocation that have
+       exerts detrimental systemic effects and, on the other hand, the discursive transduction
+       of heritage items’ ontologies into inanimate and appropriable servile things. From
+       this perspective ‘reframing restitution’ means recognizing the political significance
+       of restitutive justice language beyond the goals of physical returns and transfer of
+       legal ownership (important as they are); in addition, at hand are performative actions
+       of reclaiming, receiving, rehoming and retrieving objects from their institutional and
+       discursive colonial enclosures. ‘Reframing restitution’ means recognizing its counter-
+       political potential, to which my reading of Mbembe adds that these are irreverent acts.
+       While Esposito’s critique of ‘de-realization of things’ and Mbembe’s account of colo-
+       nial power might not fully align (see McMahon, 2017), reading them together casts
+       into relief restitutive justice speech actions as refusals to obey a power command-
+       ment and as an irreverent response to its self-affirmations and self-promulgations.
+         Another expression of such irreverent critique is the refusal to adopt the western
+       discourse on (successful) restitutions and repatriations, which, when they happen, are
+       often presented as a kind of closure to colonial past in which the very event of return
+       and reacquisition is assumed to, in and of itself, repair the effects of the injurious
+       actions and, to use a phrase from Freudian psychoanalysis, ‘make-unhappen’ the past
+       (Zolkos, 2020). Mbembe (2018a, 2019a) disrupts and troubles that restitutive fantasy
+       when he insists that the return of the objects from the colonial museums and their
+       reintegration within the origin communities is necessarily linked to the experience
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+       Reframing restitution with Roberto Esposito and Achille Mbembe:… Page 15 of 20 30
+                                                             
+       of facing and grappling with loss and perhaps even with irreparability. He reminds
+       his European audiences and readers of the fact that has been evident to the colonized
+       groups but that has been historically unacknowledged by the museums holding the
+       collections, as well as obfuscated and invisibilized in their presentational aesthetics
+       (cf. Akpang, 2024), namely that the loss of heritage did not simply mean expropria-
+       tion of valuable cultural assets or evacuation of material objects, but depletion of cre-
+       ative energies and dispossessions of communities, societies, and cultures, of which
+       these items were an inseparable part. Subject to extraction are thus the ‘reservoirs of
+       creativity’ and ‘force[s] of generability’ that have been part of these objects’ assem-
+       blage (Sarr, 2019). Here the defiance of the ‘thing dispositif’ lies in the postulate that
+       these objects are irreducible to (re)appropriable items with a calculable value, and
+       that in order to understand the loss incurred through extractivism, it is necessary to
+       consider them through the lens of their human and more-than-human relations and
+       assemblages. Sarr adopts a generational perspective to argue that these pernicious
+       effects are just as pronounced today as they were when the extractions occurred, and
+       that hence even ‘historical’ colonial dispossessions should not be narrated in the past
+       tense; he refers to the contemporary generations of young people in the colonized
+       societies as ‘inheritors of history that has been transmitted [to them] via fragments’.
+       Mbembe coins the expression ‘aporia of restitution’ to articulate his normative politi-
+       cal position on postcolonial restitutions that, even (or, perhaps, especially) when the
+       goals of repatriation struggles are accomplished and the ceremonial objects return to
+       their custodian societies, the questions of loss and irreparability are thrown into relief
+       and brought to the fore for these groups and societies as a matter of shared concern
+       and action. The aporia of restitution means that the return of the objects is inseparable
+       from the collective reflection about that which is beyond the possibility to restore and
+       recover.                                              
+         For the western museums to agree to repatriation requests and to return (parts
+       of) their collections without probing and acknowledging the destructiveness and
+       violence of these ‘acquisitions’, means not simply that these restitutive gestures are
+       ‘incomplete’; it is, Mbembe argues, a political and ethical failure that divests restitu-
+       tions of their potential as decolonizing events and as initiations of what he calls ‘a
+       new relation’. But what is just as important is that such an acknowledgment would
+       puncture colonial mastery fantasy; a fantasy underwriting restitutions as ‘benevolent
+       acts’ through which the western ‘do-gooders’ can exercise power to undo and repair
+       harms of colonialism. The irreverence of the speech acts means refusing to ‘say thank
+       you’, i.e. to accept the operative logic of restitution as a gift and respond to acts of
+       return with gratitude. It also means troubling the assumption that it is in capacity of
+       colonial institutions that undertake the returns to bring about the reparative effects of
+       restitution. Rather, reparative agency lies with the receiving groups and communities.
+         Finally, Mbembe returns to the question of loss when he proposes that, rather
+       than a charitable and benevolent gestured modelled on a gift-logic, restitution should
+       coincide with an experience of loss for the societies from where these objects depart
+       (2018a; 2018b). If restitution is to realize its radical political potential as an ‘act of
+       repairing the world’, it cannot mean simply be a return of that which one no longer
+       wants or desires, but, rather, a divestiture and relinquishment of something precious,
+       singular and irreplaceable (a ‘de-realized thing’). Such restitution invokes the expe-
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+        30 Page 16 of 20                         M. Zolkos   
+                                                             
+       rience of forfeiture and loss on the part of the societies that return, which, again,
+       interrupts and punctures the political fantasy of human-centric and colonial mas-
+       tery expressed through a grammatical shift from an active proprietary subject who
+       undertakes the returns to a position that Levinasian philosophical ethics describes as
+       ‘passivity’—restitution is something that the colonial subject undergoes; a process
+       through which they are undone. For Mbembe this undergoing of a loss is a condition
+       of possibility of transformative political and social effects of restitution, both with
+       regard to shared collective memory and what he calls a ‘capacity for truth’.
+         In her 2023 Máhccan (Homecoming), Finnish Sámi director West provides a poi-
+       gnant illustration of such reparative agency on the part of those groups and societies
+       that receive the objects back from their previous colonial holdings. Documenting
+       the complex psycho-social dynamics of repatriation, West not only frames restitu-
+       tion as a homecoming but casts into relief the ambivalence of heritage reception that
+       prevents the viewers of her film to apply the frame of a ‘success story’. As such,
+       her film provides a holding space for a plurality of gestures, responses and feelings,
+       where the communal celebrations, joy and pride at the accomplishment of the Finnish
+       Sámi peoples’ struggles for the retrieval of their heritage do not diminish the critical
+       or painful aspects of that experience, including the dismay and sadness at how many
+       Sámi objects continute to remain outside of their control and custodianship. Rather
+       than approach restitution from the perspective of epistemic certainty and ‘objective
+       knowledge’, West construes her restitutive narrative by voicing questions and doubts,
+       including ancestral invocations, and by allowing herself to not know in advance,
+       while capturing on camera moments of her own vulnerability, be it in museal spaces,
+       or when encountering ancestoral presences through objects, or when confronted with
+       a violent interpellation of an expert that pressures her ‘to look’ at something West
+       considers too private and intimate to inspect. West grounds the film in a significant
+       political gesture of explicitly renouncing the power that she might hold as a director
+       and an author of the homecoming story, stating in the film that she ‘does not control
+       [it]’, but that it is the ‘narratives, people and objects [that] lead [her] to places’. West
+       thus narrates her positionality and her own presence within the restitutive process,
+       developing a remarkably honest and tender account of the political, economic, and
+       emotional difficulties involved in heritage reception, including working thourgh the
+       historical trauma of violence and oppression that these objects can be a reminder
+       of. Particularly poignant in this context is the film’s narrative of ceremonial drums,
+       which remain largely unrepatriated, and which are carriers of painful memory of
+       violence against Sámi communities and culture.        
+         By shifting accents of cultural representations of restitution from repatriation as
+       ‘giving back’ to repatriation as ‘receiving back’, Homecoming captures its relational,
+       social and communicative dimensions and depicts community and its members in
+       the moment of coming together to negotiate shared meanings and the memories
+       they hold in common, as well as to develop socio-cultural practices of receptivity.
+       In West’s representation, the ambivalence connects affects with political resonance
+       of restitution that gives a complex and nuanced account of what it means to receive
+       heritage back (i.e. to become receptive) and to what it means to exercise reparative
+       agency in the world.                                  
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+       Reframing restitution with Roberto Esposito and Achille Mbembe:… Page 17 of 20 30
+       Conclusions                                           
+                                                             
+       This article has examined the discourse surrounding restitution of heritage items from
+       Western ethnographic museums to descendant communities of these items’ makers,
+       care-takers and custodians. Taking a starting point in the discrepancy between the
+       language of international law on cultural property and speech acts deployed by par-
+       ticipants in the restitutive justice movements, who frequently reference and address
+       the objects as un-appropriable, potent and relational beings, I have drawn on the
+       political philosophy of Roberto Esposito and of Achille Mbembe to reframe restitu-
+       tion—away from the dominance of legalistic and state-centric frameworks that man-
+       age, control and restrict the processes of ‘giving back’ and towards a more radical
+       notion of restitution as a politics of reclaiming, rehoming of and receptivity towards
+       the objects. With regards to Esposito, I have drawn on his conceptualization of mod-
+       ern power dynamics that manifest through the ‘dispositif of a thing’ in a western
+       legal tradition that brings about the political effects of derealization and alienation
+       of objects, including, in the colonial contexts of cultural extractivism, through
+       translocation, disaporization and museumification of Indigenous peoples’ heritage.
+       Reading Esposito together with political-theological perspective of Achille Mbembe
+       who critiques colonial power as ‘commandment’, highlights refractory and irrever-
+       ent performativity of the restitutive speech acts that reclaim and rehome heritage.
+       For restitutive justice struggles to defy the ‘thing dispositif’ means to resist both the
+       destructive and creative dimensions of that power that Mbembe outlines—and to
+       respond with irreverence to the commandment. Rather than equating restitutions with
+       transfers of legal ownership and physical relocations, which occur when ‘empires
+       become weary’ (as Chuchu and Ngumi put it), they come to occupy a radically differ-
+       ent political imaginary as struggles for freedom and as acts of disenclosure that chal-
+       lenge the enduring effects of coloniality and dispossession. As the examples of three
+       films on the theme of restitution show, this political work of disarticulating and frac-
+       turing the colonial-extractive apparatus, also has ethical and reparative dimension.
+       Destabilizing of the ‘thing/person dispositif’ by speech acts reclaiming objects from
+       their colonial enclosures gives visibility to the broader cultural crisis of the ‘separa-
+       tion between the human subject and the world of animate and inanimate objects’ that
+       we are witnessing today (Mbembe in Confavreux, 2022, p. 129). This is largely due
+       to positions that bring visibility to different politics and ethics of human and more-
+       than-human relations, including pre-colonial and Indigenous peoples’ belief systems.
+       From these perspectives, restitution is an opportunity to both radicalize decolonial
+       justice struggles and to re-dramatize and complexify human and object relations
+       within post-anthropocentric planetary ethics and politics.
+       Acknowledgments Earlier versions of this article were presented as conference papers at the Humboldt
+       Kolleg organized by Miguel Vatter at Trinity College at University of Melbourne and at the Annual Meet-
+       ing of the Finnish Political Science Association at University of Lapland. I extend warm thanks to the
+       following people for their comments and feedback: Elizabeth Shakman-Hurd, Dimitris Vardoulakis, and
+       Miguel Vatter, as well as Kia Pyykkönen and Katarina Sjöblom, and two anonymous reviewers. This
+       article is a research output of Academy Project funded by the Research Council of Finland (no. 360692)
+       ‘Reframing Restitution: Postcolonial Object Movement, Transnational Memory and Social Repair’.
+                                                             
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+        30 Page 18 of 20                         M. Zolkos   
+       Funding Open Access funding provided by University of Jyväskylä (JYU).
+                                                             
+       Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+       which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long
+       as you give appropriate credit to the original author(s) and the source, provide a link to the Creative
+       Commons licence, and indicate if changes were made. The images or other third party material in this
+       article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line
+       to the material. If material is not included in the article’s Creative Commons licence and your intended use
+       is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission
+       directly from the copyright holder. To view a copy of this licence, visit h t t p : / / c r e a t i v e c o m m o n s . o r g / l i c e n
+       s e s / b y / 4 . 0 / .                               
+       References                                            
+       Akpang, C. (2024). Beyond the Neo-Imperial politicizing of object repatriation: Restitution and the ques-
+         tion of decolonization. Art Journal Open. [online] Accessed 09 June 2025.
+       Amo-Agyemang, C. (2024). Restitution of material objects and Indigenous ontology: Towards colonial-
+         ity of Dispossession/Theft in Africa. International Journal of Cultural Policy. [online] Accessed 12
+         June 2025.                                          
+       Arndt, L. (2011). Thoughts on the reversal of the burden of proof as a postcolonial Lever. Trans. E. Buta-
+         kova. One caption hides another (pp. 65–73). Betonsalon.
+       Arora, A. (2021). Decolonizing the museum: Leila Aboulela’s ‘The museum.’ Journal of Postcolonial
+         Writing, 57(1), 121–134.                            
+       Azoulay, A. (2015). What are human rights? Comparative studies of South Asia. Africa and the Middle
+         East, 35(1), 8–20.                                  
+       Azoulay, A. (2019). Potential History: Unlearning Imperialism. Verso.
+       Basu, P. (2017). The Inbetweenness of Things. In P. Basu (Ed.), The Inbetweenness of Things. Material-
+         izing Mediation and Movement Between Worlds. (pp. 1–20). Bloomsbury.
+       Brown, B. (2001). Thing theory. Critical Inquiry, 28(1), 1–22.
+       Bruchac, M. (2024). Object Lessons. Reflexive research and restorative methodologies. In G. Nicholas,
+         & J. Watkins (Eds.), Working as Indigenous archaeologists: Reckoning new paths between past and
+         present lives. Routledge.                           
+       Bryant, L. (2011). The Democracy of Objects. Open Humanities Press.
+       Butler, J. (1997). Excitable Speech: A Politics of the Performative. Routledge.
+       Chuchu, J., & Ngumi, N. (2023). When the Empire Gets Weary the Objects May Return. Talking Objects
+         Lab. [online] Accessed 30 June 2024.                
+       Clark, C., Emmanouil, N., Page, J., & Pelizzon, A. (2019). Can you hear the rivers sing? Legal person-
+         hood, ontology, and the nitty-gritty of governance. Ecology Law Quarterly, 45, 787–844.
+       Collison, L. (2022). Command/Commandment. Critical Theory for Political Thelogy. [online] Accessed
+         on 12 June 2025.                                    
+       Collison, L. (2024). Dahomey Dossier de Presse Francais [online] Accessed 30 April 2025.
+       Confavreux, J. (2022). Decolonial anxieties in a postcolonial world: An interview with Achille Mbembe.
+         Trans. D. Broder. Postcolonial Studies, 25(1), 128–135.
+       D’Angelo, D. (2022). A new path of thinking for europe? Care for Life, Personhood, and the place of
+         thought in Roberto esposito’. Political Theology, 23(3), 215–230.
+       De Line, S. (2018). Weaving Reflections—On museology and the repatriation of Indigenous beings from
+         ethnological collections. Bauhaus Imaginista [online] Accessed 26 September 2024.
+       Dehnert, M., & Gunkel, D. (2025). Beyond ownership: Human–Robot relationships between property and
+         personhood. New Media & Society, 27(2), 1110–1126.  
+       Diagne, S. B. (2023). African Art as philosophy: Senghor, Bergson, and the Idea of negritude. Trans. Ch.
+         Jeffers. Other.                                     
+       Diagne, S. B. (2024). Mutant African Objects and the Question of Restitution. Lecture at Musée
+         d’ethnographie, Genève. 06 March.                   
+       Esposito, R. (2011). Third Person: Politics of Life and Philosophy of the Impersonal. Polity.
+       Esposito, R. (2012a). The Dispositif of the person. Law Culture and the Humanities, 8(1), 17–30.
+
+[PAGE 19]
+                                                             
+                                                             
+                                                             
+       Reframing restitution with Roberto Esposito and Achille Mbembe:… Page 19 of 20 30
+       Esposito, R. (2012b). The third Person. Politics of life and philosophy of the impersonal. Trans. Z. Hanafi.
+         Polity.                                             
+       Esposito, R. (2015). Persons and things: From the body’s point of view. Trans. Z. Hanafi. Polity.
+       Esposito, R. (2016). Persons and things. Trans L Chiesa Paragraph, 39(1), 26–35.
+       Halewood, M. (2014). Facts as social things. In R. Faber, & A. Goffey (Eds.), The allure of Things. Process
+         and object in contemporary philosophy (pp. 123–144). Bloomsbury.
+       Kim, E. (2024). The Politics of Collecting: Race and the Aestheticization of Property. Duke University
+         Press.                                              
+       Kohn, M., & McBride, K. (2011). Political Theories of Decolonization: Postcolonialism and the Problem
+         of Foundations. Oxford University Press.            
+       Lanfranchi, B. (2019). The postcolonial condition and its possible futures in Achille Mbembe, Tsenay
+         Serequeberhan, and Lewis R. Gordon. Journal of World Philosophies, 4, 188–200.
+       LeGall, Y., & Machona, G. (2022). Possessions, Spoils of War, Belongings: What Museum Archives Tell
+         Us About the (Il)Legality of the Plunder of African Property. Verfassungsblog: On Matters Constitu-
+         tional. [online] Accessed 14 June 2025.             
+       Losson, P. (2022). Reparation or perpetuation? Physical and symbolic violence in restitutions of cultural
+         heritage. Items, 07 June.                           
+       Macdonald, B. (2022). Pausing, Reflection, and action: Decolonizing museum practices. Journal of
+         Museum Education, 47(1), 8–17.                      
+       Maranda, L. (2021). Decolonization within the museum. ICOFOM, 49(2), 180–195.
+       Markell, P. (2003). Bound by Recognition. Princeton University Press.
+       Mbembe, A. (2001). On the Postcolony. University of California Press.
+       Mbembe, A. (2018a). Of African Objects in Western Museums. Lecture at Gerda Henkel Foundation.
+         [online] Accessed 04 November 2023.                 
+       Mbembe, A. (2018b). Recognition, Reparation, Reconciliation. Lecture at Stellenbosch University.
+         [online] Accessed 08 November 2023.                 
+       Mbembe, A. (2019a). African Objects in Western Thought. Lecture at Wits University. [online] Accessed
+         10 November 2023.                                   
+       Mbembe, A. (2019b). People and Things in African Systems of Thought’. Lecture at Wits University.
+         [online] Accessed 14 November 2023.                 
+       Mbembe, A. (2019c). Debt, Reparation, Restitution’. Lecture at Wits University. [online] Accessed 16
+         November 2023.                                      
+       Mbembe, A. (2019d). Memory and Restitution. Lecture at University of Cologne. [online] Accessed 28
+         November 2023.                                      
+       Mbembe, A. (2021). Out of the dark Night. Essays on decolonization. Columbia University.
+       Mbembe, A. (2024). Brutalism. Trans. S. Corcoran. Duke University Press.
+       McMahon, J. (2017). The Enigma of Biopolitics: Antiblackness, Modernity, and Roberto Esposito’s Bio-
+         politics. Political Theory, 46(5), 749–771.         
+       Moreton-Robinson, A. (2020). Incommensurable Sovereignties. Indigenous ontology matters. In B.
+         Hokowhitu, A. Moreton-Robinson, L. Tuhiwai-Smith, S. Andersen, & S. Larkin (Eds.), Routledge
+         handbook of critical Indigenous studies (pp. 257–268). Routledge.
+       Mugabowagahunde, M. (2016). African Indigenous heritage in colonial and postcolonial museums. In W.
+         Logan, M. N. Craith, & U. Kockel (Eds.), A companion to heritage studies (pp. 146–160). Blackwell.
+       Mussawir, E., & Parsley, C. (2017). The law of persons today: At the margins of jurisprudence. Law and
+         Humanities, 11(1), 44–63.                           
+       Ngumi, N. (2022). Can Art Change Kenya? BBC HARDtalk. 07 June.
+       Nichols, R. (2018). Theft is Property! The recursive logic of dispossession. Political Theory, 46(1), 3–28.
+       Peffer, J. (2005). Africa’s diasporas of images. Third Text, 19(4), 339–355.
+       Pelizzon, A., Martuwarra RiverOfLife, Akhtar-Khavari, A., Clark, C., Laborde, S., Macpherson, E.,
+         O’Bryan, K., O’Donnell, E., & Page, J. (2021). Yoongoorrookoo: The emergence of ancestral per-
+         sonhood. Griffith Law Review, 30(3), 505–529.       
+       Prażmowska-Marcinowska, K. (2022). Repatriation of Indigenous Peoples’ cultural property. Santander
+         Art and Culture Law Review, 8(2), 135–58.           
+       Rappaport, N. (2017). Making Things, Things. In L. Atzmon, P. Boradkar (eds.) Encountering Things.
+         Design and Theories of Things. Bloomsbury, 95–108.  
+       Reeves, J.-A., & Peters, T. (2021). Responding to anthropocentrism with anthropocentrism: The biopoli-
+         tics of environmental personhood. Griffith Law Review, 30(3), 474–504.
+
+[PAGE 20]
+                                                             
+                                                             
+                                                             
+        30 Page 20 of 20                         M. Zolkos   
+       Ringer, C. (2021). Achille Mbembe. Critical Theory for Political Thelogy. [online] Accessed on 04 Janu-
+         ary 2025.                                           
+       Roodt, C. (2025). Restoring the Law of Restitution of Cultural Property: Complex Colonial Histories.
+         Routledge.                                          
+       Rosiek, J., Snyder, J., & Pratt, S. (2020). The new materialisms and Indigenous theories of Non-Human
+         agency: Making the case for respectful anti-colonial engagement. Qualitative Inquiry, 26(3–4),
+         331–346.                                            
+       Sarr, F. (2019). Restitution of African Artifacts: The Next. Step, a New Relational Ethic. Lecture at Uni-
+         versity of Cologne. [online] Accessed 09 April 2025.
+       Sarr, F., & Savoy, B. (2018). The Restitution of African Cultural Heritage. Trans. S. Burk. [online]
+         Accessed 03 January 2025.                           
+       Säynäjäkangas, J. (2025). Resource Relationships: A Political Ontology for the Anthropocene. PhD The-
+         sis. University of Jyväskyl&#228.                   
+       Shachar, A. (2020). The Shifting Border: Legal Cartographies of Migration and Mobility. Manchester
+         University Press.                                   
+       Vallor, S. (2011). Carebots and caregivers: Sustaining the ethical ideal of care in the Twenty-First century.
+         Philosophy & Technology, 24(3), 251–268.            
+       Vatter, M., & De Leeuw, M. (2023). Human rights, legal personhood and the impersonality of embodied
+         life. Law, Culture and the Humanities, 19(1), 106–125.
+       Vermeulen, P. (2017). How should a person be (Transpersonal)? Ben Lerner, Roberto Esposito, and the
+         biopolitics of the future. Political Theory, 45(5), 659–681.
+       Wali, A., & Collins, R. (2023). Decolonizing museums: Toward a paradigm shift. Annual Review of
+         Anthropology, 52(1), 329–345.                       
+       Zolkos, M. (2020). Restitution and the Politics of Repair. Edinburgh University Press.
+       Zolkos, M. (2025). Reclaiming Hinemihi through Rematriation: Victoria Hunt’s Cinematic and Perfor-
+         mance Art as Memory Activism. Interventions: International Journal of Postcolonial Studies (online
+         first).                                             
+       Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps
+       and institutional affiliations.                       
+       Magdalena Zolkos is associate professor at the department of social sciences and philosophy at the Uni-
+       versity of Jyväskylä, Finland. She is the author of Restitution and the Politics of Repair (Edinburgh Uni-
+       versity Press, 2020).                                 
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             

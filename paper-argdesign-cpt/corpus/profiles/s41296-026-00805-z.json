@@ -1,0 +1,73 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "jing_2026",
+  "title": "Confucian comparative political philosophy [Book Review]",
+  "author": "Jing",
+  "year": 2026,
+  "journal": "Contemporary Political Theory",
+
+  "opening_move": {
+    "type": "field_diagnosis",
+    "description": "The review opens by characterising contemporary Confucian political philosophy as a dynamic field pressing on questions that liberal theory treats as settled (democracy, equality, human rights, global justice), then frames Li's book as an unusual entry that maps debates rather than advancing a unified position.",
+    "anchored_in": ["Li (Yong)", "Confucian political philosophy", "comparative political theory"],
+    "stakes_claimed": "A rigorous, issue-centered comparative mapping of Confucian political philosophy that avoids methodological overreach is valuable — but the book's restraint also raises questions about what would count as settling disputes"
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["textual-historicist Confucianism", "normative Confucianism (meritocracy, democracy)", "cosmopolitan vs. nationalist Confucianism"],
+    "engagement_structure": "immanent_critique",
+    "immanent_critique": true,
+    "own_position_type": "friendly_amendment",
+    "own_position_explicit": true,
+    "description": "Critical appreciative review assessing Li's methodological modesty positively while identifying a tension: the book identifies when texts cannot settle disputes but not always what would. The reviewer endorses comparative methodology while noting the gap."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_interpretive_case",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "comparative political philosophy; close reading of Confucian texts and Li's reconstruction",
+    "notes": "Book review (4 pages). Reviewer has substantive methodological views about Confucian comparative philosophy that shape the critique. More analytically engaged than a standard expository review."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "philosophical_text",
+    "case_name": "Li (Yong), Confucian Comparative Political Philosophy (2025)",
+    "case_function": "primary_object_of_analysis",
+    "case_relation_to_argument": "object_of_interpretation",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "medium",
+    "domain": "comparative political theory / Confucianism / democracy / methodology",
+    "claim_type": "critical_diagnostic",
+    "closure_type": "open_ended_with_burden_on_reader"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "case_introduction",
+    "case_development",
+    "immanent_critique",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["Confucian political philosophy", "comparative political theory", "methodological modesty", "Confucian democracy", "Confucian meritocracy", "textual vs. normative justification"],
+
+  "thinkers_deployed": {
+    "central": ["Li (Yong)"],
+    "engaged_critically": ["Li (Yong)"],
+    "referenced_only": ["Angle", "Rawls (implied)", "Confucian thinkers (implied)"]
+  },
+
+  "confidence_notes": "Book review (4 pages). Reviewer engages substantively with methodology, producing a more analytically rich review than simple exposition."
+}

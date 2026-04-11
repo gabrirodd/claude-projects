@@ -1,0 +1,74 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "laegaard_2025",
+  "title": "Normative sociology and normative behaviorism: recent discussions of the relation between empirical social science and normative political theory",
+  "author": "Lægaard",
+  "year": 2025,
+  "journal": "Contemporary Political Theory",
+
+  "opening_move": {
+    "type": "conceptual_gap",
+    "description": "The paper opens by diagnosing a 'methodological moment' in political theory: while the strict separation of facts and values has been widely challenged, the precise implications of different alternatives for what political theorists should actually do remain underexplored.",
+    "anchored_in": ["Floyd", "Modood", "Bauböck", "Dowding"],
+    "stakes_claimed": "Different views on the fact-value relation have concrete implications for what political theorists should do and which methods they should employ"
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["Floyd (normative behaviorism)", "Modood (normative sociology)", "traditionalist fact/value separation"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": true,
+    "own_position_type": "none",
+    "own_position_explicit": false,
+    "description": "The paper conducts a systematic methodological comparison of two recent approaches without advocating for either; its own contribution is the analytical framework of the four comparison dimensions."
+  },
+
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "conceptual analysis and systematic comparison of methodological positions",
+    "notes": "The paper discusses empirical evidence as an object of methodological analysis but does not itself use any empirical data; it is a meta-methodological argument conducted entirely within conceptual/normative space."
+  },
+
+  "case_type": {
+    "has_case": false,
+    "case_medium": "none",
+    "case_name": null,
+    "case_function": "none",
+    "case_relation_to_argument": "none",
+    "case_selection_justified": false
+  },
+
+  "normative_stake": {
+    "level": "medium",
+    "domain": "methodology of political theory",
+    "claim_type": "critical_diagnostic",
+    "closure_type": "research_agenda"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "conceptual_distinction",
+    "immanent_critique",
+    "immanent_critique",
+    "meta_reflexive_qualification",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": true,
+
+  "key_concepts": ["normative behaviorism", "normative sociology", "fact/value distinction", "is-ought inference", "iterative contextualism", "direction of fit"],
+
+  "thinkers_deployed": {
+    "central": ["Floyd", "Modood"],
+    "engaged_critically": ["Floyd", "Modood"],
+    "referenced_only": ["Bauböck", "Dowding", "Baderin", "Erman", "Möller", "Miller", "Perez", "Stevens", "Modood & Thompson", "Berlin", "Grant"]
+  },
+
+  "confidence_notes": "Unusual structure: both interlocutors (Floyd and Modood) are simultaneously 'central' and 'engaged_critically' since the paper subjects both to immanent critique without endorsing either. The paper's own epistemic mode is fully normative/conceptual despite its topic being about the empirical-normative interface."
+}

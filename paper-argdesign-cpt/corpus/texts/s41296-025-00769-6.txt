@@ -1,0 +1,1436 @@
+[PAGE 1]
+                                                             
+                                                             
+                                                             
+       Contemporary Political Theory (2025) 24:490–516       
+       https://doi.org/10.1057/s41296-025-00769-6            
+       CRITICAL EXCHANGE                                     
+                                                             
+       New perspectives on Judith Shklar                     
+                                                             
+       Rebecca Buxton1 · Samuel Bagg2 · David Enoch3 · Shal Marriott4 ·
+       Samuel Moyn5                                          
+                                                             
+       Published online: 23 July 2025                        
+       © The Author(s) 2025                                  
+                                                             
+                                                             
+       Keywords Judith Shkla · Realism · Fear · Liberalism   
+                                                             
+                                                             
+       In my conversations with students, I often end up asking if they have heard of Judith
+       Shklar. Almost none of them have; she is rarely taught in undergraduate philosophy or
+       politics departments, but she becomes known to many of us once we are a little older
+       and wiser. My own PhD supervisor recommended that I read Shklar in the first weeks
+       of my doctorate, and she has continued to shape and challenge my work ever since.
+         Of course, Shklar has not been “ignored” or “forgotten,” but she has remained a
+       niche interest. Most know her for her famous essay “The Liberalism of Fear” (1989)
+       in which she argues in favor of a liberalism centered around a summum malum,
+       rather than a positive doctrine of justice or civic virtue. She is certainly not as well-
+       celebrated as the other great political theorists and philosophers of her time such as
+       Isaiah Berlin, John Rawls, and Michael Walzer, all of whom she considered friends.
+       Only a handful of books are dedicated to engaging fully with her thought (Gatta,
+       2018; Hall, 2025; Hess, 2014), although many take inspiration from it (Bagg,
+       *                                                     
+         Rebecca Buxton                                      
+         rebecca.buxton@bristol.ac.uk                        
+         Samuel Bagg                                         
+         samuel.bagg@gmail.com                               
+         David Enoch                                         
+         david.enoch@law.ox.ac.uk                            
+         Shal Marriott                                       
+         shal.marriott@mail.mcgill.ca                        
+         Samuel Moyn                                         
+         samuel.moyn@yale.edu                                
+       1 University of Bristol, Bristol BS81TH, UK           
+       2 University of South Carolina, Columbia, SC 29208, USA
+       3 University of Oxford, Balliol College, Oxford OX13BJ, UK
+       4 McGill University, Montreal, Quebec H3A 0G4, Canada 
+       5 Yale University, New Haven, CT 06520, USA           
+        Vol:.(1234567890)                                    
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+       New perspectives on Judith Shklar            491      
+                                                             
+       2024; Levy, 2000). Stanley Hoffman speculated that this lack of engagement may
+       be because Shklar was more of a “fox” than a “hedgehog,” to use Berlin’s termi-
+       nology; she was averse to world-building, skeptical of grand narratives, and sought
+       mainly to protect the weak from the powerful. Perhaps because of this, much work
+       on Shklar has been undertaken by her old colleagues, her students, and a patchwork
+       of admirers.                                          
+         In the last decade this has begun to shift, with Shklar’s political thought picking
+       up some much-needed momentum. Recent work has focused on what people take to
+       be her distinctively “negative” Shklarian method (Forrester, 2012; Luo, 2021); that
+       she wanted us to “begin with what is to be avoided” (1985, p. 5). This thread runs
+       through much of Shklar’s writing, from Legalism (1964) to her final Tanner Lectures
+       on American Citizenship (1991a). Other work extends Shklar’s most famous essay
+       (Douglass, 2023; Hall, 2022), or interprets the many lectures and notes that she left
+       behind (Pickford, 2024; Scheuerman, 2021). Some focus on a Shklarian approach to
+       cruelty and injustice (Fives, 2020; Royer, 2022; Stullerova, 2014).
+         This critical exchange continues this growing engagement with Shklar, ranging
+       from discussions of how we might emotionally respond to her work, to provocations
+       on how her negativism might ground a more radical politics. Each of the contribu-
+       tions offers a new way of thinking about Shklar and what she might offer us today.
+         Samuel Bagg’s contribution asks whether Shklar’s trademark negativism might
+       be adopted to underpin a more radical politics. Although sometimes criticized for
+       her conservativism, Bagg argues that a healthy dose of Shklarian negativism may be
+       central to demanding something more from our politics. David Enoch’s contribution
+       reflects on Shklar’s lack of uptake in analytical political philosophy. Considering his
+       own engagement with Shklar’s work, Enoch discusses how she might influence our
+       thinking in more abstract approaches to political thought, and how political philos-
+       ophers should engage with political history. Shal Marriott’s contribution turns our
+       attention to how Shklar draws out emotions in her readers. Marriott argues that emo-
+       tions play a central role in politics for Shklar and that they, therefore, must also be
+       foregrounded in how we interpret her thought. The final contribution, from Samuel
+       Moyn, asks us to consider Shklar’s relationship with a political thinker that she, per-
+       haps surprisingly, very rarely discussed: John Stuart Mill.
+         Above all, these interventions continue to push us to think with Shklar in new
+       ways. In doing so, they contribute to the growing and necessary reflection on the
+       work that Shklar left behind.                         
+         Rebecca Buxton                                      
+       A Radicalism of Fear? The Affordances of Negative Idealism in Judith
+       Shklar and Beyond                                     
+       Negativity is often assumed to stand in stark tension with radical political demands.
+       Fear, after all, is a distinctly conservative emotion (Robin, 2004)—steering us away
+       from potentially liberatory experiments, out of concern for the unpredictable forces
+       they may unleash (Hirschman, 1991). At best, it limits our ambitions to incremen-
+       tal progress; at worst, it activates our basest reactionary instincts. Therefore, many
+                                                             
+                                                             
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+       492                                     R. Buxton et al.
+                                                             
+       presume that a properly radical orientation—indeed, even an ordinary progressive
+       one—must be grounded in hope rather than fear.        
+         More broadly, it is thought, a properly ambitious ideal should foreground positive
+       goals we can strive for, rather than negative outcomes to avoid. For some critics of
+       negative idealism, the necessity of prioritizing positive ideals is simply a matter of
+       philosophical logic—we cannot know what is bad unless we first know what is good
+       (Stemplowska, 2008, p. 332)—while for others, the key concerns are pragmatic and
+       political (Simmons, 2010, p. 35). For their part, meanwhile, many “realists” and
+       “moderates” are willing to cede the realm of abstract principles and utopian specula-
+       tion to radical opponents (Galston, 2010; Sleat, 2013).
+         A series of interrelated dichotomies thus structures much discourse about the
+       role and purpose of political theorizing: hope vs. fear; utopianism vs. realism; ideal-
+       ism vs. feasibility; ambition vs. moderation; optimism vs. skepticism; full justice
+       vs. basic legitimacy—all of which line up, roughly, with the opposition between
+       “radicalism” and “liberalism.” And for many whose sympathies lie clearly on either
+       side of this divide, nothing illustrates its salience better than Shklar’s “liberalism
+       of fear”: whereas liberal realists embrace her sober skepticism toward utopian aspi-
+       rations (Williams, 2005), radicals see it as proof that liberalism is fundamentally
+       unambitious, fearful, and conservative at heart (Robin, 2004).
+         There is no shortage of attempts to unsettle these dichotomies in terms of their
+       general validity as well as their embodiment by Shklar in particular. Defenders of
+       negative idealism have sought to undermine the supposed logical priority of positive
+       ideals (Barrett, 2020), for instance, while radically inclined realists have assailed
+       the stultifying effects of “ideal theory” (Mills, 2005), and insisted on the utopian
+       potential of a “realist” approach, properly conceived (Bagg, 2022; Raekstad, 2018).
+       Recently, Shklar scholarship itself has tended to highlight the radical potential
+       implicit in her work—by recovering her ambivalence toward key concepts such as
+       “hope” (Forrester, 2011), or counterposing the liberalism of fear with earlier work
+       more amenable to radical imaginaries (Moyn, 2020) or drawing out certain unarticu-
+       lated themes—such as a focus on empowering the “voiceless”—running throughout
+       her rich but unsystematic oeuvre (Gatta, 2018).       
+         This contribution picks up one line of argument left unfinished by the other ones.
+       I argue that Shklar’s “liberalism of fear” not only eludes the common dichotomies it
+       is often taken to affirm; it gives us resources for overturning them. Far from being
+       incompatible with radical demands, a healthy dose of Shklarian fear and skepticism
+       could—indeed, should—lead us to embrace many of those demands. That said, my
+       aim here is not to offer a novel or especially comprehensive reading of Shklar, and
+       my arguments do not turn on whether she herself (would have) embraced such goals.
+       My first aim is to highlight the general affordances embedded within a liberalism of
+       fear and, more generally, to vindicate negative idealism as a promising path forward
+       in political theory.                                  
+         In doing so, moreover, my second aim is to sketch a distinctive substantive
+       account of radical politics in particular; one that both follows from and depends
+       upon certain liberal commitments. As I develop it this Shklar-inspired “radicalism of
+       fear” urges liberals to recognize their core commitments as inextricably linked, both
+       theoretically and practically, with various demands normally seen as radical—i.e. as
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+       New perspectives on Judith Shklar            493      
+                                                             
+       either opposed or supererogatory to more “basic” liberal commitments. In highlight-
+       ing the common foundations and political interdependence of core liberal and radi-
+       cal demands, it also urges those who embrace the latter to rethink their relationship
+       to the former. Some versions of liberalism have served to obfuscate domination and
+       preclude the radical means required to mitigate it. Yet the “liberalism of fear” does
+       neither—and in fact, I conclude, internalizing its lessons is crucial to the success of
+       radical goals.                                        
+         In what sense is the liberalism of fear a form of negative idealism? Perhaps most
+       famously, Shklar notes, it “begins”; with a highest bad (summum malum)—identi-
+       fied as cruelty—rather than a highest good (summum bonum), such as justice or vir-
+       tue (Shklar, 1989, p. 29). In my view, though, this starting point is not the key dis-
+       tinctive feature of her outlook, or of negative idealism more generally. What makes
+       an ideal usefully “negative,” rather, is that it gains traction on the world primarily
+       through its articulation of the specific outcomes it seeks to avoid, rather than those it
+       aims to achieve. And beyond the abstract invocation to avoid cruelty as such, Shklar
+       enumerates quite a few such bad outcomes.             
+         Confining ourselves only to the classic “liberalism of fear” essay, her litany
+       includes war, religious indoctrination, forced conversions, an erasure of the private
+       sphere, permanent social classes, torture, systemic fear of physical and emotional
+       pain, and both public and private intimidation, as well as open-ended categories of
+       “social oppression” (p. 21) and “oppressive practices” (p. 28). Most of her focus is
+       on the “unrestrained ‘punishing’ and denials of the most basic means of survival
+       by governments” (p. 37), but she also recognizes the fear and cruelty that would
+       be generated by “private criminals” (p. 31) without lawful government. As such,
+       what is to be avoided is not efficacious public power as such, but “abuses of power”
+       (p. 28); “arbitrary, unexpected, unnecessary, and unlicensed acts of force” (p. 29);
+       “extralegal, secret, and unauthorized acts by public agents” (p. 30).
+         As concrete illustrations of the horrors that liberalism must be oriented against,
+       she mentions extreme cases like the religious wars of the seventeenth century; the
+       regimes of Mao, Hitler, and Stalin; and the Indian caste system. However, she also
+       emphasizes that one can find plenty of examples in the “annual reports of Amnesty
+       International and of contemporary warfare” or the “foreign news” in the New York
+       Times, as well as its “accounts of the prevalence of racism, xenophobia, and system-
+       atic governmental brutality” within the United States (pp. 37-38). At every opportu-
+       nity, moreover, she rejects any suggestion that a liberalism of fear is concerned only
+       with avoiding the most egregious cases of tyranny; insisting that it “regards abuses
+       of power in all regimes with equal trepidation” (p. 28) and recognizes diverse forms
+       of social oppression (p. 21). The cases she mentions are illustrative, not exhaustive,
+       and the scattered list of concrete evils is deliberately provisional and open-ended.
+         In an important sense, Shklar’s negative idealism is reactive and backward-look-
+       ing. The decision theory it implies accords greater weight to the negative value of
+       these horrors, than to the positive value of any purely hypothetical utopias—or, for
+       that matter, to the negative value of any purely hypothetical dystopias, such as an AI-
+       takeover and other “existential risks” whose avoidance is said to matter more than
+       the needs of humans alive today. Given that history keeps going, however—provid-
+       ing a steady stream of new developments to react to—“backward-looking” does not
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+       494                                     R. Buxton et al.
+                                                             
+       imply “fixed” or “rigid.” On the contrary, its reactive stance is precisely what makes
+       it inherently dynamic, giving it a mandate to constantly adapt as new horrors arise—
+       for instance, by redrawing the line between private and public spheres (p. 24).
+         Underlying these methodological guidelines, in Shklar’s view, is a fundamen-
+       tal commitment to “intellectual modesty” (p. 26). Cruelty is her starting place not
+       because of its logical or normative priority but because of its relative epistemic
+       solidity in the face of profound uncertainty and disagreement (p. 30). Where Kan-
+       tians and utilitarians will disagree strongly about our ultimate goals, and even about
+       the ultimate reasons why caste societies and totalitarian regimes should be avoided,
+       they can at least agree on the practical conclusion that such horrors—whose com-
+       mon denominator is plausibly understood as “cruelty” should be avoided. She
+       begins, in other words, not from what is logically or normatively foundational, but
+       from what is epistemically most secure.               
+         Of course, historical experience is Shklar’s guide not only to which outcomes are
+       most essential to avoid, but also which structures of power are most likely to pro-
+       duce them—and, conversely, which practices can help us avoid them. Fundamen-
+       tally, Shklar observes that the basic units of political life are the weak and the pow-
+       erful (p. 27)—and that those with the power to do so will act lawlessly and brutally
+       unless prevented by sufficiently strong opposing forces (p. 28). And as it turns out,
+       the key feature of many traditionally liberal institutions and practices is that they
+       help to protect the weak from such predations—preventing those with power from
+       using it arbitrarily, in their own narrow interests, at the expense of others.
+         Perhaps most obviously, that is the true function of the rule of law and a variety
+       of enumerated rights that directly limit the scope of government power; as well as
+       practices such as federalism and the separation of powers that structurally divide
+       political power among multiple competing centers. In turn, she asserts, historical
+       experience also teaches that sustaining these direct constraints is impossible with-
+       out the institutions of representative democracy, an “accessible, fair, and independ-
+       ent judiciary open to appeals,” and “a multiplicity of politically active groups” as
+       reflected in a flourishing civil society (p. 37). Finally, and most importantly for our
+       purposes, she argues that these formal structures must be supported by a “disper-
+       sion of power” among politically relevant groups, as well as “the elimination of such
+       forms and degrees of social inequality as expose people to oppressive practices” (p.
+       28).                                                  
+         Although left undertheorized by Shklar herself, there are two critical insights
+       here. The first is that formal rules on their own cannot protect the weak from the
+       abuses of the powerful; in addition, there must also be well-organized social forces
+       who enforce those rules. The weak must not be so weak that they cannot wield their
+       power collectively to protect themselves, nor the powerful so strong that they can
+       reliably overcome such efforts. The second is that inequalities of public power are
+       not the only power disparities that generate opportunities for politically salient cru-
+       elty and oppression.                                  
+         It is taking these insights seriously, I argue, that gives rise to a “radicalism of
+       fear,” if a relatively egalitarian distribution of private power is necessary to prevent
+       the sort of cruelty, intimidation, and abuse of power that is liberalism’s true rai-
+       son d’être, it follows that both public and private actors hoping to advance liberal
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+       New perspectives on Judith Shklar            495      
+                                                             
+       ends should act aggressively to equalize it whenever it is sufficiently skewed—or in
+       danger of becoming so. One cannot take this to mean the end of all “legally guaran-
+       teed proprietorship,” which is “an indispensable… way of limiting the long arm of
+       government and of dividing social power,” but at the same time, Shklar is clear that
+       the right of property “cannot be unlimited”—precisely “because it serves a public
+       purpose—the dispersion of power” (p. 31). And short of eliminating private prop-
+       erty altogether, there are many radical steps that could plausibly serve this public
+       purpose—including steeply progressive taxation, and generous redistribution toward
+       poorer and disadvantaged groups, along with targeted policies designed to under-
+       mine power monopolies, and political tactics that foster the collective power of rela-
+       tively disempowered groups vis-a-vis their hegemonic opponents.
+         Of course, such a “radicalism of fear” is hardly the only possible conclusion we
+       might draw from Shklarian premises, and it is never openly embraced by Shklar.
+       A great deal still hinges on what degree of skew warrants corrective action. Rea-
+       sonable people will disagree about how dispersed social power must be—and how
+       much social inequality can be allowed to remain—in order to ensure that the preda-
+       tions of the powerful will be effectively opposed, and that the weak will no longer be
+       exposed to oppressive practices. However desirable it may be to mitigate inequalities
+       of private power in the abstract, skeptics may argue that our practically available
+       mechanisms will always engender too much danger of cruelty and oppression in
+       their own right, and are thus on balance indefensible—at least on Shklarian grounds.
+       Mounting a comprehensive Shklarian defense of radical policy priorities and politi-
+       cal tactics would require a great deal more in the way of argument—including
+       empirical and historical evidence about the dangers of inequality at contemporary
+       scales, as well as the potential for certain power-dispersing mechanisms to achieve
+       their public purpose without violating other central commitments or becoming co-
+       opted themselves.                                     
+         As it happens, I have made such an argument at great length in a book called The
+       Dispersion of Power, whose title pays homage to Shklar, but which otherwise fails to
+       foreground her methodological influence (Bagg, 2024)—an omission I hope to rem-
+       edy here.Rather than rehearsing the arguments developed there, my first aim in this
+       contribution has simply been to highlight the plausibility of a Shklarian “radicalism
+       of fear,” and in so doing to explore the often overlooked affordances of negative ide-
+       alism more generally. Unlike other views associated with “cold war liberalism,” that
+       is—including Isaiah Berlin’s “negative liberty,” perhaps the most prominent exam-
+       ple of negative idealism in contemporary political theory—I have argued that the
+       liberalism of fear does not entail a generalized skepticism toward radical aims. At
+       least in conjunction with certain broadly plausible empirical assumptions, it gives us
+       reasons to embrace many radically egalitarian demands for the aggressive redistri-
+       bution of power.                                      
+         My second aim—articulating a distinctive account of radical politics that is
+       grounded on Shklarian premises—is complementary to the first. If a Shklarian per-
+       spective gives liberals reason to be radicals, I argue that it also gives radicals reason
+       to be liberals. In that sense, the radicalism of fear really is an extension or re-inter-
+       pretation of the liberalism of fear, rather than an alternative to it. Of course, the radi-
+       cal demands I have in mind would be incompatible with certain commitments that
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+       496                                     R. Buxton et al.
+                                                             
+       are sometimes thought central to liberalism—especially in its “classical” forms—
+       such as an absolute right to property, or a demand to minimize government “inter-
+       ference” with the “natural” workings of a “free market” economy. But as we have
+       seen, a liberalism of fear has little truck with such principles to begin with.
+         Nor is the radicalism of fear committed to any vision of the self, or to a strict and
+       unalterable boundary between public and private spheres, or to the use of particular
+       sorts of reasons in justifying coercive power—or, for that matter, to any hard bound-
+       ary between “coercion” and other forms of power. Generations of radicals have
+       rightly demonstrated how each of these commitments, widely maintained by other
+       accounts of liberalism, can obscure important forms of domination and oppression
+       (Young, 1990). And while Shklar herself may not have discussed all of the faces of
+       injustice that radicals seek to address, the open-ended structure of her view allows it
+       to accommodate them—along with any others that become salient.
+         What then does it mean to say that a Shklarian perspective gives radicals a reason
+       to be liberals? For one, simply by articulating an account of liberal practices that is
+       unburdened by such problematic commitments—absolutist interpretations of prop-
+       erty, exclusionary visions of the self, and so on—it makes liberalism more attractive
+       for those with radical aims. However, this pared-down version of liberalism does
+       still constrain the range of acceptable goals and methods in ways that some radicals
+       will find suspiciously moderate or even conservative. The liberalism of fear entails
+       many familiar radical demands, I have argued—and is compatible with many oth-
+       ers—but some, indeed, it marks as dangerous, if not entirely off-limits.
+         The most obvious of these are methods that directly involve levels of cruelty and
+       suffering beyond what is minimally necessary to sustain a legal order. And while
+       few radicals today would openly endorse such methods, historical memory furnishes
+       no shortage of ostensibly radical movements that had no such qualms. Meanwhile,
+       this methodological constraint also entails a prohibition on the sort of goals that
+       would require such methods for their achievement. Insofar as forced re-education
+       and “self-criticism” sessions really are necessary for the comprehensive extirpation
+       of “bourgeois subjectivity,” for instance—as many practitioners of torture have sin-
+       cerely believed—then this goal itself must remain off-limits.
+         Of course, our scrutiny cannot be reserved only for practices that directly involve
+       cruelty. On Shklar’s account, indeed, the aim of most liberal practices is not to pro-
+       hibit specific forms of cruelty, but to prevent anyone from acquiring the sort of
+       unchecked power over others—in public or in private—that would enable them to
+       perpetrate it. This includes the broad imperatives to disperse social power and limit
+       the extent of inequality, which in turn give rise to the possibility of a radicalism of
+       fear. Yet these very same considerations also urge caution about many of the meth-
+       ods that radicals might be tempted to adopt in pursuit of their egalitarian demands,
+       as well as certain ways of spelling out those demands in the first place.
+         Insofar as such methods empower state officials to intervene in the private
+       lives of individuals, they are exceptionally dangerous. No matter how effective
+       such practices might be, in the right hands, at mitigating certain asymmetries of
+       power—by reforming patriarchal gender relations, say—the harm they could do
+       in the wrong hands is simply too great. While many state policies will indirectly
+       affect the habits and character of citizens, as a byproduct of achieving other goals,
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+       New perspectives on Judith Shklar            497      
+                                                             
+       Shklar rightly insists that we should regard any state project aimed directly and
+       intentionally at achieving such transformations with the greatest suspicion.
+         More broadly, a radicalism of fear must also observe two key limits on the role
+       of centralized state authorities in structuring economic life. While compatible
+       with a serious reimagination of property relations and significant public owner-
+       ship in certain industries, for one, a polity guided by a radicalism of fear cannot
+       eliminate decentralized proprietary control altogether, or circumscribe it to such
+       a degree that it no longer presents genuine obstacles to state projects. As Shklar
+       notes, absolutist accounts of property undermine the genuine public purpose
+       served by secure property rights—the dispersion of power—by enabling limit-
+       less accumulation of wealth. At the opposite extreme, however, it is also possible
+       to undermine this goal by overly constraining or eliminating the ability of non-
+       state actors to accumulate and dispose of property as they wish. In short, propri-
+       etary control cannot serve as an effective firewall against arbitrary forms of state
+       power unless it provides individuals—as well as collective agents such as firms,
+       universities, churches—with enough discretionary power to serve as meaningful
+       sources of oppositional organization.                 
+         Second, a radicalism of fear must also be wary of any policy that concentrates
+       great discretionary power in the hands of state officials, without first ensuring that
+       well-developed practices of accountability will reliably constrain those officials to
+       the pursuit of certain well-defined public purposes. Here again, we cannot make
+       categorical decrees about precisely how much concentration of power is too much,
+       or what forms of accountability would be sufficient. As with the proper boundary
+       between private and public, these are contextual judgments that will rightly vary
+       under different conditions. Nevertheless, a radicalism of fear is constrained in its
+       pursuit of radically egalitarian goals, in ways that other radicalisms are not, by its
+       careful attention to such considerations. In particular, it rejects the wishful think-
+       ing required to believe that state power would cease to be dangerous altogether if it
+       could only be subjected to the right sort of “collective” control. It thus resists any
+       understanding of radical egalitarian goals in terms of the complete “socialization” of
+       the means of production.                              
+         Why should anyone with radical inclinations accept these constraints? Do they
+       not simply validate the radical’s foremost objection to liberalism—i.e. that it is a
+       fundamentally conservative doctrine, which serves only to slow or prevent neces-
+       sary radical change? My contention is that however true this may be of other ways
+       of articulating liberal values, it is not true of this one. In part, admittedly, the plausi-
+       bility of this claim depends on just how tightly the scope of radical action is circum-
+       scribed in any given circumstances. As I have suggested, my own judgment is that
+       a radicalism of fear is compatible with radically transformative levels of redistribu-
+       tion, as well as aggressive state action to constrain the most powerful actors and fos-
+       ter organization among counter-hegemonic groups. However, this is only because I
+       believe these priorities can be pursued using tools that are sufficiently insulated from
+       capture and co-optation—and should only be pursued when such tools are available.
+       Others will find plausible reasons to reach a different judgment, and thus different
+       conclusions about whether a Shklarian perspective entails intolerable limitations on
+       the pursuit of radically egalitarian goals.           
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+       498                                     R. Buxton et al.
+                                                             
+         Ultimately, though, it does not matter how “intolerable” the constraints imposed
+       by a radicalism of fear may appear to be. For unlike other liberal attempts to con-
+       strain radical ambition, which come in the form of external impositions—as deonto-
+       logical limitations, for instance, on what we are morally allowed to do in service of
+       otherwise valuable ends—these should be understood as internal to radically egali-
+       tarian demands themselves. They emerge organically from the pragmatic require-
+       ments of pursuing and achieving such goals in a sustainable, non-self-undermining
+       way. The reason that radicals should resist the temptation to achieve radically egali-
+       tarian ends at the expense of the rule of law, proprietary control, judicial independ-
+       ence, bureaucratic neutrality, and other key principles of the liberalism of fear, is
+       not because they are somehow sacred, deserving categorical priority over more radi-
+       cal demands. Rather, the reason is simply that violating these principles will render
+       their radically egalitarian goals unattainable.       
+         This temptation, of course, is understandable. Practices that separate, divide, and
+       disperse political power make it more difficult to pursue collective egalitarian pro-
+       jects that advance the interests of the weak at the expense of the powerful. Yet time
+       and again, those taking this gamble have reaped only disappointment and ruin. As
+       Shklar recognized, the advantages of the powerful, so obvious and galling within a
+       liberal order defined by these constraints, would be even more pronounced in their
+       absence, and so it is the weak who have the most to lose from their elimination.
+       They are therefore central to the radicalism of fear—as they should be for any radi-
+       calism worthy of the name.                            
+         Samuel Bagg                                         
+       Shklar, analytic philosophy, and dwelling on the sunny side
+       of the street                                         
+       I’ve been in philosophy for a while, and yet until recently I hadn’t read Shklar. As
+       I recall, I was never assigned a reading by her (including in graduate seminars in
+       political philosophy). I’m not even sure whether I had heard her name. Then, a few
+       years ago, a highly hostile reader of a funding application for a project on liberalism
+       said something like “If he’s going to write on these things, he should at least engage
+       Shklar’s ‘Liberalism of Fear’.” For some reason, despite the obvious (and often jus-
+       tified) tendency to just discard reports that are overly hostile, I decided to have a
+       look. I was immediately struck by the depth of insights, by the often-witty writing,
+       by the down-to-earth, keeping-the-eye-on-the-ball way of doing political philosophy
+       (or political theory, as she would have insisted). Sure, Shklar doesn’t always live up
+       to the rigorous argumentative standards I am more accustomed to from analytic phi-
+       losophy, and there’s a lot to criticize (see Enoch, 2023),but still, her work on liberal-
+       ism, it became immediately clear to me, was just great.
+         So, I wondered – why hadn’t I been aware of her work earlier? It turned out
+       that this is not too idiosyncratic. A quick search of Stanford Encyclopedia of Phi-
+       losophy shows that, as I’m writing this, there are only seven entries mentioning
+       Shklar (and only five referring to her work), and none in any detail. This is not
+       just low compared to the most influential political philosophers (Rawls has 168,
+                                                             
+                                                             
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+       New perspectives on Judith Shklar            499      
+                                                             
+       and an entire entry devoted to him), but also compared to many, many others.
+       Eric Schwitzgebel (2024) has compiled a list of the most-cited philosophers in
+       the Stanford Encyclopedia. This list includes only those who were cited at least
+       30 times. At my request, Schwitzgebel was kind enough to run a couple of initial
+       checks. The top 1000 would be 18-19 references, and Shklar would have been in a
+       1122-person tie for number 4464.                      
+         And yet Shklar is in no way neglected. She’s neglected, it seems, among phi-
+       losophers, and perhaps especially among analytic philosophers. Analytic philoso-
+       phy, though, is the only kind of philosophy I do. And yet I was enthusiastic about
+       Shklar. This was puzzling.                            
+         This contribution is my attempt to think through this puzzle – why is Shklar,
+       despite her advantages (of which more below), not taken more seriously among
+       political philosophers working in the analytic tradition? My answer will not be
+       unified. A part of the explanatory work, I argue, is done by such boring factors as
+       Shklar’s style which differs significantly from more standard analytic philosophy
+       style, and similarly superficial facts. But part of the explanation runs deeper, and
+       it is in terms of the failures of the dominant way of doing analytic political phi-
+       losophy in the past half century or so. In this respect, political philosophy ought
+       to pay more attention to the real world and its many shortcomings. It should
+       become much more Shklarian.                           
+         I want to emphasize, though, that this is not a text in the history of ideas.
+       Rather, it is an attempt to learn something about analytic political philosophy
+       from its attitude to Shklar (or lack thereof). So, I will – except in this paragraph
+       – avoid discussions of the personal relations between Shklar and her Harvard phi-
+       losophy department colleagues, even if they might do some relevant (historical)
+       explanatory work. Bernard Yack (2017), for instance, discusses how important it
+       was for Shklar to be thought of as a political theorist rather than a political phi-
+       losopher. But this contribution is not about deciphering Shklar’s animosity (to the
+       extent that’s what it was) toward philosophy, but rather philosophy’s disregard
+       toward Shklar’s work. Of course, the two may be related. Also, despite Shklar’s
+       insistence that she’s doing political theory rather than political philosophy, I will
+       be reading her as engaging issues that are paradigmatically within the scope of
+       political philosophy.                                 
+         Finally, I should also note that I am not remotely a Shklar scholar – I know only
+       parts of her work and will rely here on an even smaller part. The extent of this prob-
+       lem is at least partly attenuated by the absence of any historical or even exegetical
+       ambitions here.                                       
+         We can start explaining analytical philosophy’s attitude toward Shklar by noting
+       some possible explanations that are as clear as they are uninteresting.
+         First, Shklar’s style of writing is not the one an analytic philosopher in training
+       typically reads. Her texts – while, I think, often beautifully written, and not exactly
+       hard to read– are not typically argumentative, certainly not transparently so. This is
+       not just a point about what different people are used to reading. It’s also a normative
+       judgment: In “The Liberalism of Fear,” for instance, there is a central argument, I
+       believe (one that I reconstruct in Enoch, 2023). And the text would have been better
+       – at least if considered as a philosophical text – if its main claim was more clearly
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+       500                                     R. Buxton et al.
+                                                             
+       stated. Shklar’s style – while obviously engaging – is, for someone like me, primar-
+       ily a problem to overcome, at least in many of her texts
+         Second, there’s the role of history. For Shklar, history is central to her work in
+       political philosophy. I think it’s fair to say that this applies both to the history of
+       politics and to the history of political philosophy. Shklar seems to think that there’s
+       no way of doing political philosophy well without engaging both these histories.
+       Indeed, at one point Shklar accuses other forms of liberalism as precisely lacking
+       in historical awareness (1989, p. 27). At least officially, though – to the extent that
+       anything here is official – analytic philosophers are much less into history. It is easy,
+       therefore, for an analytically trained philosopher to have a look at Shklar’s texts,
+       classify her as someone primarily doing history of philosophy (or even worse, his-
+       tory of ideas), and leave it at that.                 
+         Third, it must be admitted that some of Shklar’s texts are simply not at all philo-
+       sophically good. For instance, in many texts Shklar defends a kind of skepticism,
+       or what certainly looks like metaethical skepticism. But these discussions – please
+       remember that I say this as a fan of much of Shklar’s work – are just sub par. They
+       are confused, they fail to make basic distinctions, the main thesis is unclear, nor is
+       it clear that Shklar consistently endorses it; in her last published paper “Rights in
+       the Liberal tradition” (1992), I couldn’t find a trace of such skepticism. If you are an
+       analytically trained philosopher – certainly, a metaethicist – and the first Shklar texts
+       you come across are those, you’re not going to have enough patience to get to “The
+       Liberalism of Fear.”                                  
+         This is not the whole picture, of course: I’ve been focusing on these analytic flaws
+       because the general explanatory task here is to explain analytic philosophy’s ignor-
+       ing Shklar. For a fuller picture, it’s important to see also that at times Shklar shows
+       an excellent analytic mind. For instance: Shklar discusses (1989, p. 24) the tendency
+       to associate liberalism with atheism, relativism and nihilism. She comments: “The
+       original mistake is the failure to distinguish psychological affinities from logical
+       consequences.” This is an important distinction that analytic philosophers may insist
+       on, and that many others (including many political theorists) may not. Here, then,
+       Shklar is on “our” side. The same is true – perhaps even more clearly and impor-
+       tantly – when Shklar rejects relativism (1989, pp. 34-35). But in many contexts,
+       Shklar fails to put this analytic mind to proper use. 
+         Similar problems arise also within the more political texts that I think so highly
+       of – either because they may, to an extent, rely on the kind of skepticism Shklar goes
+       for elsewhere (Douglass and Hall, forthcoming; Gatta, 2018; Misra, 2016; Yack,
+       1999),or for independent reasons. For instance, consider her claims that “the only
+       exception to the rule of avoidance is the prevention of greater cruelties” (1989, p.
+       30). If Shklar had hoped to ground a call for governmental constraint based on the
+       priority of the need to avoid cruelty, she should have noticed that in this sentence
+       she is giving away the game. Pretty much any governmental overstep can be justified
+       according to her “only exception.”                    
+         The previous explanations shoulder some of the explanatory burden – they
+       explain, at least partly, why philosophers tend to read Shklar less, say, than theo-
+       rists in political science departments, why philosophy professors are less likely to
+       be impressed with her texts, why they are less likely to assign them to their students.
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+       New perspectives on Judith Shklar            501      
+                                                             
+       But I don’t think this is the whole story. “The Liberalism of Fear” was published
+       thirty-five years ago. It has been continuously receiving attention from the kind of
+       political science people whom philosophers also read. It has even received some
+       attention from central philosophers. Michael Walzer (1996), for instance, is certainly
+       a highly influential philosopher, even if not your paradigmatic analytic philosopher.
+       By now, the news about that central Shklar text should have spread around philoso-
+       phy departments as well.                              
+         I want to suggest, then, that there’s a more substantive tension between the way
+       Shklar thinks of politics and the way analytic philosophers have been thinking about
+       it (but not – I then proceed to argue – the way analytic philosophers should be think-
+       ing about politics). And I want to take my first clue here from Shklar herself, when
+       she criticizes (and ridicules) Charles Taylor and other communitarians. Here is
+       Shklar: “Taylor seems to dwell on the sunny side of the street: Montaigne without
+       contempt, Pope without misanthropy, no Swift at all, Rousseau without his curses,
+       romanticism without violence, Dostoyevsky without gloom and rage, and finally,
+       modernist authors engaged in epiphanies, among whom Beckett is not to be found”
+       (Shklar, 1991c, p. 106). I think that what Shklar says here about communitarians is
+       true of at least the dominant parts of political philosophy in the analytic tradition in
+       Shklar’s time– and alas, today as well. Rawls too – when insisting on doing ideal
+       theory – seems to dwell on the sunny side of the street, as do the scores of political
+       philosophers for whom Rawls defines the field (see Enoch, 2015). Shklar refuses to
+       play this game – she insists on taking a down-to-earth view of the real world and
+       then trying to come up with a political philosophy (even if she would resist this title)
+       that takes the world into account. This is why her political philosophy remains alien
+       to many political philosophers. Indeed, because for many Rawls defines the field,
+       Shklar may be seen as engaging an entirely different project, one that is too different
+       from mainstream (read: Rawlsian or at least Rawlsian-inspired) political philosophy.
+       Add to these the observations from the previous section – an analytic philosopher
+       who nevertheless tries to read Shklar is likely to be struck by its being not suffi-
+       ciently argumentative, too historical, and at times not sufficiently good – and what
+       you get is fewer Stanford Encyclopedia entries than some people who haven’t even
+       received tenure yet.                                  
+         If this is right, this doesn’t only explain why Shklar is alien to much of (analytic)
+       political philosophy. It also shows how Shklar is clearly right, and why reading
+       Shklar was such a breath of fresh air for me. For when we do political philosophy,
+       at least if we want to have anything at all to contribute to political debates in the
+       real world – we should not dwell on the sunny side of the street. Rather, we should
+       look at reality and form a realistic – even if depressing, as the case may be – view
+       of the world that defines our political problems, and then, if we can, do what we
+       can to better understand these problems and devise ways of addressing or contain-
+       ing them. None of this means that we should desert all hope for a normative edge
+       (Enoch, 2018), or even, as Katrina Forrester (2011) finds in Shklar’s own earlier
+       texts, a more central role for hope. We should, of course, proclaim about how things
+       ought to be done politically. But we should do it in a way that is based on a realis-
+       tic view of the world. We should avoid attempts to start with some ideal and then
+       distort our picture of the world in a way that is shaped by the relevant ideal. That
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+       502                                     R. Buxton et al.
+                                                             
+       would be like moving to the sunny side of the street, enjoying its warmth, and then
+       convincing ourselves that it’s sunny everywhere, so that we can refuse to satisfy the
+       energy needs of those who still live where it’s colder.
+         Perhaps this is why Shklar thinks history is so central to doing political philoso-
+       phy well (though notice that this applies only to the history of politics, not to the his-
+       tory of political philosophy). For it is by studying the history of politics, presumably,
+       that one understands what is and what is not humanly possible, for what the main
+       dangers of politics are. I want to agree with this, but only partly: I agree with Shklar
+       that knowledge of the real world is crucial for doing (non-ideal theory) political phi-
+       losophy well. I also agree that often studying history can be helpful in generating
+       such knowledge. I don’t agree, though, that this is the only or even most central way
+       of generating such knowledge (Shklar doesn’t anywhere, as far as I know, say that it
+       is, but that is what she seems to be presupposing.) Sometimes, for instance, doing
+       empirical political science will be more important; think of how some such empiri-
+       cal science informs the non-ideal, if still normative, discussions in democratic the-
+       ory (Brennan, 2017). Shklar (1967, p. 277) herself expresses a similar attitude to the
+       empirical sciences’ role in keeping “psychological, economic, and historical specu-
+       lations” at bay. Moreover, there may be important things about the real world that
+       it’s very hard to learn from history or from some cleverly designed empirical experi-
+       ment or observation – think about wide generalizations about people’s motives and
+       behavior, of the kind that are clearly empirical, but that every respectable empirical
+       scientist will be very reluctant to make. In such cases, we’re just going to have to do
+       our best with the limited resources available to us – look at reality with our best eyes
+       and try to report what we see.                        
+         Indeed, I think that some of Shklar’s greatness is precisely in doing that, in look-
+       ing perceptively at reality as she sees it, and appreciating the implications of reality
+       being the way it is, without any sugarcoating. Her eyes, in other words, seem to
+       me some of the best we have. Consider, for instance, her impatience with anarchist
+       utopias: “… even if the theories of anarchism were less flawed, the actualities of
+       countries in which law and government have broken down is not encouraging. Does
+       anyone want to live in Beirut?” (1989, pp. 36-37). Or consider her insightful – now
+       seen as almost prophetical – claims about fascism: “Anyone who thinks that fas-
+       cism in one guise or another is dead and gone ought to think again” (1989, p. 22).
+       Shklar is clearly and importantly right – and very different from mainstream politi-
+       cal philosophy – in insisting that we should do political philosophy with these facts
+       in mind, and not assume them away so that we can theorize more easily. Unlike the
+       infamous economist from that joke, we shouldn’t be pretending that we have a solu-
+       tion to our problems by assuming a can-opener.        
+         The real challenge, rather, is the one that stares racism, xenophobia and brutal-
+       ity directly in the eyes, and then tries to reach normative conclusions (perhaps
+       along the lines of the liberalism of fear), not to assume a can-opener, and develop
+       a “less urgent” form of liberalism (and, as if this is not bad enough, proceed to
+       pretend that it applies to the real world as we find it). There is, of course, some-
+       thing very tempting about assuming a can-opener – if nothing else, it’s typically
+       a much easier path for a theorist than finding a way that can actually open the can
+       in the real world. Even Shklar at times succumbs to this temptation, and is not
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+       New perspectives on Judith Shklar            503      
+                                                             
+       realistic enough, and too optimistic in a way that compromises her political phi-
+       losophy. I think that this is so both when she is – perhaps following J.S. Mill – far
+       too optimistic about speech and truth (1992, p. 29), and in her uncompromis-
+       ing rejection of any attribution of false consciousness (Gatta, 2018, p. 13; Kauf-
+       mann., 2020, p. 14; For my own view see Enoch, 2020). But it is one of the most
+       important lessons to be learnt from Shklar that this temptation is to be resisted.
+         The alienation between Shklar on the one side and late-twentieth and early
+       twenty-first century political philosophy in the analytic tradition is thus partly
+       the result of precisely Shklar’s clearest advantages. More depressingly, this also
+       means that this alienation is a strong indication of the failures of at least the main-
+       stream tradition in political philosophy. So much, then, for what may explain why
+       Shklar has so little influence in political philosophy, perhaps especially among
+       analytic philosophers. What, if anything, should we do about it?
+         We should use Shklar and her sharp eyesight as a mere means. To an extent,
+       this is true of how we should relate – on the standard analytic philosophy pic-
+       ture– to any Great Dead Philosopher: Our interest is always substantive rather
+       than historical or exegetical, and so we are not intrinsically interested in how to
+       read, say, Descartes, or Kant, or, indeed, Shklar. But this shouldn’t stop us from
+       getting whatever help we can get – in addressing the substantive issues – from
+       anyone; merely being a Great Dead Philosopher does not disqualify one as a pos-
+       sible source of such help. And so, we should treat Shklar as a source of impor-
+       tant insights, and as an important antidote to the way much of the field has been
+       developing. Whether she would be happy with us doing that, whether she’d like
+       to be read by political philosophers (rather than political theorists), whether she’d
+       agree with our conclusions, even whether she’s careful, rigorous, and philosophi-
+       cally good in other parts of her work – all of this is just beside the point.
+         To do this well, we must recognize that all the ways in which Shklar is such
+       a breath of fresh air compared to contemporary mainstream political philoso-
+       phy are entirely contingent. True, political philosophy has been developing in
+       the “assume a can opener” direction. But this is a contingent point. It’s not as if
+       political philosophy, by its very nature, must be flawed in this way. So, the way
+       to make use of Shklar is precisely to steer political philosophy in more Shklarian
+       direction. Of course, when we do this, we must do better than Shklar in living up
+       to the standards of clarity, explicitness, rigor, and argumentativeness that analytic
+       philosophy aspires to. For another example, consider the centrality, for Shklar, of
+       power, a phenomenon and concept that some mainstream political philosophers
+       seem to have forgotten (though not all: talk of non-domination, for instance,
+       seems to be on the rise). I think that Shklar is absolutely right that we need to
+       do political philosophy – and in particular, liberal political philosophy – that has
+       much more to say of power and that takes it into account in a central way. And
+       she’s also right that we probably haven’t been doing a good enough job of this.
+       But this too is contingent, and the lesson to learn here is that we should find room
+       in our liberal political philosophy for an empirically (and perhaps historically)
+       informed account of political power, hierarchies, and so on. (I make a step in that
+       direction in thinking of false consciousness from a liberal perspective elsewhere
+       (Enoch, 2020))                                        
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+       504                                     R. Buxton et al.
+                                                             
+         Perhaps such Shklarian analytic political philosophy will be less “exhilarating.”
+       It may even seem to some, as Shklar anticipates, objectionably reductive. But as she
+       also says rightly, “There is nothing ‘reductive’ about building a political order on the
+       avoidance of fear and cruelty unless one begins with a contempt for physical experi-
+       ence” (1989, p. 32). Well, whoever thought political philosophy was supposed to
+       be exhilarating? I don’t even think it’s supposed to be inspiring. It’s supposed to be
+       insightful, to supply understanding of the political, and at least sometimes, to offer
+       normative conclusions about how to proceed. And to do those things, analytic politi-
+       cal philosophy should go Shklarian, at least to an extent.
+         David Enoch                                         
+       An affective reading of Judith Shklar                 
+                                                             
+                                                             
+       Biographers of Shklar might find it strange to emphasize the emotionality of her
+       work, given that she was known among her colleagues and friends for her intellec-
+       tual rigor and relentless (but often fair) criticisms. Indeed, it might be said, that peo-
+       ple were “fearful” of her comments at conferences and when reviewing their work
+       – it was nothing short of “intellectual toughness” (Hoffmann, 1993, pp. 172–173).
+       Yet the idea of fear, the guiding concept of the book chapter she is perhaps most
+       famous for, is itself one that elicits and draws on our emotions. It is the feeling of an
+       aversion to cruelty and a shared concern for it, that motivates one to consider why a
+       “liberalism of fear” could be compelling in the first place.
+         Now it would be remiss not to remark on Shklar’s own personal experience with a
+       political sphere dominated by cruelty. Writing in the aftermath of the Second World
+       War, she saw her own family forced to find refuge, and a society reckoning with
+       the fallout from the domination across Europe of various kinds of totalitarianism
+       (Walzer, 1981). The idea that liberalism had failed was on the mind of many intel-
+       lectuals of her time (including herself), and those who were interested in preserving
+       liberalism found themselves in search of a more stable foundation (Müller, 2008;
+       Cherniss, 2023).                                      
+         So fear seems like an obvious, if pragmatic, choice. It relies upon a fundamental
+       intuition, that “evil is cruelty and the fear it inspires, and the very fear of fear itself”
+       (Shklar, 1989, p. 29). It also has an advantage of setting the bar for liberalism rather
+       low, as it is not a philosophy concerned with “how people are to conduct their lives”
+       (p. 21) but one which has comparably modest goals – making “cruelty and fear the
+       basic norm of its political practices and prescriptions” (p. 30). (Scholars who choose
+       to emphasize this reading of Shklar include Alan Kahan (2023).) Her close friend
+       John Rawls goes so far as to note that the account she offers in “Liberalism of Fear”
+       is synonymous with his own project of political liberalism, remarking of his own
+       work that it is “not a novel doctrine.” But in order for fear to be a persuasive princi-
+       ple, one has to have a sense of connection to it. We as members of a political com-
+       munity have to understand what it is we are afraid of, and this informs a desire to
+       avoid it at all costs.                                
+         Over the course of this contribution, I want to offer readers an account of
+       Shklar and her works as ones fundamentally aimed at self-reflection. I am going
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+       New perspectives on Judith Shklar            505      
+                                                             
+       to focus on two of Shklar’s projects, in order to show how emotionality plays
+       out in her writing. The first is in what some might argue is a continuation of the
+       “liberalism of fear,” her book Ordinary Vices. The second is her final academic
+       project, the questions she had before her death on political obligation. Now, there
+       is a lively debate in Shklar scholarship as to whether or not she wants to offer
+       her readers a theory of conduct in her approach to political theory (Bajohr, 2019;
+       Douglass and Hall, forthcoming; Marriot, 2024). Setting these questions aside,
+       what I seek to demonstrate is merely the value of thinking about how one feels
+       when reading a text and the feelings in turn it invites one to reflect upon. It is not
+       that Shklar had a theory of emotions and politics, but simply that she recognized
+       the significant role they have in political life. Where people might be tempted
+       to go wrong with Shklar I argue, is that they lose themselves in trying to trace
+       out the arguments at the expense of considering their own experiences as they
+       go through her works. Just as we are inclined to be swept away in a passionate
+       romance of a novel, so too should we allow ourselves the same experience when
+       reading Shklar, as this allows us to reflect on the personal nature of these political
+       problems in a way rational argument alone cannot capture.
+         For a book about political philosophy, Ordinary Vices spends much more time
+       discussing Molière than Machiavelli. The integration of novels, plays, and operas
+       may strike some readers as strange, but for Shklar it is necessary, since philosophers
+       (for all their talk of virtue) rarely talk about vice (Shklar, 1984, p. 7). For those
+       unfamiliar with the work, Shklar provides an account and overview of the political
+       implication of five vices: cruelty, hypocrisy, snobbery, betrayal/treachery, and mis-
+       anthropy. Of these, she argues that cruelty ought to be ranked first among the vices
+       (Shklar, 1984, p. 8). The ordering of the rest of the vices is unclear and ultimately
+       unnecessary, since to live in a reasonably liberal and reasonably democratic soci-
+       ety requires that individuals tolerate them all. Their “ordinary” nature speaks to an
+       emphasis on observation and the relatively normal role they play in our lives. Not
+       only are these traits identifiable in our friends or colleagues - but they are something
+       we are able to understand because we have experienced them ourselves. As Susan
+       Wolf observes, the world isn’t filled with moral saints, nor would we want it to be
+       (2015, pp. 11–19). The first-person experience of the vices is an essential starting
+       point for the story Shklar wants to tell. It is the personal relationship which we have
+       to the vices that allows for an affective form of engagement to be effective. So, what
+       are the emotional experiences the book takes readers through and allows them to
+       confront, and what is the methodological way it does so?
+         To provide just a couple of examples, consider first betrayal. The chapter begins
+       with a question: ‘Who has not been betrayed or betrayed someone?’ (Shklar, 1984,
+       p. 138). It is so commonplace on this telling that surely as readers we have some
+       familiarity with it. Betrayal particularly draws our attention to such a degree that
+       Shklar contends we are forced to stand “between intellectual incoherence and pas-
+       sionate feeling” (p. 138). One of the peculiarities of this vice she notes, is that it
+       evokes such a strong emotional reaction (p. 139). Snobs for instance are easier com-
+       pany to tolerate. These emotional responses to betrayal are not simply the result of
+       watching great dramas like the movie Casablanca (1942); they are also present in a
+       failure from others to live up to their promises (p, 139). This shows the seemingly
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+       506                                     R. Buxton et al.
+                                                             
+       benign way in which trust is jeopardized or unfulfilled and results in a sense of
+       injustice (p. 139).                                   
+         The decision to betray also appears at times a complicated one, and there are
+       many situations where a certain sympathy is appropriate for the circumstances
+       which require it. One might be forced for example to choose between a friend and
+       their lover, or one’s own needs juxtaposed with the needs of family, and that has an
+       impact on both those who lose out and those forced to make the choice (p. 141). The
+       feeling of betrayal itself is a distinct kind of experience, which may not result in any
+       particular party or cause to hold accountable (p. 141). The ambiguity of betrayal,
+       the difficulties in determining with precision exactly what wrong was done and by
+       whom, does not make those felt sentiments any easier to live with. Shklar notes at
+       the end of the chapter that “nothing can lessen the pain and anger of feeling betrayed
+       by friends, fellow citizens, partners, and allies” (p. 190).
+         Misanthropy by comparison is a vice of distrust. The fact it follows the chap-
+       ter on betrayal makes sense, because to live in a world filled with betrayal, one is
+       forced to confront one’s own view of others within it. Distrust has a value politically,
+       and Shklar points to representative government as an example of diffusing power
+       throughout the general population, which is especially clear in Montesquieu’s ide-
+       alized separation of powers (pp. 196-197). Not every type of misanthropy leads to
+       Machiavelli, and it can be associated more broadly with concerns about power and
+       what people will do with it – hence that is why it is a particularly appealing vice for
+       liberals. Yet it also closes individuals off from one another, and friendship as a value
+       requires an openness contrary to it (p. 215). The negative perspective on humanity,
+       which a misanthropic view seems to imply, could be reframed as “seeing people as
+       they are” with the recognition of their vicious tendencies and a desire to avoid them
+       at all costs.                                         
+         Betrayal and misanthropy, like fear, are concepts which would lose their force if
+       they were not associated with emotional experiences. Shklar is not putting forward
+       a theory which requires that she settles how or what we feel or attempts to offer an
+       account which indicates the appropriate levels of fear or betrayal are present in par-
+       ticular situations. What she identifies more concretely is the importance of how it is
+       the sense of betrayal and distrust which defines and constitutes the vices and indeed
+       what normalizes them. The vices are representations of felt experiences, and our
+       interpretations of the emotions connected to those experiences.
+         Stories are an essential way to evoke emotions, and to create an imaginary space
+       to explore what those emotions mean to their audiences. Although there are debates
+       in the philosophy of aesthetics which contest the idea that art forms need to express
+       emotions, emotions seem intrinsically to be part of the appeal. What Shklar offers at
+       the end of Ordinary Vices is a defense of storytelling, which she hopes will add clar-
+       ity and precision to how politics is thought about, even if it leaves more problems
+       to be solved since “stories expose rather than create order, and in doing so they can
+       render explicit much that is inarticulate” (p. 230). The art of storytelling, be it fic-
+       tional or historical, is part of the tradition of political theory (p. 231). It is a medium
+       which allows for an exploration of the contradictions and ambiguities intrinsic to a
+       wide range of source material, including these vices (p. 249). Yet stories, especially
+       of character, would be uninteresting (or at least far less compelling) if they were
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+       New perspectives on Judith Shklar            507      
+                                                             
+       unable to connect to audiences on an emotional level. Shklar’s description of the
+       vices must be understood in this way, one which exposes not only the ordinariness
+       of our encounters with vice, but also how they make us feel about ourselves and oth-
+       ers in our personal and public lives.                 
+         In a letter to her close friend Allan Bloom, Shklar asks for his advice on the
+       course she is designing on political obligation, and she notes how political obliga-
+       tion “is what I have thought about for most of my life” (Shklar, 2019). Her posthu-
+       mously published lectures on that topic are a tour of curiosities for those interested
+       in an extensive survey of political thought, and they begin from the familiar question
+       of what obedience one owes to the government and to members of one’s community
+       (Shklar, 2019 [1992], p. xx). The source material is similar to that encountered in
+       Ordinary Vices, as Shklar draws on a variety of historical, narrative, and fictional
+       examples to discuss the nuances and contours of these debates. It is a form of teach-
+       ing through example, one where the conclusions may be ambiguous, and one that
+       relies on the ability to connect to individuals in a way that resonates with their expe-
+       riences. The question of loyalty proves a clarifying example of how Shklar draws a
+       firm relationship between the emotions and political life.
+         Shklar’s explicit project on political obligation started relatively late in her career,
+       and it led Shklar to take an interest in the question of exiles (Shklar, 1993). A lecture
+       delivered on the subject in the year of her death opens with a consideration of what
+       one can demand of an individual whose political community has rejected them, or
+       who (for a variety of reasons) are no longer able see themselves as members of that
+       community (p. 187). Individuals, who were once citizens, now stand as outcasts.
+       Exiles serve as a crucial case study for thinking through the tensions which emerge
+       between the political obligations one has to a community, the loyalty one feels as
+       a member of it, and the sense of betrayal which is demonstrated in practices such
+       as forcible exclusion (pp. 181-182). Shklar identifies these tensions in both ancient
+       examples (relying on Thucydides) and those closer to the modern day, such as the
+       cases of Captain Dreyfus and Henry David Thoreau (pp. 188-189, 190-195). As she
+       recounts these stories, one is struck again by the use of narratives in order to illus-
+       trate the political problems which Shklar is interested in. Fictional or real, these nar-
+       ratives are able to captivate their audiences because of their emotional salience.
+         One of the important observations on which Shklar grounds her lecture is that
+       “loyalty and obligation are generally used interchangeably as if they were identical”
+       (p. 183). Although both terms have a variety of competing definitions, on Shklar’s
+       telling there are two main ways that loyalty is distinct: it aims at partial attachments,
+       and it is “deeply affective and not primarily rational” (p. 184). This can be con-
+       trasted with the rule-bound character of our obligations, which have a similarity
+       closer to duties. Affect, as discussed throughout this contribution, requires an emo-
+       tional appeal. It is a reflection not of how one thinks but rather how one feels. The
+       language of loyalty is therefore grounded in the emotions, constituted for example
+       by a protective attitude toward a friend or family member, and it is one of the “affec-
+       tive ties that bind us together” (p. 197).            
+         Within the public sphere, the clearest illustration of primary loyalty (and the one
+       that dominated discourse at the time Shklar was speaking) is nationalism (p. 186).
+       Returning to her lectures On Political Obligation, Shklar explains how the specific
+
+[PAGE 19]
+                                                             
+                                                             
+                                                             
+       508                                     R. Buxton et al.
+                                                             
+       appeal of nationalism is that “it draws no distinction between loyalty and obliga-
+       tion” (Shklar, 2019 [1992], p. 156). It establishes an emotional bond with the nation,
+       one which justifies a particular view of others as belonging to, or excluded from, a
+       specific community. Loyalty for Shklar is therefore a double-edged sword. Although
+       loyalty may be directed toward personal relationships and the cultivation of virtue,
+       the ideological loyalties of the twentieth century “have made the past two centuries a
+       hell on earth for many people” (p. 165). The affective nature of loyalty can serve to
+       explain both its positive and negative consequences, and Shklar notes the relevance
+       of this for political theory since “the most spectacular conflicts of loyalty” are politi-
+       cal (1984, p. 157).                                   
+         The interplay between obligation and loyalty, alongside concepts such as commit-
+       ment, allegiance, and fidelity, constitutes a way of framing discourse about political
+       life in terms of the relationships which individuals have with one another, and the
+       emotional bonds which exist within those relationships. Although fidelity is closer
+       to our hearts, and obligation a reflection of duties, they are all relevant in under-
+       standing the scope of how we engage in a shared community life. Politics (as most
+       of us know it) is not a calm and rational deliberative process but rather is a heated
+       and passionate affair that feels personal.            
+         Individuals relate to one another in public through a discourse laden with senti-
+       ment, and appropriately so; or at least inevitably so, given a politics which takes for
+       granted a pluralism of perspectives and a diversity of ways of living. What Shklar
+       attempts to set out in her reflections and lectures on political obligation is the iden-
+       tification of the political relevance of these sentiments. The invitation to the reader
+       (again) is one which speaks to a reflection about their own loyalties and attachments,
+       about the exclusions which are an essential part of it, and about their sense of obli-
+       gation (Shklar, 1993, p. 195). Shklar would surely approve of the statement that one
+       does not need to have a PhD from Harvard in order to have views and opinions on
+       these matters. They are first and foremost problems which engage us from a human
+       perspective because of their emotional character.     
+         The arts are typically viewed as the appropriate realm for emotional appeals. We
+       are angered at Don Giovanni who thinks he can abuse love in order to hold power
+       over women, saddened by the loss of Medea, and some of us even like a “happily
+       ever after” (Shklar, 1984, p. 153). Shklar reminds us, though, that political theory
+       is a discourse that cannot involve such a fairy tale (Shklar, 1993, pp. 196-197). The
+       fact that the task of political theory is never-ending means that we need to take seri-
+       ously how it is we are investigating and inquiring, and indeed how to look for new
+       spaces to explore ideas and to think through what politics is. This is not merely an
+       academic endeavor but is crucial for all individuals who are members of a political
+       community. This contribution has put forward a reading of Shklar and her works
+       which centers on, not only her uses and incorporation of stories, but more spe-
+       cifically on the emotional appeal which these stories make. Their affective nature
+       allows for an exploration of feeling, something which privileges internal reflection
+       as a starting point for theoretical inquiry. It also recognizes the flawed, ambiguous,
+       and difficult nature of solving political problems.   
+         The unfinished project Shklar left us with, to observe and interrogate political
+       life, is as crucial as ever. To figure out what we owe to one another in a climate,
+
+[PAGE 20]
+                                                             
+                                                             
+                                                             
+       New perspectives on Judith Shklar            509      
+                                                             
+       where cruelty seems to be an increasingly common currency, appears a daunting and
+       difficult task. Populism, polarization, and nationalism are the new language of loy-
+       alty, rooted in the rhetoric of feeling. That is why recognizing the role emotions play
+       in politics, especially for those who (like Shklar) hold any sense of liberal sympa-
+       thies, is so crucial here. Yet even if one finds oneself unconvinced by the ideological
+       views of Shklar, and by her broader arguments, one needs to look at her works in a
+       way that values emotional experiences and one can then more fully understand why
+       she is such an essential voice in political theory today. That understanding can also
+       remind us as political theorists that we study political theory not only because we
+       love it, but also because it matters far beyond our ivory tower discourses.
+         Shal Marriott                                       
+                                                             
+       John Stuart Mill and Judith Shklar                    
+                                                             
+       Shklar loved Montaigne and Montesquieu—not Mill. Every theorist is entitled to
+       her taste, of course, in authors to exult in as much as in ice cream flavors to eat. But
+       the exclusion of Mill, and of what he stood for, from Shklar’s work went incredibly
+       far, misrepresenting the chronological origins and moral core of liberalism. The con-
+       sequences have been high for mainstream portrayals of the history and significance
+       of political liberalism. In particular, Shklar’s priorities revealed an insensibility to
+       romanticism and how it shaped modern liberalism — indeed, at its point of origin.
+         This short contribution builds upon my recent digest of Shklar’s unacceptable
+       views about liberalism and romanticism, highlighting now what she had to say about
+       Mill and Mill’s liberalism from one end of her career to another (Moyn, 2023). I
+       tried to show how deep Shklar’s allergy for “antipolitical” romanticism went, as if it
+       were defined exclusively as an abstentionist withdrawal of l’art pour l’art. A bit bet-
+       ter than other Cold War portrayals of romanticism as protofascist, Shklar’s depiction
+       nonetheless left a lot out. Mill’s case is perhaps the most potent reminder of how
+       romanticism made liberalism what it was in the beginning.
+         It is useful to think of Shklar’s career in two stages, and her treatment of Mill
+       helps revisit their relationship. Ironically, it was before the transformation in her atti-
+       tudes and focus that Shklar was closest to the currently ascendant chronology of lib-
+       eralism — dating it, like Helena Rosenblatt, to the early nineteenth century (2018).
+       Slowly, from that point on, Shklar backdated its origins to the early modern period
+       and characterized it as a negative project of damage control.
+         Mill became a casualty of this transformation. Starting in the 1970s, Shklar was
+       more drawn to the early modern tradition that offered a more cynical moral psy-
+       chology — as Shklar showed, an immensely powerful one for grounding a dysto-
+       pian and dyspeptic liberalism. Her retrieval of this sort of outlook from premodern
+       and indeed preliberal voices, from Thomas Hobbes on, led to extraordinary work.
+       It also left a hole in her accounts of the inception and meaning of liberalism where
+       Mill could have been. Examining her comments on Mill provides a better sense how
+       close to the precipice of her mature views Shklar was from the start. The distance
+       she would have to travel was nevertheless undeniable. 
+                                                             
+
+[PAGE 21]
+                                                             
+                                                             
+                                                             
+       510                                     R. Buxton et al.
+                                                             
+         Shklar’s engagement with Mill in her dissertation-turned-first-book are, I believe,
+       her most extensive. They occur as part of her case that, congenitally, the liberal
+       movement feared disaster and lacked “self-confidence.” She cast Mill as an out-
+       lier in relation to other founding liberals such as Lord Acton, Benjamin Constant,
+       and Alexis de Tocqueville in his “indifferent” attitude toward religion in general
+       and Christianity in particular (1957, p. 227). But, she adds, he was like other early
+       liberals in his conservative response to the shock of the French Revolution, which
+       encouraged them all to embrace caution in the face of the obduracy of ordinary peo-
+       ple to being emancipated. Earlier optimism – such as in Mill’s Autobiography, and
+       also the optimism of his father – had been revealed by the French Revolution and its
+       aftermath as little more than “sonorous phrases” (1957, p. 228). Liberalism, even
+       Mill’s, was defined from the start by its doubts about the enlightenment project,
+       though “no liberal was ready to follow [Edmund] Burke all the way” (1957, p. 228).
+         That there is nothing to this presentation hardly means it does not sweep a great
+       many alternative views under the rug. Mill, a pessimist? Recognizing that this inter-
+       pretation flew in the face of much his writing, Shklar nonetheless conceded some
+       other evidence but insisted that Mill remained “harassed by doubts” (1957, p. 229).
+       True, Mill “made a powerful argument in favor of the educational values of rep-
+       resentative government,” but principally to produce a case for disproportionate
+       roles (and votes) for the already educated, in case the common man rejected liberal
+       change (1957, p. 230). (Shklar didn’t mention Mill’s feminism.)
+         Needless to say, such criticism of liberal pessimism, right or wrong, would recede
+       in Shklar’s thinking, as she became the most famous liberal pessimist and turned
+       in her subsequent writings to seek the forebears of such a position in the eight-
+       eenth century or even before. Even so, the continuation of her comments about Mill
+       in After Utopia suggests some of the reasons why she would end up missing not
+       just the emancipatory stance of the earliest liberals, but the very content of their
+       philosophy.                                           
+         Mill, a liberal, was also a romantic (Constant and Tocqueville were, too). It is
+       crucial that Shklar did not know what to make of this fact, and so she downplayed it.
+       “The two can appear together at times,” she remarks of liberalism and romanticism,
+       “but the differences between romantic and liberal thinking remain clear enough”
+       (1957, p. 231). Shklar did not discuss liberalism in her earlier chapters on romanti-
+       cism in After Utopia, and her treatment in the chapter on liberals indicates that she
+       held their relationship (once she finally turned to its occurrence) to be almost acci-
+       dental. Their collocation in the same thinker(s) is treated as almost like the intrusion
+       of a foreign element into a matrix: “That the state may not interfere with society,”
+       the liberal precept, “is of an entirely different order than the idea that a man’s first
+       duty is to develop an original personality,” the romantic credo (1957, p. 231.).
+         Of course, even a casual familiarity with Mill’s On Liberty (or the texts of Con-
+       stant or Tocqueville) suggests the implausibility of this scheme. For Mill, individual-
+       ity is the end of liberalism, and restrictions on institutions (including most obviously
+       the state) are the means to that end. The point isn’t that originality and non-inter-
+       ference are identical. It is that, for Mill, the means of institutionalizing limits on
+       state action could not fully define his liberalism. Rather, romanticism and liberalism
+       were inextricable in defining the ends of life and therefore political life. Had Shklar
+
+[PAGE 22]
+                                                             
+                                                             
+                                                             
+       New perspectives on Judith Shklar            511      
+                                                             
+       pondered this obvious flaw in her portrait of Mill, it might have led her to correct her
+       critique of romanticism, which she presented as antipolitical and antisocial (1957,
+       chs 2-4; Moyn, 2023, ch. 2.). For Mill, romanticism provided the goals for politics
+       and society. Indeed, it was for this reason, as he reports in his Autobiography, that
+       he broke with his father and his hedonistic account of the good, not merely with the
+       belief in the imminent arrival of a reformed society. 
+         Shklar didn’t return to Mill until late in life, and glancingly at that. When she did
+       so, she judged the intersection of his liberalism with his romanticism more clearly,
+       but from the secure position of the “liberalism of fear” that she had spent her inter-
+       vening life developing.                               
+         In her lovely Storrs Lectures for 1988 at Yale Law School, published two years
+       later as The Faces of Injustice, Shklar specified that, among the many philosophers
+       who had privileged the investigation of justice over that of injustice, Mill was exem-
+       plary. “No serious theory of justice is simply indifferent to injustice of course,”
+       Shklar wrote. The trouble was that such frameworks considered injustice to be the
+       mere absence of justice. “Normal accounts do begin, as Mill’s typically does, with
+       the thought that justice, like many other moral notions, is best defined by its oppo-
+       site. He then goes on in very few sentences to tell us what injustice involves … With
+       that he leaves the subject, having, in fact, shown only that it is unjust to break the
+       rules of normal justice” (Shklar, 1990, pp. 18-19).   
+         Shklar’s dissatisfaction stemmed from her view of the rewards to be reaped theo-
+       retically from “putting cruelty first” (in her famed slogan of the same era). Now,
+       Mill hadn’t been pessimistic enough, in his refusal to take seriously the liability of
+       politics to abuse and injury. “He was intellectually averse to contemplating the worst
+       historical situations,” she wrote. “It was not surprising that, like so many of his suc-
+       cessors, he treated injustice merely as the take-off point for a wholesome and upbeat
+       theory of justice” (Shklar, 1990, p. 19). He was not “overwhelmed by the evil of the
+       times” (1990, p. 20).                                 
+         Of course, Shklar’s comments on Mill capture in miniature the overall reversal in
+       her thought. It doesn’t settle whether her earlier or later views were more credible
+       (Hall, 2022). But it is notable — a challenge to those who find more continuity than
+       change in her career — that the reversal on Mill was so stark. She began by indicting
+       how haunted he was by the obstacles and threats to progress, and she ended by task-
+       ing him for insufficient concern for cruelty and injustice.
+         At the same time, Shklar was far more open to the romantic legacy in Mill’s lib-
+       eralism — because now she much more clearly identified it in order to reject it. In
+       her classic paper from the next year, “The Liberalism of Fear,” she distinguished
+       her approach from the “liberalism of personal development” for which Mill stood.
+       “Freedom,” she reported in perfectly capturing the ends/means structure of Mill’s
+       On Liberty, “is necessary for personal as well as social progress” (Shklar, 1989, pp.
+       8-9). Mill’s liberalism, she acknowledged, was a “perfectly genuine” liberalism, just
+       not one that, like hers, “had a strongly developed historical memory” (1990, p. 9).
+         I don’t know of a direct statement in Shklar’s later writing on the congenital
+       relationship between romanticism and liberalism, or even how the romanticism she
+       still regularly derided informed the perfectionist brand she distinguished from the
+       liberalism of fear. She certainly continued, just as she had in her earlier work, to
+
+[PAGE 23]
+                                                             
+                                                             
+                                                             
+       512                                     R. Buxton et al.
+                                                             
+       denounce romanticism, if always in its illiberal versions. Thus, even as she read Mill
+       more properly, it does not seem Shklar ever pondered the meaning of the historical
+       intersection of liberalism and romanticism.           
+         That Shklar, by the time of her final writings, was far more profligate in calling
+       premodern writers like John Locke and the American founders “liberals” made this
+       avoidance easier: Mill’s romantic version of liberalism was just one version — and a
+       rather latecomer — on the list of liberal frameworks. 
+         The consequences of Shklar’s disdain for Mill, and her inability to accord him his
+       place in the liberal tradition that he actually helped to found, were grave. Most of
+       those she influenced adopted her zeal to make romanticism a dirty word. Another,
+       Nancy Rosenblum, was a bit more conciliatory. But it is worth revisiting her excel-
+       lent and neglected study Another Liberalism on this score, with an eye to how the
+       very corrective she offered continued to operate within the terms of a false problem
+       (Rosenblum, 1987).                                    
+         That problem, again, is that romanticism and liberalism were separate in the first
+       place. Rosenblum emphasized their divergence, before wondering if the one could
+       “be brought home” to the other (1987, part III). It was edgy indeed in her school of
+       thought to suggest that “romantic responses to liberalism offer powerful resources
+       for the reconstruction of liberal thought” (1987, p. 1). And helpfully, amid her pio-
+       neering reconsideration of American romantics such as Ralph Waldo Emerson and
+       Thoreau (whom Shklar herself later wrote about), Rosenblum did give Mill some
+       love in this regard (Shklar, 1991b).                  
+         Yet Rosenblum’s general approach was a corrective premised, not merely on
+       Shklar’s original separation of romanticism and liberalism, but also on her later
+       mistake of regarding romantic liberalism as a belated deviation in the tradition. On
+       Rosenblum’s account, romanticism had emerged as a critique from outside the lib-
+       eral tradition, as Shklar had always contended, rather than participating in its found-
+       ing. “Conventional liberalism” had emerged in the early modern period, Rosenblum
+       reported, emphasizing legalism, rights, and stability. For Rosenblum, one might
+       therefore say, romanticism was a corrective to Shklar’s (conventional) liberalism.
+       Rosenblum’s innovation was to ask what Shklar never had: could romanticism be
+       both safe and useful to those within the liberal tradition, nonetheless?
+         The results of Rosenblum’s inquiry into how “romanticism can become liberal”
+       and how “it is also possible for liberalism to be romanticized” were enlightening
+       and even moving. In particular, she claimed, liberalism’s individualist foundations
+       did not prohibit acceptance of communitarian objections, just as accommodat-
+       ing romantic “heroism” could make liberalism more morally uplifting. Shklar had
+       charged from the start that romanticism was antipolitical; Rosenblum suggested that
+       its bent for private self-creation abetted liberalism’s own public/private distinction,
+       and could promote shifting involvements of people as they lived divided lives as
+       citizens and humans.                                  
+         The assumption that liberalism and romanticism are a duality reflected Shklar’s
+       framework, of course, even if lessening the tension between its poles permitted
+       Rosenblum an original intervention. I wouldn’t deny, of course, that some versions
+       of romanticism — perhaps even most — were illiberal or non-liberal in conception
+       or consequences. But the costs of Shklar’s failure to reckon with the fact that the
+
+[PAGE 24]
+                                                             
+                                                             
+                                                             
+       New perspectives on Judith Shklar            513      
+                                                             
+       very origins of liberalism were in the romantic commitment to privilege self-crea-
+       tion and self-making as the highest life nonetheless strike me as exceptionally high.
+         Mill, for one, didn’t accept the public/private distinction; individuality was the
+       highest ideal of collective life, and the principle of justification of policies, includ-
+       ing, he believed, fairly strict limits to state action, certainly when it came to the reg-
+       ulation of opinion and speech (As Rosenblum herself later remarks, Mill “does not
+       call on the classical dualism between man and citizen, even to reject it” (1987 133).)
+       Yet even in bringing her general corrective in romanticism’s name, Rosenblum’s
+       discussion of Mill in particular epitomized Shklar’s own negligence of the roman-
+       tic sources of his deepest commitments, the very ones that grounded his libertarian
+       policies.                                             
+         In her passages on Mill, Rosenblum highlighted his concern with “all-consuming
+       private life,” and the risks that privatization poses to public life (1987, p. 129). That
+       is an apt description of some of the republican concerns of some early liberals, most
+       notably Constant at the end of his Atheneum lecture — which assessed the charac-
+       teristic drawbacks of a regime of modern liberty. As Rosenblum explains Mill’s ver-
+       sion of such concerns, however, it is almost as if his core ideal of individuality and
+       self-development is no more than a means to the end of staving off the syndrome
+       of a fully privatized citizenry. “What can encourage men and women to constrain
+       themselves to attend to the general interest?” she asks (1987, p. 130). Insightfully,
+       she answers, Mill thought individuality could take the form of self-cultivation as a
+       public actor, not merely as a private actor. More deeply, she adds, romantic commit-
+       ments might provide the motivation for reckoning the aggregate good of policies.
+       If “the rational capacity to calculate the greatest happiness of the greatest number”
+       was presupposed in Mill’s utilitarian outlook, the “more important cultivation of the
+       emotional impetus to perform the calculus in the first place’ had to come from a
+       romantic source (1987, p. 130).                       
+         Oddly, this approach omits by far the most momentous fact: that Mill altered clas-
+       sical utilitarianism in a eudaemonistic direction which prioritized individuality as a
+       criterion for assessing good and evil, refusing to treat all pleasure as equivalent. His
+       “idea of self-cultivation” may have been “modest” in comparison to other romantics,
+       as Rosenblum puts it (1987. P. 134). But he nonetheless considered that self-making
+       the aim and end of life. As her discussion continues, Rosenblum was surely right to
+       stress that Mill called for limits to state power in order to create the conditions for
+       the possibility of individuality. But one cannot understate Mill’s fears, which are
+       clearly drawn from Tocqueville, of threats to individuality, posed by modern society,
+       distinct from the state. Those fears account for Mill’s extraordinary investment in
+       public education — not the limitation of the state — for equipping citizens to hew to
+       the public ideal of self-creation.                    
+         All told, Rosenblum’s conciliatory treatment of Mill’s concern for self-culti-
+       vation certainly did reflect a sympathy for the idea of romantic individuality that
+       Shklar never found in herself. Yet it also inherited Shklar’s framing that liberal-
+       ism and romanticism were different to begin with and could never achieve more
+       than beneficial foreign relations. Mill didn’t think either thing. Investigating Mill’s
+       place in Shklar’s liberalism confirms the intellectual costs of two moves in her
+       career, one early and one late. She treated romanticism from the first as an alien and
+
+[PAGE 25]
+                                                             
+                                                             
+                                                             
+       514                                     R. Buxton et al.
+                                                             
+       antipolitical force, and — while acknowledging the existence of a perfectionist lib-
+       eralism — adopted the very pessimism that she had once denounced. Perhaps there
+       is no better illustration of those moves than her treatment of Mill over the years, and
+       the legacy she left in doing so.                      
+         That intellectual costs entail political ones is a more debatable proposition. But
+       I believe they do. Liberals are in dire straits today, around the world and in the
+       adopted country of Shklar herself. A bleak liberalism has led to bleak times.
+         There is a possibility, therefore, that it is long past time to rediscover perfectionist
+       liberalism and reject the misanthropic pessimism that has ruled it out. No one could
+       guarantee, of course that it would succeed practically, and Mill’s liberalism of hope
+       would require its own defense either way. But it is worth another look, beyond the
+       constraints and foreclosures of the classic liberalism of fear.
+         Samuel Moyn                                         
+       Funding The research in David Enoch’s contribution was supported by the Israel Science Foundation,
+       within the MAPATS program, grant No. 399/23.          
+       Data availability Not applicable                      
+                                                             
+       Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+       which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long
+       as you give appropriate credit to the original author(s) and the source, provide a link to the Creative
+       Commons licence, and indicate if changes were made. The images or other third party material in
+       this article are included in the article’s Creative Commons licence, unless indicated otherwise in
+       a credit line to the material. If material is not included in the article’s Creative Commons licence and
+       your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need
+       to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://
+       creativecommons.org/licenses/by/4.0/.                 
+       References                                            
+                                                             
+       Bagg, S. (2024) The Dispersion of Power: A Critical Realist Theory of Democracy. Oxford University
+         Press.                                              
+       Bagg, S. (2022) Realism against Legitimacy. Social Theory and Practice 48(1): 29–60.
+       Bajohr, H. (2019) “The Sources of Liberal Normativity.” In Between Utopia and Realism: The Politi-
+         cal Thought of Judith N. Shklar (Eds. Samantha Ashenden and Andreas Hess), Philadelphia:
+         University of Pennsylvania Press.                   
+       Barrett, J. (2020) Social reform in a complex world. Journal of Ethics and Social Philosophy 17(2):
+         103–132.                                            
+       Brennan, J. (2017) Against Democracy. Princeton University Press.
+       Douglass, R. and Edward Hall. forthcoming. “Judith Shklar’s Ethos of Skeptical Vigilance.” The
+         Review of Politics.                                 
+       Douglass, R. (2023) Cruelty, injustice, and the liberalism of fear. Political Theory 51(5): 790–813.
+         https://d oi.o rg/1 0.1 177/0 09059 17231 16997 9.  
+       Enoch, D. (2018) “Against Utopianism: Noncompliance and Multiple Agents.” Philosopher’s Imprint
+         18.                                                 
+       Enoch, D. (2020) False consciousness for liberals part I: consent, autonomy, and adaptive preferences.
+         The Philosophical Review 129: 159–210.              
+       Enoch, D. (2023) Politics and suffering. Analytical Philosophy 66(1): 1–25.
+
+[PAGE 26]
+                                                             
+                                                             
+                                                             
+       New perspectives on Judith Shklar            515      
+                                                             
+       Fives, A. (2020) What the victims of tyranny owe each other: on Judith Shklar’s value monism. Res
+         Publica 26(4): 505–521. https://d oi.o rg/1 0.1 007/s 11158-0 20-0 9459-z.
+       Forrester, K. (2011) Hope and memory in the thought of Judith Shklar. Modern Intellectual History
+         8(3): 591–620. https://d oi.o rg/1 0.1 017/S 14792 44311 00036 9.
+       Forrester, K. (2012) Judith Shklar, Bernard Williams and political realism. European Journal of Polit-
+         ical Theory 11(3): 247–272. https://d oi.o rg/1 0.1 177/1 47488 51114 30605.
+       Galston, W.A. (2010) Realism in political theory. European Journal of Political Theory 9(4): 385–
+         411. https://d oi.o rg/1 0.1 177/1 47488 51103 74001.
+       Gatta, G. (2018) Rethinking Liberalism for the 21st Century: The Skeptical Radicalism of Judith
+         Shklar. Routledge.                                  
+       Hall, E. (2025) Power and Powerlessness : The Liberalism of Fear in the Twenty-First Century.
+         Oxford University Press.                            
+       Hall, E. (2022) Complacent and conservative? redeeming the liberalism of fear. The Journal of Poli-
+         tics. https://d oi.o rg/1 0.1 086/7 22343.          
+       Hess, A. (2014) The Political Theory of Judith N. Shklar: Exile from Exile. Palgrave Macmillan.
+       Hirschman, A. (1991) The Rhetoric of Reaction: Perversity, Futility. Harvard University Press.
+       Hoffmann, S. (1993) Judith Shklar as political thinker. Political Theory 21(2): 172–180.
+       Kahan, A. (2023) Freedom from Fear: An Incomplete History of Liberalism. Princeton University
+         Press.                                              
+       Kaufmann, K. (2020) Conflict in political liberalism: Judith Shklar’s liberalism of fear. Res Publica
+         26: 577–595.                                        
+       Levy, J. (2000) The Multiculturalism of Fear. Oxford University Press.
+       Luo, S.S. (2021) Historical memory, democratic citizenship, and political theory: reconstructing a
+         historical method in Judith Shklar’s writings. European Journal of Political Theory. https://d oi.
+         org/1 0.1 177/1 47488 51209 87762.                  
+       Marriott, S. (2024) MA Thesis: In search of a good liberal character: Judith shklar’s literary Approach
+         to Political Theory.                                
+       Mills, C. (2005) Ideal theory as ideology. Hypatia 20(3): 165–184.
+       Misra, S. (2016) Doubt and commitment: justice and skepticism in Judith Shklar’s thought. European
+         Journal of Political Theory 15: 77–96.              
+       Moyn, S. (2020) “Before—and Beyond—the Liberalism of Fear.” In Between Utopia and Realism:
+         The Political Thought of Judith N. Shklar (Eds. Samantha Ashenden and Andreas Hess), Univer-
+         sity of Pennsylvania Press, 24–46.                  
+       Moyn, S. (2023) Liberalism Against Itself: Cold War Intellectuals and the Making of Our Times. Yale
+         University Press.                                   
+       Pickford, E. (2024) Judith Shklar on the problem of political motivation. History of European Ideas
+         50(7): 1261–1277. https://d oi.o rg/1 0.1 080/0 19165 99.2 024.2 34165 4.
+       Raekstad, P. (2018) Realism, utopianism, and radical values. European Journal of Philosophy 26(1):
+         145–168. https://d oi.o rg/1 0.1 111/e jop.1 2193.  
+       Robin, Corey. (2004) Fear: The History of a Political Idea. Oxford University Press.
+       Rosenblatt, H. (2018) The Lost History of Liberalism: From Ancient Rome to the Twenty-First Cen-
+         tury. Princeton University Press.                   
+       Rosenblum, Nancy. (1987) Another Liberalism: Romanticism and the Reconstruction of Liberal
+         Thought. Harvard University Press.                  
+       Royer, C. (2022) Introduction: Shklar’s (Underappreciated) international thought. Global Intellectual
+         History 7(4): 639–649. https://d oi.o rg/1 0.1 080/2 38018 83.2 020.1 82608 6.
+       Scheuerman, W.E. (2021) Judith N Shklar as theorist of political obligation. European Journal of
+         Political Theory 20(2): 366–376. https://d oi.o rg/1 0.1 177/1 47488 51198 58156.
+       Shklar, J. (1957) After Utopia: The Decline of Political Faith. Harvard University Press.
+       Shklar, J. (1989) “The Liberalism of Fear.” In Liberalism and the Moral Life (Ed. Nancy Rosenblum),
+         Cambridge, MA: Harvard University Press.            
+       Shklar, J. (1964) Legalism: Law, Morals, and Political Trials. Harvard University Press.
+       Shklar, J. (1990) The Faces of Injustice. Yale University Press.
+       Shklar, J. (1991b) Redeeming American Political Theory. The American Political Science Review
+         85(1): 3–15. https://d oi.o rg/1 0.2 307/1 96287 5. 
+       Shklar, J. (1991c) Review of Charles Taylor, Sources of the Self. Political Theory 19(1): 105–109.
+       Shklar, J. (1993) Obligation, loyalty, exile. Political Theory 21(2): 181–197.
+       Shklar, J. (2019) On Political Obligation. Yale University Press.
+
+[PAGE 27]
+                                                             
+                                                             
+                                                             
+       516                                     R. Buxton et al.
+                                                             
+       Simmons, J. (2010) Ideal and nonideal theory. Philosophy & Public Affairs 38(1): 5–36. https://d oi.
+         org/1 0.1 111/j.1 088-4 963.2 009.0 1172.x.         
+       Sleat, Matt. (2013) Liberal Realism: A Realist Theory of Liberal Politics. Manchester University
+         Press.                                              
+       Stemplowska, Z. (2008) What’s ideal about ideal theory. Social Theory and Practice 34(3): 319–340.
+       Stullerova, K. (2014) The knowledge of suffering: On Judith Shklar’s ‘putting cruelty first.’ Contem-
+         porary Political Theory 13(1): 23–45. https://d oi.o rg/1 0.1 057/c pt.2 013.1 2.
+       Walzer, Judith. (1981) “Oral History of Tenured Women in the Faculty of Arts and Sciences at Har-
+         vard University.”                                   
+       Williams, B. (2005) In the Beginning Was the Deed: Realism and Moralism in Political Argument.
+         Princeton University Press.                         
+       Yack, B. (1999) Putting injustice first: An alternative approach to liberal pluralism. Social Research
+         66(4): 1103–1120.                                   
+       Yack, B. (2017) Political liberalism: Political, not philosophical. Perspectives on Politics 15(1): 116–121.
+         https:// doi. org/ 10. 1017/ S1537 59271 60041 75.  
+       Young, I.M. (1990) Justice and the Politics of Difference. Princeton University Press.
+       Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published maps
+       and institutional affiliations.                       
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             

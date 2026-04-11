@@ -1,0 +1,73 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "slothuus_2025",
+  "title": "Free gifts: capitalism and the politics of nature [Book Review]",
+  "author": "Slothuus",
+  "year": 2025,
+  "journal": "Contemporary Political Theory",
+
+  "opening_move": {
+    "type": "reconstructive_diagnosis",
+    "description": "The review opens with Battistoni's core argument: capitalism treats nature as a 'free gift' — unpaid for in the economic accounting — structurally, not accidentally, and this failure underpins ecological crisis.",
+    "anchored_in": ["Battistoni", "Marx (value theory)", "feminist political economy"],
+    "stakes_claimed": "Understanding capitalism's structural devaluation of nature (alongside other 'free gifts' — reproductive labor, atmosphere) is essential for ecological politics"
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["mainstream ecological economics", "critical approaches that treat nature-devaluation as oversight rather than structure"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": false,
+    "own_position_type": "none",
+    "own_position_explicit": false,
+    "description": "The review presents Battistoni's argument appreciatively, contextualising it within Marxist political economy and feminist theory."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_interpretive_case",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "Marxist political economy; feminist theory; political ecology",
+    "notes": "Book review genre; primarily expository. Battistoni's book itself uses historical and theoretical analysis of capitalist production."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "philosophical_text",
+    "case_name": "Battistoni, Free Gifts (2025); capitalist value chains",
+    "case_function": "primary_object_of_analysis",
+    "case_relation_to_argument": "object_of_interpretation",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "ecology / capitalism critique / justice",
+    "claim_type": "critical_diagnostic",
+    "closure_type": "open_ended_with_burden_on_reader"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "case_introduction",
+    "case_development",
+    "rival_mapping",
+    "normative_derivation",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["free gifts", "nature as capital", "reproductive labor", "ecological crisis", "value theory", "feminist political economy"],
+
+  "thinkers_deployed": {
+    "central": ["Battistoni"],
+    "engaged_critically": ["mainstream ecological economics"],
+    "referenced_only": ["Marx (implied)", "feminist political economy tradition"]
+  },
+
+  "confidence_notes": "Book review genre; primarily expository. The normative stake derives from the reviewed book's political ecology argument."
+}

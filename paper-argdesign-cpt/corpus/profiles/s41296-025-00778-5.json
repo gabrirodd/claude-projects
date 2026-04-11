@@ -1,0 +1,73 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "rodrigues_2025",
+  "title": "In the shadow of minority rights: decolonising gender, liberalism and the politics of difference [Book Review]",
+  "author": "Rodrigues",
+  "year": 2025,
+  "journal": "Contemporary Political Theory",
+
+  "opening_move": {
+    "type": "interpretive_proposition",
+    "description": "The review opens by framing Dutta's book as a reframing of political agency in contemporary India: Muslim women navigate a landscape shaped by legal pluralism and communal politics through embodied ethical practice, not merely through liberal state claims.",
+    "anchored_in": ["Dutta", "BMMA", "MCMT"],
+    "stakes_claimed": "The liberal state is not the locus of justice for Muslim women in India; their political agency is enacted through everyday ethical practices within lived Islamic and constitutional traditions"
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["liberal minority rights frameworks", "communitarian recognition theory"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": false,
+    "own_position_type": "none",
+    "own_position_explicit": false,
+    "description": "The review presents Dutta's postcolonial feminist argument appreciatively, foregrounding the book's empirical grounding in fieldwork with Muslim women activists."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_qualitative_empirical",
+    "secondary": null,
+    "empirical_evidence_present": true,
+    "empirical_evidence_role": "constitutive",
+    "quantitative_methods": null,
+    "qualitative_methods": "fieldwork with Muslim women activists (BMMA, MCMT) in Mumbai",
+    "data_sources": ["fieldwork with Bharatiya Muslim Mahila Andolan (BMMA)", "Mohalla Committee Movement Trust (MCMT)"],
+    "interpretive_methods": "postcolonial feminist theory; ethnographic interpretation",
+    "notes": "Book review of an empirically-grounded work. The reviewed book's fieldwork is constitutive of its argument; the review presents this without independent empirical contribution."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "ethnographic_field",
+    "case_name": "Muslim women activists, BMMA and MCMT, Mumbai, India",
+    "case_function": "generative_of_theory",
+    "case_relation_to_argument": "evidence_for_claim",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "minority rights / gender / postcolonial democracy",
+    "claim_type": "critical_diagnostic",
+    "closure_type": "open_ended_with_burden_on_reader"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "case_introduction",
+    "empirical_presentation",
+    "case_development",
+    "normative_derivation",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["minority rights", "embodied political agency", "Islamic ethics", "legal pluralism", "postcolonial democracy", "ethical labor"],
+
+  "thinkers_deployed": {
+    "central": ["Dutta"],
+    "engaged_critically": ["liberal minority rights tradition"],
+    "referenced_only": ["Islamic jurisprudence (implied)", "Indian constitutional theory (implied)"]
+  },
+
+  "confidence_notes": "Book review genre. This is the only review in the corpus that presents a book with constitutive ethnographic evidence — the fieldwork drives the argument, not illustrates it."
+}

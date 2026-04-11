@@ -1,0 +1,74 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "ovcharuk_2026",
+  "title": "Normative reconstructions of property rights in German classical philosophy [Review Essay]",
+  "author": "Ovcharuk",
+  "year": 2026,
+  "journal": "Contemporary Political Theory",
+
+  "opening_move": {
+    "type": "polemical_intervention",
+    "description": "The review essay opens by arguing that German idealism (Kant, Fichte, Hegel) has been unjustly neglected in political theory of property, which remains dominated by Lockean rights-based and Humean utilitarian frameworks. Two recent systematic reconstructions reinstate these philosophers as critics of property's perennial political problem.",
+    "anchored_in": ["Kant", "Fichte", "Hegel", "Blumenfeld", "James (David)"],
+    "stakes_claimed": "A German idealist reconstruction of property theory offers normative resources beyond liberal rights-based and utilitarian accounts — recognition and pluralism as alternative foundations"
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["Lockean rights-based theory of property", "Humean/utilitarian theory of property", "libertarian appropriation theory"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": true,
+    "own_position_type": "friendly_amendment",
+    "own_position_explicit": true,
+    "description": "Review essay presenting and critically assessing two books (Blumenfeld; James) that reconstruct Kant's, Fichte's, and Hegel's theories of property as normative alternatives to dominant liberal frameworks. The reviewer endorses the reconstructive project while noting limits."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_interpretive_case",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "intellectual history; close reading of German idealist texts; comparative reconstruction of property theories",
+    "notes": "Review essay (6 pages). Primarily expository and critical assessment of two philosophical books. The philosophical texts (Kant, Fichte, Hegel as reconstructed by Blumenfeld and James) are the interpretive cases through which the normative argument about property theory is made."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "philosophical_text",
+    "case_name": "Blumenfeld, The Concept of Property in Kant, Fichte, and Hegel (2023); James, Property and its Forms in Classical German Philosophy (2023)",
+    "case_function": "primary_object_of_analysis",
+    "case_relation_to_argument": "object_of_interpretation",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "property / recognition / political economy",
+    "claim_type": "reconstructive",
+    "closure_type": "open_ended_with_burden_on_reader"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "case_introduction",
+    "case_development",
+    "immanent_critique",
+    "normative_derivation",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["property rights", "recognition", "German idealism", "normative reconstruction", "libertarian property theory", "Hegelian property theory"],
+
+  "thinkers_deployed": {
+    "central": ["Kant", "Fichte", "Hegel", "Blumenfeld", "James (David)"],
+    "engaged_critically": ["Locke", "Hume (utilitarian property theory)"],
+    "referenced_only": ["Rousseau", "Marx (implied)"]
+  },
+
+  "confidence_notes": "Review essay (6 pages). Classification as normative_with_interpretive_case reflects the use of philosophical texts as interpretive objects in service of a normative argument about what property theory should look like."
+}

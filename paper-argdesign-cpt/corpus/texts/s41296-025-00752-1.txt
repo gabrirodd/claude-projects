@@ -1,0 +1,1051 @@
+[PAGE 1]
+                                                             
+                                                             
+                                                             
+       Contemporary Political Theory (2025) 24:729–748       
+       https://doi.org/10.1057/s41296-025-00752-1            
+       ARTICLE                                               
+                                                             
+       Normative sociology and normative behaviorism: recent 
+       discussions of the relation between empirical social science
+       and normative political theory                        
+                                                             
+                                                             
+       Sune Lægaard1                                         
+                                                             
+       Accepted: 21 January 2025 / Published online: 20 March 2025
+       © The Author(s) 2025                                  
+                                                             
+       Abstract                                              
+       Recent methodological debates about normative political theory have raised ques-
+       tions about the relation between facts and values and between empirical social sci-
+       ence and normative political theory. Jonathan Floyd’s normative behaviorism and
+       Tariq Modood’s normative sociology are two prominent views about these relations.
+       The two approaches see different kinds of social science facts as relevant. Floyd
+       argues that behavioral patterns involving insurrection and crime are especially rel-
+       evant as grounds for normative principles, whereas Modood argues that discussions
+       of principles of multicultural equality should pay special attention to the expressed
+       views of members of the minorities in question. The two approaches, furthermore,
+       have different views of the nature of normativity and of the type of social science
+       that is relevant to normative political theory. These differences show how such
+       methodological differences have implications for what political theorists should do
+       and which methods they should employ.                 
+       Keywords Methodology · Normative behaviorism · Normative sociology ·
+       Normativity · Political theory                        
+                                                             
+                                                             
+       Political theory is having “a methodological moment” (Floyd, 2022). For two dec-
+       ades, discussions about the relation between facts and principles, ideal and non-
+       ideal theory, morality and politics, feasibility, and practice guidance, as well as the
+       role of practices, institutions, and contexts in normative theorizing, have abounded.
+       These discussions have not only concerned the correct theoretical understanding of
+       what political theory is but have increasingly turned to the practical question about
+       how political theory should be done. Most of these debates have not only tried to
+       describe standard methods of political theory, such as reflective equilibrium. The
+                                                             
+       *                                                     
+         Sune Lægaard                                        
+         laegaard@ruc.dk                                     
+       1 Roskilde University, M43R+78 Roskilde, Denmark      
+                                             Vol.:(0123456789)
+                                                             
+
+[PAGE 2]
+                                                             
+                                                             
+                                                             
+       730                                       S. Lægaard  
+                                                             
+       tendency has rather been to challenge traditional conceptions of the methods of
+       political theory, either on the grounds that they are thought problematic or because
+       they do not capture the actual practices of much political theory. Either way, many
+       versions of these methodological arguments have challenged many traditional ideas
+       about normative theorizing.                           
+         One recurring theme in many of these methodological debates concerns vari-
+       ous versions of the question about whether and how facts are relevant to norma-
+       tive theorizing. These debates can be seen as gradual departures from a traditional
+       view of the relationship between empirical social science and normative political
+       theory premised on a classical strict separation of facts and values. The tradi-
+       tional view (e.g., Berlin, 2013; Grant, 2002) sees political theory as normative,
+       evaluative, critical and as concerned with reasons, judgments, and interpretations.
+       As such, it is humanistic (historical and philosophical) and concerned with the
+       particular, whereas the social sciences are concerned with causes and general reg-
+       ularities. Even though the study of politics needs to draw on both empirical social
+       science and normative political theory, there is in principle a strict distinction
+       between the empirical and the normative, which are “complementary” (Grant,
+       2002, p. 590).                                        
+         This traditional view of the relation between the normative and the empirical has
+       been challenged for some time. From the empirical side of the traditional distinc-
+       tion, Gerring and Yesnowitz (2006) argued that normative political philosophy is a
+       necessary component of a relevant and useful political science. From the normative
+       side, Rainer Bauböck (2008) described how the actual practice of much political
+       theory since the 1990s changed away from the traditional picture, when institution-
+       alist and contextualist approaches led political theorists to incorporate comparative
+       and historical studies.                               
+         Following these and similar challenges to the traditional view (summarized in
+       Dowding, 2020), methodological debates about normative political theory have
+       more recently turned to examining how political theorists actually use empirical
+       data in their normative arguments (Perez, 2020) and sketching different roles for
+       use of empirical data in political theory (Perez, 2024). However, the rejection of the
+       traditional view opens several big questions that have not been systematically dis-
+       cussed yet. These concern the precise relation between the empirical and the norma-
+       tive, including precisely which empirical data are relevant and what different views
+       concerning this imply for the kind of normative arguments that can be articulated on
+       this basis.                                           
+         This article focuses on two views about this complex issue that have been pro-
+       posed recently, namely “normative behaviorism” as set out by Jonathan Floyd (2017,
+       2020, 2023) and “normative sociology” as suggested by Tariq Modood (2019,
+       2022). There are several reasons for focusing on these two views and for discuss-
+       ing them together. Both normative behaviorism and normative sociology distance
+       themselves from the noted classical strict separation of facts and values in politi-
+       cal theory. Both approaches hold that there is a positive relation between norma-
+       tive political theory and empirical social science. This is in both cases articulated in
+       the labels that Floyd and Modood respectively use to name their approaches, which
+       explicitly link the normative and social science.     
+
+[PAGE 3]
+                                                             
+                                                             
+                                                             
+       Normative sociology and normative behaviorism: recent… 731
+                                                             
+         A further reason for looking at these two approaches together is that, while they
+       at first glance look related in the noted ways, on closer inspection there turns out to
+       be substantial differences between them. Comparing the two approaches is, there-
+       fore, a way of investigating what the relation between empirical social science and
+       normative political theory might be. The comparison is furthermore a way of identi-
+       fying distinctive features of the two approaches that might not be apparent were they
+       considered in isolation. This article will accordingly discuss the two approaches as
+       articulations of different types of views of the relation between the empirical and the
+       normative. The broader relevance of this comparison is that it shows how different
+       views about this relation, where normative behaviorism and normative sociology are
+       here just two examples, have implications for how political theorists should work.
+       The main findings are that the two approaches not only see quite different facts (and
+       related empirical data) as relevant to normative argument; they also have radically
+       different ideas about how these facts are related to normativity and where the nor-
+       mativity of political theory comes from, to begin with. The broader implications of
+       these differences are that the two views turn out to rely on quite different types of
+       social science and related social ontologies, which means that, if one accepts their
+       view of how facts and values are linked, political theorists should do quite different
+       things and employ very different methods.             
+         In the following when I talk about “facts” and “values,” I really mean “descrip-
+       tive” or “empirical statements” and “normative statements,” respectively.1 I assume
+       a version of the is/ought or descriptive/evaluative distinction in the simple sense that
+       descriptive and evaluative statements say something different.
+         This article first provides very brief presentations of normative behaviorism and
+       normative sociology. I then proceed to compare the two approaches in four respects:
+       (1) What are the relevant facts? Which kinds of empirical data?
+       (2) What is the source of normativity?                
+       (3) What is the scope and granularity of the resulting normative judgments?
+       (4) What is the “direction of fit” between facts and values?
+       I end by considering what the comparison of the two views in these respects tell
+       us about the two approaches and what the differences imply for how to do political
+       theory.                                               
+                                                             
+       Normative behaviorism and normative sociology         
+                                                             
+       The background for Floyd’s normative behaviorism is, first, his assumption that
+       political philosophy is concerned with providing compelling and determinate
+       answers to the question “how should we live?” (2017, Chap. 1), and second, his
+       argument that political philosophy has traditionally tried to answer this question by
+                                                             
+       1 As noted by Floyd (2017, p. 170, fn 3), cf. Dodd and Stern-Gillet (1995) and De Vries and Gordijn
+       (2009), there is a difference between the fact/value distinction, the is/ought distinction and the naturalis-
+       tic fallacy.                                          
+                                                             
+                                                             
+
+[PAGE 4]
+                                                             
+                                                             
+                                                             
+       732                                       S. Lægaard  
+                                                             
+       appealing to what people think, i.e., within what he labels “mentalism.” This is a
+       label for the view that political philosophy consists in seeking to derive convincing
+       and meaningful political principles from patterns in our normative thoughts, e.g.,
+       by consulting “intuitions” or “considered judgements.” Floyd argues that mentalism
+       can never provide a satisfactory answer to the question because the thoughts it tries
+       to turn into principles are too inconsistent both within and between different indi-
+       viduals (2017, Chap. 2).                              
+         For present purposes I will not go into either of these assumptions. My focus is
+       rather on the alternative to mentalism that Floyd proposes, namely, what he calls
+       “normative behaviorism,” and what this view implies regarding the role of social-
+       scientific facts in normative arguments.              
+         The central claim of normative behaviorism is that facts about actual behavior
+       can ground the answer to the normative question about how we should live in a way
+       mentalism cannot. Floyd argues that the relevant categories of behavior to examine
+       concern crime and insurrection. The reason for this is that these kinds of behavior
+       are particularly risky for people to engage in, so one can assume that such behavior
+       expresses strong dissatisfaction with the regime under which they live. More specifi-
+       cally, Floyd argues that crime is a symptom of inequality, and that insurrection is a
+       symptom of insufficient liberal democratic institutions.
+         Floyd finally argues that, if one proceeds along these lines, one has a strong case
+       for what he calls “social-liberal-democracy.” Roughly, Floyd’s argument is that the
+       relevant social science data show that people consistently prefer living under more
+       liberal democratic and more egalitarian regimes.      
+         One can discuss the assumptions underlying Floyd’s argument, both with respect
+       to the focus on crime and insurrection and with respect to the argument for “social-
+       liberal-democracy” that he mounts on this basis. One might for instance accept his
+       general idea of basing answers to political theory’s central question about how we
+       should live on behavioral evidence but reject his specific claims about what counts
+       as good evidence, or his further argument about what this evidence shows. I will not
+       engage directly with these first-order normative discussions here.2 I will rather focus
+       on what normative behaviorism implies regarding the methodological questions
+       about the relation between normative political theory and empirical social science.
+         Tariq Modood (2019) initially presented the notion of “normative sociology” as
+       a label for the kind of work he himself has been doing on a range of issues related to
+       multiculturalism over several decades, which has elsewhere been described as part
+       of “the Bristol School of Multiculturalism” (Levey, 2019). While his focus is on
+       multiculturalism, Modood clearly thinks of normative sociology as a broader type
+       of methodological approach that could in principle be adopted and be appropriate
+       in relation to other contested social and political issues. Modood initially described
+       his approach as “a hybrid of normative political theory and empirical political soci-
+       ology,” where the sociological concepts used are “normatively informed by my
+       2 There are already several discussions of normative behaviorism which go into these and other issues,
+       e.g., Baderin (2023), Dowding (2023), Erman and Möller (2023), Miller (2023), Modood (2023), Perez
+       (2023), Stevens (2023).                               
+                                                             
+
+[PAGE 5]
+                                                             
+                                                             
+                                                             
+       Normative sociology and normative behaviorism: recent… 733
+                                                             
+       conceptual framework, which itself is developed by drawing out normative ‘isms’
+       which are partly present in the political contexts I am interested in.” (2019, p. 17)
+       He has subsequently given a more general characterization of normative sociology,
+       stressing that it should not only offer negative deconstructive criticism of sociologi-
+       cally identified norms and practices but should also provide positive constructive
+       proposals for improvement (2022). Because of his focus on multiculturalism issues,
+       improvement has been oriented towards inclusion of minorities.
+         Normative sociology “Looks for norms and political goals that are operative in
+       a sociopolitical phenomenon and their discursive representation and contestation”
+       (Modood, 2022, p. 2). Contestation is central to Modood’s work, which is focused
+       on “contestation-laden socio-political phenomena” (Modood, 2023, p. 464) and
+       takes its point of departure in minority claims-making (cf. Levey, 2019). Modood
+       has elsewhere characterized his approach by saying that “The objects of analysis are
+       typically a political conflict or controversy” (Modood, 2019, p. 17), in relation to
+       which he begins “not just with phenomena, but phenomena characterised as ‘nega-
+       tive’, such as exclusion (and so clearly some normative standard is already at work)
+       and which can and should be made inclusive. I point to social facts suggesting how,
+       as it were, the positive is struggling to be born or stay alive” (Modood, 2019, p. 18).
+       I will not go into Modood’s substantive views about multiculturalism, e.g., his argu-
+       ment that Islamophobia is a form of cultural racism, but focus on the methodologi-
+       cal aspect of normative sociology.                    
+         The most elaborate description of the methodological aspects of normative
+       sociology are found in Modood and Simon Thompson’s defense of a contextual
+       approach to political theory which they call “iterative contextualism,” according
+       to which it is through the exploration and evaluation of multiple contexts that gen-
+       eral normative principles are devised, revised, and refined (Modood & Thompson,
+       2018). Modood’s description of normative sociology invokes iterative contextualism
+       as the method through which normative sociology should establish the normative
+       principles that subsequently should guide sociological inquiry.
+         These sketches of normative behaviorism and normative sociology show that
+       both approaches are alternatives to the traditional view about the strict separation
+       of the normative and the descriptive. In the following, I will investigate what these
+       kinds of alternative approaches more precisely imply regarding the questions noted
+       in the beginning. Given that both approaches envisage a link between social science
+       and normative political theorizing, I will first focus on which social-scientific facts
+       the two approaches see as relevant. Given that the two approaches both see a link
+       between such facts and normative argument, I will then look at their views about
+       normativity and what they imply concerning the scope of the normative judgments
+       that the two approaches can make on this basis. Finally, I will consider the overall
+       question about the relation between the normative and the descriptive in the two
+       approaches. I only discuss the two approaches in relation to these questions about
+       the relation between normative political theory and empirical social science. Even if
+       there are other issues to discuss, and even if the approaches face problems in other
+       respects, they are instances of types of approaches to the relation between normative
+       political theory and social science that are relevant to consider with respect to these
+       methodological issues.                                
+
+[PAGE 6]
+                                                             
+                                                             
+                                                             
+       734                                       S. Lægaard  
+       What are the relevant facts? Which kinds of empirical data?
+                                                             
+                                                             
+       Normative behaviorism is quite specific regarding which kinds of social facts are
+       relevant to political theory and why. According to Floyd, the relevant facts are facts
+       about crime and insurrection. The types of data to measure these facts are also well
+       defined, since Floyd mentions specific types of data, such as the Polity, ACLP, or
+       Freedom House datasets, as measures of insurrection (2017, p. 186), and various
+       criminological studies as measures of crime (2017, p. 191).
+         The reason why precisely crime and insurrection are the relevant facts is that
+       these patterns of behavior reveal or express political preferences about the political
+       regime and the type of society (2017, p. 168). More specifically, insurrection and
+       crime can be viewed as “a rejection of the political principles currently governing
+       the individual undertaking the action. On this way of doing things, actions function
+       as verdicts on the political system that produces them” (Floyd, 2020, p. 139).
+         The reason why it is crime and insurrection rather than other forms of behavior
+       that should be singled out as a basis for arguments about political theory’s central
+       question about how we should live is that “these two behaviours are united by both
+       the level of personal risk they tend to involve, and the fact that people tend only to
+       partake of them when they find their current lives, which lack goods x, y, and z,
+       unbearable” (Floyd, 2017, pp. 168–169, cf. Floyd, 2020, p. 140). Because of this,
+       what might be thought of as the epistemic value of crime and insurrection is higher
+       and more reliable than that of other forms of behavior; crime and insurrection are
+       better expressions of political preferences than other forms of behavior.
+         Normative sociology is less specific and potentially much broader in its view of
+       which facts are relevant. Modood mentions facts about quite different social phe-
+       nomena, e.g., work on employment and on entry into higher education (Modood,
+       2022, p. 3), but these are clearly just illustrations. In light of Modood’s focus on
+       minority claims-making and contestation of norms and political goals that are
+       operative in a sociopolitical phenomenon, it seems that the relevant social facts for
+       Modood’s normative sociology are defined in terms of how they are related to politi-
+       cally contested issues, especially issues being contested by minorities, and in terms
+       of how they potentially can be linked to a change from exclusion to inclusion of
+       these minorities, i.e., relative to a positive development measured on the basis of an
+       ideal of inclusive citizenship.                       
+         At the level of which data should then be used, this kind of approach gives a
+       special place to the views of the minorities in question. There are many examples
+       of this in Modood’s work. For instance, in relation to the discussion of issues con-
+       cerning religion, Modood seeks to give voice to and gives priority to the views of
+       Muslims (and other religious minorities). In the discussion of Muslim headscarves,
+       for instance, political theory should seek evidence from Muslim women and give
+       special weight to their perspective. Modood similarly argues that the legitimacy of
+       Anglican establishment should not be discussed on the basis of a theoretical crite-
+       rion of, for example, alienation of minorities, but should be attentive to and give
+       special weight to the expressed views of British Muslims about establishment
+       (Modood, 2019, p. 13).                                
+
+[PAGE 7]
+                                                             
+                                                             
+                                                             
+       Normative sociology and normative behaviorism: recent… 735
+                                                             
+         This brief sketch is sufficient to make some comparisons between normative
+       behaviorism and normative sociology. The two approaches are clearly concerned
+       with different questions, normative behaviorism with general questions about
+       the type of regime and normative sociology with more policy-oriented discus-
+       sions of specific laws and institutions, which makes a difference for the facts and
+       data in question. But there is some commonality between them in how they base
+       their views about relevant facts and data on what might be called their expressive
+       value. Floyd is concerned with crime and insurrection because he assumes that
+       crime and insurrection express preferences in the sense that they are the best indi-
+       cators of the political preferences of a population regarding the political system
+       under which they live. Modood is concerned with the expressed views of Mus-
+       lims and other religious minorities regarding regulation of religious dress and
+       religious institutions because he seeks to articulate a political theory case on the
+       basis of the political claims making of religious minorities.
+         Despite the similarity in the focus on expressions, there are more important
+       differences. One is in the scope of the groups whose preferences the facts are sup-
+       posed to be expressions of; here, Floyd focuses on whole populations of societies
+       and Modood on more delimited minority groups within a given society. I’ll return
+       to the scope issue later.                             
+         The other difference is more methodological. While Modood’s interest in con-
+       crete social science facts and expressions of political preferences is similar to
+       Floyd’s, the crucial difference concerns the sense in and extent to which Floyd
+       is actually a behaviorist. Floyd is explicitly (2017, pp. 210–211) not committed
+       to so-called psychological or philosophical behaviorism holding the strong onto-
+       logical and semantic claims that psychology is not about inner experiences at all
+       but only about observable behavior and that any claims about psychological expe-
+       riences should either be eliminated and replaced by behavioral terms or trans-
+       lated without remainder into behavioral concepts (Graham, 2023). He also does
+       not hold the strong version of the methodological and explanatory claims nor-
+       mally associated with behaviorism, namely that one should only study observable
+       behavior and that the only explanatory relations are between observable stimuli
+       and responses. While not being committed to these general claims, Floyd is nev-
+       ertheless committed to more specific epistemic claims that (a) political prefer-
+       ences cannot reliably be known by attending to what philosophers think or what
+       people say (due to his criticism of mentalism), (b) that crime and insurrection
+       are sufficiently reliable evidence for claims about political preferences, and (c)
+       that crime and insurrection are likely the best forms of behavioral evidence about
+       political preferences (due to the level of risk they involve). The practical upshot
+       of these epistemic claims is that, while Floyd does not deny the existence or rel-
+       evance of inner psychological experiences, such as political preferences, they
+       can only be reliably known through observable behavior, and while he actually
+       assumes some form of universal human psychological set-up that underpins the
+       behavioral responses by large populations, the only reliable way of explaining the
+       resulting political preferences is by studying the observable relations between the
+       type of political regimes under which people live and how they react in terms of
+       crime and insurrection.                               
+
+[PAGE 8]
+                                                             
+                                                             
+                                                             
+       736                                       S. Lægaard  
+                                                             
+         In Floyd’s terms, it seems that Modood is still a mentalist in the sense that he
+       cannot accept these epistemic claims. While Modood is interested in behavior—
+       his original entry into debates about multiculturalism was for instance very much
+       motivated by how Muslims reacted to Salman Rushdie’s novel Satanic Verses—he
+       explicitly seeks to give voice to minorities, not figuratively speaking, but literally.
+       He argues that political theory about multiculturalism should listen to what rep-
+       resentatives of the minorities in question say. Modood is interested in the politi-
+       cal preferences of minorities, but he assumes that one way of knowing these is by
+       attending to statements of representatives and members of minority groups. Modood
+       does not at all deny that behavior is important, but he allows a much broader range
+       of behavior as potentially relevant. So not only must Modood reject Floyd’s first
+       epistemic claim, i.e., the criticism of mentalism, he must also reject Floyd’s third
+       epistemic claim, namely the claim that only forms of behavior involving high per-
+       sonal risk can be a reliable indicator of political preferences. Finally, Modood ques-
+       tions Floyd’s second claim about the empirical relations between crime and insur-
+       rection and social-liberal-democracy (Modood, 2023, p. 463).
+         The upshot of this comparison, therefore, is that, to the extent that one accepts the
+       negative epistemic claims central to Floyd’s normative behaviorism, this will rule
+       out the central elements of Modood’s normative sociology, at least as he has him-
+       self practiced this in relation to multiculturalism. Conversely, to the extent that one
+       agrees with Modood’s way of studying multiculturalism, one must reject Floyd’s
+       negative epistemic claims.                            
+         This comparison furthermore points to another difference. Whereas both Floyd
+       and Modood are interested in expressions of preferences, although they disagree
+       about what can function as a reliable expression, the reasons why they are inter-
+       ested in expressions are partly different. As already noted, Floyd’s argument is epis-
+       temic in the sense that his focus on crime and insurrection is purely motivated by his
+       assumptions about what can function as reliable evidence for political preferences
+       regarding regime type. Modood’s argument, although it does of course have an epis-
+       temic aspect, is primarily motivated on normative grounds, since he is concerned
+       with representing minority claims making. Modood further argues that attention to
+       the context, which includes the concern with the expressed preferences of minori-
+       ties, provides important considerations which must be borne in mind when seek-
+       ing to reach an all-things-considered judgment about what should be done in each
+       particular situation (Modood & Thompson, 2018, p 351). These considerations take
+       the form of constraints that limit normative judgments based on considerations of
+       feasibility and how we can reasonably expect people to behave and to change the
+       way they behave.                                      
+         But Modood does not only think that context provides negative reasons against
+       normative judgments that might not be feasible or practicable; he also holds that
+       context provides positive reasons for certain normative judgments. This is because
+       he gives particular consideration to the ideals and values that the people in a given
+       context presently endorse as ideals in their own right (Modood & Thompson, 2018,
+       p. 352). So Modood’s normative sociology assumes that there are independent
+       normative reasons for taking the norms, values, and preferences of minorities into
+       account when making normative judgments.              
+
+[PAGE 9]
+                                                             
+                                                             
+                                                             
+       Normative sociology and normative behaviorism: recent… 737
+       What is the source of normativity?                    
+                                                             
+                                                             
+       The first question concerned the social-scientific facts that normative behavior-
+       ism and normative sociology take to be relevant. Both views take such facts to
+       be relevant to the normative concerns of political theory. So, the next respect in
+       which to examine and compare normative behaviorism and normative sociology
+       concerns their view of normativity. More specifically, how does normativity enter
+       the picture on these two views and where does it come from? What is their view
+       of the relation between social facts and normativity? 
+         Normative behaviorism, as already discussed, focuses on behavior as a signal
+       of strong political preferences. Floyd holds that “political principles are justified
+       by what I call expressed political preferences. These preferences are normative
+       preferences that get revealed by certain patterns of behaviour, as opposed to nor-
+       mative preferences that get revealed through certain patterns of thought” (2017,
+       p. 168, cf. 2020, p. 137). Floyd assumes that one can “‘read off’ normativity from
+       behaviour by reading off the political preferences expressed by the behaviour of
+       large groups of people over long periods of time” (2017, p. 242).
+         Floyd readily acknowledges that this means that normative behaviorism makes
+       an is-to-ought inference, “by moving from the ‘is’ of how people behave under
+       different institutions, and thus, in response to the principles those institutions rep-
+       resent, to an ‘ought’ of what principles we ought to adopt.” (2020, p. 142) This
+       clearly raises the challenge concerning how the theory “can go from an ‘is’ to an
+       ‘ought’ in the manner described. Or, taking a different angle, whether we could
+       ever move from social-scientific ‘facts’ to political ‘principles’” (Floyd, 2023, p.
+       366).                                                 
+         Floyd’s response to this acknowledged challenge is basically to argue that nor-
+       mative behaviorism is no different from traditional mentalist political philosophy,
+       which also moves from “is” to “ought.” According to Floyd, the only difference
+       is that where the facts making up the “is” for normative behaviorism concern
+       actions, the facts making up the “is” for traditional mentalist political philosophy
+       concern thoughts: “mentalism assumes that we can perfectly easily move from
+       thoughts to principles—whether those thoughts be impartial choices, judgements,
+       or intuitions—and so assumes that there is no implied violation of that concept
+       which has overshadowed so much of twentieth- and now twenty-first-century
+       philosophy—the ‘naturalistic fallacy’. Why, though, should this fallacy apply to
+       actions if it does not apply to thoughts?” (2017, p. 170) Floyd even suggests that
+       “we could now quite easily talk of the mentalistic fallacy, if it is true not only (1)
+       that conventional political philosophy relies upon a certain class of facts, but also
+       (2) that it is, therefore, confronted with the naturalistic fallacy, as it tries to move
+       from mental ‘is’ to political ‘ought’, when it had thought itself exempt from such
+       confrontation” (2020, p. 150, cf. 2023, p. 367).      
+         I will return to the is-to-ought inference in a moment. But before that it is
+       important to note that, even if one grants Floyd’s response to the challenge, i.e.,
+       his claim that what he calls mentalism also moves from an “is” to an “ought,” this
+       still does not really answer the question about how normativity enters along the
+
+[PAGE 10]
+                                                             
+                                                             
+                                                             
+       738                                       S. Lægaard  
+                                                             
+       way. At best, it only shows that normative behaviorism and mentalism face the
+       same challenge. It is still a further question how, if we start out with descriptive
+       claims about facts, we get to normative claims about principles.
+         Floyd ends up answering this question about normative force (2017, p. 172)
+       by affirming a Humean position according to which “reasons are subordinate to,
+       because necessarily derived from, our preexisting motivations” (2017, p. 175).
+       The normative force of principles then can be understood in terms of a contingent
+       imperative: “It is a contingent imperative just insofar as it claims ‘given that you
+       have set of preferences x, you should adopt or support or accept set of principles
+       y’” (2017, p. 176).                                   
+         While this provides an answer to the question about the source of normativ-
+       ity, mentalists can provide a similar answer, which derives normative force from
+       thoughts rather than actions as indicators of preexisting motivations. Floyd’s
+       argument for preferring the behaviorist over the mentalist answer is that there is
+       much less consistency between thoughts than between actions.
+         At this point, it is worth considering in some more detail, how the normative
+       behaviorist move from “is” to “ought” proceeds and precisely when during this
+       move the normative force in the conclusion comes in. One might reconstruct the
+       normative behaviorist argument as having the following form:
+       (1) Assumption: Behavior of type B expresses political preferences P about institu-
+          tions I                                            
+          [behaviorist epistemic assumptions]                
+       (2) Descriptive social science facts: (Large numbers of) people (over long periods
+          of time) behave in way B                           
+          [measures of crime and insurrection]               
+       (3) Descriptive social science facts: Behavior B is systematically linked to institu-
+          tions I                                            
+          [social-liberal-democracy]                         
+       (4) From 1 to 3: Descriptive conclusion: (Large numbers of) people (over long
+          periods of time) have preference P about institutions I
+          [people in fact prefer social-liberal-democracy]   
+       (5) Interpretative claim: Institutions I express political principles PP
+          [social-liberal-democratic principles]             
+       (6) Assumption: If one prefers institution I, then one has a contingent reason R to
+          accept political principles PP expressed by institution I
+          [Humean account of reasons]                        
+       (7) From 4 to 6: Normative conclusion: People have contingent reason R to accept
+          political principles PP                            
+       Normative behaviorism seeks to justify normative political principles about how
+       we should live and, more specifically, which type of political system we should
+       have. The argument as sketched makes clear that these principles are based on the
+       purely descriptive claim that people in fact prefer social-liberal-democratic insti-
+       tutions, but that this only gets normative force when combined with the Humean
+                                                             
+                                                             
+
+[PAGE 11]
+                                                             
+                                                             
+                                                             
+       Normative sociology and normative behaviorism: recent… 739
+                                                             
+       account of reasons (for criticism of this move, see Dowding, 2023, and Erman &
+       Möller, 2023). The argument sketched here also makes clear that the conclusion
+       only becomes one about principles because of the interpretative claim that certain
+       institutions express specific political principles.   
+         It is worth pausing to consider this for two reasons. One is that Floyd is not
+       interested in simply summarizing the existing political science and criminology
+       studies; he is interested in making a further claim that is not just about behav-
+       ior and institutions but about political principles. So, the claim is not simply the
+       factual one that people prefer certain institutions but the normative one that they
+       have reason to accept certain principles. One can only get from the descriptive
+       claim about behavior relative to institutions to the normative claim about reasons
+       to accept principles if there is a way of linking principles to institutions. This link
+       is provided by the interpretative claim (5) in the argument sketched above.
+         But what are the principles expressed by social-liberal-democratic institutions?
+       One easy way of answering this question might seem to be that these principles
+       simply say something like “have social-liberal-democratic institutions.” However,
+       this is not terribly helpful, for political principles are precisely supposed to pro-
+       vide us with some criterion that tells us which institutions we should seek to real-
+       ize. Floyd’s initial answer to this question seems to be that the content of the
+       principles is settled by the institutions that people in fact prefer, since he notes
+       that “social-liberal-democracy” simply is a label for the institutions that “do best,
+       empirically, in accordance with the criteria already laid down” (2017, p. 197)
+       rather than a substantive account of what it takes for an institution to be social-
+       liberal-democratic. This empirical answer might be defensible as an answer to a
+       question about what “social-liberal-democracy” means as a descriptive category.
+       Then social-liberal-democracy is simply a label for institutions that have low
+       rates of crime and insurrection.                      
+         But Floyd’s empirical answer cannot serve as an answer to the further question
+       about which political principles are expressed by these institutions. The reason for
+       this is that we then collapse the distinction between institutions and principles. Floyd
+       wants his version of the argument to show not only that people prefer certain institu-
+       tions (4) but that they have reason to accept social-liberal-democratic principles (7),
+       so he must be able to say what the social-liberal-democratic principles expressed by
+       social-liberal-democratic institutions are. The problem here is that there are many
+       different articulations of what the principles expressed by social-liberal-institutions
+       are. Even if we accept Floyd’s claim that rates of crime express a political preference
+       for less unequal regimes, this is compatible with several different forms of egalitar-
+       ian principles (e.g., strict egalitarianism, luck egalitarianism, equality of resources,
+       welfare, or capabilities etc.) as well as maximin principles, and arguably even some
+       forms of sufficientarianism and utilitarianism. Even if we accept Floyd’s claim that
+       rates of insurrection express a political preference for democratic regimes with pro-
+       tection of individual liberties, this is compatible with many different accounts of
+       democratic principles (procedural, deliberative, presidential or parliamentarian, with
+       or without judicial review, etc.) and quite different accounts of the nature and extent
+       of individual liberties (e.g., whether freedom of expression allows regulation of hate
+       speech or not, how private property can be regulated and limited, etc.).
+
+[PAGE 12]
+                                                             
+                                                             
+                                                             
+       740                                       S. Lægaard  
+                                                             
+         Floyd spends quite some time providing possible explanations for why social-
+       liberal-democratic institutions fare better in terms of crime and insurrection (2017,
+       pp. 198–210) and reasons why different groups of people should be convinced by
+       his case in favor of social-liberal-democracy (2017, pp. 229–237). But these expla-
+       nations and reasons do not provide an answer to the question about which political
+       principles are expressed by institutions labeled social-liberal-democratic. So there is
+       arguably what might be called a normative determinacy problem facing Floyd’s nor-
+       mative behaviorism that is distinct from the challenges he in fact discusses, namely
+       how we get specific content to the political principles that he wants his type of argu-
+       ment to justify.                                      
+         Just as normative behaviorism gets normativity from the social science account
+       of people’s actual behavior (together with the noted Humean account of reasons),
+       Modood’s normative sociology similarly gets normativity from its account of the
+       contexts it engages with. More specifically, Modood and Thompson’s iterative con-
+       textualist account of how political theory should go from description and interpreta-
+       tion of specific contexts to general normative principles takes its point of departure
+       in the norms and values established in a given context, which are then interpreted
+       and formulated as general principles by the political theorist. They illustrate this by
+       the example of hate-speech laws, where iterative contextualism would start out by
+       interpreting the reasons for such a law in a specific state, articulate a principle justi-
+       fying hate-speech laws on this basis, and then apply this principle to similar laws in
+       other jurisdictions to test and refine it. So iterative contextualism is partly a systema-
+       tization of normative commitments already in place in these contexts.
+         But Modood and Thompson furthermore address the question about the source
+       of normativity and the relation between normative and descriptive. They understand
+       contexts as what they call “normative practices,” by which they mean “networks of
+       norms strongly associated with particular sets of practices” (Modood & Thompson,
+       2018, p. 344). This makes clear that the normative is already “in” the contexts that
+       are studied in the form of norms that inform peoples’ understanding of goods, insti-
+       tutions, and relationships. Modood and Thompson state that “by connecting norms
+       to practices in this way we can avoid the error of assuming that it is possible to infer
+       principles of justice directly from value-free accounts of contexts. Since such con-
+       texts are necessarily normative in character, they are not logically different in kind
+       from the principles which we believe should regulate them” (2018, p. 345).
+         Modood, thus, explicitly engages with potential objections to normative sociol-
+       ogy based on the classical distinction between normative and descriptive, just as
+       Floyd explicitly addresses possible charges against normative behaviorism for being
+       guilty of committing naturalistic fallacies. This is one respect in which the two
+       approaches are similar; they both acknowledge that what they propose can be seen
+       as violations of fact/value distinctions in some sense. However, their responses to
+       these envisaged objections are different. Where Floyd explicitly admits that norma-
+       tive behaviorism infers “ought” from “is” and in this sense bites the bullet, Modood
+       and Thompson claim that normativity was really there all along. Iterative contextu-
+       alism might be said to infer “ought” from “ought”—or, rather, to interpret and sys-
+       tematize normative commitments already present in a given practice. So, where nor-
+       mative behaviorism challenges the strict separation of facts and values head on and
+
+[PAGE 13]
+                                                             
+                                                             
+                                                             
+       Normative sociology and normative behaviorism: recent… 741
+                                                             
+       questions whether it would be a problem if it were guilty of something like a natu-
+       ralistic fallacy, normative sociology rather denies that it makes an inference from
+       “is” to “ought” at all. While this might initially look like a stark difference between
+       normative behaviorism and normative sociology, it is not as stark as it seems. This
+       is because, as discussed previously, normative behaviorism does not really go from
+       “is” to “ought” just like that. Rather, normativity only enters the normative behav-
+       iorist picture in virtue of the assumed Humean account of reasons.
+         However, there is still a difference between the view of normativity in norma-
+       tive behaviorism and in normative sociology, the latter as cashed out in the form of
+       iterative contextualism. The Humean account of reasons in normative behaviorism
+       is a fundamental account of what reasons are and, thus, where normativity comes
+       from. There is no normativity in the social-scientific account of peoples’ actual
+       behavior that forms the first part of the normative behaviorist argument as sketched
+       above. This social-scientific part of the argument (1–4) only deals in facts about
+       actual behavior and facts about the preferences this behavior expresses. The norma-
+       tive sociology picture is fundamentally different. Here, the context is from the outset
+       understood and characterized in terms of norms. This also means that there is no
+       need, and arguably no room, for an account of normativity like the Humean one in
+       normative sociology.                                  
+         Another way of saying this is that, while the two approaches both see social sci-
+       ence as relevant to normative political theory, they have two fundamentally different
+       forms of social science in mind, which assume two fundamentally different ontolo-
+       gies. While Floyd does not subscribe to psychological behaviorism as the view that
+       rejects the existence of mental states, they play no practical role for the social sci-
+       ence on which normative behaviorism relies (2017, pp. 210–211). For epistemic rea-
+       sons, normative behaviorism sees social reality as made up by the observable behav-
+       ior of people. Floyd also allows for institutions as part of social reality, but mainly
+       as independent variables that can contribute to the explanation of changes in observ-
+       able behavior (2017, pp. 216–217), just as he allows an explanatory role of cultures,
+       but again mainly as intermediary mechanisms between institutions and observable
+       behavior (2017, pp 219–220). Modood rather sees the contexts making up social
+       reality as necessarily normative and value-laden practices. This is a view of social
+       reality as already normative, and one where the normativity in question is essential
+       for understanding the social contexts in question. One might say that, while norma-
+       tive behaviorism and normative sociology both take social science to be indispen-
+       sable to normative theorizing, they rely on social science from two fundamentally
+       different social-scientific paradigms.                
+       Scope and granularity                                 
+       Even if one accepts, even just for the sake of argument, Floyd’s assumptions regard-
+       ing crime and insurrection as particularly salient forms of behavior (see Stevens,
+       2023 for criticism of the reliance on these types of data), and even if one accepts
+       the further elements of his argument for social-liberal-democracy on this basis, it is
+       worth noting that Floyd’s version of normative behaviorism has a specific scope and
+                                                             
+                                                             
+
+[PAGE 14]
+                                                             
+                                                             
+                                                             
+       742                                       S. Lægaard  
+                                                             
+       what one might call granularity (cf. Baderin, 2023, pp. 479–480). On Floyd’s own
+       assumption, crime and insurrection are salient forms of behavior in relation to the
+       type of regime in place at the state level. Crime relates to the amount of inequality
+       in society measured at the state level, rather, e.g., than at the global or local levels.
+       Insurrection relates to how state institutions are liberal democratic rather than, e.g.,
+       how the global order allows participation and engagement, or how local government
+       runs local institutions. So Floyd’s brand of normative behaviorism can, on its own
+       assumptions, only ground judgments about the regime type at the state level. It is a
+       state-centric idea which, therefore, has a limited (national) scope (Floyd, 2016 con-
+       siders this problem in relation to extension to the international system).
+         Regarding granularity, Floyd seems to assume that normative behaviorism is
+       not only limited to arguing the preferability of social-liberal-democracy over other
+       forms of regimes but could also say something about the relative preferability of
+       different policies and institutions within social-liberal-democracy, if only social sci-
+       entists could come up with sufficiently fine-grained data (2017, p. 182). The idea,
+       it seems, would be that one could, at least in principle, compare different social-
+       liberal-democracies by looking at the different behaviors exhibited by people living
+       under them and linking these to how they differ at the level of specific policies or
+       institutions.                                         
+         But this is arguably not simply a matter of sufficiently detailed data. Given that
+       the data on which normative behaviorism relies, crime and insurrection, are gen-
+       eral measures calculated at the national level, and given that crime and insurrection
+       are assumed to be uniquely significant precisely as responses to the general type of
+       regime, it seems that normative behaviorism, on its own assumptions, cannot say
+       anything about more specific (sub-regime) political measures, policies, laws, institu-
+       tions, or agents.                                     
+         If this is correct, then normative behaviorism will only provide a methodology for
+       a limited part of political philosophy, namely the one concerned with regime types
+       at the state level. This is of course an important and classic issue in political phi-
+       losophy. But it is far from the only one. Much political philosophy, especially of the
+       more applied kinds, has focused on specific policies, e.g., policies about the regula-
+       tion of franchise, free speech, education, or taxation, or specific types of institutions
+       within a social-liberal-democracy, e.g., citizens’ assemblies, political parties, private
+       schools, or religious communities. If this is not just a question about sufficient data
+       but is rather a matter of the fundamental methodological assumption on which nor-
+       mative behaviorism is based, namely that only behaviors like crime and insurrection
+       are reliable indicators of political preferences, and that these preferences concern
+       fundamental conditions related to types of regimes, it is hard to see how norma-
+       tive behaviorism can be developed to provide a methodology for more fine-grained
+       forms of political philosophy. This would require being able to say which parts of
+       crime and insurrection, or their relative absence, are responses to particular policies
+       or particular institutions, or their absence. The only way of doing this would seem
+       to be if two societies were exactly alike, including in terms of the people living in
+       them, in all respects except one specific law or institution.
+         Turning to normative sociology, Modood and Thompson note that the norma-
+       tive practices on which iterative contextualism focuses “may range considerably in
+
+[PAGE 15]
+                                                             
+                                                             
+                                                             
+       Normative sociology and normative behaviorism: recent… 743
+                                                             
+       size and scale, including the legal, political or educational system of a particular
+       state, and the culture of a specific group of people or of a particular organization
+       within that state” and that “normative practices also exist at regional and global lev-
+       els above individual states” (Modood & Thompson, 2018, p. 345). While Modood
+       has generally worked on national contexts and the examples of contexts provided
+       are also national, it seems that what matters to normative sociology is that one can
+       identify a practice. If this is to be amenable to the iterative contextualist method of
+       discussion, a further requirement is that it must be possible to identify additional
+       practices of a similar type. This is required since iterative contextualism takes politi-
+       cal principles articulated on the basis of investigation of one context and applies
+       these principles to a similar practice in a new context in order to test and potentially
+       further develop the principles in question.           
+         Iterative contextualism only works if it is possible to determine that the additional
+       practices are in fact of the same type so that the articulated principles are principles
+       for the regulation of this kind of practice. This requirement raises some problems for
+       iterative contextualism, since it only makes sense to apply a principle and potentially
+       revise it in light of how it relates to norms in a new context, if the general principle
+       and the contextual norms are indeed about the same kind of practice. This means
+       that there is always a choice between revising a principle in light of a contextual
+       norm or deciding that the new practice is really not an instance of the type of prac-
+       tice that the principle is supposed to regulate (Lægaard, 2019, pp. 965–968). Nor-
+       mative sociology, thus, faces its own version of a normative determinacy problem,
+       since it is arguably always an open question whether a new practice falls within the
+       scope of the principle it considers, in which case the application of the principle
+       to the new practice might result in adjustment of the content of the principle, or
+       whether the new practice falls outside the scope of the principle. This problem for
+       iterative contextualism is in principle independent of the type of scope problem fac-
+       ing normative behaviorism since the fact that a law or institution is at the national
+       level does not settle whether it is of the same type as another law or institution in
+       another national context. Normative sociology employing an iterative contextualist
+       methodology, therefore, seems not to be limited in principle to the national level in
+       the same way that normative behaviorism seems to be, but it does face a problem
+       similar to the normative determinacy problem facing the latter.
+       “Direction of fit” between facts and values           
+       Normative behaviorism and normative sociology both take social science to be cru-
+       cial to normative political theorizing, but as shown they have different ideas about
+       both what normativity is and what kind of social science is relevant. But there turns
+       out to be an additional difference between the two approaches and how they see the
+       relation between facts and values. One might frame this as a matter of the “direction
+       of fit” between facts and values or between the normative and the descriptive.
+         Normative behaviorism is quite clear on this. The point of departure is the wish to
+       be able to answer a specific question about how we ought to live and the assumption
+       that this cannot be done in the mentalist way in which traditional political philosophy
+                                                             
+                                                             
+
+[PAGE 16]
+                                                             
+                                                             
+                                                             
+       744                                       S. Lægaard  
+                                                             
+       according to Floyd has approached it. Add to this the assumption that behavior, and
+       more specifically crime and insurrection, are the only reliable expressions of political
+       preferences and the Humean account of reasons, the picture is one in which the facts
+       about behavior and the political preferences it expresses determine the values. Norma-
+       tive behaviorism, thus, offers a methodology for normative political theory in a funda-
+       mental sense, since it not only tells the political theorist what to do but also explains
+       how this becomes normative in the first place. This is one in which the values (or,
+       rather, political principles) should fit with the facts (political preferences as expressed
+       by actual behavior).                                  
+         Normative sociology is different in several ways. One difference is the already noted
+       one that normative sociology relies on an understanding of social reality as already nor-
+       mative. So where normative behaviorism seeks to base the normative on the descriptive,
+       the iterative contextualism part of normative sociology rather sees normative theorizing
+       as a refinement of something already normative. However, there is an additional and dis-
+       tinct difference. As noted earlier, Modood describes his approach as a hybrid of norma-
+       tive political theory and empirical political sociology. But the normative and the socio-
+       logical is mixed in a way where the former directs the latter: “my empirical analyses are
+       informed by advocacy, by making, say, a multiculturalist case” (2019, p. 17). Modood
+       notes that most sociology already has a normative character (2019, p. 20) in the sense
+       that it is motivated by specific normative concerns, which are simply often not acknowl-
+       edged or, if they are, are not explicitly and systematically justified. He adds that:
+         While such sociology clearly has a normative character and is explicitly politically
+         interventionist and intended to change, subvert, or disrupt some aspect of society,
+         it is not in full what I meant by “normative sociology” because it mainly applied
+         normative ideas to understand aspects of society, how it worked, including how
+         oppression operated, how it could be changed, and so on. But it did not examine
+         and justify the normative ideas it applied. Normative sociology proper should do
+         both: it should justify the normative ideas it deploys (Modood, 2022, p. 1).
+       So, what is distinctive about normative sociology as Modood sees it is that sociology
+       not only uses concepts that are motivated and formulated on the basis of normative
+       concerns, but that it is also a part of such theory to examine and justify these normative
+       assumptions.                                          
+         This paints a picture of normative sociology where the normative values direct
+       and provide the conceptual framework for the sociological investigation, and where
+       the discussion and justification of these values (by means of the iterative contextualist
+       approach described earlier) is part of the sociological theory in order to provide norma-
+       tive grounding for sociology (2022, p. 2). This is a picture in which the facts (or, rather,
+       the social science) should fit with the values.       
+       What do the differences imply for how to do political theory?
+       I have now compared normative behaviorism and normative sociology in four
+       respects. These respects have been chosen for examination because they both pick
+       out aspects in which the two approaches depart from a traditional understanding
+                                                             
+                                                             
+                                                             
+
+[PAGE 17]
+                                                             
+                                                             
+                                                             
+       Normative sociology and normative behaviorism: recent… 745
+                                                             
+       of the relation between social science and normative political theory, and because
+       they on closer inspection also reveal important differences between the two
+       approaches. One might say that while both approaches offer alternatives to the
+       traditional view of the relation between empirical social science and normative
+       political theory, they offer alternatives that in these respects go in quite different
+       directions.                                           
+         While the two approaches both base their views about relevant facts and data
+       on what might be called their expressive value, normative behaviorism is com-
+       mitted to a number of epistemic claims about the evidentiary value of behavior
+       that normative sociology has to reject. The normative behaviorist argument is
+       epistemic in the sense that it is purely motivated by these assumptions about what
+       can function as reliable evidence, whereas normative sociology is primarily moti-
+       vated on normative grounds concerning representation of minority claims-mak-
+       ing and respect for established norms as values in their own right.
+         Normative behaviorism infers “ought” from “is” since it bases principles on
+       purely descriptive claims about preferences that only gets normative force when
+       combined with the Humean account of reasons. Normative sociology rather infers
+       “ought” from “ought” since it bases principles on norms and values identified in
+       contexts understood as already normative practices. Normative sociology, thus,
+       has no need and no room for a Humean account of reasons. The two approaches
+       accordingly have two fundamentally different forms of social science in mind, the
+       one positive and providing a picture of social reality where values play no part,
+       the other interpretative and providing a picture of social reality where values are
+       indispensable.                                        
+         Both approaches face versions of what might be called a normative determinacy
+       problem; normative behaviorism depends on interpretation that cannot be had on
+       behaviorist grounds to get specific content to the political principles that the nor-
+       mative behaviorist argument seeks to justify, whereas normative sociology always
+       needs to make a choice that cannot be contextually grounded about whether a new
+       practice falls within the scope of a principle under consideration or not.
+         Normative behaviorism holds that values (political principles) should fit with
+       the facts (political preferences as expressed by actual behavior), whereas norma-
+       tive sociology holds that values direct and provide the conceptual framework for
+       the sociological investigation, and where the discussion and justification of these
+       values is part of sociological theory. The respective understandings of social
+       science are, thus, also different in the further sense that normative behaviorism
+       assumes a value-free social science whereas normative sociology affirms a value-
+       laden social science.                                 
+         These differences mean that, while the two approaches at a general level agree
+       in rejecting the traditional view of the relation between normative political theory
+       and empirical social science, the specific details of the ways in which they depart
+       from such a view show that they might be more distant from each other than
+       from the traditional view they both reject. These differences will have different
+       methodological implications. This is most evident in the different views of social
+       science that the two approaches assume, which mean that quite different meth-
+       ods, empirical data, and types of investigations will be relevant. The epistemic
+
+[PAGE 18]
+                                                             
+                                                             
+                                                             
+       746                                       S. Lægaard  
+                                                             
+       strictures underlying normative behaviorism will limit the relevant types of meth-
+       ods and data, generally in behaviorist, externalist, and quantitative directions,
+       whereas the understanding of practices as already normative will lead normative
+       sociology towards embracing much more interpretative, internalist and qualitative
+       methods of investigation. Not only are the theoretical assumptions underlying the
+       two approaches incompatible in a number of respects (both the epistemic assump-
+       tions about evidentiary value, the meta-ethical theories of normative reasons, and
+       the assumed social ontology), the practical methods recommended by the two
+       approaches will also be different—in some cases to the extent that the methods
+       recommended by one approach will be ruled out as inappropriate by the other.
+         One might think that these differences are of little relevance if one finds the two
+       views unconvincing. I have along the way indicated that both views face some chal-
+       lenges, e.g., the two noted normative determinacy problems, and one might further-
+       more be unconvinced by elements of each view, e.g., Floyd’s criticism of mentalism,
+       his assumptions about the evidentiary value of crime and insurrection, or his claims
+       about what can be justified on this basis, or Modood’s aim of basing normative
+       sociology on minority claims-making. But if one brackets these questions about the
+       specific substantive elements of the two views, the comparison of them still yields
+       lessons of broader relevance. The two views represent types of departures from a
+       traditional strict distinction between facts and values or the normative and descrip-
+       tive parts of political theory. So, whether or not one is convinced by these particular
+       proposals, the comparison reveals some features of the conceptual space for meth-
+       odological views about the relation between social science and normative political
+       theory that will be relevant to other views than the two discussed here. One of these
+       features is that, as soon as one considers alternatives to the traditional view, it is not
+       only the view of the normative that is challenged; the view of the factual, here the
+       understanding of social science, is also part of what should be accounted for—and
+       this can be done in different ways. Raising the question of how facts are relevant to
+       values is, thus, not only a challenge to normative political theory; it at the same time
+       raises the parallel question concerning how values are relevant to social science. As
+       noted, this is both a matter of the kind of social science and the social ontology
+       social science assumes (whether values are part of the picture of social reality), it is
+       also a matter of how values (beyond strictly epistemic values) direct social science.
+       The discussion of facts in normative political theory, thus, connects to the broader
+       discussion of values in science (e.g., Elliott, 2022).
+         The discussion of the relation between facts and values is not meta-ethical but
+       methodological in the sense that it will have implications for what political theo-
+       rists should do (see Maynard, 2022 on the distinction between meta-ethics, meth-
+       odology, and methods). The comparison shows how specific views of the relation
+       between facts and values link to specific views of social science, which in turn will
+       imply that some methods will be relevant, and others will not. Normative behavior-
+       ism for instance means that political theorists should not use traditional “mentalist”
+       methods such as thought experiments designed to elicit considered judgments but
+       should rather rely on (or themselves conduct) empirical experiments, while norma-
+       tive sociology will reject theoretical arguments for normative principles if they have
+       not taken the expressed views of minorities whose situation are to be assessed by
+
+[PAGE 19]
+                                                             
+                                                             
+                                                             
+       Normative sociology and normative behaviorism: recent… 747
+                                                             
+       these principles into account. But these are just examples of how alternative views
+       of the relation between facts and values might change our understanding of what
+       normative political theorists should do and which methods are appropriate in politi-
+       cal theory—and which are in turn likely to have significant implications for the nor-
+       mative conclusions arrived at.                        
+       Funding Open access funding provided by Roskilde University.
+       Data availability Not applicable.                     
+                                                             
+       Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+       which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long
+       as you give appropriate credit to the original author(s) and the source, provide a link to the Creative
+       Commons licence, and indicate if changes were made. The images or other third party material in this
+       article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line
+       to the material. If material is not included in the article’s Creative Commons licence and your intended
+       use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permis-
+       sion directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/
+       licenses/by/4.0/.                                     
+       References                                            
+                                                             
+       Baderin, A. (2023) Behaviour and thoughts: For a pluralistic model of empirically informed political phi-
+         losophy. Political Studies Review 21: 476–482.      
+       Bauböck, R. (2008) Normative political theory and empirical research. In D. Della Porta and M. Keat-
+         ing (eds.) Approaches and methodologies in the social sciences. Cambridge University Press, pp.
+         40–60.                                              
+       Berlin, I. (2013) Does political theory still exist? In H. Hardy (ed.) Concepts and categories: Philosophi-
+         cal essays 2nd edn, pp. 187–225. Princeton University Press.
+       De Vries, R. and Gordijn, B. (2009) Empirical ethics and its alleged meta-ethical fallacies. Bioethics,
+         23(4): 193–201.                                     
+       Dodd, J. and Stern-Gillet, S. (1995) The is/ought gap, the fact/value distinction and the naturalistic fal-
+         lacy. Dialogue 34: 727–746.                         
+       Dowding, K. (2020) The relationship between political philosophy and political science. Australian Jour-
+         nal of Political Science 55: 432–444.               
+       Dowding, K. (2023) Behavioural evidence, yes; normative behaviourism, no. Political Studies Review 21:
+         447–453.                                            
+       Elliott, K. (2022) Values in science. Cambridge University Press.
+       Erman, E. and Möller, N. (2023) Does normative behaviourism offer an alternative methodology in polit-
+         ical theory? Political Studies Review 21: 454–461.  
+       Floyd, J. (2016) Normative behaviourism and global political principles. Journal of International Politi-
+         cal Theory 12: 152–168.                             
+       Floyd, J. (2017) Is political philosophy impossible? Thoughts and behaviour in normative political the-
+         ory. Cambridge University Press.                    
+       Floyd, J. (2020) Normative behaviourism as a solution to four problems in realism and non-ideal theory.
+         Critical Review of International Social and Political Philosophy 23: 137–162.
+       Floyd, J. (2022) Political philosophy’s methodological moment and the rise of public political philoso-
+         phy. Society 59: 129–139.                           
+       Floyd, J. (2023) Can real actions justify realist principles? Normative behaviourism as a member of the
+         realist family. Critical Review of International Social and Political Philosophy 26: 356–375.
+       Gerring, J. and Yesnowitz, J. (2006) A normative turn in political science? Polity 38: 101–133.
+
+[PAGE 20]
+                                                             
+                                                             
+                                                             
+       748                                       S. Lægaard  
+                                                             
+       Graham, G. (2023) Behaviorism. In E.N. Zalta and U. Nodelman (eds.) The Stanford encyclopedia of
+         philosophy. (Spring 2023 edn). Retrieved November 16, 2023, from https:// plato. stanf ord. edu/ archi
+         ves/ spr20 23/ entri es/ behav iorism/).            
+       Grant, R.W. (2002) Political theory, political science, and politics. Political Theory 30: 577–595.
+       Levey, G.B. (2019) The Bristol school of multiculturalism. Ethnicities 19: 200–226.
+       Lægaard, S. (2019) Contextualism in normative political theory and the problem of critical distance. Eth-
+         ical Theory and Moral Practice 22: 953–970.         
+       Maynard, J.L. (2022) Political realism as methods not metaethics. Ethical Theory and Moral Practice 25:
+         449–463.                                            
+       Miller, D. (2023) Why normative behaviorialism fails. Political Studies Review 21: 441–446.
+       Modood, T. (2019) Essays on secularism and multiculturalism. Rowman & Littlefield.
+       Modood, T. (2022) Bristol school of multiculturalism as normative sociology. Civic Sociology 3(1):
+         57379. https:// doi. org/ 10. 1525/ cs. 2022. 57379.
+       Modood, T. (2023) Empirical and normative without a universal human nature. Political Studies Review
+         21: 462–468.                                        
+       Modood, T. and Thompson, S. (2018) Revisiting contextualism in political theory: Putting principles into
+         context. Res Publica 24: 339–357.                   
+       Perez, N. (2020) What are data good for anyway? A typology of usages of data in contemporary political
+         theory. Social Theory and Practice 46: 339–364.     
+       Perez, N. (2023) How much data for the political theorist? On the argumentative normative behaviour-
+         ism. Political Studies Review 21: 469–475.          
+       Perez, N. (2024) Empirical political theory: A template for a research design and a qualified defense.
+         Political Studies Review. https:// doi. org/ 10. 1177/ 14789 29924 12317 82.
+       Stevens, S. (2023) Normative behaviourism: Groups it cannot reach? Critical Review of International
+         Social and Political Philosophy. https:// doi. org/ 10. 1080/ 13698 230. 2023. 22811 49.
+       Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published maps
+       and institutional affiliations.                       
+       Sune Lægaard , Ph.D., is associate dean for education at the department of communication and arts at
+       Roskilde University in Denmark. He works in political philosophy on issues related to nationalism and
+       multiculturalism, including debates about toleration, politics and religion, and free speech. He is also
+       engaged in debates about the methodology of political theory where he has published on contextualism in
+       normative polical theory. He is editor-in-chief of the journal Res Publica (published by Springer).
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             
+                                                             

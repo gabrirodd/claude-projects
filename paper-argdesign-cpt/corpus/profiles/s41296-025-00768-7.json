@@ -1,0 +1,76 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "white_2025",
+  "title": "Imagining democratic insurgency: enthusiasm, sublimity, and finitude",
+  "author": "White",
+  "year": 2025,
+  "journal": "Contemporary Political Theory",
+
+  "opening_move": {
+    "type": "conceptual_gap",
+    "description": "The paper diagnoses a gap in accounts of sublimity in political theory: recent aesthetico-affective approaches treat sublimity as a dissensual, disruptive force, but neglect an older tradition linking sublimity to democratic collective binding — and neither tradition can adequately distinguish democratic from fascist enthusiasm.",
+    "anchored_in": ["Kant", "Connolly", "Robespierre", "Rancière"],
+    "stakes_claimed": "Without a 'bivalent sublimity' encompassing both enthusiasm and sobering finitude, democratic insurgency cannot be distinguished from proto-fascist collective energism"
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["Connolly (sympathetically)", "Honig", "Frank", "Rancière", "Sorel", "fascist political aesthetics"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": true,
+    "own_position_type": "synthesis",
+    "own_position_explicit": true,
+    "description": "The paper engages Connolly's political aesthetics in a dual mode — critical of the undertheorised distinction between democratic and fascist enthusiasm, but constructive in drawing on Connolly's identity/difference ontology to build a 'sobering sublimity' out of finitude."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_interpretive_case",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "close reading of Kant, Connolly, Burke, Sorel, Nietzsche; political-aesthetic analysis; 18th-century intellectual history",
+    "notes": "Uses historical/philosophical cases (Robespierre, fascist aesthetics, Msezane's performance art, MLK's letter from Birmingham) as illustrative interpretive material, not systematic evidence."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "historical_event",
+    "case_name": "Connolly's myth of the general strike; fascist rally aesthetics; Msezane's performance art; MLK's Letter from Birmingham Jail",
+    "case_function": "illustration",
+    "case_relation_to_argument": "illustrative_and_generative",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "democratic theory / political aesthetics",
+    "claim_type": "prescriptive",
+    "closure_type": "strong_normative_conclusion"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "conceptual_distinction",
+    "case_introduction",
+    "immanent_critique",
+    "framework_proposal",
+    "counter_objection_response",
+    "normative_derivation",
+    "conclusion_strong"
+  ],
+
+  "reflexive_move": true,
+
+  "key_concepts": ["sublimity", "finitude", "democratic insurgency", "bivalent sublimity", "sobering sublime", "enthusiastic sublime"],
+
+  "thinkers_deployed": {
+    "central": ["Connolly", "Kant"],
+    "engaged_critically": ["Connolly", "Honig", "Frank", "Sorel"],
+    "referenced_only": ["Rancière", "Robespierre", "Burke", "Nietzsche", "Stanley", "Lyotard", "Msezane"]
+  },
+
+  "confidence_notes": "Full-length research article (19 pages). The argument is fully normative-interpretive: no empirical data but extensive philosophical case analysis. The 'interpretive case' designation reflects use of historical examples as theoretical lenses rather than constitutive evidence."
+}

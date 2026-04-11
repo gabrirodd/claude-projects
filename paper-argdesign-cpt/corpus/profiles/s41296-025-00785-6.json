@@ -1,0 +1,72 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "royer_2025",
+  "title": "Thinking about democracy in turbulent times [Book Review]",
+  "author": "Royer",
+  "year": 2025,
+  "journal": "Contemporary Political Theory",
+
+  "opening_move": {
+    "type": "polemical_intervention",
+    "description": "The review opens by endorsing Keane's diagnosis of 'professional thoughtlessness' in democratic theory, but immediately deflates it: Keane himself fails to deliver on his promise of 'radically unorthodox' thinking.",
+    "anchored_in": ["Keane"],
+    "stakes_claimed": "Democratic theory needs radical rethinking — but this book does not provide it, making the review a diagnostic of the field's unmet demand"
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["Keane's monitory democracy framework"],
+    "engagement_structure": "immanent_critique",
+    "immanent_critique": true,
+    "own_position_type": "external_alternative",
+    "own_position_explicit": false,
+    "description": "The review is a critical assessment of Keane's lectures — sympathetic to the ambition, critical of the execution; the reviewer argues the book fails to transcend the 'professional thoughtlessness' it diagnoses."
+  },
+
+  "epistemic_mode": {
+    "primary": "fully_normative",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "close reading and critical evaluation of Keane's argument",
+    "notes": "Book review genre with strong critical stance."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "philosophical_text",
+    "case_name": "Keane, Thinking About Democracy in Turbulent Times (2025)",
+    "case_function": "primary_object_of_analysis",
+    "case_relation_to_argument": "object_of_interpretation",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "medium",
+    "domain": "democratic theory / methodology",
+    "claim_type": "critical_diagnostic",
+    "closure_type": "open_ended_with_burden_on_reader"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "case_introduction",
+    "case_development",
+    "immanent_critique",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["professional thoughtlessness", "monitory democracy", "democratic theory", "turbulent times", "critical thinking", "radical rethinking"],
+
+  "thinkers_deployed": {
+    "central": ["Keane"],
+    "engaged_critically": ["Keane"],
+    "referenced_only": []
+  },
+
+  "confidence_notes": "Book review genre. Notable as a genuinely critical (negative) review rather than an appreciative one — the reviewer argues the book fails to deliver on its own ambition."
+}

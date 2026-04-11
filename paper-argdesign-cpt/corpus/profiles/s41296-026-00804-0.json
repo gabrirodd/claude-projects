@@ -1,0 +1,71 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "fanga_2026",
+  "title": "We are free to change the world: Hannah Arendt's lessons in love and disobedience [Book Review]",
+  "author": "Fanga",
+  "year": 2026,
+  "journal": "Contemporary Political Theory",
+
+  "opening_move": {
+    "type": "interpretive_proposition",
+    "description": "The review opens by presenting Stonebridge's book as a timely and profound exploration of Arendt's enduring relevance for resisting authoritarianism, mendacity, and dehumanisation in the twenty-first century — framing Arendt not as a historical figure but as a 'vibrant and necessary companion'.",
+    "anchored_in": ["Stonebridge", "Arendt", "totalitarianism"],
+    "stakes_claimed": "Arendt's philosophy of freedom, love, and disobedience offers hard-won strategies for survival and resistance in contemporary dark times"
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["purely historical readings of Arendt", "abstract academic Arendtian scholarship"],
+    "engagement_structure": "absence_critique",
+    "immanent_critique": false,
+    "own_position_type": "none",
+    "own_position_explicit": false,
+    "description": "Appreciative and expository review of Stonebridge's accessible intellectual biography-cum-political argument. The reviewer endorses Stonebridge's approach of weaving biography with philosophical analysis to make Arendt practically relevant."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_interpretive_case",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "close reading of Stonebridge; intellectual biography; engagement with Arendt's major concepts",
+    "notes": "Book review (4 pages). Primarily expository and appreciative. The review presents Stonebridge's normative argument (Arendt as guide for contemporary resistance) without independent critique."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "philosophical_text",
+    "case_name": "Stonebridge, We Are Free to Change the World: Hannah Arendt's Lessons in Love and Disobedience (2024)",
+    "case_function": "primary_object_of_analysis",
+    "case_relation_to_argument": "object_of_interpretation",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "medium",
+    "domain": "freedom / resistance / authoritarianism / political action",
+    "claim_type": "reconstructive",
+    "closure_type": "open_ended_with_burden_on_reader"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "case_introduction",
+    "case_development",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["political freedom", "civil disobedience", "love and politics", "thoughtlessness", "dark times", "Arendtian political action"],
+
+  "thinkers_deployed": {
+    "central": ["Arendt", "Stonebridge"],
+    "engaged_critically": [],
+    "referenced_only": ["Benjamin", "Jaspers", "Kafka", "Goethe"]
+  },
+
+  "confidence_notes": "Book review (4 pages). Primarily expository. The normative stake is medium rather than high because the reviewer does not independently advance the argument — Stonebridge's argument is reported, not developed."
+}

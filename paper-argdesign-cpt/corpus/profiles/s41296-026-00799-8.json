@@ -1,0 +1,72 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "tampio_2026",
+  "title": "Elites and democracy [Book Review]",
+  "author": "Tampio",
+  "year": 2026,
+  "journal": "Contemporary Political Theory",
+
+  "opening_move": {
+    "type": "polemical_intervention",
+    "description": "The review opens with the reviewer's personal puzzlement about 'elite theory of democracy' as an oxymoron — a direct polemical framing that Drochon's book has now clarified, though the reviewer still rejects calling these theorists 'democrats'.",
+    "anchored_in": ["Drochon", "Mosca", "Pareto", "Michels", "Schumpeter"],
+    "stakes_claimed": "Elite theory, despite its anti-democratic assumptions, must be grappled with by anyone theorising participatory democracy in the modern world"
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["elite theory of democracy (Mosca, Pareto, Michels, Schumpeter)", "proceduralist democracy (Schumpeter)", "participatory democracy"],
+    "engagement_structure": "immanent_critique",
+    "immanent_critique": true,
+    "own_position_type": "external_alternative",
+    "own_position_explicit": true,
+    "description": "The review critically assesses Drochon's intellectual history of elite democratic theory, endorsing the historical reconstruction while rejecting the normative label 'democrat' for these theorists. The reviewer defends participatory democracy against elitist alternatives."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_interpretive_case",
+    "secondary": null,
+    "empirical_evidence_present": false,
+    "empirical_evidence_role": "absent",
+    "quantitative_methods": null,
+    "qualitative_methods": null,
+    "data_sources": [],
+    "interpretive_methods": "intellectual history; close reading of elite theorists and Drochon's reconstruction",
+    "notes": "Book review (4 pages). Primarily expository with normative critique. The reviewer's own normative commitment to participatory democracy shapes the assessment."
+  },
+
+  "case_type": {
+    "has_case": true,
+    "case_medium": "philosophical_text",
+    "case_name": "Drochon, Elites and Democracy (2026)",
+    "case_function": "primary_object_of_analysis",
+    "case_relation_to_argument": "object_of_interpretation",
+    "case_selection_justified": true
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "democracy / elitism / political theory",
+    "claim_type": "critical_diagnostic",
+    "closure_type": "open_ended_with_burden_on_reader"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "case_introduction",
+    "case_development",
+    "immanent_critique",
+    "conclusion_open"
+  ],
+
+  "reflexive_move": false,
+
+  "key_concepts": ["elite theory of democracy", "participatory democracy", "iron law of oligarchy", "democratic elitism", "sovereign power"],
+
+  "thinkers_deployed": {
+    "central": ["Drochon", "Mosca", "Pareto", "Michels", "Schumpeter"],
+    "engaged_critically": ["elite theory of democracy"],
+    "referenced_only": ["Dahl", "Mills (C. Wright)", "Machiavelli (implied)"]
+  },
+
+  "confidence_notes": "Book review (4 pages). The reviewer's explicit normative position (participatory democracy) distinguishes this from a purely expository review."
+}

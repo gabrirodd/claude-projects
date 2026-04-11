@@ -1,0 +1,76 @@
+{
+  "_schema_version": "1.0",
+  "paper_id": "bonotti_nwokora_2025",
+  "title": "Free speech and social change: a public reason approach",
+  "author": "Bonotti, Nwokora",
+  "year": 2025,
+  "journal": "Contemporary Political Theory",
+
+  "opening_move": {
+    "type": "conceptual_gap",
+    "description": "The paper opens by diagnosing a legitimacy crisis for free speech in contemporary liberal democracies: social changes (individualism, migration, post-truth, cognitive biases, technology) have altered the empirical context in which the three classical arguments for free speech were developed, requiring their re-evaluation.",
+    "anchored_in": ["Rawls (public reason)", "Mill", "liberal free speech tradition"],
+    "stakes_claimed": "The protection of free speech must be re-legitimized through a 'public reason test' that accounts for social change; without this, free speech protections lose their democratic justification"
+  },
+
+  "theoretical_positioning": {
+    "rivals_engaged": ["truth argument for free speech (Mill)", "autonomy argument for free speech", "democracy argument"],
+    "engagement_structure": "dialectical_contrast",
+    "immanent_critique": true,
+    "own_position_type": "middle_way",
+    "own_position_explicit": true,
+    "description": "The paper conducts a systematic re-evaluation of the three main arguments for free speech through the lens of Rawlsian public reason, arguing that only the democracy argument survives the test of contemporary social change."
+  },
+
+  "epistemic_mode": {
+    "primary": "normative_with_qualitative_empirical",
+    "secondary": null,
+    "empirical_evidence_present": true,
+    "empirical_evidence_role": "supportive",
+    "quantitative_methods": null,
+    "qualitative_methods": "qualitative analysis of social change processes (individualism, migration, post-truth, cognitive bias research, technological change)",
+    "data_sources": ["cognitive bias research literature", "post-truth communication studies"],
+    "interpretive_methods": null,
+    "notes": "The paper uses empirical descriptions of social change processes to assess the viability of normative arguments — empirical material is supportive but not constitutive of the normative conclusion."
+  },
+
+  "case_type": {
+    "has_case": false,
+    "case_medium": "none",
+    "case_name": null,
+    "case_function": "none",
+    "case_relation_to_argument": "none",
+    "case_selection_justified": false
+  },
+
+  "normative_stake": {
+    "level": "high",
+    "domain": "democratic theory / free speech / constitutional law",
+    "claim_type": "prescriptive",
+    "closure_type": "strong_normative_conclusion"
+  },
+
+  "move_sequence": [
+    "puzzle_diagnosis",
+    "rival_mapping",
+    "method_justification",
+    "immanent_critique",
+    "immanent_critique",
+    "framework_proposal",
+    "counter_objection_response",
+    "meta_reflexive_qualification",
+    "conclusion_strong"
+  ],
+
+  "reflexive_move": true,
+
+  "key_concepts": ["public reason", "free speech", "truth argument", "autonomy argument", "democracy argument", "social change"],
+
+  "thinkers_deployed": {
+    "central": ["Rawls", "Mill"],
+    "engaged_critically": ["Mill (truth argument)", "autonomy theorists"],
+    "referenced_only": ["Brink", "Bonotti & Seglow", "Brown", "Abrams", "Grimm"]
+  },
+
+  "confidence_notes": "Full-length article (21 pages). The 'normative_with_qualitative_empirical' classification reflects the paper's use of social science descriptions of five change processes as inputs to the normative argument; the argument itself is normative-analytical."
+}
