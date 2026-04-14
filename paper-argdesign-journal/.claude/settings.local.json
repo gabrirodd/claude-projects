@@ -62,7 +62,12 @@
       "Bash(mkdir -p /Users/Gabri/Desktop/claude/paper-argdesign-cpt/corpus/texts)",
       "Bash(mkdir -p /Users/Gabri/Desktop/claude/paper-argdesign-cpt/corpus/profiles)",
       "Bash(mkdir -p /Users/Gabri/Desktop/claude/paper-argdesign-cpt/outputs)",
-      "Bash(mkdir -p /Users/Gabri/Desktop/claude/paper-argdesign-cpt/scripts)"
+      "Bash(mkdir -p /Users/Gabri/Desktop/claude/paper-argdesign-cpt/scripts)",
+      "Bash(python3 -c \"import weasyprint; print\\('weasyprint ok'\\)\")",
+      "Bash(brew list:*)",
+      "Bash(pip3 list:*)",
+      "Bash(pip3 install:*)",
+      "Bash(python -c ':*)"
     ]
   }
 }
