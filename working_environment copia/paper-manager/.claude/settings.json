@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dd if=\"/Users/Gabri/.claude/projects/-Users-Gabri-Desktop-claude-working-environment-paper-manager/c3c85e9f-cdaf-4f6e-95e5-243582141861/tool-results/mcp-zotero-zotero_get_item_fulltext-1775752954345.txt\" bs=1 skip=100000)",
+      "Bash(python3 -c ':*)",
+      "Read(//Users/Gabri/Desktop/claude/paper-argdesign-journal/outputs/**)",
+      "Read(//Users/Gabri/Desktop/claude/paper-argdesign-psc/outputs/**)",
+      "mcp__zotero__zotero_get_collections",
+      "Bash(python3 -c \"import json; data=json.load\\(open\\('/Users/Gabri/.claude/projects/-Users-Gabri-Desktop-claude-working-environment-copia-paper-manager/961aa908-5440-431b-b1fa-a3b8192b2d4a/tool-results/mcp-zotero-zotero_get_item_fulltext-1776297381934.txt'\\)\\); print\\(list\\(data.keys\\(\\)\\)\\); print\\('result length:', len\\(data['result']\\)\\)\")",
+      "Bash(python3 -c \"import json; d=json.load\\(open\\('/Users/Gabri/.claude/projects/-Users-Gabri-Desktop-claude-working-environment-copia-paper-manager/961aa908-5440-431b-b1fa-a3b8192b2d4a/tool-results/toolu_01F7rAcRV52tBMJVnirgKH2n.txt'\\)\\); print\\(type\\(d\\), list\\(d.keys\\(\\)\\) if isinstance\\(d,dict\\) else 'list'\\); print\\('result length:', len\\(d.get\\('result',''\\)\\)\\)\")",
+      "Bash(python3 -c \"import sys; text = sys.stdin.read\\(\\); print\\(text[4000:12000]\\)\")",
+      "Bash(python3 -c ' *)",
+      "Bash(python3 -c \"import json; d=json.load\\(open\\('/Users/Gabri/.claude/projects/-Users-Gabri-Desktop-claude-working-environment-copia-paper-manager/961aa908-5440-431b-b1fa-a3b8192b2d4a/tool-results/toolu_01PGYRoSnUeUV7Wq7R47JR1w.txt'\\)\\); print\\(list\\(d.keys\\(\\)\\)\\); print\\(len\\(d['result']\\)\\)\")",
+      "Bash(python3 -c \"import json; data=json.load\\(open\\('/Users/Gabri/.claude/projects/-Users-Gabri-Desktop-claude-working-environment-copia-paper-manager/961aa908-5440-431b-b1fa-a3b8192b2d4a/tool-results/mcp-zotero-zotero_get_item_fulltext-1776297381934.txt'\\)\\); print\\('result length:', len\\(data['result']\\)\\); print\\('---FIRST 3000---'\\); print\\(data['result'][:3000]\\)\")",
+      "Bash(python3 -c \"import sys; text = sys.stdin.read\\(\\); print\\(len\\(text\\)\\); print\\('---'\\); print\\(text[12000:22000]\\)\")",
+      "Bash(python3 -c \"import sys; text = sys.stdin.read\\(\\); print\\(text[22000:35000]\\)\")",
+      "Bash(python3 -c \"import sys; text = sys.stdin.read\\(\\); print\\(text[35000:50000]\\)\")",
+      "Bash(python3 -c \"import sys; text = sys.stdin.read\\(\\); print\\(text[50000:65000]\\)\")",
+      "Bash(python3 -c \"import sys; text = sys.stdin.read\\(\\); print\\(text[65000:]\\)\")"
+    ],
+    "additionalDirectories": [
+      "/Users/Gabri/Desktop/claude/working_environment/paper-manager/notes",
+      "/Users/Gabri/Desktop/claude/working_environment copia/paper-manager/First Review"
+    ]
+  }
+}
