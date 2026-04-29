@@ -4,10 +4,18 @@
       "Read(//Users/Gabri/Desktop/claude/working_environment/**)",
       "Read(//Users/Gabri/Desktop/paper-newmat/**)",
       "mcp__zotero__zotero_search_collections",
-      "mcp__zotero__zotero_get_collection_items"
+      "mcp__zotero__zotero_get_collection_items",
+      "Bash(mkdir -p \"/Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico\")",
+      "Read(//Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/**)",
+      "mcp__zotero__zotero_get_item_metadata",
+      "mcp__zotero__zotero_get_item_fulltext",
+      "Bash(jq -r '.result' /Users/Gabri/.claude/projects/-Users-Gabri-Desktop-claude-working-environment-Doc-extraction/4e6358cb-bad1-4fd8-b51f-5051b9acd1e1/tool-results/mcp-zotero-zotero_get_item_fulltext-1777473090739.txt)",
+      "Read(//tmp/**)"
     ],
     "additionalDirectories": [
-      "/Users/Gabri/Desktop/claude/working_environment/Doc-extraction/.claude"
+      "/Users/Gabri/Desktop/claude/working_environment/Doc-extraction/.claude",
+      "/Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico",
+      "/tmp"
     ]
   }
 }
