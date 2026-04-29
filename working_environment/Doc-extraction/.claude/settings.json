@@ -10,7 +10,18 @@
       "mcp__zotero__zotero_get_item_metadata",
       "mcp__zotero__zotero_get_item_fulltext",
       "Bash(jq -r '.result' /Users/Gabri/.claude/projects/-Users-Gabri-Desktop-claude-working-environment-Doc-extraction/4e6358cb-bad1-4fd8-b51f-5051b9acd1e1/tool-results/mcp-zotero-zotero_get_item_fulltext-1777473090739.txt)",
-      "Read(//tmp/**)"
+      "Read(//tmp/**)",
+      "mcp__zotero__zotero_get_pdf_outline",
+      "Bash(grep -v '^[a-zA-Z,.]$' /tmp/hayles_wm.txt)",
+      "Bash(grep -v '^$')",
+      "Bash(grep -v '^[0-9]\\\\+$')",
+      "Bash(awk 'length\\($0\\) > 3' /tmp/hayles_wm.txt)",
+      "Bash(grep -n \"^8$\\\\|^C$\\\\|^H$\\\\|^A$\\\\|^P$\\\\|^T$\\\\|^E$\\\\|^R\\\\b\" /tmp/hayles_wm.txt)",
+      "Bash(grep -n \"Inhabiting\\\\|Johnny Truant\\\\|Navidson\\\\|Zampan\\\\|blue word\\\\|the word house\\\\|palimpsest\\\\|typographically\\\\|Chapter Eight\\\\|8\\\\s*$\" /tmp/hayles_wm.txt)",
+      "Bash(awk 'NR>=6470 && NR<=6700' /tmp/hayles_wm.txt)",
+      "Bash(grep -n \"^Introduction$\\\\|^1\\\\b\\\\|^2\\\\b\\\\|^3\\\\b\\\\|^4\\\\b\\\\|^5\\\\b\\\\|^6\\\\b\\\\|^7\\\\b\\\\|Worm\\\\|Protocol\\\\.\\\\|protocol\\\\.\\\\|Physical Media\\\\|Form\\\\b\\\\|Power\\\\b\\\\|Failures\\\\|Hacking\\\\|Tactical\\\\|Internet Art\\\\|Conclusion\\\\b\" /tmp/galloway.txt)",
+      "Bash(grep -n \"^Physical Media$\\\\|^Form$\\\\|^Power$\\\\|^Failures of Protocol$\\\\|^Hacking$\\\\|^Tactical Media$\\\\|^Internet Art$\\\\|^Conclusion$\\\\|^Institutionalization$\\\\|^Protocol Futures$\" /tmp/galloway.txt)",
+      "Bash(python3 -c ' *)"
     ],
     "additionalDirectories": [
       "/Users/Gabri/Desktop/claude/working_environment/Doc-extraction/.claude",
