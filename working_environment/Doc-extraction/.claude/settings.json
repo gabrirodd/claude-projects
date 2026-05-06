@@ -22,12 +22,15 @@
       "Bash(grep -n \"^Introduction$\\\\|^1\\\\b\\\\|^2\\\\b\\\\|^3\\\\b\\\\|^4\\\\b\\\\|^5\\\\b\\\\|^6\\\\b\\\\|^7\\\\b\\\\|Worm\\\\|Protocol\\\\.\\\\|protocol\\\\.\\\\|Physical Media\\\\|Form\\\\b\\\\|Power\\\\b\\\\|Failures\\\\|Hacking\\\\|Tactical\\\\|Internet Art\\\\|Conclusion\\\\b\" /tmp/galloway.txt)",
       "Bash(grep -n \"^Physical Media$\\\\|^Form$\\\\|^Power$\\\\|^Failures of Protocol$\\\\|^Hacking$\\\\|^Tactical Media$\\\\|^Internet Art$\\\\|^Conclusion$\\\\|^Institutionalization$\\\\|^Protocol Futures$\" /tmp/galloway.txt)",
       "Bash(python3 -c ' *)",
-      "Bash(mdls -name kMDItemNumberOfPages -name kMDItemTitle -name kMDItemAuthors /Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs/outtt.pdf /Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs/tt.pdf)"
+      "Bash(mdls -name kMDItemNumberOfPages -name kMDItemTitle -name kMDItemAuthors /Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs/outtt.pdf /Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs/tt.pdf)",
+      "Read(//Users/Gabri/.claude/projects/-Users-Gabri-Desktop-claude/memory/**)",
+      "Read(//Users/Gabri/.claude/projects/**)"
     ],
     "additionalDirectories": [
       "/Users/Gabri/Desktop/claude/working_environment/Doc-extraction/.claude",
       "/Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico",
-      "/tmp"
+      "/tmp",
+      "/Users/Gabri/.claude/projects/-Users-Gabri-Desktop-claude-working-environment-Doc-extraction"
     ]
   }
 }
