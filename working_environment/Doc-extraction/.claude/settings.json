@@ -24,7 +24,8 @@
       "Bash(python3 -c ' *)",
       "Bash(mdls -name kMDItemNumberOfPages -name kMDItemTitle -name kMDItemAuthors /Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs/outtt.pdf /Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs/tt.pdf)",
       "Read(//Users/Gabri/.claude/projects/-Users-Gabri-Desktop-claude/memory/**)",
-      "Read(//Users/Gabri/.claude/projects/**)"
+      "Read(//Users/Gabri/.claude/projects/**)",
+      "Bash(pdftotext -l 2 /Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs/__TRACKED_VAR__ -)"
     ],
     "additionalDirectories": [
       "/Users/Gabri/Desktop/claude/working_environment/Doc-extraction/.claude",

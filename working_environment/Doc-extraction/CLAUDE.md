@@ -93,7 +93,7 @@ All PDFs are in `/Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs`.
 4. Identify the document's structure (table of contents, section headings, chapter breaks). If the document has a TOC, use it as the spine of the extraction.
 5. Decide which sections to retain and which are accessory. When in doubt, retain.
 6. Write the extraction following the principles above.
-7. Save to `extractions/AuthorYear-short-title.md` (see Output conventions).
+7. Save to `/Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/AuthorYear-short-title.md` (see Output conventions).
 
 ### Verification before finishing
 - Re-check that no section uses bullet-point lists where the source uses prose.
@@ -105,7 +105,7 @@ All PDFs are in `/Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs`.
 
 ## Output conventions
 
-- Save extractions to `extractions/AuthorYear-short-title.md`.
+- Save extractions to `/Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/AuthorYear-short-title.md`.
   - `AuthorYear` = first author's surname + 4-digit year (e.g. `Foucault1975`).
   - `short-title` = 3–6 lowercase hyphenated words from the original title, in the original language.
   - Example: `Foucault1975-surveiller-et-punir.md`, `Haraway1985-cyborg-manifesto.md`.
@@ -142,6 +142,6 @@ All PDFs are in `/Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs`.
 - Not a note-taking system with the user's own annotations — those are added by the user later, separately.
 
 ## Repository layout
-- `extractions/` — output destination, one `.md` per document.
-- `/Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs` — source PDFs (external, not in this repo).
+- `/Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/` — output destination, one `.md` per document (flat, no subfolder).
+- `/Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs/` — source PDFs.
 - `.claude/settings.json` — tool permissions.
