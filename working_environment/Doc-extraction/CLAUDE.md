@@ -5,7 +5,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with th
 # Doc-extraction — literal information extraction from academic documents
 
 ## Purpose
-Extract relevant information from academic papers and books stored in Zotero into a per-document `.md` file that can be read **before** the source as a faithful map of its arguments, concepts, and ideas.
+Extract relevant information from academic papers and books stored as PDFs in `/Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs` into a per-document `.md` file that can be read **before** the source as a faithful map of its arguments, concepts, and ideas.
 
 The output is **not a summary**. It is a literal extraction that mirrors the document's own structure and wording. The user reads it to know what is in the document before opening the document itself.
 
@@ -69,19 +69,31 @@ Do **not** capture:
 
 ## Workflow
 
+### PDF source directory
+All PDFs are in `/Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs`.
+
 ### At session start
-1. Confirm Zotero is running locally.
-2. Ask which Zotero collection to scope to.
-3. Call `mcp__zotero__zotero_search_collections` to confirm the collection key.
-4. Ask whether to process one item, several specified items, or the whole collection.
+1. List the available PDFs (`ls /Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs`).
+2. Ask whether to process one file, several specified files, or all files in the directory.
 
 ### For each document
-1. Get the item metadata (`mcp__zotero__zotero_get_item_metadata`) to capture author, year, title, language.
-2. Get the full text (`mcp__zotero__zotero_get_item_fulltext`). For long documents the result may need to be read in chunks — do so until the entire text has been examined.
-3. Identify the document's structure (table of contents, section headings, chapter breaks). If the document has a TOC, use it as the spine of the extraction.
-4. Decide which sections to retain and which are accessory. When in doubt, retain.
-5. Write the extraction following the principles above.
-6. Save to `extractions/AuthorYear-short-title.md` (see Output conventions).
+1. Derive author, year, title, and language from the filename and/or the document's own front matter.
+2. Extract the full text with `pdftotext`:
+   ```
+   pdftotext -layout "/path/to/file.pdf" -
+   ```
+3. **For files larger than ~30 MB**, split first with `qpdf` or `pdftk`, then extract each chunk:
+   ```
+   # split into 50-page chunks
+   qpdf --split-pages=50 input.pdf /tmp/chunk-%d.pdf
+   # extract text from each chunk
+   for f in /tmp/chunk-*.pdf; do pdftotext -layout "$f" -; done
+   ```
+   Process chunks sequentially and combine the extracted text before writing the extraction.
+4. Identify the document's structure (table of contents, section headings, chapter breaks). If the document has a TOC, use it as the spine of the extraction.
+5. Decide which sections to retain and which are accessory. When in doubt, retain.
+6. Write the extraction following the principles above.
+7. Save to `extractions/AuthorYear-short-title.md` (see Output conventions).
 
 ### Verification before finishing
 - Re-check that no section uses bullet-point lists where the source uses prose.
@@ -131,5 +143,5 @@ Do **not** capture:
 
 ## Repository layout
 - `extractions/` — output destination, one `.md` per document.
-- `.mcp.json` — Zotero MCP configuration.
-- `.claude/settings.json` — permissions for Zotero read tools.
+- `/Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs` — source PDFs (external, not in this repo).
+- `.claude/settings.json` — tool permissions.
