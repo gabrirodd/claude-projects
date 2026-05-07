@@ -50,7 +50,13 @@
       "Bash(pdftotext -l 3 \"/Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs/978-1-137-59837-0.pdf\" -)",
       "Bash(pdftotext -l 2 \"/Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs/The Transversality of New Materialism.pdf\" -)",
       "Bash(pdftotext -layout \"/Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs/Barad2007-meeting-universe-halfway.pdf\" -)",
-      "Bash(grep -n \"^F I V E$\\\\|^  F I V E$\\\\|^    F I V E$\\\\|Getting Real: Techn\" /tmp/barad2007.txt)"
+      "Bash(grep -n \"^F I V E$\\\\|^  F I V E$\\\\|^    F I V E$\\\\|Getting Real: Techn\" /tmp/barad2007.txt)",
+      "Bash(pdftotext -layout \"/Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs/978-1-137-59837-0.pdf\" /tmp/beetz2016.txt)",
+      "Bash(pdftotext -layout \"/Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs/wendy-hui-kyong-chun-programmed-visions-software-and-memory.pdf\" /tmp/chun2011.txt)",
+      "Bash(grep -n \"^Conclusion: In Medias Res\\\\|^Epilogue: In Medias Race\\\\|Conclusion$\\\\|In Medias Res$\\\\|In Medias Race$\" /tmp/chun2011.txt)",
+      "Bash(pdftotext -layout \"/Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs/galloway_protocol.pdf\" /tmp/galloway2004.txt)",
+      "Bash(pdftotext -layout \"/Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs/latourewoolgar_1986_laboratory-life-e28093-the-construction-of-scientific-facts_book.pdf\" /tmp/latour1986.txt)",
+      "Bash(grep -n \"^[0-9]*\\\\s*$\\\\|Chapter\\\\|CHAPTER\\\\|Introduction\\\\|Preface\\\\|Contents\\\\|1\\\\.\\\\|2\\\\.\\\\|3\\\\.\\\\|4\\\\.\\\\|5\\\\.\" /tmp/latour1986.txt)"
     ],
     "additionalDirectories": [
       "/Users/Gabri/Desktop/claude/working_environment/Doc-extraction/.claude",
