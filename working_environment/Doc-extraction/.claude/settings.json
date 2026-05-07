@@ -25,7 +25,14 @@
       "Bash(mdls -name kMDItemNumberOfPages -name kMDItemTitle -name kMDItemAuthors /Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs/outtt.pdf /Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs/tt.pdf)",
       "Read(//Users/Gabri/.claude/projects/-Users-Gabri-Desktop-claude/memory/**)",
       "Read(//Users/Gabri/.claude/projects/**)",
-      "Bash(pdftotext -l 2 /Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs/__TRACKED_VAR__ -)"
+      "Bash(pdftotext -l 2 /Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs/__TRACKED_VAR__ -)",
+      "Bash(pdfinfo /Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs/__TRACKED_VAR__)",
+      "Bash(pdftotext -layout \"/Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs/latourewoolgar_1986_laboratory-life-e28093-the-construction-of-scientific-facts_book.pdf\" -)",
+      "Bash(pdftotext -layout \"/Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs/Butler_Judith_Bodies_That_Matter_On_the_Discursive_Limits_of_Sex_1993.pdf\" -)",
+      "Bash(pdftotext -layout \"/Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs/Haraway_Donna_J_Simians_Cyborgs_and_Women_The_Reinvention_of_Nature.pdf\" /tmp/haraway1991.txt)",
+      "Bash(grep -n \"^Animal Sociology\\\\|^The Past Is the Contested\\\\|^The Biological Enterprise\\\\|^In the Beginning Was\\\\|^The Contest for Primate\\\\|^Reading Buchi\\\\|^'Gender' for a Marxist\\\\|^A Cyborg Manifesto\\\\|^Situated Knowledges\\\\|^Introduction\\\\|^Acknowledgem\\\\|^Preface\\\\|^ *Introduction$\\\\| *Preface$\\\\|^The Biopolitics\\\\|^Biopolitics\" /tmp/haraway1991.txt)",
+      "Bash(grep -n \"^                                                                                      Part One\\\\|^                                                                                      Part Two\\\\|^                                                                                      Part Three\\\\|^                                                                                      Chapter\\\\|^  Part One\\\\|^  Part Two\\\\|^  Part Three\\\\|^ *1 *$\\\\|^  Chapter 1\\\\b\\\\|^  Chapter 2\\\\b\\\\|^  Chapter 3\\\\b\\\\|^  Chapter 4\\\\b\" /tmp/haraway1991.txt)",
+      "Bash(grep -n \"Chapter One$\\\\|Chapter Two$\\\\|Chapter Three$\\\\|Chapter Four$\\\\|Chapter Five$\\\\|Chapter Six$\\\\|Chapter Seven$\\\\|Chapter Eight$\\\\|Chapter Nine$\\\\|Chapter Ten$\" /tmp/haraway1991.txt)"
     ],
     "additionalDirectories": [
       "/Users/Gabri/Desktop/claude/working_environment/Doc-extraction/.claude",
