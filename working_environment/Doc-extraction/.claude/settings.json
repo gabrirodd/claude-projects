@@ -32,7 +32,18 @@
       "Bash(pdftotext -layout \"/Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs/Haraway_Donna_J_Simians_Cyborgs_and_Women_The_Reinvention_of_Nature.pdf\" /tmp/haraway1991.txt)",
       "Bash(grep -n \"^Animal Sociology\\\\|^The Past Is the Contested\\\\|^The Biological Enterprise\\\\|^In the Beginning Was\\\\|^The Contest for Primate\\\\|^Reading Buchi\\\\|^'Gender' for a Marxist\\\\|^A Cyborg Manifesto\\\\|^Situated Knowledges\\\\|^Introduction\\\\|^Acknowledgem\\\\|^Preface\\\\|^ *Introduction$\\\\| *Preface$\\\\|^The Biopolitics\\\\|^Biopolitics\" /tmp/haraway1991.txt)",
       "Bash(grep -n \"^                                                                                      Part One\\\\|^                                                                                      Part Two\\\\|^                                                                                      Part Three\\\\|^                                                                                      Chapter\\\\|^  Part One\\\\|^  Part Two\\\\|^  Part Three\\\\|^ *1 *$\\\\|^  Chapter 1\\\\b\\\\|^  Chapter 2\\\\b\\\\|^  Chapter 3\\\\b\\\\|^  Chapter 4\\\\b\" /tmp/haraway1991.txt)",
-      "Bash(grep -n \"Chapter One$\\\\|Chapter Two$\\\\|Chapter Three$\\\\|Chapter Four$\\\\|Chapter Five$\\\\|Chapter Six$\\\\|Chapter Seven$\\\\|Chapter Eight$\\\\|Chapter Nine$\\\\|Chapter Ten$\" /tmp/haraway1991.txt)"
+      "Bash(grep -n \"Chapter One$\\\\|Chapter Two$\\\\|Chapter Three$\\\\|Chapter Four$\\\\|Chapter Five$\\\\|Chapter Six$\\\\|Chapter Seven$\\\\|Chapter Eight$\\\\|Chapter Nine$\\\\|Chapter Ten$\" /tmp/haraway1991.txt)",
+      "Bash(pdftotext -layout \"/Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs/c93615e4-haraway.-staying-with-the-trouble_-making-kin-in-the-chthulucene.pdf\" /tmp/haraway2016.txt)",
+      "Bash(pdftotext -layout \"/Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs/Law2019MaterialSemiotics.pdf\" /tmp/law2019.txt)",
+      "Bash(pdftotext -layout \"/Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs/meeting-the-universe-halfway.pdf\" /tmp/barad2007.txt)",
+      "Bash(grep -n \"^\\\\s*ONE\\\\s*$\\\\|^\\\\s*T W O\\\\s*$\\\\|DIFFRACTIONS.*DIFFERENCES\\\\|Diffractions.*Difference\\\\|^   ONE\\\\b\\\\|Meeting the Universe Halfway$\\\\|^Niels Bohr\" /tmp/barad2007.txt)",
+      "Bash(grep -n \"^   ON E$\\\\|^   ONE$\\\\|^                                      ON E$\\\\|^                                      ONE$\\\\|^        ONE$\\\\|^      ONE\\\\b\\\\|^     ONE\\\\b\" /tmp/barad2007.txt)",
+      "Bash(grep -n \"ON E$\\\\|T W O$\\\\|T H R E E$\\\\|F O U R$\\\\|F I V E$\\\\|S I X$\\\\|S E V E N$\\\\|E I G H T$\\\\|C O D A$\" /tmp/barad2007.txt)",
+      "Bash(grep -n \" T W O$\\\\| THREE$\\\\| T H R\\\\| FOUR$\\\\| F O U\\\\| FIVE$\\\\| SIX$\\\\| SEVEN$\\\\| EIGHT$\\\\| CODA$\" /tmp/barad2007.txt)",
+      "Bash(grep -n \"^                                             T W O$\\\\|T W O\\\\b$\\\\|^       TWO$\\\\|^ *TWO$\" /tmp/barad2007.txt)",
+      "Bash(grep -n \"^      THREE$\\\\|^ *T H R E E$\\\\|THREE$\" /tmp/barad2007.txt)",
+      "Bash(pdftotext -layout \"/Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs/2924797.pdf\" /tmp/callon2021.txt)",
+      "Bash(grep -n \"^               Introduction: The Enigma\\\\|^               From Interface\\\\|^               The Process of Making\\\\|^               Agencies and Their\\\\|^               Organizing Market\\\\|^               Affectio Mercatus\\\\|^               Price Formulation\\\\|^               How Do Market\\\\|^               The Role of\\\\|INTRODUCTION: THE ENIGMA OF THE MARKET$\\\\|Introduction: The Enigma of the Market\" /tmp/callon2021.txt)"
     ],
     "additionalDirectories": [
       "/Users/Gabri/Desktop/claude/working_environment/Doc-extraction/.claude",
