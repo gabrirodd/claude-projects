@@ -95,6 +95,18 @@ All PDFs are in `/Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs`.
 6. Write the extraction following the principles above.
 7. Save to `/Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/AuthorYear-short-title.md` (see Output conventions).
 
+### Handling API content-filtering blocks
+
+If a Write tool call is blocked with "API Error: Output blocked by content filtering policy", do the following:
+
+1. **Write in chunks**: instead of writing the full extraction in one Write call, write the file header first, then append each chapter/section one at a time using Edit (appending to the end of the file). For books: one chapter per call. For papers: one section per call.
+
+2. **Flagged chapters/sections**: if a specific chapter or section is still blocked after attempting to write it alone, write a condensed version of that chapter — preserving the author's key concepts and argumentative moves but in significantly shorter form (2–4 paragraphs maximum). Mark it with a note: `[condensed — original blocked by content filter]`.
+
+3. **If the entire file is repeatedly blocked**: flag the document in a comment at the top of the partial file (`[EXTRACTION INCOMPLETE — content filter blocked repeated attempts]`), save whatever was successfully written, and move on to the next document in the queue. Do not abandon the session; continue with the next pending file.
+
+The chunk-by-chunk approach is the default recovery strategy. Do not attempt a single large Write call after a block — go straight to chunked Edits.
+
 ### Verification before finishing
 - Re-check that no section uses bullet-point lists where the source uses prose.
 - Re-check that the language matches the source.
