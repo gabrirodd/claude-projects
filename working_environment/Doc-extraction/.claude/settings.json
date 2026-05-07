@@ -43,7 +43,12 @@
       "Bash(grep -n \"^                                             T W O$\\\\|T W O\\\\b$\\\\|^       TWO$\\\\|^ *TWO$\" /tmp/barad2007.txt)",
       "Bash(grep -n \"^      THREE$\\\\|^ *T H R E E$\\\\|THREE$\" /tmp/barad2007.txt)",
       "Bash(pdftotext -layout \"/Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs/2924797.pdf\" /tmp/callon2021.txt)",
-      "Bash(grep -n \"^               Introduction: The Enigma\\\\|^               From Interface\\\\|^               The Process of Making\\\\|^               Agencies and Their\\\\|^               Organizing Market\\\\|^               Affectio Mercatus\\\\|^               Price Formulation\\\\|^               How Do Market\\\\|^               The Role of\\\\|INTRODUCTION: THE ENIGMA OF THE MARKET$\\\\|Introduction: The Enigma of the Market\" /tmp/callon2021.txt)"
+      "Bash(grep -n \"^               Introduction: The Enigma\\\\|^               From Interface\\\\|^               The Process of Making\\\\|^               Agencies and Their\\\\|^               Organizing Market\\\\|^               Affectio Mercatus\\\\|^               Price Formulation\\\\|^               How Do Market\\\\|^               The Role of\\\\|INTRODUCTION: THE ENIGMA OF THE MARKET$\\\\|Introduction: The Enigma of the Market\" /tmp/callon2021.txt)",
+      "Bash(pdftotext -l 3 \"/Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs/outtt.pdf\" -)",
+      "Bash(pdftotext -l 3 \"/Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs/tt.pdf\" -)",
+      "Bash(pdftotext -l 3 \"/Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs/2159676X.2018.1428678.pdf\" -)",
+      "Bash(pdftotext -l 3 \"/Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs/978-1-137-59837-0.pdf\" -)",
+      "Bash(pdftotext -l 2 \"/Users/Gabri/Desktop/FilPol/NRx_Tlon/Material-semiótico/pdfs/The Transversality of New Materialism.pdf\" -)"
     ],
     "additionalDirectories": [
       "/Users/Gabri/Desktop/claude/working_environment/Doc-extraction/.claude",
